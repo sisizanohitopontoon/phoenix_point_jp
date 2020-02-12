@@ -1,7 +1,7 @@
 # 
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2020-02-12 15:39+0000\n"
+"PO-Revision-Date: 2020-02-12 15:44+0000\n"
 "Last-Translator: sisizanohito <sisizanohito@gmail.com>\n"
 "Language: ja\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
@@ -161,63 +161,63 @@ msgstr "兵士 - 雇用済みの兵数 / 居住区収容可能数"
 
 msgctxt "PH_Localization/KEY_VEHICLES_COUNT_TT"
 msgid "VEHICLES - owned / limit from available vehicle bays"
-msgstr ""
+msgstr "車両 - 所持数 / 利用可能な格納庫による最大所持数"
 
 msgctxt "PH_Localization/KEY_AIRCRAFT_COUNT_TT"
 msgid "AIRCRAFT - owned / limit from available vehicle bays"
-msgstr ""
+msgstr "航空機 - 現在所持数 / 利用可能な格納庫による最大所持数"
 
 msgctxt "PH_Localization/KEY_CONTAINED_ALIENS_COUNT_TT"
 msgid "Captured Pandorans - used space / capacity of all alien containment facilities"
-msgstr ""
+msgstr "捕獲したパンドラン - 使用スペース / 全エイリアン格納施設の最大格納スペース"
 
 msgctxt "PH_Localization/KEY_STORES_CAPACITY_TT"
 msgid "Stores - used space / capacity of all stores facilities"
-msgstr ""
+msgstr "倉庫 - 使用済みスペース / 全倉庫施設の最大格納スペース"
 
 msgctxt "PH_Localization/KEY_PRODUCTION_TOTAL_TT"
 msgid "Production capacity in all bases - for manufacturing equipment, armor and vehicles"
-msgstr ""
+msgstr "全基地の生産能力。 装備やアーマー、車両を生産する。"
 
 msgctxt "PH_Localization/KEY_RESEARCH_TOTAL_TT"
 msgid "Research labs in all bases - build more to decrease research time"
-msgstr ""
+msgstr "全基地の研究ラボ - 研究時間を短縮する為さらなる建造を"
 
 msgctxt "PH_Localization/KEY_TIME_MODULE_PLAY_TT"
 msgid "Start/Stop time"
-msgstr ""
+msgstr "スタート/時間停止"
 
 msgctxt "PH_Localization/KEY_TIME_MODULE_INCREASE_TT"
 msgid "Speed up time"
-msgstr ""
+msgstr "時間加速"
 
 msgctxt "PH_Localization/KEY_TIME_MODULE_DECREASE_TT"
 msgid "Slow down time"
-msgstr ""
+msgstr "時間減速"
 
 msgctxt "PH_Localization/KEY_VEHICLES_MODULE_PREV_TT"
 msgid "Previous aircraft"
-msgstr ""
+msgstr "前の航空機"
 
 msgctxt "PH_Localization/KEY_VEHICLES_MODULE_NEXT_TT"
 msgid "Next aircraft"
-msgstr ""
+msgstr "次の航空機"
 
 msgctxt "PH_Localization/KEY_VEHICLES_MODULE_SOLDIERS_TT"
 msgid "Soldiers on board"
-msgstr ""
+msgstr "搭乗中の兵士"
 
 msgctxt "PH_Localization/KEY_ROSTER_TAB_SOLDIERS_TT"
 msgid "Soldiers"
-msgstr ""
+msgstr "兵士"
 
 msgctxt "PH_Localization/KEY_ROSTER_TAB_VEHICLES_TT"
 msgid "Ground vehicles"
-msgstr ""
+msgstr "地上車両"
 
 msgctxt "PH_Localization/KEY_ROSTER_TAB_ALIENS_TT"
 msgid "Captured Pandorans"
-msgstr ""
+msgstr "捕獲したパンドラン"
 
 msgctxt "PH_Localization/KEY_ROSTER_LOCATION_AIRCRAFT_TT"
 msgid "Soldier is assigned to an aircraft"
@@ -233,119 +233,119 @@ msgstr ""
 
 msgctxt "PH_Localization/KEY_ACTOR_CYCLE_PREV_TT"
 msgid "Previous soldier"
-msgstr ""
+msgstr "前の兵士"
 
 msgctxt "PH_Localization/KEY_ACTOR_CYCLE_NEXT_TT"
 msgid "Next soldier"
-msgstr ""
+msgstr "次の兵士"
 
 msgctxt "PH_Localization/KEY_MANUFACTURE_TOGGLE_CLASS_TT"
 msgid "Toggle class filter on/off"
-msgstr ""
+msgstr "クラスフィルターのオン/オフ切り替え"
 
 msgctxt "PH_Localization/KEY_MANUFACTURE_TAB_EQUIPMENT_TT"
 msgid "Manufacture equipment"
-msgstr ""
+msgstr "装備製造"
 
 msgctxt "PH_Localization/KEY_MANUFACTURE_TAB_ARMOUR_TT"
 msgid "Manufacture armor"
-msgstr ""
+msgstr "アーマー製造"
 
 msgctxt "PH_Localization/KEY_MANUFACTURE_TAB_VEHICLES_TT"
 msgid "Manufacture vehicles"
-msgstr ""
+msgstr "車両製造"
 
 msgctxt "PH_Localization/KEY_MANUFACTURE_ADD_BUTTON_TT"
 msgid "Manufacture this item"
-msgstr ""
+msgstr "このアイテムを製造する"
 
 msgctxt "PH_Localization/KEY_MANUFACTURE_REMOVE_BUTTON_TT"
 msgid "Remove item from queue"
-msgstr ""
+msgstr "キューからアイテムを削除"
 
 msgctxt "PH_Localization/KEY_EQUIPMENT_BODY_TT"
 msgid "Items in soldier's backpack"
-msgstr ""
+msgstr "兵士のバックパック内にあるアイテム"
 
 msgctxt "PH_Localization/KEY_EQUIPMENT_READY_TT"
 msgid "Equipped items"
-msgstr ""
+msgstr "装備したアイテム"
 
 msgctxt "PH_Localization/KEY_EQUIPMENT_ARMOUR_TT"
 msgid "Equipped armour"
-msgstr ""
+msgstr "装備したアーマー"
 
 msgctxt "PH_Localization/KEY_TRAINING_SUBSTRACT_POINTS_BUTTON_TT"
 msgid "Substract Skill Points"
-msgstr ""
+msgstr "スキルポイントを差し引く"
 
 msgctxt "PH_Localization/KEY_TRAINING_ADD_POINTS_BUTTON_TT"
 msgid "Add Skill Points"
-msgstr ""
+msgstr "スキルポイントを投入"
 
 msgctxt "PH_Localization/KEY_TRAINING_SOLDIER_LEVEL_TT"
 msgid "Required soldier level"
-msgstr ""
+msgstr "必要兵士レベル"
 
 msgctxt "PH_Localization/KEY_DIPLOMACY_LEADER_NAME_TT"
 msgid "Leader name"
-msgstr ""
+msgstr "リーダー名"
 
 msgctxt "PH_Localization/KEY_DIPLOMACY_POPULATION_TT"
 msgid "Total population of all faction havens"
-msgstr ""
+msgstr "全ての派閥所属ヘイヴンの総人口"
 
 msgctxt "PH_Localization/KEY_DIPLOMACY_HAVENS_COUNT_TT"
 msgid "Number of havens controlled by this faction"
-msgstr ""
+msgstr "この派閥に管理されているヘイヴンの数"
 
 msgctxt "PH_Localization/KEY_HAVEN_MIST_STATUS_TT"
 msgid "Increased starvation rate and high risk of Pandoran attack"
-msgstr ""
+msgstr "飢餓率の増加及びパンドラン襲撃の高い危険性"
 
 msgctxt "PH_Localization/KEY_HAVEN_RECRUIT_BUTTON_TT"
 msgid "Recruit this soldier"
-msgstr ""
+msgstr "この兵士を雇用"
 
 msgctxt "PH_Localization/KEY_HAVEN_TRADE_BUTTON_TT"
 msgid "Trade for the selected resource"
-msgstr ""
+msgstr "選択した資源をトレード"
 
 msgctxt "PH_Localization/KEY_HAVEN_START_MISSION_TT"
 msgid "Start the mission in this haven"
-msgstr ""
+msgstr "このヘイヴンでミッションを開始する"
 
 msgctxt "PH_Localization/KEY_RESEARCH_TAB_PHOENIX_TT"
 msgid "Phoenix point research"
-msgstr ""
+msgstr "フェニックスポイント リサーチ"
 
 msgctxt "PH_Localization/KEY_RESEARCH_TAB_NEWJERICHO_TT"
 msgid "New Jericho research"
-msgstr ""
+msgstr "ニュージェリコ リサーチ"
 
 msgctxt "PH_Localization/KEY_RESEARCH_TAB_SYNEDRION_TT"
 msgid "Synedrion research"
-msgstr ""
+msgstr "シネドリオン リサーチ"
 
 msgctxt "PH_Localization/KEY_RESEARCH_TAB_ANU_TT"
 msgid "Deciples of Anu research"
-msgstr ""
+msgstr "ディサイプルズ・オブ・アヌ リサーチ"
 
 msgctxt "PH_Localization/KEY_RESEARCH_BUTTON_TT"
 msgid "Start this research"
-msgstr ""
+msgstr "この研究を開始"
 
 msgctxt "PH_Localization/KEY_RESEARCH_CANCEL_BUTTON_TT"
 msgid "Cancel this research"
-msgstr ""
+msgstr "この研究をキャンセル"
 
 msgctxt "PH_Localization/KEY_RESEARCH_INPROGRESS_TT"
 msgid "Research in progress"
-msgstr ""
+msgstr "進行中の研究"
 
 msgctxt "PH_Localization/KEY_DEPLOYMENT_CHECKBOX_TT"
 msgid "Select this soldier for deployment"
-msgstr ""
+msgstr "配置部隊にこの兵士を選択"
 
 msgctxt "PH_Localization/KEY_YES"
 msgid "YES"
@@ -369,203 +369,203 @@ msgstr ""
 
 msgctxt "Abilities/KEY_ACID_RESISTANCE_DESCRIPTION"
 msgid "Reduces effect of Acid Damage by half"
-msgstr ""
+msgstr "酸ダメージの効果を半分に減少させる"
 
 msgctxt "Abilities/KEY_ACID_RESISTANCE_NAME"
 msgid "ACID RESISTANT"
-msgstr ""
+msgstr "酸耐性"
 
 msgctxt "Abilities/KEY_ARMOUR_BREAK_DESCRIPTION"
 msgid "The next attack deals 50 additional Shred Damage"
-msgstr ""
+msgstr "次に行う攻撃が追加で50の破砕ダメージを与える"
 
 msgctxt "Abilities/KEY_ARMOUR_BREAK_NAME"
 msgid "ARMOR BREAK"
-msgstr ""
+msgstr "アーマーブレイク"
 
 msgctxt "Abilities/KEY_ASSAULT_PROFICIENCY_DESCRIPTION"
 msgid "Proficiency with assault rifles and shotguns."
-msgstr ""
+msgstr "アサルトライフルおよびショットガン技能。"
 
 msgctxt "Abilities/KEY_ASSAULT_PROFICIENCY_NAME"
 msgid "ASSAULT TRAINING"
-msgstr ""
+msgstr "アサルトトレーニング"
 
 msgctxt "Abilities/KEY_ASSAULT_RIFLES_TALENT_DESCRIPTION"
 msgid "Proficiency with Assault Rifles at +10% Accuracy"
-msgstr ""
+msgstr "+10%の命中精度を持つアサルトライフル技能"
 
 msgctxt "Abilities/KEY_ASSAULT_RIFLES_TALENT_NAME"
 msgid "ASSAULT RIFLE PROFICIENCY"
-msgstr ""
+msgstr "アサルトライフル技能"
 
 msgctxt "Abilities/KEY_BERSERKER_TRAINING_DESCRIPTION"
 msgid "Proficiency with melee weapons and handguns"
-msgstr ""
+msgstr "近接武器およびハンドガン技能"
 
 msgctxt "Abilities/KEY_BERSERKER_TRAINING_NAME"
 msgid "BERSERKER TRAINING"
-msgstr ""
+msgstr "バーサーカートレーニング"
 
 msgctxt "Abilities/KEY_BLOODLUST_DESCRIPTION"
 msgid "Damage and Speed are increased proportional to the health lost (up to +50%)"
-msgstr ""
+msgstr "失ったヘルスに比例してダメージとスピードが上昇する(最大で+50%)"
 
 msgctxt "Abilities/KEY_BLOODLUST_NAME"
 msgid "BLOODLUST"
-msgstr ""
+msgstr "ブラッドラスト"
 
 msgctxt "Abilities/KEY_BODY_SLAM_DESCRIPTION"
 msgid "Charge at enemy, dealing damage based on weight carried. The Action Cost is increased based on the distance to the target."
-msgstr ""
+msgstr "敵に体当たりし、所持重量に基づくダメージを与える。ターゲットに対する距離次第でAPコストは増加する。"
 
 msgctxt "Abilities/KEY_BODY_SLAM_NAME"
 msgid "BODY SLAM"
-msgstr ""
+msgstr "ボディスラム"
 
 msgctxt "Abilities/KEY_ADRENALINE_RUSH_DESCRIPTION"
 msgid "All abilities cost a maximum of 1 Action Point until the end of the turn with 50% accuracy penalty, but you cannot do anything that costs Will Points[LF]"
-msgstr ""
+msgstr "ターン終了まで全てのアビリティのAPコストが1になり、-50％の命中精度ペナルティを負う。ただしその間、WPを消費するアビリティは使用できない。"
 
 msgctxt "Abilities/KEY_ADRENALINE_RUSH_NAME"
 msgid "ADRENALINE RUSH"
-msgstr ""
+msgstr "アドレナリンラッシュ"
 
 msgctxt "Abilities/KEY_DEADLY_DUO_DESCRIPTION"
 msgid "Take two shots with double accuracy."
-msgstr ""
+msgstr "2倍の命中率で2発撃つ。"
 
 msgctxt "Abilities/KEY_DEADLY_DUO_NAME"
 msgid "DEADLY DUO"
-msgstr ""
+msgstr "デッドリー・デュオ"
 
 msgctxt "Abilities/KEY_DECOY_DESCRIPTION"
 msgid "Deploy holographic decoy at the chosen location. The decoy is treated as a real target by all enemies."
-msgstr ""
+msgstr "選択した場所にホログラム式のデコイを展開する。デコイは全ての敵から本物のターゲットとして扱われる。"
 
 msgctxt "Abilities/KEY_DECOY_NAME"
 msgid "DEPLOY DECOY"
-msgstr ""
+msgstr "デコイ展開"
 
 msgctxt "Abilities/KEY_DEPLOY_SHIELD_DESCRIPTION"
 msgid "Deploy a shield in a given direction"
-msgstr ""
+msgstr "指定した方向にシールドを展開する"
 
 msgctxt "Abilities/KEY_DEPLOY_SHIELD_NAME"
 msgid "DEPLOY SHIELD"
-msgstr ""
+msgstr "シールド展開"
 
 msgctxt "Abilities/KEY_DEPLOY_SPIDER_DESCRIPTION"
 msgid "Deploy Spider Drone that autoexplores the area. The Drone automatically advances towards any enemy it detects and explodes when in range."
-msgstr ""
+msgstr "エリアを自動探索するスパイダードローンを展開する。ドローンは探知した敵に対し自動で向かっていき、範囲内に到達すると爆発する。"
 
 msgctxt "Abilities/KEY_DEPLOY_SPIDER_NAME"
 msgid "DEPLOY SPIDER DRONE"
-msgstr ""
+msgstr "スパイダードローン展開"
 
 msgctxt "Abilities/KEY_DEPLOY_SPIDER_PACK_DESCRIPTION"
 msgid "Deploy 3 Spider Drones with one action"
-msgstr ""
+msgstr "1アクションで3体のスパイダードローンを展開"
 
 msgctxt "Abilities/KEY_DEPLOY_SPIDER_PACK_NAME"
 msgid "SPIDER DRONE PACK"
-msgstr ""
+msgstr "スパイダードローン・パック"
 
 msgctxt "Abilities/KEY_DEPLOY_TURRET_DESCRIPTION"
 msgid "Deploy a static turret in an adjacent space"
-msgstr ""
+msgstr "隣接するスペースに固定式タレットを配置する"
 
 msgctxt "Abilities/KEY_DEPLOY_TURRET_NAME"
 msgid "DEPLOY TURRET"
-msgstr ""
+msgstr "タレット展開"
 
 msgctxt "Abilities/KEY_DROP_ITEM_DESCRIPTION"
 msgid "Drop this item on the ground"
-msgstr ""
+msgstr "このアイテムを地面に落とす"
 
 msgctxt "Abilities/KEY_DROP_ITEM_NAME"
 msgid "DROP"
-msgstr ""
+msgstr "ドロップ"
 
 msgctxt "Abilities/KEY_EAGLE_EYE_DESCRIPTION"
 msgid "Perception range is doubled"
-msgstr ""
+msgstr "知覚範囲が2倍になる"
 
 msgctxt "Abilities/KEY_EAGLE_EYE_NAME"
 msgid "EAGLE EYE"
-msgstr ""
+msgstr "イーグルアイ"
 
 msgctxt "Abilities/KEY_EAGLE_EYED_DESCRIPTION"
 msgid "Additional +25% to Perception"
-msgstr ""
+msgstr "知覚力+25%"
 
 msgctxt "Abilities/KEY_EAGLE_EYED_NAME"
 msgid "EAGLE EYED"
-msgstr ""
+msgstr "イーグルアイ化"
 
 msgctxt "Abilities/KEY_ELECTRIC_STRIKE_DESCRIPTION"
 msgid "Dazes target if shock value is greater than target's Hit Points"
-msgstr ""
+msgstr "与えたショック値がターゲットのヒットポイントより多ければ、放心状態にさせる"
 
 msgctxt "Abilities/KEY_ELECTRIC_STRIKE_NAME"
 msgid "ELECTRIC STRIKE"
-msgstr ""
+msgstr "エレクトリック・ストライク"
 
 msgctxt "Abilities/KEY_END_TURN"
 msgid "END TURN"
-msgstr ""
+msgstr "ターン終了"
 
 msgctxt "Abilities/KEY_END_TURN_DESCRIPTION"
 msgid "End turn for this character only"
-msgstr ""
+msgstr "このキャラクターのみターンを終了"
 
 msgctxt "Abilities/KEY_END_TURN_NAME"
 msgid "END TURN"
-msgstr ""
+msgstr "ターン終了"
 
 msgctxt "Abilities/KEY_ENTER_VEHICLE_DESCRIPTION"
 msgid "Enter the vehicle"
-msgstr ""
+msgstr "車両に乗り込む"
 
 msgctxt "Abilities/KEY_ENTER_VEHICLE_NAME"
 msgid "ENTER VEHICLE"
-msgstr ""
+msgstr "乗車"
 
 msgctxt "Abilities/KEY_EVACUATE_DESCRIPTION"
 msgid "Evacuate character or vehicle safely from the battlefield"
-msgstr ""
+msgstr "キャラクターまたは車両を戦場から安全に退避させる"
 
 msgctxt "Abilities/KEY_EVACUATE_NAME"
 msgid "EVACUATE"
-msgstr ""
+msgstr "退避"
 
 msgctxt "Abilities/KEY_EXERTION_DESCRIPTION"
 msgid "Move to a target position within 75% of the normal movement range"
-msgstr ""
+msgstr "通常移動範囲の75％以内にある目標位置に移動する"
 
 msgctxt "Abilities/KEY_EXERTION_NAME"
 msgid "DASH"
-msgstr ""
+msgstr "ダッシュ"
 
 msgctxt "Abilities/KEY_EXIT_VEHICLE_DESCRIPTION"
 msgid "Exit the vehicle"
-msgstr ""
+msgstr "車両を降りる"
 
 msgctxt "Abilities/KEY_EXIT_VEHICLE_NAME"
 msgid "EXIT VEHICLE"
-msgstr ""
+msgstr "降車"
 
 msgctxt "Abilities/KEY_EXPERT_HEALER_DESCRIPTION"
 msgid "Restore +50% additional Hit Points when healing"
-msgstr ""
+msgstr "回復時、さらに+ 50％のヒットポイントを回復する"
 
 msgctxt "Abilities/KEY_EXPERT_HEALER_NAME"
 msgid "EXPERT HEALER"
-msgstr ""
+msgstr "エキスパート・ヒーラー"
 
 msgctxt "Abilities/KEY_EXPERT_HEAVY_WEAPONS_DESCRIPTION"
 msgid "Additional +20% Damage when using Heavy weapons"
-msgstr ""
+msgstr "ヘビーウェポン使用時のダメージ+20%"
 
 msgctxt "Abilities/KEY_EXPERT_HEAVY_WEAPONS_NAME"
 msgid "EXPERT HEAVY WEAPONS"
@@ -573,15 +573,15 @@ msgstr ""
 
 msgctxt "Abilities/KEY_EXPERT_LIGHT_WEAPONS_DESCRIPTION"
 msgid "Additional +20% Damage when using Rifles and Handguns"
-msgstr ""
+msgstr "ライフルや拳銃を使用時のダメージ+20%"
 
 msgctxt "Abilities/KEY_EXPERT_LIGHT_WEAPONS_NAME"
 msgid "EXPERT RIFLES AND HANDGUNS"
-msgstr ""
+msgstr "エキスパート・ライフル＆ハンドガン"
 
 msgctxt "Abilities/KEY_EXPERT_MELEE_DESCRIPTION"
 msgid "Additional +25% Damage when using Melee weapons"
-msgstr ""
+msgstr "近接武器使用時のダメージ+25%"
 
 msgctxt "Abilities/KEY_EXPERT_MELEE_NAME"
 msgid "EXPERT MELEE"
@@ -589,91 +589,91 @@ msgstr ""
 
 msgctxt "Abilities/KEY_EXPERT_MOUNTED_WEAPONS_DESCRIPTION"
 msgid "Additional +20% range when using Mounted weapons"
-msgstr ""
+msgstr "マウント式ウェポン使用時の射程+20％"
 
 msgctxt "Abilities/KEY_EXPERT_MOUNTED_WEAPONS_NAME"
 msgid "EXPERT MOUNTED WEAPONS"
-msgstr ""
+msgstr "エキスパート・マウンテッドウェポン"
 
 msgctxt "Abilities/KEY_EXPERT_PACKER_DESCRIPTION"
 msgid "Carry +25% maximum weight"
-msgstr ""
+msgstr "最大積載可能量+25%"
 
 msgctxt "Abilities/KEY_EXPERT_PACKER_NAME"
 msgid "EXPERT PACKER"
-msgstr ""
+msgstr "エキスパート・パッカー"
 
 msgctxt "Abilities/KEY_EXPERT_RUNNER_DESCRIPTION"
 msgid "Additional +2 Speed"
-msgstr ""
+msgstr "スピード+2"
 
 msgctxt "Abilities/KEY_EXPERT_RUNNER_NAME"
 msgid "EXPERT RUNNER"
-msgstr ""
+msgstr "エキスパート・ランナー"
 
 msgctxt "Abilities/KEY_EXPERT_SHOOTER_DESCRIPTION"
 msgid "Shoot with +20% Accuracy"
-msgstr ""
+msgstr "射撃の命中精度+20%"
 
 msgctxt "Abilities/KEY_EXPERT_SHOOTER_NAME"
 msgid "EXPERT SHOOTER"
-msgstr ""
+msgstr "エキスパート・シューター"
 
 msgctxt "Abilities/KEY_EXPERT_THROWER_DESCRIPTION"
 msgid "Throw at +50% distance"
-msgstr ""
+msgstr "投擲距離+50%"
 
 msgctxt "Abilities/KEY_EXPERT_THROWER_NAME"
 msgid "EXPERT THROWER"
-msgstr ""
+msgstr "エキスパート・スローアー"
 
 msgctxt "Abilities/KEY_FIRE_FLAME_DESCRIPTION"
 msgid "Shoot a stream of fire in a cone area"
-msgstr ""
+msgstr "コーン状の範囲に炎の嵐を撃ちだす"
 
 msgctxt "Abilities/KEY_FIRE_FLAME_NAME"
 msgid "SPRAY FIRE"
-msgstr ""
+msgstr "スプレー・ファイア"
 
 msgctxt "Abilities/KEY_FIRE_IMMUNITY_DESCRIPTION"
 msgid "Immune to all Fire Damage"
-msgstr ""
+msgstr "火炎ダメージに対して無敵"
 
 msgctxt "Abilities/KEY_FIRE_IMMUNITY_NAME"
 msgid "IMMUNE TO FIRE"
-msgstr ""
+msgstr "火炎無効"
 
 msgctxt "Abilities/KEY_FIRE_RESISTANCE_DESCRIPTION"
 msgid "Reduces effect of Fire Damage by half"
-msgstr ""
+msgstr "火炎ダメージの効果半減"
 
 msgctxt "Abilities/KEY_FIRE_RESISTANCE_NAME"
 msgid "FIRE RESISTANT"
-msgstr ""
+msgstr "火炎耐性"
 
 msgctxt "Abilities/KEY_FIRE_VULNERABILITY_DESCRIPTION"
 msgid "Double effect of Fire Damage"
-msgstr ""
+msgstr "火炎ダメージの効果2倍"
 
 msgctxt "Abilities/KEY_FIRE_VULNERABILITY_NAME"
 msgid "VULNERABLE TO FIRE"
-msgstr ""
+msgstr "火に弱い"
 
 msgctxt "Abilities/KEY_FIRE_WEAPON_DESCRIPTION"
 msgid "Shoot at target enemy or target point"
-msgstr ""
+msgstr "ターゲットした敵または地点に向かって撃つ"
 
 msgctxt "Abilities/KEY_FIRE_WEAPON_NAME"
 msgid "FIRE WEAPON"
-msgstr ""
+msgstr "射撃"
 
 msgctxt "Abilities/KEY_GOO_IMMUNITY_DESCRIPTION"
 msgid "Goo does not trap or restrict movement"
-msgstr ""
+msgstr "粘液にとらわれず移動を制限されない"
 
 msgctxt "Abilities/KEY_GOO_IMMUNITY_NAME"
 msgid "IMMUNE TO GOO"
-msgstr ""
+msgstr "粘液無効"
 
 msgctxt "Abilities/KEY_GRENADE_SPAM_DESCRIPTION"
 msgid "Throw grenades at a 50% greater distance and for no Action Points until the end of the turn"
