@@ -1,8 +1,8 @@
 # 
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2020-02-11 15:31+0000\n"
-"Last-Translator: higema <ltdhyndsh@yahoo.co.jp>\n"
+"PO-Revision-Date: 2020-02-12 15:39+0000\n"
+"Last-Translator: sisizanohito <sisizanohito@gmail.com>\n"
 "Language: ja\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 "X-Generator: Pontoon\n"
@@ -53,7 +53,7 @@ msgstr ""
 
 msgctxt "PH_Localization/KEY_HEALTH"
 msgid "HEALTH"
-msgstr ""
+msgstr "ヘルス"
 
 msgctxt "PH_Localization/KEY_HIT_POINTS"
 msgid "Hit Points:"
@@ -61,11 +61,11 @@ msgstr "Hit Points:"
 
 msgctxt "PH_Localization/KEY_INSUFFICIENT_AMMO"
 msgid "Insufficient ammuntion to replenish squad"
-msgstr ""
+msgstr "小隊へ補充する弾薬不十分"
 
 msgctxt "PH_Localization/KEY_INVENTORY_ACTIONCOST_NONE"
 msgid "No Action Point cost"
-msgstr ""
+msgstr "アクション ポイントコストなし"
 
 msgctxt "PH_Localization/KEY_INVENTORY_ACTIONCOST_STANDARD"
 msgid "Cost: 1 Action Point"
@@ -81,7 +81,7 @@ msgstr "#MASTER"
 
 msgctxt "PH_Localization/KEY_NEW_GAME"
 msgid "NEW GAME"
-msgstr ""
+msgstr "ニューゲーム"
 
 msgctxt "PH_Localization/KEY_PREPARING_DESCRIPTION"
 msgid "#PREPARING"
@@ -97,7 +97,7 @@ msgstr ""
 
 msgctxt "PH_Localization/KEY_STAT_STORAGE"
 msgid "STORAGE {used}/{total}"
-msgstr ""
+msgstr "倉庫{used}/{total}"
 
 msgctxt "PH_Localization/KEY_TURRET_GUN_DESCRIPTION"
 msgid "#Automated attack turret"
@@ -109,11 +109,11 @@ msgstr ""
 
 msgctxt "PH_Localization/KEY_VEHICLES_NAME"
 msgid "VEHICLES"
-msgstr ""
+msgstr "車両"
 
 msgctxt "PH_Localization/KEY_WILLPOWER"
 msgid "WILLPOWER:"
-msgstr ""
+msgstr "ウィルパワー:"
 
 msgctxt "PH_Localization/KEY_X_OF_Y"
 msgid "{0}/{1}"
@@ -121,43 +121,43 @@ msgstr ""
 
 msgctxt "PH_Localization/KEY_MISSION_TECH"
 msgid "Tech"
-msgstr ""
+msgstr "テック"
 
 msgctxt "PH_Localization/KEY_MISSION_MATERIAL"
 msgid "Materials"
-msgstr ""
+msgstr "マテリアル"
 
 msgctxt "PH_Localization/KEY_MISSION_PROVISIONS"
 msgid "Food"
-msgstr ""
+msgstr "食料"
 
 msgctxt "PH_Localization/KEY_TECH_RESOURCE_TT"
 msgid "TECH - Resource for building high-tech items"
-msgstr ""
+msgstr "TECH - ハイテク製品を作り上げるための資源"
 
 msgctxt "PH_Localization/KEY_MATERIAL_RESOURCE_TT"
 msgid "MATERIALS - Resource for general construction"
-msgstr ""
+msgstr "MATERIALS - 一般的な建設のための資源"
 
 msgctxt "PH_Localization/KEY_FOOD_RESOURCE_TT"
 msgid "FOOD - Resource for feeding and hiring soldiers"
-msgstr ""
+msgstr "食料 - 兵士を養い雇用するための資源"
 
 msgctxt "PH_Localization/KEY_OPTIONS_BUTTON_TT"
 msgid "Options"
-msgstr ""
+msgstr "オプション"
 
 msgctxt "PH_Localization/KEY_MUTAGENS_RESOURCE_TT"
 msgid "MUTAGENS - Resource for generating mutations"
-msgstr ""
+msgstr "ミュータジェン - 変異を起こすための資源"
 
 msgctxt "PH_Localization/KEY_PX_BASES_COUNT_TT"
 msgid "Phoenix bases"
-msgstr ""
+msgstr "フェニックス基地"
 
 msgctxt "PH_Localization/KEY_SOLDIERS_COUNT_TT"
 msgid "SOLDIERS - recruited / living quarters capacity"
-msgstr ""
+msgstr "兵士 - 雇用済みの兵数 / 居住区収容可能数"
 
 msgctxt "PH_Localization/KEY_VEHICLES_COUNT_TT"
 msgid "VEHICLES - owned / limit from available vehicle bays"
