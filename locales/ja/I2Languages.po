@@ -1,8 +1,8 @@
 # 
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2020-02-12 15:49+0000\n"
-"Last-Translator: sisizanohito <sisizanohito@gmail.com>\n"
+"PO-Revision-Date: 2020-02-12 15:47+0000\n"
+"Last-Translator: higema <ltdhyndsh@yahoo.co.jp>\n"
 "Language: ja\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 "X-Generator: Pontoon\n"
@@ -869,19 +869,19 @@ msgstr "近接武器技能"
 
 msgctxt "Abilities/KEY_MIND_CONTROL_DESCRIPTION"
 msgid "Gain control of an enemy with WP cost equal to enemy's current WPs. Costs 1-10 WPs per turn to maintain, depending on target type."
-msgstr ""
+msgstr "敵の現在WPと同値ぶんのWPを消費して、その敵をコントロール下に置く。ターゲットのタイプにより、コントロールの維持コストは1から10の範囲になる。"
 
 msgctxt "Abilities/KEY_MIND_CONTROL_NAME"
 msgid "MIND CONTROL"
-msgstr ""
+msgstr "マインドコントロール"
 
 msgctxt "Abilities/KEY_MIND_CONTROL_RELEASE_DESCRIPTION"
 msgid "Release target from mind control"
-msgstr ""
+msgstr "ターゲットをマインドコントロールから解放する"
 
 msgctxt "Abilities/KEY_MIND_CONTROL_RELEASE_NAME"
 msgid "RELEASE"
-msgstr ""
+msgstr "リリース"
 
 msgctxt "Abilities/KEY_MIST_BREATHER_DESCRIPTION"
 msgid "Consume all mist within a 3 tile radius. Each 2 mist tiles consumed restores 1 Will Point."
@@ -893,11 +893,11 @@ msgstr ""
 
 msgctxt "Abilities/KEY_MOUNTED_WEAPONS_TALENT_DESCRIPTION"
 msgid "Proficiency with Mounted Weapons at +10% Accuracy"
-msgstr ""
+msgstr "+10%の命中精度を持つマウント式ウェポン技能"
 
 msgctxt "Abilities/KEY_MOUNTED_WEAPONS_TALENT_NAME"
 msgid "MOUNTED WEAPON PROFICIENCY"
-msgstr ""
+msgstr "マウント式ウェポン技能"
 
 msgctxt "Abilities/KEY_MOVE_NAME"
 msgid "MOVE"
