@@ -1,7 +1,7 @@
 # 
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2020-02-15 05:57+0000\n"
+"PO-Revision-Date: 2020-02-15 13:33+0000\n"
 "Last-Translator: higema <ltdhyndsh@yahoo.co.jp>\n"
 "Language: ja\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
@@ -2093,447 +2093,447 @@ msgstr "グレネードの投擲範囲に50％のボーナスが付き、スピ�
 
 msgctxt "Abilities/KEY_RECKLESS_PERSONALTRACK_NAME"
 msgid "RECKLESS"
-msgstr ""
+msgstr "レックレス"
 
 msgctxt "Abilities/KEY_RECKLESS_PERSONALTRACK_DESC"
 msgid "30% bonus damage dealt and -20% accuracy"
-msgstr ""
+msgstr "与えるダメージに30％のボーナスが付くが、命中精度が-20％される"
 
 msgctxt "Abilities/KEY_RESOURCEFULL_PERSONALTRACK_NAME"
 msgid "RESOURCEFUL"
-msgstr ""
+msgstr "リソースフル"
 
 msgctxt "Abilities/KEY_RESOURCEFULL_PERSONALTRACK_DESC"
 msgid "25% bonus carry weight and +2 Strength"
-msgstr ""
+msgstr "所持可能重量に25％のボーナスが付き、ストレングスが+2される"
 
 msgctxt "Abilities/KEY_SELFDEFENSESPECIALIST_PERSONALTRACK_NAME"
 msgid "SELF DEFENSE SPECIALIST"
-msgstr ""
+msgstr "セルフディフェンス・スペシャリスト"
 
 msgctxt "Abilities/KEY_SELFDEFENSESPECIALIST_PERSONALTRACK_DESC"
 msgid "Gain PDW and Handgun proficiency with +20% damage dealt and +10 hearing range"
-msgstr ""
+msgstr "PDW及びハンドガン技能を獲得。該当武器で与えるダメージ+20%、聴覚範囲+10"
 
 msgctxt "Abilities/KEY_STRONGMAN_PERSONALTRACK_NAME"
 msgid "STRONGMAN"
-msgstr ""
+msgstr "ストロングマン"
 
 msgctxt "Abilities/KEY_STRONGMAN_PERSONALTRACK_DESC"
 msgid "Gain Heavy Weapons proficiency with +30% bonus damage and -10 perception"
-msgstr ""
+msgstr "ヘビーウェポン技能を獲得。該当武器で与えるダメージ+20%、知覚力-10"
 
 msgctxt "Abilities/KEY_THIEF_PERSONALTRACK_NAME"
 msgid "THIEF"
-msgstr ""
+msgstr "シーフ"
 
 msgctxt "Abilities/KEY_THIEF_PERSONALTRACK_DESC"
 msgid "25% bonus stealth and -2 Speed"
-msgstr ""
+msgstr "ステルスに25％のボーナスが付き、スピードが-2される"
 
 msgctxt "Abilities/KEY_REGENERATION_TORSO_NAME"
 msgid "REGENERATE"
-msgstr ""
+msgstr "リジェネレート"
 
 msgctxt "Abilities/KEY_REGENERATION_TORSO_DESCRIPTION"
 msgid "Restore 10 Hit Points to all injured body parts and General Hit Points each turn"
-msgstr ""
+msgstr "全ての部位ヒットポイント及び全体ヒットポイントがターン毎に10回復する"
 
 msgctxt "Abilities/KEY_SPIDER_EXPLODE_NAME"
 msgid "DETONATE"
-msgstr ""
+msgstr "爆発"
 
 msgctxt "Abilities/KEY_SPIDER_EXPLODE_DESCRIPTION"
 msgid "Self destruct explosion"
-msgstr ""
+msgstr "自爆する"
 
 msgctxt "Abilities/KEY_DEATH_BELCH_NAME"
 msgid "DEATH BELCH"
-msgstr ""
+msgstr "デス・ベルチ"
 
 msgctxt "Abilities/KEY_DEATH_BELCH_DESCRIPTION"
 msgid "Spawn multiple small creatures on death"
-msgstr ""
+msgstr "死亡時、複数の小型生物を生みだす"
 
 msgctxt "Abilities/KEY_LAUNCH_MIST_BOMB_NAME"
 msgid "LAUNCH MIST BOMB"
-msgstr ""
+msgstr "ミストボム迫撃"
 
 msgctxt "Abilities/KEY_LAUNCH_MIST_BOMB_DESCRIPTION"
 msgid "Launch a bomb that explodes in a cloud of mist on impact"
-msgstr ""
+msgstr "着弾時にミストの雲を吹き出す爆弾を射出する"
 
 msgctxt "Abilities/KEY_QUEEN_PREPARE_CANNON_NAME"
 msgid "PREPARE CANNONS"
-msgstr ""
+msgstr "キャノン用意"
 
 msgctxt "Abilities/KEY_QUEEN_PREPARE_CANNON_DESCRIPTION"
 msgid "Prepare to fire cannons in forward direction"
-msgstr ""
+msgstr "前方にキャノンを発射する構えをとる"
 
 msgctxt "Abilities/KEY_QUEEN_FIRE_CANNONS_NAME"
 msgid "FIRE BLASTER CANNONS"
-msgstr ""
+msgstr "ブラスターキャノン発射"
 
 msgctxt "Abilities/KEY_QUEEN_FIRE_CANNONS_DESCRIPTION"
 msgid "Fire cannons in a forward direction"
-msgstr ""
+msgstr "前方にキャノンを発射する"
 
 msgctxt "Abilities/KEY_QUEEN_LEAP_NAME"
 msgid "MONSTER LEAP"
-msgstr ""
+msgstr "モンスターリープ"
 
 msgctxt "Abilities/KEY_QUEEN_LEAP_DESCRIPTION"
 msgid "Leap to target location, destroying everything along the path"
-msgstr ""
+msgstr "途中にあるもの全てを破壊しながら目標位置に跳躍する"
 
 msgctxt "Damage types/KEY_DAMAGE_TYPE_ACID"
 msgid "ACID"
-msgstr ""
+msgstr "酸"
 
 msgctxt "Damage types/KEY_DAMAGE_TYPE_ACID_DESC"
 msgid "ACID damage sticks to body parts - each turn it does 10 damage - first to armor, then body. Acid level reduces by 10 each turn."
-msgstr ""
+msgstr "酸ダメージは部位に付着し、ターン毎に10ダメージを及ぼす -初めはアーマーに、その後は肉体に。酸レベルはターン毎に10減少する。"
 
 msgctxt "Damage types/KEY_DAMAGE_TYPE_IMPACT"
 msgid "IMPACT"
-msgstr ""
+msgstr "インパクト"
 
 msgctxt "Damage types/KEY_DAMAGE_TYPE_IMPACT_DESC"
 msgid "IMPACT damage reduces HPs and shocks if damage > 20% Strength"
-msgstr ""
+msgstr "インパクトダメージはHPsを減少させ、ダメージがストレングスの20％を上回った場合ショックさせる"
 
 msgctxt "Damage types/KEY_DAMAGE_TYPE_BLAST"
 msgid "BLAST"
-msgstr ""
+msgstr "爆破"
 
 msgctxt "Damage types/KEY_DAMAGE_TYPE_BLAST_DESC"
 msgid "BLAST damage affects all body parts caught within the blast radius"
-msgstr ""
+msgstr "爆破ダメージは、爆破範囲内に入った部位全てに効果を及ぼす"
 
 msgctxt "Damage types/KEY_DAMAGE_TYPE_ELECTROSHOCK"
 msgid "SHOCK"
-msgstr ""
+msgstr "ショック"
 
 msgctxt "Damage types/KEY_DAMAGE_TYPE_ELECTROSHOCK_DESC"
 msgid "SHOCK - if damage value > target's current Hit Points then target is dazed"
-msgstr ""
+msgstr "ショック - ターゲットの現在ヒットポイントをショックダメージ値が上回った場合、ターゲットは放心状態になる"
 
 msgctxt "Damage types/KEY_DAMAGE_TYPE_FIRE"
 msgid "FIRE"
-msgstr ""
+msgstr "火災"
 
 msgctxt "Damage types/KEY_DAMAGE_TYPE_FIRE_DESC"
 msgid "FIRE damage is applied to each body part (max 40), minus armor protection."
-msgstr ""
+msgstr "火炎ダメージは全ての部位に適用され(最大40)、アーマー値が差し引かれる"
 
 msgctxt "Damage types/KEY_DAMAGE_TYPE_MIST"
 msgid "MIST"
-msgstr ""
+msgstr "ミスト"
 
 msgctxt "Damage types/KEY_DAMAGE_TYPE_MIST_DESC"
 msgid "MIST doesn't block line of fire for Pandorans - non-Pandorans are spotted in mist"
-msgstr ""
+msgstr "ミストはパンドランの射線を遮らず、パンドランでない者がミストに入ると発見される"
 
 msgctxt "Damage types/KEY_DAMAGE_TYPE_PARALYSIS"
 msgid "PARALYSIS"
-msgstr ""
+msgstr "半麻痺"
 
 msgctxt "Damage types/KEY_DAMAGE_TYPE_PARALYSIS_DESC"
 msgid "PARALYSIS - if target takes any damage, the paralysis value is added, reducing Action Points proportionate to target's Strength"
-msgstr ""
+msgstr "半麻痺 - ターゲットが何らかのダメージを受けて麻痺値が加えられると、ターゲットのストレングスに応じてアクションポイントが減少する"
 
 msgctxt "Damage types/KEY_DAMAGE_TYPE_PIERCING"
 msgid "PIERCING"
-msgstr ""
+msgstr "貫通"
 
 msgctxt "Damage types/KEY_DAMAGE_TYPE_PIERCING_DESC"
 msgid "PIERCING value ignores armor when damage is applied"
-msgstr ""
+msgstr "ダメージが適用された際に、貫通値分のアーマーが無視される"
 
 msgctxt "Damage types/KEY_DAMAGE_TYPE_POISON"
 msgid "POISON"
-msgstr ""
+msgstr "毒"
 
 msgctxt "Damage types/KEY_DAMAGE_TYPE_POISON_DESC"
 msgid "POISON value is added to target if it takes any damage. At start of turn poison is subtracted from Hit Points, then poison value is reduced by 10"
-msgstr ""
+msgstr "ターゲットが何らかのダメージを受けると毒値が加えられる。ターン開始時にヒットポイントから毒値ぶんが差し引かれ、その後毒値は10減少する"
 
 msgctxt "Damage types/KEY_DAMAGE_TYPE_PROJECTILE"
 msgid "PROJECTILE"
-msgstr ""
+msgstr "弾丸"
 
 msgctxt "Damage types/KEY_DAMAGE_TYPE_PROJECTILE_DESC"
 msgid "PROJECTILE damage is reduced by armor, then subtracted from Hit Points"
-msgstr ""
+msgstr "弾丸ダメージはアーマーによって減衰し、その後ヒットポイントから差し引かれる"
 
 msgctxt "Damage types/KEY_DAMAGE_TYPE_SHRED"
 msgid "SHRED"
-msgstr ""
+msgstr "破砕"
 
 msgctxt "Damage types/KEY_DAMAGE_TYPE_SHRED_DESC"
 msgid "SHRED value destroys this amount of armor, applied after damage"
-msgstr ""
+msgstr "破砕値は、ダメージが適用された後にその値ぶんのアーマーを破壊する"
 
 msgctxt "Damage types/KEY_DAMAGE_TYPE_SLASH"
 msgid "SLASH"
-msgstr ""
+msgstr "切断"
 
 msgctxt "Damage types/KEY_DAMAGE_TYPE_SLASH_DESC"
 msgid "SLASH damage is reduced by armor, then applied to Hit Points. Any damage causes bleeding."
-msgstr ""
+msgstr "切断ダメージはアーマーによって減衰し、その後ヒットポイントに適用される。少しでもダメージを与えれば出血を引き起こす。"
 
 msgctxt "Damage types/KEY_DAMAGE_TYPE_STUN"
 msgid "SHOCK"
-msgstr ""
+msgstr "ショック"
 
 msgctxt "Damage types/KEY_DAMAGE_TYPE_STUN_DESC"
 msgid "SHOCK - if damage value > target's current Hit Points then target is dazed"
-msgstr ""
+msgstr "ショック - ショックダメージ値がターゲットの現在ヒットポイントを上回った場合、ターゲットは放心状態になる"
 
 msgctxt "Damage types/KEY_DAMAGE_TYPE_VIROPHAGE"
 msgid "VIROPHAGE"
-msgstr ""
+msgstr "バイロファージ"
 
 msgctxt "Damage types/KEY_DAMAGE_TYPE_VIROPHAGE_DESC"
 msgid "VIROPHAGE value is added to standard damage for Pandorans and mutated targets only"
-msgstr ""
+msgstr "バイロファージ値は、パンドランと変異したターゲットに対してのみ通常ダメージを加算する"
 
 msgctxt "Damage types/KEY_DAMAGE_TYPE_VIRUS"
 msgid "VIRUS"
-msgstr ""
+msgstr "ウイルス"
 
 msgctxt "Damage types/KEY_DAMAGE_TYPE_VIRUS_DESC"
 msgid "VIRUS value is added to target if it takes any damage. At start of turn virus is subtracted from Will Points, then virus value is reduced by 1"
-msgstr ""
+msgstr "ターゲットが何らかのダメージを受けた場合、ウィルス値が追加で与えられる。ターン開始時にウィルポイントからウィルス値が差し引かれ、その後ウィルス値は1減少する"
 
 msgctxt "Damage types/KEY_DAMAGE_TYPE_GOO"
 msgid "GOO"
-msgstr ""
+msgstr "粘液"
 
 msgctxt "Damage types/KEY_DAMAGE_TYPE_GOO_DESC"
 msgid "GOO traps soldiers until it decays or goo is destroyed"
-msgstr ""
+msgstr "粘液は朽ちるか除去されるまでのあいだ、兵士を拘束する"
 
 msgctxt "Damage types/KEY_DAMAGE_TYPE_PSYCHIC"
 msgid "PSYCHIC"
-msgstr ""
+msgstr "サイキック"
 
 msgctxt "Damage types/KEY_DAMAGE_TYPE_PSYCHIC_DESC"
 msgid "PSYCHIC damage directly reduces target's Will Points"
-msgstr ""
+msgstr "サイキックダメージは直接的にターゲットのウィルポイントを減少させる"
 
 msgctxt "Damage types/KEY_DAMAGE_TYPE_VAMPIRIC"
 msgid "VAMPIRIC"
-msgstr ""
+msgstr "ヴァンピリック"
 
 msgctxt "Damage types/KEY_DAMAGE_TYPE_VAMPIRIC_DESC"
 msgid "VAMPIRIC damage reduces target's Hit Points, and restores Hit Points of attacker by same amount"
-msgstr ""
+msgstr "ヴァンピリックダメージはターゲットのヒットポイントを減少させ、それから攻撃者のヒットポイントを同じ量だけ回復させる"
 
 msgctxt "Damage types/KEY_DAMAGE_TYPE_BLEEDING"
 msgid "BLEED"
-msgstr ""
+msgstr "出血"
 
 msgctxt "Damage types/KEY_DAMAGE_TYPE_BLEEDING_DESC"
 msgid "BLEED if any damage is applied, then apply bleed value. At start of turn bleed value is subtracted from Hit Points."
-msgstr ""
+msgstr "何らかのダメージが適用された場合に出血させ、出血値を適用する。ターン開始時に出血値がヒットポイントから差し引かれる。"
 
 msgctxt "Damage types/KEY_DAMAGE_TYPE_STANDARD"
 msgid "DAMAGE"
-msgstr ""
+msgstr "ダメージ"
 
 msgctxt "Damage types/KEY_DAMAGE_TYPE_STANDARD_DESC"
 msgid "DAMAGE value is reduced by armor then applied to target's Hit Points"
-msgstr ""
+msgstr "ダメージ値はアーマーによって減衰し、、その後ターゲットのヒットポイントに適用される"
 
 msgctxt "Damage types/KEY_DAMAGE_TYPE_SONIC"
 msgid "SONIC"
-msgstr ""
+msgstr "ソニック"
 
 msgctxt "Damage types/KEY_DAMAGE_TYPE_SONIC_DESC"
 msgid "SONIC - If sonic damage > target's Will Points, target is dazed"
-msgstr ""
+msgstr "ソニック - ターゲットのウィルポイントをソニック値が上回った場合、ターゲットは放心状態になる"
 
 msgctxt "Character Status/KEY_ACID_STATUS_DESCRIPTION"
 msgid "Acid corrodes 10 armor per turn. If there is no armor, then the damage is applied to the body part. Acid value reduces by 10 per turn."
-msgstr ""
+msgstr "酸はターン毎にアーマーを10腐食する。アーマーが残っていない場合、部位HPにダメージが適用される。酸値はターン毎に10減少していく。"
 
 msgctxt "Character Status/KEY_ACID_STATUS_NAME"
 msgid "ACID"
-msgstr ""
+msgstr "酸"
 
 msgctxt "Character Status/KEY_BLEED_STATUS_DESCRIPTION"
 msgid "Each turn, lose Hit Points equal to bleed value"
-msgstr ""
+msgstr "毎ターン、出血値と同値のヒットポイントが失われる"
 
 msgctxt "Character Status/KEY_BLEED_STATUS_NAME"
 msgid "BLEEDING"
-msgstr ""
+msgstr "出血"
 
 msgctxt "Character Status/KEY_BURNING_STATUS_DESCRIPTION"
 msgid "Fire damage is applied to each body part at the start of the turn, subtracting armor."
-msgstr ""
+msgstr "ターン開始時、アーマーを差し引いた分の火炎ダメージがそれぞれの部位に適用される"
 
 msgctxt "Character Status/KEY_BURNING_STATUS_NAME"
 msgid "BURNING"
-msgstr ""
+msgstr "燃焼中"
 
 msgctxt "Character Status/KEY_FRENZY_STATUS_DESCRIPTION"
 msgid "Speed increased by 50% and immune to panic"
-msgstr ""
+msgstr "スピード50％上昇、パニック無効"
 
 msgctxt "Character Status/KEY_FRENZY_STATUS_NAME"
 msgid "FRENZIED"
-msgstr ""
+msgstr "激昂"
 
 msgctxt "Character Status/KEY_GOOED_STATUS_DESCRIPTION"
 msgid "Unable to move until Goo decays or is removed"
-msgstr ""
+msgstr "粘液が朽ちるか取り除かれるまで移動不能"
 
 msgctxt "Character Status/KEY_GOOED_STATUS_NAME"
 msgid "GOOED"
-msgstr ""
+msgstr "粘液付着"
 
 msgctxt "Character Status/KEY_INFECTED_STATUS_DESCRIPTION"
 msgid "At start of turn virus is subtracted from Will Points, then virus value is reduced by 1"
-msgstr ""
+msgstr "ターン開始時にウィルポイントからウィルス値が差し引かれ、その後ウィルス値が1減少する"
 
 msgctxt "Character Status/KEY_INFECTED_STATUS_NAME"
 msgid "INFECTED BY VIRUS"
-msgstr ""
+msgstr "ウイルス感染"
 
 msgctxt "Character Status/KEY_PANIC_STATUS_DESCRIPTION"
 msgid "Unable to move for a turn, while recovering Will Points"
-msgstr ""
+msgstr "ウィルポイントを回復している間、1ターン移動不可"
 
 msgctxt "Character Status/KEY_PANIC_STATUS_NAME"
 msgid "PANICKED"
-msgstr ""
+msgstr "パニック"
 
 msgctxt "Character Status/KEY_POISON_STATUS_DESCRIPTION"
 msgid "At start of turn poison is subtracted from Hit Points, then poison value is reduced by 10"
-msgstr ""
+msgstr "ターンの開始時にヒットポイントから毒値が差し引かれ、その後毒値は10減少する"
 
 msgctxt "Character Status/KEY_POISON_STATUS_NAME"
 msgid "POISONED"
-msgstr ""
+msgstr "毒"
 
 msgctxt "Character Status/KEY_PREPARING_STATUS_DESCRIPTION"
 msgid "Preparing to activate special ability on the next turn"
-msgstr ""
+msgstr "次ターンでのスペシャルアビリティ起動を準備中"
 
 msgctxt "Character Status/KEY_PREPARING_STATUS_NAME"
 msgid "PREPARING"
-msgstr ""
+msgstr "準備中"
 
 msgctxt "Character Status/KEY_SHIELD_DEPLOYED_STATUS_DESCRIPTION"
 msgid "The shield is placed for protection"
-msgstr ""
+msgstr "防御のためにシールドが設置されている"
 
 msgctxt "Character Status/KEY_SHIELD_DEPLOYED_STATUS_NAME"
 msgid "SHIELD DEPLOYED"
-msgstr ""
+msgstr "シールド展開"
 
 msgctxt "Character Status/KEY_BLEEDING"
 msgid "BLEEDING:"
-msgstr ""
+msgstr "出血："
 
 msgctxt "Character Status/KEY_STATUS_MUTOG_BERSERK_NAME"
 msgid "BERSERK"
-msgstr ""
+msgstr "バーサーク"
 
 msgctxt "Character Status/KEY_STATUS_MUTOG_BERSERK_DESCRIPTION"
 msgid "Mutog becomes wild, attacking friend or foe"
-msgstr ""
+msgstr "ミュートッグが野生化し、味方も敵も攻撃する"
 
 msgctxt "Character Status/KEY_STATUS_MUTOG_ENRAGED_NAME"
 msgid "ENRAGED"
-msgstr ""
+msgstr "激怒"
 
 msgctxt "Character Status/KEY_STATUS_MUTOG_ENRAGED_DESCRIPTION"
 msgid "Damage dealt and speed are increased by 50%. There's a 10% chance the Mutog will go Berserk at the start of each turn."
-msgstr ""
+msgstr "与えるダメージとスピードが50％増加する。 ターン開始時に10％の確率でミュートッグがバーサーク化する。"
 
 msgctxt "Character Status/KEY_ALERTED_STATUS_NAME"
 msgid "ALERTED!"
-msgstr ""
+msgstr "警戒!"
 
 msgctxt "Character Status/KEY_ALERTED_STATUS_DESCRIPTION"
 msgid "Enemy is aware of your presence"
-msgstr ""
+msgstr "敵はこちらの存在に気付いている"
 
 msgctxt "Character Status/KEY_TIRED_STATUS_NAME"
 msgid "TIRED"
-msgstr ""
+msgstr "疲労"
 
 msgctxt "Character Status/KEY_TIRED_STATUS_DESCRIPTION"
 msgid "-1 Action Point each turn"
-msgstr ""
+msgstr "各ターンでアクションポイント-1"
 
 msgctxt "Character Status/KEY_EXHAUSTED_STATUS_NAME"
 msgid "EXHAUSTED"
-msgstr ""
+msgstr "消耗"
 
 msgctxt "Character Status/KEY_EXHAUSTED_STATUS_DESCRIPTION"
 msgid "-2 Action Points each turn"
-msgstr ""
+msgstr "各ターンでアクションポイント-2"
 
 msgctxt "Character Status/KEY_STATUS_ACTIVATED_NAME"
 msgid "ACTIVATED"
-msgstr ""
+msgstr "アクティベート済み"
 
 msgctxt "Character Status/KEY_STATUS_ACTIVATED_DESCRIPTION"
 msgid "The device has been activated"
-msgstr ""
+msgstr "デバイスはアクティベートされている"
 
 msgctxt "Character Status/KEY_STATUS_PARALYSED_NAME"
 msgid "PARALYZED"
-msgstr ""
+msgstr "完全麻痺"
 
 msgctxt "Character Status/KEY_STATUS_PARALYSED_DESCRIPTION"
 msgid "Cannot move or perform any actions"
-msgstr ""
+msgstr "移動もいかなるアクションも行えない"
 
 msgctxt "Character Status/KEY_STATUS_PARALYSIS_NAME"
 msgid "PARALYSIS"
-msgstr ""
+msgstr "半麻痺"
 
 msgctxt "Character Status/KEY_STATUS_PARALYSIS_DESCRIPTION"
 msgid "Action Points are reduced by the proportion of paralysis value to Strength"
-msgstr ""
+msgstr "ストレングスに対する麻痺値の割合に応じてアクションポイントが減少する"
 
 msgctxt "Character Status/KEY_STATUS_DAZED"
 msgid "DAZED"
-msgstr ""
+msgstr "放心"
 
 msgctxt "Character Status/KEY_STATUS_DAZED_DESCRIPTION"
 msgid "Action Points reduced to 1 and accuracy halved"
-msgstr ""
+msgstr "アクションポイントが1に低下し、命中精度が半減する"
 
 msgctxt "Character Status/KEY_OVERWATCH_STATUS_DESCRIPTION"
 msgid "Enemies entering the overwatch cone will trigger an attack"
-msgstr ""
+msgstr "敵が監視範囲に入ると攻撃が発動する"
 
 msgctxt "Character Status/KEY_OVERWATCH_STATUS_NAME"
 msgid "OVERWATCH"
-msgstr ""
+msgstr "監視"
 
 msgctxt "Character Status/KEY_STATUS_UNDER_CONTROL_NAME"
 msgid "MIND CONTROLLED"
-msgstr ""
+msgstr "マインドコントロール下"
 
 msgctxt "Character Status/KEY_STATUS_UNDER_CONTROL_DESCRIPTION"
 msgid "Mind controlled, at a cost of WPs per turn for the controller"
-msgstr ""
+msgstr "マインドコントロール下にある。コントロール元はターン毎にWPsを消費する。"
 
 msgctxt "Character Status/KEY_STATUS_CIVILIAN_CONTROLLED_NAME"
 msgid "UNDER PHOENIX CONTROL"
-msgstr ""
+msgstr "フェニックス制御下"
 
 msgctxt "Character Status/KEY_STATUS_CIVILIAN_CONTROLLED_DESCRIPTION"
 msgid "Now under player control"
-msgstr ""
+msgstr "プレイヤーの制御下にある"
 
 msgctxt "Analytics/KEY_ANALYTICS_TITLE"
 msgid "Telemetry Information"
