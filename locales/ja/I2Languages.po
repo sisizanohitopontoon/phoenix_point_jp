@@ -1,8 +1,8 @@
 # 
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2020-02-15 17:52+0000\n"
-"Last-Translator: sisizanohito <sisizanohito@gmail.com>\n"
+"PO-Revision-Date: 2020-02-15 05:57+0000\n"
+"Last-Translator: higema <ltdhyndsh@yahoo.co.jp>\n"
 "Language: ja\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 "X-Generator: Pontoon\n"
@@ -505,7 +505,7 @@ msgstr "イーグルアイ化"
 
 msgctxt "Abilities/KEY_ELECTRIC_STRIKE_DESCRIPTION"
 msgid "Dazes target if shock value is greater than target's Hit Points"
-msgstr "与えたショック値がターゲットのヒットポイントより多ければ、放心状態にさせる"
+msgstr "与えたショック値がターゲットのヒットポイントを上回った場合、放心状態にさせる"
 
 msgctxt "Abilities/KEY_ELECTRIC_STRIKE_NAME"
 msgid "ELECTRIC STRIKE"
@@ -1461,635 +1461,635 @@ msgstr "ファイアバースト"
 
 msgctxt "Abilities/KEY_BASH_DESCRIPTION"
 msgid "Hit enemy with held item"
-msgstr ""
+msgstr "手にしたアイテムで敵を殴る"
 
 msgctxt "Abilities/KEY_BASH_NAME"
 msgid "BASH"
-msgstr ""
+msgstr "バッシュ"
 
 msgctxt "Abilities/KEY_DEVOTED_DESCRIPTION"
 msgid "Additional +2 to Willpower"
-msgstr ""
+msgstr "ウィルパワー+2"
 
 msgctxt "Abilities/KEY_DEVOTED_NAME"
 msgid "DEVOTED"
-msgstr ""
+msgstr "専心"
 
 msgctxt "Abilities/KEY_INDUCE_PANIC_DESCRIPTION"
 msgid "Cause a target to panic if its current Will Points are less than the Priest's"
-msgstr ""
+msgstr "ターゲットの現在ウィルポイントがプリーストのものより少ない場合、パニックにさせる"
 
 msgctxt "Abilities/KEY_INDUCE_PANIC_NAME"
 msgid "INDUCE PANIC"
-msgstr ""
+msgstr "インデュース・パニック"
 
 msgctxt "Abilities/KEY_MUTOG_DEVOUR_DESCRIPTION"
 msgid "On killing an enemy, restore Hit Points equal to 50% of the target's maximum Hit Points"
-msgstr ""
+msgstr "敵を倒すと、ターゲットの最大ヒットポイントの50％に等しいヒットポイントが回復する"
 
 msgctxt "Abilities/KEY_MUTOG_DEVOUR_NAME"
 msgid "DEVOUR"
-msgstr ""
+msgstr "貪食"
 
 msgctxt "Abilities/KEY_PDWS_TALENT_DESCRIPTION"
 msgid "Proficiency with PDWs at +10% Accuracy"
-msgstr ""
+msgstr "+10%の命中精度を持つPDW技能"
 
 msgctxt "Abilities/KEY_PDWS_TALENT_NAME"
 msgid "PDW PROFICIENCY"
-msgstr ""
+msgstr "PDW技術"
 
 msgctxt "Abilities/KEY_QUEEN_GOOSPITTER_DESCRIPTION"
 msgid "Spit stream of goo within a cone area"
-msgstr ""
+msgstr "コーン状の範囲に粘液流を吐き出す"
 
 msgctxt "Abilities/KEY_QUEEN_GOOSPITTER_NAME"
 msgid "GOO STREAM"
-msgstr ""
+msgstr "グー・ストリーム"
 
 msgctxt "Abilities/KEY_TAKE_TWO_SHOTS_WITH_DOUBLE_ACCURACY"
 msgid "Take two shots with double accuracy"
-msgstr ""
+msgstr "2倍の命中率で2回撃つ。"
 
 msgctxt "Abilities/KEY_TAKE_UP_TO_3_BURSTS_AT_ONE_OR_MORE_T"
 msgid "Take up to 3 bursts at one or more targets, with no action cost."
-msgstr ""
+msgstr "APコスト無しで、1体または複数のターゲット相手に最大3回のバーストを行う。"
 
 msgctxt "Abilities/KEY_CHIRON_JUMP_DESCRIPTION"
 msgid "Leap to target location"
-msgstr ""
+msgstr "目標位置に跳躍する"
 
 msgctxt "Abilities/KEY_CHIRON_JUMP_NAME"
 msgid "JUMP"
-msgstr ""
+msgstr "ジャンプ"
 
 msgctxt "Abilities/KEY_CHIRON_LAUNCH_FIREWORM_DESCRIPTION"
 msgid "Launch {NumberOfProjectilesFired} Fireworms at a target area"
-msgstr ""
+msgstr "{NumberOfProjectilesFired}体のファイアワームを目標エリアに迫撃する。"
 
 msgctxt "Abilities/KEY_CHIRON_LAUNCH_FIREWORM_NAME"
 msgid "LAUNCH FIREWORMS"
-msgstr ""
+msgstr "ファイアワーム迫撃"
 
 msgctxt "Abilities/KEY_CHIRON_LAUNCH_GOO_DESCRIPTION"
 msgid "Launch {NumberOfProjectilesFired} Goo bombs at a target area"
-msgstr ""
+msgstr "{NumberOfProjectilesFired}発の粘液ボムを目標エリアに迫撃する"
 
 msgctxt "Abilities/KEY_CHIRON_LAUNCH_GOO_NAME"
 msgid "LAUNCH GOO BOMBS"
-msgstr ""
+msgstr "粘液ボム迫撃"
 
 msgctxt "Abilities/KEY_CHIRON_LAUNCH_MORTAR_DESCRIPTION"
 msgid "Launch {NumberOfProjectilesFired} explosive bombs at a target area"
-msgstr ""
+msgstr "{NumberOfProjectilesFired}発の爆発性ボムを目標エリアに迫撃する"
 
 msgctxt "Abilities/KEY_CHIRON_LAUNCH_MORTAR_NAME"
 msgid "LAUNCH EXPLOSIVES"
-msgstr ""
+msgstr "爆発物迫撃"
 
 msgctxt "Abilities/KEY_CHIRON_STABILITY_STANCE_DESCRIPTION"
 msgid "Enter Stability Stance. Movement is disabled, and launching accuracy and projectile count are increased."
-msgstr ""
+msgstr "固定姿勢に入る。移動できなくなり、迫撃精度と発射数が増加する。"
 
 msgctxt "Abilities/KEY_CHIRON_STABILITY_STANCE_NAME"
 msgid "STABILITY STANCE"
-msgstr ""
+msgstr "固定姿勢"
 
 msgctxt "Abilities/KEY_CHIRON_STANDARD_STANCE_DESCRIPTION"
 msgid "Enter Standard Stance. Movement is allowed, and launch accurancy and quantity return to standard levels."
-msgstr ""
+msgstr "通常姿勢に入る。移動が可能になり、迫撃精度と発射数が通常レベルに戻る。"
 
 msgctxt "Abilities/KEY_CHIRON_STANDARD_STANCE_NAME"
 msgid "STANDARD STANCE"
-msgstr ""
+msgstr "通常姿勢"
 
 msgctxt "Abilities/KEY_CHIRON_STOMP_DESCRIPTION"
 msgid "Perform Stomping Attack affecting a 10 tile radius with a chance to Shock. Damage diminishes with range."
-msgstr ""
+msgstr "半径10タイルに効果を及ぼす、確率でショックを与えるストンプ攻撃を行う。ダメージは距離によって減衰する。"
 
 msgctxt "Abilities/KEY_CHIRON_STOMP_NAME"
 msgid "STOMP SHOCK ATTACK"
-msgstr ""
+msgstr "ストンプ・ショックアタック"
 
 msgctxt "Abilities/KEY_CHIRON_STRIKE_DESCRIPTION"
 msgid "Perform Melee Attack with front legs"
-msgstr ""
+msgstr "前脚での近接攻撃を行う"
 
 msgctxt "Abilities/KEY_CHIRON_STRIKE_NAME"
 msgid "SMASHING STRIKE"
-msgstr ""
+msgstr "スマッシングストライク"
 
 msgctxt "Abilities/KEY_CLOSE_QUARTERS_DESCRIPTION"
 msgid "Attacks from enemies within 10 tiles deal 25% less Damage."
-msgstr ""
+msgstr "10タイル以内の敵から受けるダメージが25％減少する。"
 
 msgctxt "Abilities/KEY_CLOSE_QUARTERS_NAME"
 msgid "CLOSE QUARTERS EVADE"
-msgstr ""
+msgstr "クローズクオーターズ・イベード"
 
 msgctxt "Abilities/KEY_SNIPER_EXTREME_FOCUS_DESCRIPTION"
 msgid "Overwatch cost is reduced by 1 Action Point"
-msgstr ""
+msgstr "監視のコストが1アクションポイントぶん減少する"
 
 msgctxt "Abilities/KEY_SNIPER_EXTREME_FOCUS_NAME"
 msgid "EXTREME FOCUS"
-msgstr ""
+msgstr "エクストリーム・フォーカス"
 
 msgctxt "Abilities/KEY_SNIPER_QUICK_AIM_DESCRIPTION"
 msgid "The Action Point cost of the next shot with a proficient weapon is reduced by 1"
-msgstr ""
+msgstr "次に行う、習熟武器での射撃アクションポイントコストが1減少する"
 
 msgctxt "Abilities/KEY_SNIPER_QUICK_AIM_NAME"
 msgid "QUICK AIM"
-msgstr ""
+msgstr "クイックエイム"
 
 msgctxt "Abilities/KEY_SNIPER_WEAK_SPOT_DESCRIPTION"
 msgid "Disabling a body part also removes that body part's armor"
-msgstr ""
+msgstr "攻撃によって部位を使用不能状態にすると、その部位のアーマーが0になる。"
 
 msgctxt "Abilities/KEY_SNIPER_WEAK_SPOT_NAME"
 msgid "WEAK SPOT"
-msgstr ""
+msgstr "ウィーク・スポット"
 
 msgctxt "Abilities/KEY_SNIPER_MARK_FOR_DEATH_DESCRIPTION"
 msgid "Mark an enemy target. Until end of turn all damage to that target is increased by 50%."
-msgstr ""
+msgstr "敵のターゲットをマークする。ターン終了時までのあいだ、そのターゲットに対する全てのダメージが50％増加する。"
 
 msgctxt "Abilities/KEY_SNIPER_MARK_FOR_DEATH_NAME"
 msgid "MARK FOR DEATH"
-msgstr ""
+msgstr "マーク・フォー・デス"
 
 msgctxt "Abilities/KEY_HEAVY_WARCRY_DESCRIPTION"
 msgid "All enemies within 10 tiles have their Action Points reduced to 2 for the next turn"
-msgstr ""
+msgstr "10タイル内にいる全ての敵のアクションポイントを2に減少させる"
 
 msgctxt "Abilities/KEY_HEAVY_WARCRY_NAME"
 msgid "WAR CRY"
-msgstr ""
+msgstr "ウォークライ"
 
 msgctxt "Abilities/KEY_HEAVY_BOOM_BLAST_DESCRIPTION"
 msgid "The Action Point cost of Grenades, and other explosive weapons, is reduced by 1 and their range is increased by 50% until the end of the turn."
-msgstr ""
+msgstr "ターン終了までの間、グレネード及びその他爆発兵器のアクションポイントコストが1減少し、さらに射程も50％延長される。"
 
 msgctxt "Abilities/KEY_HEAVY_BOOM_BLAST_NAME"
 msgid "BOOM BLAST"
-msgstr ""
+msgstr "ブームブラスト"
 
 msgctxt "Abilities/KEY_HEAVY_INSPIRE_DESCRIPTION"
 msgid "Killing an enemy grants allies 1 additional Will Point"
-msgstr ""
+msgstr "敵を倒すと、味方のウィルポイントが1回復する"
 
 msgctxt "Abilities/KEY_HEAVY_INSPIRE_NAME"
 msgid "INSPIRE"
-msgstr ""
+msgstr "インスパイア"
 
 msgctxt "Abilities/KEY_TECHNICIAN_FAST_USE_DESCRIPTION"
 msgid "The Action Point cost of Medkits, Stimpacks, and Robotic Arm abilities is reduced by 1"
-msgstr ""
+msgstr "メディキット及びスティムパック、ロボティックアームアビリティのアクションポイントコストが1減少する"
 
 msgctxt "Abilities/KEY_TECHNICIAN_FAST_USE_NAME"
 msgid "FAST USE"
-msgstr ""
+msgstr "ファスト・ユーズ"
 
 msgctxt "Abilities/KEY_TECHNICIAN_MANUAL_CONTROL_DESCRIPTION"
 msgid "Take manual control of a turret or vehicle weapon and shoot at a target"
-msgstr ""
+msgstr "タレットまたは車両武装を直接操作し、ターゲットに射撃する"
 
 msgctxt "Abilities/KEY_TECHNICIAN_MANUAL_CONTROL_NAME"
 msgid "MANUAL CONTROL"
-msgstr ""
+msgstr "マニュアルコントロール"
 
 msgctxt "Abilities/KEY_TECHNICIAN_FIELD_MEDIC_DESCRIPTION"
 msgid "Restore 10 Hit Points and 10 Armor to all body parts of the selected target. Disabled body parts are restored."
-msgstr ""
+msgstr "選択したターゲットの全部位のヒットポイント、及びアーマーを10回復する。使用不能になっていた部位は復元される。"
 
 msgctxt "Abilities/KEY_TECHNICIAN_FIELD_MEDIC_NAME"
 msgid "FIELD MEDIC"
-msgstr ""
+msgstr "フィールドメディック"
 
 msgctxt "Abilities/KEY_TECHNICIAN_REMOTE_DEPLOYMENT_DESCRIPTION"
 msgid "Turrets can be thrown and deployed for 1 Action Point"
-msgstr ""
+msgstr "1アクションポイントを用いて、タレットを投擲し展開する事ができる"
 
 msgctxt "Abilities/KEY_TECHNICIAN_REMOTE_DEPLOYMENT_NAME"
 msgid "REMOTE DEPLOYMENT"
-msgstr ""
+msgstr "リモート・デプロイメント"
 
 msgctxt "Abilities/KEY_TECHNICIAN_ELECTRICAL_REINFORCEMENT_DESCRIPTION"
 msgid "All allies gain 20 temporary Armor for 1 turn"
-msgstr ""
+msgstr "1ターンの間、一時的に全ての味方のアーマーを20上昇させる"
 
 msgctxt "Abilities/KEY_TECHNICIAN_ELECTRICAL_REINFORCEMENT_NAME"
 msgid "ELECTRIC REINFORCEMENT"
-msgstr ""
+msgstr "エレクトリック・リインフォースメント"
 
 msgctxt "Abilities/KEY_STRUCTURE_ABILITY_DESCRIPTION"
 msgid "Key structural target"
-msgstr ""
+msgstr "重要構造物ターゲット"
 
 msgctxt "Abilities/KEY_STRUCTURE_ABILITY_NAME"
 msgid "KEY STRUCTURE"
-msgstr ""
+msgstr "重要構造物"
 
 msgctxt "Abilities/KEY_TECHNICIAN_RELOAD_TURRET_DESCRIPTION"
 msgid "Reload turret. Current turret ammunition will be lost."
-msgstr ""
+msgstr "タレットをリロードする。タレットが現在抱えている弾薬は失われる。"
 
 msgctxt "Abilities/KEY_TECHNICIAN_RELOAD_TURRET_NAME"
 msgid "RELOAD TURRET"
-msgstr ""
+msgstr "タレットをリロード"
 
 msgctxt "Abilities/KEY_FISHMAN_CLASS_ABILITY_DESCRIPTION"
 msgid "Triton class"
-msgstr ""
+msgstr "トリトン・クラス"
 
 msgctxt "Abilities/KEY_FISHMAN_CLASS_ABILITY_NAME"
 msgid "TRITON CLASS"
-msgstr ""
+msgstr "トリトン・クラス"
 
 msgctxt "Abilities/KEY_FISHMAN_PARALYSE_ABILITY_DESCRIPTION"
 msgid "Perform a melee attack that deals Paralyzing Damage to target."
-msgstr ""
+msgstr "ターゲットに麻痺ダメージを与える近接攻撃を行う。"
 
 msgctxt "Abilities/KEY_FISHMAN_PARALYSE_ABILITY_NAME"
 msgid "PARALYZING STRIKE"
-msgstr ""
+msgstr "パラライジング・ストライク"
 
 msgctxt "Abilities/KEY_FISHMAN_DOUBLEPARALYSE_ABILITY_DESCRIPTION"
 msgid "Perform a melee attack that deals Paralyzing Damage to target."
-msgstr ""
+msgstr "ターゲットに麻痺ダメージを与える近接攻撃を行う。"
 
 msgctxt "Abilities/KEY_FISHMAN_DOUBLEPARALYSE_ABILITY_NAME"
 msgid "PARALYZING STRIKE"
-msgstr ""
+msgstr "パラライジング・ストライク"
 
 msgctxt "Abilities/KEY_FISHMAN_WEAPONPROFICIENCY_ABILITY_DESCRIPTION"
 msgid "Proficiency using assault weapons and sniper weapons"
-msgstr ""
+msgstr "アサルト兵装及びスナイパー兵装を用いる技能"
 
 msgctxt "Abilities/KEY_FISHMAN_WEAPONPROFICIENCY_ABILITY_NAME"
 msgid "TRITON WEAPON PROFICIENCY"
-msgstr ""
+msgstr "トリトン武器技能"
 
 msgctxt "Abilities/KEY_FISHMAN_REGENERATION_ABILITY_DESCRIPTION"
 msgid "Restore 10 HP to all body parts each turn"
-msgstr ""
+msgstr "毎ターンすべての部位が10 HPぶん回復する"
 
 msgctxt "Abilities/KEY_FISHMAN_REGENERATION_ABILITY_NAME"
 msgid "REGENERATION"
-msgstr ""
+msgstr "リジェネレーション"
 
 msgctxt "Abilities/KEY_FISHMAN_SPAWNMIST_ABILITY_DESCRIPTION"
 msgid "Emit covering mist around the creature"
-msgstr ""
+msgstr "そのクリーチャーの周囲を覆うようにミストを放出する"
 
 msgctxt "Abilities/KEY_FISHMAN_SPAWNMIST_ABILITY_NAME"
 msgid "EMIT MIST"
-msgstr ""
+msgstr "ミスト放出"
 
 msgctxt "Abilities/KEY_FISHMAN_PAINCHAMELEON_ABILITY_DESCRIPTION"
 msgid "Become invisible when dealt damage, and hide in a nearby location"
-msgstr ""
+msgstr "ダメージを受けると透明になり、付近の位置に隠れる"
 
 msgctxt "Abilities/KEY_FISHMAN_PAINCHAMELEON_ABILITY_NAME"
 msgid "PAIN CHAMELEON"
-msgstr ""
+msgstr "ペイン・カメレオン"
 
 msgctxt "Abilities/KEY_FISHMAN_SILENTECHO_ABILITY_DESCRIPTION"
 msgid "All weapon attacks are silent"
-msgstr ""
+msgstr "すべての武器攻撃が静音になる"
 
 msgctxt "Abilities/KEY_FISHMAN_SILENTECHO_ABILITY_NAME"
 msgid "SILENT ECHO"
-msgstr ""
+msgstr "サイレント・エコー"
 
 msgctxt "Abilities/KEY_FISHMAN_SENSE_LOCATE_ABILITY_DESCRIPTION"
 msgid "Enemies within 12 tiles are located"
-msgstr ""
+msgstr "12タイル以内の敵が判明する"
 
 msgctxt "Abilities/KEY_FISHMAN_SENSE_LOCATE_ABILITY_NAME"
 msgid "SENSE LOCATE"
-msgstr ""
+msgstr "センス・ロケート"
 
 msgctxt "Abilities/KEY_FISHMAN_DOUBLEPERCEPTION_DESCRIPTION"
 msgid "Character's perception range is doubled"
-msgstr ""
+msgstr "キャラクターの感知範囲が2倍になる"
 
 msgctxt "Abilities/KEY_FISHMAN_DOUBLEPERCEPTION_NAME"
 msgid "DOUBLE PERCEPTION"
-msgstr ""
+msgstr "ダブルパーセプション"
 
 msgctxt "Abilities/KEY_STANDBY_ABILITY_DESCRIPTION"
 msgid "Enter Standby Mode until further instructions"
-msgstr ""
+msgstr "さらなる指示があるまで待機モードに入る"
 
 msgctxt "Abilities/KEY_STANDBY_ABILITY_NAME"
 msgid "STANDBY"
-msgstr ""
+msgstr "待機"
 
 msgctxt "Abilities/KEY_WORM_ACID_EXPLODE_DESCRIPTION"
 msgid "Burst in a cloud of acid inflicting Acid Damage in a 3 tile radius"
-msgstr ""
+msgstr "半径3タイル内に酸ダメージを与える酸の雲を噴出する"
 
 msgctxt "Abilities/KEY_WORM_ACID_EXPLODE_NAME"
 msgid "ACID BURST"
-msgstr ""
+msgstr "アシッドバースト"
 
 msgctxt "Abilities/KEY_WORM_POISON_EXPLODE_DESCRIPTION"
 msgid "Burst in a cloud of poison inflicting Poison Damage in a 3 tile radius"
-msgstr ""
+msgstr "半径3タイル内に毒ダメージを与える毒の雲を噴出する"
 
 msgctxt "Abilities/KEY_WORM_POISON_EXPLODE_NAME"
 msgid "POISON BURST"
-msgstr ""
+msgstr "ポイズンバースト"
 
 msgctxt "Abilities/KEY_ACID_IMMUNITY_DESCRIPTION"
 msgid "Immune to the effects of Acid"
-msgstr ""
+msgstr "毒の効果の影響を受けない"
 
 msgctxt "Abilities/KEY_ACID_IMMUNITY_NAME"
 msgid "ACID IMMUNITY"
-msgstr ""
+msgstr "毒無効"
 
 msgctxt "Abilities/KEY_POISON_RESISTANCE_DESCRIPTION"
 msgid "Poison damage is reduced by half"
-msgstr ""
+msgstr "毒ダメージが半分に減る"
 
 msgctxt "Abilities/KEY_POISON_RESISTANCE_NAME"
 msgid "POISON RESISTANT"
-msgstr ""
+msgstr "毒耐性"
 
 msgctxt "Abilities/KEY_SONIC_RESISTANCE_DESCRIPTION"
 msgid "Shock or sonic damage values are halved"
-msgstr ""
+msgstr "ショックダメージとソニックダメージの値が半減する"
 
 msgctxt "Abilities/KEY_SONIC_RESISTANCE_NAME"
 msgid "DAZE RESISTANCE"
-msgstr ""
+msgstr "放心耐性"
 
 msgctxt "Abilities/KEY_PSYCHIC_IMMUNITY_DESCRIPTION"
 msgid "Immune to psychic attacks and influences"
-msgstr ""
+msgstr "サイキックによる攻撃及びその影響を受けない"
 
 msgctxt "Abilities/KEY_PSYCHIC_IMMUNITY_NAME"
 msgid "PSYCHIC IMMUNITY"
-msgstr ""
+msgstr "サイキック無効"
 
 msgctxt "Abilities/KEY_PSYCHIC_RESISTANCE_DESCRIPTION"
 msgid "Psychic damage values are halved"
-msgstr ""
+msgstr "サイキックダメージの値が半減する"
 
 msgctxt "Abilities/KEY_PSYCHIC_RESISTANCE_NAME"
 msgid "PSYCHIC RESISTANCE"
-msgstr ""
+msgstr "サイキック耐性"
 
 msgctxt "Abilities/KEY_NIGHT_VISION_ABILITY_DESCRIPTION"
 msgid "No penalty incurred for dark environments"
-msgstr ""
+msgstr "暗い環境で受けるペナルティが発生しない"
 
 msgctxt "Abilities/KEY_NIGHT_VISION_ABILITY_NAME"
 msgid "NIGHT VISION"
-msgstr ""
+msgstr "ナイトビジョン"
 
 msgctxt "Abilities/KEY_INTERACT_DESCRIPTION"
 msgid "Complete the objective at this location"
-msgstr ""
+msgstr "この場所での目的を達成する"
 
 msgctxt "Abilities/KEY_INTERACT_NAME"
 msgid "OBJECTIVE"
-msgstr ""
+msgstr "目標"
 
 msgctxt "Abilities/KEY_MOTION_DETECTION_DESCRIPTION"
 msgid "Locate all nearby enemies, even behind obstructions"
-msgstr ""
+msgstr "たとえ障害物の向こうにいようとも、近くにいる全ての敵を探知する"
 
 msgctxt "Abilities/KEY_MOTION_DETECTION_NAME"
 msgid "MOTION DETECTION"
-msgstr ""
+msgstr "動体検知"
 
 msgctxt "Abilities/KEY_PRIEST_RADIANT_HOPE_DESCRIPTION"
 msgid "Living allied units within 7 tiles recover 2 Will Points at the start of turn"
-msgstr ""
+msgstr "ターン開始時、7タイル以内にいる全ての味方生物ユニットはウィルポイントが2回復する。"
 
 msgctxt "Abilities/KEY_PRIEST_RADIANT_HOPE_NAME"
 msgid "RADIANT HOPE"
-msgstr ""
+msgstr "ラジアント・ホープ"
 
 msgctxt "Abilities/KEY_SHOOT_SPIKE_DESCRIPTION"
 msgid "Launch a poisoned spike at a target"
-msgstr ""
+msgstr "ターゲットに毒のトゲを発射する"
 
 msgctxt "Abilities/KEY_SHOOT_SPIKE_NAME"
 msgid "SHOOT SPIKE"
-msgstr ""
+msgstr "スパイク射出"
 
 msgctxt "Abilities/KEY_USE_STIMPACK_DESCRIPTION"
 msgid "Instill Frenzy on target, increasing its Action points by 1 and Will Points by 2 for 2 turns."
-msgstr ""
+msgstr "ターゲットに激昂を植え付ける。2ターンの間、そのターゲットのアクションポイントが1、ウィルポイントが2増加する。"
 
 msgctxt "Abilities/KEY_USE_STIMPACK_NAME"
 msgid "USE STIMPACK"
-msgstr ""
+msgstr "スティムパック使用"
 
 msgctxt "Abilities/KEY_USE_THROW_TURRET_DESCRIPTION"
 msgid "Throw a turred at a selected ground location. The turret will deploy automatically."
-msgstr ""
+msgstr "選択した地面の場所にタレットを投げつける。投げたタレットは自動的に設置される。"
 
 msgctxt "Abilities/KEY_USE_THROW_TURRET_NAME"
 msgid "THROW TURRET"
-msgstr ""
+msgstr "タレット投擲"
 
 msgctxt "Abilities/KEY_USE_VIROPHAGE_KIT_DESCRIPTION"
 msgid "Restore {GeneralHealAmount} Hit Points, and removes all viral infection"
-msgstr ""
+msgstr "{GeneralHealAmount}のヒットポイントを回復し、なおかつ全てのウイルス感染を取り除く"
 
 msgctxt "Abilities/KEY_USE_VIROPHAGE_KIT_NAME"
 msgid "VIROPHAGE MEDKIT"
-msgstr ""
+msgstr "バイロファージ・メディキット"
 
 msgctxt "Abilities/KEY_SPAWN_ACIDWORM_DESCRIPTION"
 msgid "Give birth to a Acidworm"
-msgstr ""
+msgstr "アシッドワームを生む"
 
 msgctxt "Abilities/KEY_SPAWN_ACIDWORM_NAME"
 msgid "SPAWN ACIDWORM"
-msgstr ""
+msgstr "スポーン・アシッドワーム"
 
 msgctxt "Abilities/KEY_SPAWN_POISONWORM_DESCRIPTION"
 msgid "Give birth to a Poisonworm"
-msgstr ""
+msgstr "ポイズンワームを生む"
 
 msgctxt "Abilities/KEY_SPAWN_POISONWORM_NAME"
 msgid "SPAWN POISONWORM"
-msgstr ""
+msgstr "スポーン・ポイズンワーム"
 
 msgctxt "Abilities/KEY_SPAWN_FIREWORM_DESCRIPTION"
 msgid "Give birth to a Fireworm"
-msgstr ""
+msgstr "ファイアワームを生む"
 
 msgctxt "Abilities/KEY_SPAWN_FIREWORM_NAME"
 msgid "SPAWN FIREWORM"
-msgstr ""
+msgstr "スポーン・ファイアワーム"
 
 msgctxt "Abilities/KEY_MIND_CONTROL_MINDFRAGGER_DESCRIPTION"
 msgid "Gain control of an enemy"
-msgstr ""
+msgstr "敵一体を支配する"
 
 msgctxt "Abilities/KEY_MIND_CONTROL_MINDFRAGGER_NAME"
 msgid "MIND CONTROL"
-msgstr ""
+msgstr "マインドコントロール"
 
 msgctxt "Abilities/KEY_SY_VEHICLE_FULL_RESTORE_DESCRIPTION"
 msgid "Fully heal and repair target"
-msgstr ""
+msgstr "ターゲットを完全に回復および修復する"
 
 msgctxt "Abilities/KEY_SY_VEHICLE_FULL_RESTORE_NAME"
 msgid "FULL RESTORE"
-msgstr ""
+msgstr "フル・レストア"
 
 msgctxt "Abilities/KEY_PSYCHIC_SCREAM_PRIEST_DESCRIPTION"
 msgid "Scream, reducing the Will Points of all enemy units in an 8 tile radius."
-msgstr ""
+msgstr "叫びをあげ、半径8タイル以内の全ての敵ユニットのウィルポイントを減少させる。"
 
 msgctxt "Abilities/KEY_SCYLLA_LEAP_NAME"
 msgid "MONSTER LEAP"
-msgstr ""
+msgstr "モンスターリープ"
 
 msgctxt "Abilities/KEY_SCYLLA_LEAP_DESC"
 msgid "Leap to a target location, destroying everything in its path"
-msgstr ""
+msgstr "その途中にあるもの全てを破壊しながら目標位置へ跳躍する。"
 
 msgctxt "Abilities/KEY_RESISTED"
 msgid "Resisted"
-msgstr ""
+msgstr "抵抗"
 
 msgctxt "Abilities/KEY_HEAVY_BRAWLER_NAME"
 msgid "BRAWLER"
-msgstr ""
+msgstr "ブローラー"
 
 msgctxt "Abilities/KEY_HEAVY_BRAWLER_DESCRIPTION"
 msgid "Bash and Melee attacks deal 50% more damage."
-msgstr ""
+msgstr "バッシュと近接攻撃で与えるダメージが50％増加する"
 
 msgctxt "Abilities/KEY_FISHMAN_DOUBLEBLADESTRIKE_ABILITY_NAME"
 msgid "UPPER ARM STRIKE"
-msgstr ""
+msgstr "アッパーアームストライク"
 
 msgctxt "Abilities/KEY_FISHMAN_DOUBLEBLADESTRIKE_ABILITY_DESCRIPTION"
 msgid "Melee strike with upper arms"
-msgstr ""
+msgstr "上腕での近接攻撃"
 
 msgctxt "Abilities/KEY_CHIRON_LAUNCH_ACIDWORM_DESCRIPTION"
 msgid "Launch {NumberOfProjectilesFired} Acidworms at a target area"
-msgstr ""
+msgstr "目標エリアに{NumberOfProjectilesFired}体のアシッドワームを射出する"
 
 msgctxt "Abilities/KEY_CHIRON_LAUNCH_ACIDWORM_NAME"
 msgid "LAUNCH ACIDWORMS"
-msgstr ""
+msgstr "アシッドワーム迫撃"
 
 msgctxt "Abilities/KEY_CHIRON_LAUNCH_POISONWORM_DESCRIPTION"
 msgid "Launch {NumberOfProjectilesFired} Poisonworms at a target area"
-msgstr ""
+msgstr "目標エリアに{NumberOfProjectilesFired}体のポイズンワームを射出する"
 
 msgctxt "Abilities/KEY_CHIRON_LAUNCH_POISONWORM_NAME"
 msgid "LAUNCH POISONWORMS"
-msgstr ""
+msgstr "ポイズンワーム迫撃"
 
 msgctxt "Abilities/KEY_SPECIAL_SOW_NAME"
 msgid "SOW SEEDS"
-msgstr ""
+msgstr "種をまく"
 
 msgctxt "Abilities/KEY_SPECIAL_SOW_DESCRIPTION"
 msgid "Plant modified seeds in the ground."
-msgstr ""
+msgstr "改良型の種子をこの地面に植える"
 
 msgctxt "Abilities/KEY_YUGGOTH_ATTACK_NAME"
 msgid "MARK OF THE VOID"
-msgstr ""
+msgstr "マーク・オブ・ザ・ヴォイド"
 
 msgctxt "Abilities/KEY_YUGGOTH_ATTACK_DESCRIPTION"
 msgid "Apply a mark on an enemy, which damages it, and enemies within 5 tiles, at the start of each turn."
-msgstr ""
+msgstr "敵一体にマークをつける。マークされた敵及びその周囲5タイル内の敵は、毎ターン開始時にダメージを受ける。"
 
 msgctxt "Abilities/KEY_YUGGOTH_DEFENCE_NAME"
 msgid "ACID, EXPLOSIVES, AND FIRE RESISTANCE"
-msgstr ""
+msgstr "酸、爆破、火炎耐性"
 
 msgctxt "Abilities/KEY_YUGGOTH_DEFENCE_DESCRIPTION"
 msgid "75% resistance to acid, explosions, and fire"
-msgstr ""
+msgstr "酸、爆破、火炎に対し75％の耐性"
 
 msgctxt "Abilities/KEY_BIOCHEMIST_PERSONALTRACK_NAME"
 msgid "BIOCHEMIST"
-msgstr ""
+msgstr "バイオケミスト"
 
 msgctxt "Abilities/KEY_BIOCHEMIST_PERSONALTRACK_DESC"
 msgid "All attacks that damage a target also inflict 1 viral damage (per bullet)"
-msgstr ""
+msgstr "ターゲットにダメージを与える攻撃は全て、さらにウィルスダメージ1を付与する(弾1発ごとに)"
 
 msgctxt "Abilities/KEY_BRAINIAC_PERSONALTRACK_NAME"
 msgid "FARSIGHTED"
-msgstr ""
+msgstr "ファーサイト"
 
 msgctxt "Abilities/KEY_BRAINIAC_PERSONALTRACK_DESC"
 msgid "Additional +2 to Willpower and 10 Perception range"
-msgstr ""
+msgstr "ウィルパワーが+2、感知距離が10増加する"
 
 msgctxt "Abilities/KEY_CAUTIOUS_PERSONALTRACK_NAME"
 msgid "CAUTIOUS"
-msgstr ""
+msgstr "コーシャス"
 
 msgctxt "Abilities/KEY_CAUTIOUS_PERSONALTRACK_DESC"
 msgid "20% bonus accuracy and -10% damage dealt"
-msgstr ""
+msgstr "命中精度ボーナスが20％増加し、与えるダメージが-10％になる"
 
 msgctxt "Abilities/KEY_CLOSEQUARTERSSPECIALIST_PERSONALTRACK_NAME"
 msgid "CLOSE QUARTERS SPECIALIST"
-msgstr ""
+msgstr "クローズクォーターズ・スペシャリスト"
 
 msgctxt "Abilities/KEY_CLOSEQUARTERSSPECIALIST_PERSONALTRACK_DISC"
 msgid "Gain Shotgun and Melee Weapon proficiency with +20% damage"
-msgstr ""
+msgstr "ショットガンと近接武器の技能を獲得。該当武器使用時のダメージ+20％"
 
 msgctxt "Abilities/KEY_CRAFTY_PERSONALTRACK_NAME"
 msgid "BOMBARDIER"
-msgstr ""
+msgstr "ボンバルディア"
 
 msgctxt "Abilities/KEY_CRAFTY_PERSONALTRACK_DESC"
 msgid "Gain Mounted Weapon proficiency with +20% range and damage"
-msgstr ""
+msgstr "マウント式ウェポン技能を獲得。該当武器の射程とダメージ+20％"
 
 msgctxt "Abilities/KEY_FOCUSED_PERSONALTRACK_NAME"
 msgid "SNIPERIST"
-msgstr ""
+msgstr "スナイパリスト"
 
 msgctxt "Abilities/KEY_FOCUSED_PERSONALTRACK_DESC"
 msgid "Gain Sniper Rifle proficiency with +25% damage and -4 Willpower"
-msgstr ""
+msgstr "スナイパーライフル技能を獲得。該当武器使用時のダメージ+20％。ウィルパワーが-4される。"
 
 msgctxt "Abilities/KEY_GOODSHOT_PERSONALTRACK_NAME"
 msgid "TROOPER"
-msgstr ""
+msgstr "トルーパー"
 
 msgctxt "Abilities/KEY_GOODSHOT_PERSONALTRACK_DESC"
 msgid "Gain Assault Rifle proficiency with +20% damage and accuracy"
-msgstr ""
+msgstr "アサルトライフル技能を獲得。該当武器のダメージ及び命中精度+20％"
 
 msgctxt "Abilities/KEY_HELPFUL_PERSONALTRACK_NAME"
 msgid "HEALER"
-msgstr ""
+msgstr "ヒーラー"
 
 msgctxt "Abilities/KEY_HELPFUL_PERSONALTRACK_DESC"
 msgid "50% bonus healing and +2 Willpower"
-msgstr ""
+msgstr "回復行動に50％のボーナスがつき、ウィルパワーが+2される"
 
 msgctxt "Abilities/KEY_PITCHER_PERSONALTRACK_NAME"
 msgid "QUARTERBACK"
-msgstr ""
+msgstr "クォーターバック"
 
 msgctxt "Abilities/KEY_PITCHER_PERSONALTRACK_DESC"
 msgid "50% bonus Grenade range and +2 Speed"
-msgstr ""
+msgstr "グレネードの投擲範囲に50％のボーナスが付き、スピードが+2される"
 
 msgctxt "Abilities/KEY_RECKLESS_PERSONALTRACK_NAME"
 msgid "RECKLESS"
