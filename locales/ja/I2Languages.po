@@ -1,7 +1,7 @@
 # 
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2020-02-14 12:44+0000\n"
+"PO-Revision-Date: 2020-02-13 13:17+0000\n"
 "Last-Translator: higema <ltdhyndsh@yahoo.co.jp>\n"
 "Language: ja\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
@@ -585,7 +585,7 @@ msgstr "近接武器使用時のダメージ+25%"
 
 msgctxt "Abilities/KEY_EXPERT_MELEE_NAME"
 msgid "EXPERT MELEE"
-msgstr ""
+msgstr "エキスパート・メレー"
 
 msgctxt "Abilities/KEY_EXPERT_MOUNTED_WEAPONS_DESCRIPTION"
 msgid "Additional +20% range when using Mounted weapons"
@@ -885,11 +885,11 @@ msgstr "リリース"
 
 msgctxt "Abilities/KEY_MIST_BREATHER_DESCRIPTION"
 msgid "Consume all mist within a 3 tile radius. Each 2 mist tiles consumed restores 1 Will Point."
-msgstr ""
+msgstr "半径3タイル以内の全てのミストを吸収する。2タイルぶんのミスト毎にウィルポイントが1回復する。"
 
 msgctxt "Abilities/KEY_MIST_BREATHER_NAME"
 msgid "BREATHE MIST"
-msgstr ""
+msgstr "ミスト吸入"
 
 msgctxt "Abilities/KEY_MOUNTED_WEAPONS_TALENT_DESCRIPTION"
 msgid "Proficiency with Mounted Weapons at +10% Accuracy"
@@ -901,23 +901,23 @@ msgstr "マウント式ウェポン技能"
 
 msgctxt "Abilities/KEY_MOVE_NAME"
 msgid "MOVE"
-msgstr ""
+msgstr "移動"
 
 msgctxt "Abilities/KEY_MUTATION_ELECTROKICK_DESCRIPTION"
 msgid "Perform a melee kick, and daze target if shock value is greater than target's Hit Points"
-msgstr ""
+msgstr "キックを行い、与えたショック値がターゲットのヒットポイントを上回った場合は放心状態にさせる"
 
 msgctxt "Abilities/KEY_MUTATION_ELECTROKICK_NAME"
 msgid "ELECTRIC KICK"
-msgstr ""
+msgstr "エレクトリックキック"
 
 msgctxt "Abilities/KEY_MUTATION_ELECTROTENTACLE_DESCRIPTION"
 msgid "Perform a melee attack, and apply paralyze damage"
-msgstr ""
+msgstr "近接攻撃を行い、麻痺ダメージを与える"
 
 msgctxt "Abilities/KEY_MUTATION_ELECTROTENTACLE_NAME"
 msgid "TENTACLE ATTACK"
-msgstr ""
+msgstr "触手攻撃"
 
 msgctxt "Abilities/KEY_MUTATION_ENTER_STANCE_DESCRIPTION"
 msgid "Enter Stability Stance. Movement is disabled and accuracy is increased by 20%."
