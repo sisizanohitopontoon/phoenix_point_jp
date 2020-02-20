@@ -1,8 +1,8 @@
 # 
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2020-02-16 17:45+0000\n"
-"Last-Translator: sisizanohito <sisizanohito@gmail.com>\n"
+"PO-Revision-Date: 2020-02-19 13:36+0000\n"
+"Last-Translator: higema <ltdhyndsh@yahoo.co.jp>\n"
 "Language: ja\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 "X-Generator: Pontoon\n"
@@ -569,7 +569,7 @@ msgstr "ヘビーウェポン使用時のダメージ+20%"
 
 msgctxt "Abilities/KEY_EXPERT_HEAVY_WEAPONS_NAME"
 msgid "EXPERT HEAVY WEAPONS"
-msgstr ""
+msgstr "エキスパート・ヘビーウェポン"
 
 msgctxt "Abilities/KEY_EXPERT_LIGHT_WEAPONS_DESCRIPTION"
 msgid "Additional +20% Damage when using Rifles and Handguns"
@@ -1025,7 +1025,7 @@ msgstr "ラムアタック"
 
 msgctxt "Abilities/KEY_MUTOG_REGENERATION_DESCRIPTION"
 msgid "Each leg restores 10 Hit Points to an injured body part"
-msgstr ""
+msgstr "各足が、負傷した部位のヒットポイントを10回復する"
 
 msgctxt "Abilities/KEY_MUTOG_REGEENRATION_NAME"
 msgid "REGENERATE"
@@ -2632,7 +2632,7 @@ msgid ""
 "equip or produce items in READY slots by using the +AMMO and +ITEM buttons.[LF][LF]The ARMOR section shows the armor the soldier is wearing for legs, body and head.[LF][LF]The MOUNTS section is used"
 " for special equipment that can only be attached to the corresponding piece of armor.[LF][LF]GO TO THE TRAINING SECTION"
 msgstr ""
-"インベントリセクションでは、倉庫から取り出せる装備を適切なスロットにドラッグすることで、兵士達に新たな武器やアーマー等のアイテムを装備させる事ができます。[LF][LF]+AMMOボタンや+ITEMボタンを使用すると、該当アイテムを空いているスロットに即座に装備、もしくは生産できます。[LF][LF]アーマーセクションでは、その兵士が身に着けている足用、胴体用、頭用のアーマーが表示されます。[LF][LF]マウントセクションは、対応するアーマーにのみ装着可能な特殊装備に用いられます。[LF][LF]\"\"トレーニング\"\"セクションに移動してください。"
+"iiインベントリセクションでは、倉庫から取り出せる装備を適切なスロットにドラッグすることで、兵士達に新たな武器やアーマー等のアイテムを装備させる事ができます。[LF][LF]+AMMOボタンや+ITEMボタンを使用すると、該当アイテムをレディスロットに即座に装備、もしくは生産できます。[LF][LF]アーマーセクションでは、その兵士が身に着けている足用、胴体用、頭用のアーマーが表示されます。[LF][LF]マウントセクションは、対応するアーマーにのみ装着可能な特殊装備に用いられます。[LF][LF]\"\"トレーニング\"\"セクションに移動してください。"
 
 msgctxt "Tutorial/KEY_TUTORIAL_TRAINING_NAME"
 msgid "Training soldiers"
@@ -2706,7 +2706,7 @@ msgstr "夢性精神錯乱指数(ODI)"
 
 msgctxt "Tutorial/KEY_TUTORIAL_DOOMCLOCK_DESCRIPTION"
 msgid "The ODI meter displays the current intensity of Oneiric Delirium. At 100% humanity cannot be saved."
-msgstr "ODIメーターには、無性精神錯乱の現在強度が表示されます。100％に達すると、人類は助かりません。"
+msgstr "ODIメーターには、夢性精神錯乱の現在強度が表示されます。100％に達すると、人類は助かりません。"
 
 msgctxt "Tutorial/KEY_TUTORIAL_CAPTURE_NAME"
 msgid "Capture and Containment"
