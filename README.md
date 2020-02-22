@@ -2,7 +2,7 @@
 
 # I2LocConverterについて
 I2LocConverterは お～るげーむず（仮）(@Allgameskari) 様に許可を得て使用しています。<br>
-そのためI2LocConverterの3次配布は禁止いたします。<br>
+そのためI2LocConverterの3次配布は禁止します。<br>
 https://agk.saloon.jp/game/overseasgame/jp-localize/i2locconverter
 
 # Credit
