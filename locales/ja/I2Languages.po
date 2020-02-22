@@ -1,7 +1,7 @@
 # 
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2020-02-22 13:43+0000\n"
+"PO-Revision-Date: 2020-02-22 14:18+0000\n"
 "Last-Translator: higema <ltdhyndsh@yahoo.co.jp>\n"
 "Language: ja\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
@@ -85,15 +85,15 @@ msgstr "ニューゲーム"
 
 msgctxt "PH_Localization/KEY_PREPARING_DESCRIPTION"
 msgid "#PREPARING"
-msgstr ""
+msgstr "#準備状態"
 
 msgctxt "PH_Localization/KEY_PREPARING_NAME"
 msgid "#PREPARING"
-msgstr ""
+msgstr "#準備状態"
 
 msgctxt "PH_Localization/KEY_SENTINEL"
 msgid "#Sentinel"
-msgstr ""
+msgstr "#センチネル"
 
 msgctxt "PH_Localization/KEY_STAT_STORAGE"
 msgid "STORAGE {used}/{total}"
@@ -2991,6 +2991,7 @@ msgid ""
 "abilites.[LF][LF]Bleeding is one of the most common Status Effects. Soldiers suffering from Bleeding are dealt a set amount of damage at the start of their turn equal to their Bleed "
 "level.[LF][LF]Bleeding can be cured by using a Medkit. After a mission ends, bleeding and disable limbs are cured, but Hit Points need to be restored at a base with a Medical Facility."
 msgstr ""
+"ステータス効果は、ユニットに一定時間効果を及ぼすボーナスまたはペナルティです。有益な効果は大抵の場合アビリティを通じて獲得することになる一方、有害な効果は敵の武器やアビリティからもたらさます。[LF][LF]出血は特に目にすることになるステータス効果の一つです。出血した兵士は、ターン開始時に出血レベルと同量のダメージを受けます。[LF][LF]出血はメディキットの使用で治せます。ミッション終了後に出血や使用不能になった部位は治りますが、ヒットポイントについては医療施設のある基地で回復させる必要があります。"
 
 msgctxt "Tutorial/KEY_TUTORIAL_TACTICAL2_OVERWATCH_NAME"
 msgid "Overwatch"
@@ -4214,11 +4215,11 @@ msgstr "エリアの安全を確保する"
 
 msgctxt "Objectives/KEY_OBJECTIVE_PLANT"
 msgid "PLANT THE MODIFIED SEEDS [{0}/{1}]"
-msgstr ""
+msgstr "改良型種子を植える [{0}/{1}]"
 
 msgctxt "Objectives/KEY_OBJECTIVE_SCAN_AREA"
 msgid "SCAN AREA  [{0}/{1}]"
-msgstr ""
+msgstr "エリアをスキャンする [{0}/{1}]"
 
 msgctxt "Objectives/KEY_OBJECTIVE_COMPLETED"
 msgid "COMPLETED"
@@ -4514,47 +4515,47 @@ msgstr "そして彼が発見した答えは、私たちにとって重要な意
 
 msgctxt "Cinematic Subtitles/KEY_NJ_INTRO1_01"
 msgid "New Jericho was one man's vision, and everything depended on that one man."
-msgstr ""
+msgstr "ニュージェリコは一人の男のビジョンであり、すべてがその一人の男にかかっていた。"
 
 msgctxt "Cinematic Subtitles/KEY_NJ_INTRO2_01"
 msgid "Before the war, Tobias West had been a billionaire. "
-msgstr ""
+msgstr "大戦前、トビアス・ウェストは億万長者だった。"
 
 msgctxt "Cinematic Subtitles/KEY_NJ_INTRO2_02"
 msgid "An elusive, controversial businessman who denounced war even as he profited from it. "
-msgstr ""
+msgstr "戦争から利益を得ながら戦争を非難する、物議を醸す捉えどころのないビジネスマン。"
 
 msgctxt "Cinematic Subtitles/KEY_NJ_INTRO2_03"
 msgid "When the world fell, his empire began to rise."
-msgstr ""
+msgstr "世界が崩壊した時、彼の帝国は勃興を始めた。"
 
 msgctxt "Cinematic Subtitles/KEY_NJ_INTRO3_01"
 msgid "Some said he was a genius. A man of principle, dedicated to equality and merit,"
-msgstr ""
+msgstr "ある者は彼を天才と言った。平等と功労のために尽くし、"
 
 msgctxt "Cinematic Subtitles/KEY_NJ_INTRO3_02"
 msgid "fighting to preserve the core of human freedom: our will. "
-msgstr ""
+msgstr "人の自由の核心たる人間の意思を守るために戦っている、信念の人だと。"
 
 msgctxt "Cinematic Subtitles/KEY_NJ_INTRO3_03"
 msgid "They said he had a plan, that he could lead us to victory."
-msgstr ""
+msgstr "彼らは言った。ウェストには、我々を勝利に導く計画があるのだと。"
 
 msgctxt "Cinematic Subtitles/KEY_NJ_INTRO4_01"
 msgid "Others called him a dictator, a megalomaniac, fearful of infection and obsessed with purity. "
-msgstr ""
+msgstr "またある者は彼をこう呼んだ。感染を恐れ純粋さに固執している独裁者と。権力欲の化身と。"
 
 msgctxt "Cinematic Subtitles/KEY_NJ_INTRO4_02"
 msgid "They said he was willing to do anything to win... no matter the cost."
-msgstr ""
+msgstr "彼らは言った。ウェストは勝つためなら、その代償がどうあろうと構わずどんな事でもすると。"
 
 msgctxt "Cinematic Subtitles/KEY_NJ_INTRO5_01"
 msgid "The Phoenix Project needed allies. New Jericho could help us turn the tide. "
-msgstr ""
+msgstr "フェニックス・プロジェクトには協力者が必要だった。ニュージェリコは、流れを変える力になってくれるかもしれない。"
 
 msgctxt "Cinematic Subtitles/KEY_NJ_INTRO5_02"
 msgid "But it all depended on one man."
-msgstr ""
+msgstr "だがそれは、全てが一人の男次第であった。"
 
 msgctxt "Cinematic Subtitles/KEY_SYN_INTRO1_01"
 msgid "Synedrion was built on a dream. A world without hierarchies, "
@@ -13589,7 +13590,7 @@ msgid ""
 "using force where necessary, putting him at odds with the pacifists in his faction.[LF][LF]Although Synedrion's structure is fluid, he is often seen as representing the Terraformers tendency, "
 "strongly arguing for complete human control over Earth's ecosystems. He has little patience for \"\"ecological mumbo-jumbo about balance\"\" and prefers hard scientific facts."
 msgstr ""
-"優れた遺伝学者にして熱心なマルクス主義者。ニコライはファイアバード・イニチアチブ社の設立者の一人だった。同社はパンドラウィルスに対する科学的解決法の発見を試みた調査企業である。環境テロリストによってイニシアチブ社のラボが爆撃された時、彼の右目は破片によって潰された。それ以来、彼は変わったと言われている。彼とその夫スタースは初期からシンデリオンに関わり続けており、ニコライは指導者的人物として台頭した。[LF][LF]彼はシネドリオンの政敵に対する歩み寄りに反対の姿勢を取っており必要とあれば軍隊の使用も辞さない為、同派閥の平和主義者達とは対立している。[LF][LF]シネドリオンの組織体制は流動的な物ではあるが、ニコライはしばしば地球生態系を人間が完全にコントロールする事を強く主張しており、テラフォーマーズ派の代表と見なされている。彼は\"\"生態系のバランスに関するたわ言\"\"には不寛容であり、厳然とした科学的事実を好む。"
+"優れた遺伝学者にして熱心なマルクス主義者。ニコライはファイアバード・イニチアチブ社の設立者の一人だった。同社はパンドラウィルスに対する科学的解決法の発見を試みた調査企業である。環境テロリストによってイニシアチブ社のラボが爆撃された時、彼の右目は破片によって潰された。それ以来、彼は変わったと言われている。彼とその夫スタースは初期からシネドリオンに関わり続けており、ニコライは指導者的人物として台頭した。[LF][LF]彼はシネドリオンの政敵に対する歩み寄りに反対の姿勢を取っており必要とあれば軍隊の使用も辞さない為、同派閥の平和主義者達とは対立している。[LF][LF]シネドリオンの組織体制は流動的な物ではあるが、ニコライはしばしば地球生態系を人間が完全にコントロールする事を強く主張しており、テラフォーマーズ派の代表と見なされている。彼は\"\"生態系のバランスに関するたわ言\"\"には不寛容であり、厳然とした科学的事実を好む。"
 
 msgctxt "Character Bios/KEY_BIO_NAME_STAS"
 msgid "Stas"
@@ -13703,7 +13704,7 @@ msgid ""
 "for growth and change.[LF][LF]While the Exalted is the undisputed leader of the Disciples and worshipped as a prophet, she only rarely appears in public, and only the most faithful are ever allowed "
 "to speak to her in person."
 msgstr ""
-"イグザルティドはアヌの徒の指導者である。並外れた力を持ちあわせた変異した人間のような姿をしているが、我々の証拠が示すところでは、彼女が姿を現したのはパンドラウィルスの拡散が始まる以前である。先に存在していた３つのカルト教団、チルドレン・オブ・ザ・ブラックタイド、ホーリーディサイプルズ・オブ・ザ・ゼノグロシックドクトリン、オーダー・オブ・アヌを統合させて自身の宗教を設立した。[LF][LF]イグザルティドはこう説いている。人の魂は完全だが、その生態には欠陥があると。人類の罪に対する罰として、しかしまた同時に成長し変化する為のチャンスとしてパンドラウィルスを送り出した死の神アヌ。彼女は自身を、その代理人であると主張する。[LF][LF]イグザルティドは紛れもなくアヌの徒の指導者であり、預言者として崇拝されている一方、公の場に姿を現すのは極めて稀であり、彼女と直接会話する事を許されるのは最も信仰厚い者のみとなっている。"
+"イグザルティドはアヌの徒の指導者である。並外れた力を持ちあわせた変異した人間のような姿をしているが、我々の証拠が示すところでは、彼女が姿を現したのはパンドラウィルスの拡散が始まる以前である。先に存在していた３つのカルト教団、チルドレン・オブ・ザ・ブラックタイド、ホーリーディサイプルズ・オブ・ザ・ゼノグロシックドクトリン、オーダー・オブ・アヌを統合させて自身の宗教を設立した。[LF][LF]イグザルティドはこう説いている。人の魂は完全だが、その生態には欠陥があると。人類の罪に対する罰として、しかしまた同時に成長し変化する為のチャンスとしてパンドラウィルスを送り出した\"\"死せる神アヌ\"\"。彼女は自身を、その代理人であると主張する。[LF][LF]イグザルティドは紛れもなくアヌの徒の指導者であり、預言者として崇拝されている一方、公の場に姿を現すのは極めて稀であり、彼女と直接会話する事を許されるのは最も信仰厚い者のみとなっている。"
 
 msgctxt "Character Bios/KEY_BIO_NAME_RICHTER"
 msgid "Captain J. P.  Richter"
