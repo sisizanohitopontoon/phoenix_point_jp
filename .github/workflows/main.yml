@@ -1,7 +1,6 @@
 name: Creat_Release
 
-on:
-  push:
+on: push
 
 jobs:
   build:
