@@ -1,9 +1,5 @@
-name: CI
-
-on:
-  push:
-  schedule:
-      - cron: '0 0 * * *' # Once per day at midnight
+name: Creat_Release
+on: push
 
 jobs:
   build:
@@ -16,8 +12,8 @@ jobs:
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }} # This token is provided by Actions, you do not need to create your own token
       with:
-        tag_name: ${{ github.ref }}
-        release_name: Release ${{ github.ref }}
+        tag_name: ${{github.sha }}
+        release_name: Phoenix Point日本語化mod
         body: |
           test
           - 日本語化mod
