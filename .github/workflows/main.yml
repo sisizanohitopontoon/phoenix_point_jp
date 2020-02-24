@@ -1,5 +1,4 @@
 name: Creat_Release
-
 on: push
 
 jobs:
@@ -16,8 +15,7 @@ jobs:
         tag_name: ${{ github.ref }}
         release_name: Release ${{ github.ref }}
         body: |
-          Changes in this Release
-            - First Change
-            - Second Change
+          test
+          - 日本語化mod
         draft: false
         prerelease: false
