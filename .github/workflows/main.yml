@@ -15,7 +15,9 @@ jobs:
         tag_name: ${{ github.run_number	}}
         release_name: Phoenix Point日本語化mod
         body: |
-          test
-          - 日本語化mod
+          日本語化mod
+          - 以下のSource code(zip)をダウンロードしてください
+          使い方
+          - 解凍したフォルダの中にある日本語化mod.exeを実行してください
         draft: false
         prerelease: false
