@@ -1,5 +1,9 @@
-name: Creat_Release
-on: push
+name: CI
+
+on:
+  push:
+  schedule:
+      - cron: '0 0 * * *' # Once per day at midnight
 
 jobs:
   build:
