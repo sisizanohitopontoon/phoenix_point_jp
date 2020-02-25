@@ -1,8 +1,8 @@
 # 
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2020-02-25 13:43+0000\n"
-"Last-Translator: sisizanohito <sisizanohito@gmail.com>\n"
+"PO-Revision-Date: 2020-02-25 14:12+0000\n"
+"Last-Translator: higema <ltdhyndsh@yahoo.co.jp>\n"
 "Language: ja\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 "X-Generator: Pontoon\n"
@@ -181,7 +181,7 @@ msgstr "全基地の生産能力。 装備やアーマー、車両を生産す�
 
 msgctxt "PH_Localization/KEY_RESEARCH_TOTAL_TT"
 msgid "Research labs in all bases - build more to decrease research time"
-msgstr "全基地の研究ラボ - 研究時間を短縮する為さらなる建造を"
+msgstr "全基地の研究ラボ - 研究時間を短縮するには、さらに建造すること"
 
 msgctxt "PH_Localization/KEY_TIME_MODULE_PLAY_TT"
 msgid "Start/Stop time"
@@ -2237,11 +2237,11 @@ msgstr "ミストはパンドランの射線を遮らず、パンドランでな
 
 msgctxt "Damage types/KEY_DAMAGE_TYPE_PARALYSIS"
 msgid "PARALYSIS"
-msgstr "半麻痺"
+msgstr "麻痺"
 
 msgctxt "Damage types/KEY_DAMAGE_TYPE_PARALYSIS_DESC"
 msgid "PARALYSIS - if target takes any damage, the paralysis value is added, reducing Action Points proportionate to target's Strength"
-msgstr "半麻痺 - ターゲットが何らかのダメージを受けて麻痺値が加えられると、ターゲットのストレングスに応じてアクションポイントが減少する"
+msgstr "麻痺 - ターゲットが何らかのダメージを受けて麻痺値が加えられると、ターゲットのストレングスに応じてアクションポイントが減少する"
 
 msgctxt "Damage types/KEY_DAMAGE_TYPE_PIERCING"
 msgid "PIERCING"
@@ -2497,7 +2497,7 @@ msgstr "移動もいかなるアクションも行えない"
 
 msgctxt "Character Status/KEY_STATUS_PARALYSIS_NAME"
 msgid "PARALYSIS"
-msgstr "半麻痺"
+msgstr "麻痺"
 
 msgctxt "Character Status/KEY_STATUS_PARALYSIS_DESCRIPTION"
 msgid "Action Points are reduced by the proportion of paralysis value to Strength"
@@ -3279,7 +3279,7 @@ msgstr ""
 "酸はターン毎に10のアーマーを腐食する。アーマーが残っていない場合、10ダメージが該当部位に適用される。酸値はターン毎に10減少する。[LF]出血: 毎ターン、出血値と同値ぶんのHPが失われる。[LF]燃焼: ターン開始時、それぞれの部位に対してアーマー値を差し引いたぶんの火炎ダメージが適用される。[LF]激昂: スピードが50％増加し、パニックを無効化する。[LF]粘液付着: "
 "粘液が朽ちるか取り除かれるまで、移動不能。[LF]ウィルス感染: ターン開始時にウィルス値分のWPが減少し、その後ウィルス値が1減少する。[LF]パニック: WPをリカバーする間、1ターンの間移動不可。[LF]毒: ターン開始時に毒の値だけHPが減少し、その後毒値は10減少する。[LF]準備状態: "
 "(パンドランのセンチネルとエッグのみ)次ターンでスペシャルアビリティを実行するための準備状態。[LF]バーサーク: (ミュートッグのみ)ミュートッグが野生化し、敵味方を攻撃する。[LF]激怒: 与ダメージとスピードが50％上昇する。毎ターン開始時に10％の確率で、ミュートッグがバーサーク状態に移行。[LF]警戒: (敵のみ)敵がこちらの存在に気付いている。[LF]疲労: "
-"(低下したスタミナで戦闘に入ると発生)アクションポイント-1。[LF]消耗: (低下したスタミナで戦闘に入ると発生)アクションポイント-2。[LF]完全麻痺: 移動もいかなるアクションも行えない。[LF]半麻痺: ストレングスに対する麻痺値の割合毎にアクションポイントが減少する。[LF]放心: アクションポイントが1に低下し、命中精度が半減する。[LF]監視: "
+"(低下したスタミナで戦闘に入ると発生)アクションポイント-1。[LF]消耗: (低下したスタミナで戦闘に入ると発生)アクションポイント-2。[LF]完全麻痺: 移動もいかなるアクションも行えない。[LF]麻痺: ストレングスに対する麻痺値の割合毎にアクションポイントが減少する。[LF]放心: アクションポイントが1に低下し、命中精度が半減する。[LF]監視: "
 "監視範囲に敵が侵入すると攻撃が発動する。"
 
 msgctxt "Phoenixpedia/KEY_PHOENIXPEDIA_GUIDE_HAVENS_NAME"
@@ -5059,183 +5059,183 @@ msgstr "そこからが本当の戦い: 世界をヒトのニーズに応じた�
 
 msgctxt "Cinematic Subtitles/KEY_SYNTERRAFORM_ENDING3_02"
 msgid "To build a sustainable system that would allow the individual to flourish."
-msgstr ""
+msgstr "個人が花開くことのできるような、持続可能な体制を構築するために。"
 
 msgctxt "Cinematic Subtitles/KEY_SYNTERRAFORM_ENDING4_01"
 msgid "There was no space for New Jericho in the new system. "
-msgstr ""
+msgstr "その新たな体制に、ニュージェリコの居場所はなかった。"
 
 msgctxt "Cinematic Subtitles/KEY_SYNTERRAFORM_ENDING4_02"
 msgid "Synedrion could no longer make excuses: coexistence was impossible. "
-msgstr ""
+msgstr "シネドリオンはもはや言い訳できなかった。共存は不可能だった。"
 
 msgctxt "Cinematic Subtitles/KEY_SYNTERRAFORM_ENDING4_03"
 msgid "Tobias West was an honorable opponent, but he had to be destroyed."
-msgstr ""
+msgstr "トビアス・ウェストは尊敬すべき敵だったが、彼は倒されねばならなかった。"
 
 msgctxt "Cinematic Subtitles/KEY_SYNTERRAFORM_ENDING5_01"
 msgid "When she heard what Synedrion had accomplished, "
-msgstr ""
+msgstr "シネドリオンが成し遂げたことをイグザルティドが耳にした時、"
 
 msgctxt "Cinematic Subtitles/KEY_SYNTERRAFORM_ENDING5_02"
 msgid "the Exalted proclaimed that the age of the Dead God was over, and the Disciples of Anu were dissolved. "
-msgstr ""
+msgstr "彼女は死せる神の時代が終わったことを宣言し、ディサイプルズ・オブ・アヌは解散した。"
 
 msgctxt "Cinematic Subtitles/KEY_SYNTERRAFORM_ENDING5_03"
 msgid "After that, she disappeared. It did not take long for her religion to be forgotten."
-msgstr ""
+msgstr "その後、彼女は姿を消した。彼女の宗教が忘れられるのにそれほど時間はかからなかった。"
 
 msgctxt "Cinematic Subtitles/KEY_SYNTERRAFORM_ENDING6_01"
 msgid "Synedrion began to build the new world. "
-msgstr ""
+msgstr "シネドリオンは新たな世界を築き始めた。"
 
 msgctxt "Cinematic Subtitles/KEY_SYNTERRAFORM_ENDING6_02"
 msgid "Old species were revived and new ones were designed."
-msgstr ""
+msgstr "古い種が復刻され、新たな種がデザインされた。"
 
 msgctxt "Cinematic Subtitles/KEY_SYNTERRAFORM_ENDING6_03"
 msgid "The age of scarcity was over; the Earth became a work of art, a testament to human ingenuity."
-msgstr ""
+msgstr "欠乏の時代は終わった: 地球はヒトの創造力の証、芸術作品となった。"
 
 msgctxt "Cinematic Subtitles/KEY_SYNTERRAFORM_ENDING7_01"
 msgid "As for the Phoenix Project... we finally had the support we needed. "
-msgstr ""
+msgstr "フェニックスプロジェクトについては...私達はようやく、必要としていたサポートを得た。"
 
 msgctxt "Cinematic Subtitles/KEY_SYNTERRAFORM_ENDING7_02"
 msgid "It was time to build, to train, to prepare. Up there, in celestial darkness, "
-msgstr ""
+msgstr "ここまでは建築し、訓練し、準備するための時間だった。天上の暗闇の向こうでは、"
 
 msgctxt "Cinematic Subtitles/KEY_SYNTERRAFORM_ENDING7_03"
 msgid "something ancient and powerful still hungered for our planet. "
-msgstr ""
+msgstr "いにしえの強大な何かが、私達の星を今なお渇望していた。"
 
 msgctxt "Cinematic Subtitles/KEY_SYNTERRAFORM_ENDING7_04"
 msgid "But next time... next time we'd be ready."
-msgstr ""
+msgstr "だが、次こそは…次こそは、私達も備えを整えるだろう。"
 
 msgctxt "Cinematic Subtitles/KEY_ANU_ENDING1_01"
 msgid "In the end, it wasn't her powers or her followers that allowed us to win. "
-msgstr ""
+msgstr "結局のところ、私達に勝利をもたらしたのは彼女の力でも、彼女の信奉者たちでもなかった。"
 
 msgctxt "Cinematic Subtitles/KEY_ANU_ENDING1_02"
 msgid "It was her humanity. An alien god spoke to her in her mind, "
-msgstr ""
+msgstr "それは彼女の人間性だった。異邦の神が彼女の精神に語りかけた時、"
 
 msgctxt "Cinematic Subtitles/KEY_ANU_ENDING1_03"
 msgid "and instead of being dominated or obliterated... she tricked him."
-msgstr ""
+msgstr "彼女は支配されたり消滅させられる代わりに…神を欺いたのだった。"
 
 msgctxt "Cinematic Subtitles/KEY_ANU_ENDING2_01"
 msgid "By the time he realized what she was doing, it was too late. "
-msgstr ""
+msgstr "彼女が何をしているのかに神が気づいた頃には、すでに手遅れだった。"
 
 msgctxt "Cinematic Subtitles/KEY_ANU_ENDING2_02"
 msgid "She'd stolen his knowledge, cut him off from his armies on Earth. "
-msgstr ""
+msgstr "彼女は神の知識を盗み、神を地球上のその軍団から切り離した。"
 
 msgctxt "Cinematic Subtitles/KEY_ANU_ENDING2_03"
 msgid "He was alone on his dark planet, and humanity was saved."
-msgstr ""
+msgstr "神はその暗き惑星で孤立し、人類は救われた。"
 
 msgctxt "Cinematic Subtitles/KEY_ANU_ENDING3_01"
 msgid "The war wasn't over, of course. It's never that simple. "
-msgstr ""
+msgstr "もちろん、戦いは終わっていなかった。ことは決して単純にはいかない。"
 
 msgctxt "Cinematic Subtitles/KEY_ANU_ENDING3_02"
 msgid "There were still those who wanted to go back to how things were before. "
-msgstr ""
+msgstr "物事が以前の状態に戻ることを望む人々が、なおもいた。"
 
 msgctxt "Cinematic Subtitles/KEY_ANU_ENDING3_03"
 msgid "To make the same mistakes again. But the Exalted would not allow it."
-msgstr ""
+msgstr "同じ過ちを繰り返すために。だが、イグザルティドにそれを許す気は無かった。"
 
 msgctxt "Cinematic Subtitles/KEY_ANU_ENDING4_01"
 msgid "New Jericho fought to the end. She respected that. "
-msgstr ""
+msgstr "ニュージェリコは最後まで戦った。イグザルティドはそれを尊重した。"
 
 msgctxt "Cinematic Subtitles/KEY_ANU_ENDING4_02"
 msgid "Tobias West and his people believed in their principles... and died for them. "
-msgstr ""
+msgstr "トビアス・ウェストとその民達は自分達の主義を信じ…その主義のために死んでいった。"
 
 msgctxt "Cinematic Subtitles/KEY_ANU_ENDING4_03"
 msgid "With them died the last fragment of the old world."
-msgstr ""
+msgstr "彼らと共に、旧世界の最後の断片は消えた。"
 
 msgctxt "Cinematic Subtitles/KEY_ANU_ENDING5_01"
 msgid "Synedrion continued to exist. This was not the future they had dreamed of, "
-msgstr ""
+msgstr "シネドリオンは存在し続けた。これは彼らが夢見た世界ではなかったが、"
 
 msgctxt "Cinematic Subtitles/KEY_ANU_ENDING5_02"
 msgid "but somewhere in this changing world there was space for their ideas. "
-msgstr ""
+msgstr "この変わりゆく世界にも、彼らの思想が入り込む余地はどこかにあった。"
 
 msgctxt "Cinematic Subtitles/KEY_ANU_ENDING5_03"
 msgid "They would contribute what they could, and hope that conflict could be avoided. "
-msgstr ""
+msgstr "彼らは自分達にできることで貢献し、争いが回避されることを願うだろう。"
 
 msgctxt "Cinematic Subtitles/KEY_ANU_ENDING5_04"
 msgid "Like everyone, they'd had enough of war."
-msgstr ""
+msgstr "誰もと同じように、彼らは戦いにうんざりしていた。"
 
 msgctxt "Cinematic Subtitles/KEY_ANU_ENDING6_01"
 msgid "Humanity began to adapt and evolve. "
-msgstr ""
+msgstr "人類は適応と進化を始めた。"
 
 msgctxt "Cinematic Subtitles/KEY_ANU_ENDING6_02"
 msgid "No longer bound by the chains of an imperfect biology, human beings finally flourished. "
-msgstr ""
+msgstr "不完全な生態の鎖に縛られなくなったことで、人間はついに花開いた。"
 
 msgctxt "Cinematic Subtitles/KEY_ANU_ENDING6_03"
 msgid "The belief in the Dead God and the hierarchies of the Disciples fell away. "
-msgstr ""
+msgstr "死せる神への信仰とディサイプルズの聖職者達は消え去った。"
 
 msgctxt "Cinematic Subtitles/KEY_ANU_ENDING6_04"
 msgid "It was no longer necessary to believe in some distant deity... "
-msgstr ""
+msgstr "イグザルティドが私達と共に歩んでいる以上、"
 
 msgctxt "Cinematic Subtitles/KEY_ANU_ENDING6_05"
 msgid "when the Exalted walked among us."
-msgstr ""
+msgstr "遠く隔たれた神への信仰など、もはや不要となっていた…"
 
 msgctxt "Cinematic Subtitles/KEY_ANU_ENDING7_01"
 msgid "As for the Phoenix Project... we went back to the shadows, for a while. "
-msgstr ""
+msgstr "フェニックスプロジェクトについては...私達はまたしばらくの間、影の存在へと戻った。"
 
 msgctxt "Cinematic Subtitles/KEY_ANU_ENDING7_02"
 msgid "We knew the war wasn't over. Up there, in celestial darkness, "
-msgstr ""
+msgstr "私達はこの戦いが終わっていないことを知っていた。天上に広がる暗黒の中で、"
 
 msgctxt "Cinematic Subtitles/KEY_ANU_ENDING7_03"
 msgid "something ancient and powerful still hungered for our planet. "
-msgstr ""
+msgstr "いにしえの強大な何かが、私達の星を今なお渇望していた。"
 
 msgctxt "Cinematic Subtitles/KEY_ANU_ENDING7_04"
 msgid "But next time... next time we'd be ready."
-msgstr ""
+msgstr "だが、次こそは…次こそは、私達も備えを整えるだろう。"
 
 msgctxt "Cinematic Subtitles/KEY_DEFEATPALACE_ENDING1_01"
 msgid "When the Yuggothian Entity came to Earth, we knew we'd lost the war. "
-msgstr ""
+msgstr "ユゴシアン・エンティティが地球にやって来た時、私達はこの戦いに負けたことを知った。"
 
 msgctxt "Cinematic Subtitles/KEY_DEFEATPALACE_ENDING1_02"
 msgid "It couldn't be stopped. It was a god, and our planet... was gone."
-msgstr ""
+msgstr "止められる筈もなかった。あれは神であり、私達の星は…失われた。"
 
 msgctxt "Cinematic Subtitles/KEY_DEFEATPALACE_ENDING2_01"
 msgid "But for the Earth that was, and all the Earths that could have been, "
-msgstr ""
+msgstr "だが、かつて在った地球のため、そう成り得た全ての可能性の地球のため、"
 
 msgctxt "Cinematic Subtitles/KEY_DEFEATPALACE_ENDING2_02"
 msgid "for our friends and families lost to the Mist, "
-msgstr ""
+msgstr "ミストへと失われていった友人や家族のため、動物たちのため、"
 
 msgctxt "Cinematic Subtitles/KEY_DEFEATPALACE_ENDING2_03"
 msgid "for all our dreams and hopes that would never come true, we would keep fighting. "
-msgstr ""
+msgstr "実現することのなかった全ての夢と希望のため、私達は戦い続けるだろう。"
 
 msgctxt "Cinematic Subtitles/KEY_DEFEATPALACE_ENDING2_04"
 msgid "To the end."
-msgstr ""
+msgstr "最後まで。"
 
 msgctxt "Cinematic Subtitles/KEY_BASELOST_ENDING1_01"
 msgid "When our last base fell, we knew we'd lost the war. "
