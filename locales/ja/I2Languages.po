@@ -1,7 +1,7 @@
 # 
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2020-02-25 14:12+0000\n"
+"PO-Revision-Date: 2020-02-26 11:53+0000\n"
 "Last-Translator: higema <ltdhyndsh@yahoo.co.jp>\n"
 "Language: ja\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
@@ -409,7 +409,7 @@ msgstr "バーサーカートレーニング"
 
 msgctxt "Abilities/KEY_BLOODLUST_DESCRIPTION"
 msgid "Damage and Speed are increased proportional to the health lost (up to +50%)"
-msgstr "失ったヘルスに比例してダメージとスピードが上昇する(最大で+50%)"
+msgstr "失ったヘルスに比例してダメージと スピードが上昇する(最大で+50%)"
 
 msgctxt "Abilities/KEY_BLOODLUST_NAME"
 msgid "BLOODLUST"
@@ -425,7 +425,7 @@ msgstr "ボディスラム"
 
 msgctxt "Abilities/KEY_ADRENALINE_RUSH_DESCRIPTION"
 msgid "All abilities cost a maximum of 1 Action Point until the end of the turn with 50% accuracy penalty, but you cannot do anything that costs Will Points[LF]"
-msgstr "ターン終了まで全てのアビリティのAPコストが1になり、-50％の命中精度ペナルティを負う。ただしその間、WPを消費するアビリティは使用できない。"
+msgstr "ターン終了まで全てのアビリティのAPコストが1になり、 -50％の命中精度ペナルティを負う。 ただしその間、WPを消費するアビリティは使用できない。"
 
 msgctxt "Abilities/KEY_ADRENALINE_RUSH_NAME"
 msgid "ADRENALINE RUSH"
@@ -457,7 +457,7 @@ msgstr "シールド展開"
 
 msgctxt "Abilities/KEY_DEPLOY_SPIDER_DESCRIPTION"
 msgid "Deploy Spider Drone that autoexplores the area. The Drone automatically advances towards any enemy it detects and explodes when in range."
-msgstr "エリアを自動探索するスパイダードローンを展開する。ドローンは探知した敵に対し自動で向かっていき、範囲内に到達すると爆発する。"
+msgstr "エリアを自動探索するスパイダードローンを展開する。 ドローンは探知した敵に対し自動で向かっていき、 範囲内に到達すると爆発する。"
 
 msgctxt "Abilities/KEY_DEPLOY_SPIDER_NAME"
 msgid "DEPLOY SPIDER DRONE"
@@ -505,7 +505,7 @@ msgstr "イーグルアイ化"
 
 msgctxt "Abilities/KEY_ELECTRIC_STRIKE_DESCRIPTION"
 msgid "Dazes target if shock value is greater than target's Hit Points"
-msgstr "与えたショック値がターゲットのヒットポイントを上回った場合、放心状態にさせる"
+msgstr "与えたショック値がターゲットのヒットポイントを 上回った場合、放心状態にさせる"
 
 msgctxt "Abilities/KEY_ELECTRIC_STRIKE_NAME"
 msgid "ELECTRIC STRIKE"
@@ -677,7 +677,7 @@ msgstr "粘液無効"
 
 msgctxt "Abilities/KEY_GRENADE_SPAM_DESCRIPTION"
 msgid "Throw grenades at a 50% greater distance and for no Action Points until the end of the turn"
-msgstr "ターン終了までの間、グレネード投擲の飛距離が50％増加しアクションポイントコストがなくなる"
+msgstr "ターン終了までの間、グレネード投擲の飛距離が 50％増加しアクションポイントコストがなくなる"
 
 msgctxt "Abilities/KEY_GRENADE_SPAM_NAME"
 msgid "GRENADE SPAM"
@@ -741,7 +741,7 @@ msgstr "ヘビーウェポン技能"
 
 msgctxt "Abilities/KEY_HIDE_DESCRIPTION"
 msgid "Disappear from view for the next turn by finding a hiding spot within 5 tiles"
-msgstr "5タイル以内の範囲に隠れ場所を見つけることで、次のターンまで視界から姿を消す"
+msgstr "5タイル以内の範囲に隠れ場所を見つけることで、 次のターンまで視界から姿を消す"
 
 msgctxt "Abilities/KEY_HIDE_NAME"
 msgid "HIDE"
@@ -749,7 +749,7 @@ msgstr "ハイド"
 
 msgctxt "Abilities/KEY_IGNORE_PAIN_DESCRIPTION"
 msgid "Disabled body parts remain functional. Cannot Panic or be Mind Controlled."
-msgstr "使用不可状態になった部位が機能し続ける。パニックやマインドコントロール下に陥らない。"
+msgstr "使用不可状態になった部位が機能し続ける。 パニックやマインドコントロール下に陥らない。"
 
 msgctxt "Abilities/KEY_IGNORE_PAIN_NAME"
 msgid "IGNORE PAIN"
@@ -765,7 +765,7 @@ msgstr "インフェクティド・ブラッド"
 
 msgctxt "Abilities/KEY_INFILTRATOR_PROFICIENCY_DESCRIPTION"
 msgid "Proficiency with Crossbows and Spider Drone deployment. Base line stealth factor is 25% as long as the character isn't revealed."
-msgstr "クロスボウ及びスパイダードローン展開技能。キャラクターが姿を明らかにしない限り、ステルスのベース値が25％増加。"
+msgstr "クロスボウ及びスパイダードローン展開技能。 キャラクターが姿を明らかにしない限り、 ステルスのベース値が25％増加。"
 
 msgctxt "Abilities/KEY_INFILTRATOR_PROFICIENCY_NAME"
 msgid "INFILTRATOR TRAINING"
@@ -773,7 +773,7 @@ msgstr "インフィルトレイタートレーニング"
 
 msgctxt "Abilities/KEY_INFILTRATOR_STEALTH_DESCRIPTION"
 msgid "Base line Stealth factor is 25% as long as the character isn't revealed."
-msgstr "キャラクターが姿を明らかにしない限り、ステルスのベース値が25％増加。"
+msgstr "キャラクターが姿を明らかにしない限り、 ステルスのベース値が25％増加。"
 
 msgctxt "Abilities/KEY_INFILTRATOR_STEALTH_NAME"
 msgid "STEALTH"
@@ -781,7 +781,7 @@ msgstr "ステルス"
 
 msgctxt "Abilities/KEY_INSTIL_FRENZY_DESCRPITION"
 msgid "Instils Frenzy in friendly characters within 20 tiles for two turns, increasing their Speed by 50% and making them immune to panic"
-msgstr "20タイル以内にある味方キャラクター達に2ターンの間、激昂を植え付ける。激昂したキャラクターはスピードが50％増加しパニックが無効になる"
+msgstr "20タイル以内にある味方キャラクター達に2ターンの間、 激昂を植え付ける。激昂したキャラクターは スピードが50％増加しパニックが無効になる"
 
 msgctxt "Abilities/KEY_INSTIL_FRENZY_NAME"
 msgid "INSTIL FRENZY"
@@ -845,7 +845,7 @@ msgstr "マス・ハッチ"
 
 msgctxt "Abilities/KEY_MASTER_MARKSMAN_DESCRIPTION"
 msgid "Accuracy with a proficient weapon is increased by 30% while there are no spotted enemies within 10 tiles"
-msgstr "10タイル以内の範囲に発見した敵がいない間は、習熟武器の命中精度が30％増加する"
+msgstr "10タイル以内の範囲に発見した敵がいない間は、 習熟武器の命中精度が30％増加する"
 
 msgctxt "Abilities/KEY_MASTER_MARKSMAN_NAME"
 msgid "MASTER MARKSMAN"
