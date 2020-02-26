@@ -1,7 +1,7 @@
 # 
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2020-02-26 11:55+0000\n"
+"PO-Revision-Date: 2020-02-26 12:13+0000\n"
 "Last-Translator: higema <ltdhyndsh@yahoo.co.jp>\n"
 "Language: ja\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
@@ -945,7 +945,7 @@ msgstr "ジャンプ"
 
 msgctxt "Abilities/KEY_MUTATION_MELEERETALIATION_DESCRIPTION"
 msgid "Melee riposte with tentacles in response to nearby enemy attacks."
-msgstr "付近の敵の攻撃に反応して、触手による近接攻撃を返す。"
+msgstr "付近の敵の攻撃に反応して、 触手による近接攻撃を返す。"
 
 msgctxt "Abilities/KEY_MUTATION_MELEERETALIATION_NAME"
 msgid "TENTACLE RETALIATION"
@@ -953,7 +953,7 @@ msgstr "触手報復"
 
 msgctxt "Abilities/KEY_MUTATION_REGENERATE_DESCRIPTION"
 msgid "Restore 10 Hit Points to arms and torso at the end of each turn"
-msgstr "各ターンの終了時に腕と胴体のヒットポイントが10回復する"
+msgstr "各ターンの終了時に 腕と胴体のヒットポイントが10回復する"
 
 msgctxt "Abilities/KEY_MUTATION_REGENERATE_NAME"
 msgid "TISSUE REGENERATION"
@@ -961,7 +961,7 @@ msgstr "組織再生"
 
 msgctxt "Abilities/KEY_MUTATION_STOMPERING_DESCRIPTION"
 msgid "Perform Shock Attack affecting a 5-tile radius, dazing targets if shock value > target Hit Points. Shock Damage falls off with range."
-msgstr "半径5タイル内に効果を及ぼすショック攻撃を行い、ショック値がターゲットのヒットポイントを上回った場合に放心状態にさせる。ショック値は距離によって減衰する。"
+msgstr "半径5タイル内に効果を及ぼすショック攻撃を行い、 ショック値がターゲットのヒットポイントを上回った場合に 放心状態にさせる。ショック値は距離によって減衰する。"
 
 msgctxt "Abilities/KEY_MUTATION_STOMPERING_NAME"
 msgid "STOMP"
@@ -993,7 +993,7 @@ msgstr "ミュートッグマスター"
 
 msgctxt "Abilities/KEY_MUTOG_MIND_SENSE_DESCRIPTION"
 msgid "All organic enemies within 15 tiles are automatically revealed"
-msgstr "15タイル以内にいる全ての生物タイプの敵が、自動的に明らかにされる"
+msgstr "15タイル以内にいる全ての生物タイプの敵が、 自動的に明らかにされる"
 
 msgctxt "Abilities/KEY_MUTOG_MIND_SENSE_NAME"
 msgid "MIND SENSE"
@@ -1041,7 +1041,7 @@ msgstr "毒の舌"
 
 msgctxt "Abilities/KEY_MUTOG_TRAILBASH_DESCRIPTION"
 msgid "Perform a melee attack with tail, and daze target if shock value is greater than target's Hit Points"
-msgstr "尻尾での近接攻撃を行う。ターゲットのヒットポイントをショック値が上回った場合、ターゲットを放心状態にする"
+msgstr "尻尾での近接攻撃を行う。ターゲットのヒットポイントを ショック値が上回った場合、ターゲットを放心状態にする"
 
 msgctxt "Abilities/KEY_MUTOG_TRAILBASH_NAME"
 msgid "TAIL BASH"
@@ -1049,7 +1049,7 @@ msgstr "テール・バッシュ"
 
 msgctxt "Abilities/KEY_MUTOG_TRAILSLICE_DESCRIPTION"
 msgid "Perform slicing melee attack with tail, with a high chance of causing bleeding"
-msgstr "高確率で出血を引き起こす、尻尾での近接切断攻撃を行う"
+msgstr "高確率で出血を引き起こす、 尻尾での近接切断攻撃を行う"
 
 msgctxt "Abilities/KEY_MUTOG_TRAILSLICE_NAME"
 msgid "TAIL SLICE"
@@ -1057,7 +1057,7 @@ msgstr "テール・スライス"
 
 msgctxt "Abilities/KEY_OVERWATCH_DESCRIPTION"
 msgid "Select a target position to direct overwatch attacks against enemies that enter the trigger cone during the enemy turn"
-msgstr "監視の範囲方向を選択する。敵のターン中、[LF]監視範囲に入ってきた敵に対して攻撃が発動する"
+msgstr "監視の範囲方向を選択する。敵のターン中、 ]監視範囲に入ってきた敵に対して攻撃が発動する"
 
 msgctxt "Abilities/KEY_OVERWATCH_FOCUS_NAME"
 msgid "OVERWATCH FOCUS"
@@ -1081,7 +1081,7 @@ msgstr "毒無効"
 
 msgctxt "Abilities/KEY_POWER_SURGE_DESCRIPTION"
 msgid "Powerful electric melee attack that deals 30 Hit Points damage to all enemy body parts"
-msgstr "敵の全ての部位に対して30のヒットポイントダメージを与える強力な近接攻撃"
+msgstr "敵の全ての部位に対して30のヒットポイント ダメージを与える強力な近接攻撃"
 
 msgctxt "Abilities/KEY_POWER_SURGE_NAME"
 msgid "POWER SURGE"
@@ -1097,7 +1097,7 @@ msgstr "プリースト・トレーニング"
 
 msgctxt "Abilities/KEY_PSYCHIC_BLAST_DESCRIPTION"
 msgid "Deal 100 damage to all enemy entities within 10 tiles"
-msgstr "10タイル内のすべての敵の実在に100のダメージを与える"
+msgstr "10タイル内のすべての敵の実在に 100のダメージを与える"
 
 msgctxt "Abilities/KEY_PSYCHIC_BLAST_NAME"
 msgid "MIND CRUSH"
@@ -1105,7 +1105,7 @@ msgstr "マインドクラッシュ"
 
 msgctxt "Abilities/KEY_PSYCHIC_SCREAM_DESCRIPTION"
 msgid "Reduce the Will Points of all enemy units within a limited range"
-msgstr "限られた範囲内のすべての敵ユニットのウィルポイントを減少させる"
+msgstr "限られた範囲内のすべての敵ユニットの ウィルポイントを減少させる"
 
 msgctxt "Abilities/KEY_PSYCHIC_SCREAM_NAME"
 msgid "PSYCHIC SCREAM"
@@ -1113,7 +1113,7 @@ msgstr "サイキックスクリーム"
 
 msgctxt "Abilities/KEY_PSYCHIC_WARD_DESCRIPTION"
 msgid "Allies within 10 tiles are immune to Panic and Psychic damage attacks"
-msgstr "10タイル内にいる味方は、パニックおよびサイキックダメージ攻撃の影響を受けない"
+msgstr "10タイル内にいる味方は、パニックおよび サイキックダメージ攻撃の影響を受けない"
 
 msgctxt "Abilities/KEY_PSYCHIC_WARD_NAME"
 msgid "PSYCHIC WARD"
@@ -1121,7 +1121,7 @@ msgstr "サイキックワード"
 
 msgctxt "Abilities/KEY_RAGE_BURST_DESCRIPTION"
 msgid "Shoot 5 times with 50% accuracy using a proficient, direct-fire weapon"
-msgstr "武器技能に対応している直線射撃武器を用いて、50%の命中精度で5回の射撃を行う"
+msgstr "武器技能に対応している直線射撃武器を用いて、 50%の命中精度で5回の射撃を行う"
 
 msgctxt "Abilities/KEY_RAGE_BURST_NAME"
 msgid "RAGE BURST"
@@ -1129,7 +1129,7 @@ msgstr "レイジバースト"
 
 msgctxt "Abilities/KEY_RALLY_DESCRIPTION"
 msgid "Each ally recovers 1 Action Point. Limited to one use per turn."
-msgstr "各味方のアクションポイントが1回復する。1ターンにつき1度しか使用できない。"
+msgstr "各味方のアクションポイントが1回復する。 1ターンにつき1度しか使用できない。"
 
 msgctxt "Abilities/KEY_RALLY_NAME"
 msgid "RALLY THE TROOPS"
@@ -1137,7 +1137,7 @@ msgstr "ラリー・ザ・トループス"
 
 msgctxt "Abilities/KEY_RAPID_CLEARANCE_DESCRIPTION"
 msgid "Recover 2 Action Points for each enemy killed, until the end of the turn"
-msgstr "そのターンの終了までのあいだ、敵を殺害する毎にAPが2ポイント回復する"
+msgstr "そのターンの終了までのあいだ、 敵を殺害する毎にAPが2ポイント回復する"
 
 msgctxt "Abilities/KEY_RAPID_CLEARANCE_NAME"
 msgid "RAPID CLEARANCE"
@@ -1145,7 +1145,7 @@ msgstr "ラピッド・クリアランス"
 
 msgctxt "Abilities/KEY_READY_FOR_ACTION_DESCRIPTION"
 msgid "Reloading and Inventory actions do not cost any Action Points"
-msgstr "リロード及びインベントリアクションのAPコストがかからなくなる"
+msgstr "リロード及びインベントリアクションの APコストがかからなくなる"
 
 msgctxt "Abilities/KEY_READY_FOR_ACTION_NAME"
 msgid "READY FOR ACTION"
@@ -1153,7 +1153,7 @@ msgstr "レディーフォー・アクション"
 
 msgctxt "Abilities/KEY_RECOVER_DESCRIPTION"
 msgid "Recover Will Points equal to half Willpower, and end this character's turn"
-msgstr "ウィルパワーの半分と同値のウィルポイントを回復し、そのキャラクターのターンを終了させる"
+msgstr "ウィルパワーの半分と同値のウィルポイントを回復し、 そのキャラクターのターンを終了させる"
 
 msgctxt "Abilities/KEY_RECOVER_NAME"
 msgid "RECOVER"
@@ -1165,7 +1165,7 @@ msgstr "リロード"
 
 msgctxt "Abilities/KEY_RELOAD_DESCRIPTION"
 msgid "Reload a weapon or re-charge an equipment item. Current weapon ammunition will be lost."
-msgstr "武器をリロード、または装備アイテムを充電する。今ある武器の弾は失われる。"
+msgstr "武器をリロード、または装備アイテムを充電する。 今ある武器の弾は失われる。"
 
 msgctxt "Abilities/KEY_RELOAD_NAME"
 msgid "RELOAD"
@@ -1197,7 +1197,7 @@ msgstr "タレット回収"
 
 msgctxt "Abilities/KEY_RETURNFIRE_DESCRIPTION"
 msgid "Shoot back at an enemy when it attacks, provided the soldier is using a direct-fire projectile weapon with proficiency, and the enemy is within half perception range."
-msgstr "その兵士が習熟した直線射撃武器を使用しており、なおかつ感知力範囲の半分以内にいる敵が攻撃してきた場合、撃ち返しを行う。"
+msgstr "その兵士が習熟した直線射撃武器を使用しており、 なおかつ感知力範囲の半分以内にいる敵が攻撃してきた場合、 撃ち返しを行う。"
 
 msgctxt "Abilities/KEY_RETURNFIRE_NAME"
 msgid "RETURN FIRE"
@@ -1221,7 +1221,7 @@ msgstr "静音武器技能"
 
 msgctxt "Abilities/KEY_SIREN_INJECTING_STRIKE_DESCRIPTION"
 msgid "Inflict viral damage, reducing Will Points over multiple turns"
-msgstr "ウイルスダメージを与え、複数のターンにわたってウィルポイントを減少させる"
+msgstr "ウイルスダメージを与え、 複数のターンにわたってウィルポイントを減少させる"
 
 msgctxt "Abilities/KEY_SIREN_INJECTING_STRIKE_NAME"
 msgid "INJECTING STRIKE"
@@ -1277,7 +1277,7 @@ msgstr "+10%の命中精度を持つスナイパーライフル技能"
 
 msgctxt "Abilities/KEY_SONIC_BLAST_DESCRIPTION"
 msgid "Emit a sonic blast in a cone area that dazes targets if blast value is greater than targets' Will Points"
-msgstr "コーン型の範囲内にソニックブラストを放つ。与えたソニック値がターゲットのウィルポイントを上回っていた場合、ターゲットを放心状態にする。"
+msgstr "コーン型の範囲内にソニックブラストを放つ。 与えたソニック値がターゲットのウィルポイントを上回っていた場合、 ターゲットを放心状態にする。"
 
 msgctxt "Abilities/KEY_SONIC_BLAST_NAME"
 msgid "SONIC BLAST"
@@ -1333,7 +1333,7 @@ msgstr "ストライク"
 
 msgctxt "Abilities/KEY_SURPRISE_ATTACK_DESCRIPTION"
 msgid "Attacks from behind gain shock value equal to 3 times the damage dealt"
-msgstr "背後からの攻撃が、与えたダメージの3倍のショックダメージを同時に与える"
+msgstr "背後からの攻撃が、与えたダメージの 3倍のショックダメージを同時に与える"
 
 msgctxt "Abilities/KEY_SURPRISE_ATTACK_NAME"
 msgid "SURPRISE ATTACK"
@@ -1365,7 +1365,7 @@ msgstr "テクニシャン・リペア"
 
 msgctxt "Abilities/KEY_TECHNICIAN_RESTORE_DESCRIPTION"
 msgid "Restore {GeneralHealAmount} to the general Hit Points of an allied unit using 1 charge"
-msgstr "1チャージを消費して味方ユニットの全体ヒットポイントを{GeneralHealAmount}ぶん回復させる"
+msgstr "1チャージを消費して味方ユニットの全体ヒットポイントを {GeneralHealAmount}ぶん回復させる"
 
 msgctxt "Abilities/KEY_TECHNICIAN_RESTORE_NAME"
 msgid "TECHNICIAN HEAL"
@@ -1373,7 +1373,7 @@ msgstr "テクニシャンヒール"
 
 msgctxt "Abilities/KEY_TELEPATHIC_ATTACK_DESCRIPTION"
 msgid "Reduce the Will Points of all enemy units in a 20 tile radius"
-msgstr "半径20タイル内にいる全ての敵ユニットのウィルポイントを減少させる"
+msgstr "半径20タイル内にいる全ての敵ユニットの ウィルポイントを減少させる"
 
 msgctxt "Abilities/KEY_TELEPATHIC_ATTACK_NAME"
 msgid "PSYCHIC SCREAM"
@@ -1389,7 +1389,7 @@ msgstr "グレネードを投げる"
 
 msgctxt "Abilities/KEY_TURRET_COMBO_DESCRIPTION"
 msgid "Take a shot at a target, and all turrets will shoot at the same target."
-msgstr "ターゲットを射撃すると、すべてのタレットが同じターゲットに砲撃する。"
+msgstr "ターゲットを射撃すると、 すべてのタレットが同じターゲットに砲撃する。"
 
 msgctxt "Abilities/KEY_TURRET_COMBO_NAME"
 msgid "TURRET COMBO"
@@ -1397,7 +1397,7 @@ msgstr "タレットコンボ"
 
 msgctxt "Abilities/KEY_USE_ATTACHED_EQUIPMENT_DESCRIPTION"
 msgid "Use Jet Jump ability without risk of fumbling"
-msgstr "失敗のリスク無しでジェットジャンプのアビリティを使用できる"
+msgstr "失敗のリスク無しで ジェットジャンプのアビリティを使用できる"
 
 msgctxt "Abilities/KEY_USE_ATTACHED_EQUIPMENT_NAME"
 msgid "JETPACK PROFICIENCY"
@@ -1413,7 +1413,7 @@ msgstr "メディキット使用"
 
 msgctxt "Abilities/KEY_VANISH_DESCRIPTION"
 msgid "Move within 5 tiles and disappear from view for the next turn (or until spotted)"
-msgstr "5タイル以内の範囲に移動して、次のターン(または探知される)まで視界から姿を消す"
+msgstr "5タイル以内の範囲に移動して、 次のターン(または探知される)まで視界から姿を消す"
 
 msgctxt "Abilities/KEY_VANISH_NAME"
 msgid "VANISH"
@@ -1421,7 +1421,7 @@ msgstr "ヴァニッシュ"
 
 msgctxt "Abilities/KEY_VCEHICLE_RAM_DESCRIPTION"
 msgid "Ram in a straight line in the selected direction, destroying or damaging everything in its path."
-msgstr "選択した方向に直線状に突進し、進路上にある全てを破壊もしくはダメージを与える。"
+msgstr "選択した方向に直線状に突進し、 進路上にある全てを破壊もしくはダメージを与える。"
 
 msgctxt "Abilities/KEY_VCEHICLE_RAM_NAME"
 msgid "RAM"
@@ -1445,7 +1445,7 @@ msgstr "ウイルス耐性"
 
 msgctxt "Abilities/KEY_WEAPON_BASH_DESCRIPTION"
 msgid "Bash adjacent enemy, with shock and damage value equal to Strength times item weight. Half the damage is done to item/hand."
-msgstr "隣接する敵を殴りつけてショックダメージと通常ダメージを与える。ダメージは手にしたアイテムとストレングスを乗算したものと同値。半分のダメージがアイテムにはね返る。"
+msgstr "隣接する敵を殴りつけてショックダメージと通常ダメージを与える。 ダメージは手にしたアイテムとストレングスを乗算したものと同値。 半分のダメージがアイテムにはね返る。"
 
 msgctxt "Abilities/KEY_WEAPON_BASH_NAME"
 msgid "BASH ATTACK"
@@ -1477,7 +1477,7 @@ msgstr "専心"
 
 msgctxt "Abilities/KEY_INDUCE_PANIC_DESCRIPTION"
 msgid "Cause a target to panic if its current Will Points are less than the Priest's"
-msgstr "ターゲットの現在ウィルポイントがプリーストのものより少ない場合、パニックにさせる"
+msgstr "ターゲットの現在ウィルポイントが プリーストのものより少ない場合、パニックにさせる"
 
 msgctxt "Abilities/KEY_INDUCE_PANIC_NAME"
 msgid "INDUCE PANIC"
@@ -1485,7 +1485,7 @@ msgstr "インデュース・パニック"
 
 msgctxt "Abilities/KEY_MUTOG_DEVOUR_DESCRIPTION"
 msgid "On killing an enemy, restore Hit Points equal to 50% of the target's maximum Hit Points"
-msgstr "敵を倒すと、ターゲットの最大ヒットポイントの50％に等しいヒットポイントが回復する"
+msgstr "敵を倒すと、ターゲットの最大ヒットポイントの 50％に等しいヒットポイントが回復する"
 
 msgctxt "Abilities/KEY_MUTOG_DEVOUR_NAME"
 msgid "DEVOUR"
@@ -1513,7 +1513,7 @@ msgstr "2倍の命中率で2回撃つ。"
 
 msgctxt "Abilities/KEY_TAKE_UP_TO_3_BURSTS_AT_ONE_OR_MORE_T"
 msgid "Take up to 3 bursts at one or more targets, with no action cost."
-msgstr "APコスト無しで、1体または複数のターゲット相手に最大3回のバーストを行う。"
+msgstr "APコスト無しで、1体または複数の ターゲット相手に最大3回のバーストを行う。"
 
 msgctxt "Abilities/KEY_CHIRON_JUMP_DESCRIPTION"
 msgid "Leap to target location"
@@ -1549,7 +1549,7 @@ msgstr "爆発物迫撃"
 
 msgctxt "Abilities/KEY_CHIRON_STABILITY_STANCE_DESCRIPTION"
 msgid "Enter Stability Stance. Movement is disabled, and launching accuracy and projectile count are increased."
-msgstr "固定姿勢に入る。移動できなくなり、迫撃精度と発射数が増加する。"
+msgstr "固定姿勢に入る。移動できなくなり、 迫撃精度と発射数が増加する。"
 
 msgctxt "Abilities/KEY_CHIRON_STABILITY_STANCE_NAME"
 msgid "STABILITY STANCE"
@@ -1557,7 +1557,7 @@ msgstr "固定姿勢"
 
 msgctxt "Abilities/KEY_CHIRON_STANDARD_STANCE_DESCRIPTION"
 msgid "Enter Standard Stance. Movement is allowed, and launch accurancy and quantity return to standard levels."
-msgstr "通常姿勢に入る。移動が可能になり、迫撃精度と発射数が通常レベルに戻る。"
+msgstr "通常姿勢に入る。移動が可能になり、 迫撃精度と発射数が通常レベルに戻る。"
 
 msgctxt "Abilities/KEY_CHIRON_STANDARD_STANCE_NAME"
 msgid "STANDARD STANCE"
@@ -1565,7 +1565,7 @@ msgstr "通常姿勢"
 
 msgctxt "Abilities/KEY_CHIRON_STOMP_DESCRIPTION"
 msgid "Perform Stomping Attack affecting a 10 tile radius with a chance to Shock. Damage diminishes with range."
-msgstr "半径10タイルに効果を及ぼす、確率でショックを与えるストンプ攻撃を行う。ダメージは距離によって減衰する。"
+msgstr "半径10タイルに効果を及ぼす、 確率でショックを与えるストンプ攻撃を行う。 ダメージは距離によって減衰する。"
 
 msgctxt "Abilities/KEY_CHIRON_STOMP_NAME"
 msgid "STOMP SHOCK ATTACK"
@@ -1597,7 +1597,7 @@ msgstr "エクストリーム・フォーカス"
 
 msgctxt "Abilities/KEY_SNIPER_QUICK_AIM_DESCRIPTION"
 msgid "The Action Point cost of the next shot with a proficient weapon is reduced by 1"
-msgstr "次に行う、習熟武器での射撃アクションポイントコストが1減少する"
+msgstr "次に行う、習熟武器での 射撃アクションポイントコストが1減少する"
 
 msgctxt "Abilities/KEY_SNIPER_QUICK_AIM_NAME"
 msgid "QUICK AIM"
@@ -1605,7 +1605,7 @@ msgstr "クイックエイム"
 
 msgctxt "Abilities/KEY_SNIPER_WEAK_SPOT_DESCRIPTION"
 msgid "Disabling a body part also removes that body part's armor"
-msgstr "攻撃によって部位を使用不能状態にすると、その部位のアーマーが0になる。"
+msgstr "攻撃によって部位を使用不能状態にすると、 その部位のアーマーが0になる。"
 
 msgctxt "Abilities/KEY_SNIPER_WEAK_SPOT_NAME"
 msgid "WEAK SPOT"
@@ -1613,7 +1613,7 @@ msgstr "ウィーク・スポット"
 
 msgctxt "Abilities/KEY_SNIPER_MARK_FOR_DEATH_DESCRIPTION"
 msgid "Mark an enemy target. Until end of turn all damage to that target is increased by 50%."
-msgstr "敵のターゲットをマークする。ターン終了時までのあいだ、そのターゲットに対する全てのダメージが50％増加する。"
+msgstr "敵のターゲットをマークする。 ターン終了時までのあいだ、 そのターゲットに対する全てのダメージが50％増加する。"
 
 msgctxt "Abilities/KEY_SNIPER_MARK_FOR_DEATH_NAME"
 msgid "MARK FOR DEATH"
@@ -1621,7 +1621,7 @@ msgstr "マーク・フォー・デス"
 
 msgctxt "Abilities/KEY_HEAVY_WARCRY_DESCRIPTION"
 msgid "All enemies within 10 tiles have their Action Points reduced to 2 for the next turn"
-msgstr "10タイル内にいる全ての敵のアクションポイントを2に減少させる"
+msgstr "10タイル内にいる全ての敵の アクションポイントを2に減少させる"
 
 msgctxt "Abilities/KEY_HEAVY_WARCRY_NAME"
 msgid "WAR CRY"
@@ -1629,7 +1629,7 @@ msgstr "ウォークライ"
 
 msgctxt "Abilities/KEY_HEAVY_BOOM_BLAST_DESCRIPTION"
 msgid "The Action Point cost of Grenades, and other explosive weapons, is reduced by 1 and their range is increased by 50% until the end of the turn."
-msgstr "ターン終了までの間、グレネード及びその他爆発兵器のアクションポイントコストが1減少し、さらに射程も50％延長される。"
+msgstr "ターン終了までの間、グレネード及びその他爆発兵器の アクションポイントコストが1減少し、 さらに射程も50％延長される。"
 
 msgctxt "Abilities/KEY_HEAVY_BOOM_BLAST_NAME"
 msgid "BOOM BLAST"
@@ -1645,7 +1645,7 @@ msgstr "インスパイア"
 
 msgctxt "Abilities/KEY_TECHNICIAN_FAST_USE_DESCRIPTION"
 msgid "The Action Point cost of Medkits, Stimpacks, and Robotic Arm abilities is reduced by 1"
-msgstr "メディキット及びスティムパック、ロボティックアームアビリティのアクションポイントコストが1減少する"
+msgstr "メディキット及びスティムパック、 ロボティックアームアビリティの アクションポイントコストが1減少する"
 
 msgctxt "Abilities/KEY_TECHNICIAN_FAST_USE_NAME"
 msgid "FAST USE"
@@ -1653,7 +1653,7 @@ msgstr "ファスト・ユーズ"
 
 msgctxt "Abilities/KEY_TECHNICIAN_MANUAL_CONTROL_DESCRIPTION"
 msgid "Take manual control of a turret or vehicle weapon and shoot at a target"
-msgstr "タレットまたは車両武装を直接操作し、ターゲットに射撃する"
+msgstr "タレットまたは車両武装を直接操作し、 ターゲットに射撃する"
 
 msgctxt "Abilities/KEY_TECHNICIAN_MANUAL_CONTROL_NAME"
 msgid "MANUAL CONTROL"
@@ -1669,7 +1669,7 @@ msgstr "フィールドメディック"
 
 msgctxt "Abilities/KEY_TECHNICIAN_REMOTE_DEPLOYMENT_DESCRIPTION"
 msgid "Turrets can be thrown and deployed for 1 Action Point"
-msgstr "1アクションポイントを用いて、タレットを投擲し展開する事ができる"
+msgstr "1アクションポイントを用いて、 タレットを投擲し展開する事ができる"
 
 msgctxt "Abilities/KEY_TECHNICIAN_REMOTE_DEPLOYMENT_NAME"
 msgid "REMOTE DEPLOYMENT"
@@ -1693,7 +1693,7 @@ msgstr "重要構造物"
 
 msgctxt "Abilities/KEY_TECHNICIAN_RELOAD_TURRET_DESCRIPTION"
 msgid "Reload turret. Current turret ammunition will be lost."
-msgstr "タレットをリロードする。タレットが現在抱えている弾薬は失われる。"
+msgstr "タレットをリロードする。 タレットが現在抱えている弾薬は失われる。"
 
 msgctxt "Abilities/KEY_TECHNICIAN_RELOAD_TURRET_NAME"
 msgid "RELOAD TURRET"
@@ -1861,7 +1861,7 @@ msgstr "目標"
 
 msgctxt "Abilities/KEY_MOTION_DETECTION_DESCRIPTION"
 msgid "Locate all nearby enemies, even behind obstructions"
-msgstr "たとえ障害物の向こうにいようとも、近くにいる全ての敵を探知する"
+msgstr "たとえ障害物の向こうにいようとも、 近くにいる全ての敵を探知する"
 
 msgctxt "Abilities/KEY_MOTION_DETECTION_NAME"
 msgid "MOTION DETECTION"
@@ -1869,7 +1869,7 @@ msgstr "動体検知"
 
 msgctxt "Abilities/KEY_PRIEST_RADIANT_HOPE_DESCRIPTION"
 msgid "Living allied units within 7 tiles recover 2 Will Points at the start of turn"
-msgstr "ターン開始時、7タイル以内にいる全ての味方生物ユニットはウィルポイントが2回復する。"
+msgstr "ターン開始時、7タイル以内にいる 全ての味方生物ユニットは ウィルポイントが2回復する。"
 
 msgctxt "Abilities/KEY_PRIEST_RADIANT_HOPE_NAME"
 msgid "RADIANT HOPE"
@@ -1885,7 +1885,7 @@ msgstr "スパイク射出"
 
 msgctxt "Abilities/KEY_USE_STIMPACK_DESCRIPTION"
 msgid "Instill Frenzy on target, increasing its Action points by 1 and Will Points by 2 for 2 turns."
-msgstr "ターゲットに激昂を植え付ける。2ターンの間、そのターゲットのアクションポイントが1、ウィルポイントが2増加する。"
+msgstr "ターゲットに激昂を植え付ける。 2ターンの間、 そのターゲットのアクションポイントが1、 ウィルポイントが2増加する。"
 
 msgctxt "Abilities/KEY_USE_STIMPACK_NAME"
 msgid "USE STIMPACK"
@@ -1893,7 +1893,7 @@ msgstr "スティムパック使用"
 
 msgctxt "Abilities/KEY_USE_THROW_TURRET_DESCRIPTION"
 msgid "Throw a turred at a selected ground location. The turret will deploy automatically."
-msgstr "選択した地面の場所にタレットを投げつける。投げたタレットは自動的に設置される。"
+msgstr "選択した地面の場所にタレットを投げつける。 投げたタレットは自動的に設置される。"
 
 msgctxt "Abilities/KEY_USE_THROW_TURRET_NAME"
 msgid "THROW TURRET"
@@ -1901,7 +1901,7 @@ msgstr "タレット投擲"
 
 msgctxt "Abilities/KEY_USE_VIROPHAGE_KIT_DESCRIPTION"
 msgid "Restore {GeneralHealAmount} Hit Points, and removes all viral infection"
-msgstr "{GeneralHealAmount}のヒットポイントを回復し、なおかつ全てのウイルス感染を取り除く"
+msgstr "{GeneralHealAmount}のヒットポイントを回復し、 なおかつ全てのウイルス感染を取り除く"
 
 msgctxt "Abilities/KEY_USE_VIROPHAGE_KIT_NAME"
 msgid "VIROPHAGE MEDKIT"
@@ -1949,7 +1949,7 @@ msgstr "フル・レストア"
 
 msgctxt "Abilities/KEY_PSYCHIC_SCREAM_PRIEST_DESCRIPTION"
 msgid "Scream, reducing the Will Points of all enemy units in an 8 tile radius."
-msgstr "叫びをあげ、半径8タイル以内の全ての敵ユニットのウィルポイントを減少させる。"
+msgstr "叫びをあげ、半径8タイル以内の 全ての敵ユニットのウィルポイントを減少させる。"
 
 msgctxt "Abilities/KEY_SCYLLA_LEAP_NAME"
 msgid "MONSTER LEAP"
@@ -1957,7 +1957,7 @@ msgstr "モンスターリープ"
 
 msgctxt "Abilities/KEY_SCYLLA_LEAP_DESC"
 msgid "Leap to a target location, destroying everything in its path"
-msgstr "その途中にあるもの全てを破壊しながら目標位置へ跳躍する。"
+msgstr "その途中にあるもの全てを 破壊しながら目標位置へ跳躍する。"
 
 msgctxt "Abilities/KEY_RESISTED"
 msgid "Resisted"
@@ -2009,7 +2009,7 @@ msgstr "マーク・オブ・ザ・ヴォイド"
 
 msgctxt "Abilities/KEY_YUGGOTH_ATTACK_DESCRIPTION"
 msgid "Apply a mark on an enemy, which damages it, and enemies within 5 tiles, at the start of each turn."
-msgstr "敵一体にマークをつける。マークされた敵及びその周囲5タイル内の敵は、毎ターン開始時にダメージを受ける。"
+msgstr "敵一体にマークをつける。 マークされた敵及びその周囲5タイル内の敵は、 毎ターン開始時にダメージを受ける。"
 
 msgctxt "Abilities/KEY_YUGGOTH_DEFENCE_NAME"
 msgid "ACID, EXPLOSIVES, AND FIRE RESISTANCE"
@@ -2025,7 +2025,7 @@ msgstr "バイオケミスト"
 
 msgctxt "Abilities/KEY_BIOCHEMIST_PERSONALTRACK_DESC"
 msgid "All attacks that damage a target also inflict 1 viral damage (per bullet)"
-msgstr "ターゲットにダメージを与える攻撃は全て、さらにウィルスダメージ1を付与する(弾1発ごとに)"
+msgstr "ターゲットにダメージを与える攻撃は全て、 さらにウィルスダメージ1を付与する(弾1発ごとに)"
 
 msgctxt "Abilities/KEY_BRAINIAC_PERSONALTRACK_NAME"
 msgid "FARSIGHTED"
@@ -2041,7 +2041,7 @@ msgstr "コーシャス"
 
 msgctxt "Abilities/KEY_CAUTIOUS_PERSONALTRACK_DESC"
 msgid "20% bonus accuracy and -10% damage dealt"
-msgstr "命中精度ボーナスが20％増加し、与えるダメージが-10％になる"
+msgstr "命中精度ボーナスが20％増加し、 与えるダメージが-10％になる"
 
 msgctxt "Abilities/KEY_CLOSEQUARTERSSPECIALIST_PERSONALTRACK_NAME"
 msgid "CLOSE QUARTERS SPECIALIST"
@@ -2049,7 +2049,7 @@ msgstr "クローズクォーターズ・スペシャリスト"
 
 msgctxt "Abilities/KEY_CLOSEQUARTERSSPECIALIST_PERSONALTRACK_DISC"
 msgid "Gain Shotgun and Melee Weapon proficiency with +20% damage"
-msgstr "ショットガンと近接武器の技能を獲得。該当武器使用時のダメージ+20％"
+msgstr "ショットガンと近接武器の技能を獲得。 該当武器使用時のダメージ+20％"
 
 msgctxt "Abilities/KEY_CRAFTY_PERSONALTRACK_NAME"
 msgid "BOMBARDIER"
@@ -2057,7 +2057,7 @@ msgstr "ボンバルディア"
 
 msgctxt "Abilities/KEY_CRAFTY_PERSONALTRACK_DESC"
 msgid "Gain Mounted Weapon proficiency with +20% range and damage"
-msgstr "マウント式ウェポン技能を獲得。該当武器の射程とダメージ+20％"
+msgstr "マウント式ウェポン技能を獲得。 該当武器の射程とダメージ+20％"
 
 msgctxt "Abilities/KEY_FOCUSED_PERSONALTRACK_NAME"
 msgid "SNIPERIST"
@@ -2065,7 +2065,7 @@ msgstr "スナイパリスト"
 
 msgctxt "Abilities/KEY_FOCUSED_PERSONALTRACK_DESC"
 msgid "Gain Sniper Rifle proficiency with +25% damage and -4 Willpower"
-msgstr "スナイパーライフル技能を獲得。該当武器使用時のダメージ+20％。ウィルパワーが-4される。"
+msgstr "スナイパーライフル技能を獲得。 該当武器使用時のダメージ+20％。 ウィルパワーが-4される。"
 
 msgctxt "Abilities/KEY_GOODSHOT_PERSONALTRACK_NAME"
 msgid "TROOPER"
@@ -2073,7 +2073,7 @@ msgstr "トルーパー"
 
 msgctxt "Abilities/KEY_GOODSHOT_PERSONALTRACK_DESC"
 msgid "Gain Assault Rifle proficiency with +20% damage and accuracy"
-msgstr "アサルトライフル技能を獲得。該当武器のダメージ及び命中精度+20％"
+msgstr "アサルトライフル技能を獲得。 該当武器のダメージ及び命中精度+20％"
 
 msgctxt "Abilities/KEY_HELPFUL_PERSONALTRACK_NAME"
 msgid "HEALER"
@@ -2081,7 +2081,7 @@ msgstr "ヒーラー"
 
 msgctxt "Abilities/KEY_HELPFUL_PERSONALTRACK_DESC"
 msgid "50% bonus healing and +2 Willpower"
-msgstr "回復行動に50％のボーナスがつき、ウィルパワーが+2される"
+msgstr "回復行動に50％のボーナスがつき、 ウィルパワーが+2される"
 
 msgctxt "Abilities/KEY_PITCHER_PERSONALTRACK_NAME"
 msgid "QUARTERBACK"
@@ -2089,7 +2089,7 @@ msgstr "クォーターバック"
 
 msgctxt "Abilities/KEY_PITCHER_PERSONALTRACK_DESC"
 msgid "50% bonus Grenade range and +2 Speed"
-msgstr "グレネードの投擲範囲に50％のボーナスが付き、スピードが+2される"
+msgstr "グレネードの投擲範囲に50％のボーナスが付き、 スピードが+2される"
 
 msgctxt "Abilities/KEY_RECKLESS_PERSONALTRACK_NAME"
 msgid "RECKLESS"
@@ -2097,7 +2097,7 @@ msgstr "レックレス"
 
 msgctxt "Abilities/KEY_RECKLESS_PERSONALTRACK_DESC"
 msgid "30% bonus damage dealt and -20% accuracy"
-msgstr "与えるダメージに30％のボーナスが付くが、命中精度が-20％される"
+msgstr "与えるダメージに30％のボーナスが付くが、 命中精度が-20％される"
 
 msgctxt "Abilities/KEY_RESOURCEFULL_PERSONALTRACK_NAME"
 msgid "RESOURCEFUL"
@@ -2105,7 +2105,7 @@ msgstr "リソースフル"
 
 msgctxt "Abilities/KEY_RESOURCEFULL_PERSONALTRACK_DESC"
 msgid "25% bonus carry weight and +2 Strength"
-msgstr "所持可能重量に25％のボーナスが付き、ストレングスが+2される"
+msgstr "所持可能重量に25％のボーナスが付き、 ストレングスが+2される"
 
 msgctxt "Abilities/KEY_SELFDEFENSESPECIALIST_PERSONALTRACK_NAME"
 msgid "SELF DEFENSE SPECIALIST"
@@ -2113,7 +2113,7 @@ msgstr "セルフディフェンス・スペシャリスト"
 
 msgctxt "Abilities/KEY_SELFDEFENSESPECIALIST_PERSONALTRACK_DESC"
 msgid "Gain PDW and Handgun proficiency with +20% damage dealt and +10 hearing range"
-msgstr "PDW及びハンドガン技能を獲得。該当武器で与えるダメージ+20%、聴覚範囲+10"
+msgstr "PDW及びハンドガン技能を獲得。 該当武器で与えるダメージ+20%、 聴覚範囲+10"
 
 msgctxt "Abilities/KEY_STRONGMAN_PERSONALTRACK_NAME"
 msgid "STRONGMAN"
@@ -2121,7 +2121,7 @@ msgstr "ストロングマン"
 
 msgctxt "Abilities/KEY_STRONGMAN_PERSONALTRACK_DESC"
 msgid "Gain Heavy Weapons proficiency with +30% bonus damage and -10 perception"
-msgstr "ヘビーウェポン技能を獲得。該当武器で与えるダメージ+20%、知覚力-10"
+msgstr "ヘビーウェポン技能を獲得。 該当武器で与えるダメージ+20%、 知覚力-10"
 
 msgctxt "Abilities/KEY_THIEF_PERSONALTRACK_NAME"
 msgid "THIEF"
@@ -2129,7 +2129,7 @@ msgstr "シーフ"
 
 msgctxt "Abilities/KEY_THIEF_PERSONALTRACK_DESC"
 msgid "25% bonus stealth and -2 Speed"
-msgstr "ステルスに25％のボーナスが付き、スピードが-2される"
+msgstr "ステルスに25％のボーナスが付き、 スピードが-2される"
 
 msgctxt "Abilities/KEY_REGENERATION_TORSO_NAME"
 msgid "REGENERATE"
@@ -2137,7 +2137,7 @@ msgstr "リジェネレート"
 
 msgctxt "Abilities/KEY_REGENERATION_TORSO_DESCRIPTION"
 msgid "Restore 10 Hit Points to all injured body parts and General Hit Points each turn"
-msgstr "全ての部位ヒットポイント及び全体ヒットポイントがターン毎に10回復する"
+msgstr "全ての部位ヒットポイント及び 全体ヒットポイントがターン毎に10回復する"
 
 msgctxt "Abilities/KEY_SPIDER_EXPLODE_NAME"
 msgid "DETONATE"
@@ -2185,7 +2185,7 @@ msgstr "モンスターリープ"
 
 msgctxt "Abilities/KEY_QUEEN_LEAP_DESCRIPTION"
 msgid "Leap to target location, destroying everything along the path"
-msgstr "途中にあるもの全てを破壊しながら目標位置に跳躍する"
+msgstr "途中にあるもの全てを破壊しながら 目標位置に跳躍する"
 
 msgctxt "Damage types/KEY_DAMAGE_TYPE_ACID"
 msgid "ACID"
@@ -2193,7 +2193,7 @@ msgstr "酸"
 
 msgctxt "Damage types/KEY_DAMAGE_TYPE_ACID_DESC"
 msgid "ACID damage sticks to body parts - each turn it does 10 damage - first to armor, then body. Acid level reduces by 10 each turn."
-msgstr "酸ダメージは部位に付着し、ターン毎に10ダメージを及ぼす -初めはアーマーに、その後は肉体に。酸レベルはターン毎に10減少する。"
+msgstr "酸ダメージは部位に付着し、 ターン毎に10ダメージを及ぼす -初めはアーマーに、その後は肉体に。 酸レベルはターン毎に10減少する。"
 
 msgctxt "Damage types/KEY_DAMAGE_TYPE_IMPACT"
 msgid "IMPACT"
@@ -2201,7 +2201,7 @@ msgstr "インパクト"
 
 msgctxt "Damage types/KEY_DAMAGE_TYPE_IMPACT_DESC"
 msgid "IMPACT damage reduces HPs and shocks if damage > 20% Strength"
-msgstr "インパクトダメージはHPsを減少させ、ダメージがストレングスの20％を上回った場合ショックさせる"
+msgstr "インパクトダメージはHPsを減少させ、 ダメージがストレングスの20％を上回った場合ショックさせる"
 
 msgctxt "Damage types/KEY_DAMAGE_TYPE_BLAST"
 msgid "BLAST"
@@ -2209,7 +2209,7 @@ msgstr "爆破"
 
 msgctxt "Damage types/KEY_DAMAGE_TYPE_BLAST_DESC"
 msgid "BLAST damage affects all body parts caught within the blast radius"
-msgstr "爆破ダメージは、爆破範囲内に入った部位全てに効果を及ぼす"
+msgstr "爆破ダメージは、 爆破範囲内に入った部位全てに効果を及ぼす"
 
 msgctxt "Damage types/KEY_DAMAGE_TYPE_ELECTROSHOCK"
 msgid "SHOCK"
@@ -2217,7 +2217,7 @@ msgstr "ショック"
 
 msgctxt "Damage types/KEY_DAMAGE_TYPE_ELECTROSHOCK_DESC"
 msgid "SHOCK - if damage value > target's current Hit Points then target is dazed"
-msgstr "ショック - ターゲットの現在ヒットポイントをショックダメージ値が上回った場合、ターゲットは放心状態になる"
+msgstr "ショック - ターゲットの現在ヒットポイントを ショックダメージ値が上回った場合、 ターゲットは放心状態になる"
 
 msgctxt "Damage types/KEY_DAMAGE_TYPE_FIRE"
 msgid "FIRE"
@@ -2225,7 +2225,7 @@ msgstr "火災"
 
 msgctxt "Damage types/KEY_DAMAGE_TYPE_FIRE_DESC"
 msgid "FIRE damage is applied to each body part (max 40), minus armor protection."
-msgstr "火炎ダメージは全ての部位に適用され(最大40)、アーマー値が差し引かれる"
+msgstr "火炎ダメージは全ての部位に適用され(最大40)、 アーマー値が差し引かれる"
 
 msgctxt "Damage types/KEY_DAMAGE_TYPE_MIST"
 msgid "MIST"
@@ -2233,7 +2233,7 @@ msgstr "ミスト"
 
 msgctxt "Damage types/KEY_DAMAGE_TYPE_MIST_DESC"
 msgid "MIST doesn't block line of fire for Pandorans - non-Pandorans are spotted in mist"
-msgstr "ミストはパンドランの射線を遮らず、パンドランでない者がミストに入ると発見される"
+msgstr "ミストはパンドランの射線を遮らず、 パンドランでない者がミストに入ると発見される"
 
 msgctxt "Damage types/KEY_DAMAGE_TYPE_PARALYSIS"
 msgid "PARALYSIS"
@@ -2241,7 +2241,7 @@ msgstr "麻痺"
 
 msgctxt "Damage types/KEY_DAMAGE_TYPE_PARALYSIS_DESC"
 msgid "PARALYSIS - if target takes any damage, the paralysis value is added, reducing Action Points proportionate to target's Strength"
-msgstr "麻痺 - ターゲットが何らかのダメージを受けて麻痺値が加えられると、ターゲットのストレングスに応じてアクションポイントが減少する"
+msgstr "麻痺 - ターゲットが何らかのダメージを受けて麻痺値が加えられると、 ターゲットのストレングスに応じてアクションポイントが減少する"
 
 msgctxt "Damage types/KEY_DAMAGE_TYPE_PIERCING"
 msgid "PIERCING"
@@ -2249,7 +2249,7 @@ msgstr "貫通"
 
 msgctxt "Damage types/KEY_DAMAGE_TYPE_PIERCING_DESC"
 msgid "PIERCING value ignores armor when damage is applied"
-msgstr "ダメージが適用された際に、貫通値分のアーマーが無視される"
+msgstr "ダメージが適用された際に、 貫通値分のアーマーが無視される"
 
 msgctxt "Damage types/KEY_DAMAGE_TYPE_POISON"
 msgid "POISON"
@@ -2257,7 +2257,7 @@ msgstr "毒"
 
 msgctxt "Damage types/KEY_DAMAGE_TYPE_POISON_DESC"
 msgid "POISON value is added to target if it takes any damage. At start of turn poison is subtracted from Hit Points, then poison value is reduced by 10"
-msgstr "ターゲットが何らかのダメージを受けると毒値が加えられる。ターン開始時にヒットポイントから毒値ぶんが差し引かれ、その後毒値は10減少する"
+msgstr "ターゲットが何らかのダメージを受けると毒値が加えられる。 ターン開始時にヒットポイントから毒値ぶんが差し引かれ、 その後毒値は10減少する"
 
 msgctxt "Damage types/KEY_DAMAGE_TYPE_PROJECTILE"
 msgid "PROJECTILE"
@@ -2265,7 +2265,7 @@ msgstr "弾丸"
 
 msgctxt "Damage types/KEY_DAMAGE_TYPE_PROJECTILE_DESC"
 msgid "PROJECTILE damage is reduced by armor, then subtracted from Hit Points"
-msgstr "弾丸ダメージはアーマーによって減衰し、その後ヒットポイントから差し引かれる"
+msgstr "弾丸ダメージはアーマーによって減衰し、 その後ヒットポイントから差し引かれる"
 
 msgctxt "Damage types/KEY_DAMAGE_TYPE_SHRED"
 msgid "SHRED"
@@ -2273,7 +2273,7 @@ msgstr "破砕"
 
 msgctxt "Damage types/KEY_DAMAGE_TYPE_SHRED_DESC"
 msgid "SHRED value destroys this amount of armor, applied after damage"
-msgstr "破砕値は、ダメージが適用された後にその値ぶんのアーマーを破壊する"
+msgstr "破砕値は、 ダメージが適用された後に その値ぶんのアーマーを破壊する"
 
 msgctxt "Damage types/KEY_DAMAGE_TYPE_SLASH"
 msgid "SLASH"
@@ -2281,7 +2281,7 @@ msgstr "切断"
 
 msgctxt "Damage types/KEY_DAMAGE_TYPE_SLASH_DESC"
 msgid "SLASH damage is reduced by armor, then applied to Hit Points. Any damage causes bleeding."
-msgstr "切断ダメージはアーマーによって減衰し、その後ヒットポイントに適用される。少しでもダメージを与えれば出血を引き起こす。"
+msgstr "切断ダメージはアーマーによって減衰し、 その後ヒットポイントに適用される。 少しでもダメージを与えれば出血を引き起こす。"
 
 msgctxt "Damage types/KEY_DAMAGE_TYPE_STUN"
 msgid "SHOCK"
@@ -2289,7 +2289,7 @@ msgstr "ショック"
 
 msgctxt "Damage types/KEY_DAMAGE_TYPE_STUN_DESC"
 msgid "SHOCK - if damage value > target's current Hit Points then target is dazed"
-msgstr "ショック - ショックダメージ値がターゲットの現在ヒットポイントを上回った場合、ターゲットは放心状態になる"
+msgstr "ショック - ショックダメージ値がターゲットの 現在ヒットポイントを 上回った場合、 ターゲットは放心状態になる"
 
 msgctxt "Damage types/KEY_DAMAGE_TYPE_VIROPHAGE"
 msgid "VIROPHAGE"
@@ -2297,7 +2297,7 @@ msgstr "バイロファージ"
 
 msgctxt "Damage types/KEY_DAMAGE_TYPE_VIROPHAGE_DESC"
 msgid "VIROPHAGE value is added to standard damage for Pandorans and mutated targets only"
-msgstr "バイロファージ値は、パンドランと変異したターゲットに対してのみ通常ダメージを加算する"
+msgstr "バイロファージ値は、 パンドランと変異した ターゲットに 対してのみ 通常ダメージを加算する"
 
 msgctxt "Damage types/KEY_DAMAGE_TYPE_VIRUS"
 msgid "VIRUS"
@@ -2305,7 +2305,7 @@ msgstr "ウイルス"
 
 msgctxt "Damage types/KEY_DAMAGE_TYPE_VIRUS_DESC"
 msgid "VIRUS value is added to target if it takes any damage. At start of turn virus is subtracted from Will Points, then virus value is reduced by 1"
-msgstr "ターゲットが何らかのダメージを受けた場合、ウィルス値が追加で与えられる。ターン開始時にウィルポイントからウィルス値が差し引かれ、その後ウィルス値は1減少する"
+msgstr "ターゲットが何らかのダメージを受けた場合、 ウィルス値が追加で与えられる。 ターン開始時にウィルポイントからウィルス値が差し引かれ、 その後ウィルス値は1減少する"
 
 msgctxt "Damage types/KEY_DAMAGE_TYPE_GOO"
 msgid "GOO"
@@ -2313,7 +2313,7 @@ msgstr "粘液"
 
 msgctxt "Damage types/KEY_DAMAGE_TYPE_GOO_DESC"
 msgid "GOO traps soldiers until it decays or goo is destroyed"
-msgstr "粘液は朽ちるか除去されるまでのあいだ、兵士を拘束する"
+msgstr "粘液は朽ちるか除去されるまでのあいだ、 兵士を拘束する"
 
 msgctxt "Damage types/KEY_DAMAGE_TYPE_PSYCHIC"
 msgid "PSYCHIC"
@@ -2321,7 +2321,7 @@ msgstr "サイキック"
 
 msgctxt "Damage types/KEY_DAMAGE_TYPE_PSYCHIC_DESC"
 msgid "PSYCHIC damage directly reduces target's Will Points"
-msgstr "サイキックダメージは直接的にターゲットのウィルポイントを減少させる"
+msgstr "サイキックダメージは直接的に ターゲットのウィルポイントを減少させる"
 
 msgctxt "Damage types/KEY_DAMAGE_TYPE_VAMPIRIC"
 msgid "VAMPIRIC"
@@ -2329,7 +2329,7 @@ msgstr "ヴァンピリック"
 
 msgctxt "Damage types/KEY_DAMAGE_TYPE_VAMPIRIC_DESC"
 msgid "VAMPIRIC damage reduces target's Hit Points, and restores Hit Points of attacker by same amount"
-msgstr "ヴァンピリックダメージはターゲットのヒットポイントを減少させ、それから攻撃者のヒットポイントを同じ量だけ回復させる"
+msgstr "ヴァンピリックダメージはターゲットのヒットポイントを減少させ、 それから攻撃者のヒットポイントを同じ量だけ回復させる"
 
 msgctxt "Damage types/KEY_DAMAGE_TYPE_BLEEDING"
 msgid "BLEED"
