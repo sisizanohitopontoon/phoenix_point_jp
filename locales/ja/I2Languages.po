@@ -1,7 +1,7 @@
 # 
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2020-02-26 11:53+0000\n"
+"PO-Revision-Date: 2020-02-26 11:55+0000\n"
 "Last-Translator: higema <ltdhyndsh@yahoo.co.jp>\n"
 "Language: ja\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
@@ -441,7 +441,7 @@ msgstr "デッドリー・デュオ"
 
 msgctxt "Abilities/KEY_DECOY_DESCRIPTION"
 msgid "Deploy holographic decoy at the chosen location. The decoy is treated as a real target by all enemies."
-msgstr "選択した場所にホログラム式のデコイを展開する。デコイは全ての敵から本物のターゲットとして扱われる。"
+msgstr "選択した場所にホログラム式のデコイを展開する。 デコイは全ての敵から本物のターゲットとして扱われる。"
 
 msgctxt "Abilities/KEY_DECOY_NAME"
 msgid "DEPLOY DECOY"
@@ -853,7 +853,7 @@ msgstr "マスターマークスマン"
 
 msgctxt "Abilities/KEY_MELEE_RIPOSTE_DESCRIPTION"
 msgid "Attack enemies that enter or attack from melee range"
-msgstr "近接攻撃範囲に入ってきた、または近接範囲内で攻撃を行った敵に対し、攻撃する"
+msgstr "近接攻撃範囲に入ってきた、または近接範囲内で 攻撃を行った敵に対し、攻撃する"
 
 msgctxt "Abilities/KEY_MELEE_RIPOSTE_NAME"
 msgid "MELEE RIPOSTE"
@@ -869,7 +869,7 @@ msgstr "近接武器技能"
 
 msgctxt "Abilities/KEY_MIND_CONTROL_DESCRIPTION"
 msgid "Gain control of an enemy with WP cost equal to enemy's current WPs. Costs 1-10 WPs per turn to maintain, depending on target type."
-msgstr "敵の現在WPと同値ぶんのWPを消費して、その敵をコントロール下に置く。ターゲットのタイプにより、コントロールの維持コストは1から10の範囲になる。"
+msgstr "敵の現在WPと同値ぶんのWPを消費して、 その敵をコントロール下に置く。ターゲットのタイプにより、 コントロールの維持コストは1から10の範囲になる。"
 
 msgctxt "Abilities/KEY_MIND_CONTROL_NAME"
 msgid "MIND CONTROL"
@@ -885,7 +885,7 @@ msgstr "リリース"
 
 msgctxt "Abilities/KEY_MIST_BREATHER_DESCRIPTION"
 msgid "Consume all mist within a 3 tile radius. Each 2 mist tiles consumed restores 1 Will Point."
-msgstr "半径3タイル以内の全てのミストを吸収する。2タイルぶんのミスト毎にウィルポイントが1回復する。"
+msgstr "半径3タイル以内の全てのミストを吸収する。 2タイルぶんのミスト毎にウィルポイントが1回復する。"
 
 msgctxt "Abilities/KEY_MIST_BREATHER_NAME"
 msgid "BREATHE MIST"
@@ -905,7 +905,7 @@ msgstr "移動"
 
 msgctxt "Abilities/KEY_MUTATION_ELECTROKICK_DESCRIPTION"
 msgid "Perform a melee kick, and daze target if shock value is greater than target's Hit Points"
-msgstr "キックを行い、与えたショック値がターゲットのヒットポイントを上回った場合は放心状態にさせる"
+msgstr "キックを行い、与えたショック値がターゲットの ヒットポイントを上回った場合は放心状態にさせる"
 
 msgctxt "Abilities/KEY_MUTATION_ELECTROKICK_NAME"
 msgid "ELECTRIC KICK"
