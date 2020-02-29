@@ -1,7 +1,7 @@
 # 
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2020-02-29 13:32+0000\n"
+"PO-Revision-Date: 2020-02-29 13:33+0000\n"
 "Last-Translator: higema <ltdhyndsh@yahoo.co.jp>\n"
 "Language: ja\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
@@ -5928,7 +5928,7 @@ msgstr "OFF"
 
 msgctxt "Options Screen/KEY_OPTIONS_QUIT_CONFIRM"
 msgid "All unsaved game progress will be lost. Are you sure?"
-msgstr "保存されていないゲームの進行状況はすべて失われます。本気ですか？"
+msgstr "保存されていないゲームの進行状況はすべて失われます。問題ありませんか？"
 
 msgctxt "Backer Info/KEY_BCR1_HAVEN"
 msgid "Longinus Point"
@@ -7190,35 +7190,35 @@ msgstr ""
 
 msgctxt "Equipping Screen/KEY_ITEM_TYPE_SHOTGUN"
 msgid "SHOTGUN"
-msgstr ""
+msgstr "ショットガン"
 
 msgctxt "Equipping Screen/KEY_ITEM_TYPE_SR"
 msgid "SNIPER RIFLE"
-msgstr ""
+msgstr "スナイパーライフル"
 
 msgctxt "Equipping Screen/KEY_ITEM_TYPE_TURRET"
 msgid "TURRET"
-msgstr ""
+msgstr "タレット"
 
 msgctxt "Equipping Screen/KEY_ITEM_TYPE_VW"
 msgid "VIRAL WEAPON"
-msgstr ""
+msgstr "ウイルスウェポン"
 
 msgctxt "Equipping Screen/KEY_SCRAP_ALL_NAME"
 msgid "SCRAP ALL"
-msgstr ""
+msgstr "全て解体する"
 
 msgctxt "Equipping Screen/KEY_SCRAP_ITEM_NAME"
 msgid "SCRAP ITEM"
-msgstr ""
+msgstr "アイテムを解体する"
 
 msgctxt "Equipping Screen/KEY_BACK_PACK"
 msgid "Backpack"
-msgstr ""
+msgstr "バックパック"
 
 msgctxt "Equipping Screen/KEY_STAT_ENCUMBERANCE"
 msgid "ENCUMBRANCE"
-msgstr ""
+msgstr "重量過多"
 
 msgctxt "Equipping Screen/KEY_PERCENTAGE_VALUE"
 msgid "{0}%"
@@ -7226,43 +7226,43 @@ msgstr ""
 
 msgctxt "Equipping Screen/KEY_GEOSCAPE_GROUND"
 msgid "GROUND"
-msgstr ""
+msgstr "グラウンド"
 
 msgctxt "Equipping Screen/KEY_GEOSCAPE_UNEQUIP"
 msgid "UNEQUIP"
-msgstr ""
+msgstr "装備解除"
 
 msgctxt "Equipping Screen/KEY_GEOSCAPE_DESELECT"
 msgid "DESELECT"
-msgstr ""
+msgstr "選択解除"
 
 msgctxt "Equipping Screen/KEY_GEOSCAPE_ADD_AMMO_INFO"
 msgid "ADD AMMO OF THIS TYPE TO BACKPACK"
-msgstr ""
+msgstr "このタイプの弾薬をバックパックに追加"
 
 msgctxt "Equipping Screen/KEY_GEOSCAPE_MANUFACTURE_INFO"
 msgid "PRODUCE A SIMILAR ITEM FROM AVAILABLE RESOURCES"
-msgstr ""
+msgstr "利用可能な資源から類似のアイテムを生産する"
 
 msgctxt "Equipping Screen/KEY_GEOSCAPE_ATTACHMENTS"
 msgid "ATTACHMENTS"
-msgstr ""
+msgstr "アタッチメント"
 
 msgctxt "Equipping Screen/KEY_GEOSCAPE_EQUIPPED"
 msgid "EQUIPPED"
-msgstr ""
+msgstr "装備済み"
 
 msgctxt "Equipping Screen/KEY_GEOSCAPE_RECYCLE_INFO"
 msgid "DESTROY AND RECYCLE FOR RESOURCES"
-msgstr ""
+msgstr "壊して資源にリサイクルする"
 
 msgctxt "Equipping Screen/KEY_GEOSCAPE_DRAG_SCRAP"
 msgid "Drag here to scrap"
-msgstr ""
+msgstr "ここにドラッグして解体"
 
 msgctxt "Equipping Screen/KEY_GEOSCAPE_DRAG_MANUFACTURE"
 msgid "Drag here to manufacture"
-msgstr ""
+msgstr "ここにドラッグして製造"
 
 msgctxt "Equipping Screen/KEY_GEOSCAPE_ALL"
 msgid "ALL"
@@ -7270,7 +7270,7 @@ msgstr ""
 
 msgctxt "Equipping Screen/KEY_GEOSCAPE_EQUIPMENT"
 msgid "EQUIPMENT"
-msgstr ""
+msgstr "装備"
 
 msgctxt "Equipping Screen/KEY_GEOSCAPE_ADDAMMO"
 msgid "+ AMMO"
@@ -7282,123 +7282,123 @@ msgstr ""
 
 msgctxt "Equipping Screen/KEY_GEOSCAPE_PRODUCE_RESEARCH"
 msgid "You do not have the necessary research to manufacture this item"
-msgstr ""
+msgstr "このアイテムを製造するのに必要な研究がありません"
 
 msgctxt "Equipping Screen/KEY_GEOSCAPE_PRODUCE_MANUFACTURE"
 msgid "Item ({item}) can only be produced in the Manufacturing interface."
-msgstr ""
+msgstr "アイテム({item})は製造画面でのみ生産可能です。"
 
 msgctxt "Equipping Screen/KEY_GEOSCAPE_PRODUCE_BUILD_MATERIALS"
 msgid "Manufacture {item} for {0} Materials"
-msgstr ""
+msgstr "{0}マテリアルの{item}を製造する"
 
 msgctxt "Equipping Screen/KEY_GEOSCAPE_PRODUCE_BUILD_BOTH"
 msgid "Manufacture {item} for {0} Materials and {1} Tech"
-msgstr ""
+msgstr "{0}マテリアルと{1}テックの{item}を製造する"
 
 msgctxt "Equipping Screen/KEY_GEOSCAPE_PRODUCE_IMPOSSIBLE"
 msgid "This item is impossible to manufacture"
-msgstr ""
+msgstr "このアイテムは製造不可能です"
 
 msgctxt "Equipping Screen/KEY_GEOSCAPE_REPLENISH_SOLDIERS"
 msgid "Replenish Soldiers"
-msgstr ""
+msgstr "兵士を補充する"
 
 msgctxt "Equipping Screen/KEY_GEOSCAPE_REPLENISH_ALL"
 msgid "Replenish all"
-msgstr ""
+msgstr "すべてを補充する"
 
 msgctxt "Equipping Screen/KEY_GEOSCAPE_ITEM_EQUIPPED"
 msgid "{item} equipped by {soldier}"
-msgstr ""
+msgstr "{soldier}が{item}を装備"
 
 msgctxt "Equipping Screen/KEY_GEOSCAPE_ITEM_ADDED_MANUFACTURE"
 msgid "{item} added to manufacture queue"
-msgstr ""
+msgstr "{item}が製造キューに加えられた"
 
 msgctxt "Equipping Screen/KEY_GEOSCAPE_EQUIP_FROM_STORES"
 msgid "Equip {item} from stores"
-msgstr ""
+msgstr "倉庫から{item}を装備"
 
 msgctxt "Equipping Screen/KEY_GEOSCAPE_ITEM_QUEUED"
 msgid "Item already in queue"
-msgstr ""
+msgstr "アイテムは既にキューに入っています"
 
 msgctxt "Equipping Screen/KEY_ATTACHMENT_HELMET"
 msgid "Helmet Attachment"
-msgstr ""
+msgstr "ヘルメット アタッチメント"
 
 msgctxt "Equipping Screen/KEY_ATTACHMENT_BODY"
 msgid "Armor Attachment"
-msgstr ""
+msgstr "アーマー アタッチメント"
 
 msgctxt "Equipping Screen/KEY_ATTACHMENT_LEGS"
 msgid "Leg Attachment"
-msgstr ""
+msgstr "レッグ アタッチメント"
 
 msgctxt "Equipping Screen/KEY_NOT_PROFICIENT_WARNING"
 msgid "Not Proficient!"
-msgstr ""
+msgstr "技能がありません!"
 
 msgctxt "Equipping Screen/KEY_WARNING_WEAPON_NOT_FULL_TT"
 msgid "Some weapons are not fully loaded!"
-msgstr ""
+msgstr "いくつかの武器が弾を全装填されていません!"
 
 msgctxt "Equipping Screen/KEY_WARNING_WEAPON_NOT_EQUIPPED_TT"
 msgid "The soldier doesn't have a weapon equipped!"
-msgstr ""
+msgstr "この兵士は武器を装備していません!"
 
 msgctxt "Equipping Screen/KEY_WARNING_STORAGE_FULL_TT"
 msgid "Base storage is full. You need to build more Stores."
-msgstr ""
+msgstr "基地の倉庫容量がいっぱいです。さらに倉庫を建造する必要があります。"
 
 msgctxt "Character Progression/KEY_GEOSCAPE_ABILITY_NO_LEVEL"
 msgid "YOU DON'T HAVE THE NECESSARY CHARACTER LEVEL TO ACQUIRE THIS ABILITY"
-msgstr ""
+msgstr "このアビリティを獲得するための必要なレベルに到達していません"
 
 msgctxt "Character Progression/KEY_GEOSCAPE_ABILITY_NO_XP"
 msgid "YOU DON'T HAVE ENOUGH SKILL POINTS TO ACQUIRE THIS ABILITY"
-msgstr ""
+msgstr "このアビリティを獲得するためのスキルポイントが足りていません"
 
 msgctxt "Character Progression/KEY_GEOSCAPE_ACQUIRE"
 msgid "ACQUIRE ABILITY"
-msgstr ""
+msgstr "アビリティを取得する"
 
 msgctxt "Character Progression/KEY_NEW_CLASS_DESCRIPTION"
 msgid "Choose a secondary class to train in."
-msgstr ""
+msgstr "トレーニングを行うセカンダリ・クラスを選択。"
 
 msgctxt "Character Progression/KEY_NEW_CLASS_HEADER"
 msgid "CHOOSE SECONDARY CLASS"
-msgstr ""
+msgstr "セカンダリ・クラスを選択"
 
 msgctxt "Character Progression/KEY_NEW_CLASS_NAME"
 msgid "NEW CLASS"
-msgstr ""
+msgstr "新クラス"
 
 msgctxt "Character Progression/KEY_PROGRESSION_ACCURACY"
 msgid "ACCURACY"
-msgstr ""
+msgstr "命中精度"
 
 msgctxt "Character Progression/KEY_PROGRESSION_COST"
 msgid "SP COST"
-msgstr ""
+msgstr "SPコスト"
 
 msgctxt "Character Progression/KEY_PROGRESSION_DAMAGE"
 msgid "DAMAGE"
-msgstr ""
+msgstr "ダメージ"
 
 msgctxt "Character Progression/KEY_PROGRESSION_EXPERIENCE"
 msgid "EXPERIENCE"
-msgstr ""
+msgstr "経験値"
 
 msgctxt "Character Progression/KEY_PROGRESSION_PERCEPTION"
 msgid "PERCEPTION"
-msgstr ""
+msgstr "知覚力"
 
 msgctxt "Character Progression/KEY_PROGRESSION_PHOENIX_SKILL_POINTS"
 msgid "PHOENIX SP"
-msgstr ""
+msgstr "フェニックスSP"
 
 msgctxt "Character Progression/KEY_PROGRESSION_SKILL_POINTS"
 msgid "SP"
@@ -7406,47 +7406,47 @@ msgstr ""
 
 msgctxt "Character Progression/KEY_PROGRESSION_SOLDIER_SKILL_POINTS"
 msgid "SOLDIER SP"
-msgstr ""
+msgstr "ソルジャーSP"
 
 msgctxt "Character Progression/KEY_PROGRESSION_SPEED"
 msgid "SPEED"
-msgstr ""
+msgstr "スピード"
 
 msgctxt "Character Progression/KEY_PROGRESSION_STATS_REQUIREMENTS"
 msgid "REQUIREMENTS"
-msgstr ""
+msgstr "必要条件"
 
 msgctxt "Character Progression/KEY_PROGRESSION_STATS_UPDATE"
 msgid "IMPROVES THE FOLLOWING STATS:"
-msgstr ""
+msgstr "以下のステータスが増加:"
 
 msgctxt "Character Progression/KEY_PROGRESSION_STRENGTH"
 msgid "STRENGTH"
-msgstr ""
+msgstr "ストレングス"
 
 msgctxt "Character Progression/KEY_PROGRESSION_WILLPOWER"
 msgid "WILLPOWER"
-msgstr ""
+msgstr "ウィルパワー"
 
 msgctxt "Character Progression/KEY_UPGRADE_CONFIRMATION_DESCRIPTION"
 msgid "You will not be able to change that ability or reclaim the Skill Points spent on it."
-msgstr ""
+msgstr "そのアビリティを変更したり、投入したスキルポイントを回収することはできません。"
 
 msgctxt "Character Progression/KEY_UPGRADE_CONFIRMATION_NAME"
 msgid "Are you sure you want to train your soldeir in this ability?"
-msgstr ""
+msgstr "兵士にこのアビリティをトレーニングしてよろしいですか?"
 
 msgctxt "Character Progression/KEY_GEOSCAPE_SPEED_TIP"
 msgid "Speed determines how many tiles a character can move in one turn"
-msgstr ""
+msgstr "スピードは1ターン内に兵士が移動できるタイル数を定める"
 
 msgctxt "Character Progression/KEY_GEOSCAPE_STRENGTH_TIP"
 msgid "Strength determines the maximum Hit Points, the weight that can be carried and how far items can be thrown"
-msgstr ""
+msgstr "ストレングスは最大ヒットポイント、所持可能重量、アイテムを投げられる距離を定める"
 
 msgctxt "Character Progression/KEY_GEOSCAPE_WILLPOWER_TIP"
 msgid "Willpower determines the maximum Will Points in battle which are used for abilities. Reaching zero Will Points will cause Panic"
-msgstr ""
+msgstr "ウィルパワーは戦闘中のアビリティに用いられるウィルポイントを定める。ウィルポイントがゼロに達するとパニックを引き起こす"
 
 msgctxt "Base Screen/KEY_BASE_AUTO_ASSIGN"
 msgid "AUTO ASSIGN USERS"
