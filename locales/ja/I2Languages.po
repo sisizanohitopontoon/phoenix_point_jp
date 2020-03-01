@@ -1,7 +1,7 @@
 # 
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2020-03-01 13:27+0000\n"
+"PO-Revision-Date: 2020-03-01 14:32+0000\n"
 "Last-Translator: higema <ltdhyndsh@yahoo.co.jp>\n"
 "Language: ja\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
@@ -2613,14 +2613,14 @@ msgstr ""
 
 msgctxt "Tutorial/KEY_TUTORIAL_PERSONNEL_NAME"
 msgid "Personnel"
-msgstr "人事"
+msgstr "人材"
 
 msgctxt "Tutorial/KEY_TUTORIAL_PERSONNEL_DESCRIPTION"
 msgid ""
 "The personnel roster shows all your soldiers and ground vehicles, wherever they are located.[LF][LF]You can transfer soldiers by selecting the location button on the right side of each soldier's "
 "list entry.[LF][LF]You can customize your soldiers' appearance and voice by selecting the customizarion icon to the right of the soldier's name.[LF][LF]SELECT THE \"\"PERSONNEL\"\" BUTTON AND GO TO "
 "THE \"\"EQUIPMENT\"\" SECTION"
-msgstr "人材リストでは、その所在地に関わらず全ての兵士と地上車両が表示されます。[LF][LF]各兵士のエントリーの右側にある場所ボタンを選択すると、兵士を転送できます。[LF][LF]兵士の名前の右側にあるカスタマイズアイコンを選択すると、兵士の外見と声をカスタマイズできます。[LF][LF]\"\"人事\"\"ボタンを選択し、\"装備\"セクションに移動してください。"
+msgstr "人材リストでは、その所在地に関わらず全ての兵士と地上車両が表示されます。[LF][LF]各兵士のエントリーの右側にある場所ボタンを選択すると、兵士を転送できます。[LF][LF]兵士の名前の右側にあるカスタマイズアイコンを選択すると、兵士の外見と声をカスタマイズできます。[LF][LF]\"\"人材\"\"ボタンを選択し、\"装備\"セクションに移動してください。"
 
 msgctxt "Tutorial/KEY_TUTORIAL_EQUIPMENT_NAME"
 msgid "Equipping your soldiers"
@@ -4180,11 +4180,11 @@ msgstr "基地に帰還する"
 
 msgctxt "Objectives/KEY_OBJECTIVE_GEOSCAPE_EQUIPMENT"
 msgid "Go to Personnel Equipment screen"
-msgstr "\"\"人事\"\"装備画面に移動する"
+msgstr "\"\"人材\"\"装備画面に移動する"
 
 msgctxt "Objectives/KEY_OBJECTIVE_GEOSCAPE_TRAINING"
 msgid "Go to Personnel Training screen"
-msgstr "\"\"人事\"\"トレーニング画面に移動する"
+msgstr "\"\"人材\"\"トレーニング画面に移動する"
 
 msgctxt "Objectives/KEY_OBJECTIVE_GEOSCAPE_RESEARCH"
 msgid "Enter Research Tab"
@@ -7626,7 +7626,7 @@ msgstr "基地の職員"
 
 msgctxt "Base Screen/KEY_BASE_PERSONNEL_GLOBAL"
 msgid "PERSONNEL"
-msgstr "人事"
+msgstr "人材"
 
 msgctxt "Base Screen/KEY_BASE_POWER_CONSUMPTION"
 msgid "POWER CONSUMPTION"
@@ -8413,371 +8413,371 @@ msgstr "未探索地点を探索しミッションを完了する"
 
 msgctxt "Geoscape Objectives/KEY_OBJECTIVE_TUTORIAL_RESOURCES"
 msgid "Enter the EQUIPMENT section of the PERSONNEL tab"
-msgstr "「人事」タブの「装備」セクションに移る"
+msgstr "「人材」タブの「装備」セクションに移る"
 
 msgctxt "Geoscape Objectives/KEY_OBJECTIVE_TUTORIAL_EQUIPMENT"
 msgid "Enter the TRAINING section of the PERSONNEL tab"
-msgstr ""
+msgstr "「人材」タブの「トレーニング」セクションに移る"
 
 msgctxt "Geoscape Objectives/KEY_OBJECTIVE_TUTORIAL_TRAINING"
 msgid "Explore another unexplored site and complete the mission"
-msgstr ""
+msgstr "他の未探索地点を探索しミッションを完了する"
 
 msgctxt "Geoscape Objectives/KEY_OBJECTIVE_TUTORIAL_FATIGUE"
 msgid "Go to your Base"
-msgstr ""
+msgstr "基地に向かう"
 
 msgctxt "Geoscape Objectives/KEY_OBJECTIVE_TUTORIAL_WORKER_ALLOCATION"
 msgid "Allocate units to medical bay"
-msgstr ""
+msgstr "ユニットを治療室に割り当てる"
 
 msgctxt "Geoscape Objectives/KEY_OBJECTIVE_TUTORIAL_FACILITIES"
 msgid "Repair the Research facility"
-msgstr ""
+msgstr "研究施設を修理する"
 
 msgctxt "Geoscape Objectives/KEY_OBJECTIVE_TUTORIAL_RESEARCH"
 msgid "Research the Phoenix Project"
-msgstr ""
+msgstr "フェニックスプロジェクトを研究する"
 
 msgctxt "Geoscape Objectives/KEY_OBJECTIVE_TUTORIAL_FACTORY"
 msgid "Build a Fabrication Plant"
-msgstr ""
+msgstr "製造プラントを建造する"
 
 msgctxt "Geoscape Objectives/KEY_OBJECTIVE_TUTORIAL_SATELLITE"
 msgid "Build a Satellite Uplink"
-msgstr ""
+msgstr "衛生アップリンクを建造する"
 
 msgctxt "Geoscape Objectives/KEY_OBJECTIVE_TUTORIAL_SCANNING"
 msgid "Area Scanning"
-msgstr ""
+msgstr "エリアスキャン中"
 
 msgctxt "Geoscape Objectives/KEY_OBJECTIVE_TUTORIAL_ATMOSPHERIC"
 msgid "Research Atmospheric Analysis"
-msgstr ""
+msgstr "大気分析を研究する"
 
 msgctxt "Geoscape Objectives/KEY_OBJECTIVE_PHOENIX_PROJECT"
 msgid "Locate the remaining active Phoenix Bases"
-msgstr ""
+msgstr "残存する現役のフェニックス基地の位置を割り出す"
 
 msgctxt "Geoscape Objectives/KEY_OBJECTIVE_MOONLAUNCH_BUILD"
 msgid "Synedrion's Moon Launch site is under construction"
-msgstr ""
+msgstr "シネドリオンの月打ち上げ場が建設中"
 
 msgctxt "Geoscape Objectives/KEY_OBJECTIVE_TWFORTRESS_BUILD"
 msgid "Tobias West's Fortress is under construction"
-msgstr ""
+msgstr "トビアスウェストの要塞が建設中"
 
 msgctxt "Geoscape Objectives/KEY_OBJECTIVE_LEVIATHAN_BUILD"
 msgid "The Exalted's Temple is under construction"
-msgstr ""
+msgstr "イグザルティドの神殿が建設中"
 
 msgctxt "Geoscape/KEY_ALIEN_BASE_ABANDONED_CITADEL"
 msgid "ABANDONED PANDORAN CITADEL"
-msgstr ""
+msgstr "放棄されたパンドラン・シタデル"
 
 msgctxt "Geoscape/KEY_ALIEN_BASE_ABANDONED_CITADEL_DESC"
 msgid "This structure has been abandoned"
-msgstr ""
+msgstr "この構造物は放棄されている"
 
 msgctxt "Geoscape/KEY_ALIEN_BASE_ABANDONED_LAIR"
 msgid "ABANDONED PANDORAN LAIR"
-msgstr ""
+msgstr "放棄されたパンドラン・レア"
 
 msgctxt "Geoscape/KEY_ALIEN_BASE_ABANDONED_LAIR_DESC"
 msgid "This structure has been abandoned to build a Pandoran Citadel nearby"
-msgstr ""
+msgstr "この構造物は、近くにあるパンドラン・シタデルを建造するために放棄されている"
 
 msgctxt "Geoscape/KEY_ALIEN_BASE_ABANDONED_NEST"
 msgid "ABANDONED PANDORAN NEST"
-msgstr ""
+msgstr "放棄されたパンドラン・ネスト"
 
 msgctxt "Geoscape/KEY_ALIEN_BASE_ABANDONED_NEST_DESC"
 msgid "This structure has been abandoned to build an Pandoran Lair nearby"
-msgstr ""
+msgstr "この構造物は、近くにあるパンドラン・レアを建造するために放棄されている"
 
 msgctxt "Geoscape/KEY_ALIEN_BASE_CITADEL"
 msgid "PANDORAN CITADEL"
-msgstr ""
+msgstr "パンドラン・シタデル"
 
 msgctxt "Geoscape/KEY_ALIEN_BASE_DESTROYED_CITADEL"
 msgid "DESTROYED PANDORAN CITADEL"
-msgstr ""
+msgstr "破壊されたパンドラン・シタデル"
 
 msgctxt "Geoscape/KEY_ALIEN_BASE_DESTROYED_LAIR"
 msgid "DESTROYED PANDORAN LAIR"
-msgstr ""
+msgstr "破壊されたパンドラン・レア"
 
 msgctxt "Geoscape/KEY_ALIEN_BASE_DESTROYED_NEST"
 msgid "DESTROYED PANDORAN NEST"
-msgstr ""
+msgstr "破壊されたパンドラン・ネスト"
 
 msgctxt "Geoscape/KEY_ALIEN_BASE_LAIR"
 msgid "PANDORAN LAIR"
-msgstr ""
+msgstr "パンドラン・レア"
 
 msgctxt "Geoscape/KEY_ALIEN_BASE_NEST"
 msgid "PANDORAN NEST"
-msgstr ""
+msgstr "パンドラン・ネスト"
 
 msgctxt "Geoscape/KEY_ALIEN_BASE_PALACE"
 msgid "PANDORAN PALACE"
-msgstr ""
+msgstr "パンドラン・パレス"
 
 msgctxt "Geoscape/KEY_BUILD_ARMADILLO_DESCRIPTION"
 msgid "Build a Ground Vehicle using Material and Tech resources"
-msgstr ""
+msgstr "マテリアルおよびテック資源を使用して地上車両を作る"
 
 msgctxt "Geoscape/KEY_BUILD_ARMADILLO_NAME"
 msgid "BUILD ARMADILLO"
-msgstr ""
+msgstr "アルマジロを作る"
 
 msgctxt "Geoscape/KEY_GEO_SCANNER_DESCRIPTION"
 msgid "Scan an area, revealing sites of interest."
-msgstr ""
+msgstr "エリアをスキャンし、興味を惹く地点を明らかにする。"
 
 msgctxt "Geoscape/KEY_GEO_SCANNER_FORBIDDEN"
 msgid "Area scans cannot be performed while the aircraft is in flight."
-msgstr ""
+msgstr "航空機が飛行している間はエリアスキャンを実行できません。"
 
 msgctxt "Geoscape/KEY_GEO_SCANNER_NAME"
 msgid "AREA SCAN"
-msgstr ""
+msgstr "エリアスキャン"
 
 msgctxt "Geoscape/KEY_GEO_SCANNER_UNAVAILABLE"
 msgid "You don't have any Area Scan Uses remaining"
-msgstr ""
+msgstr "エリアスキャン使用回数が残っていません"
 
 msgctxt "Geoscape/KEY_GEO_SCANNER_NO_RESOURCES"
 msgid "You don't have enough resources to perform an Area Scan."
-msgstr ""
+msgstr "エリア スキャンを実行するための資源が不足しています。"
 
 msgctxt "Geoscape/KEY_GEO_SCANS"
 msgid "Available Scans"
-msgstr ""
+msgstr "利用可能スキャン"
 
 msgctxt "Geoscape/KEY_GEOSCAPE_ANU_AIRCRAFT_DESCRIPTION"
 msgid "Disciples of Anu Aircraft"
-msgstr ""
+msgstr "ディサイプルズ・オブ・アヌ航空機"
 
 msgctxt "Geoscape/KEY_GEOSCAPE_ANU_AIRCRAFT_NAME"
 msgid "TIAMAT"
-msgstr ""
+msgstr "ティアマット"
 
 msgctxt "Geoscape/KEY_GEOSCAPE_CHAIN_DESTINATIONS"
 msgid "Shift + RMB: Chain Destinations"
-msgstr ""
+msgstr "Shift + RMB: 移動ルート指定"
 
 msgctxt "Geoscape/KEY_GEOSCAPE_CLOSE"
 msgid "CLOSE"
-msgstr ""
+msgstr "閉じる"
 
 msgctxt "Geoscape/KEY_GEOSCAPE_CONDITION"
 msgid "CONDITION"
-msgstr ""
+msgstr "状態"
 
 msgctxt "Geoscape/KEY_GEOSCAPE_CONFIRM"
 msgid "CONFIRM"
-msgstr ""
+msgstr "確定する"
 
 msgctxt "Geoscape/KEY_GEOSCAPE_COST"
 msgid "COST"
-msgstr ""
+msgstr "コスト"
 
 msgctxt "Geoscape/KEY_GEOSCAPE_DESTINATION_DIRECT"
 msgid "#Destination requires new Refuelling Station or Emergency Refuielling"
-msgstr ""
+msgstr "#移動ルートの指定には新しい給油所もしくは緊急給油が必要です"
 
 msgctxt "Geoscape/KEY_GEOSCAPE_DESTINATION_INDIRECT"
 msgid "#Destination is within refuelling range"
-msgstr ""
+msgstr "#目的地は給油範囲内です"
 
 msgctxt "Geoscape/KEY_GEOSCAPE_DIPLOMACY"
 msgid "DIPLOMACY"
-msgstr ""
+msgstr "外交"
 
 msgctxt "Geoscape/KEY_GEOSCAPE_FOOD"
 msgid "FOOD"
-msgstr ""
+msgstr "食料"
 
 msgctxt "Geoscape/KEY_GEOSCAPE_GAME_PAUSED"
 msgid "PAUSED"
-msgstr ""
+msgstr "一時停止"
 
 msgctxt "Geoscape/KEY_GEOSCAPE_HELP"
 msgid "HELP"
-msgstr ""
+msgstr "ヘルプ"
 
 msgctxt "Geoscape/KEY_GEOSCAPE_MATERIALS"
 msgid "MATERIALS"
-msgstr ""
+msgstr "マテリアル"
 
 msgctxt "Geoscape/KEY_GEOSCAPE_NJ_AIRCRAFT_DESCRIPTION"
 msgid "New Jericho Aircraft"
-msgstr ""
+msgstr "ニュージェリコ航空機"
 
 msgctxt "Geoscape/KEY_GEOSCAPE_NJ_AIRCRAFT_NAME"
 msgid "THUNDERBIRD"
-msgstr ""
+msgstr "サンダーバード"
 
 msgctxt "Geoscape/KEY_GEOSCAPE_SELECT_DESTINATION"
 msgid "RMB: Select Destination"
-msgstr ""
+msgstr "RMB: 目的地を選択"
 
 msgctxt "Geoscape/KEY_GEOSCAPE_SELECT_SITE"
 msgid "LMB: Select Site"
-msgstr ""
+msgstr "LMB: 地点を選択"
 
 msgctxt "Geoscape/KEY_GEOSCAPE_SELECTED_AIRCRAFT"
 msgid "SELECTED AIRCRAFT"
-msgstr ""
+msgstr "選択した航空機"
 
 msgctxt "Geoscape/KEY_GEOSCAPE_SY_VEHICLE_DESCRIPTION"
 msgid "Synedrion Aircraft"
-msgstr ""
+msgstr "シネドリオン航空機"
 
 msgctxt "Geoscape/KEY_GEOSCAPE_SY_VEHICLE_NAME"
 msgid "Helios"
-msgstr ""
+msgstr "ヘリオス"
 
 msgctxt "Geoscape/KEY_GEOSCAPE_TECH"
 msgid "TECH"
-msgstr ""
+msgstr "テック"
 
 msgctxt "Geoscape/KEY_LAUNCH_MISSION_DESCRIPTION"
 msgid "Deploy squad to this site and fight a battle"
-msgstr ""
+msgstr "この地点に部隊を展開し戦闘を行う"
 
 msgctxt "Geoscape/KEY_LAUNCH_MISSION_NAME"
 msgid "DISPATCH SQUAD"
-msgstr ""
+msgstr "部隊を派遣する"
 
 msgctxt "Geoscape/KEY_RECRUIT_SOLDIER_ABILITY_DESCRIPTION"
 msgid "Recruit a soldier from the selected haven"
-msgstr ""
+msgstr "選択したヘイヴンから兵士を雇用する"
 
 msgctxt "Geoscape/KEY_RECRUIT_SOLDIER_ABILITY_NAME"
 msgid "RECRUIT SOLDIER"
-msgstr ""
+msgstr "兵士を雇用"
 
 msgctxt "Geoscape/KEY_RECRUIT_SOLDIER_INFO_LABEL"
 msgid "RECRUIT AVAILABLE AT HAVEN"
-msgstr ""
+msgstr "ヘイヴンでの雇用可能"
 
 msgctxt "Geoscape/KEY_REFUEL_ABILITY_DESCRIPTION"
 msgid "Use Emergency Refuelling to refuel an aircraft when not at a Phoenix Base or Refuelling Station"
-msgstr ""
+msgstr "フェニックス基地または給油所にいないときに緊急給油を使用して航空機に給油する"
 
 msgctxt "Geoscape/KEY_REFUEL_ABILITY_NAME"
 msgid "EMERGENCY REFUEL"
-msgstr ""
+msgstr "緊急給油"
 
 msgctxt "Geoscape/KEY_REPAIR_ABILITY_DESCRIPTION"
 msgid "Perform an emergency repair of your aircraft using current resources."
-msgstr ""
+msgstr "現在の資源を使用して航空機の緊急修理を実行する。"
 
 msgctxt "Geoscape/KEY_REPAIR_ABILITY_NAME"
 msgid "REPAIR"
-msgstr ""
+msgstr "修理"
 
 msgctxt "Geoscape/KEY_SECTION_DIPLOMACY"
 msgid "DIPLOMACY"
-msgstr ""
+msgstr "外交"
 
 msgctxt "Geoscape/KEY_SECTION_GEOSCAPE"
 msgid "GEOSCAPE"
-msgstr ""
+msgstr "ジオスケープ"
 
 msgctxt "Geoscape/KEY_SECTION_MANUFACTURING"
 msgid "MANUFACTURING"
-msgstr ""
+msgstr "製造"
 
 msgctxt "Geoscape/KEY_SECTION_PHOENIX_BASES"
 msgid "BASES"
-msgstr ""
+msgstr "基地"
 
 msgctxt "Geoscape/KEY_SECTION_PHOENIXPEDIA"
 msgid "PHOENIXPEDIA"
-msgstr ""
+msgstr "フェニックスペディア"
 
 msgctxt "Geoscape/KEY_SECTION_RESEARCH"
 msgid "RESEARCH"
-msgstr ""
+msgstr "研究"
 
 msgctxt "Geoscape/KEY_SECTION_ROSTER"
 msgid "PERSONNEL"
-msgstr ""
+msgstr "人材"
 
 msgctxt "Geoscape/KEY_RADAR_USAGE"
 msgid "Conduct an AREA SCAN to reveal locations in the surrounding area and find sites to explore."
-msgstr ""
+msgstr "周辺エリアの場所を明らかにし探索地点を見つけるためのエリアスキャンを行う。"
 
 msgctxt "Geoscape/KEY_PX_AIRSHIP_DESCRIPTION"
 msgid "Phoenix Air Vehicle"
-msgstr ""
+msgstr "フェニックス航空機"
 
 msgctxt "Geoscape/KEY_PX_AIRSHIP_NAME"
 msgid "MANTICORE"
-msgstr ""
+msgstr "マンティコア"
 
 msgctxt "Geoscape/KEY_QUICK_LOAD_NAME"
 msgid "QUICK LOAD"
-msgstr ""
+msgstr "クイックロード"
 
 msgctxt "Geoscape/KEY_QUICK_SAVE_NAME"
 msgid "QUICK SAVE"
-msgstr ""
+msgstr "クイックセーブ"
 
 msgctxt "Geoscape/KEY_MESSAGE_NOT_ENOUGHT_BASE_SPACE_ALIEN"
 msgid "You don't have enough Pandoran Containment space in your bases to store all the captured creatures. All creatures in excess have been killed and left in the wilderness."
-msgstr ""
+msgstr "捕獲したクリーチャー全てを保管するためのパンドラン収容施設の空きが足りません。超過分のクリーチャーは全て処分され荒野に放置されます。"
 
 msgctxt "Geoscape/KEY_MESSAGE_NOT_ENOUGHT_BASE_SPACE_SOLDIER"
 msgid "You don't have enough Living Quarters space in your bases to recruit this soldier."
-msgstr ""
+msgstr "この兵士を募集するための基地の居住区スペースが足りません。"
 
 msgctxt "Geoscape/KEY_MESSAGE_NOT_ENOUGHT_BASE_SPACE_STORAGE"
 msgid "You don't have enough Storage space in your bases to store items."
-msgstr ""
+msgstr "アイテムを保管するための基地の倉庫の空きが足りません。"
 
 msgctxt "Geoscape/KEY_MESSAGE_NOT_ENOUGHT_BASE_SPACE_VEHICLE"
 msgid "You don't have enough hangar space to maintain more vehicles or aircraft."
-msgstr ""
+msgstr "より多くの車両または航空機を維持するための十分な格納庫スペースがありません。"
 
 msgctxt "Geoscape/KEY_MESSAGE_NOT_ENOUGHT_RESOURCES_TO_RECRUIT"
 msgid "You don't have enough resources to recruit soldiers."
-msgstr ""
+msgstr "兵士を雇用するための十分な資源がありません。"
 
 msgctxt "Geoscape/KEY_MESSAGE_NOT_ENOUGHT_SPACE_TO_RECRUIT"
 msgid "You don't have enough space to board a soldier on your aircraft (1 slot required)."
-msgstr ""
+msgstr "航空機に兵士を搭乗させるための十分なスペースがありません(1スロットが必要)。"
 
 msgctxt "Geoscape/KEY_MESSAGE_NOT_ENOUGHT_SPACE_VEHICLE"
 msgid "You don't have enough space to board a vehicle on your aircraft (3 slots required)."
-msgstr ""
+msgstr "航空機に車両を乗せるための十分なスペースがありません(3スロットが必要)。"
 
 msgctxt "Geoscape/KEY_MESSAGE_NOT_ENOUGHT_SPACE_MUTOG"
 msgid "You don't have enouch space to board a mutog on your aircraft (3 slots required)"
-msgstr ""
+msgstr "航空機にミュートッグを乗せるための十分なスペースがありません(3スロットが必要)"
 
 msgctxt "Geoscape/KEY_SQUAD_ROSTER_DESCRIPTION"
 msgid "View a list of soldiers and ground vehicles, and access equipping functions"
-msgstr ""
+msgstr "兵士と地上車両のリストを表示し、装備機能にアクセスする"
 
 msgctxt "Geoscape/KEY_SQUAD_ROSTER_NAME"
 msgid "SQUAD ROSTER"
-msgstr ""
+msgstr "部隊名簿"
 
 msgctxt "Geoscape/KEY_GEOSCAPE_TIME_INSTANT"
 msgid "INSTANT"
-msgstr ""
+msgstr "即時"
 
 msgctxt "Geoscape/KEY_GEOSCAPE_TIME_LEFT"
 msgid "Left"
-msgstr ""
+msgstr "残り"
 
 msgctxt "Geoscape/KEY_GEOSCAPE_TIME_LEFT_DAYS"
 msgid "{0} days"
-msgstr ""
+msgstr "{0} 日"
 
 msgctxt "Geoscape/KEY_GEOSCAPE_TIME_LEFT_DAYS_SHORT"
 msgid "{0}d"
@@ -8785,7 +8785,7 @@ msgstr ""
 
 msgctxt "Geoscape/KEY_GEOSCAPE_TIME_LEFT_HOURS"
 msgid "{0} hours"
-msgstr ""
+msgstr "{0} 時間"
 
 msgctxt "Geoscape/KEY_GEOSCAPE_TIME_LEFT_HOURS_SHORT"
 msgid "{0}h"
@@ -8797,7 +8797,7 @@ msgstr ""
 
 msgctxt "Geoscape/KEY_GEOSCAPE_SELECT"
 msgid "SELECT"
-msgstr ""
+msgstr "選択"
 
 msgctxt "Geoscape/KEY_GEOSCAPE_EXIT"
 msgid "EXIT"
@@ -8805,7 +8805,7 @@ msgstr ""
 
 msgctxt "Geoscape/KEY_GEOSCAPE_SITES_REVEALED"
 msgid "Sites added to geoscape: {0} {1}"
-msgstr ""
+msgstr "ジオスケープに地点が追加されました: {0} {1}"
 
 msgctxt "Geoscape/KEY_GEOSCAPE_SITE_REVEALED"
 msgid "Site added to geoscape: {0} "
