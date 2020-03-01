@@ -1,7 +1,7 @@
 # 
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2020-02-29 15:45+0000\n"
+"PO-Revision-Date: 2020-03-01 13:04+0000\n"
 "Last-Translator: higema <ltdhyndsh@yahoo.co.jp>\n"
 "Language: ja\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
@@ -6974,7 +6974,7 @@ msgstr "変異"
 
 msgctxt "Mutation Screen/KEY_GEOSCAPE_MUTATION_SLOTS"
 msgid "Mutation Slots Used:"
-msgstr "使用済み変異スロット:"
+msgstr "使用変異枠:"
 
 msgctxt "Mutation Screen/KEY_MUTATION_LOCATION_HEAD"
 msgid "HEAD MUTATION"
@@ -7006,7 +7006,7 @@ msgstr "アースロンDNAをベースに改良されたこの変異は、 優�
 
 msgctxt "Mutation Screen/KEY_MUTATION_PART_LEG_SNEAKER_LONG_DESCRIPTION"
 msgid "Combining Triton and aquatic DNA, the mutation allows the ability to perform Electroshock kicks, as well as approach Sentinels without being detected."
-msgstr "トリトンと水生生物のDNAを組み合わせたこの変異は、 電気ショック性のキックを行えると同時に、探知されず センチネルに近づくことを可能にする。"
+msgstr "トリトンと水生生物のDNAを組み合わせた この変異は、電気ショック性のキックの行使および、 探知されずにセンチネルに近づくことを可能にする。"
 
 msgctxt "Mutation Screen/KEY_MUTATION_PART_LEG_STOMPER_LONG_DESCRIPTION"
 msgid "Created from Chiron DNA, the mutation grants additional +5 Strength, Stability Stance (20% ranged accuracy bonus in stance), and Stomping Attack (50 Shock damage to all within 3 tiles)."
@@ -7018,11 +7018,11 @@ msgstr "シノッド・オブ・ヤーニングのDNAをベースとしたこの
 
 msgctxt "Mutation Screen/KEY_MUTATION_PART_PRIEST2_LONG_DESCRIPTION"
 msgid "Created from DNA of from the Blind Legate, the mutation allows a priest to perform Instil Frenzy on allied characters."
-msgstr "ブラインド・レギットのDNAから創られたこの変異は、 プリーストが味方キャラクターへのインスティル・フレンジーを 行うことを可能にする。"
+msgstr "ブラインド・レギットのDNAから創られた この変異は、 プリーストが味方キャラクターへの インスティル・フレンジーを 行うことを可能にする。"
 
 msgctxt "Mutation Screen/KEY_MUTATION_PART_PRIEST3_LONG_DESCRIPTION"
 msgid "Engineered from the Keeper of the Threshhold’s DNA, the mutation grants the ability to perform a Psychic Scream (depletes 2 Will Points from enemy living entities within 7 tiles)."
-msgstr "キーパー・オブ・ザ・スレショルドのDNAから設計された この変異は、サイキックストリームのアビリティを 行うことを可能にする。 (8タイル以内にいる生物敵のウィルポイントを10消耗させる)"
+msgstr "キーパー・オブ・ザ・スレショルドのDNAから 設計された この変異は、サイキックストリームの アビリティを 行うことを可能にする。 (8タイル内の生物敵のウィルポイントを10消耗させる)"
 
 msgctxt "Mutation Screen/KEY_MUTATION_PART_TORSO_REGEN_LONG_DESCRIPTION"
 msgid "Based on Arthron DNA, the mutation has regeneration capabilities, restoring 20 Hit Points at the start of each turn."
@@ -7050,7 +7050,7 @@ msgstr "アイテムスタック"
 
 msgctxt "Equipping Screen/KEY_GEOSCAPE_LOCATION"
 msgid "LOCATION"
-msgstr "場所"
+msgstr "ロケーション"
 
 msgctxt "Equipping Screen/KEY_GEOSCAPE_STAMINA"
 msgid "STAMINA"
@@ -7218,7 +7218,7 @@ msgstr "バックパック"
 
 msgctxt "Equipping Screen/KEY_STAT_ENCUMBERANCE"
 msgid "ENCUMBRANCE"
-msgstr "重量過多"
+msgstr "重量負荷"
 
 msgctxt "Equipping Screen/KEY_PERCENTAGE_VALUE"
 msgid "{0}%"
@@ -7290,11 +7290,11 @@ msgstr "アイテム({item})は製造画面でのみ生産可能です。"
 
 msgctxt "Equipping Screen/KEY_GEOSCAPE_PRODUCE_BUILD_MATERIALS"
 msgid "Manufacture {item} for {0} Materials"
-msgstr "{0}マテリアルの{item}を製造する"
+msgstr "{0}マテリアルで{item}を製造する"
 
 msgctxt "Equipping Screen/KEY_GEOSCAPE_PRODUCE_BUILD_BOTH"
 msgid "Manufacture {item} for {0} Materials and {1} Tech"
-msgstr "{0}マテリアルと{1}テックの{item}を製造する"
+msgstr "{0}マテリアルと{1}テックで{item}を製造する"
 
 msgctxt "Equipping Screen/KEY_GEOSCAPE_PRODUCE_IMPOSSIBLE"
 msgid "This item is impossible to manufacture"
@@ -7318,7 +7318,7 @@ msgstr "{item}が製造キューに加えられた"
 
 msgctxt "Equipping Screen/KEY_GEOSCAPE_EQUIP_FROM_STORES"
 msgid "Equip {item} from stores"
-msgstr "倉庫から{item}を装備"
+msgstr "倉庫から {item} を装備"
 
 msgctxt "Equipping Screen/KEY_GEOSCAPE_ITEM_QUEUED"
 msgid "Item already in queue"
@@ -7478,7 +7478,7 @@ msgstr "本当にこの施設を撤去しますか?"
 
 msgctxt "Base Screen/KEY_BASE_FACILITY_ACCESS_LIFT_DESCRIPTION"
 msgid "Deployment point for defence missions, and an escape route if things go badly."
-msgstr "防衛ミッションにおける展開地点であり、事態が悪化した場合の脱出ルート。"
+msgstr "防衛ミッションにおける展開地点であり、 事態が悪化した場合の脱出ルート。"
 
 msgctxt "Base Screen/KEY_BASE_FACILITY_ACCESS_LIFT_NAME"
 msgid "ACCESS LIFT"
@@ -7486,7 +7486,7 @@ msgstr "アクセスリフト"
 
 msgctxt "Base Screen/KEY_BASE_FACILITY_CONTAINMENT_DESCRIPTION"
 msgid "Live Pandorans can be contained here and kept alive. Large creatures will take more space, and space is shared across all facilities. The facility has 50 containment space."
-msgstr "生きたパンドランをここに収容し、生かし続ける事ができる。大型クリーチャーにはより多くのスペースが必要であり、スペースは全ての施設間で共有される。この施設は50の収容スペースを有する。"
+msgstr "生きたパンドランをここに収容し、生かし 続ける事ができる。大型クリーチャーには より多くのスペースが必要であり、 スペースは全ての施設間で共有される。 この施設は50の収容スペースを有する。"
 
 msgctxt "Base Screen/KEY_BASE_FACILITY_CONTAINMENT_NAME"
 msgid "CONTAINMENT"
@@ -7526,7 +7526,7 @@ msgstr "発電施設"
 
 msgctxt "Base Screen/KEY_BASE_FACILITY_LAB_DESCRIPTION"
 msgid "An AI controlled facility for all research projects."
-msgstr "すべての研究プロジェクトのためのAI制御施設。"
+msgstr "すべての研究プロジェクトのための AI制御施設。"
 
 msgctxt "Base Screen/KEY_BASE_FACILITY_LAB_NAME"
 msgid "RESEARCH LAB"
@@ -7534,7 +7534,7 @@ msgstr "研究ラボ"
 
 msgctxt "Base Screen/KEY_BASE_FACILITY_MEDBAY_DESCRIPTION"
 msgid "All soldiers at the base (even if assigned to an aircraft) will recover 4 Hit Points per hour for each medical facility in the base."
-msgstr "基地にいる全ての兵士(航空機に配置されているものも含む)は、基地内の医療施設ごとに1時間あたり4ヒットポイント回復する。"
+msgstr "基地にいる全ての兵士(航空機に配置 されているものも含む)は、基地内の 医療施設ごとに1時間あたり 4ヒットポイント回復する。"
 
 msgctxt "Base Screen/KEY_BASE_FACILITY_MEDBAY_NAME"
 msgid "MEDICAL BAY"
@@ -7542,7 +7542,7 @@ msgstr "治療室"
 
 msgctxt "Base Screen/KEY_BASE_FACILITY_MUTATION_LAB_DESCRIPTION"
 msgid "Allows soldiers to be mutated, and produces mutagens - the raw material for mutation."
-msgstr "兵士を変異させることを可能にし、変異用の原物質であるミュータジェンを生成する。"
+msgstr "兵士を変異させることを可能にし、 変異用の原物質であるミュータジェンを 生成する。"
 
 msgctxt "Base Screen/KEY_BASE_FACILITY_MUTATION_LAB_NAME"
 msgid "MUTATION LAB"
@@ -7550,7 +7550,7 @@ msgstr "ミューテーション・ラボ"
 
 msgctxt "Base Screen/KEY_BASE_FACILITY_QUARTERS_DESCRIPTION"
 msgid "All soldiers at the base (even if assigned to an aircraft) will recover 2 Stamina points per hour for each living quarters in the base."
-msgstr "基地にいる全ての兵士(航空機に配置されているものも含む)は、基地内の居住区ごとに1時間あたり2スタミナポイントが回復する。"
+msgstr "基地にいる全ての兵士(航空機に配置 されているものも含む)は、基地内の 居住区ごとに1時間あたり 2スタミナポイントが回復する。"
 
 msgctxt "Base Screen/KEY_BASE_FACILITY_QUARTERS_NAME"
 msgid "LIVING QUARTERS"
@@ -7566,7 +7566,7 @@ msgstr "ミスト・リペラー"
 
 msgctxt "Base Screen/KEY_BASE_FACILITY_SATELLITE_UPLINK_DESCRIPTION"
 msgid "Allows aircraft to initiate one area scan to locate sites of interest."
-msgstr "航空機がエリアスキャンを行うことを可能にする。スキャンは興味を惹く地点を発見してくれる。"
+msgstr "航空機がエリアスキャンを行うことを 可能にする。スキャンは興味を惹く 地点を発見してくれる。"
 
 msgctxt "Base Screen/KEY_BASE_FACILITY_SATELLITE_UPLINK_NAME"
 msgid "SATELLITE UPLINK"
@@ -7582,7 +7582,7 @@ msgstr "セキュリティステーション"
 
 msgctxt "Base Screen/KEY_BASE_FACILITY_STORE_DESCRIPTION"
 msgid "A storage facility for all weapons, ammo, equipment and armor. Storage capacity is shared across all bases."
-msgstr "すべての武器、弾薬、装備、アーマーのための保管施設。倉庫容量はすべての基地で共有される。"
+msgstr "すべての武器、弾薬、装備、アーマーの ための保管施設。倉庫容量は全基地で 共有される。"
 
 msgctxt "Base Screen/KEY_BASE_FACILITY_STORE_NAME"
 msgid "STORE"
@@ -7590,7 +7590,7 @@ msgstr "倉庫"
 
 msgctxt "Base Screen/KEY_BASE_FACILITY_TRAINING_FACILITY_DESCRIPTION"
 msgid "All soldiers at the base (even if assigned to an aircraft) will gain 2 Experience Points per hour for each training facility in the base."
-msgstr "基地にいる全ての兵士(航空機に配置されているものも含む)は、基地内のトレーニング施設ごとに1時間あたり2の経験値を獲得する。"
+msgstr "基地にいる全ての兵士(航空機に配置 されているものも含む)は、基地内の トレーニング施設ごとに1時間あたり 2の経験値を獲得する。"
 
 msgctxt "Base Screen/KEY_BASE_FACILITY_TRAINING_FACILITY_NAME"
 msgid "TRAINING FACILITY"
@@ -7718,7 +7718,7 @@ msgstr "トンネルを建造"
 
 msgctxt "Base Screen/KEY_BASE_UNDER_CONSTRCUTION"
 msgid "UNDER CONSTRUCTION"
-msgstr ""
+msgstr "建設中"
 
 msgctxt "Base Screen/KEY_BASE_UNDER_REPAIR"
 msgid "UNDER REPAIR"
@@ -7754,35 +7754,35 @@ msgstr "基地の航空機"
 
 msgctxt "Base Screen/KEY_BASE_WARNING_ACCESS_LIFT"
 msgid "Destroying the Access Lift will prevent you from escaping during enemy attacks of the base. Are you sure you want to proceed?"
-msgstr ""
+msgstr "アクセスリフトを撤去すると、敵による基地襲撃の間に脱出できなくなります。本当に続行しますか？"
 
 msgctxt "Base Screen/KEY_BASE_WARNING_STORES"
 msgid "Destroying the stores will decrease the amount of storage space you have. Items in excess will be discarded as a result. Are you sure you want to proceed?"
-msgstr ""
+msgstr "倉庫を撤去すると倉庫容量が減少します。結果的に容量を超過したぶんのアイテムは、廃棄されます。本当に続行しますか?"
 
 msgctxt "Base Screen/KEY_BASE_WARNING_LIVING_QUARTERS"
 msgid "Destroying the Living Quarters will decrease the amount of personnel space you have. Are you sure you want to proceed?"
-msgstr ""
+msgstr "居住区を撤去すると、人員スペースが減少します。本当に続行しますか？"
 
 msgctxt "Base Screen/KEY_BASE_WARNING_RESEARCH_LAB"
 msgid "Destroying the Research Lab will decrease the amount of research points produced. At least one Research Lab is required to complete a research project. Are you sure you want to proceed?"
-msgstr ""
+msgstr "研究ラボを撤去すると、生成される研究ポイントの量が減少します。研究プロジェクトを完了するには、少なくとも1つの研究所が必要です。本当に続行しますか？"
 
 msgctxt "Base Screen/KEY_BASE_WARNING_FABRICATION_PLANT"
 msgid "Destroying the Fabrication Plant will decrease the amount of production points produced. At least one Fabrication Plant is required to manufacture an item. Are you sure you want to proceed?"
-msgstr ""
+msgstr "製造プラントを撤去すると、生成される製造ポイント量が減少します。アイテムを製造するには、少なくとも 1 つの製造プラントが必要です。本当に続行しますか?"
 
 msgctxt "Base Screen/KEY_BASE_WARNING_ENERGY_GENERATOR"
 msgid "Destroying the Energy Generator will decrease the energy output of your base, possibly affecting your other facilities. Are you sure you want to proceed?"
-msgstr ""
+msgstr "発電施設を撤去すると、基地のエネルギー出力が減少し、他の施設に影響を及ぼす可能性があります。本当に続行しますか？"
 
 msgctxt "Base Screen/KEY_BASE_WARNING_SATELLITE_UPLINK"
 msgid "Destroying the Satellite Uplink will decrease the amount of concurrent Area Scans you can perform. Are you sure you want to proceed?"
-msgstr ""
+msgstr "衛生アップリンクを撤去すると、同時に実行可能なエリアスキャンの数が減少します。本当に続行しますか？"
 
 msgctxt "Base Screen/KEY_BASE_WARNING_MIST_REPELLER"
 msgid "Destroying the Mist Repeller will stop preventing the mist from forming around your base. Are you sure you want to proceed?"
-msgstr ""
+msgstr "ミスト・リペラーを撤去すると、基地周囲のミスト形成阻止が止まってしまいます。続行しますか?"
 
 msgctxt "Base Screen/KEY_BASE_WARNING_ALIEN_CONTAINMENT"
 msgid "Destroying the Containment Facility will decrease the amount of containment slots you have. All captured Pandorans in excess will be killed off. Are you sure you want to proceed?"
@@ -7790,67 +7790,67 @@ msgstr "収容施設を破壊すると、確保中の収容スロット数が減
 
 msgctxt "Base Screen/KEY_BASE_WARNING_MUTATION_LAB"
 msgid "Destroying the Mutation Lab will decrease the amount of Mutagens you produce per day. At least one Mutation Lab is required to enhance your soldiers. Are you sure you want to proceed?"
-msgstr ""
+msgstr "ミュータジェンラボを破壊すると、1日に生産されるミュータジェン量が減少します。兵士を強化するには、少なくとも1つのミュータジェンラボが必要です。本当に続行しますか?"
 
 msgctxt "Base Screen/KEY_BASE_WARNING_TRAINING_FACILITY"
 msgid ""
 "Destroying the Training Facility will decrease the amount of experience your soldiers gain while in the Base. At least one Training Facility is required so your soldiers gain experience. Are you "
 "sure you want to proceed?"
-msgstr ""
+msgstr "トレーニング施設を撤去すると、基地にいる間に兵士が獲得する経験値量が減少します。本当に続行しますか?"
 
 msgctxt "Base Screen/KEY_BASE_WARNING_MEDICAL_BAY"
 msgid ""
 "Destroying the Medical Bay will decrease the speed at which injured soldiers are healed while in the Base. At least one Medical Bay is required so your soldiers are healed. Are you sure you want to "
 "proceed?"
-msgstr ""
+msgstr "治療室を撤去すると、負傷した兵士が基地にいる間にヘルスが回復する速度が減少します。兵士のヘルス回復には少なくとも1つの治療室が必要です。本当に続行しますか?"
 
 msgctxt "Roster Screen/KEY_GEOROSTER_ACTIONS"
 msgid "ACTIONS"
-msgstr ""
+msgstr "アクション"
 
 msgctxt "Roster Screen/KEY_GEOROSTER_ARMOUR"
 msgid "ARMOR"
-msgstr ""
+msgstr "アーマー"
 
 msgctxt "Roster Screen/KEY_GEOROSTER_BACK"
 msgid "BACK"
-msgstr ""
+msgstr "戻る"
 
 msgctxt "Roster Screen/KEY_GEOROSTER_BODY"
 msgid "BODY"
-msgstr ""
+msgstr "ボディ"
 
 msgctxt "Roster Screen/KEY_GEOROSTER_CANCEL"
 msgid "CANCEL"
-msgstr ""
+msgstr "キャンセル"
 
 msgctxt "Roster Screen/KEY_GEOROSTER_DISALLOW"
 msgid "DISALLOW"
-msgstr ""
+msgstr "不許可"
 
 msgctxt "Roster Screen/KEY_GEOROSTER_EQUIP"
 msgid "EQUIPMENT"
-msgstr ""
+msgstr "装備"
 
 msgctxt "Roster Screen/KEY_GEOROSTER_MOUNTS"
 msgid "MOUNTS"
-msgstr ""
+msgstr "マウント"
 
 msgctxt "Roster Screen/KEY_GEOROSTER_NAME"
 msgid "SOLDIER NAME"
-msgstr ""
+msgstr "兵士名"
 
 msgctxt "Roster Screen/KEY_GEOROSTER_PROGRESS"
 msgid "TRAINING"
-msgstr ""
+msgstr "トレーニング"
 
 msgctxt "Roster Screen/KEY_GEOROSTER_STORES"
 msgid "STORES"
-msgstr ""
+msgstr "倉庫"
 
 msgctxt "Roster Screen/KEY_GEOROSTER_TRANSFER"
 msgid "TRANSFER"
-msgstr ""
+msgstr "転送"
 
 msgctxt "Roster Screen/KEY_STATUS_GEO_READY"
 msgid "READY"
@@ -7858,59 +7858,59 @@ msgstr "レディ"
 
 msgctxt "Roster Screen/KEY_STATUS_RECOVERY_TIME"
 msgid "{0:f0}h to heal"
-msgstr ""
+msgstr "{0:f0}h 治癒"
 
 msgctxt "Roster Screen/KEY_DEPLOY_SQUAD"
 msgid "DEPLOY SQUAD"
-msgstr ""
+msgstr "部隊を展開"
 
 msgctxt "Roster Screen/KEY_ROSTER_LOCATION"
 msgid "LOCATION"
-msgstr ""
+msgstr "ロケーション"
 
 msgctxt "Roster Screen/KEY_SQUAD_SLOTS_USED"
 msgid "SQUAD SLOTS USED {0}/{1}"
-msgstr ""
+msgstr "使用部隊枠 {0}/{1}"
 
 msgctxt "Roster Screen/KEY_CONTAINMENT_ALIENTYPE"
 msgid "PANDORAN TYPE"
-msgstr ""
+msgstr "パンドランタイプ"
 
 msgctxt "Roster Screen/KEY_CONTAINMENT_SLOTS"
 msgid "CONTAINMENT SLOTS"
-msgstr ""
+msgstr "収容施設枠"
 
 msgctxt "Roster Screen/KEY_STATUS_GEO_INJURED"
 msgid "INJURED"
-msgstr ""
+msgstr "負傷"
 
 msgctxt "Roster Screen/KEY_STATUS_GEO_TRAINING"
 msgid "TRAINING"
-msgstr ""
+msgstr "トレーニング"
 
 msgctxt "Roster Screen/KEY_STATUS_GEO_WORKING"
 msgid "WORKING"
-msgstr ""
+msgstr "作業中"
 
 msgctxt "Roster Screen/KEY_FATIGUE_CONFIRMATION"
 msgid "Some of your soldiers are tired or exhausted. They will have reduced Action Points for the battle. Do you wish to proceed?"
-msgstr ""
+msgstr "兵士の中に疲労または消耗している者がいます。彼らはこの戦闘でアクションポイントにペナルティを負います。続行しますか？"
 
 msgctxt "Roster Screen/KEY_GEOSCAPE_SOLDIERS_TT"
 msgid "All soldiers that are in Phoenix Base Living Quarters"
-msgstr ""
+msgstr "フェニックス基地の居住区にいる全ての兵士"
 
 msgctxt "Roster Screen/KEY_GEOSCAPE_VEHICLES_TT"
 msgid "All vehicles in possession of the Phoenix project"
-msgstr ""
+msgstr "フェニックスプロジェクトが所有するすべての車両"
 
 msgctxt "Roster Screen/KEY_GEOSCAPE_PANDORANS_TT"
 msgid "All captured Pandorans held in the Containment facilities"
-msgstr ""
+msgstr "収容施設に入っている全ての捕獲したパンドラン"
 
 msgctxt "Roster Screen/KEY_READY_ITEM_SLOTS_USED_TT"
 msgid "EMPTY READY ITEM SLOTS {0}/{1}"
-msgstr ""
+msgstr "空のレディアイテムスロット {0}/{1}"
 
 msgctxt "Roster Screen/KEY_ATTRIBUTES_MAX"
 msgid "MAX"
@@ -7918,127 +7918,127 @@ msgstr ""
 
 msgctxt "Roster Screen/KEY_HARVEST"
 msgid "HARVEST"
-msgstr ""
+msgstr "採取"
 
 msgctxt "Roster Screen/KEY_VEHICLE_LIMIT"
 msgid "Only one Vehicle can be deployed into a mission"
-msgstr ""
+msgstr "ミッションに展開できる車両は1台のみです"
 
 msgctxt "Diplomacy and Factions/KEY_DIPLOMACY_ANU"
 msgid "The Exalted"
-msgstr ""
+msgstr "イグザルティド"
 
 msgctxt "Diplomacy and Factions/KEY_DIPLOMACY_INCREASE"
 msgid "Defend havens against attack in order to improve your reputation"
-msgstr ""
+msgstr "フェニックスプロジェクトの評判を上げるため ヘイヴンを襲撃から防衛せよ"
 
 msgctxt "Diplomacy and Factions/KEY_DIPLOMACY_LOCATE"
 msgid "LOCATE MISSION"
-msgstr ""
+msgstr "ミッション地点を確認"
 
 msgctxt "Diplomacy and Factions/KEY_DIPLOMACY_NJ"
 msgid "Tobias West"
-msgstr ""
+msgstr "トビアス・ウェスト"
 
 msgctxt "Diplomacy and Factions/KEY_DIPLOMACY_RELATIONS_INCREASE"
 msgid "You must increase your reputation with this faction in order to receive further missions from them"
-msgstr ""
+msgstr "この派閥からさらなるミッションを受けるには 同派閥からの評判を上げる必要がある"
 
 msgctxt "Diplomacy and Factions/KEY_DIPLOMACY_SYN"
 msgid "Synedrion Council"
-msgstr ""
+msgstr "シネドリオン 評議会"
 
 msgctxt "Diplomacy and Factions/KEY_FACTION_NAME_ALIEN"
 msgid "Pandorans"
-msgstr ""
+msgstr "パンドラン"
 
 msgctxt "Diplomacy and Factions/KEY_FACTION_NAME_ANU"
 msgid "Disciples of Anu"
-msgstr ""
+msgstr "ディサイプルズ・オブ・アヌ"
 
 msgctxt "Diplomacy and Factions/KEY_FACTION_NAME_ENVIRONMENT"
 msgid "Environment"
-msgstr ""
+msgstr "環境"
 
 msgctxt "Diplomacy and Factions/KEY_FACTION_NAME_INACTIVE"
 msgid "Inactive"
-msgstr ""
+msgstr "非アクティブ"
 
 msgctxt "Diplomacy and Factions/KEY_FACTION_NAME_NEUTRAL"
 msgid "Independent"
-msgstr ""
+msgstr "独立勢力"
 
 msgctxt "Diplomacy and Factions/KEY_FACTION_NAME_NEW_JERICHO"
 msgid "New Jericho"
-msgstr ""
+msgstr "ニュージェリコ"
 
 msgctxt "Diplomacy and Factions/KEY_FACTION_NAME_PHOENIX"
 msgid "Phoenix Project"
-msgstr ""
+msgstr "フェニックス・プロジェクト"
 
 msgctxt "Diplomacy and Factions/KEY_FACTION_NAME_SYNEDRION"
 msgid "Synedrion"
-msgstr ""
+msgstr "シネドリオン"
 
 msgctxt "Diplomacy and Factions/KEY_DIPLOMACY_ICON_GATE_TT"
 msgid "Cannot gain reputation with this faction until the faction mission is completed successfully"
-msgstr ""
+msgstr "派閥ミッションが無事に完了するまで、 この派閥からの評判を得ることはできません"
 
 msgctxt "Diplomacy and Factions/KEY_DIPLOMACY_ICON_LEADER_TT"
 msgid "Leader of the faction"
-msgstr ""
+msgstr "派閥のリーダー"
 
 msgctxt "Diplomacy and Factions/KEY_DIPLOMACY_ICON_POPULATION_TT"
 msgid "Total population of all faction havens"
-msgstr ""
+msgstr "派閥の全ヘイヴンの総人口"
 
 msgctxt "Diplomacy and Factions/KEY_DIPLOMACY_ICON_HAVEN_TT"
 msgid "Number of havens this faction controls"
-msgstr ""
+msgstr "この派閥が支配しているヘイヴンの数"
 
 msgctxt "Diplomacy and Factions/KEY_MISSION_DIPLOMACY_DEDICATED"
 msgid "Allied"
-msgstr ""
+msgstr "同盟"
 
 msgctxt "Diplomacy and Factions/KEY_MISSION_DIPLOMACY_SUPPORTIVE"
 msgid "Aligned"
-msgstr ""
+msgstr "連携"
 
 msgctxt "Diplomacy and Factions/KEY_MISSION_DIPLOMACY_FRIENDLY"
 msgid "Supportive"
-msgstr ""
+msgstr "支持"
 
 msgctxt "Diplomacy and Factions/KEY_MISSION_DIPLOMACY_NEUTRAL"
 msgid "Friendly"
-msgstr ""
+msgstr "友好的"
 
 msgctxt "Diplomacy and Factions/KEY_MISSION_DIPLOMACY_SUSPICIOUS"
 msgid "Unfriendly"
-msgstr ""
+msgstr "非友好的"
 
 msgctxt "Diplomacy and Factions/KEY_MISSION_DIPLOMACY_UNFRIENDLY"
 msgid "Hostile"
-msgstr ""
+msgstr "敵意"
 
 msgctxt "Diplomacy and Factions/KEY_MISSION_DIPLOMACY_HOSTILE"
 msgid "Aggressive"
-msgstr ""
+msgstr "攻撃的"
 
 msgctxt "Diplomacy and Factions/KEY_MISSION_DIPLOMACY_VERY_HOSTILE"
 msgid "At War"
-msgstr ""
+msgstr "戦争状態"
 
 msgctxt "Diplomacy and Factions/KEY_DIPLOMACY_CONTACT"
 msgid "Establish contact with another faction"
-msgstr ""
+msgstr "他の派閥との接触を確立してください"
 
 msgctxt "Diplomacy and Factions/KEY_DIPLOMACY_RESEARCH"
 msgid "Faction research needed to establish diplomatic relations"
-msgstr ""
+msgstr "派閥研究するためには外交関係を確立する必要があります"
 
 msgctxt "Diplomacy and Factions/KEY_DIPLOMACY_DEATH"
 msgid "The faction has been annihilated"
-msgstr ""
+msgstr "この派閥は全滅しています"
 
 msgctxt "Diplomacy and Factions/KEY_DIPLOMACY_FACTION_NAME_TT"
 msgid "This name of the faction"
