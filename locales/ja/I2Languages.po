@@ -1,7 +1,7 @@
 # 
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2020-03-01 14:59+0000\n"
+"PO-Revision-Date: 2020-03-02 13:26+0000\n"
 "Last-Translator: higema <ltdhyndsh@yahoo.co.jp>\n"
 "Language: ja\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
@@ -7930,7 +7930,7 @@ msgstr "イグザルティド"
 
 msgctxt "Diplomacy and Factions/KEY_DIPLOMACY_INCREASE"
 msgid "Defend havens against attack in order to improve your reputation"
-msgstr "フェニックスプロジェクトの評判を上げるため ヘイヴンを襲撃から防衛せよ"
+msgstr "フェニックスプロジェクトの評判を上げる ためヘイヴンを襲撃から防衛せよ"
 
 msgctxt "Diplomacy and Factions/KEY_DIPLOMACY_LOCATE"
 msgid "LOCATE MISSION"
@@ -7938,7 +7938,7 @@ msgstr "ミッション地点を確認"
 
 msgctxt "Diplomacy and Factions/KEY_DIPLOMACY_NJ"
 msgid "Tobias West"
-msgstr "トビアス・ウェスト"
+msgstr "トビアス ウェスト"
 
 msgctxt "Diplomacy and Factions/KEY_DIPLOMACY_RELATIONS_INCREASE"
 msgid "You must increase your reputation with this faction in order to receive further missions from them"
@@ -8865,179 +8865,179 @@ msgstr "航空機リスト"
 
 msgctxt "Geoscape/KEY_GEOSCAPE_NOTIFICATION_RESEARCH"
 msgid "Researching: {0}"
-msgstr ""
+msgstr "研究中: {0}"
 
 msgctxt "Geoscape/KEY_GEOSCAPE_NOTIFICATION_MANUFACTURE"
 msgid "Manufacturing: {0}"
-msgstr ""
+msgstr "製造中: {0}"
 
 msgctxt "Geoscape/KEY_MESSAGE_GEO_NO_RESOURCES_RADAR"
 msgid "Not enough resources to conduct an Area Scan"
-msgstr ""
+msgstr "エリア スキャンを実行するためのリソースが足りません"
 
 msgctxt "Geoscape/KEY_AIRCRAFT_STATS_SPEED"
 msgid "SPEED"
-msgstr ""
+msgstr "速度"
 
 msgctxt "Geoscape/KEY_AIRCRAFT_STATS_RANGE"
 msgid "RANGE"
-msgstr ""
+msgstr "航続距離"
 
 msgctxt "Geoscape/KEY_AIRCRAFT_STATS_CAPACITY"
 msgid "CAPACITY"
-msgstr ""
+msgstr "搭乗可能枠数"
 
 msgctxt "Geoscape/KEY_AIRCRAFT_STATS_DURABILITY"
 msgid "DURABILITY"
-msgstr ""
+msgstr "耐久値"
 
 msgctxt "Geoscape/KEY_GEOSCAPE_MESSAGE_HAVEN_UNDER_ATTACK"
 msgid "Haven {0} under attack by {1}"
-msgstr ""
+msgstr "ヘイヴン {0} が {1} による襲撃を受けている"
 
 msgctxt "Geoscape/KEY_GEOSCAPE_MESSAGE_HAVEN_REPELLED_ATTACK"
 msgid "Haven {0} repelled attack by {1}"
-msgstr ""
+msgstr "ヘイヴン {0} が {1} による襲撃を押し返した"
 
 msgctxt "Geoscape/KEY_GEOSCAPE_MESSAGE_HAVEN_DESTROYED"
 msgid "Haven {0} destroyed by {1}"
-msgstr ""
+msgstr "ヘイヴン {0} が {1} によって破壊された"
 
 msgctxt "Geoscape/KEY_GEOSCAPE_MESSAGE_ALIEN_BASE_DESTROYED"
 msgid "{0} destroyed by {1}"
-msgstr ""
+msgstr "{0} が {1} によって破壊された"
 
 msgctxt "Geoscape/KEY_GEOSCAPE_MESSAGE_BASE_THREATENED_1"
 msgid "{1} will be attacked by {0}"
-msgstr ""
+msgstr "{1} が {0} によって襲撃される"
 
 msgctxt "Geoscape/KEY_GEOSCAPE_MESSAGE_BASE_THREATENED_2"
 msgid "{0} will reach {1} in {2} hours"
-msgstr ""
+msgstr "{0} が {2} 時間で {1} に到達"
 
 msgctxt "Geoscape/KEY_GEOSCAPE_MESSAGE_SOLDIER_STARVED"
 msgid "Soldier died from starvation: {0}"
-msgstr ""
+msgstr "兵士が飢餓で死亡した: {0}"
 
 msgctxt "Geoscape/KEY_GEOSCAPE_MESSAGE_AREA_SCAN_COMPLETE"
 msgid "Scan completed"
-msgstr ""
+msgstr "スキャン完了"
 
 msgctxt "Geoscape/KEY_GEOSCAPE_MESSAGE_FACILITY COMPLETE"
 msgid "Construction complete: {0} constructed at {1}"
-msgstr ""
+msgstr "{1} で建設完了: {0}"
 
 msgctxt "Geoscape/KEY_GEOSCAPE_MESSAGE_ITEM_PRODUCED"
 msgid "Production complete: {0}"
-msgstr ""
+msgstr "生産完了: {0}"
 
 msgctxt "Geoscape/KEY_GEOSCAPE_MESSAGE_RESEARCH_COMPLETE"
 msgid "Research complete: {0}"
-msgstr ""
+msgstr "研究完了: {0}"
 
 msgctxt "Geoscape/KEY_GEOSCAPE_MESSAGE_FACILITY_REPAIRED"
 msgid "Repair complete: {0} repaired at {1}"
-msgstr ""
+msgstr "{1} で修理完了: {0}"
 
 msgctxt "Geoscape/KEY_GEOSCAPE_MESSAGE_FACILITY_DAMAGED"
 msgid "Facility damaged: {0} at base: {1}"
-msgstr ""
+msgstr "基地 {1} で施設損傷: {0}"
 
 msgctxt "Geoscape/KEY_GEOSCAPE_MESSAGE_AIRCRAFT_REPAIRED"
 msgid "Aircraft repaired: {0}"
-msgstr ""
+msgstr "航空機が修復された: {0}"
 
 msgctxt "Geoscape/KEY_GEOSCAPE_MESSAGE_AIRCRAFT_DAMAGED"
 msgid "Aircraft damage: {0}"
-msgstr ""
+msgstr "航空機損傷: {0}"
 
 msgctxt "Geoscape/KEY_GEOSCAPE_MESSAGE_SOLDIER_KILLED"
 msgid "Soldier killed in action: {0}"
-msgstr ""
+msgstr "活動中に兵士が死亡: {0}"
 
 msgctxt "Geoscape/KEY_GEOSCAPE_MESSAGE_SOLDIER EXHAUSTED"
 msgid "Soldier is exhausted and needs to rest: {0}"
-msgstr ""
+msgstr "兵士が消耗しており休息の必要あり: {0}"
 
 msgctxt "Geoscape/KEY_GEOSCAPE_MESSAGE_PANDORAN_CAPTURED"
 msgid "Pandoran captured and contained: {0}"
-msgstr ""
+msgstr "パンドランが捕獲され収容された: {0}"
 
 msgctxt "Geoscape/KEY_GEOSCAPE_MESSAGE_FACTION_STRUCTURE_COMPLETE"
 msgid "{0} constructed in Haven {1} by {2}"
-msgstr ""
+msgstr "{2} によってヘイヴン {1} に {0} が建造された"
 
 msgctxt "Geoscape/KEY_GEOSCAPE_MESSAGE_DIPLOMACY_CHANGE"
 msgid "Diplomacy change: {0} are now {1}"
-msgstr ""
+msgstr "外交関係変化: {0} は {1} になった"
 
 msgctxt "Geoscape/KEY_GEOSCAPE_MESSAGE_MISSION_COMPLETE"
 msgid "{0} mission completed successfully"
-msgstr ""
+msgstr "{0} ミッションが無事完了"
 
 msgctxt "Geoscape/KEY_GEOSCAPE_MESSAGE_FACTION_RESEARCH_STARTED"
 msgid "{0} started research project: {1}"
-msgstr ""
+msgstr "{0} が研究プロジェクトを開始: {1}"
 
 msgctxt "Geoscape/KEY_GEOSCAPE_MESSAGE_FACTION_RESEARCH_COMPLETED"
 msgid "{0} completed research project: {1}"
-msgstr ""
+msgstr "{0} が研究プロジェクトを完了: {1}"
 
 msgctxt "Geoscape/KEY_GEOSCAPE_MESSAGE_SOLDIERS_READY"
 msgid "Crew of {0} are fully healed and rested"
-msgstr ""
+msgstr "{0} の乗員は完全に回復し休息した"
 
 msgctxt "Geoscape/KEY_GEOSCAPE_MESSAGE_LOW_ENERGY"
 msgid "Insufficient energy at {0}"
-msgstr ""
+msgstr "{0} で電力不十分"
 
 msgctxt "Geoscape/KEY_GEOSCAPE_MESSAGE_BASE_DESTROYED"
 msgid "Base {0} destroyed by {1}"
-msgstr ""
+msgstr "基地 {0} が {1} によって破壊された"
 
 msgctxt "Geoscape/KEY_GEOSCAPE_MESSAGE_LOW_FOOD"
 msgid "Insufficient food for your soldiers"
-msgstr ""
+msgstr "兵士のための食糧不十分"
 
 msgctxt "Geoscape/KEY_GEOSCAPE_MESSAGE_STORAGE_FULL"
 msgid "Storage space is full"
-msgstr ""
+msgstr "倉庫容量がいっぱいです"
 
 msgctxt "Geoscape/KEY_GEOSCAPE_MESSAGE_LIVING_QUARTERS_FULL"
 msgid "Living quarters capacity reached"
-msgstr ""
+msgstr "居住区が定員に達した"
 
 msgctxt "Geoscape/KEY_GEOSCAPE_MESSAGE_CONTAINMENT_FULL"
 msgid "Pandoran containment capacity reached"
-msgstr ""
+msgstr "パンドラ収容施設が最大容量に達した"
 
 msgctxt "Geoscape/KEY_GEOSCAPE_MESSAGE_ODI_CHANGE"
 msgid "ODI at {0}%"
-msgstr ""
+msgstr "ODIが {0}%"
 
 msgctxt "Geoscape/KEY_GEOSCAPE_MESSAGE_RESEARCH_REQUIREMENTS_MET"
 msgid "Research prerequisites for {0} obtained"
-msgstr ""
+msgstr "{0} の研究前提条件を獲得した"
 
 msgctxt "Geoscape/KEY_GEOSCAPE_MESSAGE_BASE_GAINED"
 msgid "New Phoenix Base restored"
-msgstr ""
+msgstr "新たなフェニックス基地が復旧された"
 
 msgctxt "Geoscape/KEY_GEOSCAPE_RECRUIT_TRANSFER"
 msgid "There is no free space on {0}. The new recruit has been transfered to {1}."
-msgstr ""
+msgstr "{0} に空きがないため、新兵は {1} に転送されている。"
 
 msgctxt "Geoscape/KEY_GEOSCAPE_MOVE"
 msgid "MOVE"
-msgstr ""
+msgstr "移動"
 
 msgctxt "Geoscape/KEY_STATUS_SOLO"
 msgid "STATUS"
-msgstr ""
+msgstr "ステータス"
 
 msgctxt "Geoscape/KEY_GEOSCAPE_AIRCRAFT_TT"
 msgid "Aircraft under Phoenix Point control"
-msgstr ""
+msgstr "フェニックスポイントの管理下にある航空機"
 
 msgctxt "Geoscape/KEY_GEOSCAPE_TIME_SPEED_FAST"
 msgid "FAST"
@@ -9053,67 +9053,67 @@ msgstr ""
 
 msgctxt "Geoscape/KEY_GEOSCAPE_PX_AIRCRAFT"
 msgid "MANTICORE {0}"
-msgstr ""
+msgstr "マンティコア {0}"
 
 msgctxt "Geoscape/KEY_GEOSCAPE_NJ_AIRCRAFT"
 msgid "THUNDERBIRD {0}"
-msgstr ""
+msgstr "サンダーバード {0}"
 
 msgctxt "Geoscape/KEY_GEOSCAPE_AN_AIRCRAFT"
 msgid "TIAMAT {0}"
-msgstr ""
+msgstr "ティアマット {0}"
 
 msgctxt "Geoscape/KEY_GEOSCAPE_SY_AIRCRAFT"
 msgid "HELIOS {0}"
-msgstr ""
+msgstr "ヘリオス {0}"
 
 msgctxt "Geoscape/KEY_GEOSCAPE_EVENT_LOG"
 msgid "EVENT LOG"
-msgstr ""
+msgstr "イベントログ"
 
 msgctxt "Geoscape/KEY_GEOSCAPE_VEHICLE_TRANSFER_ERROR_TT"
 msgid "You can only assign one ground vehicle per aircraft"
-msgstr ""
+msgstr "航空機1機につき地上車両は1台しか割り当てることができません"
 
 msgctxt "Geoscape/KEY_GEOSCAPE_EXPLORE_ERROR_TT"
 msgid "You cannot explore a site without soldiers or vehicles"
-msgstr ""
+msgstr "兵士または車両無しでは地点を探索する事はできません"
 
 msgctxt "Geoscape/KEY_GEOSCAPE_MAP_DEFENDING_STRENGTH"
 msgid "DEFENDING STRENGTH"
-msgstr ""
+msgstr "防衛戦力"
 
 msgctxt "Geoscape/KEY_GEOSCAPE_MAP_ATTACKING_STRENGTH"
 msgid "ATTACKING STRENGTH"
-msgstr ""
+msgstr "攻撃側戦力"
 
 msgctxt "Geoscape/KEY_UNDER_ATTACK"
 msgid "UNDER ATTACK"
-msgstr ""
+msgstr "襲撃を受けている"
 
 msgctxt "Geoscape/KEY_TRADE"
 msgid "TRADE"
-msgstr ""
+msgstr "トレード"
 
 msgctxt "Geoscape/KEY_DEFEND"
 msgid "DEFEND"
-msgstr ""
+msgstr "守る"
 
 msgctxt "Geoscape/KEY_SPECIAL_MISSION"
 msgid "SPECIAL MISSION"
-msgstr ""
+msgstr "スペシャルミッション"
 
 msgctxt "Geoscape/KEY_FACILITY_BUILDING"
 msgid "FACILITY IS BUILDING"
-msgstr ""
+msgstr "施設が建設中"
 
 msgctxt "Geoscape/KEY_ODI_TT"
 msgid "Oneiric Delirium Index - Save havens to slow down progress, or destroy Pandoran bases to reverse it"
-msgstr ""
+msgstr "夢性精神錯乱指数-進行を遅らせるためヘイヴンを救援せよ。または進行を戻すためパンドラン基地を破壊せよ。"
 
 msgctxt "Haven Screen/KEY_GEOSCAPE_ZONE_FOOD_NAME"
 msgid "FOOD PRODUCTION"
-msgstr ""
+msgstr "食料生産施設"
 
 msgctxt "Haven Screen/KEY_GEOSCAPE_ZONE_FOOD_DESCRIPTION"
 msgid "Food production zones provide a substantial amount of food for a haven, and contribute some food to allied havens within influence range."
