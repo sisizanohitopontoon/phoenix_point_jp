@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2020-03-06 15:35+0000\n"
+"PO-Revision-Date: 2020-03-06 15:37+0000\n"
 "Last-Translator: sisizanohito <sisizanohito@gmail.com>\n"
 "Language-Team: \n"
 "Language: ja\n"
@@ -7458,7 +7458,6 @@ msgctxt "Controls/KEY_CONTROLS_BINDINGS_SECONDARY_KEY"
 msgid "SECONDARY KEY"
 msgstr "第ニカラー {0}"
 
-#, fuzzy
 #| msgctxt "Options Screen/KEY_OPTIONS_OVERWRITE_NAME"
 #| msgid "OVERWRITE"
 msgctxt "Controls/KEY_CONTROLS_BINDINGS_OVERRIDE_ALLOWED"
@@ -8231,33 +8230,29 @@ msgctxt "Controls/KEY_CONTROLS_ACTION_CHANGE_OVERWATCH_CONE"
 msgid "CHANGE OVERWATCH CONE SIZE"
 msgstr ""
 
-#, fuzzy
 #| msgctxt "Controls/KEY_CONTROLS_TACTICAL_RTHUMB"
 #| msgid "MOVE CAMERA"
 msgctxt "Controls/KEY_CONTROLS_ACTION_MOVE_CAMERA_UP"
 msgid "MOVE CAMERA UP"
-msgstr "カメラを動かす"
+msgstr "カメラ-上移動"
 
-#, fuzzy
 #| msgctxt "Controls/KEY_CONTROLS_TACTICAL_RTHUMB"
 #| msgid "MOVE CAMERA"
 msgctxt "Controls/KEY_CONTROLS_ACTION_MOVE_CAMERA_DOWN"
 msgid "MOVE CAMERA DOWN"
-msgstr "カメラを動かす"
+msgstr "カメラ-下移動"
 
-#, fuzzy
 #| msgctxt "Controls/KEY_CONTROLS_TACTICAL_RTHUMB"
 #| msgid "MOVE CAMERA"
 msgctxt "Controls/KEY_CONTROLS_ACTION_MOVE_CAMERA_LEFT"
 msgid "MOVE CAMERA LEFT"
-msgstr "カメラを動かす"
+msgstr "カメラ-左移動"
 
-#, fuzzy
 #| msgctxt "Controls/KEY_CONTROLS_TACTICAL_RTHUMB"
 #| msgid "MOVE CAMERA"
 msgctxt "Controls/KEY_CONTROLS_ACTION_MOVE_CAMERA_RIGHT"
 msgid "MOVE CAMERA RIGHT"
-msgstr "カメラを動かす"
+msgstr "カメラ-右移動"
 
 msgctxt "Controls/KEY_CONTROLS_ACTION_GEOSCAPE_SHOW_LOG"
 msgid "SHOW LOG"
