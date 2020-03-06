@@ -947,7 +947,7 @@ msgid "These annelid mutations are highly mobile poison bombs."
 msgstr "[null]"
 
 msgctxt "Research/PX_ALIEN_QUEEN_RESEARCHDEF_COMPLETE"
-msgid "Summary: The Scylla is something like a Pandoran battleship, with multiple weapons and defence system, and critical command and control abilities. It is certainly highly intelligent, and seems to be responsible for the increasing strength of Pandoran attacks on havens. Many of its mutations seem to be oriented towards abduction of human populations rather than outright massacre. It is absolutely essential that we capture a live specimen, even though it will be an extremely dangerous task.[CR][LF][CR][LF]Genetic origins: 8% Arthropod, 4% Arachnid, 11% Human, 77% Unknown[CR][LF][CR][LF]Function: Leadership, abduction, mass terror, demolition - some mutations have the ability to instil frenzied attacks by less Pandorans[CR][LF][CR][LF]Offensive Mutations: dual “smashers”, dual melded “cannons”, mist launcher, Sonic blast, goo launcher, deployment of Mindfraggers[CR][LF][CR][LF]Defensive Mutations: Reactive mist emission, armored variants[CR][LF][CR][LF]Mobility: Agile variant can leap over short distances"
+msgid "Summary: The Scylla is something like a Pandoran battleship, with multiple weapons and defence system, and critical command and control abilities. It is certainly highly intelligent, and seems to be responsible for the increasing strength of Pandoran attacks on havens. Many of its mutations seem to be oriented towards abduction of human populations rather than outright massacre. It is absolutely essential that we capture a live specimen, even though it will be an extremely dangerous task.[LF][LF]Genetic origins: 8% Arthropod, 4% Arachnid, 11% Human, 77% Unknown[LF][LF]Function: Leadership, abduction, mass terror, demolition - some mutations have the ability to instil frenzied attacks by lesser Pandorans[LF][LF]Offensive Mutations: dual “smashers”, dual melded “cannons”, mist launcher, Sonic blast, goo launcher, deployment of Mindfraggers[LF][LF]Defensive Mutations: Reactive mist emission, armored variants[LF][LF]Mobility: Agile variant can leap over short distances"
 msgstr "[null]"
 
 msgctxt "Research/PX_ALIEN_QUEEN_RESEARCHDEF_NAME"
@@ -971,7 +971,7 @@ msgid "The Siren is a powerful, advanced Pandoran mutation, appearing for the fi
 msgstr "[null]"
 
 msgctxt "Research/PX_ALIEN_SPAWNERY_RESEARCHDEF_COMPLETE"
-msgid "Although the exact method of mutation remains unknown, it has been confirmed that the Spawnery is capable of producing more advance Pandoran creatures. What we have learned is that the specimen determines the exact nature of the batch it breeds, creating the mutations best suited for its needs. At this point, it remains unknown where the Spawnery receives the biomass needed to create such vast amounts of mutations. Analyses of Spawnery samples, have revealed the presence of hundreds of strands of DNA, including human, though not all of them appear to be used in the creation of its progeny.[LF][LF]ADDITIONAL FINDINGS: Field reports have confirmed that destroying a Spawnery effectively renders the Lair inoperable, causing the structure to be abandoned.[LF]"
+msgid "Although the exact method of mutation remains unknown, it has been confirmed that the Spawnery is capable of producing more advanced Pandoran creatures. What we have learned is that the specimen determines the exact nature of the batch it breeds, creating the mutations best suited for its needs. At this point, it remains unknown where the Spawnery receives the biomass needed to create such vast amounts of mutations. Analyses of Spawnery samples have revealed the presence of hundreds of strands of DNA, including human, though not all of them appear to be used in the creation of its progeny.[LF][LF]ADDITIONAL FINDINGS: Field reports have confirmed that destroying a Spawnery effectively renders the Lair inoperable, causing the structure to be abandoned.[LF]"
 msgstr "[null]"
 
 msgctxt "Research/PX_ALIEN_SPAWNERY_RESEARCHDEF_NAME"
@@ -1736,6 +1736,54 @@ msgstr "[null]"
 
 msgctxt "Research/PX_ALIENVIRUSINFECTION_RESEARCHDEF_SHORT"
 msgid "Capture Pandoran with Virus ability {0}/{1}"
+msgstr "[null]"
+
+msgctxt "Blood Titanium/NJ_BIONICS1_RESEARCHDEF_NAME"
+msgid "Basic Bionic Technology"
+msgstr "[null]"
+
+msgctxt "Blood Titanium/NJ_BIONICS1_RESEARCHDEF_UNLOCK"
+msgid "Based on an abandoned New Jericho cybernetics project, bionics technology would allow enhance human capabilities with cutting edge cybernetics implants and prosthetics transforming them into walking tanks on the battlefield."
+msgstr "[null]"
+
+msgctxt "Blood Titanium/NJ_BIONICS1_RESEARCHDEF_COMPLETE"
+msgid "Vastly improved from the first new Jericho attempts, the technology no longer leaves the subjects dead or crippled. A new set of bio-implants have successfully been developed thanks to advancements in neural co-processors and light metal alloy development. The new implants allow personnel to withstand heavy amounts of damage, land safely from great heights, and even run through walls if needed."
+msgstr "[null]"
+
+msgctxt "Blood Titanium/NJ_BIONICS1_RESEARCHDEF_BENEFITS"
+msgid "Cybernetics Lab facility and additional designs."
+msgstr "[null]"
+
+msgctxt "Blood Titanium/NJ_BIONICS2_RESEARCHDEF_NAME"
+msgid "Advanced Bionic Technology"
+msgstr "[null]"
+
+msgctxt "Blood Titanium/NJ_BIONICS2_RESEARCHDEF_UNLOCK"
+msgid "Further advances in bionics would provide soldiers with enhanced capabilities, as well as the ability to integrate their bodies with existing neural technology."
+msgstr "[null]"
+
+msgctxt "Blood Titanium/NJ_BIONICS2_RESEARCHDEF_COMPLETE"
+msgid "A new series of equipment and procedures now allow test subjects to have parts of their bodies replaced with more sophisticated mechanical components increasing their efficiency in battle. Thanks to the development of bio-alloys implant rejection rates are less than 0.02%, allowing nearly seamless incorporation of original nervous system and other connecting tissue.[CR][LF][CR][LF]As of yet bionic self-reparation has proven unsuccessful, requiring complete replacement should a malfunction occur. All new implants can now be produced in the Bionics Lab."
+msgstr "[null]"
+
+msgctxt "Blood Titanium/NJ_BIONICS2_RESEARCHDEF_BENEFITS"
+msgid "Cybernetics Lab facility and additional designs."
+msgstr "[null]"
+
+msgctxt "Blood Titanium/SYN_BIONICS3_RESEARCHDEF_NAME"
+msgid "Restricted Bionic Technology"
+msgstr "[null]"
+
+msgctxt "Blood Titanium/SYN_BIONICS3_RESEARCHDEF_UNLOCK"
+msgid "The integration of Synedrion nano-technologies and existing Bionic technology will further increase the efficiency of bionic implants in the war for survival."
+msgstr "[null]"
+
+msgctxt "Blood Titanium/SYN_BIONICS3_RESEARCHDEF_COMPLETE"
+msgid "After successfully integrating Synedrion nanite development with current bionic production, implants with improved agility and color-blending properties have been constructed. The implants allow a much greater range of action as well as a “chameleon” effect, making people difficult to spot on the battlefield."
+msgstr "[null]"
+
+msgctxt "Blood Titanium/SYN_BIONICS3_RESEARCHDEF_BENEFITS"
+msgid "Cybernetics Lab facility and additional designs."
 msgstr "[null]"
 
 msgctxt "Key progression summary/Yuggothian Entity"

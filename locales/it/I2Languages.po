@@ -358,6 +358,678 @@ msgctxt "PH_Localization/KEY_OK"
 msgid "OK"
 msgstr "OK"
 
+msgctxt "Blood Titanium/KEY_ITEM_TYPE_BIONIC"
+msgid "BIONIC"
+msgstr "BIONICO"
+
+msgctxt "Blood Titanium/KEY_NJ_EXO_BIO_HELMET_NAME2"
+msgid "Disruptor Head"
+msgstr "Testa disgregatore"
+
+msgctxt "Blood Titanium/KEY_NJ_EXO_BIO_LEGS_NAME2"
+msgid "Propeller Legs"
+msgstr "Gambe elica"
+
+msgctxt "Blood Titanium/KEY_NJ_EXO_BIO_TORSO_NAME2"
+msgid "Neural Torso"
+msgstr "Busto neurale"
+
+msgctxt "Blood Titanium/KEY_SY_SHINOBI_BIO_HELMET_NAME2"
+msgid "Echo Head"
+msgstr "Testa eco"
+
+msgctxt "Blood Titanium/KEY_SY_SHINOBI_BIO_LEGS_NAME2"
+msgid "Mirage Legs"
+msgstr "Gambe miraggio"
+
+msgctxt "Blood Titanium/KEY_SY_SHINOBI_BIO_TORSO_NAME2"
+msgid "Vengeance Torso"
+msgstr "Busto vendetta"
+
+msgctxt "Blood Titanium/KEY_NJ_JUGG_BIO_HELMET_NAME2"
+msgid "Clarity Head"
+msgstr "Testa della chiarezza"
+
+msgctxt "Blood Titanium/KEY_NJ_JUGG_BIO_LEGS_NAME2"
+msgid "Armadillo Legs"
+msgstr "Gambe dell'Armadillo"
+
+msgctxt "Blood Titanium/KEY_NJ_JUGG_BIO_TORSO_NAME2"
+msgid "Juggernaut Torso"
+msgstr "Busto del Colosso"
+
+msgctxt "Blood Titanium/KEY_NJ_EXO_BIO_HELMET_DESCRIPTION"
+msgid "New Jericho Will Disruption Head Augmentation"
+msgstr "Innesto Testa disgregatore della volontà Nuova Gerico"
+
+msgctxt "Blood Titanium/KEY_NJ_EXO_BIO_LEGS_DESCRIPTION"
+msgid "New Jericho Rocket Legs Augmentation"
+msgstr "Innesto Gambe razzo della volontà Nuova Gerico"
+
+msgctxt "Blood Titanium/KEY_NJ_EXO_BIO_TORSO_DESCRIPTION"
+msgid "New Jericho Exoskeletal Torso Augmentation"
+msgstr "Innesto Busto esoscheletrico della volontà Nuova Gerico"
+
+msgctxt "Blood Titanium/KEY_SY_SHINOBI_BIO_HELMET_DESCRIPTION"
+msgid "Synedrion Silent Echo Head Augmentation"
+msgstr "Innesto Testa eco silenziatore Synedrion"
+
+msgctxt "Blood Titanium/KEY_SY_SHINOBI_BIO_LEGS_DESCRIPTION"
+msgid "Synedrion Anti-detection Legs Augmentation"
+msgstr "Innesto Gambe anti-rilevamento Synedrion"
+
+msgctxt "Blood Titanium/KEY_SY_SHINOBI_BIO_TORSO_DESCRIPTION"
+msgid "Synedrion Melee Proficient Torso Augmentation"
+msgstr "Innesto Busto padronanza mischia Synedrion"
+
+msgctxt "Blood Titanium/KEY_NJ_JUGG_BIO_HELMET_DESCRIPTION"
+msgid "New Jericho Control Resist Head Augmentation"
+msgstr "Innesto Testa resistente al controllo Nuova Gerico"
+
+msgctxt "Blood Titanium/KEY_NJ_JUGG_BIO_LEGS_DESCRIPTION"
+msgid "New Jericho Safe Landing Legs Augmentation"
+msgstr "Innesto Gambe atterraggio sicuro Nuova Gerico"
+
+msgctxt "Blood Titanium/KEY_NJ_JUGG_BIO_TORSO_DESCRIPTION"
+msgid "New Jericho Demolishing Torso Augmentation"
+msgstr "Innesto Busto demolitore Nuova Gerico"
+
+msgctxt "Blood Titanium/KEY_NJ_EXO_BIO_HELMET_LONG_DESCRIPTION"
+msgid "Created as an advanced targeting implant, the Disruptor head augmentation was gradually modified to use ultrasound emitters to disrupt enemy mind processes."
+msgstr "Creato come impianto avanzato di puntamento, l'impianto Testa disgregatore è stato gradualmente modificato per sfruttare emettitori di ultrasuoni per interrompere i processi mentali del nemico."
+
+msgctxt "Blood Titanium/KEY_NJ_EXO_BIO_LEGS_LONG_DESCRIPTION"
+msgid "Following the design of the Golem-B armor jetpack, the Propeller legs augmentation allows soldiers to traverse short distances flying over low obstacles on the way."
+msgstr "Sulle orme del progetto dell'armatura jetpack Golem-B, l'impianto Gambe elica permette ai soldati di attraversare brevi distanze sorvolando gli ostacoli bassi che incontrano lungo il percorso."
+
+msgctxt "Blood Titanium/KEY_NJ_EXO_BIO_TORSO_LONG_DESCRIPTION"
+msgid "A third generation exoskeleton rig that allows a soldier to attach any mounted weapons or mecharms to their frame, increasing their versatility in combat by seventy-nine percent."
+msgstr "Un equipaggiamento esoscheletrico di terza generazione che permette al soldato di fissare al proprio telaio qualsiasi arma montata o braccio meccanico, accrescendo del settantanove percento la propria versatilità in battaglia."
+
+msgctxt "Blood Titanium/KEY_SY_SHINOBI_BIO_HELMET_LONG_DESCRIPTION"
+msgid "Based on Triton head physiology, the Echo head augment is able to produce a sound suppression field, making all weapons used by the soldier silent."
+msgstr "L'innesto Testa eco, basato sulla fisiologia della testa di Tritone, è in grado di generare un campo di soppressione del suono, silenziando così tutte le armi utilizzate dal soldato."
+
+msgctxt "Blood Titanium/KEY_SY_SHINOBI_BIO_LEGS_LONG_DESCRIPTION"
+msgid "Designed for silent running, the Mirage legs allow soldiers to run through observed areas unnoticed without worrying about enemy Overwatch."
+msgstr "Le gambe miraggio, progettate per la corsa silenziosa, permettono al soldato di correre inosservato attraverso aree sorvegliate, senza doversi preoccupare della Guardia nemica."
+
+msgctxt "Blood Titanium/KEY_SY_SHINOBI_BIO_TORSO_LONG_DESCRIPTION"
+msgid "The Vengeance torso augmentation focuses on close combat efficiency, allowing soldiers to use a range advanced martial techniques without prior melee combat proficiency."
+msgstr "Il Busto vendetta è un innesto focalizzato sull'efficienza del combattimento a corto raggio e permette ai soldati di ricorrere a una serie di tecniche di combattimento avanzate senza necessitare di una pregressa padronanza del combattimento in mischia."
+
+msgctxt "Blood Titanium/KEY_NJ_JUGG_BIO_HELMET_LONG_DESCRIPTION"
+msgid "A massive head augmentation of reinforced titanium, the Clarity head provides complete protection to the soldier’s brain, while also isolating him from Pandoran mind control.[CR]"
+msgstr "La Testa della chiarezza è un impressionante innesto craniale in titanio rinforzato che fornisce una protezione completa per il cervello del soldato, isolandolo al contempo dal controllo della mente dei Pandora."
+
+msgctxt "Blood Titanium/KEY_NJ_JUGG_BIO_LEGS_LONG_DESCRIPTION"
+msgid "Based on advanced vehicle hydraulics, the Armadillo legs allow soldiers of up to three tons to land safely from fifty meters height absorbing the entire shock."
+msgstr "Basate su sistemi idraulici avanzati per veicoli, le Gambe dell'Armadillo permettono ai soldati pesanti fino a tre tonnellate di atterrare in sicurezza da un'altezza di cinquanta metri, assorbendo l'urto completamente."
+
+msgctxt "Blood Titanium/KEY_NJ_JUGG_BIO_TORSO_LONG_DESCRIPTION"
+msgid "Initially designed for space combat, the Juggernaut torso makes a person immune to the majority of physical attacks, while also allowing soldiers to breach through solid walls by walking through them."
+msgstr "Inizialmente concepito per il combattimento nello spazio, il Busto del Colosso rende la persona immune alla maggior parte degli attacchi fisici, permettendo inoltre ai soldati di oltrepassare i muri camminandoci attraverso."
+
+msgctxt "Blood Titanium/KEY_BASE_FACILITY_BIONICSLAB_NAME"
+msgid "CYBERNETICS LAB"
+msgstr "LABORATORIO DI CIBERNETICA"
+
+msgctxt "Blood Titanium/KEY_BASE_WARNING_RESEARCH_BIONICSLAB"
+msgid "Destroying the Cybernetics Lab will decrease the amount of research points you produce per day. At least one Cybernetics Lab is required to modify your soldiers. Are you sure you want to proceed?"
+msgstr "Distruggere il laboratorio di cibernetica diminuirà la quantità di punti ricerca prodotti ogni giorno. È richiesto almeno un laboratorio di cibernetica per modificare i tuoi soldati. Vuoi davvero procedere?"
+
+msgctxt "Blood Titanium/KEY_BASE_FACILITY_BIONICSLAB_DESCRIPTION"
+msgid "Allows soldiers to be augmented with bionic body parts, and produces research."
+msgstr "Permette ai soldati di essere potenziati con parti del corpo bioniche, e produce ricerca."
+
+msgctxt "Blood Titanium/KEY_MIND_CONTROL_IMMUNITY_NAME"
+msgid "MIND CONTROL IMMUNITY"
+msgstr "IMMUNITÀ AL CONTROLLO DELLA MENTE"
+
+msgctxt "Blood Titanium/KEY_MIND_CONTROL_IMMUNITY_DESCRIPTION"
+msgid "Immune to Mind Control."
+msgstr "Immune al controllo della mente."
+
+msgctxt "Blood Titanium/KEY_STATUS_SILENCED"
+msgid "DISORIENTED"
+msgstr "DISORIENTATO"
+
+msgctxt "Blood Titanium/KEY_STATUS_SILENCED_DESCRIPTION"
+msgid "Cannot use Will Point abilities for 1 turn."
+msgstr "Impossibile utilizzare abilità punti volontà per 1 turno."
+
+msgctxt "Blood Titanium/KEY_NEURAL_DISRUPTION_NAME"
+msgid "NEURAL DISRUPTION"
+msgstr "DISTURBO NEURALE"
+
+msgctxt "Blood Titanium/KEY_NEURAL_DISRUPTION_DESCRIPTION"
+msgid "Disrupt target for 1 turn, causing it to become DISORIENTED and unable to use Will Point abilities."
+msgstr "Disturba il bersaglio per 1 turno, facendolo diventare DISORIENTATO e impossibilitato a usare abilità punti volontà."
+
+msgctxt "Blood Titanium/KEY_SHINOBI_LEAP_NAME"
+msgid "ROCKET LEAP"
+msgstr "BALZO A RAZZO"
+
+msgctxt "Blood Titanium/KEY_SHINOBI_LEAP_DESCRIPTION"
+msgid "Leap to target location."
+msgstr "Salta nella posizione d'arrivo."
+
+msgctxt "Blood Titanium/KEY_SHADOWSTEP_NAME"
+msgid "SHADOWSTEP"
+msgstr "PASSO OMBRA"
+
+msgctxt "Blood Titanium/KEY_SHADOWSTEP_DESCRIPTION"
+msgid "Does not activate enemy Overwatch."
+msgstr "Non attiva la Guardia nemica."
+
+msgctxt "Blood Titanium/KEY_SAFE_LANDING_NAME"
+msgid "LANDING SHOCK ABSORPTION"
+msgstr "ASSORBIMENTO URTO DI ATTERRAGGIO"
+
+msgctxt "Blood Titanium/KEY_SAFE_LANDING_DESCRIPTION"
+msgid "No damage is suffered when landing from any height."
+msgstr "Non si subiscono danni atterrando da qualsiasi altezza."
+
+msgctxt "Blood Titanium/KEY_MARTIAL_ARTIST_NAME"
+msgid "COMBAT MATRIX"
+msgstr "MATRICE DI COMBATTIMENTO"
+
+msgctxt "Blood Titanium/KEY_MARTIAL_ARTIST_DESCRIPTION"
+msgid "Melee attacks cost 1 AP less (to a minimum of 1 AP)."
+msgstr "Gli attacchi in mischia costano 1 PA in meno (fino a un minimo di 1 PA)."
+
+msgctxt "Blood Titanium/KEY_MELEE_PROFICIENCY_NAME"
+msgid "MELEE WEAPON PROFICIENCY"
+msgstr "PADRONANZA ARMI DA MISCHIA"
+
+msgctxt "Blood Titanium/KEY_MELEE_PROFICIENCY_DESCRIPTION"
+msgid "Proficiency with Melee Weapons"
+msgstr "Padronanza delle armi da mischia"
+
+msgctxt "Blood Titanium/KEY_FACTION_NAME_PURE"
+msgid "THE PURE"
+msgstr "I PURI"
+
+msgctxt "Blood Titanium/KEY_FACTION_NAME_FALLEN"
+msgid "THE FORSAKEN"
+msgstr "GLI ABBANDONATI"
+
+msgctxt "Blood Titanium/KEY_GEAR_UP"
+msgid "GEAR UP"
+msgstr "EQUIPAGGIAMENTO"
+
+msgctxt "Blood Titanium/KEY_BIONICS"
+msgid "BIONICS"
+msgstr "BIONICA"
+
+msgctxt "Blood Titanium/KEY_AUGMENTATIONS"
+msgid "AUGMENTATIONS"
+msgstr "INNESTI"
+
+msgctxt "Blood Titanium/KEY_NUMBER_OF_AUGMENTATIONS"
+msgid "PLACEHOLDER"
+msgstr "PLACEHOLDER"
+
+msgctxt "Blood Titanium/KEY_FACTION_NAME_BANDITS"
+msgid "SCAVENGERS"
+msgstr "SACCHEGGIATORI"
+
+msgctxt "Blood Titanium/KEY_AUGMENT"
+msgid "AUGMENTATION"
+msgstr "INNESTO"
+
+msgctxt "Blood Titanium/KEY_REPAIR_BIONIC"
+msgid "REPAIR"
+msgstr "RIPARA"
+
+msgctxt "Blood Titanium/KEY_SLOT_UNAVAILABLE_MUTATION"
+msgid "Enhancement impossible due to existing mutation."
+msgstr "Miglioramento non possibile a causa di una mutazione esistente."
+
+msgctxt "Blood Titanium/KEY_SLOT_UNAVAILABLE_BIONIC"
+msgid "Enhancement impossible due to existing augmentation."
+msgstr "Miglioramento non possibile a causa di un innesto esistente."
+
+msgctxt "Blood Titanium/KEY_AUMGENTATION_LIMIT"
+msgid "Safety limit reached. No further mutations or augmentations allowed."
+msgstr "Limite di sicurezza raggiunto. Non sono permesse ulteriori mutazioni o innesti."
+
+msgctxt "Blood Titanium/KEY_AUMGENTATION_ACTION"
+msgid "AUGMENT"
+msgstr "Innesta"
+
+msgctxt "Blood Titanium/KEY_REPAIR_BIONIC_WARNING"
+msgid "Are you sure you want to repair this augmentation?"
+msgstr "Vuoi davvero riparare questo innesto?"
+
+msgctxt "Blood Titanium/KEY_DEMOLITION_MAN_NAME"
+msgid "DEMOLITION STATE"
+msgstr "STATO DI DEMOLIZIONE"
+
+msgctxt "Blood Titanium/KEY_DEMOLITION_MAN_DESCRIPTION"
+msgid "Breach walls and solid constructs by walking through them."
+msgstr "Frantuma muri e costruzioni camminandoci attraverso."
+
+msgctxt "Blood Titanium/KEY_DEPLOY_SHIELD_BIONIC_NAME"
+msgid "EXTEND SHIELD"
+msgstr "ESTENDI SCUDO"
+
+msgctxt "Blood Titanium/KEY_DEPLOY_SHIELD_BIONIC_DESCRIPTION"
+msgid "Extend an energy shield in a given direction"
+msgstr "Estendi uno scudo di energia in una data direzione."
+
+msgctxt "Blood Titanium/KEY_RETRIEVE_SHIELD_NAME"
+msgid "RETRACT SHIELD"
+msgstr "RITRAI SCUDO"
+
+msgctxt "Blood Titanium/KEY_RETRIEVE_SHIELD_DESCRIPTION"
+msgid "Retract energy shield"
+msgstr "Ritrai lo scudo di energia"
+
+msgctxt "Blood Titanium/KEY_SHIELD_BIONIC_NAME"
+msgid "SHIELD"
+msgstr "SCUDO"
+
+msgctxt "Blood Titanium/KEY_SHIELD_BIONIC_DESCRIPTION"
+msgid "Energy Shield"
+msgstr "Scudo di energia"
+
+msgctxt "Blood Titanium/KEY_REPAIR_KIT_NAME"
+msgid "REPAIR KIT"
+msgstr "KIT DI RIPARAZIONE"
+
+msgctxt "Blood Titanium/KEY_REPAIR_KIT_DESCRIPTION"
+msgid "Repairs {bodyparthealamount} Hit Points (augmented body parts only)."
+msgstr "Ripristina {bodyparthealamount} punti ferita (solo parti del corpo innestate)."
+
+msgctxt "Blood Titanium/KEY_USE_REPAIR_KIT_NAME"
+msgid "USE REPAIR KIT"
+msgstr "UTILIZZA KIT DI RIPARAZIONE"
+
+msgctxt "Blood Titanium/KEY_USE_REPAIR_KIT_DESCRIPTION"
+msgid "Repair {bodyparthealamount} Hit Points (augmented body parts only)."
+msgstr "Ripristina {bodyparthealamount} punti ferita (solo parti del corpo innestate)."
+
+msgctxt "Blood Titanium/KEY_SY_EMP_GRENADE_NAME"
+msgid "ZEUS GRENADE"
+msgstr "GRANATA ZEUS"
+
+msgctxt "Blood Titanium/KEY_SY_EMP_GRENADE_DESCRIPTION"
+msgid "Synedrion EMP Grenade"
+msgstr "Granata a impulso elettromagnetico Synedrion"
+
+msgctxt "Blood Titanium/KEY_DAMAGE_TYPE_EMP"
+msgid "EMP"
+msgstr "Impulso elettromagnetico"
+
+msgctxt "Blood Titanium/KEY_DAMAGE_TYPE_EMP_DESC"
+msgid "EMP damage only affects electronic devices (and Bionic augmentations)."
+msgstr "I danni da impulso elettromagnetico interessano solo i dispositivi elettronici (e gli innesti bionici)."
+
+msgctxt "Blood Titanium/KEY_DAMAGED_BIONIC_PART"
+msgid "Broken augmented body part."
+msgstr "Parte del corpo innestata danneggiata."
+
+msgctxt "Blood Titanium/KEY_PU_FIRST_SCENE1-1"
+msgid "Phoenix - if you are receiving this message, then respond on the secure channel I have provided. "
+msgstr "Phoenix - se ricevete questo messaggio, rispondete sul canale sicuro che vi ho fornito."
+
+msgctxt "Blood Titanium/KEY_PU_FIRST_SCENE1-2"
+msgid "It is essential that the information I am about to give you is kept confidential."
+msgstr "È fondamentale che l'informazione che sto per fornirvi resti riservata."
+
+msgctxt "Blood Titanium/KEY_PU_FIRST_SCENE1-3"
+msgid "My name is not important now - but I am known among the Pure as Subject 24 - "
+msgstr "Il mio nome ora non è importante, ma tra i Puri sono conosciuto come Soggetto 24,"
+
+msgctxt "Blood Titanium/KEY_PU_FIRST_SCENE1-4"
+msgid "the 24th volunteer in a program set up by Tobias West that gave us hope. "
+msgstr "il 24esimo volontario di un programma avviato da Tobias West, che ci dava speranza."
+
+msgctxt "Blood Titanium/KEY_PU_FIRST_SCENE1-5"
+msgid "We had a solution. A SOLUTION! "
+msgstr "Avevamo una soluzione. UNA SOLUZIONE!"
+
+msgctxt "Blood Titanium/KEY_PU_FIRST_SCENE1-6"
+msgid "A secret program that would fix the world. And in the final moment he backed down. "
+msgstr "Un programma segreto che avrebbe rimesso in sesto il mondo. Ma alla fine lui si è tirato indietro."
+
+msgctxt "Blood Titanium/KEY_PU_FIRST_SCENE1-7"
+msgid "Nothing prepared me for his treachery - his selfish, cowardice - "
+msgstr "Nulla poteva prepararmi al suo tradimento... il suo egoismo, la codardia..."
+
+msgctxt "Blood Titanium/KEY_PU_FIRST_SCENE1-8"
+msgid "but his attempts to erase us have failed ... failed."
+msgstr "ma i suoi tentativi di cancellarci sono falliti... falliti."
+
+msgctxt "Blood Titanium/KEY_PU_FIRST_SCENE2-1"
+msgid "It was known as Project Purity - "
+msgstr "Era denominato Progetto Purezza,"
+
+msgctxt "Blood Titanium/KEY_PU_FIRST_SCENE2-2"
+msgid "one man's dream of replacing every inch of human flesh with neurally controlled prosthetics."
+msgstr "il sogno di un uomo di rimpiazzare ogni centimetro di carne umana con delle protesi controllate in modo neurale."
+
+msgctxt "Blood Titanium/KEY_PU_FIRST_SCENE2-3"
+msgid "When I volunteered for the project I had nothing left. "
+msgstr "Quando mi sono offerto volontario non avevo più nulla."
+
+msgctxt "Blood Titanium/KEY_PU_FIRST_SCENE2-4"
+msgid "My entire family... ENTIRE FAMILY! ... had succumbed to the Pandoravirus. "
+msgstr "Tutta la mia famiglia... TUTTA LA FAMIGLIA... era caduta vittima del Pandoravirus."
+
+msgctxt "Blood Titanium/KEY_PU_FIRST_SCENE2-5"
+msgid "I watched my wife through bulletproof glass as she slowly turned into an abomination. "
+msgstr "Sono rimasto a guardare mia moglie che lentamente si trasformava in un abominio, dall'altra parte di un vetro antiproiettile."
+
+msgctxt "Blood Titanium/KEY_PU_FIRST_SCENE2-6"
+msgid "ABOMINATIONS! They're everywhere, waiting, watching! I had nothing left to lose."
+msgstr "ABOMINI! Sono dappertutto, aspettano, osservano! Non avevo più nulla da perdere."
+
+msgctxt "Blood Titanium/KEY_PU_FIRST_SCENE2-7"
+msgid "Along with many other brave men and women, I put myself forwards."
+msgstr "Insieme a molti altri uomini e donne coraggiose, mi sono fatto avanti."
+
+msgctxt "Blood Titanium/KEY_PU_FIRST_SCENE2-8"
+msgid "A lot was sacrificed. He pushed us to the limit. "
+msgstr "I sacrifici non furono pochi. Ci spinse fino al limite."
+
+msgctxt "Blood Titanium/KEY_PU_FIRST_SCENE2-9"
+msgid "Dozens of us died or were left crippled… and we came close to success."
+msgstr "Decine di noi morirono o rimasero menomati... arrivammo a un passo dal successo."
+
+msgctxt "Blood Titanium/KEY_PU_FIRST_SCENE3-1"
+msgid "The Juggernaut warrior was the final design. More than a soldier. "
+msgstr "Il guerriero Colosso era il progetto finale. Era più di un soldato."
+
+msgctxt "Blood Titanium/KEY_PU_FIRST_SCENE3-2"
+msgid "More than a human - with titanium skin impervious to infection - perfectly pure... "
+msgstr "Ed era più di un umano; aveva pelle di titanio, immune all'infezione... era perfettamente puro."
+
+msgctxt "Blood Titanium/KEY_PU_FIRST_SCENE3-3"
+msgid "PURE! Pure as a smile in winter... as a human should be."
+msgstr "PURO! Puro come un sorriso d'inverno... come dovrebbe essere un umano."
+
+msgctxt "Blood Titanium/KEY_PU_FIRST_SCENE3-4"
+msgid "There were problems - total encapsulation created some ... "
+msgstr "Ci sono stati alcuni problemi, l'incapsulamento totale ha causato..."
+
+msgctxt "Blood Titanium/KEY_PU_FIRST_SCENE3-5"
+msgid "mental instability ... hallucinations ... dreams. Not everybody could take it, "
+msgstr "instabilità mentale... allucinazioni... sogni. Non tutti riuscivano a sopportarlo."
+
+msgctxt "Blood Titanium/KEY_PU_FIRST_SCENE3-6"
+msgid "but there was no shortage of volunteers to take the program forwards."
+msgstr "Tuttavia, i volontari per portare avanti il programma non mancavano."
+
+msgctxt "Blood Titanium/KEY_PU_FIRST_SCENE3-7"
+msgid "And then Tobias West - the coward, THE TRAITOR, the small minded charlatan - pulled the plug."
+msgstr "Poi però, Tobias West, quel codardo, QUEL TRADITORE, quel gretto ciarlatano... staccò la spina."
+
+msgctxt "Blood Titanium/KEY_PU_FIRST_SCENE4-1"
+msgid "Terrified of what he couldn’t understand,"
+msgstr "Terrorizzato da ciò che non riusciva a capire,"
+
+msgctxt "Blood Titanium/KEY_PU_FIRST_SCENE4-2"
+msgid "the “great leader” ordered everyone involved with the project killed …. KILLED!"
+msgstr "il \"\"grande leader\"\" ordinò che chiunque fosse coinvolto nel progetto venisse ucciso.... UCCISO!"
+
+msgctxt "Blood Titanium/KEY_PU_FIRST_SCENE4-3"
+msgid "Maybe he thought that if he buried us, he’d bury the truth of his shame along with us. "
+msgstr "Forse credeva che seppellendoci, avrebbe seppellito con noi anche la sua vergogna."
+
+msgctxt "Blood Titanium/KEY_PU_FIRST_SCENE4-4"
+msgid "HIS SHAME! But we fought back."
+msgstr "LA SUA VERGOGNA! Ma noi abbiamo reagito."
+
+msgctxt "Blood Titanium/KEY_PU_FIRST_SCENE4-5"
+msgid "I and several others managed to escape. "
+msgstr "Io e molti altri riuscimmo a fuggire."
+
+msgctxt "Blood Titanium/KEY_PU_FIRST_SCENE4-6"
+msgid "For years we remained silent, hiding, running, waiting for the right moment … the right moment."
+msgstr "Per anni siamo rimasti in silenzio, ci siamo nascosti, fuggendo, aspettando il momento giusto... il momento giusto."
+
+msgctxt "Blood Titanium/KEY_PU_FIRST_SCENE4-7"
+msgid "And that moment has come - HAS COME!"
+msgstr "E quel momento è arrivato... È ARRIVATO!"
+
+msgctxt "Blood Titanium/KEY_PU_FIRST_SCENE5-1"
+msgid "Facing a losing battle against the Pandoravirus, "
+msgstr "Di fronte a una battaglia persa contro il Pandoravirus,"
+
+msgctxt "Blood Titanium/KEY_PU_FIRST_SCENE5-2"
+msgid "the weak-minded West has reactivated the old Project Purity facilities, and that makes him vulnerable."
+msgstr "il debole West ha riattivato le vecchie strutture del Progetto Purezza, e questo lo rende vulnerabile."
+
+msgctxt "Blood Titanium/KEY_PU_FIRST_SCENE5-3"
+msgid "Phoenix - I am offering you an exchange. "
+msgstr "Phoenix, quel che vi propongo è uno scambio."
+
+msgctxt "Blood Titanium/KEY_PU_FIRST_SCENE5-4"
+msgid "I know the location of the facility, and how to get in. "
+msgstr "Conosco la posizione della struttura, e so come entrare."
+
+msgctxt "Blood Titanium/KEY_PU_FIRST_SCENE5-5"
+msgid "You have the firepower. THE POWER! Hailstorms of fire and acid! Raid the lab, and share the tech with us."
+msgstr "Voi avete la potenza di fuoco. LA POTENZA! Una pioggia di fuoco e acido! Fate incursione nel laboratorio, e condividete con noi la tecnologia."
+
+msgctxt "Blood Titanium/KEY_PU_FIRST_SCENE5-6"
+msgid "All this time in hiding has left us damaged and in need of urgent repairs."
+msgstr "Tutto questo tempo passato a nasconderci ci ha danneggiati e abbiamo bisogno di riparazioni urgenti."
+
+msgctxt "Blood Titanium/KEY_PU_FIRST_SCENE5-7"
+msgid "If you succeed we will both gain - humanity will gain."
+msgstr "Se avrete successo ne beneficeremo entrambi... l'umanità ne beneficerà."
+
+msgctxt "Blood Titanium/KEY_PU_FIRST_SCENE5-8"
+msgid "We are the Pure. THE PURE! We are the future. Help us Phoenix. Help our species."
+msgstr "Noi siamo i Puri. I PURI! Noi siamo il futuro. Aiutateci, Phoenix. Aiutate la nostra specie."
+
+msgctxt "Blood Titanium/KEY_PU_THREE_SCENE1-1"
+msgid "Smart move, Mikhail. Your betrayal of Synedrion will bring benefits to both of us. "
+msgstr "Mossa intelligente, Mikhail. Il tuo tradimento ai danni di Synedrion porterà benefici a entrambi."
+
+msgctxt "Blood Titanium/KEY_PU_THREE_SCENE1-2"
+msgid "The Malthusian faction never belonging with those deluded... DELUDED... idealists anyway."
+msgstr "La fazione Malthusiana non ha niente da spartire con quegli illusi... ILLUSI... o comunque idealisti."
+
+msgctxt "Blood Titanium/KEY_PU_THREE_SCENE1-3"
+msgid "Like the Phoenix Project, they cannot understand the true horrors... THE HORRORS... of the world, "
+msgstr "Come il Progetto Phoenix, loro non comprendono i veri orrori... GLI ORRORI... del mondo..."
+
+msgctxt "Blood Titanium/KEY_PU_THREE_SCENE1-4"
+msgid "because they’ve never seen it."
+msgstr "perché non l'hanno mai visto."
+
+msgctxt "Blood Titanium/KEY_PU_THREE_SCENE1-5"
+msgid "The misguided dreams they surround themselves with are dangerous - leading humanity to a dead end."
+msgstr "I sogni fuorviati di cui si circondano sono pericolosi, conducono l'umanità in un vicolo cieco."
+
+msgctxt "Blood Titanium/KEY_PU_THREE_SCENE1-6"
+msgid "For the sake of the future, they must be exterminated. EXTERMINATED! Again and again and again!"
+msgstr "Per il bene del futuro, devono essere sterminati. STERMINATI! Ancora, e ancora, di continuo!"
+
+msgctxt "Blood Titanium/KEY_PU_THREE_SCENE1-7"
+msgid "You, though, have shown us that you have what it takes to begin anew."
+msgstr "Voi, però, ci avete dimostrato di avere ciò che serve per un nuovo inizio."
+
+msgctxt "Blood Titanium/KEY_PU_THREE_SCENE2-1"
+msgid "It’s almost impressive how well Synedrion scientists have adapted New Jericho’s technology."
+msgstr "La precisione con cui i ricercatori di Synedrion hanno adattato la tecnologia di Nuova Gerico è quasi incredibile."
+
+msgctxt "Blood Titanium/KEY_PU_THREE_SCENE2-2"
+msgid "In a few months they’ve achieved more than West could in decades."
+msgstr "In pochi mesi hanno fatto più di quanto West sia riuscito a fare in decine di anni."
+
+msgctxt "Blood Titanium/KEY_PU_THREE_SCENE2-3"
+msgid "And still those that lead them suffer from the same fallacy as he did ... as he did! "
+msgstr "Eppure quelli che li guidano soffrono dello del suo stesso difetto... lo stesso!"
+
+msgctxt "Blood Titanium/KEY_PU_THREE_SCENE2-4"
+msgid "They are not prepared for total conversion - abandoning flesh to embrace the machine."
+msgstr "Non sono pronti alla conversione totale, non sono pronti ad abbandonare la carne e abbracciare la macchina."
+
+msgctxt "Blood Titanium/KEY_PU_THREE_SCENE3-1"
+msgid "You have twenty-four hours to remove your conspirators from the research area."
+msgstr "Avete ventiquattro ore per liberare l'area di ricerca dai vostri cospiratori."
+
+msgctxt "Blood Titanium/KEY_PU_THREE_SCENE3-2"
+msgid "When we attack, all will be gunned down. GUNNED DOWN!"
+msgstr "Quando attaccheremo, tutti verranno abbattuti. ABBATTUTI!"
+
+msgctxt "Blood Titanium/KEY_PU_THREE_SCENE3-3"
+msgid "After that the second renaissance will begin. Beginning and end. Alpha and Omega."
+msgstr "Dopodiché inizierà il secondo rinascimento. Il principio e la fine. L'alfa e l'omega."
+
+msgctxt "Blood Titanium/KEY_PU_THREE_SCENE3-4"
+msgid "You’ll have your chance to break from Synedrion, "
+msgstr "Avrete la vostra occasione per liberare voi stessi da Synedrion,"
+
+msgctxt "Blood Titanium/KEY_PU_THREE_SCENE3-5"
+msgid "and Tobias West, and the other cowards will be purged away."
+msgstr "Tobias West e gli altri codardi verranno epurati."
+
+msgctxt "Blood Titanium/KEY_PU_THREE_SCENE4-1"
+msgid "Just don’t try to cross us, Mikhail!"
+msgstr "Non provare a ostacolarci, Mikhail!"
+
+msgctxt "Blood Titanium/KEY_PU_THREE_SCENE4-2"
+msgid "If this turns out to be a trap... TRAP... we’ll still get the technology... "
+msgstr "Se questa si rivela una trappola... TRAPPOLA... ci approprieremo comunque della tecnologia..."
+
+msgctxt "Blood Titanium/KEY_PU_THREE_SCENE4-3"
+msgid "and the Malthusians will be added to the extinction list!"
+msgstr "E i Malthusiani saranno aggiunti alla lista dell'estinzione!"
+
+msgctxt "Blood Titanium/KEY_PU_FOUR_SCENE1-1"
+msgid "This is a message for the Phoenix Project."
+msgstr "Questo è un messaggio per il Progetto Phoenix."
+
+msgctxt "Blood Titanium/KEY_PU_FOUR_SCENE1-2"
+msgid "I thought you had what it takes. A Phoenix rising from the ashes. THE ASHES."
+msgstr "Pensavo aveste quel che serviva. Una fenice che risorge dalle ceneri. LE CENERI."
+
+msgctxt "Blood Titanium/KEY_PU_FOUR_SCENE1-3"
+msgid "Ashes to ashes. Nothing but a myth."
+msgstr "Cenere alla cenere. Nient'altro che una leggenda."
+
+msgctxt "Blood Titanium/KEY_PU_FOUR_SCENE1-4"
+msgid "You have struggled with stupidity at every turn, suffered betrayals - BETRAYALS -"
+msgstr "Avete costantemente lottato contro la stupidità, avete subito tradimenti... TRADIMENTI..."
+
+msgctxt "Blood Titanium/KEY_PU_FOUR_SCENE1-5"
+msgid "that brought humanity to the brink of extinction, yet you can't see the obvious:"
+msgstr "che hanno portato l'umanità sull'orlo dell'estinzione, eppure siete ciechi di fronte all'ovvio:"
+
+msgctxt "Blood Titanium/KEY_PU_FOUR_SCENE1-6"
+msgid "humanity cannot be saved without total transformation - WITHOUT - TOTAL - TRANSFORMATION -"
+msgstr "l'umanità non può essere salvata, senza una totale trasformazione. SENZA. UNA. TOTALE. TRASFORMAZIONE."
+
+msgctxt "Blood Titanium/KEY_PU_FOUR_SCENE1-7"
+msgid "without becoming pure ...  Pure ... PURE!"
+msgstr "Senza diventare puri... Puri... PURI...!"
+
+msgctxt "Blood Titanium/KEY_PU_FOUR_SCENE2-1"
+msgid "Who do you think the saviour should be?"
+msgstr "Chi pensate debba essere il salvatore?"
+
+msgctxt "Blood Titanium/KEY_PU_FOUR_SCENE2-2"
+msgid "WEST?! The coward West hiding behind his walls?"
+msgstr "WEST?! Quel codardo di West che si nasconde tra le sue quattro mura?"
+
+msgctxt "Blood Titanium/KEY_PU_FOUR_SCENE2-3"
+msgid "The abominations that spread the disease?"
+msgstr "Quegli abomini che diffondono la malattia?"
+
+msgctxt "Blood Titanium/KEY_PU_FOUR_SCENE2-4"
+msgid "Or the idiots who think we should embrace the infected and live with them as pets? PESTS?!"
+msgstr "O gli idioti che pensano che dovremmo abbracciare gli infetti e vivere con loro come fossero animali domestici? ORRORI DOMESTICI?!"
+
+msgctxt "Blood Titanium/KEY_PU_FOUR_SCENE3-1"
+msgid "No!"
+msgstr "No!"
+
+msgctxt "Blood Titanium/KEY_PU_FOUR_SCENE3-2"
+msgid "The PURE will cleanse the world and all flesh that opposes us will melt away! "
+msgstr "I PURI purificheranno il mondo e tutta la carne che a noi si oppone sarà liquefatta!"
+
+msgctxt "Blood Titanium/KEY_PU_FOUR_SCENE3-3"
+msgid "The festering pits of rot and decay will be forgotten and a new order "
+msgstr "Le fosse purulente di marcio e decomposizione saranno dimenticate, e un nuovo ordine"
+
+msgctxt "Blood Titanium/KEY_PU_FOUR_SCENE3-4"
+msgid "forged from blood... BLOOD... and titanium will rise!"
+msgstr "forgiato dal sangue... SANGUE... e dal titanio... sorgerà!"
+
+msgctxt "Blood Titanium/KEY_PU_FOUR_SCENE3-5"
+msgid "If the Phoenix Project thinks it has the strength to stop us, that’s your foolish fantasy."
+msgstr "Se il Progetto Phoenix ritiene di avere la forza per fermarci, allora la vostra è una sciocca fantasia."
+
+msgctxt "Blood Titanium/KEY_PU_FOUR_SCENE3-6"
+msgid "You know where we are. Come if you dare. "
+msgstr "Sapete chi siamo. Fatevi sotto, se avete il coraggio."
+
+msgctxt "Blood Titanium/KEY_VIRAL_MACHINE_GUN_NAME"
+msgid "VIRAL MACHINE GUN"
+msgstr "MITRAGLIATRICE VIRALE"
+
+msgctxt "Blood Titanium/KEY_VIRAL_MACHINE_GUN_DESCRIPTION"
+msgid "VIRAL MACHINE GUN"
+msgstr "MITRAGLIATRICE VIRALE"
+
+msgctxt "Blood Titanium/KEY_ARTHRON_ACID_GRENADE_ARM_NAME"
+msgid "ACID LAUNCHER ARM"
+msgstr "BRACCIO LANCIATORE ACIDO"
+
+msgctxt "Blood Titanium/KEY_ARTHRON_ACID_GRENADE_ARM_DESCRIPTION"
+msgid "Organic Grenade Launcher"
+msgstr "Lanciagranate organico"
+
+msgctxt "Blood Titanium/KEY_CHIRON_TORSO_ACID_MORTAR_NAME"
+msgid "ACID ABDOMEN"
+msgstr "ADDOME ACIDO"
+
+msgctxt "Blood Titanium/KEY_CHIRON_TORSO_ACID_MORTAR_DESCRIPTION"
+msgid "ACID ABDOMEN"
+msgstr "ADDOME ACIDO"
+
+msgctxt "Blood Titanium/KEY_STATUS_DISABLED_ELECTRONIC_NAME"
+msgid "DISABLED"
+msgstr "FUORI USO"
+
+msgctxt "Blood Titanium/KEY_STATUS_DISABLED_ELECTRONIC_DESCRIPTION"
+msgid "Body part disabled."
+msgstr "Parte del corpo fuori uso."
+
+msgctxt "Blood Titanium/KEY_BIONIC_AUGMENTATION_NAME"
+msgid "BIONIC AUGMENTATION"
+msgstr "INNESTO BIONICO"
+
+msgctxt "Blood Titanium/KEY_BIONIC_AUGMENTATION_DESCRIPTION"
+msgid "Bleed immunity. Viral, Poison, and Paralysis resistance. Vulnerable to Acid."
+msgstr "Immunità al sanguinamento, resistenza virale, al veleno e alla paralisi. Vulnerabile all’acido."
+
+msgctxt "Blood Titanium/KEY_DISPLAY_ACTION_COST"
+msgid "ACTION COST:"
+msgstr "COSTO AZIONE"
+
+msgctxt "Blood Titanium/KEY_GEOSCAPE_PRODUCE_REPAIR_MATERIALS"
+msgid "Repair {item} for {0} Materials"
+msgstr "Ripara {item} per {0} materiali"
+
+msgctxt "Blood Titanium/KEY_GEOSCAPE_PRODUCE_REPAIR_BOTH"
+msgid "Repair {item} for {0} Materials and {1} Tech"
+msgstr "Ripara {item} per {0} materiali e {1} tecnologia"
+
+msgctxt "Blood Titanium/KEY_BASE_INSUFFICENT_SPACE"
+msgid "Insufficient storage space. Build more Store facilities."
+msgstr "Spazio del Magazzino insufficiente. Costruisci ulteriori Magazzini."
+
+msgctxt "Blood Titanium/KEY_LOAD_DLC_REQUIRED"
+msgid "The following Downloadable Content is required to load this saved game: {0}[LF][LF]Do you want to go to the store and buy them?"
+msgstr "[null]"
+
 msgctxt "Abilities/KEY_ACID_RESISTANCE_DESCRIPTION"
 msgid "Reduces effect of Acid Damage by half"
 msgstr "L'effetto dei danni acidi viene dimezzato."
@@ -2674,6 +3346,10 @@ msgctxt "Tutorial/KEY_TUTORIAL_TACTICAL1_MOVEMENT_DESCRIPTION"
 msgid "TRY THE CAMERA CONTROLS[LF]Camera movement: :LMB: + drag or use gamepad :RTS:[LF]Camera rotation: Q and E or use gamepad :DLEFT: and :DRIGHT:[LF]Camera zoom: T and G, hold :MW:, or use gamepad :LT:[LF]Floor level focus: scroll :MW: up or down, or use gamepad :DUP: and :DDOWN:[LF][LF]MOVE YOUR SOLDIER TO THE HIGHLIGHTED TILE[LF]:LMB: on the destination tile or move the Selection Marker with gamepad :RTS: and press :A:"
 msgstr "PROVA I COMANDI DELLA TELECAMERA[LF]Movimento della telecamera: :LMB: + trascina, oppure usa :RTS: sul gamepad.[LF]Rotazione della telecamera: Q ed E, oppure usa :DLEFT: e :DRIGHT:.[LF]Zoom della telecamera: T e G, tieni premuto :MW: oppure usa :LT: del gamepad.[LF]Focus livello pavimento: scorri :MW: su e giù oppure usa :DUP: e :DDOWN: sul gamepad.[LF][LF]SPOSTA IL TUO SOLDATO SULLA CASELLA EVIDENZIATA[LF]:LMB: sulla casella di destinazione o sposta l'indicatore di selezione con :RTS: sul gamepad e premi :A:."
 
+msgctxt "Tutorial/KEY_TUTORIAL_TACTICAL1_MOVEMENT_DESCRIPTION_BIND"
+msgid "TRY THE CAMERA CONTROLS[LF]Camera movement: :LMB: + drag or use gamepad :RTS:[LF]Camera rotation: [<color=#ECBA62>{[Rotate Left]}</color>] and [<color=#ECBA62>{[Rotate Right]}</color>] or use gamepad :DLEFT: and :DRIGHT:[LF]Camera zoom: [<color=#ECBA62>{[Discrete Zoom In]}</color>] and [<color=#ECBA62>{[Discrete Zoom Out]}</color>], hold :MW:, or use gamepad :LT:[LF]Floor level focus: scroll :MW: up or down, or use gamepad :DUP: and :DDOWN:[LF][LF]MOVE YOUR SOLDIER TO THE HIGHLIGHTED TILE[LF]:LMB: on the destination tile or move the Selection Marker with gamepad :RTS: and press :A:"
+msgstr "PROVA I COMANDI DELLA TELECAMERA[LF]Movimento della telecamera: :LMB: + trascina, oppure usa :RTS: sul gamepad.[LF]Rotazione della telecamera: [<color=#ECBA62>{[Rotate Left]}</color>] ed [<color=#ECBA62>{[Rotate Right]}</color>], oppure usa :DLEFT: e :DRIGHT:.[LF]Zoom della telecamera: [<color=#ECBA62>{[Discrete Zoom In]}</color>] e [<color=#ECBA62>{[Discrete Zoom Out]}</color>], tieni premuto :MW: oppure usa :LT: del gamepad.[LF]Focus livello pavimento: scorri :MW: su e giù oppure usa :DUP: e :DDOWN: sul gamepad.[LF][LF]SPOSTA IL TUO SOLDATO SULLA CASELLA EVIDENZIATA[LF]:LMB: sulla casella di destinazione o sposta l'indicatore di selezione con :RTS: sul gamepad e premi :A:."
+
 msgctxt "Tutorial/KEY_TUTORIAL_TACTICAL1_SPOTTING_NAME"
 msgid "Spotting Enemies"
 msgstr "Individuare i nemici"
@@ -2722,6 +3398,10 @@ msgctxt "Tutorial/KEY_TUTORIAL_TACTICAL1_STANDBY_DESCRIPTION"
 msgid "Once a soldier is out of APs he enters Standby Mode and the next soldier is selected. If there are no soldiers with APs remaining your turn ends. [LF][LF]You can order a soldier to enter Standby Mode by using the SPACEBAR, selecting the icon from the Action Bar, or using gamepad :B:[LF][LF]SELECT STANDBY MODE[LF]"
 msgstr "Quando un soldato termina i PA entra nella modalità attesa e il soldato successivo viene selezionato. Se non ci sono soldati con PA residui, il turno termina. [LF][LF]Puoi ordinare a un soldato di entrare in modalità attesa utilizzando la BARRA SPAZIATRICE, selezionando l'icona dalla barra azione, oppure premendo :B: sul gamepad.[LF][LF]SELEZIONA LA MODALITÀ ATTESA[LF]"
 
+msgctxt "Tutorial/KEY_TUTORIAL_TACTICAL1_STANDBY_DESCRIPTION_BIND"
+msgid "Once a soldier is out of APs he enters Standby Mode and the next soldier is selected. If there are no soldiers with APs remaining your turn ends. [LF][LF]You can order a soldier to enter Standby Mode by using the [<color=#ECBA62>{[SetEndTurnAbility]}</color>], selecting the icon from the Action Bar, or using gamepad :B:[LF][LF]SELECT STANDBY MODE[LF]"
+msgstr "Quando un soldato termina i PA entra nella modalità attesa e il soldato successivo viene selezionato. Se non ci sono soldati con PA residui, il turno termina. [LF] [LF] Puoi ordinare a un soldato di entrare in modalità attesa utilizzando [<color=#ECBA62>{[SetEndTurnAbility]}</color>], selezionando l'icona dalla barra azione, oppure premendo :B: sul gamepad[LF] [LF] SELEZIONA MODALITÀ ATTESA"
+
 msgctxt "Tutorial/KEY_TUTORIAL_TACTICAL1_TURNS_NAME"
 msgid "End Turn"
 msgstr "Fine turno"
@@ -2729,6 +3409,10 @@ msgstr "Fine turno"
 msgctxt "Tutorial/KEY_TUTORIAL_TACTICAL1_TURNS_DESCRIPTION"
 msgid "You can end your turn at any time by pressing the END TURN button on the screen, the BACKSPACE key, or using gamepad :BACK:. "
 msgstr "Puoi mettere fine al tuo turno in qualsiasi momento premendo il pulsante FINE TURNO sullo schermo, la BARRA SPAZIATRICE oppure :BACK: sul gamepad. "
+
+msgctxt "Tutorial/KEY_TUTORIAL_TACTICAL1_TURNS_DESCRIPTION_BIND"
+msgid "You can end your turn at any time by pressing the END TURN button on the screen, the [<color=#ECBA62>{[EndTurn]}</color>] key, or using gamepad :BACK:. "
+msgstr "Puoi mettere fine al tuo turno in qualsiasi momento premendo il pulsante FINE TURNO sullo schermo, il tasto [<color=#ECBA62>{[EndTurn]}</color>] oppure :BACK: sul gamepad."
 
 msgctxt "Tutorial/KEY_TUTORIAL_TACTICAL1_HEALTH_NAME"
 msgid "Damage and Body Parts"
@@ -2769,6 +3453,10 @@ msgstr "Inventario"
 msgctxt "Tutorial/KEY_TUTORIAL_TACTICAL2_INVENTORY_DESCRIPTION"
 msgid "The Inventory shows everything carried by a soldier, and items on the ground or in adjacent crates.[LF][LF]ENCUMBRANCE[LF]If the weight of all carried items and armor is greater than the soldier's Strength then the soldier suffers a movement penalty.[LF][LF]ACCESS THE INVENTORY[LF]Press the inventory icon, or the I key, or press gamepad :R3:."
 msgstr "L'inventario mostra tutto ciò che viene trasportato da un soldato, ma anche gli oggetti sul terreno o in casse adiacenti.[LF][LF]CAPACITÀ[LF]Se il peso di tutti gli oggetti trasportati e dell'armatura è superiore alla forza del soldato, il soldato riceve una penalità al movimento.[LF][LF]ACCEDI ALL'INVENTARIO[LF]Premi sull'icona inventario, usa il tasto I, o :R3: sul gamepad."
+
+msgctxt "Tutorial/KEY_TUTORIAL_TACTICAL2_INVENTORY_DESCRIPTION_BIND"
+msgid "The Inventory shows everything carried by a soldier, and items on the ground or in adjacent crates.[LF][LF]ENCUMBRANCE[LF]If the weight of all carried items and armor is greater than the soldier's Strength then the soldier suffers a movement penalty.[LF][LF]ACCESS THE INVENTORY[LF]Press the inventory icon, or the [<color=#ECBA62>{[SetInventoryAbility]}</color>] key, or press gamepad :R3:."
+msgstr "L'inventario mostra tutto ciò che viene trasportato da un soldato, ma anche gli oggetti sul terreno o in casse adiacenti.[LF] [LF] INGOMBRO[LF] Se il peso di tutti gli oggetti trasportati e dell'armatura è superiore alla forza del soldato, il soldato riceve una penalità sul movimento.[LF] [LF] ACCEDI ALL'INVENTARIO[LF] Premi l'icona inventario, usa il tasto [<color=#ECBA62>{[SetInventoryAbility]}</color>], o :R3: sul gamepad."
 
 msgctxt "Tutorial/KEY_TUTORIAL_TACTICAL2_INVENTORY_DISPLAY_NAME"
 msgid "Inventory Display"
@@ -2817,6 +3505,10 @@ msgstr "Barra degli oggetti in uso"
 msgctxt "Tutorial/KEY_TUTORIAL_TACTICAL2_READY_ITEMS_DESCRIPTION"
 msgid "Items in the ready section of the inventory are shown in the Ready Items Bar. They can be selected for use without an AP cost.[LF][LF]READY ITEMS BAR CONTROLS[LF]Select item: Use :LMB: on the item's icon, or keys 1, 2, 3 or 4[LF]Select next item: X key or gamepad :X:[LF][LF]SELECT THE GRENADE"
 msgstr "Gli oggetti nella sezione \"\"IN USO\"\" dell'inventario sono mostrati nella barra oggetti in uso. Possono essere selezionati per l'uso senza spendere alcun PA.[LF][LF]COMANDI DELLA BARRA OGGETTI IN USO[LF]Seleziona oggetto: usa :LMB: sull'icona dell'oggetto oppure i tasti 1, 2, 3 o 4.[LF]Selezionare l'oggetto successivo: tasto X o :X: sul gamepad.[LF][LF]SELEZIONA LA GRANATA"
+
+msgctxt "Tutorial/KEY_TUTORIAL_TACTICAL2_READY_ITEMS_DESCRIPTION_BIND"
+msgid "Items in the ready section of the inventory are shown in the Ready Items Bar. They can be selected for use without an AP cost.[LF][LF]READY ITEMS BAR CONTROLS[LF]Select item: Use :LMB: on the item's icon, or keys <color=#ECBA62>[{[TacSelectItem1]}], [{[TacSelectItem2]}], [{[TacSelectItem3]}] or [{[TacSelectItem4]}]</color>[LF]Select next item: <color=#ECBA62>[{[CycleWeapons]}]</color> key or gamepad :X:[LF][LF]SELECT THE GRENADE"
+msgstr "Gli oggetti nella sezione Pronto dell'inventario sono mostrati nella barra oggetti pronti. Possono essere selezionati per l'uso senza spendere alcun PA.[LF] [LF] COMANDI DELLA BARRA OGGETTI PRONTI[LF] Seleziona oggetto: usa :LMB: sull'icona dell'oggetto oppure i tasti <color=#ECBA62>[{[TacSelectItem1]}], [{[TacSelectItem2]}], [{[TacSelectItem3]}] o [{[TacSelectItem4]}]</color>[LF] Selezionare l'oggetto successivo: tasto <color=#ECBA62>[{[CycleWeapons]}]</color> o :X: sul gamepad[LF] [LF] SELEZIONA LA GRANATA"
 
 msgctxt "Tutorial/KEY_TUTORIAL_TACTICAL2_GRENADE_NAME"
 msgid "Grenades"
@@ -2873,6 +3565,10 @@ msgstr "Guardia"
 msgctxt "Tutorial/KEY_TUTORIAL_TACTICAL2_OVERWATCH_DESCRIPTION"
 msgid "The Overwatch ability allows soldiers to guard an area during the enemy’s turn. If an enemy enters the Overwatch cone, it is attacked automatically.[LF][LF]OVERWATCH CONTROLS[LF]Enter Overwatch mode: Select the Overwatch icon from the Action Bar, or press Y, or use gamepad :Y:[LF]Select target position: Move Mouse or use :LTS:[LF]Change width of overwatch zone: CTRL + :MW: or use :LB: and :RB:[LF]Confirm Overwatch: :LMB: or :A:[LF][LF]MOVE YOUR SOLDIER AND SET OVERWATCH[LF]:LMB: or :A: on the highlighted target position towards the two approaching enemies."
 msgstr "L'abilità \"\"Guardia\"\" permette ai soldati di tenere sotto controllo un'area durante il turno del nemico. Se un nemico entra nel cono di guardia, viene attaccato in automatico.[LF][LF]COMANDI GUARDIA[LF]Entra nella modalità \"\"Guardia\"\": seleziona l'icona Guardia dalla barra azione, premi Y oppure :Y: sul gamepad.[LF]Seleziona la posizione del bersaglio: sposta il mouse, oppure usa :LTS:.[LF]Cambia il raggio della zona di \"\"Guardia\"\": CTRL + :MW:, oppure usa :LB: e :RB:.[LF]Conferma \"\"Guardia\"\": :LMB: o :A:.[LF][LF]SPOSTA I TUOI SOLDATI E ORGANIZZA LA COPERTURA[LF]:LMB: oppure :A: sulla posizione del bersaglio in evidenza in direzione dei due nemici in avvicinamento."
+
+msgctxt "Tutorial/KEY_TUTORIAL_TACTICAL2_OVERWATCH_DESCRIPTION_BIND"
+msgid "The Overwatch ability allows soldiers to guard an area during the enemy’s turn. If an enemy enters the Overwatch cone, it is attacked automatically.[LF][LF]OVERWATCH CONTROLS[LF]Enter Overwatch mode: Select the Overwatch icon from the Action Bar, or press [<color=#ECBA62>{[SetOverwatchAbility]}</color>], or use gamepad :Y:[LF]Select target position: Move Mouse or use :LTS:[LF]Change width of overwatch zone: CTRL + :MW: or use :LB: and :RB:[LF]Confirm Overwatch: :LMB: or :A:[LF][LF]MOVE YOUR SOLDIER AND SET OVERWATCH[LF]:LMB: or :A: on the highlighted target position towards the two approaching enemies."
+msgstr "L'abilità Guardia permette ai soldati di tenere sotto controllo un'area durante il turno del nemico. Se un nemico entra nel cono di guardia, viene attaccato in automatico.[LF] [LF] COMANDI GUARDIA[LF] Entra nella modalità Guardia: seleziona l'icona Guardia dalla barra azione, o premi [<color=#ECBA62>{[SetOverwatchAbility]}</color>] oppure :Y: sul gamepad[LF] Seleziona la posizione del bersaglio: sposta il mouse oppure usa :LTS:[LF] Cambia il raggio della zona di Guardia: CTRL + :MW: oppure usa :LB: e :RB:[LF] Conferma Guardia: :LMB: o :A:[LF] [LF] SPOSTA I TUOI SOLDATI E ORGANIZZA LA GUARDIA[LF] :LMB: oppure :A: sulla posizione d'arrivo in evidenza in direzione dei due nemici in avvicinamento."
 
 msgctxt "Tutorial/KEY_TUTORIAL_TACTICAL2_INFO_NAME"
 msgid "Character Info Panel"
@@ -3318,6 +4014,10 @@ msgctxt "Tactical/KEY_ZOOM"
 msgid "(T/G ZOOM IN/ZOOM OUT)"
 msgstr "(PREMI T/G PER ZOOM AVANTI/INDIETRO)"
 
+msgctxt "Tactical/KEY_ZOOM_REBIND"
+msgid "([<color=#ECBA62>{[Discrete Zoom In]}</color>]/[<color=#ECBA62>{[Discrete Zoom Out]}</color>] ZOOM IN/ZOOM OUT)"
+msgstr "(PREMI [<color=#ECBA62>{[Discrete Zoom In]}</color>]/[<color=#ECBA62>{[Discrete Zoom Out]}</color>] PER ZOOM AVANTI/INDIETRO)"
+
 msgctxt "Tactical/KEY_RETURN_FIRE"
 msgid "RETURN FIRE"
 msgstr "RISPONDI AL FUOCO"
@@ -3489,6 +4189,10 @@ msgstr "Se fuori uso:"
 msgctxt "Tactical/KEY_FREE_AIM_TAB_TO_SWITCH"
 msgid "TAB to switch target"
 msgstr "Premi TAB per cambiare bersaglio"
+
+msgctxt "Tactical/KEY_FREE_AIM_TAB_TO_SWITCH_REBIND"
+msgid "[<color=#ECBA62>{[NextCharacter]}</color>] to switch target"
+msgstr "Premi [<color=#ECBA62>{[NextCharacter]}</color>] per cambiare bersaglio"
 
 msgctxt "Customization/KEY_CUSTOM_CUSTOMIZE"
 msgid "CUSTOMIZE"
@@ -5230,6 +5934,174 @@ msgctxt "Cinematic Subtitles/KEY_SYMES_ANTARCTICA_8"
 msgid "maybe we are all children of the Pandoravirus. But... the sphere... my God, the sphere..."
 msgstr "che forse noi tutti siamo i figli del Pandoravirus. Ma... la sfera... Dio mio, la sfera..."
 
+msgctxt "Backer Info/KEY_BCR1_HAVEN"
+msgid "Longinus Point"
+msgstr "[null]"
+
+msgctxt "Backer Info/KEY_BCR1_MOTTO"
+msgid "---"
+msgstr "[null]"
+
+msgctxt "Backer Info/KEY_BCR1_LEADER"
+msgid "Justinian Cyneweard"
+msgstr "[null]"
+
+msgctxt "Backer Info/KEY_BCR2_HAVEN"
+msgid "Aatxe"
+msgstr "[null]"
+
+msgctxt "Backer Info/KEY_BCR2_MOTTO"
+msgid "Nola bizi, hala hil"
+msgstr "[null]"
+
+msgctxt "Backer Info/KEY_BCR2_LEADER"
+msgid "Erik-Logan Hughes"
+msgstr "[null]"
+
+msgctxt "Backer Info/KEY_BCR3_HAVEN"
+msgid "Dokkum"
+msgstr "[null]"
+
+msgctxt "Backer Info/KEY_BCR3_MOTTO"
+msgid "---"
+msgstr "[null]"
+
+msgctxt "Backer Info/KEY_BCR3_LEADER"
+msgid "Boris Eysbroek"
+msgstr "[null]"
+
+msgctxt "Backer Info/KEY_BCR4_HAVEN"
+msgid "R.E.M.E. Corporation"
+msgstr "R.E.M.E. Corporation"
+
+msgctxt "Backer Info/KEY_BCR4_MOTTO"
+msgid "Work Today To Get Fed Tomorrow"
+msgstr "[null]"
+
+msgctxt "Backer Info/KEY_BCR4_LEADER"
+msgid "Jachlan Wisopp"
+msgstr "Jachlan Wisopp"
+
+msgctxt "Backer Info/KEY_BCR5_HAVEN"
+msgid "Cedar Ark"
+msgstr "[null]"
+
+msgctxt "Backer Info/KEY_BCR5_MOTTO"
+msgid "---"
+msgstr "[null]"
+
+msgctxt "Backer Info/KEY_BCR5_LEADER"
+msgid "Mike Spark"
+msgstr "[null]"
+
+msgctxt "Backer Info/KEY_BCR6_HAVEN"
+msgid "Scheria"
+msgstr "[null]"
+
+msgctxt "Backer Info/KEY_BCR6_MOTTO"
+msgid "Faber est Suae Quisque Fortunae"
+msgstr "[null]"
+
+msgctxt "Backer Info/KEY_BCR6_LEADER"
+msgid "Ulysses J. Black"
+msgstr "[null]"
+
+msgctxt "Backer Info/KEY_BCR7_HAVEN"
+msgid "Bastion Irazu"
+msgstr "Bastion Irazu"
+
+msgctxt "Backer Info/KEY_BCR7_MOTTO"
+msgid "Presidium Prepetua Aeternum Quaerere"
+msgstr "[null]"
+
+msgctxt "Backer Info/KEY_BCR7_LEADER"
+msgid "Fabio Mena"
+msgstr "[null]"
+
+msgctxt "Backer Info/KEY_BCR8_HAVEN"
+msgid "Dustwood"
+msgstr "[null]"
+
+msgctxt "Backer Info/KEY_BCR8_MOTTO"
+msgid "---"
+msgstr "[null]"
+
+msgctxt "Backer Info/KEY_BCR8_LEADER"
+msgid "Ryan Dustin Wood"
+msgstr "[null]"
+
+msgctxt "Backer Info/KEY_BCR9_HAVEN"
+msgid "Genova"
+msgstr "[null]"
+
+msgctxt "Backer Info/KEY_BCR9_MOTTO"
+msgid "Inter Nos Nostra Lex"
+msgstr "[null]"
+
+msgctxt "Backer Info/KEY_BCR9_LEADER"
+msgid "Walter Ivan Toso"
+msgstr "[null]"
+
+msgctxt "Backer Info/KEY_BCR10_HAVEN"
+msgid "Towa"
+msgstr "[null]"
+
+msgctxt "Backer Info/KEY_BCR10_MOTTO"
+msgid "---"
+msgstr "[null]"
+
+msgctxt "Backer Info/KEY_BCR10_LEADER"
+msgid "Hikari Towa"
+msgstr "[null]"
+
+msgctxt "Backer Info/KEY_BCR11_HAVEN"
+msgid "Harmony"
+msgstr "[null]"
+
+msgctxt "Backer Info/KEY_BCR11_MOTTO"
+msgid "With Music, Rise"
+msgstr "[null]"
+
+msgctxt "Backer Info/KEY_BCR11_LEADER"
+msgid "James O'Hearn"
+msgstr "[null]"
+
+msgctxt "Backer Info/KEY_BCR12_HAVEN"
+msgid "New Sydney"
+msgstr "[null]"
+
+msgctxt "Backer Info/KEY_BCR12_MOTTO"
+msgid "On Their Behalf"
+msgstr "[null]"
+
+msgctxt "Backer Info/KEY_BCR12_LEADER"
+msgid "Harry Brown-Beresford"
+msgstr "[null]"
+
+msgctxt "Backer Info/KEY_BCR13_HAVEN"
+msgid "The Reformed"
+msgstr "Il Ravveduto"
+
+msgctxt "Backer Info/KEY_BCR13_MOTTO"
+msgid "Cursed Be All Who Follow The Weak, For We Are The True Disciples"
+msgstr "Dannati siano coloro che seguono il debole, perché noi siamo i veri discepoli"
+
+msgctxt "Backer Info/KEY_BCR13_LEADER"
+msgid "Joseph Saxton"
+msgstr "Joseph Saxton"
+
+msgctxt "Backer Info/KEY_BCR14_HAVEN"
+msgid "Emrys"
+msgstr "Emrys"
+
+msgctxt "Backer Info/KEY_BCR14_MOTTO"
+msgid "What Does Not Kill You Makes You Stronger"
+msgstr "Ciò che non uccide fortifica"
+
+msgctxt "Backer Info/KEY_BCR14_LEADER"
+msgid "John \"\"Merlin\"\" Smith"
+msgstr "John “Merlino\"\" Smith"
+
 msgctxt "Options Screen/KEY_OPTIONS_DELETE_DESCRIPTION"
 msgid "Delete"
 msgstr "Elimina"
@@ -5688,175 +6560,7 @@ msgstr "NO"
 
 msgctxt "Options Screen/KEY_OPTIONS_QUIT_CONFIRM"
 msgid "All unsaved game progress will be lost. Are you sure?"
-msgstr "[null]"
-
-msgctxt "Backer Info/KEY_BCR1_HAVEN"
-msgid "Longinus Point"
-msgstr "[null]"
-
-msgctxt "Backer Info/KEY_BCR1_MOTTO"
-msgid "---"
-msgstr "[null]"
-
-msgctxt "Backer Info/KEY_BCR1_LEADER"
-msgid "Justinian Cyneweard"
-msgstr "[null]"
-
-msgctxt "Backer Info/KEY_BCR2_HAVEN"
-msgid "Aatxe"
-msgstr "[null]"
-
-msgctxt "Backer Info/KEY_BCR2_MOTTO"
-msgid "Nola bizi, hala hil"
-msgstr "[null]"
-
-msgctxt "Backer Info/KEY_BCR2_LEADER"
-msgid "Erik-Logan Hughes"
-msgstr "[null]"
-
-msgctxt "Backer Info/KEY_BCR3_HAVEN"
-msgid "Dokkum"
-msgstr "[null]"
-
-msgctxt "Backer Info/KEY_BCR3_MOTTO"
-msgid "---"
-msgstr "[null]"
-
-msgctxt "Backer Info/KEY_BCR3_LEADER"
-msgid "Boris Eysbroek"
-msgstr "[null]"
-
-msgctxt "Backer Info/KEY_BCR4_HAVEN"
-msgid "R.E.M.E. Corporation"
-msgstr "R.E.M.E. Corporation"
-
-msgctxt "Backer Info/KEY_BCR4_MOTTO"
-msgid "Work Today To Get Fed Tomorrow"
-msgstr "[null]"
-
-msgctxt "Backer Info/KEY_BCR4_LEADER"
-msgid "Jachlan Wisopp"
-msgstr "Jachlan Wisopp"
-
-msgctxt "Backer Info/KEY_BCR5_HAVEN"
-msgid "Cedar Ark"
-msgstr "[null]"
-
-msgctxt "Backer Info/KEY_BCR5_MOTTO"
-msgid "---"
-msgstr "[null]"
-
-msgctxt "Backer Info/KEY_BCR5_LEADER"
-msgid "Mike Spark"
-msgstr "[null]"
-
-msgctxt "Backer Info/KEY_BCR6_HAVEN"
-msgid "Scheria"
-msgstr "[null]"
-
-msgctxt "Backer Info/KEY_BCR6_MOTTO"
-msgid "Faber est Suae Quisque Fortunae"
-msgstr "[null]"
-
-msgctxt "Backer Info/KEY_BCR6_LEADER"
-msgid "Ulysses J. Black"
-msgstr "[null]"
-
-msgctxt "Backer Info/KEY_BCR7_HAVEN"
-msgid "Bastion Irazu"
-msgstr "Bastion Irazu"
-
-msgctxt "Backer Info/KEY_BCR7_MOTTO"
-msgid "Presidium Prepetua Aeternum Quaerere"
-msgstr "[null]"
-
-msgctxt "Backer Info/KEY_BCR7_LEADER"
-msgid "Fabio Mena"
-msgstr "[null]"
-
-msgctxt "Backer Info/KEY_BCR8_HAVEN"
-msgid "Dustwood"
-msgstr "[null]"
-
-msgctxt "Backer Info/KEY_BCR8_MOTTO"
-msgid "---"
-msgstr "[null]"
-
-msgctxt "Backer Info/KEY_BCR8_LEADER"
-msgid "Ryan Dustin Wood"
-msgstr "[null]"
-
-msgctxt "Backer Info/KEY_BCR9_HAVEN"
-msgid "Genova"
-msgstr "[null]"
-
-msgctxt "Backer Info/KEY_BCR9_MOTTO"
-msgid "Inter Nos Nostra Lex"
-msgstr "[null]"
-
-msgctxt "Backer Info/KEY_BCR9_LEADER"
-msgid "Walter Ivan Toso"
-msgstr "[null]"
-
-msgctxt "Backer Info/KEY_BCR10_HAVEN"
-msgid "Towa"
-msgstr "[null]"
-
-msgctxt "Backer Info/KEY_BCR10_MOTTO"
-msgid "---"
-msgstr "[null]"
-
-msgctxt "Backer Info/KEY_BCR10_LEADER"
-msgid "Hikari Towa"
-msgstr "[null]"
-
-msgctxt "Backer Info/KEY_BCR11_HAVEN"
-msgid "Harmony"
-msgstr "[null]"
-
-msgctxt "Backer Info/KEY_BCR11_MOTTO"
-msgid "With Music, Rise"
-msgstr "[null]"
-
-msgctxt "Backer Info/KEY_BCR11_LEADER"
-msgid "James O'Hearn"
-msgstr "[null]"
-
-msgctxt "Backer Info/KEY_BCR12_HAVEN"
-msgid "New Sydney"
-msgstr "[null]"
-
-msgctxt "Backer Info/KEY_BCR12_MOTTO"
-msgid "On Their Behalf"
-msgstr "[null]"
-
-msgctxt "Backer Info/KEY_BCR12_LEADER"
-msgid "Harry Brown-Beresford"
-msgstr "[null]"
-
-msgctxt "Backer Info/KEY_BCR13_HAVEN"
-msgid "The Reformed"
-msgstr "Il Ravveduto"
-
-msgctxt "Backer Info/KEY_BCR13_MOTTO"
-msgid "Cursed Be All Who Follow The Weak, For We Are The True Disciples"
-msgstr "Dannati siano coloro che seguono il debole, perché noi siamo i veri discepoli"
-
-msgctxt "Backer Info/KEY_BCR13_LEADER"
-msgid "Joseph Saxton"
-msgstr "Joseph Saxton"
-
-msgctxt "Backer Info/KEY_BCR14_HAVEN"
-msgid "Emrys"
-msgstr "Emrys"
-
-msgctxt "Backer Info/KEY_BCR14_MOTTO"
-msgid "What Does Not Kill You Makes You Stronger"
-msgstr "Ciò che non uccide fortifica"
-
-msgctxt "Backer Info/KEY_BCR14_LEADER"
-msgid "John \"\"Merlin\"\" Smith"
-msgstr "John “Merlino\"\" Smith"
+msgstr "Tutti i progressi di gioco non salvati verranno persi. Vuoi continuare?"
 
 msgctxt "Controls/KEY_CONTROLS_GEOSCAPE_A"
 msgid "SELECT[LF]ACCEPT"
@@ -6215,8 +6919,8 @@ msgid "MOUSE WHEEL SCROLL"
 msgstr "SCORRIMENTO ROTELLINA DEL MOUSE"
 
 msgctxt "Controls/KEY_CONTROLS_TACTICAL_PC_MOUSE_WHEEL_SCROLL_DESCRIPTION"
-msgid "MOVE FLOOR LEVEL FOCUS / CHANGE OVERWATCH RADIUS"
-msgstr "SPOSTA FOCUS LIVELLO PAVIMENTO/MODIFICA RAGGIO GUARDIA"
+msgid "MOVE FLOOR LEVEL FOCUS"
+msgstr "SPOSTA FOCUS LIVELLO PAVIMENTO"
 
 msgctxt "Controls/KEY_CONTROLS_GEOSCAPE_PC_ESC_NAME"
 msgid "ESC"
@@ -6321,6 +7025,78 @@ msgstr "FRECCIA DESTRA"
 msgctxt "Controls/KEY_CONTROLS_GEOSCAPE_PC_ARROW_RIGHT_DESCRIPTION"
 msgid "MOVE GLOBE RIGHT"
 msgstr "SPOSTA GLOBO A DESTRA"
+
+msgctxt "Controls/KEY_CONTROLS_BINDINGS_COMMON"
+msgid "COMMON BINDINGS"
+msgstr "ASSEGNAZIONI COMUNI"
+
+msgctxt "Controls/KEY_CONTROLS_BINDINGS_TACTICAL"
+msgid "TACTICAL BINDINGS"
+msgstr "ASSEGNAZIONI TATTICHE"
+
+msgctxt "Controls/KEY_CONTROLS_BINDINGS_GEOSCAPE"
+msgid "GEOSCAPE BINDINGS"
+msgstr "ASSEGNAZIONI GLOBO"
+
+msgctxt "Controls/KEY_CONTROLS_BINDINGS_PRIMARY_KEY"
+msgid "PRIMARY KEY"
+msgstr "TASTO PRINCIPALE"
+
+msgctxt "Controls/KEY_CONTROLS_BINDINGS_SECONDARY_KEY"
+msgid "SECONDARY KEY"
+msgstr "[null]"
+
+msgctxt "Controls/KEY_CONTROLS_BINDINGS_OVERRIDE_ALLOWED"
+msgid "OVERRIDE"
+msgstr "SOVRASCRIVI"
+
+msgctxt "Controls/KEY_CONTROLS_BINDINGS_OVERRIDE_FORBIDDEN"
+msgid "CAN NOT OVERRIDE"
+msgstr "[null]"
+
+msgctxt "Controls/KEY_CONTROLS_PRESS_TO_REBIND"
+msgid "Press any bindable key"
+msgstr "Premi qualsiasi tasto assegnabile"
+
+msgctxt "Controls/KEY_CONTROLS_WARNING_CONFLICT"
+msgid "[<color=#ECBA62>{0}</color>] key is already reserved for \"\"{1}\"\"!"
+msgstr "Il tasto [<color=#ECBA62>{0}</color>] è già assegnato a \"\"{1}\"\"!"
+
+msgctxt "Controls/KEY_CONTROLS_WARNING_CONFLICT_LOCKED"
+msgid "[<color=#ECBA62>{0}</color>] key is already reserved for \"\"{1}\"\"! and is unavailable for this one!"
+msgstr "Il tasto [<color=#ECBA62>{0}</color>] è già assegnato a \"\"{1}\"\" e non è disponibile per questo!"
+
+msgctxt "Controls/KEY_CONTROLS_WARNING_CONFLICT_CONFIRMATION"
+msgid "Are you sure you want to reassign it for \"\"{0}\"\"?"
+msgstr "Vuoi davvero riassegnarlo a\"\"{0}\"\"?"
+
+msgctxt "Controls/KEY_CONTROLS_WARNING_CONFLICT_LIST"
+msgid "{0}, {1}"
+msgstr "{0}, {1}"
+
+msgctxt "Controls/KEY_CONTROLS_ERROR_READ"
+msgid "Reading keybindings failed! Default keybindings have been selected."
+msgstr "Lettura delle scorciatoie da tastiera non riuscita! Sono state selezionate le scorciatoie da tastiera predefinite."
+
+msgctxt "Controls/KEY_CONTROLS_ERROR_WRITE"
+msgid "Saving keybindings failed! Default keybindings have been selected."
+msgstr "Salvataggio delle scorciatoie da tastiera non riuscito! Sono state selezionate le scorciatoie da tastiera predefinite."
+
+msgctxt "Controls/KEY_CONTROLS_BINDINGS_REVERT_TO_DEFAULT"
+msgid "RESET TO DEFAULTS"
+msgstr "RIPRISTINA IMPOSTAZIONI PREDEFINITE"
+
+msgctxt "Controls/KEY_CONTROLS_WARNING_REVERT_CONFIRMATION"
+msgid "Are you sure you want to reset your keybindings to their default state?"
+msgstr "Vuoi davvero ripristinare le impostazioni predefinite delle scorciatoie da testiera?"
+
+msgctxt "Controls/KEY_CONTROLS_INPUT_PC_MOUSE_THUMB_FORWARD"
+msgid "MOUSE BUTTON 3"
+msgstr "PULSANTE MOUSE 3"
+
+msgctxt "Controls/KEY_CONTROLS_INPUT_PC_MOUSE_THUMB_BACKWARD"
+msgid "MOUSE BUTTON 4"
+msgstr "PULSANTE MOUSE 4"
 
 msgctxt "Controls/KEY_CONTROLS_INPUT_PC_A"
 msgid "A"
@@ -6511,15 +7287,83 @@ msgid "9"
 msgstr "9"
 
 msgctxt "Controls/KEY_CONTROLS_INPUT_PC_0"
-msgid "10"
-msgstr "10"
+msgid "0"
+msgstr "0"
 
-msgctxt "Controls/KEY_CONTROLS_INPUT_PC_PLUS"
+msgctxt "Controls/KEY_CONTROLS_INPUT_PC_NUM_1"
+msgid "NUM1"
+msgstr "NUM1"
+
+msgctxt "Controls/KEY_CONTROLS_INPUT_PC_NUM_2"
+msgid "NUM2"
+msgstr "NUM2"
+
+msgctxt "Controls/KEY_CONTROLS_INPUT_PC_NUM_3"
+msgid "NUM3"
+msgstr "NUM3"
+
+msgctxt "Controls/KEY_CONTROLS_INPUT_PC_NUM_4"
+msgid "NUM4"
+msgstr "NUM4"
+
+msgctxt "Controls/KEY_CONTROLS_INPUT_PC_NUM_5"
+msgid "NUM5"
+msgstr "NUM5"
+
+msgctxt "Controls/KEY_CONTROLS_INPUT_PC_NUM_6"
+msgid "NUM6"
+msgstr "NUM6"
+
+msgctxt "Controls/KEY_CONTROLS_INPUT_PC_NUM_7"
+msgid "NUM7"
+msgstr "NUM7"
+
+msgctxt "Controls/KEY_CONTROLS_INPUT_PC_NUM_8"
+msgid "NUM8"
+msgstr "NUM8"
+
+msgctxt "Controls/KEY_CONTROLS_INPUT_PC_NUM_9"
+msgid "NUM9"
+msgstr "NUM9"
+
+msgctxt "Controls/KEY_CONTROLS_INPUT_PC_NUM_0"
+msgid "NUM0"
+msgstr "NUM0"
+
+msgctxt "Controls/KEY_CONTROLS_INPUT_PC_ARROW_UP"
+msgid "↑"
+msgstr "↑"
+
+msgctxt "Controls/KEY_CONTROLS_INPUT_PC_ARROW_DOWN"
+msgid "↓"
+msgstr "↓"
+
+msgctxt "Controls/KEY_CONTROLS_INPUT_PC_ARROW_LEFT"
+msgid "←"
+msgstr "←"
+
+msgctxt "Controls/KEY_CONTROLS_INPUT_PC_ARROW_RIGHT"
+msgid "→"
+msgstr "→"
+
+msgctxt "Controls/KEY_CONTROLS_INPUT_PC_MOUSE_SCROLL"
+msgid "MOUSE SCROLL"
+msgstr "[null]"
+
+msgctxt "Controls/KEY_CONTROLS_INPUT_PC_NUM_PLUS"
 msgid "+"
 msgstr "+"
 
-msgctxt "Controls/KEY_CONTROLS_INPUT_PC_MINUS"
+msgctxt "Controls/KEY_CONTROLS_INPUT_PC_NUM_MINUS"
 msgid "—"
+msgstr "[null]"
+
+msgctxt "Controls/KEY_CONTROLS_INPUT_PC_DASH"
+msgid "DASH"
+msgstr "TRATTINO"
+
+msgctxt "Controls/KEY_CONTROLS_INPUT_PC_DASH_SHORT"
+msgid "[null]"
 msgstr "[null]"
 
 msgctxt "Controls/KEY_CONTROLS_INPUT_PC_TAB"
@@ -6530,28 +7374,328 @@ msgctxt "Controls/KEY_CONTROLS_INPUT_PC_SPC"
 msgid "SPACEBAR"
 msgstr "BARRA SPAZIATRICE"
 
-msgctxt "Controls/KEY_CONTROLS_INPUT_PC_ARROW_UP"
-msgid "UP ARROW"
-msgstr "FRECCIA SU"
+msgctxt "Controls/KEY_CONTROLS_INPUT_PC_SPC_SHORT"
+msgid "SPC"
+msgstr "SPZ"
 
-msgctxt "Controls/KEY_CONTROLS_INPUT_PC_ARROW_LEFT"
-msgid "LEFT ARROW"
-msgstr "FRECCIA SINISTRA"
+msgctxt "Controls/KEY_CONTROLS_INPUT_PC_END"
+msgid "END"
+msgstr "FINE"
 
-msgctxt "Controls/KEY_CONTROLS_INPUT_PC_ARROW_DOWN"
-msgid "DOWN ARROW"
-msgstr "FRECCIA GIÙ"
+msgctxt "Controls/KEY_CONTROLS_INPUT_PC_ESCAPE"
+msgid "ESCAPE"
+msgstr "ESC"
 
-msgctxt "Controls/KEY_CONTROLS_INPUT_PC_ARROW_RIGHT"
-msgid "RIGHT ARROW"
-msgstr "FRECCIA DESTRA"
+msgctxt "Controls/KEY_CONTROLS_INPUT_PC_BACKSPACE"
+msgid "BACKSPACE"
+msgstr "BACKSPACE"
+
+msgctxt "Controls/KEY_CONTROLS_INPUT_PC_BACKSPACE_SHORT"
+msgid "BCS"
+msgstr "BCS"
+
+msgctxt "Controls/KEY_CONTROLS_INPUT_PC_ALT_LEFT"
+msgid "LEFT ALT"
+msgstr "ALT SINISTRO"
+
+msgctxt "Controls/KEY_CONTROLS_INPUT_PC_ALT_RIGHT"
+msgid "RIGHT ALT"
+msgstr "ALT DESTRO"
+
+msgctxt "Controls/KEY_CONTROLS_INPUT_PC_CTRL_LEFT"
+msgid "LEFT CTRL + {0}"
+msgstr "CTRL SINISTRO + {0}"
+
+msgctxt "Controls/KEY_CONTROLS_INPUT_PC_CTRL_LEFT_SHORT"
+msgid "LC+{0}"
+msgstr "CS+{0}"
+
+msgctxt "Controls/KEY_CONTROLS_INPUT_PC_CTRL_RIGHT"
+msgid "RIGHT CTRL + {0}"
+msgstr "CTRL DESTRO + {0}"
+
+msgctxt "Controls/KEY_CONTROLS_INPUT_PC_CTRL_RIGHT_SHORT"
+msgid "RC+{0}"
+msgstr "CD+{0}"
 
 msgctxt "Controls/KEY_CONTROLS_INPUT_PC_SHIFT_LEFT"
 msgid "LEFT SHIFT + {0}"
-msgstr "[null]"
+msgstr "MAIUSC SINISTRO + {0}"
+
+msgctxt "Controls/KEY_CONTROLS_INPUT_PC_SHIFT_LEFT_SHORT"
+msgid "LS+{0}"
+msgstr "MS+{0}"
 
 msgctxt "Controls/KEY_CONTROLS_INPUT_PC_SHIFT_RIGHT"
 msgid "RIGHT SHIFT + {0}"
+msgstr "MAIUSC DESTRO + {0}"
+
+msgctxt "Controls/KEY_CONTROLS_INPUT_PC_SHIFT_RIGHT_SHORT"
+msgid "RS+{0}"
+msgstr "MD+{0}"
+
+msgctxt "Controls/KEY_CONTROLS_INPUT_PC_EQUALS"
+msgid " ="
+msgstr " ="
+
+msgctxt "Controls/KEY_CONTROLS_INPUT_PC_CAPS_LOCK"
+msgid "CAPS LOCK"
+msgstr "BLOC MAIUSC"
+
+msgctxt "Controls/KEY_CONTROLS_INPUT_PC_ENTER"
+msgid "ENTER"
+msgstr "INVIO"
+
+msgctxt "Controls/KEY_CONTROLS_INPUT_PC_NUM_ENTER"
+msgid "NUM ENTER"
+msgstr "INVIO (TASTIERINO NUMERICO)"
+
+msgctxt "Controls/KEY_CONTROLS_INPUT_PC_COMMA"
+msgid ","
+msgstr ","
+
+msgctxt "Controls/KEY_CONTROLS_INPUT_PC_DOT"
+msgid "."
+msgstr "."
+
+msgctxt "Controls/KEY_CONTROLS_INPUT_PC_SEMICOLON"
+msgid ";"
+msgstr ";"
+
+msgctxt "Controls/KEY_CONTROLS_INPUT_PC_APOSTROPHE"
+msgid "'"
+msgstr "'"
+
+msgctxt "Controls/KEY_CONTROLS_INPUT_PC_OPEN_BRACKET"
+msgid "["
+msgstr "["
+
+msgctxt "Controls/KEY_CONTROLS_INPUT_PC_CLOSED_BRACKET"
+msgid "]"
+msgstr "]"
+
+msgctxt "Controls/KEY_CONTROLS_INPUT_PC_NUM_ASTERISK"
+msgid "NUM *"
+msgstr "* (TASTIERINO NUMERICO)"
+
+msgctxt "Controls/KEY_CONTROLS_INPUT_PC_NUM_DEL"
+msgid "NUM DEL"
+msgstr "CANC (TASTIERINO NUMERICO)"
+
+msgctxt "Controls/KEY_CONTROLS_INPUT_PC_NUM_FORWARD_SLASH"
+msgid "NUM FORWARD SLASH"
+msgstr "BARRA OBLIQUA (TASTIERINO NUMERICO)"
+
+msgctxt "Controls/KEY_CONTROLS_INPUT_PC_NUM_FORWARD_SLASH_SHORT"
+msgid "NUM /"
+msgstr "/ (TASTIERINO NUMERICO)"
+
+msgctxt "Controls/KEY_CONTROLS_INPUT_PC_FORWARD_SLASH"
+msgid "FORWARD SLASH"
+msgstr "BARRA OBLIQUA"
+
+msgctxt "Controls/KEY_CONTROLS_INPUT_PC_FORWARD_SLASH_SHORT"
+msgid "/"
+msgstr "/"
+
+msgctxt "Controls/KEY_CONTROLS_INPUT_PC_BACKSLASH"
+msgid "BACKSLASH"
+msgstr "BARRA INVERSA"
+
+msgctxt "Controls/KEY_CONTROLS_INPUT_PC_FORWARD_BACKSLASH_SHORT"
+msgid "\\"
+msgstr "\\"
+
+msgctxt "Controls/KEY_CONTROLS_INPUT_PC_BACK_QUOTE"
+msgid "BACK QUOTE"
+msgstr "ACCENTO GRAVE"
+
+msgctxt "Controls/KEY_CONTROLS_INPUT_PC_BACK_QUOTE_SHORT"
+msgid "`"
+msgstr "`"
+
+msgctxt "Controls/KEY_CONTROLS_INPUT_PC_PAGE_UP"
+msgid "PAGE UP"
+msgstr "PAGINA SU"
+
+msgctxt "Controls/KEY_CONTROLS_INPUT_PC_PAGE_DOWN"
+msgid "PAGE DOWN"
+msgstr "PAGINA GIÙ"
+
+msgctxt "Controls/KEY_CONTROLS_ACTION_PREV_ABILITY"
+msgid "SELECT PREVIOUS ABILITY"
+msgstr "SELEZIONA ABILITÀ PRECEDENTE"
+
+msgctxt "Controls/KEY_CONTROLS_ACTION_NEXT_ABILITY"
+msgid "SELECT NEXT ABILITY"
+msgstr "SELEZIONA ABILITÀ SUCCESSIVA"
+
+msgctxt "Controls/KEY_CONTROLS_ACTION_SELECT_ITEM_1"
+msgid "SELECT READY ITEM 1"
+msgstr "SELEZIONA OGGETTO PRONTO 1"
+
+msgctxt "Controls/KEY_CONTROLS_ACTION_SELECT_ITEM_2"
+msgid "SELECT READY ITEM 2"
+msgstr "SELEZIONA OGGETTO PRONTO 2"
+
+msgctxt "Controls/KEY_CONTROLS_ACTION_SELECT_ITEM_3"
+msgid "SELECT READY ITEM 3"
+msgstr "SELEZIONA OGGETTO PRONTO 3"
+
+msgctxt "Controls/KEY_CONTROLS_ACTION_SELECT_ITEM_4"
+msgid "SELECT READY ITEM 4"
+msgstr "SELEZIONA OGGETTO PRONTO 4"
+
+msgctxt "Controls/KEY_CONTROLS_ACTION_CYCLE_WEAPONS"
+msgid "NEXT READY ITEM"
+msgstr "PROSSIMO OGGETTO PRONTO"
+
+msgctxt "Controls/KEY_CONTROLS_ACTION_PREV_CHARACTER"
+msgid "PREVIOUS SOLDIER / VEHICLE / TARGET"
+msgstr "SOLDATO / VEICOLO / BERSAGLIO PRECEDENTE"
+
+msgctxt "Controls/KEY_CONTROLS_ACTION_NEXT_CHARACTER"
+msgid "NEXT SOLDIER /VEHICLE / TARGET"
+msgstr "SOLDATO / VEICOLO / BERSAGLIO SUCCESSIVO"
+
+msgctxt "Controls/KEY_CONTROLS_ACTION_ABILITY_END_TURN"
+msgid "ENTER STANDBY MODE"
+msgstr "ENTRA IN MODALITÀ ATTESA"
+
+msgctxt "Controls/KEY_CONTROLS_ACTION_CONFIRM"
+msgid "CONFIRM ACTION"
+msgstr "CONFERMA AZIONE"
+
+msgctxt "Controls/KEY_CONTROLS_ACTION_ABILITY_CONFIRM"
+msgid "ACTIVATE ABILITY"
+msgstr "ATTIVA ABILITÀ"
+
+msgctxt "Controls/KEY_CONTROLS_ACTION_ABILITY_OVERWATCH"
+msgid "ENTER OVERWATCH"
+msgstr "ENTRA IN GUARDIA"
+
+msgctxt "Controls/KEY_CONTROLS_ACTION_DISCRETE_ZOOM_IN"
+msgid "ZOOM IN"
+msgstr "ZOOM AVANTI"
+
+msgctxt "Controls/KEY_CONTROLS_ACTION_DISCRETE_ZOOM_OUT"
+msgid "ZOOM OUT"
+msgstr "ZOOM INDIETRO"
+
+msgctxt "Controls/KEY_CONTROLS_ACTION_HIDE_UI"
+msgid "HIDE UI"
+msgstr "NASCONDI INTERFACCIA"
+
+msgctxt "Controls/KEY_CONTROLS_ACTION_MENU_UP"
+msgid "UI ELEMENT DOWN"
+msgstr "ELEMENTO INTERFACCIA SU"
+
+msgctxt "Controls/KEY_CONTROLS_ACTION_MENU_DOWN"
+msgid "UI ELEMENT UP"
+msgstr "ELEMENTO INTERFACCIA GIÙ"
+
+msgctxt "Controls/KEY_CONTROLS_ACTION_MENU_LEFT"
+msgid "UI ELEMENT LEFT"
+msgstr "ELEMENTO INTERFACCIA SINISTRA"
+
+msgctxt "Controls/KEY_CONTROLS_ACTION_MENU_RIGHT"
+msgid "UI ELEMENT RIGHT"
+msgstr "ELEMENTO INTERFACCIA DESTRA"
+
+msgctxt "Controls/KEY_CONTROLS_ACTION_ABILITY_RELOAD"
+msgid "RELOAD"
+msgstr "RICARICA"
+
+msgctxt "Controls/KEY_CONTROLS_ACTION_ASCEND_LEVEL"
+msgid "FLOOR LEVEL FOCUS UP"
+msgstr "FOCUS LIVELLO PAVIMENTO SU"
+
+msgctxt "Controls/KEY_CONTROLS_ACTION_DESCEND_LEVEL"
+msgid "FLOOR LEVEL FOCUS DOWN"
+msgstr "FOCUS LIVELLO PAVIMENTO GIÙ"
+
+msgctxt "Controls/KEY_CONTROLS_ACTION_SHOW_ITEM_LABELS"
+msgid "SHOW ITEM LABELS"
+msgstr "MOSTRA ETICHETTE OGGETTO"
+
+msgctxt "Controls/KEY_CONTROLS_ACTION_SHOOT"
+msgid "ENTER SHOOT MODE / SHOOT"
+msgstr "ENTRA IN MODALITÀ DI FUOCO/SPARA"
+
+msgctxt "Controls/KEY_CONTROLS_ACTION_FREE_AIM"
+msgid "ENTER FREE AIM"
+msgstr "ATTIVA MIRA LIBERA"
+
+msgctxt "Controls/KEY_CONTROLS_ACTION_ABILITY_ENTER_INVENTORY"
+msgid "OPEN INVENTORY"
+msgstr "APRI INVENTARIO"
+
+msgctxt "Controls/KEY_CONTROLS_ACTION_END_TURN"
+msgid "END TURN"
+msgstr "FINE TURNO"
+
+msgctxt "Controls/KEY_CONTROLS_ACTION_GEOSCAPE_PAUSE"
+msgid "START / STOP GEOSCAPE TIME"
+msgstr "AVVIA/FERMA TEMPO GLOBO"
+
+msgctxt "Controls/KEY_CONTROLS_ACTION_GEOSCAPE_TIME_INCREMENT"
+msgid "INCREASE GEOSCAPE TIME SPEED"
+msgstr "AUMENTA VELOCITÀ DEL TEMPO GLOBO"
+
+msgctxt "Controls/KEY_CONTROLS_ACTION_GEOSCAPE_TIME_DECREMENT"
+msgid "DECREASE GEOSCAPE TIME SPEED"
+msgstr "RIDUCI VELOCITÀ DEL TEMPO GLOBO"
+
+msgctxt "Controls/KEY_CONTROLS_ACTION_OPEN_OPTIONS_MENU"
+msgid "SHOW GAME MENU"
+msgstr "MOSTRA MENU DI GIOCO"
+
+msgctxt "Controls/KEY_CONTROLS_ACTION_ROTATE_CAMERA_LEFT"
+msgid "ROTATE CAMERA COUNTERCLOCKWISE"
+msgstr "RUOTA TELECAMERA IN SENSO ANTIORARIO"
+
+msgctxt "Controls/KEY_CONTROLS_ACTION_ROTATE_CAMERA_RIGHT"
+msgid "ROTATE CAMERA CLOCKWISE"
+msgstr "RUOTA TELECAMERA IN SENSO ORARIO"
+
+msgctxt "Controls/KEY_CONTROLS_ACTION_QUICK_LOAD"
+msgid "QUICK LOAD"
+msgstr "CARICAMENTO VELOCE"
+
+msgctxt "Controls/KEY_CONTROLS_ACTION_QUICK_SAVE"
+msgid "QUICK SAVE"
+msgstr "SALVATAGGIO VELOCE"
+
+msgctxt "Controls/KEY_CONTROLS_ACTION_CHANGE_OVERWATCH_CONE"
+msgid "CHANGE OVERWATCH CONE SIZE"
+msgstr "CAMBIA DIMENSIONE CONO DI GUARDIA"
+
+msgctxt "Controls/KEY_CONTROLS_ACTION_MOVE_CAMERA_UP"
+msgid "MOVE CAMERA UP"
+msgstr "MUOVI TELECAMERA SU"
+
+msgctxt "Controls/KEY_CONTROLS_ACTION_MOVE_CAMERA_DOWN"
+msgid "MOVE CAMERA DOWN"
+msgstr "MUOVI TELECAMERA GIÙ"
+
+msgctxt "Controls/KEY_CONTROLS_ACTION_MOVE_CAMERA_LEFT"
+msgid "MOVE CAMERA LEFT"
+msgstr "MUOVI TELECAMERA SINISTRA"
+
+msgctxt "Controls/KEY_CONTROLS_ACTION_MOVE_CAMERA_RIGHT"
+msgid "MOVE CAMERA RIGHT"
+msgstr "MUOVI TELECAMERA DESTRA"
+
+msgctxt "Controls/KEY_CONTROLS_ACTION_GEOSCAPE_SHOW_LOG"
+msgid "SHOW LOG"
+msgstr "MOSTRA REGISTRO"
+
+msgctxt "Controls/KEY_CONTROLS_ACTION_INPUT_PREV_ABILITY"
+msgid "{[PrevAbility]}"
+msgstr "[null]"
+
+msgctxt "Controls/KEY_CONTROLS_ACTION_INPUT_NEXT_ABILITY"
+msgid "{[NextAbility]}"
 msgstr "[null]"
 
 msgctxt "Research Screen/KEY_RESEARCH_COMPLETE"
@@ -6731,8 +7875,8 @@ msgid "MUTATE"
 msgstr "MUTAZIONE"
 
 msgctxt "Mutation Screen/KEY_GEOSCAPE_MUTATION_SLOTS"
-msgid "Mutation Slots Used:"
-msgstr "Slot mutazione utilizzati:"
+msgid "Augmentation Slots Used:"
+msgstr "Slot innesto utilizzati:"
 
 msgctxt "Mutation Screen/KEY_MUTATION_LOCATION_HEAD"
 msgid "HEAD MUTATION"
@@ -7952,11 +9096,11 @@ msgstr "POLITICA SULLA PRIVACY"
 
 msgctxt "Opening Screen/KEY_SAVE_TACTICAL"
 msgid "Tactical"
-msgstr "[null]"
+msgstr "Tattico"
 
 msgctxt "Opening Screen/KEY_SAVE_GEOSCAPE"
 msgid "Geoscape"
-msgstr "[null]"
+msgstr "Globo"
 
 msgctxt "Geoscape Objectives/KEY_GEOSCAPE_OBJECTIVE_HAVEN_DEFENSE"
 msgid "Stop enemy invasion at haven {0}"
@@ -8932,11 +10076,11 @@ msgstr "Invia un velivolo con una squadra a bordo a questo rifugio per condurvi 
 
 msgctxt "Haven Screen/KEY_RECRUIT_LEADER_NEGATIVE_DIPLOMACY_TT"
 msgid "Haven leader is unfriendly with Phoenix Point. Improve diplomacy relation to be able to recruit."
-msgstr "0"
+msgstr "Il leader del rifugio ha una relazione fredda con Phoenix Point. Migliora le relazioni diplomatiche per poter rendere possibile il reclutamento."
 
 msgctxt "Haven Screen/KEY_TRADE_LEADER_NEGATIVE_DIPLOMACY_TT"
 msgid "Haven leader is unfriendly with Phoenix Point. Improve diplomacy relation to be able to trade."
-msgstr "[null]"
+msgstr "Il leader del rifugio ha una relazione fredda con Phoenix Point. Migliora le relazioni diplomatiche per poter rendere possibile gli scambi."
 
 msgctxt "Missions/KEY_MISSION_ALIEN_LAIR"
 msgid "PANDORAN LAIR"
@@ -10090,6 +11234,10 @@ msgctxt "Missions/KEY_MISSION_AVAILABLE"
 msgid "MISSION AVAILABLE"
 msgstr "MISSIONE DISPONIBILE"
 
+msgctxt "Missions/KEY_MISSION_UPDATE_RESTART"
+msgid "A recent update has caused an incompatibility with your current saved game. No campaign progress has been lost, and you may restart the mission from the Geoscape."
+msgstr "Un recente aggiornamento ha causato un'incompatibilità con la tua partita salvata in corso. Nessun progresso di gioco è stato perso, e potrai ricominciare la missione dal Globo."
+
 msgctxt "Character Names/KEY_CHARACTERNAME_RAVICHAUDRI"
 msgid "Ravi Chaudri"
 msgstr "Ravi Chaudri"
@@ -10615,8 +11763,8 @@ msgid "Carrying a handgun can be life-saving when your arm has been disabled in 
 msgstr "Portare con te una pistola potrebbe salvarti la vita se un braccio viene messo fuori uso durante la battaglia. Le armi a impugnatura doppia richiedono due mani per essere utilizzate."
 
 msgctxt "Loading Tips/KEY_TACTICAL_LOADING_TIP_4"
-msgid "The Assault Soldier’s Dash ability gives an additional move for the cost of Willpower instead of Action Points."
-msgstr "L'abilità \"\"Scatto\"\" del soldato classe Assalto fornisce un movimento aggiuntivo in cambio di volontà, invece che punti azione."
+msgid "The Assault Soldier’s Dash ability allows a soldier to move three times the standard movement distance for the cost of Willpower (and 1 AP)."
+msgstr "L'abilità Scatto del soldato Assalto permette al soldato di muoversi per una distanza pari a tre volte quella standard in cambio di volontà (e 1 PA)."
 
 msgctxt "Loading Tips/KEY_TACTICAL_LOADING_TIP_5"
 msgid "Heavy weapons weigh more and are held at waist level. Consider this when aiming from behind low cover."
@@ -10655,8 +11803,8 @@ msgid "Medkits will restore your Hit Points, but will not repair any limb damage
 msgstr "I kit medici ripristinano i punti ferita, ma non riparano danni agli arti. Quando lasci la missione, gli arti sono ripristinati ma il soldato è ancora ferito."
 
 msgctxt "Loading Tips/KEY_TACTICAL_LOADING_TIP_14"
-msgid "If your soldier does not have the right class to use a weapon proficiently, accuracy will be lower and they might fumble when using it (fail to take the shot, but still use APs)."
-msgstr "Se il tuo soldato non ha la classe adatta per usare un'arma con padronanza, la precisione sarà inferiore e il soldato potrebbe compiere un errore quando la userà (non riuscire a sparare, pur spendendo i PA)."
+msgid "If your soldier does not have the right class to use a weapon proficiently, accuracy will be lower. In case of melee weapons there's a chance to fumble the attack as well."
+msgstr "Se il tuo soldato non ha la classe adatta per usare un'arma con padronanza, la precisione sarà inferiore. In caso di armi da mischia è possibile che si compiano errori durante l'attacco."
 
 msgctxt "Loading Tips/KEY_TACTICAL_LOADING_TIP_15"
 msgid "In a scavenging mission, the more crates you prevent from being destroyed, the more resources you will get at the end."
@@ -13256,7 +14404,7 @@ msgstr "Il Progetto Phoenix è un'organizzazione scientifica globale indipendent
 
 msgctxt "Lore/KEY_LORE_TITLE_WW3"
 msgid "World War 3"
-msgstr "[null]"
+msgstr "Terza guerra mondiale"
 
 msgctxt "Lore/KEY_LORE_DESC_WW3"
 msgid "World War III was a global conflict engendered by the total collapse of the world economy due to the Pandoravirus in 2030. Lasting until 2035, it devastated large parts of the planet and caused tens of millions of deaths. Large nations fractured, democratic governments became increasingly authoritarian, and coordinated action against the Pandoran threat became a secondary issue. Nuclear war was only averted by the intervention of the Phoenix Project."
@@ -13293,4 +14441,28 @@ msgstr "L'incidente alla Echo Gamma 18"
 msgctxt "Lore/KEY_LORE_DESC_BIG_EGG"
 msgid "The attack on Halpine-Mcallister oil rig Echo Gamma 18 occured in 2027. It was the first recorded major incursion by humanoid creatures from the sea. Video footage from the attack was streamed across the internet, resulting in a mass panic in the news media and the public at large. The recorded footage, taken from a helicopter flying near the rig, shows swarms of creatures climbing onto the platform and fighting with the personnel onboard, overpowering them. Later, a huge claw grapples part of the structure, tearing it off, leaving the remains broken and fatally damaged."
 msgstr "L'attacco alla piattaforma petrolifera Echo Gamma 18 di Halpine-Mcallister ebbe luogo nel 2027 e rappresenta la prima importante incursione documentata in cui gli assalitori erano creature vagamente umanoidi provenienti dal mare. Le riprese video dell'attacco alla piattaforma vennero trasmesse su Internet, provocando l'isteria di massa nei media e nel pubblico in genere. Il filmato, ripreso da un elicottero che sorvolava un'area vicina alla piattaforma, mostra sciami di creature che si arrampicano sulla piattaforma e lottano con il personale a bordo, sopraffacendolo. Più avanti nelle riprese, un'enorme tenaglia avvinghia una parte della struttura per poi strapparla via, lasciando i resti irrimediabilmente danneggiati."
+
+msgctxt "Lore/KEY_LORE_TITLE_PURE"
+msgid "The Pure"
+msgstr "I Puri"
+
+msgctxt "Lore/KEY_LORE_DESC_PURE"
+msgid "The renegade faction known as \"\"The Pure\"\" appeared in 2045 after a group of experimental subjects escaped from a New Jericho cybernetics program. The program was being shut down at the time, and its apparent failure covered up. Acting as a nomad paramilitary organisation, The Pure are cyborgs - as close to a machine as a human can get. They share the belief that anyone that has exposed flesh could be infected, and is thus “impure”. While there are many instances of them attacking scavenging sites or convoys world wide, none of their strongholds have been located so far.[CR][LF][CR][LF]According to the individual known as Subject 24, they are the result of advanced cybernetic New Jericho experiments that somehow went wrong. In particular, the mental state of subjects in the program suffered from the transition they had to endure to become cyborgs.[CR]"
+msgstr "La fazione di fuorilegge conosciuti come \"\"I Puri\"\" apparve nel 2045 a seguito della fuga di un gruppo di soggetti sperimentali dal programma di cibernetica di Nuova Gerico. Il programma era stato un totale fallimento e per questo era stato chiuso e insabbiato. I Puri sono dei cyborg, sono quanto più di simile a una macchina si possa immaginare, e agiscono come una organizzazione nomade paramilitare. Li unisce la convinzione che chiunque abbia un lembo di carne esposta potrebbe essere infetto e perciò \"\"impuro\"\". Nonostante i loro ripetuti attacchi a siti di ricerca di risorse o a convogli, non è stato possibile localizzare nessuna loro roccaforte.[LF] [LF]Secondo l'individuo conosciuto come Soggetto 24, essi sono il risultato di esperimenti cibernetici avanzanti non perfettamente riusciti condotti da Nuova Gerico. In particolare, lo stato mentale dei soggetti del programma è stato compromesso durante la fase di transizione subita per diventare cyborg."
+
+msgctxt "Lore/KEY_LORE_TITLE_SUBJECT24"
+msgid "Subject 24"
+msgstr "Soggetto 24"
+
+msgctxt "Lore/KEY_LORE_DESC_SUBJECT24"
+msgid "Little is known about the individual calling himself Subject 24. According to his own words he was involved in New Jericho’s cybernetic program \"\"Project Purity\"\", and later became the leader of The Pure faction. Classified records confirm the existence of a Major Zachery Richards who indeed worked for Tobias West, although he was marked as having died in a work accident. Any further information has been redacted and unavailable.[CR][LF][CR][LF]Supplementary: a behavior analysis has received with 89% certainty that Subject 24 is as resentful of the Phoenix Project as he is of New Jericho. There is a possibility for him to have been involved with the organisation at some point in the past. [CR]"
+msgstr "Non si conosce molto dell'individuo che si fa chiamare Soggetto 24. Secondo quanto lui stesso riferisce, è stato coinvolto nel progetto di cibernetica di Nuova Gerico denominato \"\"Progetto Purezza\"\" e in seguito è diventato il leader della fazione dei Puri. Alcuni documenti top secret confermano l'esistenza di un Maggiore Zachery Richards che ha effettivamente lavorato per Tobias West, ma viene riportata la sua morte in un incidente sul lavoro. Ulteriori informazioni non sono disponibili in quanto censurate.[LF] [LF]Addendum: un'analisi comportamentale ha appurato con una certezza dell'89% che il Soggetto 24 prova la stessa quantità di rancore sia il Progetto Phoenix, sia per Nuova Gerico. È possibile che in passato sia stato coinvolto nell'organizzazione."
+
+msgctxt "Lore/KEY_LORE_TITLE_FORSAKEN"
+msgid "The Forsaken"
+msgstr "Gli Abbandonati"
+
+msgctxt "Lore/KEY_LORE_DESC_FORSAKEN"
+msgid "For decades Disciples of Anu had practised the exiling, or outcasting, of their members that were too weak to withstand the mutation gifts they acquired. According to preliminary reports, ninety percent of them would die within a few weeks. With time, tho, the survivors slowly grouped together forming bandit squads that would roam the world looking for food and resources.[LF][LF]Completely mutated, and with no loyalty to the Exalted or anyone else, these outcasts banded together in their mind breaking dreams. They appear to lack any hierarchy or command structure, yet are able to organize themselves to attack small targets. Lately, their attacks have become bolder and better planned, as if they are somehow linked to each other. [LF][LF]At present the outcast’s threat level remains low."
+msgstr "Per decenni, i Discepoli di Anu hanno praticato l'esilio o l'espulsione dei membri che erano troppo deboli per sopportare i doni della mutazione che avevano acquisito. I report preliminari indicano che il novanta percento di questi soggetti moriva entro poche settimane. Con il passare del tempo, ad ogni modo, i superstiti si aggregarono pian piano formando squadre di banditi che vagavano per il pianeta in cerca di cibo e risorse.[LF] [LF]Questi esiliati, completamente mutati e privi di qualsiasi lealtà alla Suprema o a chiunque altro, si riunivano accomunati dai loro sogni distruttivi. Essi sembrano privi di qualsiasi gerarchia o struttura, tuttavia riescono a organizzarsi per attaccare bersagli modesti. Ultimamente i loro attacchi si sono fatti più audaci e pianificati, come se fossero in qualche modo collegati tra di loro. [LF] [LF]Al momento il livello di minaccia di questi esiliati resta basso."
 
