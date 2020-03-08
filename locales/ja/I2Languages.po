@@ -3,8 +3,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2020-03-08 11:41+0000\n"
-"Last-Translator: Kanizanohito <karatekacentury@gmail.com>\n"
+"PO-Revision-Date: 2020-03-08 13:56+0000\n"
+"Last-Translator: higema <ltdhyndsh@yahoo.co.jp>\n"
 "Language-Team: \n"
 "Language: ja\n"
 "MIME-Version: 1.0\n"
@@ -512,7 +512,7 @@ msgstr "マインドコントロール無効"
 
 msgctxt "Blood Titanium/KEY_MIND_CONTROL_IMMUNITY_DESCRIPTION"
 msgid "Immune to Mind Control."
-msgstr ""
+msgstr "マインドコントロールを無効にする。"
 
 msgctxt "Blood Titanium/KEY_STATUS_SILENCED"
 msgid "DISORIENTED"
@@ -7413,7 +7413,7 @@ msgstr "一般割り当て"
 
 msgctxt "Controls/KEY_CONTROLS_BINDINGS_TACTICAL"
 msgid "TACTICAL BINDINGS"
-msgstr ""
+msgstr "戦闘時割り当て"
 
 #| msgctxt "Options Screen/KEY_OPTIONS_KEYBOARD_BINDINGS"
 #| msgid "KEYBOARD BINDINGS"
@@ -7423,7 +7423,7 @@ msgstr "ジオスケープ割り当て"
 
 msgctxt "Controls/KEY_CONTROLS_BINDINGS_PRIMARY_KEY"
 msgid "PRIMARY KEY"
-msgstr ""
+msgstr "プライマリーキー"
 
 #| msgctxt "Customization/KEY_CUSTOM_SECONDARY_COLOR"
 #| msgid "SECONDARY COLOR {0}"
@@ -7439,19 +7439,19 @@ msgstr "上書き"
 
 msgctxt "Controls/KEY_CONTROLS_BINDINGS_OVERRIDE_FORBIDDEN"
 msgid "CAN NOT OVERRIDE"
-msgstr ""
+msgstr "上書きできません"
 
 msgctxt "Controls/KEY_CONTROLS_PRESS_TO_REBIND"
 msgid "Press any bindable key"
-msgstr ""
+msgstr "任意の割り当てキーを押してください"
 
 msgctxt "Controls/KEY_CONTROLS_WARNING_CONFLICT"
 msgid "[<color=#ECBA62>{0}</color>] key is already reserved for \"\"{1}\"\"!"
-msgstr ""
+msgstr "[<color=#ECBA62>{0}</color>]キーは既に\"\"{1}\"\"に割り当てられています!"
 
 msgctxt "Controls/KEY_CONTROLS_WARNING_CONFLICT_LOCKED"
 msgid "[<color=#ECBA62>{0}</color>] key is already reserved for \"\"{1}\"\"! and is unavailable for this one!"
-msgstr ""
+msgstr "[<color=#ECBA62>{0}</color>]キーは既に\"\"{1}\"\"に割り当てられています!この機能には使用できません!"
 
 #, fuzzy
 #| msgctxt "Manufacture Screen/KEY_MANUFACTURE_SCRAP_CONFIRMATION"
@@ -7466,11 +7466,11 @@ msgstr ""
 
 msgctxt "Controls/KEY_CONTROLS_ERROR_READ"
 msgid "Reading keybindings failed! Default keybindings have been selected."
-msgstr ""
+msgstr "キー割り当ての読み込みに失敗しました！デフォルトのキー割り当てが選択されます。"
 
 msgctxt "Controls/KEY_CONTROLS_ERROR_WRITE"
 msgid "Saving keybindings failed! Default keybindings have been selected."
-msgstr ""
+msgstr "キー割り当ての保存に失敗しました！デフォルトのキー割り当てが選択されます。"
 
 #, fuzzy
 #| msgctxt "Options Screen/KEY_OPTIONS_RESTORE"
@@ -8177,7 +8177,7 @@ msgstr "クイックセーブ"
 
 msgctxt "Controls/KEY_CONTROLS_ACTION_CHANGE_OVERWATCH_CONE"
 msgid "CHANGE OVERWATCH CONE SIZE"
-msgstr ""
+msgstr "監視の左右幅を変更"
 
 #| msgctxt "Controls/KEY_CONTROLS_TACTICAL_RTHUMB"
 #| msgid "MOVE CAMERA"
