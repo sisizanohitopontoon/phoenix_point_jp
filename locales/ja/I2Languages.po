@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2020-03-06 15:37+0000\n"
+"PO-Revision-Date: 2020-03-08 09:38+0000\n"
 "Last-Translator: sisizanohito <sisizanohito@gmail.com>\n"
 "Language-Team: \n"
 "Language: ja\n"
@@ -373,12 +373,11 @@ msgctxt "PH_Localization/KEY_OK"
 msgid "OK"
 msgstr "OK"
 
-#, fuzzy
 #| msgctxt "Damage types/KEY_DAMAGE_TYPE_SONIC"
 #| msgid "SONIC"
 msgctxt "Blood Titanium/KEY_ITEM_TYPE_BIONIC"
 msgid "BIONIC"
-msgstr "ソニック"
+msgstr "バイオニック"
 
 msgctxt "Blood Titanium/KEY_NJ_EXO_BIO_HELMET_NAME2"
 msgid "Disruptor Head"
@@ -494,24 +493,22 @@ msgctxt "Blood Titanium/KEY_BASE_FACILITY_BIONICSLAB_NAME"
 msgid "CYBERNETICS LAB"
 msgstr ""
 
-#, fuzzy
 #| msgctxt "Base Screen/KEY_BASE_WARNING_MUTATION_LAB"
 #| msgid "Destroying the Mutation Lab will decrease the amount of Mutagens you produce per day. At least one Mutation Lab is required to enhance your soldiers. Are you sure you want to proceed?"
 msgctxt "Blood Titanium/KEY_BASE_WARNING_RESEARCH_BIONICSLAB"
 msgid ""
 "Destroying the Cybernetics Lab will decrease the amount of research points you produce per day. At least one Cybernetics Lab is required to modify your soldiers. Are you sure you want to proceed?"
-msgstr "ミュータジェンラボを破壊すると、1日に生産されるミュータジェン量が減少します。兵士を強化するには、少なくとも1つのミュータジェンラボが必要です。本当に続行しますか?"
+msgstr "サイバネティックラボを破壊すると、1日あたりで生成される研究ポイントの量が減少します。兵士を改造するには、少なくとも1つのサイバネティックラボが必要です。本当に続行しますか?"
 
 msgctxt "Blood Titanium/KEY_BASE_FACILITY_BIONICSLAB_DESCRIPTION"
 msgid "Allows soldiers to be augmented with bionic body parts, and produces research."
 msgstr ""
 
-#, fuzzy
 #| msgctxt "Abilities/KEY_MIND_CONTROL_NAME"
 #| msgid "MIND CONTROL"
 msgctxt "Blood Titanium/KEY_MIND_CONTROL_IMMUNITY_NAME"
 msgid "MIND CONTROL IMMUNITY"
-msgstr "マインドコントロール"
+msgstr "マインドコントロール無効"
 
 msgctxt "Blood Titanium/KEY_MIND_CONTROL_IMMUNITY_DESCRIPTION"
 msgid "Immune to Mind Control."
@@ -521,12 +518,11 @@ msgctxt "Blood Titanium/KEY_STATUS_SILENCED"
 msgid "DISORIENTED"
 msgstr ""
 
-#, fuzzy
 #| msgctxt "Tactical/KEY_MESSAGE_NO_MORE_USES_THIS_TURN"
 #| msgid "Cannot be used again this turn"
 msgctxt "Blood Titanium/KEY_STATUS_SILENCED_DESCRIPTION"
 msgid "Cannot use Will Point abilities for 1 turn."
-msgstr "このターンでは再度使用できない"
+msgstr "1ターンのあいだ、ウィルポイントを使用するアビリティを使用できない"
 
 #, fuzzy
 #| msgctxt "Base Screen/KEY_BASE_UNDER_CONSTRCUTION"
@@ -546,12 +542,11 @@ msgctxt "Blood Titanium/KEY_SHINOBI_LEAP_NAME"
 msgid "ROCKET LEAP"
 msgstr "モンスターリープ"
 
-#, fuzzy
 #| msgctxt "Abilities/KEY_CHIRON_JUMP_DESCRIPTION"
 #| msgid "Leap to target location"
 msgctxt "Blood Titanium/KEY_SHINOBI_LEAP_DESCRIPTION"
 msgid "Leap to target location."
-msgstr "目標位置に跳躍する"
+msgstr "目標位置に跳躍する。"
 
 #| msgctxt "Options Screen/KEY_OPTIONS_SHADOWS"
 #| msgid "SHADOWS"
@@ -586,12 +581,11 @@ msgctxt "Blood Titanium/KEY_MELEE_PROFICIENCY_NAME"
 msgid "MELEE WEAPON PROFICIENCY"
 msgstr "近接武器技能"
 
-#, fuzzy
 #| msgctxt "Abilities/KEY_PRIEST_TRAINING_DESCRIPTION"
 #| msgid "Proficiency with viral weapons"
 msgctxt "Blood Titanium/KEY_MELEE_PROFICIENCY_DESCRIPTION"
 msgid "Proficiency with Melee Weapons"
-msgstr "ウィルスウェポン技能"
+msgstr "近接武器の技能"
 
 msgctxt "Blood Titanium/KEY_FACTION_NAME_PURE"
 msgid "THE PURE"
@@ -611,30 +605,27 @@ msgctxt "Blood Titanium/KEY_BIONICS"
 msgid "BIONICS"
 msgstr "バイオニクス"
 
-#, fuzzy
 #| msgctxt "Equipping Screen/KEY_ITEM_TYPE_MUTATION"
 #| msgid "MUTATION"
 msgctxt "Blood Titanium/KEY_AUGMENTATIONS"
 msgid "AUGMENTATIONS"
-msgstr "変異"
+msgstr "オーグメンテーション"
 
 msgctxt "Blood Titanium/KEY_NUMBER_OF_AUGMENTATIONS"
 msgid "PLACEHOLDER"
 msgstr ""
 
-#, fuzzy
 #| msgctxt "Missions/KEY_MISSION_ATTACK_SCAVENGING_SITE_BRIEFING_NAME"
 #| msgid "SCAVENGING SITE"
 msgctxt "Blood Titanium/KEY_FACTION_NAME_BANDITS"
 msgid "SCAVENGERS"
-msgstr "スカベンジ地点"
+msgstr "スカベンジャーズ"
 
-#, fuzzy
 #| msgctxt "Equipping Screen/KEY_ITEM_TYPE_MUTATION"
 #| msgid "MUTATION"
 msgctxt "Blood Titanium/KEY_AUGMENT"
 msgid "AUGMENTATION"
-msgstr "変異"
+msgstr "オーグメンテーション"
 
 #, fuzzy
 #| msgctxt "Geoscape/KEY_REPAIR_ABILITY_NAME"
@@ -655,19 +646,17 @@ msgctxt "Blood Titanium/KEY_AUMGENTATION_LIMIT"
 msgid "Safety limit reached. No further mutations or augmentations allowed."
 msgstr ""
 
-#, fuzzy
 #| msgctxt "Phoenixpedia/KEY_PHOENIXPEDIA_SECTION_EQUIPMENT"
 #| msgid "EQUIPMENT"
 msgctxt "Blood Titanium/KEY_AUMGENTATION_ACTION"
 msgid "AUGMENT"
-msgstr "装備"
+msgstr "オーグメント"
 
-#, fuzzy
 #| msgctxt "Base Screen/KEY_BASE_DESTROY_CONFIRMATION"
 #| msgid "Are you sure you want to demolish this facility?"
 msgctxt "Blood Titanium/KEY_REPAIR_BIONIC_WARNING"
 msgid "Are you sure you want to repair this augmentation?"
-msgstr "本当にこの施設を撤去しますか?"
+msgstr "本当にこのオーグメンテーションを修理しますか?"
 
 #, fuzzy
 #| msgctxt "Missions/KEY_MISSION_EXPLORATION_SITE"
@@ -680,19 +669,17 @@ msgctxt "Blood Titanium/KEY_DEMOLITION_MAN_DESCRIPTION"
 msgid "Breach walls and solid constructs by walking through them."
 msgstr ""
 
-#, fuzzy
 #| msgctxt "Abilities/KEY_DEPLOY_SHIELD_NAME"
 #| msgid "DEPLOY SHIELD"
 msgctxt "Blood Titanium/KEY_DEPLOY_SHIELD_BIONIC_NAME"
 msgid "EXTEND SHIELD"
-msgstr "シールド展開"
+msgstr "エクステンド・シールド"
 
-#, fuzzy
 #| msgctxt "Abilities/KEY_DEPLOY_SHIELD_DESCRIPTION"
 #| msgid "Deploy a shield in a given direction"
 msgctxt "Blood Titanium/KEY_DEPLOY_SHIELD_BIONIC_DESCRIPTION"
 msgid "Extend an energy shield in a given direction"
-msgstr "指定した方向にシールドを展開する"
+msgstr "指定した方向にエナジーシールドを張る"
 
 msgctxt "Blood Titanium/KEY_RETRIEVE_SHIELD_NAME"
 msgid "RETRACT SHIELD"
@@ -702,52 +689,47 @@ msgctxt "Blood Titanium/KEY_RETRIEVE_SHIELD_DESCRIPTION"
 msgid "Retract energy shield"
 msgstr ""
 
-#, fuzzy
 #| msgctxt "Abilities/KEY_DEPLOY_SHIELD_NAME"
 #| msgid "DEPLOY SHIELD"
 msgctxt "Blood Titanium/KEY_SHIELD_BIONIC_NAME"
 msgid "SHIELD"
-msgstr "シールド展開"
+msgstr "シールド"
 
 msgctxt "Blood Titanium/KEY_SHIELD_BIONIC_DESCRIPTION"
 msgid "Energy Shield"
 msgstr ""
 
-#, fuzzy
 #| msgctxt "Geoscape/KEY_REPAIR_ABILITY_NAME"
 #| msgid "REPAIR"
 msgctxt "Blood Titanium/KEY_REPAIR_KIT_NAME"
 msgid "REPAIR KIT"
-msgstr "修理"
+msgstr "リペアキット"
 
 msgctxt "Blood Titanium/KEY_REPAIR_KIT_DESCRIPTION"
 msgid "Repairs {bodyparthealamount} Hit Points (augmented body parts only)."
 msgstr ""
 
-#, fuzzy
 #| msgctxt "Base Screen/KEY_BASE_UNDER_REPAIR"
 #| msgid "UNDER REPAIR"
 msgctxt "Blood Titanium/KEY_USE_REPAIR_KIT_NAME"
 msgid "USE REPAIR KIT"
-msgstr "修理中"
+msgstr "リペアキットを使用する"
 
 msgctxt "Blood Titanium/KEY_USE_REPAIR_KIT_DESCRIPTION"
 msgid "Repair {bodyparthealamount} Hit Points (augmented body parts only)."
 msgstr ""
 
-#, fuzzy
 #| msgctxt "Equipping Screen/KEY_ITEM_TYPE_GRENADE"
 #| msgid "GRENADE"
 msgctxt "Blood Titanium/KEY_SY_EMP_GRENADE_NAME"
 msgid "ZEUS GRENADE"
-msgstr "グレネード"
+msgstr "ゼウス グレネード"
 
-#, fuzzy
 #| msgctxt "PH_Localization/KEY_RESEARCH_TAB_SYNEDRION_TT"
 #| msgid "Synedrion research"
 msgctxt "Blood Titanium/KEY_SY_EMP_GRENADE_DESCRIPTION"
 msgid "Synedrion EMP Grenade"
-msgstr "シネドリオン リサーチ"
+msgstr "シネドリオン EMP グレネード"
 
 msgctxt "Blood Titanium/KEY_DAMAGE_TYPE_EMP"
 msgid "EMP"
@@ -1072,12 +1054,11 @@ msgctxt "Blood Titanium/KEY_VIRAL_MACHINE_GUN_DESCRIPTION"
 msgid "VIRAL MACHINE GUN"
 msgstr ""
 
-#, fuzzy
 #| msgctxt "Abilities/KEY_CHIRON_LAUNCH_ACIDWORM_NAME"
 #| msgid "LAUNCH ACIDWORMS"
 msgctxt "Blood Titanium/KEY_ARTHRON_ACID_GRENADE_ARM_NAME"
 msgid "ACID LAUNCHER ARM"
-msgstr "アシッドワーム迫撃"
+msgstr "アシッドランチャー アーム"
 
 msgctxt "Blood Titanium/KEY_ARTHRON_ACID_GRENADE_ARM_DESCRIPTION"
 msgid "Organic Grenade Launcher"
@@ -1105,23 +1086,21 @@ msgctxt "Blood Titanium/KEY_STATUS_DISABLED_ELECTRONIC_DESCRIPTION"
 msgid "Body part disabled."
 msgstr "使用不能ではない"
 
-#, fuzzy
 #| msgctxt "Mutation Screen/KEY_MUTATION_LOCATION_BODY"
 #| msgid "BODY MUTATION"
 msgctxt "Blood Titanium/KEY_BIONIC_AUGMENTATION_NAME"
 msgid "BIONIC AUGMENTATION"
-msgstr "ボディ ミューテーション"
+msgstr "バイオニック オーグメンテーション"
 
 msgctxt "Blood Titanium/KEY_BIONIC_AUGMENTATION_DESCRIPTION"
 msgid "Bleed immunity. Viral, Poison, and Paralysis resistance. Vulnerable to Acid."
 msgstr ""
 
-#, fuzzy
 #| msgctxt "Equipping Screen/KEY_ITEM_STAT_ACTION_POINTS"
 #| msgid "ACTION POINT COST"
 msgctxt "Blood Titanium/KEY_DISPLAY_ACTION_COST"
 msgid "ACTION COST:"
-msgstr "アクションポイントコスト"
+msgstr "アクションコスト:"
 
 #, fuzzy
 #| msgctxt "Equipping Screen/KEY_GEOSCAPE_PRODUCE_BUILD_MATERIALS"
@@ -3520,7 +3499,6 @@ msgstr ""
 "カメラ操作をしてみましょう。[LF]カメラ移動::LMB:をホールド＆ドラッグ。 またはゲームパッドの:RTS:[LF]カメラ回転:QとE  またはゲームパッドの:DLEFT:と:DRIGHT:[LF]カメラズーム: T と G、:MW: をホールド、 またはゲームパッドの:LT:[LF]高さを合わせる::MW:を上下にスクロール、 "
 "またはゲームパッドの:DUP:と:DDOWN:[LF][LF]ハイライトされているタイルに兵士を移動させてください。[LF]目標タイル上で:LMB: 、またはゲームパッドの:RTS: で選択マーカーを移動させ:A:を押す"
 
-#, fuzzy
 #| msgctxt "Tutorial/KEY_TUTORIAL_TACTICAL1_MOVEMENT_DESCRIPTION"
 #| msgid ""
 #| "TRY THE CAMERA CONTROLS[LF]Camera movement: :LMB: + drag or use gamepad :RTS:[LF]Camera rotation: Q and E or use gamepad :DLEFT: and :DRIGHT:[LF]Camera zoom: T and G, hold :MW:, or use gamepad "
@@ -3533,8 +3511,9 @@ msgid ""
 "scroll :MW: up or down, or use gamepad :DUP: and :DDOWN:[LF][LF]MOVE YOUR SOLDIER TO THE HIGHLIGHTED TILE[LF]:LMB: on the destination tile or move the Selection Marker with gamepad :RTS: and press "
 ":A:"
 msgstr ""
-"カメラ操作をしてみましょう。[LF]カメラ移動::LMB:をホールド＆ドラッグ。 またはゲームパッドの:RTS:[LF]カメラ回転:QとE  またはゲームパッドの:DLEFT:と:DRIGHT:[LF]カメラズーム: T と G、:MW: をホールド、 またはゲームパッドの:LT:[LF]高さを合わせる::MW:を上下にスクロール、 "
-"またはゲームパッドの:DUP:と:DDOWN:[LF][LF]ハイライトされているタイルに兵士を移動させてください。[LF]目標タイル上で:LMB: 、またはゲームパッドの:RTS: で選択マーカーを移動させ:A:を押す"
+"カメラ操作をしてみましょう。[LF]カメラ移動::LMB:をホールド＆ドラッグ。 またはゲームパッドの:RTS:[LF]カメラ回転:[<color=#ECBA62>{[Rotate Left]}</color>]と[<color=#ECBA62>{[Rotate Right]}</color>]  "
+"またはゲームパッドの:DLEFT:と:DRIGHT:[LF]カメラズーム:[<color=#ECBA62>{[Discrete Zoom In]}</color>]と[<color=#ECBA62>{[Discrete Zoom Out]}</color>]、:MW: をホールド、 またはゲームパッドの:LT:[LF]高さを合わせる::MW:を上下にスクロール、 "
+"またはゲームパッドの:DUP:と:DDOWN:[LF][LF]ハイライトされているタイルに兵士を移動させてください。[LF]目標タイル上で:LMB: 、またはゲームパッドの:RTS: でセレクトマーカーを移動させ:A:を押す"
 
 msgctxt "Tutorial/KEY_TUTORIAL_TACTICAL1_SPOTTING_NAME"
 msgid "Spotting Enemies"
@@ -3600,7 +3579,6 @@ msgstr ""
 "アクションポイント(APs)が尽きた兵士は待機モードに移行し、次の兵士 が選択されます。アクションポイント(APs)が残っている兵士がいない 場合、あなたのターンは終了します。[LF][LF]SPACEキーを使用する、アクションバーの待機 アイコンを選択する、またはゲームパッドの:B: を押すなどして、兵士に待機モードへ移行するよう "
 "指示できます。[LF][LF]待機モードを選択してください。[LF]"
 
-#, fuzzy
 #| msgctxt "Tutorial/KEY_TUTORIAL_TACTICAL1_STANDBY_DESCRIPTION"
 #| msgid ""
 #| "Once a soldier is out of APs he enters Standby Mode and the next soldier is selected. If there are no soldiers with APs remaining your turn ends. [LF][LF]You can order a soldier to enter Standby "
@@ -3610,8 +3588,8 @@ msgid ""
 "Once a soldier is out of APs he enters Standby Mode and the next soldier is selected. If there are no soldiers with APs remaining your turn ends. [LF][LF]You can order a soldier to enter Standby "
 "Mode by using the [<color=#ECBA62>{[SetEndTurnAbility]}</color>], selecting the icon from the Action Bar, or using gamepad :B:[LF][LF]SELECT STANDBY MODE[LF]"
 msgstr ""
-"アクションポイント(APs)が尽きた兵士は待機モードに移行し、次の兵士 が選択されます。アクションポイント(APs)が残っている兵士がいない 場合、あなたのターンは終了します。[LF][LF]SPACEキーを使用する、アクションバーの待機 アイコンを選択する、またはゲームパッドの:B: を押すなどして、兵士に待機モードへ移行するよう "
-"指示できます。[LF][LF]待機モードを選択してください。[LF]"
+"アクションポイント(APs)が尽きた兵士は待機モードに移行し、次の兵士 が選択されます。アクションポイント(APs)が残っている兵士がいない 場合、あなたのターンは終了します。[LF][LF][<color=#ECBA62>{[SetEndTurnAbility]}</color>]を使用する、アクションバーの待機 アイコンを選択する、またはゲームパッドの:B: "
+"を押すなどして、兵士に待機モードへ移行するよう 指示できます。[LF][LF]待機モードを選択してください。[LF]"
 
 msgctxt "Tutorial/KEY_TUTORIAL_TACTICAL1_TURNS_NAME"
 msgid "End Turn"
@@ -3621,12 +3599,11 @@ msgctxt "Tutorial/KEY_TUTORIAL_TACTICAL1_TURNS_DESCRIPTION"
 msgid "You can end your turn at any time by pressing the END TURN button on the screen, the BACKSPACE key, or using gamepad :BACK:. "
 msgstr "画面の\"\"ターン終了\"\"ボタンを押す、BACKSPACEキー を使用する、またはゲームパッドの:BACK:で、 いつでも自ターンを終了することができます。"
 
-#, fuzzy
 #| msgctxt "Tutorial/KEY_TUTORIAL_TACTICAL1_TURNS_DESCRIPTION"
 #| msgid "You can end your turn at any time by pressing the END TURN button on the screen, the BACKSPACE key, or using gamepad :BACK:. "
 msgctxt "Tutorial/KEY_TUTORIAL_TACTICAL1_TURNS_DESCRIPTION_BIND"
 msgid "You can end your turn at any time by pressing the END TURN button on the screen, the [<color=#ECBA62>{[EndTurn]}</color>] key, or using gamepad :BACK:. "
-msgstr "画面の\"\"ターン終了\"\"ボタンを押す、BACKSPACEキー を使用する、またはゲームパッドの:BACK:で、 いつでも自ターンを終了することができます。"
+msgstr "画面の\"\"ターン終了\"\"ボタンを押す、[<color=#ECBA62>{[EndTurn]}</color>]キー を使用する、またはゲームパッドの:BACK:で、 いつでも自ターンを終了することができます。"
 
 msgctxt "Tutorial/KEY_TUTORIAL_TACTICAL1_HEALTH_NAME"
 msgid "Damage and Body Parts"
@@ -3687,7 +3664,6 @@ msgid ""
 msgstr ""
 "インベントリには、兵士が携行している全ての アイテム及び、足元のアイテムや隣接する箱の 中身が表示されます。[LF][LF]重量超過[LF]所持しているアイテムとアーマーの総重量が兵士の ストレングスを上回った場合、その兵士は移動力にペナルティを受けます。[LF][LF]インベントリにアクセスしてください。[LF]インベントリアイコンを押す またはIキー またはゲームパッドの :R3:"
 
-#, fuzzy
 #| msgctxt "Tutorial/KEY_TUTORIAL_TACTICAL2_INVENTORY_DESCRIPTION"
 #| msgid ""
 #| "The Inventory shows everything carried by a soldier, and items on the ground or in adjacent crates.[LF][LF]ENCUMBRANCE[LF]If the weight of all carried items and armor is greater than the soldier's "
@@ -3697,7 +3673,8 @@ msgid ""
 "The Inventory shows everything carried by a soldier, and items on the ground or in adjacent crates.[LF][LF]ENCUMBRANCE[LF]If the weight of all carried items and armor is greater than the soldier's "
 "Strength then the soldier suffers a movement penalty.[LF][LF]ACCESS THE INVENTORY[LF]Press the inventory icon, or the [<color=#ECBA62>{[SetInventoryAbility]}</color>] key, or press gamepad :R3:."
 msgstr ""
-"インベントリには、兵士が携行している全ての アイテム及び、足元のアイテムや隣接する箱の 中身が表示されます。[LF][LF]重量超過[LF]所持しているアイテムとアーマーの総重量が兵士の ストレングスを上回った場合、その兵士は移動力にペナルティを受けます。[LF][LF]インベントリにアクセスしてください。[LF]インベントリアイコンを押す またはIキー またはゲームパッドの :R3:"
+"インベントリには、兵士が携行している全ての アイテム及び、足元のアイテムや隣接する箱の 中身が表示されます。[LF][LF]重量超過[LF]所持しているアイテムとアーマーの総重量が兵士の ストレングスを上回った場合、その兵士は移動力にペナルティを受けます。[LF][LF]インベントリにアクセスしてください。[LF]インベントリアイコンを押す "
+"または[<color=#ECBA62>{[SetInventoryAbility]}</color>]キー またはゲームパッドの :R3:"
 
 msgctxt "Tutorial/KEY_TUTORIAL_TACTICAL2_INVENTORY_DISPLAY_NAME"
 msgid "Inventory Display"
@@ -3756,7 +3733,6 @@ msgid ""
 " icon, or keys 1, 2, 3 or 4[LF]Select next item: X key or gamepad :X:[LF][LF]SELECT THE GRENADE"
 msgstr "インベントリのレディセクションにあるアイテムは、レディアイテムバーに表示されます。これらはAPを 消費せずに選択できます。[LF][LF]レディアイテムバー操作[LF]アイテムを選択する:アイテムバーのアイコン上で :LMB: または1, 2, 3 ,4キー[LF]隣のアイテムを選択: Xキー またはゲームパッドの :X:[LF][LF]グレネードを選択してください。"
 
-#, fuzzy
 #| msgctxt "Tutorial/KEY_TUTORIAL_TACTICAL2_READY_ITEMS_DESCRIPTION"
 #| msgid ""
 #| "Items in the ready section of the inventory are shown in the Ready Items Bar. They can be selected for use without an AP cost.[LF][LF]READY ITEMS BAR CONTROLS[LF]Select item: Use :LMB: on the item's"
@@ -3766,7 +3742,9 @@ msgid ""
 "Items in the ready section of the inventory are shown in the Ready Items Bar. They can be selected for use without an AP cost.[LF][LF]READY ITEMS BAR CONTROLS[LF]Select item: Use :LMB: on the item's"
 " icon, or keys <color=#ECBA62>[{[TacSelectItem1]}], [{[TacSelectItem2]}], [{[TacSelectItem3]}] or [{[TacSelectItem4]}]</color>[LF]Select next item: <color=#ECBA62>[{[CycleWeapons]}]</color> key or "
 "gamepad :X:[LF][LF]SELECT THE GRENADE"
-msgstr "インベントリのレディセクションにあるアイテムは、レディアイテムバーに表示されます。これらはAPを 消費せずに選択できます。[LF][LF]レディアイテムバー操作[LF]アイテムを選択する:アイテムバーのアイコン上で :LMB: または1, 2, 3 ,4キー[LF]隣のアイテムを選択: Xキー またはゲームパッドの :X:[LF][LF]グレネードを選択してください。"
+msgstr ""
+"インベントリのレディセクションにあるアイテムは、レディアイテムバーに表示されます。これらはAPを 消費せずに選択できます。[LF][LF]レディアイテムバー操作[LF]アイテムを選択する:アイテムバーのアイコン上で :LMB: または<color=#ECBA62>[{[TacSelectItem1]}], [{[TacSelectItem2]}], [{[TacSelectItem3]}] "
+"or [{[TacSelectItem4]}]</color>キー[LF]隣のアイテムを選択:<color=#ECBA62>[{[CycleWeapons]}]</color>キー またはゲームパッドの :X:[LF][LF]グレネードを選択してください。"
 
 msgctxt "Tutorial/KEY_TUTORIAL_TACTICAL2_GRENADE_NAME"
 msgid "Grenades"
@@ -3849,7 +3827,6 @@ msgstr ""
 "監視のアビリティは、兵士が敵のターン中にエリア を監視することを可能にします。敵が監視範囲に 入ると、その敵は自動的に攻撃を受けます。[LF][LF]監視操作[LF]監視モードに移行: アクションバーの監視アイコンを選択 またはYキー またはゲームパッドの :Y:[LF]目標位置を選択: マウスを移動 または :LTS:[LF]監視ゾーンの広さを変更: CTRL + :MW: または :LB:"
 " と :RB:[LF]監視を確定する: :LMB: または :A:[LF][LF]兵士を移動させ監視をセットしてください。[LF]接近してくる2体の敵に向けてハイライトされている目標位置上で :LMB: または :A:"
 
-#, fuzzy
 #| msgctxt "Tutorial/KEY_TUTORIAL_TACTICAL2_OVERWATCH_DESCRIPTION"
 #| msgid ""
 #| "The Overwatch ability allows soldiers to guard an area during the enemy’s turn. If an enemy enters the Overwatch cone, it is attacked automatically.[LF][LF]OVERWATCH CONTROLS[LF]Enter Overwatch "
@@ -3862,8 +3839,8 @@ msgid ""
 "of overwatch zone: CTRL + :MW: or use :LB: and :RB:[LF]Confirm Overwatch: :LMB: or :A:[LF][LF]MOVE YOUR SOLDIER AND SET OVERWATCH[LF]:LMB: or :A: on the highlighted target position towards the two "
 "approaching enemies."
 msgstr ""
-"監視のアビリティは、兵士が敵のターン中にエリア を監視することを可能にします。敵が監視範囲に 入ると、その敵は自動的に攻撃を受けます。[LF][LF]監視操作[LF]監視モードに移行: アクションバーの監視アイコンを選択 またはYキー またはゲームパッドの :Y:[LF]目標位置を選択: マウスを移動 または :LTS:[LF]監視ゾーンの広さを変更: CTRL + :MW: または :LB:"
-" と :RB:[LF]監視を確定する: :LMB: または :A:[LF][LF]兵士を移動させ監視をセットしてください。[LF]接近してくる2体の敵に向けてハイライトされている目標位置上で :LMB: または :A:"
+"監視のアビリティは、兵士が敵のターン中にエリア を監視することを可能にします。敵が監視範囲に 入ると、その敵は自動的に攻撃を受けます。[LF][LF]監視操作[LF]監視モードに移行: アクションバーの監視アイコンを選択 または[<color=#ECBA62>{[SetOverwatchAbility]}</color>]キー またはゲームパッドの :Y:[LF]目標位置を選択: マウスを移動"
+" または :LTS:[LF]監視ゾーンの広さを変更: CTRL + :MW: または :LB: と :RB:[LF]監視を確定する: :LMB: または :A:[LF][LF]兵士を移動させ監視をセットしてください。[LF]接近してくる2体の敵に向けてハイライトされている目標位置上で :LMB: または :A:"
 
 msgctxt "Tutorial/KEY_TUTORIAL_TACTICAL2_INFO_NAME"
 msgid "Character Info Panel"
@@ -7148,7 +7125,7 @@ msgstr "セレクトマーカーを上に移動"
 
 msgctxt "Controls/KEY_CONTROLS_TACTICAL_PC_ARROW_LEFT_NAME"
 msgid "LEFT ARROW"
-msgstr "LEFT ARROW"
+msgstr "左矢印"
 
 msgctxt "Controls/KEY_CONTROLS_TACTICAL_PC_ARROW_LEFT_DESCRIPTION"
 msgid "MOVE SELECT MARKER LEFT"
@@ -7318,12 +7295,11 @@ msgctxt "Controls/KEY_CONTROLS_TACTICAL_PC_MOUSE_WHEEL_SCROLL_NAME"
 msgid "MOUSE WHEEL SCROLL"
 msgstr "マウスホイールスクロール"
 
-#, fuzzy
 #| msgctxt "Controls/KEY_CONTROLS_TACTICAL_DPAD_UP"
 #| msgid "FLOOR LEVEL FOCUS UP"
 msgctxt "Controls/KEY_CONTROLS_TACTICAL_PC_MOUSE_WHEEL_SCROLL_DESCRIPTION"
 msgid "MOVE FLOOR LEVEL FOCUS"
-msgstr "フォーカスする床の高さを上げる"
+msgstr "フォーカスする床の高さを移行"
 
 msgctxt "Controls/KEY_CONTROLS_GEOSCAPE_PC_ESC_NAME"
 msgid "ESC"
@@ -7429,34 +7405,31 @@ msgctxt "Controls/KEY_CONTROLS_GEOSCAPE_PC_ARROW_RIGHT_DESCRIPTION"
 msgid "MOVE GLOBE RIGHT"
 msgstr "地球儀を右に動かす"
 
-#, fuzzy
 #| msgctxt "Options Screen/KEY_OPTIONS_SHOW_BINDINGS"
 #| msgid "SHOW BINDINGS"
 msgctxt "Controls/KEY_CONTROLS_BINDINGS_COMMON"
 msgid "COMMON BINDINGS"
-msgstr "割り当てを表示"
+msgstr "一般割り当て"
 
 msgctxt "Controls/KEY_CONTROLS_BINDINGS_TACTICAL"
 msgid "TACTICAL BINDINGS"
 msgstr ""
 
-#, fuzzy
 #| msgctxt "Options Screen/KEY_OPTIONS_KEYBOARD_BINDINGS"
 #| msgid "KEYBOARD BINDINGS"
 msgctxt "Controls/KEY_CONTROLS_BINDINGS_GEOSCAPE"
 msgid "GEOSCAPE BINDINGS"
-msgstr "キーボード割り当て"
+msgstr "ジオスケープ割り当て"
 
 msgctxt "Controls/KEY_CONTROLS_BINDINGS_PRIMARY_KEY"
 msgid "PRIMARY KEY"
 msgstr ""
 
-#, fuzzy
 #| msgctxt "Customization/KEY_CUSTOM_SECONDARY_COLOR"
 #| msgid "SECONDARY COLOR {0}"
 msgctxt "Controls/KEY_CONTROLS_BINDINGS_SECONDARY_KEY"
 msgid "SECONDARY KEY"
-msgstr "第ニカラー {0}"
+msgstr "セカンダリ キー"
 
 #| msgctxt "Options Screen/KEY_OPTIONS_OVERWRITE_NAME"
 #| msgid "OVERWRITE"
@@ -7506,26 +7479,23 @@ msgctxt "Controls/KEY_CONTROLS_BINDINGS_REVERT_TO_DEFAULT"
 msgid "RESET TO DEFAULTS"
 msgstr "デフォルトに戻す"
 
-#, fuzzy
 #| msgctxt "Character Progression/KEY_UPGRADE_CONFIRMATION_NAME"
 #| msgid "Are you sure you want to train your soldeir in this ability?"
 msgctxt "Controls/KEY_CONTROLS_WARNING_REVERT_CONFIRMATION"
 msgid "Are you sure you want to reset your keybindings to their default state?"
-msgstr "兵士にこのアビリティをトレーニングしてよろしいですか?"
+msgstr "本当にキー割り当てをデフォルトに戻しますか？"
 
-#, fuzzy
 #| msgctxt "Controls/KEY_CONTROLS_TACTICAL_PC_MOUSE_LK_NAME"
 #| msgid "LEFT MOUSE BUTTON"
 msgctxt "Controls/KEY_CONTROLS_INPUT_PC_MOUSE_THUMB_FORWARD"
 msgid "MOUSE BUTTON 3"
-msgstr "左マウスボタン"
+msgstr "マウスボタン 3"
 
-#, fuzzy
 #| msgctxt "Controls/KEY_CONTROLS_TACTICAL_PC_MOUSE_LK_NAME"
 #| msgid "LEFT MOUSE BUTTON"
 msgctxt "Controls/KEY_CONTROLS_INPUT_PC_MOUSE_THUMB_BACKWARD"
 msgid "MOUSE BUTTON 4"
-msgstr "左マウスボタン"
+msgstr "マウスボタン 4"
 
 msgctxt "Controls/KEY_CONTROLS_INPUT_PC_A"
 msgid "A"
@@ -7777,12 +7747,11 @@ msgctxt "Controls/KEY_CONTROLS_INPUT_PC_ARROW_RIGHT"
 msgid "→"
 msgstr ""
 
-#, fuzzy
 #| msgctxt "Controls/KEY_CONTROLS_TACTICAL_PC_MOUSE_WHEEL_SCROLL_NAME"
 #| msgid "MOUSE WHEEL SCROLL"
 msgctxt "Controls/KEY_CONTROLS_INPUT_PC_MOUSE_SCROLL"
 msgid "MOUSE SCROLL"
-msgstr "マウスホイールスクロール"
+msgstr "マウス スクロール"
 
 #| msgctxt "Controls/KEY_CONTROLS_GEOSCAPE_PC_PLUS_NAME"
 #| msgid "+"
@@ -7843,37 +7812,33 @@ msgctxt "Controls/KEY_CONTROLS_INPUT_PC_BACKSPACE_SHORT"
 msgid "BCS"
 msgstr ""
 
-#, fuzzy
 #| msgctxt "Controls/KEY_CONTROLS_TACTICAL_PC_ARROW_LEFT_NAME"
 #| msgid "LEFT ARROW"
 msgctxt "Controls/KEY_CONTROLS_INPUT_PC_ALT_LEFT"
 msgid "LEFT ALT"
-msgstr "LEFT ARROW"
+msgstr "左 ALT"
 
-#, fuzzy
 #| msgctxt "Controls/KEY_CONTROLS_TACTICAL_PC_ARROW_RIGHT_NAME"
 #| msgid "RIGHT ARROW"
 msgctxt "Controls/KEY_CONTROLS_INPUT_PC_ALT_RIGHT"
 msgid "RIGHT ALT"
-msgstr "RIGHT ARROW"
+msgstr "右 ALT"
 
-#, fuzzy
 #| msgctxt "Controls/KEY_CONTROLS_INPUT_PC_SHIFT_LEFT"
 #| msgid "LEFT SHIFT + {0}"
 msgctxt "Controls/KEY_CONTROLS_INPUT_PC_CTRL_LEFT"
 msgid "LEFT CTRL + {0}"
-msgstr "左シフト + {0}"
+msgstr "左 CTRL  + {0}"
 
 msgctxt "Controls/KEY_CONTROLS_INPUT_PC_CTRL_LEFT_SHORT"
 msgid "LC+{0}"
 msgstr ""
 
-#, fuzzy
 #| msgctxt "Controls/KEY_CONTROLS_INPUT_PC_SHIFT_RIGHT"
 #| msgid "RIGHT SHIFT + {0}"
 msgctxt "Controls/KEY_CONTROLS_INPUT_PC_CTRL_RIGHT"
 msgid "RIGHT CTRL + {0}"
-msgstr "右シフト + {0}"
+msgstr "右 CTRL + {0}"
 
 msgctxt "Controls/KEY_CONTROLS_INPUT_PC_CTRL_RIGHT_SHORT"
 msgid "RC+{0}"
@@ -7903,12 +7868,11 @@ msgctxt "Controls/KEY_CONTROLS_INPUT_PC_CAPS_LOCK"
 msgid "CAPS LOCK"
 msgstr ""
 
-#, fuzzy
 #| msgctxt "Missions/KEY_MISSION_ENTER_LAIR"
 #| msgid "ENTER LAIR"
 msgctxt "Controls/KEY_CONTROLS_INPUT_PC_ENTER"
 msgid "ENTER"
-msgstr "レアに入る"
+msgstr "ENTER"
 
 msgctxt "Controls/KEY_CONTROLS_INPUT_PC_NUM_ENTER"
 msgid "NUM ENTER"
@@ -7962,12 +7926,11 @@ msgctxt "Controls/KEY_CONTROLS_INPUT_PC_FORWARD_SLASH_SHORT"
 msgid "/"
 msgstr ""
 
-#, fuzzy
 #| msgctxt "Damage types/KEY_DAMAGE_TYPE_SLASH"
 #| msgid "SLASH"
 msgctxt "Controls/KEY_CONTROLS_INPUT_PC_BACKSLASH"
 msgid "BACKSLASH"
-msgstr "切断"
+msgstr "\\"
 
 msgctxt "Controls/KEY_CONTROLS_INPUT_PC_FORWARD_BACKSLASH_SHORT"
 msgid "\\"
@@ -7993,12 +7956,11 @@ msgctxt "Controls/KEY_CONTROLS_ACTION_PREV_ABILITY"
 msgid "SELECT PREVIOUS ABILITY"
 msgstr ""
 
-#, fuzzy
 #| msgctxt "Objectives/KEY_OBJECTIVE_TUTORIAL1_SELECT"
 #| msgid "SELECT UNIT"
 msgctxt "Controls/KEY_CONTROLS_ACTION_NEXT_ABILITY"
 msgid "SELECT NEXT ABILITY"
-msgstr "ユニットを選択"
+msgstr "次のアビリティを選択"
 
 #, fuzzy
 #| msgctxt "Controls/KEY_CONTROLS_TACTICAL_PC_123_DESCRIPTION"
@@ -8007,68 +7969,59 @@ msgctxt "Controls/KEY_CONTROLS_ACTION_SELECT_ITEM_1"
 msgid "SELECT READY ITEM 1"
 msgstr "レディアイテム選択"
 
-#, fuzzy
 #| msgctxt "Controls/KEY_CONTROLS_TACTICAL_PC_123_DESCRIPTION"
 #| msgid "SELECT READY ITEM"
 msgctxt "Controls/KEY_CONTROLS_ACTION_SELECT_ITEM_2"
 msgid "SELECT READY ITEM 2"
-msgstr "レディアイテム選択"
+msgstr "レディアイテム2を選択"
 
-#, fuzzy
 #| msgctxt "Controls/KEY_CONTROLS_TACTICAL_PC_123_DESCRIPTION"
 #| msgid "SELECT READY ITEM"
 msgctxt "Controls/KEY_CONTROLS_ACTION_SELECT_ITEM_3"
 msgid "SELECT READY ITEM 3"
-msgstr "レディアイテム選択"
+msgstr "レディアイテム3を選択"
 
-#, fuzzy
 #| msgctxt "Controls/KEY_CONTROLS_TACTICAL_PC_123_DESCRIPTION"
 #| msgid "SELECT READY ITEM"
 msgctxt "Controls/KEY_CONTROLS_ACTION_SELECT_ITEM_4"
 msgid "SELECT READY ITEM 4"
-msgstr "レディアイテム選択"
+msgstr "レディアイテム4を選択"
 
-#, fuzzy
 #| msgctxt "Controls/KEY_CONTROLS_TACTICAL_X"
 #| msgid "NEXT READY ITEM"
 msgctxt "Controls/KEY_CONTROLS_ACTION_CYCLE_WEAPONS"
 msgid "NEXT READY ITEM"
-msgstr "次のレディアイテム"
+msgstr "次のレディアイテムへ"
 
-#, fuzzy
 #| msgctxt "Controls/KEY_CONTROLS_TACTICAL_RB"
 #| msgid "PREVIOUS SOLDIER [LF]PREVIOUS TARGET"
 msgctxt "Controls/KEY_CONTROLS_ACTION_PREV_CHARACTER"
 msgid "PREVIOUS SOLDIER / VEHICLE / TARGET"
-msgstr "前の兵士へ移行[LF]前のターゲットへ移行"
+msgstr "前の 兵士/乗り物/ターゲット"
 
-#, fuzzy
 #| msgctxt "Controls/KEY_CONTROLS_TACTICAL_PC_TAB_DESCRIPTION"
 #| msgid "NEXT SOLDIER / TARGET"
 msgctxt "Controls/KEY_CONTROLS_ACTION_NEXT_CHARACTER"
 msgid "NEXT SOLDIER /VEHICLE / TARGET"
-msgstr "次の兵士/ターゲットへ"
+msgstr "次の 兵士/乗り物/ターゲット"
 
-#, fuzzy
 #| msgctxt "Objectives/KEY_OBJECTIVE_TUTORIAL1_STANDBY"
 #| msgid "ENTER STANDBY STATE"
 msgctxt "Controls/KEY_CONTROLS_ACTION_ABILITY_END_TURN"
 msgid "ENTER STANDBY MODE"
-msgstr "待機状態に入る"
+msgstr "待機モードに移行"
 
-#, fuzzy
 #| msgctxt "Controls/KEY_CONTROLS_TACTICAL_PC_MOUSE_LK_DESCRIPTION"
 #| msgid "PERFORM ACTION"
 msgctxt "Controls/KEY_CONTROLS_ACTION_CONFIRM"
 msgid "CONFIRM ACTION"
-msgstr "アクションを実行する"
+msgstr "アクションを確定する"
 
-#, fuzzy
 #| msgctxt "Character Progression/KEY_GEOSCAPE_ACQUIRE"
 #| msgid "ACQUIRE ABILITY"
 msgctxt "Controls/KEY_CONTROLS_ACTION_ABILITY_CONFIRM"
 msgid "ACTIVATE ABILITY"
-msgstr "アビリティを取得する"
+msgstr "アビリティを有効にする"
 
 #, fuzzy
 #| msgctxt "Controls/KEY_CONTROLS_TACTICAL_Y"
@@ -8091,12 +8044,11 @@ msgctxt "Controls/KEY_CONTROLS_ACTION_DISCRETE_ZOOM_OUT"
 msgid "ZOOM OUT"
 msgstr "ズームアウト"
 
-#, fuzzy
 #| msgctxt "Abilities/KEY_HIDE_NAME"
 #| msgid "HIDE"
 msgctxt "Controls/KEY_CONTROLS_ACTION_HIDE_UI"
 msgid "HIDE UI"
-msgstr "ハイド"
+msgstr "UIを非表示"
 
 msgctxt "Controls/KEY_CONTROLS_ACTION_MENU_UP"
 msgid "UI ELEMENT DOWN"
@@ -8135,12 +8087,11 @@ msgctxt "Controls/KEY_CONTROLS_ACTION_DESCEND_LEVEL"
 msgid "FLOOR LEVEL FOCUS DOWN"
 msgstr "フォーカスする床の高さを下げる"
 
-#, fuzzy
 #| msgctxt "PH_Localization/KEY_GEOSCAPE_NO_PRODUCTION"
 #| msgid "NO ITEMS AVAILABLE"
 msgctxt "Controls/KEY_CONTROLS_ACTION_SHOW_ITEM_LABELS"
 msgid "SHOW ITEM LABELS"
-msgstr "利用できるアイテムはありません"
+msgstr "アイテムラベルを表示"
 
 #, fuzzy
 #| msgctxt "Controls/KEY_CONTROLS_TACTICAL_PC_F_DESCRIPTION"
@@ -8149,12 +8100,11 @@ msgctxt "Controls/KEY_CONTROLS_ACTION_SHOOT"
 msgid "ENTER SHOOT MODE / SHOOT"
 msgstr "射撃モードに移行/射撃"
 
-#, fuzzy
 #| msgctxt "Missions/KEY_MISSION_ENTER_LAIR"
 #| msgid "ENTER LAIR"
 msgctxt "Controls/KEY_CONTROLS_ACTION_FREE_AIM"
 msgid "ENTER FREE AIM"
-msgstr "レアに入る"
+msgstr "フリーエイムに移行"
 
 #, fuzzy
 #| msgctxt "Controls/KEY_CONTROLS_TACTICAL_PC_I_DESCRIPTION"
@@ -8163,12 +8113,11 @@ msgctxt "Controls/KEY_CONTROLS_ACTION_ABILITY_ENTER_INVENTORY"
 msgid "OPEN INVENTORY"
 msgstr "インベントリを開く"
 
-#, fuzzy
 #| msgctxt "Abilities/KEY_END_TURN"
 #| msgid "END TURN"
 msgctxt "Controls/KEY_CONTROLS_ACTION_END_TURN"
 msgid "END TURN"
-msgstr "ターン終了"
+msgstr "ターンを終了する"
 
 #, fuzzy
 #| msgctxt "Controls/KEY_CONTROLS_GEOSCAPE_PC_SPC_DESCRIPTION"
@@ -8444,12 +8393,11 @@ msgctxt "Mutation Screen/KEY_GEOSCAPE_MUTATE"
 msgid "MUTATE"
 msgstr "変異"
 
-#, fuzzy
 #| msgctxt "Mutation Screen/KEY_GEOSCAPE_MUTATION_SLOTS"
 #| msgid "Mutation Slots Used:"
 msgctxt "Mutation Screen/KEY_GEOSCAPE_MUTATION_SLOTS"
 msgid "Augmentation Slots Used:"
-msgstr "使用変異枠:"
+msgstr "使用オーグメンテーション枠:"
 
 msgctxt "Mutation Screen/KEY_MUTATION_LOCATION_HEAD"
 msgid "HEAD MUTATION"
@@ -15373,12 +15321,11 @@ msgid ""
 "New Jericho. There is a possibility for him to have been involved with the organisation at some point in the past. [CR]"
 msgstr ""
 
-#, fuzzy
 #| msgctxt "Tutorial/KEY_TUTORIAL_GEOSCAPE_NAME"
 #| msgid "The Geoscape"
 msgctxt "Lore/KEY_LORE_TITLE_FORSAKEN"
 msgid "The Forsaken"
-msgstr "ジオスケープ"
+msgstr "The Forsaken"
 
 msgctxt "Lore/KEY_LORE_DESC_FORSAKEN"
 msgid ""
