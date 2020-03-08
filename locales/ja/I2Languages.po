@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2020-03-08 13:57+0000\n"
+"PO-Revision-Date: 2020-03-08 14:21+0000\n"
 "Last-Translator: higema <ltdhyndsh@yahoo.co.jp>\n"
 "Language-Team: \n"
 "Language: ja\n"
@@ -1048,11 +1048,11 @@ msgstr ""
 
 msgctxt "Blood Titanium/KEY_VIRAL_MACHINE_GUN_NAME"
 msgid "VIRAL MACHINE GUN"
-msgstr ""
+msgstr "ウイルスマシンガン"
 
 msgctxt "Blood Titanium/KEY_VIRAL_MACHINE_GUN_DESCRIPTION"
 msgid "VIRAL MACHINE GUN"
-msgstr ""
+msgstr "ウイルスマシンガン"
 
 #| msgctxt "Abilities/KEY_CHIRON_LAUNCH_ACIDWORM_NAME"
 #| msgid "LAUNCH ACIDWORMS"
@@ -1066,11 +1066,11 @@ msgstr "オーガニックグレネードランチャー"
 
 msgctxt "Blood Titanium/KEY_CHIRON_TORSO_ACID_MORTAR_NAME"
 msgid "ACID ABDOMEN"
-msgstr ""
+msgstr "アシッド アブドメン"
 
 msgctxt "Blood Titanium/KEY_CHIRON_TORSO_ACID_MORTAR_DESCRIPTION"
 msgid "ACID ABDOMEN"
-msgstr ""
+msgstr "アシッド アブドメン"
 
 #, fuzzy
 #| msgctxt "Tactical/KEY_DISABLED_CLEAN"
@@ -1094,7 +1094,7 @@ msgstr "バイオニック オーグメンテーション"
 
 msgctxt "Blood Titanium/KEY_BIONIC_AUGMENTATION_DESCRIPTION"
 msgid "Bleed immunity. Viral, Poison, and Paralysis resistance. Vulnerable to Acid."
-msgstr ""
+msgstr "出血無効。ウイルス、毒、麻痺に耐性。酸に弱い。"
 
 #| msgctxt "Equipping Screen/KEY_ITEM_STAT_ACTION_POINTS"
 #| msgid "ACTION POINT COST"
@@ -4393,7 +4393,7 @@ msgstr "(T/G ズームイン/ズームアウト)"
 
 msgctxt "Tactical/KEY_ZOOM_REBIND"
 msgid "([<color=#ECBA62>{[Discrete Zoom In]}</color>]/[<color=#ECBA62>{[Discrete Zoom Out]}</color>] ZOOM IN/ZOOM OUT)"
-msgstr ""
+msgstr "([<color=#ECBA62>{[Discrete Zoom In]}</color>]/[<color=#ECBA62>{[Discrete Zoom Out]}</color>] ズーム イン/ズーム アウト)"
 
 msgctxt "Tactical/KEY_RETURN_FIRE"
 msgid "RETURN FIRE"
@@ -4569,7 +4569,7 @@ msgstr "TABでターゲット切り替え"
 
 msgctxt "Tactical/KEY_FREE_AIM_TAB_TO_SWITCH_REBIND"
 msgid "[<color=#ECBA62>{[NextCharacter]}</color>] to switch target"
-msgstr ""
+msgstr "[<color=#ECBA62>{[NextCharacter]}</color>]にターゲットを切り替え"
 
 msgctxt "Customization/KEY_CUSTOM_CUSTOMIZE"
 msgid "CUSTOMIZE"
@@ -11016,7 +11016,7 @@ msgstr "ヘイヴンの戦闘は放棄された"
 
 msgctxt "Missions/KEY_MISSION_HAVEN_ATTACK1_VICTORY_DESCRIPTION"
 msgid "You have successfully defeated all hostile forces. The leader of the haven is grateful for your help."
-msgstr ""
+msgstr "全ての敵対勢力を倒すことに成功した。 ヘイヴンのリーダーは助力に感謝している。"
 
 msgctxt "Missions/KEY_MISSION_HAVEN_ATTACK1_VICTORY_NAME"
 msgid "HAVEN SAVED"
@@ -11140,11 +11140,11 @@ msgstr "フェニックス基地が攻撃を受けている"
 
 msgctxt "Missions/KEY_MISSION_PX_BASE_DEFENDED_DESCRIPTION"
 msgid "Our forces successfully repelled the invaders. The base has been saved for now."
-msgstr ""
+msgstr "私達の部隊は侵略部隊を撃退した。基地はとりあえずのところ保たれている。"
 
 msgctxt "Missions/KEY_MISSION_PX_BASE_DEFENDED_TITLE"
 msgid "PHOENIX BASE DEFENDED"
-msgstr ""
+msgstr "フェニックス基地は守られた"
 
 msgctxt "Missions/KEY_MISSION_PX_BASE_DESTROYED_DESCRIPTION"
 msgid "Our forces were ovverun by invaders. We have no choice but abandon the base."
@@ -11152,7 +11152,7 @@ msgstr ""
 
 msgctxt "Missions/KEY_MISSION_PX_BASE_DESTROYED_TITLE"
 msgid "PHOENIX BASE DESTROYED"
-msgstr ""
+msgstr "フェニックス基地が破壊された"
 
 msgctxt "Missions/KEY_MISSION_PX_BASE_WARNING_DESCRIPTION"
 msgid "Base {0} is under attack by {1} forces. Eliminate the threat, protecting the base's crucial structures. Losing will result in the loss of this base."
