@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2020-03-09 12:29+0000\n"
+"PO-Revision-Date: 2020-03-09 14:56+0000\n"
 "Last-Translator: higema <ltdhyndsh@yahoo.co.jp>\n"
 "Language-Team: \n"
 "Language: ja\n"
@@ -381,39 +381,39 @@ msgstr "バイオニック"
 
 msgctxt "Blood Titanium/KEY_NJ_EXO_BIO_HELMET_NAME2"
 msgid "Disruptor Head"
-msgstr ""
+msgstr "ディスラプター ヘッド"
 
 msgctxt "Blood Titanium/KEY_NJ_EXO_BIO_LEGS_NAME2"
 msgid "Propeller Legs"
-msgstr ""
+msgstr "プロペラ レッグ"
 
 msgctxt "Blood Titanium/KEY_NJ_EXO_BIO_TORSO_NAME2"
 msgid "Neural Torso"
-msgstr ""
+msgstr "ニューラル トルソー"
 
 msgctxt "Blood Titanium/KEY_SY_SHINOBI_BIO_HELMET_NAME2"
 msgid "Echo Head"
-msgstr ""
+msgstr "エコー ヘッド"
 
 msgctxt "Blood Titanium/KEY_SY_SHINOBI_BIO_LEGS_NAME2"
 msgid "Mirage Legs"
-msgstr ""
+msgstr "ミラージュ レッグ"
 
 msgctxt "Blood Titanium/KEY_SY_SHINOBI_BIO_TORSO_NAME2"
 msgid "Vengeance Torso"
-msgstr ""
+msgstr "ベンジェンス トルソ―"
 
 msgctxt "Blood Titanium/KEY_NJ_JUGG_BIO_HELMET_NAME2"
 msgid "Clarity Head"
-msgstr ""
+msgstr "クラリティ ヘッド"
 
 msgctxt "Blood Titanium/KEY_NJ_JUGG_BIO_LEGS_NAME2"
 msgid "Armadillo Legs"
-msgstr ""
+msgstr "アルマジロ レッグ"
 
 msgctxt "Blood Titanium/KEY_NJ_JUGG_BIO_TORSO_NAME2"
 msgid "Juggernaut Torso"
-msgstr ""
+msgstr "ジャガーノート トルソー"
 
 msgctxt "Blood Titanium/KEY_NJ_EXO_BIO_HELMET_DESCRIPTION"
 msgid "New Jericho Will Disruption Head Augmentation"
@@ -491,7 +491,7 @@ msgstr ""
 
 msgctxt "Blood Titanium/KEY_BASE_FACILITY_BIONICSLAB_NAME"
 msgid "CYBERNETICS LAB"
-msgstr ""
+msgstr "サイバネティクス・ラボ"
 
 #| msgctxt "Base Screen/KEY_BASE_WARNING_MUTATION_LAB"
 #| msgid "Destroying the Mutation Lab will decrease the amount of Mutagens you produce per day. At least one Mutation Lab is required to enhance your soldiers. Are you sure you want to proceed?"
@@ -502,7 +502,7 @@ msgstr "サイバネティックラボを破壊すると、1日あたりで生�
 
 msgctxt "Blood Titanium/KEY_BASE_FACILITY_BIONICSLAB_DESCRIPTION"
 msgid "Allows soldiers to be augmented with bionic body parts, and produces research."
-msgstr ""
+msgstr "兵士をバイオニックボディパーツで強化することを可能にする。 また同時に研究も行う。"
 
 #| msgctxt "Abilities/KEY_MIND_CONTROL_NAME"
 #| msgid "MIND CONTROL"
@@ -516,7 +516,7 @@ msgstr "マインドコントロールを無効にする。"
 
 msgctxt "Blood Titanium/KEY_STATUS_SILENCED"
 msgid "DISORIENTED"
-msgstr ""
+msgstr "見当 識 障害"
 
 #| msgctxt "Tactical/KEY_MESSAGE_NO_MORE_USES_THIS_TURN"
 #| msgid "Cannot be used again this turn"
@@ -532,7 +532,7 @@ msgstr "ニューラル ディスラプション"
 
 msgctxt "Blood Titanium/KEY_NEURAL_DISRUPTION_DESCRIPTION"
 msgid "Disrupt target for 1 turn, causing it to become DISORIENTED and unable to use Will Point abilities."
-msgstr ""
+msgstr "ターゲットを妨害し、1ターンの間見当識障害にさせて ウィルポイントを消費するタイプのアビリティを 使用不能にする。"
 
 #| msgctxt "Abilities/KEY_SCYLLA_LEAP_NAME"
 #| msgid "MONSTER LEAP"
@@ -558,19 +558,19 @@ msgstr "敵の監視状態をアクティブにしません。"
 
 msgctxt "Blood Titanium/KEY_SAFE_LANDING_NAME"
 msgid "LANDING SHOCK ABSORPTION"
-msgstr ""
+msgstr "着地衝撃吸収"
 
 msgctxt "Blood Titanium/KEY_SAFE_LANDING_DESCRIPTION"
 msgid "No damage is suffered when landing from any height."
-msgstr ""
+msgstr "どんな高さから着地してもダメージを受けない。"
 
 msgctxt "Blood Titanium/KEY_MARTIAL_ARTIST_NAME"
 msgid "COMBAT MATRIX"
-msgstr ""
+msgstr "コンバット マトリックス"
 
 msgctxt "Blood Titanium/KEY_MARTIAL_ARTIST_DESCRIPTION"
 msgid "Melee attacks cost 1 AP less (to a minimum of 1 AP)."
-msgstr ""
+msgstr "近接攻撃のAPコストが1減少する(最低1APまで)。"
 
 #, fuzzy
 #| msgctxt "Abilities/KEY_MELEE_WEAPONS_TALENT_NAME"
@@ -587,11 +587,11 @@ msgstr "近接武器の技能"
 
 msgctxt "Blood Titanium/KEY_FACTION_NAME_PURE"
 msgid "THE PURE"
-msgstr ""
+msgstr "ザ・ピュア"
 
 msgctxt "Blood Titanium/KEY_FACTION_NAME_FALLEN"
 msgid "THE FORSAKEN"
-msgstr ""
+msgstr "ザ・フォセイクン"
 
 msgctxt "Blood Titanium/KEY_GEAR_UP"
 msgid "GEAR UP"
@@ -634,15 +634,15 @@ msgstr "修理"
 
 msgctxt "Blood Titanium/KEY_SLOT_UNAVAILABLE_MUTATION"
 msgid "Enhancement impossible due to existing mutation."
-msgstr ""
+msgstr "既存の変異により強化は不可能です。"
 
 msgctxt "Blood Titanium/KEY_SLOT_UNAVAILABLE_BIONIC"
 msgid "Enhancement impossible due to existing augmentation."
-msgstr ""
+msgstr "既存のオーグメンテーションにより強化は不可能です。"
 
 msgctxt "Blood Titanium/KEY_AUMGENTATION_LIMIT"
 msgid "Safety limit reached. No further mutations or augmentations allowed."
-msgstr ""
+msgstr "安全限界に達しました。 これ以上の変異やオーグメントは許容できません。"
 
 #| msgctxt "Phoenixpedia/KEY_PHOENIXPEDIA_SECTION_EQUIPMENT"
 #| msgid "EQUIPMENT"
@@ -939,11 +939,11 @@ msgstr ""
 
 msgctxt "Blood Titanium/KEY_PU_THREE_SCENE2-4"
 msgid "They are not prepared for total conversion - abandoning flesh to embrace the machine."
-msgstr ""
+msgstr "彼らは肉体を捨て機械を受け入れる最終準備ができていません。"
 
 msgctxt "Blood Titanium/KEY_PU_THREE_SCENE3-1"
 msgid "You have twenty-four hours to remove your conspirators from the research area."
-msgstr ""
+msgstr "調査地域から共謀者を連れ去るには24時間かかります。"
 
 msgctxt "Blood Titanium/KEY_PU_THREE_SCENE3-2"
 msgid "When we attack, all will be gunned down. GUNNED DOWN!"
@@ -985,7 +985,7 @@ msgstr ""
 
 msgctxt "Blood Titanium/KEY_PU_FOUR_SCENE1-3"
 msgid "Ashes to ashes. Nothing but a myth."
-msgstr ""
+msgstr "灰から灰へ。神話以外の何ものでもない。"
 
 msgctxt "Blood Titanium/KEY_PU_FOUR_SCENE1-4"
 msgid "You have struggled with stupidity at every turn, suffered betrayals - BETRAYALS -"
@@ -1037,7 +1037,7 @@ msgstr ""
 
 msgctxt "Blood Titanium/KEY_PU_FOUR_SCENE3-5"
 msgid "If the Phoenix Project thinks it has the strength to stop us, that’s your foolish fantasy."
-msgstr ""
+msgstr "もしフェニックスプロジェクトが私たちを止める力があると考えているなら、それは愚かな幻想です。"
 
 msgctxt "Blood Titanium/KEY_PU_FOUR_SCENE3-6"
 msgid "You know where we are. Come if you dare. "
@@ -7447,12 +7447,11 @@ msgctxt "Controls/KEY_CONTROLS_WARNING_CONFLICT_LOCKED"
 msgid "[<color=#ECBA62>{0}</color>] key is already reserved for \"\"{1}\"\"! and is unavailable for this one!"
 msgstr "[<color=#ECBA62>{0}</color>]キーは既に\"\"{1}\"\"に割り当てられています!この機能には使用できません!"
 
-#, fuzzy
 #| msgctxt "Manufacture Screen/KEY_MANUFACTURE_SCRAP_CONFIRMATION"
 #| msgid "Are you sure you want to scrap all items on the list?"
 msgctxt "Controls/KEY_CONTROLS_WARNING_CONFLICT_CONFIRMATION"
 msgid "Are you sure you want to reassign it for \"\"{0}\"\"?"
-msgstr "リストの全アイテムを本当に解体してもよろしいですか？"
+msgstr "\"\"{0}\"\"に本当に再配置してもよろしいですか？"
 
 msgctxt "Controls/KEY_CONTROLS_WARNING_CONFLICT_LIST"
 msgid "{0}, {1}"
@@ -7956,12 +7955,11 @@ msgctxt "Controls/KEY_CONTROLS_ACTION_NEXT_ABILITY"
 msgid "SELECT NEXT ABILITY"
 msgstr "次のアビリティを選択"
 
-#, fuzzy
 #| msgctxt "Controls/KEY_CONTROLS_TACTICAL_PC_123_DESCRIPTION"
 #| msgid "SELECT READY ITEM"
 msgctxt "Controls/KEY_CONTROLS_ACTION_SELECT_ITEM_1"
 msgid "SELECT READY ITEM 1"
-msgstr "レディアイテム選択"
+msgstr "レディアイテム 1 を選択"
 
 #| msgctxt "Controls/KEY_CONTROLS_TACTICAL_PC_123_DESCRIPTION"
 #| msgid "SELECT READY ITEM"
@@ -9774,7 +9772,7 @@ msgstr "オンラインポリシー、契約および規約"
 msgctxt "Opening Screen/KEY_BSNAPSHOT_GAMES_INC_TOS_DESC"
 msgid ""
 "Your use of this software is subject to the following policies, agreements and terms, including transfer of your data to countries that may have different levels of privacy protection than your own."
-msgstr ""
+msgstr "お客様による本ソフトウェアの使用には、お客様のプライバシー保護レベルが異なる国へのデータの転送を含む、以下のポリシー、契約、条件が適用されます。"
 
 msgctxt "Opening Screen/KEY_BSNAPSHOT_GAMES_INC_TOS_BUTTON"
 msgid "Read TERMS OF SERVICE"
@@ -11142,7 +11140,7 @@ msgstr "フェニックス基地は守られた"
 
 msgctxt "Missions/KEY_MISSION_PX_BASE_DESTROYED_DESCRIPTION"
 msgid "Our forces were ovverun by invaders. We have no choice but abandon the base."
-msgstr ""
+msgstr "私達の部隊は侵略者達によって蹂躙された。 基地は放棄するしかない。"
 
 msgctxt "Missions/KEY_MISSION_PX_BASE_DESTROYED_TITLE"
 msgid "PHOENIX BASE DESTROYED"
@@ -11170,7 +11168,7 @@ msgstr "兵士が雇用可能"
 
 msgctxt "Missions/KEY_MISSION_RESIDENT_MUTATIONS"
 msgid "RESIDENT MUTATIONS"
-msgstr ""
+msgstr "住民の変異"
 
 msgctxt "Missions/#Kill the Scylla USE OBJECTIVE STRING"
 msgid "PANDORAN BASES REVEALED"
@@ -11242,7 +11240,7 @@ msgstr "工場の破壊工作失敗"
 
 msgctxt "Missions/KEY_MISSION_SABOTAGE_FACTORY_VICTORY_DESC"
 msgid "Repair and construction capability is drastically reduced in this haven, and reduced within the haven's influence range, until the factory zone is repaired."
-msgstr ""
+msgstr "工場区画が修復されるまで、このヘイヴンとその影響範囲内での 修復および建造能力は大幅に縮小する。"
 
 msgctxt "Missions/KEY_MISSION_SABOTAGE_FACTORY_VICTORY_NAME"
 msgid "FACTORY SABOTAGED"
@@ -11250,223 +11248,223 @@ msgstr "工場は破壊工作された"
 
 msgctxt "Missions/KEY_MISSION_SABOTAGE_FOOD_BRIEFING_DESC"
 msgid "Destroy all key structures."
-msgstr ""
+msgstr "全ての重要構造物を破壊する。"
 
 msgctxt "Missions/KEY_MISSION_SABOTAGE_FOOD_BRIEFING_NAME"
 msgid "SABOTAGE FOOD PRODUCTION"
-msgstr ""
+msgstr "食品生産の破壊工作"
 
 msgctxt "Missions/KEY_MISSION_SABOTAGE_FOOD_DEFEAT_DESC"
 msgid "Food production continues unabated, and the population celebrate with a great feast."
-msgstr ""
+msgstr "食糧生産は衰えることなく続き、 住民達は素晴らしいごちそうで祝っている。"
 
 msgctxt "Missions/KEY_MISSION_SABOTAGE_FOOD_DEFEAT_NAME"
 msgid "SABOTAGE FOOD FAILURE"
-msgstr ""
+msgstr "食料生産の破壊工作失敗"
 
 msgctxt "Missions/KEY_MISSION_SABOTAGE_FOOD_VICTORY_DESC"
 msgid "Food production is dramatically reduced within this haven, and somewhat reduced within its influence range, until production facilities are repaired."
-msgstr ""
+msgstr "食料生産施設が修復されるまで、このヘイヴンと その影響範囲内での食料生産は大幅に縮小する。"
 
 msgctxt "Missions/KEY_MISSION_SABOTAGE_FOOD_VICTORY_NAME"
 msgid "FOOD PRODUCTION SABOTAGED"
-msgstr ""
+msgstr "食糧生産施設は破壊工作された"
 
 msgctxt "Missions/KEY_MISSION_SABOTAGE_MISSIONARY_BRIEFING_DESC"
 msgid "Destroy all key structures."
-msgstr ""
+msgstr "全ての重要構造物を破壊する。"
 
 msgctxt "Missions/KEY_MISSION_SABOTAGE_MISSIONARY_BRIEFING_NAME"
 msgid "SABOTAGE MISSIONARY CENTER"
-msgstr ""
+msgstr "伝道センターを破壊工作する"
 
 msgctxt "Missions/KEY_MISSION_SABOTAGE_MISSIONARY_DEFEAT_DESC"
 msgid "The missionary center will continue to swell the ranks of Anu acolytes from populations within its influence range."
-msgstr ""
+msgstr "伝道センターは、その影響範囲内にある人々から アヌ・アコライト階級の者達を増やし続けている。"
 
 msgctxt "Missions/KEY_MISSION_SABOTAGE_MISSIONARY_DEFEAT_NAME"
 msgid "SABOTAGE MISSIONARY CENTER FAILURE"
-msgstr ""
+msgstr "伝道センターの破壊工作は失敗した"
 
 msgctxt "Missions/KEY_MISSION_SABOTAGE_MISSIONARY_VICTORY_DESC"
 msgid "The missionary center will no longer absorb nearby population or extend the havne's influence zone until it is repaired."
-msgstr ""
+msgstr "修復されるまでの間、伝道センターは近隣の人々を吸収したり ヘイヴンの影響範囲を拡張することができない。"
 
 msgctxt "Missions/KEY_MISSION_SABOTAGE_MISSIONARY_VICTORY_NAME"
 msgid "MISSIONARY CENTER SABOTAGED"
-msgstr ""
+msgstr "伝道センターは破壊工作された"
 
 msgctxt "Missions/KEY_MISSION_SABOTAGE_REPELLER_BRIEFING_DESC"
 msgid "Destroy all key structures."
-msgstr ""
+msgstr "全ての重要構造物を破壊する。"
 
 msgctxt "Missions/KEY_MISSION_SABOTAGE_REPELLER_BRIEFING_NAME"
 msgid "SABOTAGE MIST REPELLER"
-msgstr ""
+msgstr "ミスト・リペラーを破壊工作する"
 
 msgctxt "Missions/KEY_MISSION_SABOTAGE_REPELLER_DEFEAT_DESC"
 msgid "Repulsion of Pandoran mist will continue undisturbed."
-msgstr ""
+msgstr "パンドランミストの押し返しは邪魔されることなく続くだろう。"
 
 msgctxt "Missions/KEY_MISSION_SABOTAGE_REPELLER_DEFEAT_NAME"
 msgid "SABOTAGE REPELLER FAILURE"
-msgstr ""
+msgstr "ミスト・リペラーの破壊工作失敗"
 
 msgctxt "Missions/KEY_MISSION_SABOTAGE_REPELLER_VICTORY_DESC"
 msgid "Pandoran mist will no longer be repelled from this haven until it is repaired."
-msgstr ""
+msgstr "ミスト・リペラーが修復されるまで、このヘイヴンから パンドランミストが押し返されることはない。"
 
 msgctxt "Missions/KEY_MISSION_SABOTAGE_REPELLER_VICTORY_NAME"
 msgid "MIST REPELLER SABOTAGED"
-msgstr ""
+msgstr "ミスト・リペラーは破壊工作された"
 
 msgctxt "Missions/KEY_MISSION_SABOTAGE_RESEARCH_BRIEFING_DESC"
 msgid "Destroy all key structures."
-msgstr ""
+msgstr "全ての重要構造物を破壊する。"
 
 msgctxt "Missions/KEY_MISSION_SABOTAGE_RESEARCH_BRIEFING_NAME"
 msgid "SABOTAGE RESEARCH CENTER"
-msgstr ""
+msgstr "リサーチセンターを破壊工作する"
 
 msgctxt "Missions/KEY_MISSION_SABOTAGE_RESEARCH_DEFEAT_DESC"
 msgid "This haven continues to contribute research effort to the faction's strategic objectives."
-msgstr ""
+msgstr "このヘイヴンは、派閥の戦略的目標に向けての 研究努力に貢献し続けている。"
 
 msgctxt "Missions/KEY_MISSION_SABOTAGE_RESEARCH_DEFEAT_NAME"
 msgid "SABOTAGE RESEARCH FAILURE"
-msgstr ""
+msgstr "リサーチセンターの破壊工作失敗"
 
 msgctxt "Missions/KEY_MISSION_SABOTAGE_RESEARCH_VICTORY_DESC"
 msgid "The research center will not contribute to faction research capability until it is repaired."
-msgstr ""
+msgstr "修理されるまでの間、このリサーチセンターは 派閥の研究能力に貢献しない。"
 
 msgctxt "Missions/KEY_MISSION_SABOTAGE_RESEARCH_VICTORY_NAME"
 msgid "RESEARCH CENTER SABOTAGED"
-msgstr ""
+msgstr "リサーチセンターは破壊工作された"
 
 msgctxt "Missions/KEY_MISSION_SABOTAGE_TRAINING_BRIEFING_DESC"
 msgid "Destroy all key structures."
-msgstr ""
+msgstr "全ての重要構造物を破壊する。"
 
 msgctxt "Missions/KEY_MISSION_SABOTAGE_TRAINING_BRIEFING_NAME"
 msgid "SABOTAGE TRAINING CENTER"
-msgstr ""
+msgstr "トレーニングセンターを破壊工作する"
 
 msgctxt "Missions/KEY_MISSION_SABOTAGE_TRAINING_DEFEAT_DESC"
 msgid "The training center remains ready and willing to defend the haven at all costs."
-msgstr ""
+msgstr "トレーニングセンターは引き続き、 いかなる犠牲を払ってでも  ヘイヴンを防衛する用意と意思を備えている。"
 
 msgctxt "Missions/KEY_MISSION_SABOTAGE_TRAINING_DEFEAT_NAME"
 msgid "SABOTAGE TRAINING FAILURE"
-msgstr ""
+msgstr "トレーニングの破壊工作失敗"
 
 msgctxt "Missions/KEY_MISSION_SABOTAGE_TRAINING_VICTORY_DESC"
 msgid "The training center no longer contributes military force within the haven and its influence zone, until it is repaired."
-msgstr ""
+msgstr "修理されるまでの間、このトレーニングセンターは ヘイヴン及びその影響範囲内の軍事力に貢献しない。"
 
 msgctxt "Missions/KEY_MISSION_SABOTAGE_TRAINING_VICTORY_NAME"
 msgid "TRAINING CENTER SABOTAGED"
-msgstr ""
+msgstr "トレーニングセンターは破壊工作された"
 
 msgctxt "Missions/KEY_MISSION_SABOTAGE_UPLINK_BRIEFING_DESC"
 msgid "Destroy all key structures."
-msgstr ""
+msgstr "全ての重要構造物を破壊する。"
 
 msgctxt "Missions/KEY_MISSION_SABOTAGE_UPLINK_BRIEFING_NAME"
 msgid "SABOTAGE SATELLITE UPLINK"
-msgstr ""
+msgstr "衛星アップリンクを破壊工作する"
 
 msgctxt "Missions/KEY_MISSION_SABOTAGE_UPLINK_DEFEAT_DESC"
 msgid "The uplink continues to scan a wide area, increasing the haven's influence range and detecting Pandoran activity."
-msgstr ""
+msgstr "衛生アップリンクはヘイヴンの影響範囲を増大させ パンドランの活動を検出しながら、広域なエリアの スキャンを続けている。"
 
 msgctxt "Missions/KEY_MISSION_SABOTAGE_UPLINK_DEFEAT_NAME"
 msgid "SABOTAGE UPLINK FAILURE"
-msgstr ""
+msgstr "衛生アップリンクの破壊工作失敗"
 
 msgctxt "Missions/KEY_MISSION_SABOTAGE_UPLINK_VICTORY_DESC"
 msgid "The uplink will cease to function until repaired, removing ability to detect Pandoran activity and reducing the haven's influence range."
-msgstr ""
+msgstr "衛生アップリンクは修理のあいだ機能を停止し、 パンドランの活動を検出する能力を失って ヘイヴンの影響範囲を縮小させる。"
 
 msgctxt "Missions/KEY_MISSION_SABOTAGE_UPLINK_VICTORY_NAME"
 msgid "SATELLITE UPLINK SABOTAGED"
-msgstr ""
+msgstr "衛星アップリンクは破壊工作された"
 
 msgctxt "Missions/KEY_MISSION_SCAVENGING_SITE"
 msgid "SCAVENGING SITE"
-msgstr ""
+msgstr "スカベンジ地点"
 
 msgctxt "Missions/KEY_MISSION_SCAVENGING_SITE_ITEMS_RECOVERED"
 msgid "ITEMS RECOVERED FROM ALL REMAINING CRATES"
-msgstr ""
+msgstr "残存する全ての箱から回収されたアイテム"
 
 msgctxt "Missions/KEY_MISSION_SITE_ENCOUNTER_FACTION_DIPLOMACY_CHANGE"
 msgid "{0}’s attitude to {1}: {2}"
-msgstr ""
+msgstr "{0} の {1} に対する態度: {2}"
 
 msgctxt "Missions/KEY_MISSION_SITE_ENCOUNTER_LEADER_DIPLOMACY_CHANGE"
 msgid "Haven leader’s attitude to {0}: {1}"
-msgstr ""
+msgstr "ヘイヴンリーダーの {0} に対する態度： {1}"
 
 msgctxt "Missions/KEY_MISSION_SITE_ENCOUNTER_TYPE"
 msgid "{0} #HAVEN"
-msgstr ""
+msgstr "{0} #ヘイヴン"
 
 msgctxt "Missions/KEY_MISSION_SITE_TYPE"
 msgid "SITE TYPE"
-msgstr ""
+msgstr "地点タイプ"
 
 msgctxt "Missions/KEY_MISSION_SOLDIERS_AMOUNT"
 msgid "Soldiers: {CharactersCount}"
-msgstr ""
+msgstr "兵士数: {CharactersCount}"
 
 msgctxt "Missions/KEY_MISSION_STEAL_AIRCRAFT_BRIEFING_DESC"
 msgid "Reach the aircraft to activate it and evacuate your squad."
-msgstr ""
+msgstr "航空機にたどり着いて起動し、部隊を退避させる。"
 
 msgctxt "Missions/KEY_MISSION_STEAL_AIRCRAFT_BRIEFING_NAME"
 msgid "CAPTURE AIRCRAFT"
-msgstr ""
+msgstr "航空機を鹵獲する"
 
 msgctxt "Missions/KEY_MISSION_STEAL_AIRCRAFT_DEFEAT_DESC"
 msgid "We failed to capture the aircraft."
-msgstr ""
+msgstr "航空機の鹵獲に失敗した"
 
 msgctxt "Missions/KEY_MISSION_STEAL_AIRCRAFT_DEFEAT_NAME"
 msgid "FAILED TO CAPTURE AIRCRAFT"
-msgstr ""
+msgstr "航空機の鹵獲に失敗した"
 
 msgctxt "Missions/KEY_MISSION_STEAL_AIRCRAFT_VICTORY_DESC"
 msgid "Aircraft has been successfully captured."
-msgstr ""
+msgstr "航空機の鹵獲に成功した。"
 
 msgctxt "Missions/KEY_MISSION_STEAL_AIRCRAFT_VICTORY_NAME"
 msgid "AIRCRAFT CAPTURED"
-msgstr ""
+msgstr "航空機を鹵獲した"
 
 msgctxt "Missions/KEY_MISSION_STEAL_FOOD_BRIEFING_DESC"
 msgid "Eliminate enemy forces and prevent damage to food crates to capture them."
-msgstr ""
+msgstr "敵部隊を排除し、鹵獲対象である 食料箱へのダメージを阻止する。"
 
 msgctxt "Missions/KEY_MISSION_STEAL_FOOD_BRIEFING_NAME"
 msgid "RAID FOOD"
-msgstr ""
+msgstr "食料強奪"
 
 msgctxt "Missions/KEY_MISSION_STEAL_FOOD_DEFEAT_DESC"
 msgid "No food crates survived the battle."
-msgstr ""
+msgstr "戦いで残存できた食料箱がない。"
 
 msgctxt "Missions/KEY_MISSION_STEAL_FOOD_DEFEAT_NAME"
 msgid "FOOD RAID FAILURE"
-msgstr ""
+msgstr "食料強奪失敗"
 
 msgctxt "Missions/KEY_MISSION_STEAL_FOOD_VICTORY_DESC"
 msgid "All surviving food crates have been recovered, and added to our resources."
-msgstr ""
+msgstr "残存した全ての食料箱は回収され、 私達の資源に加えられた。"
 
 msgctxt "Missions/KEY_MISSION_STEAL_FOOD_VICTORY_NAME"
 msgid "FOOD SECURED"
-msgstr ""
+msgstr "食料確保"
 
 msgctxt "Missions/KEY_MISSION_STEAL_MATERIALS_BRIEFING_DESC"
 msgid "Eliminate enemy forces and prevent damage to material crates to capture them."
@@ -11574,11 +11572,11 @@ msgstr ""
 
 msgctxt "Missions/KEY_MISSION_SUMMARY_STATUS_INJURED"
 msgid "INJURED"
-msgstr ""
+msgstr "負傷"
 
 msgctxt "Missions/KEY_MISSION_SUMMARY_STATUS_KILLED"
 msgid "K.I.A."
-msgstr ""
+msgstr "戦死"
 
 msgctxt "Missions/KEY_MISSION_SUMMARY_STATUS_LEVEL_UP"
 msgid "LEVEL UP"
@@ -11610,7 +11608,7 @@ msgstr ""
 
 msgctxt "Missions/KEY_MISSION_UNEXPLORED"
 msgid "UNEXPLORED SITE"
-msgstr ""
+msgstr "未検索地点"
 
 msgctxt "Missions/KEY_MISSION_THREAT_LEVEL"
 msgid "THREAT LEVEL"
@@ -11742,15 +11740,15 @@ msgstr "パンドラン"
 
 msgctxt "Missions/KEY_MISSION_DISCIPLES_OF_ANU"
 msgid "DISCIPLES OF ANU"
-msgstr ""
+msgstr "ディサイプルズ・オブ・アヌ"
 
 msgctxt "Missions/KEY_MISSION_NEW_JERICHO"
 msgid "NEW JERICHO"
-msgstr ""
+msgstr "ニュージェリコ"
 
 msgctxt "Missions/KEY_MISSION_SYNEDRION"
 msgid "SYNEDRION"
-msgstr ""
+msgstr "シネドリオン"
 
 msgctxt "Missions/KEY_MISSION_BEENAMBUSHED"
 msgid "YOU'VE BEEN AMBUSHED!"
@@ -12194,11 +12192,11 @@ msgstr ""
 
 msgctxt "Characters and classes/KEY_SCARAB_DESCRIPTION"
 msgid "Phoenix Armored Fighting Vehicle"
-msgstr ""
+msgstr "フェニックス武装戦闘車両"
 
 msgctxt "Characters and classes/KEY_SCARAB_NAME"
 msgid "PX SCARAB"
-msgstr ""
+msgstr "PXスカラベ"
 
 msgctxt "Characters and classes/KEY_PX_SENTRY_TURRET_DESCRIPTION"
 msgid "Phoenix Base Sentry Turret"
@@ -12290,7 +12288,7 @@ msgstr ""
 
 msgctxt "Characters and classes/KEY_ASPIDA_DESCRIPTION"
 msgid "Synedrion Ground Support Vehicle"
-msgstr ""
+msgstr "シネドリオン地上支援車両"
 
 msgctxt "Characters and classes/KEY_ASPIDA_NAME"
 msgid "ASPIDA"
@@ -12536,7 +12534,7 @@ msgstr ""
 
 msgctxt "Loading Tips/KEY_TACTICAL_LOADING_TIP_13"
 msgid "Medkits will restore your Hit Points, but will not repair any limb damage. Once you leave a mission, limbs are repaired but the soldier is still injured."
-msgstr ""
+msgstr "Medkitsはヒットポイントを回復しますが、四肢の損傷は修復しません。ミッション終了時に手足は修復されますが、兵士はまだ負傷しています。"
 
 msgctxt "Loading Tips/KEY_TACTICAL_LOADING_TIP_14"
 msgid "If your soldier does not have the right class to use a weapon proficiently, accuracy will be lower. In case of melee weapons there's a chance to fumble the attack as well."
@@ -13574,7 +13572,7 @@ msgstr ""
 
 msgctxt "Equipment/KEY_MEDKIT_DESCRIPTION"
 msgid "Restores {GeneralHealAmount} Hit Points and removes bleeding and poison"
-msgstr ""
+msgstr "ヒットポイント {GeneralHealAmount} を回復し、出血と毒を取り除きます"
 
 msgctxt "Equipment/KEY_MEDKIT_NAME"
 msgid "Medkit"
@@ -14406,11 +14404,11 @@ msgstr ""
 
 msgctxt "Equipment/KEY_VIROPHADE_MEDKIT_NAME"
 msgid "Virophage Kit"
-msgstr ""
+msgstr "ウイルスキット"
 
 msgctxt "Equipment/KEY_VIROPHADE_MEDKIT_DESCRIPTION"
 msgid "Restores {GeneralHealAmount} Hit Points and removes virus, bleeding and poison"
-msgstr ""
+msgstr "ヒットポイント {GeneralHealAmount} を回復し、ウイルス、出血、毒を除り除きます"
 
 msgctxt "Equipment/KEY_NEU_ASSAULT_BODY_DESCRIPTION"
 msgid "Assault Body Armor"
