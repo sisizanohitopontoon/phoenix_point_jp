@@ -3,8 +3,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2020-03-09 01:38+0000\n"
-"Last-Translator: Kanizanohito <karatekacentury@gmail.com>\n"
+"PO-Revision-Date: 2020-03-09 12:29+0000\n"
+"Last-Translator: higema <ltdhyndsh@yahoo.co.jp>\n"
 "Language-Team: \n"
 "Language: ja\n"
 "MIME-Version: 1.0\n"
@@ -524,23 +524,21 @@ msgctxt "Blood Titanium/KEY_STATUS_SILENCED_DESCRIPTION"
 msgid "Cannot use Will Point abilities for 1 turn."
 msgstr "1ターンのあいだ、ウィルポイントを使用するアビリティを使用できない"
 
-#, fuzzy
 #| msgctxt "Base Screen/KEY_BASE_UNDER_CONSTRCUTION"
 #| msgid "UNDER CONSTRUCTION"
 msgctxt "Blood Titanium/KEY_NEURAL_DISRUPTION_NAME"
 msgid "NEURAL DISRUPTION"
-msgstr "建設中"
+msgstr "ニューラル ディスラプション"
 
 msgctxt "Blood Titanium/KEY_NEURAL_DISRUPTION_DESCRIPTION"
 msgid "Disrupt target for 1 turn, causing it to become DISORIENTED and unable to use Will Point abilities."
 msgstr ""
 
-#, fuzzy
 #| msgctxt "Abilities/KEY_SCYLLA_LEAP_NAME"
 #| msgid "MONSTER LEAP"
 msgctxt "Blood Titanium/KEY_SHINOBI_LEAP_NAME"
 msgid "ROCKET LEAP"
-msgstr "モンスターリープ"
+msgstr "ロケット リープ"
 
 #| msgctxt "Abilities/KEY_CHIRON_JUMP_DESCRIPTION"
 #| msgid "Leap to target location"
@@ -975,12 +973,11 @@ msgctxt "Blood Titanium/KEY_PU_THREE_SCENE4-3"
 msgid "and the Malthusians will be added to the extinction list!"
 msgstr ""
 
-#, fuzzy
 #| msgctxt "Geoscape Objectives/KEY_OBJECTIVE_TUTORIAL_RESEARCH"
 #| msgid "Research the Phoenix Project"
 msgctxt "Blood Titanium/KEY_PU_FOUR_SCENE1-1"
 msgid "This is a message for the Phoenix Project."
-msgstr "フェニックスプロジェクトを研究する"
+msgstr "これはフェニックスプロジェクトへのメッセージだ。"
 
 msgctxt "Blood Titanium/KEY_PU_FOUR_SCENE1-2"
 msgid "I thought you had what it takes. A Phoenix rising from the ashes. THE ASHES."
@@ -1079,12 +1076,11 @@ msgctxt "Blood Titanium/KEY_STATUS_DISABLED_ELECTRONIC_NAME"
 msgid "DISABLED"
 msgstr "使用不能"
 
-#, fuzzy
 #| msgctxt "Tactical/KEY_MESSAGE_NOT_DISABLED"
 #| msgid "Not disabled"
 msgctxt "Blood Titanium/KEY_STATUS_DISABLED_ELECTRONIC_DESCRIPTION"
 msgid "Body part disabled."
-msgstr "使用不能ではない"
+msgstr "ボディパーツ使用不能。"
 
 #| msgctxt "Mutation Screen/KEY_MUTATION_LOCATION_BODY"
 #| msgid "BODY MUTATION"
@@ -1102,19 +1098,17 @@ msgctxt "Blood Titanium/KEY_DISPLAY_ACTION_COST"
 msgid "ACTION COST:"
 msgstr "アクションコスト:"
 
-#, fuzzy
 #| msgctxt "Equipping Screen/KEY_GEOSCAPE_PRODUCE_BUILD_MATERIALS"
 #| msgid "Manufacture {item} for {0} Materials"
 msgctxt "Blood Titanium/KEY_GEOSCAPE_PRODUCE_REPAIR_MATERIALS"
 msgid "Repair {item} for {0} Materials"
-msgstr "{0}マテリアルで{item}を製造する"
+msgstr "{0} マテリアルで {item} を修理する"
 
-#, fuzzy
 #| msgctxt "Equipping Screen/KEY_GEOSCAPE_PRODUCE_BUILD_BOTH"
 #| msgid "Manufacture {item} for {0} Materials and {1} Tech"
 msgctxt "Blood Titanium/KEY_GEOSCAPE_PRODUCE_REPAIR_BOTH"
 msgid "Repair {item} for {0} Materials and {1} Tech"
-msgstr "{0}マテリアルと{1}テックで{item}を製造する"
+msgstr "{0} マテリアルと {1} テックで {item} を修理する"
 
 msgctxt "Blood Titanium/KEY_BASE_INSUFFICENT_SPACE"
 msgid "Insufficient storage space. Build more Store facilities."
