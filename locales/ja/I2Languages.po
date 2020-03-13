@@ -3,8 +3,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2020-03-12 13:03+0000\n"
-"Last-Translator: higema <ltdhyndsh@yahoo.co.jp>\n"
+"PO-Revision-Date: 2020-03-13 11:15+0000\n"
+"Last-Translator: sisizanohito <sisizanohito@gmail.com>\n"
 "Language-Team: \n"
 "Language: ja\n"
 "MIME-Version: 1.0\n"
@@ -47,7 +47,7 @@ msgstr "利用できるアイテムはありません"
 
 msgctxt "PH_Localization/KEY_GEOSCAPE_NO_RESOURCES"
 msgid "NOT ENOUGH RESOURCES"
-msgstr "リソースが足りない"
+msgstr "資源が足りない"
 
 msgctxt "PH_Localization/KEY_GEOSCAPE_PRODUCED"
 msgid "TOTAL PRODUCED"
@@ -684,7 +684,7 @@ msgstr "リトラクト・シールド"
 
 msgctxt "Blood Titanium/KEY_RETRIEVE_SHIELD_DESCRIPTION"
 msgid "Retract energy shield"
-msgstr "エナジーシールドを消す"
+msgstr "エナジーシールドを納める"
 
 #| msgctxt "Abilities/KEY_DEPLOY_SHIELD_NAME"
 #| msgid "DEPLOY SHIELD"
@@ -1062,11 +1062,11 @@ msgstr "オーガニックグレネードランチャー"
 
 msgctxt "Blood Titanium/KEY_CHIRON_TORSO_ACID_MORTAR_NAME"
 msgid "ACID ABDOMEN"
-msgstr "アシッド アブドメン"
+msgstr "酸射出型腹部"
 
 msgctxt "Blood Titanium/KEY_CHIRON_TORSO_ACID_MORTAR_DESCRIPTION"
 msgid "ACID ABDOMEN"
-msgstr "アシッド アブドメン"
+msgstr "酸射出型腹部"
 
 #, fuzzy
 #| msgctxt "Tactical/KEY_DISABLED_CLEAN"
@@ -8362,7 +8362,7 @@ msgstr "解体リストにアイテムがあります。本当に離脱します
 
 msgctxt "Manufacture Screen/KEY_MANUFACTURE_NOT_ENOUGH_RESOURCES_WARNING"
 msgid "You don't have enough resources to manufacture this item."
-msgstr "このアイテムを製造するための十分なリソースがありません。"
+msgstr "このアイテムを製造するための十分な資源がありません。"
 
 msgctxt "Manufacture Screen/KEY_MANUFACTURE_NOT_ITEMS_WARNING_TT"
 msgid "No items available"
@@ -10287,7 +10287,7 @@ msgstr "製造中: {0}"
 
 msgctxt "Geoscape/KEY_MESSAGE_GEO_NO_RESOURCES_RADAR"
 msgid "Not enough resources to conduct an Area Scan"
-msgstr "エリア スキャンを実行するためのリソースが足りません"
+msgstr "エリア スキャンを実行するための資源が足りません"
 
 msgctxt "Geoscape/KEY_AIRCRAFT_STATS_SPEED"
 msgid "SPEED"
@@ -11607,7 +11607,7 @@ msgstr "合計"
 
 msgctxt "Missions/KEY_MISSION_UNEXPLORED"
 msgid "UNEXPLORED SITE"
-msgstr "未検索地点"
+msgstr "未探索地点"
 
 msgctxt "Missions/KEY_MISSION_THREAT_LEVEL"
 msgid "THREAT LEVEL"
@@ -12191,7 +12191,7 @@ msgstr "ヘリオス"
 
 msgctxt "Characters and classes/KEY_SCARAB_DESCRIPTION"
 msgid "Phoenix Armored Fighting Vehicle"
-msgstr "フェニックス武装戦闘車両"
+msgstr "フェニックス装甲戦闘車両"
 
 msgctxt "Characters and classes/KEY_SCARAB_NAME"
 msgid "PX SCARAB"
@@ -12513,23 +12513,23 @@ msgstr "サイレンのサイキックストリームには用心してくださ
 
 msgctxt "Loading Tips/KEY_TACTICAL_LOADING_TIP_8"
 msgid "Panicked soldiers will act upon their basic instincts, usually running away and then recovering some Will Points."
-msgstr ""
+msgstr "パニックに陥った兵士は基本本能に基づいて行動します。 通常は、逃げてからいくらかのウィルポイントを回復します。"
 
 msgctxt "Loading Tips/KEY_TACTICAL_LOADING_TIP_9"
 msgid "Arthron shields are almost impossible to break with conventional firearms. You will need to have damage penetration, or move to flank them."
-msgstr ""
+msgstr "アースロンのシールドは、従来の火器ではほとんど破壊不可能です。 貫通ダメージを用意するか、側面に移動する必要が生じるでしょう。"
 
 msgctxt "Loading Tips/KEY_TACTICAL_LOADING_TIP_10"
 msgid "Never forget to equip additional magazines for your troops. Having your soldier run out of ammo during a mission can render them useless on the field."
-msgstr ""
+msgstr "部隊に予備の弾倉を装備させておくのを忘れないように。ミッション中に 兵士を弾切れに させてしまうと、その戦場では使い物にならなくなる可能性があります。"
 
 msgctxt "Loading Tips/KEY_TACTICAL_LOADING_TIP_11"
 msgid "It’s best to attack Sentinels with multiple soldiers and kill them in one turn, since they will activate their abilities on the next enemy turn."
-msgstr ""
+msgstr "センチネルは準備後の次のターンでアビリティを発動します。 複数の兵士で攻撃して1ターンで倒しきるのがベストです。"
 
 msgctxt "Loading Tips/KEY_TACTICAL_LOADING_TIP_12"
 msgid "Use Overwatch to attack during the enemy turn at whoever passes through the cone area you have selected."
-msgstr ""
+msgstr "監視を使いましょう。 敵のターン中に、選択範囲を通過するものを攻撃します。"
 
 msgctxt "Loading Tips/KEY_TACTICAL_LOADING_TIP_13"
 msgid "Medkits will restore your Hit Points, but will not repair any limb damage. Once you leave a mission, limbs are repaired but the soldier is still injured."
@@ -12537,125 +12537,125 @@ msgstr "Medkitsはヒットポイントを回復しますが、四肢の損傷�
 
 msgctxt "Loading Tips/KEY_TACTICAL_LOADING_TIP_14"
 msgid "If your soldier does not have the right class to use a weapon proficiently, accuracy will be lower. In case of melee weapons there's a chance to fumble the attack as well."
-msgstr ""
+msgstr "武器を上手く使用するためのクラスを兵士が有していない場合、命中精度が低下します。 さらに近接武器の場合、攻撃に失敗する可能性があります。"
 
 msgctxt "Loading Tips/KEY_TACTICAL_LOADING_TIP_15"
 msgid "In a scavenging mission, the more crates you prevent from being destroyed, the more resources you will get at the end."
-msgstr ""
+msgstr "スカベンジミッションでは、箱が破壊されるのを防ぐほど 終了時に得られる資源が多くなります。"
 
 msgctxt "Loading Tips/KEY_TACTICAL_LOADING_TIP_16"
 msgid "Mist spread during a mission will conceal Pandorans and restore their Will Points. If one of your soldiers is caught inside mist he will be revealed to the enemy and will lose Will Points."
-msgstr ""
+msgstr "ミッション中のミストの広がりはパンドランを覆い隠し、そのウィルポイントを回復させます。 兵士の一人がミストの中に入った場合、その兵士はパンドランに曝け出されウィルポイントを失います。"
 
 msgctxt "Loading Tips/KEY_TACTICAL_LOADING_TIP_17"
 msgid "Vehicles can carry troops in them during a Mission and can also be used for scouting ahead due to their large movement range."
-msgstr ""
+msgstr "車両はミッション中に部隊を乗せて運ぶことができます。 広い移動範囲を持つことから、前方の偵察にも使えます。"
 
 msgctxt "Loading Tips/KEY_TACTICAL_LOADING_TIP_18"
 msgid "Sometimes a bleed wound can be fatal in just a few turns. If an enemy is bleeding and with low health, it might be best to conserve ammo for more dangerous targets."
-msgstr ""
+msgstr "時にはほんの数ターンで出血傷が死に繋がることがあります。敵が出血していて ヘルスも低い場合、より危険な敵のために弾を節約しておくのが最善かもしれません。"
 
 msgctxt "Loading Tips/KEY_TACTICAL_LOADING_TIP_19"
 msgid "If your weapon or equipment takes enough damage, it will be destroyed."
-msgstr ""
+msgstr "武器や装備が一定のダメージを受けた場合、破壊されてしまいます。"
 
 msgctxt "Loading Tips/KEY_TACTICAL_LOADING_TIP_20"
 msgid "When moving next to a wall or high object, your soldier will stand ready to step to the side in order to shoot."
-msgstr ""
+msgstr "壁や高さのある物の隣に移動すると、 兵士は身を乗り出して撃てるよう立位姿勢を取ります。"
 
 msgctxt "Loading Tips/KEY_TACTICAL_LOADING_TIP_21"
 msgid "When moving next to a low wall or obstacle your soldier will crouch, partially protecting the body from attack."
-msgstr ""
+msgstr "低い壁や障害物の隣に移動すると兵士は身を屈め、体を攻撃から部分的に保護します。"
 
 msgctxt "Loading Tips/KEY_TACTICAL_LOADING_TIP_22"
 msgid "Cover will only protect soldiers from damage if it is hit by enemy fire instead of the soldier. Any shots hitting the soldier will still do full damage."
-msgstr ""
+msgstr "カバーは代わりに敵の攻撃を受けることによってのみ兵士をダメージから保護します。 兵士に当たった射撃にダメージの減衰はありません。"
 
 msgctxt "Loading Tips/KEY_TACTICAL_LOADING_TIP_23"
 msgid "The realistic ballistic model means that each bullet has its own trajectory and will do damage independently of any other bullets fired in a burst."
-msgstr ""
+msgstr "バーストで発射された弾はそれぞれが個別の軌道を持ち、 個別にダメージを与えます。それが現実的な弾道モデルです。"
 
 msgctxt "Loading Tips/KEY_TACTICAL_LOADING_TIP_24"
 msgid "Effective Range is the range in tile positions at which the soldier can expect to hit a human sized target 50% of the time."
-msgstr ""
+msgstr "有効範囲とは、兵士が人間サイズのターゲットに50%の確率で 攻撃を当てることを期待できるタイル位置の範囲です。"
 
 msgctxt "Loading Tips/KEY_TACTICAL_LOADING_TIP_25"
 msgid "The armor level of a body part will prevent that much damage affecting Hit Points e.g. a damage value of 50 against armour of 20 will result in 30 Hit Points lost."
-msgstr ""
+msgstr "部位のアーマーレベルは、ヒットポイントに及ぼされる多くのダメージを防ぎます。 例:アーマー値20に対するダメージ値が50の場合、ヒットポイントが30失われす。"
 
 msgctxt "Loading Tips/KEY_TACTICAL_LOADING_TIP_26"
 msgid "Poison will inflict damage at the start of your turn, and then the poison value will reduce, and inflict less damage the next turn, until no poison is left."
-msgstr ""
+msgstr "毒はターン開始時にダメージを負わせます。その後毒の値は減少し、 次のターンではより小さなダメージを負わせます。毒が無くなるまで続きます。"
 
 msgctxt "Loading Tips/KEY_TACTICAL_LOADING_TIP_27"
 msgid "Viral damage will reduce Will Points at the start of your turn, then the virus will reduce and inflict less damage the next turn, until the virus is reduced to nothing."
-msgstr ""
+msgstr "ウィルスダメージはターン開始時にWPを減少させます。その後ウィルスは減少し、 次のターンではより少ないWPを減らします。ウィルスが無くなるまで続きます。"
 
 msgctxt "Loading Tips/KEY_TACTICAL_LOADING_TIP_28"
 msgid "Acid damage attached to body parts will reduce armor by 10 each turn, and  then eat away at the flesh, until no acid damage is left."
-msgstr ""
+msgstr "部位に付着した酸ダメージは、ターン毎に酸の値と同値のアーマーを減らします。 アーマーが0になった後は肉体を腐食し、酸の値が0になるまで続きます。"
 
 msgctxt "Loading Tips/KEY_TACTICAL_LOADING_TIP_29"
 msgid ""
 "Paralysis damage will inflict an Action Point penalty based on the paralysis damage value compared to the target's strength. If paralysis value is greater than strength, then the victim is totally "
 "paralyzed."
-msgstr ""
+msgstr "麻痺ダメージは、ターゲットのストレングスに対する麻痺値の割合に応じたアクション ポイントペナルティを与えます。麻痺値がストレングスを上回った場合、犠牲者は完全に麻痺します。"
 
 msgctxt "Loading Tips/KEY_GEOSCAPE_LOADING_TIP_1"
 msgid "Relations with factions cannot progress to SUPPORTIVE (25-49) until you complete their diplomacy mission."
-msgstr ""
+msgstr "派閥との関係は、それぞれの外交ミッションを達成するまで 支持(25-49)に進行することはありません。"
 
 msgctxt "Loading Tips/KEY_GEOSCAPE_LOADING_TIP_2"
 msgid "Defending havens from Pandoran attack is important for gaining favor with factions and earning resources."
-msgstr ""
+msgstr "パンドランの襲撃からヘイヴンを守ることは、 派閥からの支持を得て資源を獲得するうえで重要です。"
 
 msgctxt "Loading Tips/KEY_GEOSCAPE_LOADING_TIP_3"
 msgid "When a faction becomes SUPPORTIVE (25+) it will give you the location of all of its havens."
-msgstr ""
+msgstr "派閥との関係が支持(25+)になると、 その派閥は全ての所属ヘイヴンの位置を開示してくれます。"
 
 msgctxt "Loading Tips/KEY_GEOSCAPE_LOADING_TIP_4"
 msgid "When faction relations reach 50 you are ALIGNED - and that faction will share its research with you."
-msgstr ""
+msgstr "派閥との関係が50に達すると\"連携\"し、 その派閥は自分達の研究をフェニックスプロジェクトと共有します。"
 
 msgctxt "Loading Tips/KEY_GEOSCAPE_LOADING_TIP_5"
 msgid "Explore areas covered by the mist to make contact with any havens there, and protect them if you can."
-msgstr ""
+msgstr "ミスト内にあるヘイヴンと接点を作るため、ミストに覆われたエリアを探索しましょう。 そして可能であれば彼らを守って下さい。"
 
 msgctxt "Loading Tips/KEY_GEOSCAPE_LOADING_TIP_6"
 msgid "Pandorans will build bases under mist cover, but their attack range can extend out of the mist."
-msgstr ""
+msgstr "パンドランはミストに紛れた場所で基地を建造しますが、 その襲撃範囲はミストの外まで及びます。"
 
 msgctxt "Loading Tips/KEY_GEOSCAPE_LOADING_TIP_7"
 msgid "When faction relations reach 75 you become ALLIED and that faction's full research tree is open to you for research."
-msgstr ""
+msgstr "派閥との関係が75に達すると同盟となり、 その派閥はフェニックスプロジェクトも研究を行えるように研究ツリーを開示します。"
 
 msgctxt "Loading Tips/KEY_GEOSCAPE_LOADING_TIP_8"
 msgid "A fast way to progress your research is to steal it from other factions with a STEAL RESEARCH mission at a haven with a research center."
-msgstr ""
+msgstr "研究を進めるための近道は、ヘイヴンのリサーチセンターでの \"研究を盗む\"ミッションで他派閥から研究を盗むことです。"
 
 msgctxt "Loading Tips/KEY_GEOSCAPE_LOADING_TIP_9"
 msgid "Most of the interesting technology is possessed by the factions - to get access to it, you need to ally with them or steal it from them."
-msgstr ""
+msgstr "興味深いテクノロジーの多くは三大派閥の所有物です。 それらにアクセスするには彼らと手を組むか、盗み出す必要があります。"
 
 msgctxt "Loading Tips/KEY_GEOSCAPE_LOADING_TIP_10"
 msgid "You will need to complete a faction's special mission (see DIPLOMACY tab) in order to progress your relations with them to the next level (supportive, aligned, allied)."
-msgstr ""
+msgstr "派閥との関係を次の段階(支持、連携、同盟)に進めるためには、 派閥のスペシャルミッション(外交タブを参照)を完了する必要があります。"
 
 msgctxt "Loading Tips/KEY_GEOSCAPE_LOADING_TIP_11"
 msgid "It is important to find other Phoenix bases as soon as you can. Conduct area scans and explore as much as possible."
-msgstr ""
+msgstr "出来るだけ早く他のフェニックス基地を探し出すことが重要です。 エリアスキャンを実行し、可能な限り探索しましょう。"
 
 msgctxt "Body parts/KEY_ABDOMEN_NAME"
 msgid "ABDOMEN"
-msgstr ""
+msgstr "腹部"
 
 msgctxt "Body parts/KEY_ABDOMEN_SPAWNER_DESCRIPTION"
 msgid "Spawns mindfraggers"
-msgstr ""
+msgstr "マインドフラッガーを生む"
 
 msgctxt "Body parts/KEY_ABDOMEN_SPAWNER_NAME"
 msgid "SPAWNING ABDOMEN"
-msgstr ""
+msgstr "スポーン型腹部"
 
 msgctxt "Body parts/KEY_ARM_DESCRIPTION"
 msgid "ARM"
@@ -12663,11 +12663,11 @@ msgstr "腕"
 
 msgctxt "Body parts/KEY_ARM_INJECTOR_DESCRIPTION"
 msgid "INJECTOR ARM"
-msgstr ""
+msgstr "インジェクター腕"
 
 msgctxt "Body parts/KEY_ARM_INJECTOR_NAME"
 msgid "INJECTOR ARM"
-msgstr ""
+msgstr "インジェクター腕"
 
 msgctxt "Body parts/KEY_ARM_NAME"
 msgid "ARM"
@@ -12675,11 +12675,11 @@ msgstr "腕"
 
 msgctxt "Body parts/KEY_ARM_SLASHER_DESCRIPTION"
 msgid "SLASHER ARM"
-msgstr ""
+msgstr "スラッシュ腕"
 
 msgctxt "Body parts/KEY_ARM_SLASHER_NAME"
 msgid "SLASHER ARM"
-msgstr ""
+msgstr "スラッシュ腕"
 
 msgctxt "Body parts/KEY_CARAPACE_DESCRIPTION"
 msgid "CARAPACE"
@@ -12707,7 +12707,7 @@ msgstr "甲殻"
 
 msgctxt "Body parts/KEY_CHIRON_TORSO_FIREWORM_DESCRIPTION"
 msgid "Launch multiple Fireworms over long range"
-msgstr ""
+msgstr "複数のファイアワームを長距離を越えて射出する"
 
 msgctxt "Body parts/KEY_CHIRON_TORSO_FIREWORM_NAME"
 msgid "FIREWORM ABDOMEN"
@@ -12715,27 +12715,27 @@ msgstr "ファイアワームの腹部"
 
 msgctxt "Body parts/KEY_CHIRON_TORSO_GOO_DESCRIPTION"
 msgid "GOO ABDOMEN"
-msgstr ""
+msgstr "酸射出型腹部"
 
 msgctxt "Body parts/KEY_CHIRON_TORSO_GOO_NAME"
 msgid "GOO ABDOMEN"
-msgstr ""
+msgstr "酸射出型腹部"
 
 msgctxt "Body parts/KEY_CHIRON_TORSO_MORTAR_DESCRIPTION"
 msgid "EXPLOSIVE BOMB ABDOMEN"
-msgstr ""
+msgstr "爆発弾射出腹部"
 
 msgctxt "Body parts/KEY_CHIRON_TORSO_MORTAR_NAME"
 msgid "EXPLOSIVE BOMB ABDOMEN"
-msgstr ""
+msgstr "爆発弾射出腹部"
 
 msgctxt "Body parts/KEY_HAND_DESCRIPTION"
 msgid "HAND"
-msgstr ""
+msgstr "手"
 
 msgctxt "Body parts/KEY_HAND_NAME"
 msgid "HAND"
-msgstr ""
+msgstr "手"
 
 msgctxt "Body parts/KEY_HEAD_BUFFER_DESCRIPTION"
 msgid "BUFFING HEAD"
@@ -12803,7 +12803,7 @@ msgstr ""
 
 msgctxt "Body parts/KEY_LEG_NAME"
 msgid "LEG"
-msgstr ""
+msgstr "脚部"
 
 msgctxt "Body parts/KEY_LEGS_NAME"
 msgid "LEGS"
