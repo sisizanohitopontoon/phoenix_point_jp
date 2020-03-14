@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2020-03-14 15:33+0000\n"
+"PO-Revision-Date: 2020-03-14 15:46+0000\n"
 "Last-Translator: higema <ltdhyndsh@yahoo.co.jp>\n"
 "Language-Team: \n"
 "Language: ja\n"
@@ -9192,7 +9192,7 @@ msgstr "発電施設を撤去すると、基地のエネルギー出力が減少
 
 msgctxt "Base Screen/KEY_BASE_WARNING_SATELLITE_UPLINK"
 msgid "Destroying the Satellite Uplink will decrease the amount of concurrent Area Scans you can perform. Are you sure you want to proceed?"
-msgstr "衛生アップリンクを撤去すると、同時に実行可能なエリアスキャンの数が減少します。本当に続行しますか？"
+msgstr "衛星アップリンクを撤去すると、同時に実行可能なエリアスキャンの数が減少します。本当に続行しますか？"
 
 msgctxt "Base Screen/KEY_BASE_WARNING_MIST_REPELLER"
 msgid "Destroying the Mist Repeller will stop preventing the mist from forming around your base. Are you sure you want to proceed?"
@@ -9859,7 +9859,7 @@ msgstr "製造プラントを建造する"
 
 msgctxt "Geoscape Objectives/KEY_OBJECTIVE_TUTORIAL_SATELLITE"
 msgid "Build a Satellite Uplink"
-msgstr "衛生アップリンクを建造する"
+msgstr "衛星アップリンクを建造する"
 
 msgctxt "Geoscape Objectives/KEY_OBJECTIVE_TUTORIAL_SCANNING"
 msgid "Area Scanning"
@@ -10683,11 +10683,11 @@ msgstr "シネドリオンのインフィルトレイタークラスは、先進
 
 msgctxt "Haven Screen/KEY_GEOSCAPE_ZONE_UPLINK_NAME"
 msgid "SATELLITE UPLINK"
-msgstr "衛生アップリンク"
+msgstr "衛星アップリンク"
 
 msgctxt "Haven Screen/KEY_GEOSCAPE_ZONE_UPLINK_DESCRIPTION"
 msgid "A satellite uplink will double the influence range of the haven, and detect Pandoran bases, allowing New Jericho to take the battle to the enemy."
-msgstr "衛生アップリンクはヘイヴンの影響範囲を2倍に延ばしてパンドラン基地を検出し、ニュージェリコが敵に勝利することを可能にする。"
+msgstr "衛星アップリンクはヘイヴンの影響範囲を2倍に延ばしてパンドラン基地を検出し、ニュージェリコが敵に勝利することを可能にする。"
 
 msgctxt "Haven Screen/KEY_GEOSCAPE_ZONE_MIST_NAME"
 msgid "MIST REPELLER"
@@ -11375,15 +11375,15 @@ msgstr "衛星アップリンクを破壊工作する"
 
 msgctxt "Missions/KEY_MISSION_SABOTAGE_UPLINK_DEFEAT_DESC"
 msgid "The uplink continues to scan a wide area, increasing the haven's influence range and detecting Pandoran activity."
-msgstr "衛生アップリンクはヘイヴンの影響範囲を増大させ パンドランの活動を検出しながら、広域なエリアの スキャンを続けている。"
+msgstr "衛星アップリンクはヘイヴンの影響範囲を増大させ パンドランの活動を検出しながら、広域なエリアの スキャンを続けている。"
 
 msgctxt "Missions/KEY_MISSION_SABOTAGE_UPLINK_DEFEAT_NAME"
 msgid "SABOTAGE UPLINK FAILURE"
-msgstr "衛生アップリンクの破壊工作失敗"
+msgstr "衛星アップリンクの破壊工作失敗"
 
 msgctxt "Missions/KEY_MISSION_SABOTAGE_UPLINK_VICTORY_DESC"
 msgid "The uplink will cease to function until repaired, removing ability to detect Pandoran activity and reducing the haven's influence range."
-msgstr "衛生アップリンクは修理のあいだ機能を停止し、 パンドランの活動を検出する能力を失って ヘイヴンの影響範囲を縮小させる。"
+msgstr "衛星アップリンクは修理のあいだ機能を停止し、 パンドランの活動を検出する能力を失って ヘイヴンの影響範囲を縮小させる。"
 
 msgctxt "Missions/KEY_MISSION_SABOTAGE_UPLINK_VICTORY_NAME"
 msgid "SATELLITE UPLINK SABOTAGED"
@@ -13555,15 +13555,15 @@ msgstr "メックアームズ"
 
 msgctxt "Equipment/KEY_MECHARMS_CHARGE_DESCRIPTION"
 msgid "New Jericho Mech Arms Energy Pack"
-msgstr ""
+msgstr "新しいジェリコ メックアームズ エネルギーパック"
 
 msgctxt "Equipment/KEY_MECHARMS_CHARGE_NAME"
 msgid "VVA-2 Arms Energy Pack"
-msgstr ""
+msgstr "VVA-2アームズ エネルギーパック"
 
 msgctxt "Equipment/KEY_MEDKIT_CHARGE_DESCRIPTION"
 msgid "Medkit Nano-Plasma Recharge"
-msgstr ""
+msgstr "メディキット ナノプラズマ リチャージ"
 
 msgctxt "Equipment/KEY_MEDKIT_CHARGE_NAME"
 msgid "MEDKIT CHARGE"
@@ -13579,115 +13579,115 @@ msgstr "メディキット"
 
 msgctxt "Equipment/KEY_MUTATION_PART_HEAD_ARMORED_DESCRIPTION"
 msgid "Disciples of Anu Armored Head Mutation"
-msgstr ""
+msgstr "ディサイプルズ・オブ・アヌ アーマード ヘッド ミューテーション"
 
 msgctxt "Equipment/KEY_MUTATION_PART_HEAD_ARMORED_NAME2"
 msgid "Armored Head"
-msgstr ""
+msgstr "アーマード ヘッド"
 
 msgctxt "Equipment/KEY_MUTATION_PART_HEAD_PERCEPTOR_DESCRIPTION"
 msgid "Disciples of Anu Perceptor Head Mutation"
-msgstr ""
+msgstr "ディサイプルズ・オブ・アヌ パーセプター ヘッド ミューテーション"
 
 msgctxt "Equipment/KEY_MUTATION_PART_HEAD_PERCEPTOR_NAME2"
 msgid "Perceptor Head"
-msgstr ""
+msgstr "パーセプター ヘッド"
 
 msgctxt "Equipment/KEY_MUTATION_PART_HEAD_RESISTOR_DESCRIPTION"
 msgid "Disciples of Anu Resistor Head Mutation"
-msgstr ""
+msgstr "ディサイプルズ・オブ・アヌ レジスター ヘッド ミューテーション"
 
 msgctxt "Equipment/KEY_MUTATION_PART_HEAD_RESISTOR_NAME2"
 msgid "Resistor Head"
-msgstr ""
+msgstr "レジスター ヘッド"
 
 msgctxt "Equipment/KEY_MUTATION_PART_LEG_AGILE_DESCRIPTION"
 msgid "Disciples of Anu Agile Legs Mutation"
-msgstr ""
+msgstr "ディサイプルズ・オブ・アヌ アジャイル レッグ ミューテーション"
 
 msgctxt "Equipment/KEY_MUTATION_PART_LEG_AGILE_NAME2"
 msgid "Agile Legs"
-msgstr ""
+msgstr "アジャイル レッグ"
 
 msgctxt "Equipment/KEY_MUTATION_PART_LEG_SNEAKER_DESCRIPTION"
 msgid "Disciples of Anu Stealth Legs Mutation"
-msgstr ""
+msgstr "ディサイプルズ・オブ・アヌ ステルス レッグ ミューテーション"
 
 msgctxt "Equipment/KEY_MUTATION_PART_LEG_SNEAKER_NAME2"
 msgid "Shadow Legs"
-msgstr ""
+msgstr "シャドウ レッグ"
 
 msgctxt "Equipment/KEY_MUTATION_PART_LEG_STOMPER_DESCRIPTION"
 msgid "Disciples of Anu Stomping Legs Mutation"
-msgstr ""
+msgstr "ディサイプルズ・オブ・アヌ ストンピング レッグ ミューテーション"
 
 msgctxt "Equipment/KEY_MUTATION_PART_LEG_STOMPER_NAME2"
 msgid "Stomper Legs"
-msgstr ""
+msgstr "ストンパー レッグ"
 
 msgctxt "Equipment/KEY_MUTATION_PART_PRIEST_JUDGEMENT_DESCRIPTION"
 msgid "Disciples of Anu Judgement Priestly Head Mutation"
-msgstr ""
+msgstr "ディサイプルズ・オブ・アヌ ジャッジメント プリーストリィ ミューテーション"
 
 msgctxt "Equipment/KEY_MUTATION_PART_PRIEST_JUDGEMENT_NAME2"
 msgid "Judgement Head"
-msgstr ""
+msgstr "ジャッジメント ヘッド"
 
 msgctxt "Equipment/KEY_MUTATION_PART_PRIEST_SCREAMING_DESCRIPTION"
 msgid "Disciples of Anu Screamer Priestly Head Mutation"
-msgstr ""
+msgstr "ディサイプルズ・オブ・アヌ スクリーマー プリーストリィ ミューテーション"
 
 msgctxt "Equipment/KEY_MUTATION_PART_PRIEST_SCREAMING_NAME2"
 msgid "Screaming Head"
-msgstr ""
+msgstr "スクリーミング ヘッド"
 
 msgctxt "Equipment/KEY_MUTATION_PART_PRIEST_SYNOD_DESCRIPTION"
 msgid "Disciples of Anu Synod Priestly Head Mutation"
-msgstr ""
+msgstr "ディサイプルズ・オブ・アヌ シノッド プリーストリィ ミューテーション"
 
 msgctxt "Equipment/KEY_MUTATION_PART_PRIEST_SYNOD_NAME2"
 msgid "Synod Head"
-msgstr ""
+msgstr "シノッド ヘッド"
 
 msgctxt "Equipment/KEY_MUTATION_PART_TORSO_REGEN_DESCRIPTION"
 msgid "Disciples of Anu Regeneration Torso Mutation"
-msgstr ""
+msgstr "ディサイプルズ・オブ・アヌ リジェネレーション トルソ― ミューテーション"
 
 msgctxt "Equipment/KEY_MUTATION_PART_TORSO_REGEN_NAME2"
 msgid "Regeneration Torso"
-msgstr ""
+msgstr "リジェネレーション トルソ"
 
 msgctxt "Equipment/KEY_MUTATION_PART_TORSO_SHOOT_DESCRIPTION"
 msgid "Disciples of Anu Venom Torso Mutation"
-msgstr ""
+msgstr "ディサイプルズ・オブ・アヌ ベノム トルソ― ミューテーション"
 
 msgctxt "Equipment/KEY_MUTATION_PART_TORSO_SHOOT_NAME2"
 msgid "Venom Torso"
-msgstr ""
+msgstr "ベノム トルソ"
 
 msgctxt "Equipment/KEY_MUTATION_PART_TORSO_TENTACLE_DESCRIPTION"
 msgid "Disciples of Anu Tentacles Torso Mutation"
-msgstr ""
+msgstr "ディサイプルズ・オブ・アヌ テンタクル トルソ― ミューテーション"
 
 msgctxt "Equipment/KEY_MUTATION_PART_TORSO_TENTACLE_NAME2"
 msgid "Tentacle Torso"
-msgstr ""
+msgstr "テンタクル トルソ"
 
 msgctxt "Equipment/KEY_NE_ASSAULT_RIFLE_DESCRIPTION"
 msgid "Independent Assault Rifle"
-msgstr ""
+msgstr "独立勢力 アサルトライフル"
 
 msgctxt "Equipment/KEY_NE_ASSAULT_RIFLE_NAME"
 msgid "Yat AR"
-msgstr ""
+msgstr "ヤットAR"
 
 msgctxt "Equipment/KEY_NE_MACHINE_GUN_DESCRIPTION"
 msgid "Independent Machine Gun"
-msgstr ""
+msgstr "独立勢力 マシンガン"
 
 msgctxt "Equipment/KEY_NE_MACHINE_GUN_NAME"
 msgid "Uragan MG"
-msgstr ""
+msgstr "ウラガンMG"
 
 msgctxt "Equipment/KEY_NE_PISTOL_DESCRIPTION"
 msgid "Independent Handgun"
@@ -13695,7 +13695,7 @@ msgstr ""
 
 msgctxt "Equipment/KEY_NE_PISTOL_NAME"
 msgid "Udar HG"
-msgstr ""
+msgstr "ウダーHG"
 
 msgctxt "Equipment/KEY_NE_SNIPER_RIFLE_DESCRIPTION"
 msgid "Independent Sniper Rifle"
