@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2020-03-26 23:11+0000\n"
+"PO-Revision-Date: 2020-03-06 15:22+0000\n"
 "Last-Translator: higema <ltdhyndsh@yahoo.co.jp>\n"
 "Language-Team: \n"
 "Language: ja\n"
@@ -572,7 +572,6 @@ msgctxt "Blood Titanium/KEY_MARTIAL_ARTIST_DESCRIPTION"
 msgid "Melee attacks cost 1 AP less (to a minimum of 1 AP)."
 msgstr "近接攻撃のAPコストが1減少する(最低1APまで)。"
 
-#, fuzzy
 #| msgctxt "Abilities/KEY_MELEE_WEAPONS_TALENT_NAME"
 #| msgid "MELEE WEAPON PROFICIENCY"
 msgctxt "Blood Titanium/KEY_MELEE_PROFICIENCY_NAME"
@@ -625,7 +624,6 @@ msgctxt "Blood Titanium/KEY_AUGMENT"
 msgid "AUGMENTATION"
 msgstr "オーグメンテーション"
 
-#, fuzzy
 #| msgctxt "Geoscape/KEY_REPAIR_ABILITY_NAME"
 #| msgid "REPAIR"
 msgctxt "Blood Titanium/KEY_REPAIR_BIONIC"
@@ -7464,7 +7462,6 @@ msgctxt "Controls/KEY_CONTROLS_ERROR_WRITE"
 msgid "Saving keybindings failed! Default keybindings have been selected."
 msgstr "キー割り当ての保存に失敗しました！デフォルトのキー割り当てが選択されます。"
 
-#, fuzzy
 #| msgctxt "Options Screen/KEY_OPTIONS_RESTORE"
 #| msgid "RESTORE DEFAULTS"
 msgctxt "Controls/KEY_CONTROLS_BINDINGS_REVERT_TO_DEFAULT"
@@ -7793,7 +7790,6 @@ msgctxt "Controls/KEY_CONTROLS_INPUT_PC_ESCAPE"
 msgid "ESCAPE"
 msgstr "ESC"
 
-#, fuzzy
 #| msgctxt "Controls/KEY_CONTROLS_TACTICAL_PC_BK_NAME"
 #| msgid "BACKSPACE"
 msgctxt "Controls/KEY_CONTROLS_INPUT_PC_BACKSPACE"
@@ -8014,21 +8010,18 @@ msgctxt "Controls/KEY_CONTROLS_ACTION_ABILITY_CONFIRM"
 msgid "ACTIVATE ABILITY"
 msgstr "アビリティを有効にする"
 
-#, fuzzy
 #| msgctxt "Controls/KEY_CONTROLS_TACTICAL_Y"
 #| msgid "ENTER OVERWATCH"
 msgctxt "Controls/KEY_CONTROLS_ACTION_ABILITY_OVERWATCH"
 msgid "ENTER OVERWATCH"
 msgstr "監視に移行"
 
-#, fuzzy
 #| msgctxt "Controls/KEY_CONTROLS_GEOSCAPE_RT"
 #| msgid "ZOOM IN"
 msgctxt "Controls/KEY_CONTROLS_ACTION_DISCRETE_ZOOM_IN"
 msgid "ZOOM IN"
 msgstr "ズームイン"
 
-#, fuzzy
 #| msgctxt "Controls/KEY_CONTROLS_GEOSCAPE_LT"
 #| msgid "ZOOM OUT"
 msgctxt "Controls/KEY_CONTROLS_ACTION_DISCRETE_ZOOM_OUT"
@@ -8057,7 +8050,6 @@ msgctxt "Controls/KEY_CONTROLS_ACTION_MENU_RIGHT"
 msgid "UI ELEMENT RIGHT"
 msgstr "UI 要素を右へ移動"
 
-#, fuzzy
 #| msgctxt "Abilities/KEY_RELOAD"
 #| msgid "RELOAD"
 msgctxt "Controls/KEY_CONTROLS_ACTION_ABILITY_RELOAD"
@@ -8131,7 +8123,6 @@ msgctxt "Controls/KEY_CONTROLS_ACTION_GEOSCAPE_TIME_DECREMENT"
 msgid "DECREASE GEOSCAPE TIME SPEED"
 msgstr "ジオスケープの時間速度を下げる"
 
-#, fuzzy
 #| msgctxt "Controls/KEY_CONTROLS_GEOSCAPE_BACK"
 #| msgid "OPEN GAME MENU"
 msgctxt "Controls/KEY_CONTROLS_ACTION_OPEN_OPTIONS_MENU"
@@ -8152,14 +8143,12 @@ msgctxt "Controls/KEY_CONTROLS_ACTION_ROTATE_CAMERA_RIGHT"
 msgid "ROTATE CAMERA CLOCKWISE"
 msgstr "カメラを時計回りに回転"
 
-#, fuzzy
 #| msgctxt "Geoscape/KEY_QUICK_LOAD_NAME"
 #| msgid "QUICK LOAD"
 msgctxt "Controls/KEY_CONTROLS_ACTION_QUICK_LOAD"
 msgid "QUICK LOAD"
 msgstr "クイックロード"
 
-#, fuzzy
 #| msgctxt "Geoscape/KEY_QUICK_SAVE_NAME"
 #| msgid "QUICK SAVE"
 msgctxt "Controls/KEY_CONTROLS_ACTION_QUICK_SAVE"
