@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2020-04-01 14:37+0000\n"
+"PO-Revision-Date: 2020-04-01 14:59+0000\n"
 "Last-Translator: higema <ltdhyndsh@yahoo.co.jp>\n"
 "Language-Team: \n"
 "Language: ja\n"
@@ -5195,12 +5195,11 @@ msgid ""
 "The soldier is returned to New Jericho, there to face trial for treason. The Synod of Yearning is reportedly furious at our intervention, and Synedrion expresses concern at our anti-asylum stance."
 msgstr "兵士はニュージェリコに戻され、そこで反逆罪の裁判に直面することになる。伝え聞くところによればシノッド・オブ・ヤーニングが私達の介入に激怒したらしい。シネドリオンは私達の亡命反対の立場に懸念を表明している。"
 
-#, fuzzy
 #| msgctxt "GeoEvents/AN11_CHOICE_1_TEXT"
 #| msgid "Insist that asylum isn't an option, bribing anyone who disagrees."
 msgctxt "Anu/AN11_CHOICE_1_TEXT"
 msgid "Insist that asylum isn't an option."
-msgstr "異議を唱える者達を買収しつつ、亡命はありえないと主張する。"
+msgstr "亡命は選択肢にないと主張する。"
 
 #, fuzzy
 #| msgctxt "GeoEvents/AN11_CHOICE_2_OUTCOME_GENERAL"
@@ -5335,7 +5334,6 @@ msgctxt "Anu/AN14_CHOICE_0_TEXT"
 msgid "Accept."
 msgstr "受け取る。"
 
-#, fuzzy
 #| msgctxt "GeoEvents/AN14_TEXT_GENERAL_0"
 #| msgid ""
 #| "At [HavenName], Exarch [HavenLeaderSurname] is greatly pleased to see our operatives. [LF][LF]\"\"We had heard rumors that the Phoenix Project had been destroyed,\"\" she says. \"\"That would have "
@@ -5344,7 +5342,7 @@ msgctxt "Anu/AN14_TEXT_GENERAL_0"
 msgid ""
 "At [HavenName], Exarch [HavenLeaderSurname] is greatly pleased to see our operatives. [LF][LF]\"\"We had heard rumors that the Phoenix Project had been destroyed,\"\" she says. \"\"That would have "
 "been a shame. There was not much about the old world that was good, but at least the Phoenix Project had the right intentions.\"\""
-msgstr "[HavenName]にて、エクザルフ・[HavenLeaderSurname]は私達の隊員を見てとても喜んだ。[LF][LF]\"\"噂になっていた。フェニックスプロジェクトは潰されたと。\"\"彼女は言う。\"\"だとすればとても残念なことだっただろう。旧世界に良いところはあまりなかったが、少なくともフェニックスプロジェクトは正しき意図を持っていた。\"\""
+msgstr "[HavenName]のエクザルフ・[HavenLeaderSurname]が隊員達を見てとても喜んだ。[LF][LF]\"\"噂になっていたものだ。フェニックスプロジェクトは潰されたと。\"\"彼女は言う。\"\"だとすればとても残念なことだっただろう。旧世界に良いところはあまりなかったが、少なくともフェニックスプロジェクトは正しき意図を持っていた。\"\""
 
 #, fuzzy
 #| msgctxt "GeoEvents/AN14_TEXT_GENERAL_1"
@@ -5447,7 +5445,6 @@ msgctxt "Anu/AN16_CHOICE_1_TEXT"
 msgid "Decline."
 msgstr "断る。"
 
-#, fuzzy
 #| msgctxt "GeoEvents/AN16_TEXT_GENERAL_0"
 #| msgid ""
 #| "The people of [HavenName] are undertaking the rare and sacred Rite of the Luminous Deep, which celebrates the tale of how Taxiarch Nergal came to serve the Exalted. But more than just a religious "
@@ -5458,13 +5455,12 @@ msgid ""
 "The people of [HavenName] are undertaking the rare and sacred Rite of the Luminous Deep, which celebrates the tale of how Taxiarch Nergal came to serve the Exalted. But more than just a religious "
 "ritual, the Rite also involves learning techniques of self-control, of pushing oneself to the limits in the service of the greater good. [LF][LF]Our operatives are welcome to participate in the "
 "Rite, and to share this knowledge with their peers."
-msgstr "[HavenName]の人々は珍しく神聖な「輝く深淵の儀式」を執り行っている。いかにしてタクシアーク・ネルガルがイグザルティドに仕えることになったかの話を称える儀式だ。だがこれは単なる宗教儀式ではなく、大義に仕えるうえで己を制御し限界まで駆り立てる技術を学ぶものでもある。[LF][LF]私達の職員はこの儀式への参加および、彼らの仲間とこの知識を共有することを許された。"
+msgstr "[HavenName]の人々が、珍しく神聖な「輝く深淵の儀式」を執り行っている。いかにしてタクシアーク・ネルガルがイグザルティドに仕えることになったかの話を称える儀式だ。だがこれは単なる宗教儀式ではなく、大義に仕えるうえで己を制御し限界まで駆り立てるための技術を学ぶものでもある。[LF][LF]職員達はこの儀式への参加および、彼らの仲間とこの知識を共有することを許された。"
 
 msgctxt "Anu/AN16_TITLE"
 msgid "Rite of the Luminous Deep"
 msgstr ""
 
-#, fuzzy
 #| msgctxt "GeoEvents/AN17_CHOICE_0_OUTCOME_GENERAL"
 #| msgid ""
 #| "What makes us human is the best thing about us, but also the worst. We're greedy and violent, not because of our spiritual nature, but because our bodies evolved to be this way. The good news is we "
@@ -5473,7 +5469,7 @@ msgctxt "Anu/AN17_CHOICE_0_OUTCOME_GENERAL"
 msgid ""
 "What makes us human is the best thing about us, but also the worst. We're greedy and violent, not because of our spiritual nature, but because our bodies evolved to be this way. The good news is we "
 "can change those bodies and allow ourselves to become better people in the process."
-msgstr "私達を人たらしめるものは長所でもあり、短所でもある。精神的な本質からではなくこのように進化した肉体のせいで、私達は強欲で暴力的なのだ。幸い、私達はこの肉体を変化させ、その過程においてより良い人間になる事ができる。"
+msgstr "私達を人たらしめるものは最大の長所であり、最大の短所でもある。精神的な本質からではなくこのように進化した肉体のせいで、私達は強欲で暴力的なのだ。幸いにして、私達はこの肉体を変化させられる。その過程においてより良い人間になる事ができる。"
 
 #, fuzzy
 #| msgctxt "GeoEvents/AN17_CHOICE_0_TEXT"
@@ -6317,7 +6313,7 @@ msgstr "\"\"あんた達ならこの[HavenName]にいつでも歓迎さ。\"\"�
 
 msgctxt "Anu/AN3_CHOICE_0_TEXT"
 msgid "Thank them."
-msgstr ""
+msgstr "礼を言う。"
 
 msgctxt "Anu/AN3_TEXT_GENERAL_0"
 msgid ""
@@ -6325,12 +6321,12 @@ msgid ""
 "They're glad that we have joined their cause and gained the blessing of the Keeper of the Threshold. Even greater things await us, they assure our operatives.[LF][LF]To make sure we don't go hungry "
 "while saving the world, they share some of their food with us."
 msgstr ""
+"[HavenName]の住民達が職員を見て喜んでいる。彼らはフェニックスプロジェクトの事をこう思っている。人類が次なる進化の段階に進んでパンドラウィルスに耐えられるようになることに、一役買ってくれると。彼らは嬉しく思っている。私達がディサイプルズの志に賛同してキーパー・オブ・ザ・スレショルドの祝福を受けたことを。彼らは職員達に、より素晴らしいことがこの先待ち受けていると請け合った。[LF][LF]世界を救っている間に腹を空かせることのないよう、彼らは私達に食料の一部を分けてくれた。"
 
 msgctxt "Anu/AN3_TITLE"
 msgid "Folk Heroes"
 msgstr ""
 
-#, fuzzy
 #| msgctxt "GeoEvents/AN4_CHOICE_0_OUTCOME_GENERAL"
 #| msgid ""
 #| "After the feast, with a few beers in them, the priests are quite jolly. They share funny and sometimes graphic stories about how they used to believe the world was doomed and all the foolish things "
@@ -6339,11 +6335,11 @@ msgctxt "Anu/AN4_CHOICE_0_OUTCOME_GENERAL"
 msgid ""
 "After the feast, with a few beers in them, the priests are quite jolly. They share funny and sometimes graphic stories about how they used to believe the world was doomed and all the foolish things "
 "they did in their despair, but how they utlimately found hope in the Exalted."
-msgstr "宴の後、数杯のビールを飲んだ祭司達はとても上機嫌だった。彼らは冗談を交わしあい、信じていた世界に絶望しあらゆる愚かな行いをしてきたものの最終的にはイグザルティドに希望を見出した話を生き生きと語り合った。"
+msgstr "宴の後、数杯のビールを飲んだ祭司達はとても上機嫌だった。彼らは冗談を交わしあい、信じていた世界に絶望しあらゆる愚かな行いをしてきたものの最終的にはイグザルティドに希望を見出した話を、生き生きと語り合った。"
 
 msgctxt "Anu/AN4_CHOICE_0_TEXT"
 msgid "Thank them."
-msgstr ""
+msgstr "礼を言う。"
 
 #, fuzzy
 #| msgctxt "GeoEvents/AN4_TEXT_GENERAL_0"
@@ -6367,7 +6363,6 @@ msgctxt "Anu/AN4_TITLE"
 msgid "Rite of Hope"
 msgstr ""
 
-#, fuzzy
 #| msgctxt "GeoEvents/AN5_CHOICE_0_OUTCOME_GENERAL"
 #| msgid ""
 #| "\"\"Oh, it's nothing,\"\" he says. \"\"I hope one day the Phoenix Project and the Disciples will be as one. Then we can work on all this cool stuff together. Oh, excuse me. I mean, we shall work on "
@@ -6376,11 +6371,11 @@ msgctxt "Anu/AN5_CHOICE_0_OUTCOME_GENERAL"
 msgid ""
 "\"\"Oh, it's nothing,\"\" he says. \"\"I hope one day the Phoenix Project and the Disciples will be as one. Then we can work on all this cool stuff together. Oh, excuse me. I mean, we shall work on "
 "the Hallowed Machines in unison.\"\""
-msgstr "\"\"なに、どうという事はない。\"\"彼は言う。\"\"いつの日か、フェニックスプロジェクトとディサイプルズが一体となる事を願う。そうなれば、一緒にこのいかした代物達に取り組めるのだから。おっと失言。ではなく、共に一体となって神聖なる機械に取り組むこととなるだろう。\"\""
+msgstr "\"\"なに、どうってことないさ。\"\"彼は言う。\"\"いつの日か、フェニックスプロジェクトとディサイプルズが一体となる事を願うよ。そうなれば、一緒にこのいかした代物に取り組めるからね。じゃなくて。共に一体となって神聖なる機械に取り組むこととなるだろうから。\"\""
 
 msgctxt "Anu/AN5_CHOICE_0_TEXT"
 msgid "Thank him."
-msgstr ""
+msgstr "礼を言う。"
 
 msgctxt "Anu/AN5_TEXT_GENERAL_0"
 msgid ""
@@ -6388,6 +6383,8 @@ msgid ""
 "conspiracy sites, when there was an internet,\"\" he says. \"\"Everyone else thought the Phoenix Project was evil, or just a myth, but I always hoped it was real, because an international science "
 "organization that fights aliens would just be so, so awesome. I mean, uh, such a thing would be like a blessing from the Dead God!\"\""
 msgstr ""
+"[HavenName]にて、職員達が温かく迎えられる。どうやらこの地のスケオフィラックス-"
+"またの名を「聖杯の守り手」が、フェニックスプロジェクトの熱烈なファンであるらしい。\"\"まだインターネットが存在していた頃は、陰謀論を扱うサイトを全て読みまわったものだよ。\"\"彼は言う。\"\"他の誰もがフェニックスプロジェクトのことを悪だとか、単なる作り話だと思っていた。だけど自分はずっと、現実に存在するものであればいいと思っていたよ。だってエイリアンと戦う国際科学組織なんてあったら、無茶苦茶イケてるじゃないか。えーと、じゃなくて。そういった組織は死せる神からの祝福のようなものだからさ!\"\""
 
 #| msgctxt "GeoEvents/AN5_TEXT_GENERAL_1"
 #| msgid "Although he is not allowed to show our operatives the Hallowed Machines themselves, he takes the opportunity to share his insights and some of the devices he has built."
@@ -6403,7 +6400,7 @@ msgctxt "Anu/AN6_CHOICE_0_OUTCOME_GENERAL"
 msgid ""
 "With our help, the refugees can start rebuilding their lives under the protection of the Disciples. They are still deeply traumatized by what they went through, but the teachings of the Exalted give"
 " them hope, and they express their gratitude to the Phoenix Project."
-msgstr ""
+msgstr "私達の援助があれば、難民達もディサイプルズ・オブ・アヌの庇護の下で暮らしを立て直せる。彼らはその体験のせいでいまだ心に深い傷を負っているが、イグザルティドの教えが彼らに希望を与えている。彼らはフェニックスプロジェクトに感謝を表している。"
 
 #, fuzzy
 #| msgctxt "GeoEvents/AN6_CHOICE_0_TEXT"
@@ -6433,7 +6430,7 @@ msgctxt "Anu/AN6_CHOICE_2_OUTCOME_GENERAL"
 msgid ""
 "\"\"None shall be brought to the Dead God by force,\"\" a priest assures our operatives. \"\"But those who do not follow the path of the Exalted, who refuse the wisdom of the Synod of Yearning, "
 "cannot receive the divine blessings, and will never attain perfection.\"\""
-msgstr ""
+msgstr "\"\"無理やりに死せる神への信仰を強制させられるなど、あってはならないことだ。\"\"祭司の一人が職員に請け合う。\"\"だがイグザルティドの道に従わずシノッド・オブ・ヤーニングの叡智を拒む者らは、神聖な祝福を授かる事ができない。そして完全さに到達することもけっしてないだろう。\"\""
 
 #| msgctxt "GeoEvents/AN6_CHOICE_2_TEXT"
 #| msgid "Offer resources in exchange for guarantees that the refugees will be granted religious freedom."
@@ -6458,7 +6455,6 @@ msgctxt "Anu/AN6_CHOICE_3_TEXT"
 msgid "Ask Synedrion for assistance."
 msgstr "シネドリオンに支援を求める。"
 
-#, fuzzy
 #| msgctxt "GeoEvents/AN6_TEXT_GENERAL_0"
 #| msgid ""
 #| "At [HavenName], the atmosphere is subdued. Many of the haven's inhabitants are newly-arrived refugees from the fallen independent haven of Balarama Bridge and are still shaken by the disaster that "
@@ -6468,20 +6464,20 @@ msgid ""
 "At [HavenName], the atmosphere is subdued. A massive caravan of refugees from the fallen haven of Balarama Bridge has just arrived, and many of them are still shaken by the disaster that claimed "
 "hundreds of lives. The priests are busy tending to the injured, but they are afraid that many will die in the next few days. \"\"The human body is imperfect,\"\" one of the priests sighs. \"\"But "
 "it's not only external injuries that claim lives. Memories, too, can kill, when kindness is in short supply.\"\""
-msgstr "[HavenName]の雰囲気は静かだ。このヘイヴンの住民の多くは、陥落したヘイヴン・バララーマブリッジからの難民達であり、何百人もの命を奪った災禍に今なお震えている。祭司達は負傷者の世話で忙しく、進行のない者達とはあまり話そうとしない。"
+msgstr ""
+"[HavenName]の雰囲気は静かだ。陥落したヘイヴン・バララーマブリッジからの大規模な難民旅団が到着したばかりであり、その多くが何百人もの命を奪った災禍に今なお震えている。祭司達が負傷者の世話に追われているが、彼らはあと数日で多くの者が死ぬのではないかと心配している。\"\"人の肉体は不完全だ。\"\"祭司の一人がため息をつく。\"\"だが命を奪うのは外傷だけではない。思いやりが不足する時にあっては、記憶もまた打ちのめしてくるものとなる。\"\""
 
 msgctxt "Anu/AN6_TITLE"
 msgid "Haunted"
 msgstr ""
 
-#, fuzzy
 #| msgctxt "GeoEvents/AN7_CHOICE_0_OUTCOME_GENERAL"
 #| msgid ""
 #| "The world is changing rapidly, the Anagnostes says, and understanding the new shape it is taking on will be essential to the survival and evolution of humanity. An evolution that the Phoenix Project"
 #| " could be part of, if it chooses to."
 msgctxt "Anu/AN7_CHOICE_0_OUTCOME_GENERAL"
 msgid "The world is changing rapidly, the Anagnostes says, and understanding the new shape it is taking on will be essential to the survival and evolution of humanity."
-msgstr "世界は急速に変化している。その世界が現在形作っている新たな形状を理解することは、人類の生存と進化に必要不可欠である。そうアナグノステスは言う。フェニックスプロジェクトがその一端を担う進化。私達がそれを選べばの話だが。"
+msgstr "アナグノステスは言う。世界は急速に変化しており、その世界が現在形作っている新たな形状を理解することは、人類の生存と進化に必要不可欠であると。"
 
 #, fuzzy
 #| msgctxt "GeoEvents/AN7_CHOICE_0_TEXT"
@@ -6504,14 +6500,13 @@ msgctxt "Anu/AN7_CHOICE_1_TEXT"
 msgid "Politely decline."
 msgstr "丁重に断る。"
 
-#, fuzzy
 #| msgctxt "GeoEvents/AN7_TEXT_GENERAL_0"
 #| msgid ""
 #| "The Anagnostes of [HavenName], formerly a professor of geography at a major university of the old world, offers to share information with our operatives in exchange for resources for his sacred "
 #| "studies."
 msgctxt "Anu/AN7_TEXT_GENERAL_0"
 msgid "The Anagnostes of [HavenName], formerly a professor of geography at a major university of the old world, is highly interested in the Phoenix Project and proposes an information exchange."
-msgstr "かつては旧世界の有名大学の地理学教授であった[HavenName]のアナグノステスは、神聖な研究に用いるための資源と引き換えに情報を提供することを申し出ている。"
+msgstr "かつては旧世界の有名大学の地理学教授であった[HavenName]のアナグノステスはフェニックスプロジェクトに強い興味を抱いており、情報交換を提案している。"
 
 msgctxt "Anu/AN7_TITLE"
 msgid "Maps of the Earth"
@@ -6519,7 +6514,7 @@ msgstr ""
 
 msgctxt "Anu/AN8_CHOICE_0_OUTCOME_GENERAL"
 msgid "\"\"These things were captured on the battlefield. We hope they shall be of use to you,\"\" the Skeuophylax says as a crate is delivered to our vehicle."
-msgstr ""
+msgstr "\"\"これらの品は戦場で獲得されたもの。あなた方の役に立つものとなることを願う。\"\"私達の乗り物に箱を届けながら、スケオフィラックスがそう述べる。"
 
 #| msgctxt "GeoEvents/AN10_CHOICE_1_TEXT"
 #| msgid "Decline the gift."
@@ -6541,7 +6536,6 @@ msgctxt "Anu/AN8_CHOICE_1_TEXT"
 msgid "Decline the gifts."
 msgstr "この贈り物を辞退する。"
 
-#, fuzzy
 #| msgctxt "GeoEvents/AN8_TEXT_GENERAL_0"
 #| msgid ""
 #| "Things at [HavenName] are a little unsettled; a recent visit from the Shadowed Hierarch resulted in the previous Exarch disappearing overnight. Our operatives are greeted formally, with great "
@@ -6550,7 +6544,7 @@ msgctxt "Anu/AN8_TEXT_GENERAL_0"
 msgid ""
 "Things at [HavenName] are a little unsettled; a recent visit from the Shadowed Hierarch resulted in the previous Exarch disappearing overnight. Our operatives are greeted formally, with great "
 "attention paid to each necessary ritual.[LF][LF]After the rituals are concluded, the inhabitants present our operatives with gifts."
-msgstr "[HavenName]の事態は少々不穏だ。シャドウド・ハイアラークの最近の訪問が、前任のエクザルフが一夜のうちに居なくなるという結果をもたらしたからだ。私達の隊員は、それぞれに細心の注意を払った儀式をもって礼儀正しく迎えられる。"
+msgstr "[HavenName]の事態は少々不穏だ。シャドウド・ハイアラークの最近の訪問が、前任のエクザルフが一夜のうちに居なくなるという結果をもたらしたからだ。隊員達は、個々に細心の注意を払った必要な儀式で礼儀正しく迎えられる。[LF][LF]儀式が完了した後、住民達が隊員に贈り物を渡してくる。"
 
 msgctxt "Anu/AN8_TITLE"
 msgid "Careful Now"
@@ -6560,7 +6554,7 @@ msgctxt "Anu/AN9_CHOICE_0_OUTCOME_GENERAL"
 msgid ""
 "As it turns out, the problem wasn't sabotage, but squirrels. Yellowish-purple glowing squirrels with strange frills, possibly incorporating nudibranch DNA. They've gnawed away at a lot of the "
 "machinery, but once located, they are easy enough to remove."
-msgstr ""
+msgstr "結局のところ、問題は破壊工作ではなくリスだった。ウミウシのDNAを取り入れたであろう、奇妙な襟毛を持ち黄色がかった紫色の光を放つリスだ。リスたちは機械の多くをかじり取っていたが、一度見つけてしまえば追い出すのは容易いものだった。"
 
 #, fuzzy
 #| msgctxt "GeoEvents/AN9_CHOICE_0_TEXT"
@@ -6576,28 +6570,26 @@ msgctxt "Anu/AN9_CHOICE_1_OUTCOME_GENERAL"
 msgid "The Skeuophylax shrugs and gets back to work. Despite her fancy title, she is an engineer at heart."
 msgstr "スケオフィラックスが肩をすくめて仕事に戻っていく。その仰々しい肩書にもかかわらず、彼女は本質的には技術者だ。"
 
-#, fuzzy
 #| msgctxt "GeoEvents/AN9_CHOICE_1_TEXT"
 #| msgid "Wish them well."
 msgctxt "Anu/AN9_CHOICE_1_TEXT"
 msgid "Wish her well."
-msgstr "彼らの幸運を祈る。"
+msgstr "彼女が上手くやることを祈る。"
 
 msgctxt "Anu/AN9_CHOICE_2_OUTCOME_GENERAL"
 msgid "While the Skeuophylax is distracted, our operatives strategically disable some of the most important industrial machinery in [HavenName]. There will be suspicions, but no proof it was us."
-msgstr ""
+msgstr "スケオフィラックスが気をとられているうちに、職員達が[HavenName]で最も重要な機械のいくつかを戦略的に機能不全にする。疑惑は残るだろうが、私達の仕業だという証拠はない。"
 
-#, fuzzy
 #| msgctxt "GeoEvents/AN9_CHOICE_2_TEXT"
 #| msgid "Sabotage the fortifications."
 msgctxt "Anu/AN9_CHOICE_2_TEXT"
 msgid "Sabotage the facilities even more."
-msgstr "防衛設備を破壊工作する。"
+msgstr "施設をさらに破壊する。"
 
 msgctxt "Anu/AN9_TEXT_GENERAL_0"
 msgid ""
 "When our operatives arrive at [HavenName], the local Skeuophylax is busy trying to repair the haven's production facilities, which were recently damaged by what she suspects was an act of sabotage."
-msgstr ""
+msgstr "職員達が[HavenName]に到着した時、現地のスケオフィラックスはこのヘイヴンの生産施設を修理しようと忙しかった。この施設は最近ダメージを受けたのだが、彼女は破壊工作を疑っている。"
 
 msgctxt "Anu/AN9_TITLE"
 msgid "Sabotage!"
