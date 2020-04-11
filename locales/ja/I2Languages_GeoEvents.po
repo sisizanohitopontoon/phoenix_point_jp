@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2020-04-10 14:44+0000\n"
+"PO-Revision-Date: 2020-04-10 14:48+0000\n"
 "Last-Translator: higema <ltdhyndsh@yahoo.co.jp>\n"
 "Language-Team: \n"
 "Language: ja\n"
@@ -7819,7 +7819,7 @@ msgstr ""
 #| msgid "Recruit the soldier."
 msgctxt "Exploration/EX100_CHOICE_0_TEXT"
 msgid "Search the site."
-msgstr "この場所を捜索する。"
+msgstr "この兵士を雇用する。"
 
 msgctxt "Exploration/EX100_TEXT_GENERAL_0"
 msgid ""
@@ -8284,6 +8284,7 @@ msgid ""
 "here is anyone's guess; the captain's log is nothing but mad scrawls, and the ship's interor is covered in a sticky, translucent membrane. The wind echoes weirdly down its corridors, distorted into "
 "an eerie moaning by the membrane. [LF][LF]The cargo appears to be intact."
 msgstr ""
+"職員達は浜に打ち上げられた難破船を発見した。このモルツェスタス号は2026年にサルガッソ海で謎の消失を遂げた、サンフランシスコに登録されていた貨物船である。どのようにしてこの船がここに行き着いたのかは、誰にも分からない。船長の航海記録には狂った殴り書きしかなく、船内は粘つく半透明の膜で覆われている。風の音が通路内で奇妙に響き渡り、膜のせいで不気味なうなるような音に歪めらている。[LF][LF]どうやら積み荷は無傷のようだ。"
 
 msgctxt "Exploration/EX19_TITLE"
 msgid "Ghost Ship"
@@ -8313,20 +8314,19 @@ msgstr ""
 
 msgctxt "Exploration/EX20_CHOICE_0_OUTCOME_GENERAL"
 msgid "All available resources have been recovered. This place deserves no further attention."
-msgstr ""
+msgstr "利用可能な資源を全て回収した。この場所はそれ以上の注意を惹くに値しない。"
 
-#, fuzzy
 #| msgctxt "GeoEvents/AN11_CHOICE_2_TEXT"
 #| msgid "Recruit the soldier."
 msgctxt "Exploration/EX20_CHOICE_0_TEXT"
 msgid "Search the site."
-msgstr "この兵士を雇用する。"
+msgstr "この場所を捜索する。"
 
 msgctxt "Exploration/EX20_TEXT_GENERAL_0"
 msgid ""
 "Our operatives have located an abandoned camp previously used by a local paramilitary organization. During the waning days of World War III, dozens of \"\"socially undesirable\"\" people were "
 "executed here. It appears to have briefly been used as a shelter, but the doors to the main building have been ripped off their hinges and skeletons litter the corridors."
-msgstr ""
+msgstr "職員達は放棄された野営地を発見した。以前は地元の民兵組織が使用していた場所だ。第三次世界大戦が終わりに近づく日々の中、「社会的に望ましくない」とされた多くの人々がここで処刑されていた。ここは一時的にシェルターとして使用されていたようだが、中心となる建物に続く扉の蝶番が剥ぎ取られており、通路には白骨死体が散乱している。"
 
 msgctxt "Exploration/EX20_TITLE"
 msgid "This Place is Death"
@@ -8367,12 +8367,11 @@ msgctxt "Exploration/EX22_CHOICE_0_OUTCOME_GENERAL"
 msgid "All available resources have been recovered. Despite its history, this place really is little more than a warehouse now."
 msgstr ""
 
-#, fuzzy
 #| msgctxt "GeoEvents/AN11_CHOICE_2_TEXT"
 #| msgid "Recruit the soldier."
 msgctxt "Exploration/EX22_CHOICE_0_TEXT"
 msgid "Search the site."
-msgstr "この兵士を雇用する。"
+msgstr "この場所を捜索する。"
 
 msgctxt "Exploration/EX22_TEXT_GENERAL_0"
 msgid ""
@@ -8388,12 +8387,11 @@ msgctxt "Exploration/EX23_CHOICE_0_OUTCOME_GENERAL"
 msgid "Our operatives return with the resources they could scavenge. None of them wish to discuss what they've seen."
 msgstr ""
 
-#, fuzzy
 #| msgctxt "GeoEvents/AN11_CHOICE_2_TEXT"
 #| msgid "Recruit the soldier."
 msgctxt "Exploration/EX23_CHOICE_0_TEXT"
 msgid "Search the site."
-msgstr "この兵士を雇用する。"
+msgstr "この場所を捜索する。"
 
 msgctxt "Exploration/EX23_CHOICE_1_OUTCOME_GENERAL"
 msgid "Our operatives see enough horrifying things already, they don't need more."
@@ -8419,12 +8417,11 @@ msgid ""
 "underneath, presaging the scandal that ended Halleck's career. Some of the notes in the lab seem to hint at the possibility that Halleck's fall was engineered by Phoenix Project operatives."
 msgstr ""
 
-#, fuzzy
 #| msgctxt "GeoEvents/AN11_CHOICE_2_TEXT"
 #| msgid "Recruit the soldier."
 msgctxt "Exploration/EX24_CHOICE_0_TEXT"
 msgid "Search the site."
-msgstr "この兵士を雇用する。"
+msgstr "この場所を捜索する。"
 
 msgctxt "Exploration/EX24_TEXT_GENERAL_0"
 msgid ""
@@ -8442,12 +8439,11 @@ msgid ""
 "full of."
 msgstr ""
 
-#, fuzzy
 #| msgctxt "GeoEvents/AN11_CHOICE_2_TEXT"
 #| msgid "Recruit the soldier."
 msgctxt "Exploration/EX25_CHOICE_0_TEXT"
 msgid "Search the site."
-msgstr "この兵士を雇用する。"
+msgstr "この場所を捜索する。"
 
 msgctxt "Exploration/EX25_TEXT_GENERAL_0"
 msgid ""
@@ -8466,12 +8462,11 @@ msgid ""
 "older, isolated outbreaks of the Pandoravirus, and as such are invaluable to our scientists."
 msgstr ""
 
-#, fuzzy
 #| msgctxt "GeoEvents/AN11_CHOICE_2_TEXT"
 #| msgid "Recruit the soldier."
 msgctxt "Exploration/EX26_CHOICE_0_TEXT"
 msgid "Search the site."
-msgstr "この兵士を雇用する。"
+msgstr "この場所を捜索する。"
 
 msgctxt "Exploration/EX26_CHOICE_1_OUTCOME_GENERAL"
 msgid "Those yellow growths look dangerous. Perhaps this information can be recovered after the Pandoravirus has been defeated."
@@ -8518,12 +8513,11 @@ msgid ""
 "crashed, is easy to dismantle. There are also crates full of unsold juice packets, which oddly enough seem not to have expired."
 msgstr ""
 
-#, fuzzy
 #| msgctxt "GeoEvents/AN11_CHOICE_2_TEXT"
 #| msgid "Recruit the soldier."
 msgctxt "Exploration/EX28_CHOICE_0_TEXT"
 msgid "Search the site."
-msgstr "この兵士を雇用する。"
+msgstr "この場所を捜索する。"
 
 msgctxt "Exploration/EX28_TEXT_GENERAL_0"
 msgid ""
@@ -8594,12 +8588,11 @@ msgid ""
 "To think of all that could have been!"
 msgstr ""
 
-#, fuzzy
 #| msgctxt "GeoEvents/AN11_CHOICE_2_TEXT"
 #| msgid "Recruit the soldier."
 msgctxt "Exploration/EX30_CHOICE_0_TEXT"
 msgid "Search the site."
-msgstr "この兵士を雇用する。"
+msgstr "この場所を捜索する。"
 
 msgctxt "Exploration/EX30_TEXT_GENERAL_0"
 msgid ""
@@ -9639,12 +9632,11 @@ msgctxt "Exploration/EX59_CHOICE_0_OUTCOME_GENERAL"
 msgid "There are some spare parts here that we could use."
 msgstr ""
 
-#, fuzzy
 #| msgctxt "GeoEvents/AN11_CHOICE_2_TEXT"
 #| msgid "Recruit the soldier."
 msgctxt "Exploration/EX59_CHOICE_0_TEXT"
 msgid "Search the site."
-msgstr "この兵士を雇用する。"
+msgstr "この場所を捜索する。"
 
 msgctxt "Exploration/EX59_TEXT_GENERAL_0"
 msgid ""
@@ -10568,12 +10560,11 @@ msgctxt "Exploration/EX90_CHOICE_0_OUTCOME_GENERAL"
 msgid "There's not much left, but something is better than nothing."
 msgstr ""
 
-#, fuzzy
 #| msgctxt "GeoEvents/AN11_CHOICE_2_TEXT"
 #| msgid "Recruit the soldier."
 msgctxt "Exploration/EX90_CHOICE_0_TEXT"
 msgid "Search the site."
-msgstr "この兵士を雇用する。"
+msgstr "この場所を捜索する。"
 
 msgctxt "Exploration/EX90_TEXT_GENERAL_0"
 msgid ""
@@ -10589,12 +10580,11 @@ msgctxt "Exploration/EX91_CHOICE_0_OUTCOME_GENERAL"
 msgid "It's strange to wander about this place - they could have been us, or we could have been them."
 msgstr ""
 
-#, fuzzy
 #| msgctxt "GeoEvents/AN11_CHOICE_2_TEXT"
 #| msgid "Recruit the soldier."
 msgctxt "Exploration/EX91_CHOICE_0_TEXT"
 msgid "Search the site."
-msgstr "この兵士を雇用する。"
+msgstr "この場所を捜索する。"
 
 msgctxt "Exploration/EX91_TEXT_GENERAL_0"
 msgid ""
@@ -10610,12 +10600,11 @@ msgctxt "Exploration/EX92_CHOICE_0_OUTCOME_GENERAL"
 msgid "This is unpleasant work. The place still smells of death, and there is a sense of violation, of our presence disturbing the peace of the dead."
 msgstr ""
 
-#, fuzzy
 #| msgctxt "GeoEvents/AN11_CHOICE_2_TEXT"
 #| msgid "Recruit the soldier."
 msgctxt "Exploration/EX92_CHOICE_0_TEXT"
 msgid "Search the site."
-msgstr "この兵士を雇用する。"
+msgstr "この場所を捜索する。"
 
 msgctxt "Exploration/EX92_CHOICE_1_OUTCOME_GENERAL"
 msgid "These people came here to escape the horrors of the world. Maybe we should not disturb them."
@@ -10642,12 +10631,11 @@ msgctxt "Exploration/EX93_CHOICE_0_OUTCOME_GENERAL"
 msgid "Other scavengers have been here before us, but there are still some parts we can use."
 msgstr ""
 
-#, fuzzy
 #| msgctxt "GeoEvents/AN11_CHOICE_2_TEXT"
 #| msgid "Recruit the soldier."
 msgctxt "Exploration/EX93_CHOICE_0_TEXT"
 msgid "Search the site."
-msgstr "この兵士を雇用する。"
+msgstr "この場所を捜索する。"
 
 msgctxt "Exploration/EX93_TEXT_GENERAL_0"
 msgid "The [AircraftName] has landed outside an abandoned junkyard. There are hundreds of rusting vehicles and automotive parts here. Hopefully we can find something useful."
@@ -10681,12 +10669,11 @@ msgid ""
 "government forces who came to arrest them. Looks like it didn't work."
 msgstr ""
 
-#, fuzzy
 #| msgctxt "GeoEvents/AN11_CHOICE_2_TEXT"
 #| msgid "Recruit the soldier."
 msgctxt "Exploration/EX95_CHOICE_0_TEXT"
 msgid "Search the site."
-msgstr "この兵士を雇用する。"
+msgstr "この場所を捜索する。"
 
 msgctxt "Exploration/EX95_TEXT_GENERAL_0"
 msgid "Our operatives have set down in what looks like an abandoned compound. The concrete walls have been breached and there's old bloodstains all over the grey cement."
@@ -10702,12 +10689,11 @@ msgid ""
 "mutated flukeworm, but in the ends the fumes were more dangerous than the mutant."
 msgstr ""
 
-#, fuzzy
 #| msgctxt "GeoEvents/AN11_CHOICE_2_TEXT"
 #| msgid "Recruit the soldier."
 msgctxt "Exploration/EX96_CHOICE_0_TEXT"
 msgid "Search the site."
-msgstr "この兵士を雇用する。"
+msgstr "この場所を捜索する。"
 
 msgctxt "Exploration/EX96_CHOICE_1_OUTCOME_GENERAL"
 msgid "There are limits to what a Phoenix Project operative should have to do."
@@ -10729,12 +10715,11 @@ msgctxt "Exploration/EX97_CHOICE_0_OUTCOME_GENERAL"
 msgid "There's a surprising amount of functional tech here. Good that we found this place."
 msgstr ""
 
-#, fuzzy
 #| msgctxt "GeoEvents/AN11_CHOICE_2_TEXT"
 #| msgid "Recruit the soldier."
 msgctxt "Exploration/EX97_CHOICE_0_TEXT"
 msgid "Search the site."
-msgstr "この兵士を雇用する。"
+msgstr "この場所を捜索する。"
 
 msgctxt "Exploration/EX97_TEXT_GENERAL_0"
 msgid "Our operatives have set down outside an abandoned factory. There's a lot of old and wrecked machinery here. Perhaps we can use some of it?"
@@ -10748,12 +10733,11 @@ msgctxt "Exploration/EX98_CHOICE_0_OUTCOME_GENERAL"
 msgid "Most of the fresh and frozen food rotted years ago, but there are still shelves full of canned goods. Some of these may still be edible. Our operatives have gathered up whatever thay can."
 msgstr ""
 
-#, fuzzy
 #| msgctxt "GeoEvents/AN11_CHOICE_2_TEXT"
 #| msgid "Recruit the soldier."
 msgctxt "Exploration/EX98_CHOICE_0_TEXT"
 msgid "Search the site."
-msgstr "この兵士を雇用する。"
+msgstr "この場所を捜索する。"
 
 msgctxt "Exploration/EX98_TEXT_GENERAL_0"
 msgid "Our operatives have set down outside an abandoned supermarket. There might be supplies here that we can use."
@@ -10767,12 +10751,11 @@ msgctxt "Exploration/EX99_CHOICE_0_OUTCOME_GENERAL"
 msgid "Our team found the remains of a camp inside the supermarket warehouse. It looks like people tried to live here for a while. However, there's no one left alive and very little we can use."
 msgstr ""
 
-#, fuzzy
 #| msgctxt "GeoEvents/AN11_CHOICE_2_TEXT"
 #| msgid "Recruit the soldier."
 msgctxt "Exploration/EX99_CHOICE_0_TEXT"
 msgid "Search the site."
-msgstr "この兵士を雇用する。"
+msgstr "この場所を捜索する。"
 
 msgctxt "Exploration/EX99_TEXT_GENERAL_0"
 msgid "Our operatives have set down outside an abandoned supermarket. There might be supplies here that we can use."
