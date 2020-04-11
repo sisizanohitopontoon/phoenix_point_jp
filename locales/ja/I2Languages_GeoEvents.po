@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2020-04-11 06:55+0000\n"
+"PO-Revision-Date: 2020-04-11 06:59+0000\n"
 "Last-Translator: sisizanohito <sisizanohito@gmail.com>\n"
 "Language-Team: \n"
 "Language: ja\n"
@@ -1809,11 +1809,11 @@ msgstr "メッセージ[LF]FROM: 市民 アテナ (シネドリオン)[LF]TO: �
 
 msgctxt "Progression/PROG_SY0_WIN_CHOICE_0_TEXT"
 msgid "Acts of solidarity do not require payment."
-msgstr "共同作戦に支払いは不要です"
+msgstr "共同作戦に支払いは不要です。"
 
 msgctxt "Progression/PROG_SY0_WIN_CHOICE_1_OUTCOME_GENERAL"
 msgid "MESSAGE[LF]FROM: Citizen Athena (Synedrion)[LF]TO: Phoenix Project[LF][LF]You're welcome. I hope we can work together again."
-msgstr "メッセージ[LF]FROM: 市民アテナ(シネドリオン)[LF]TO:  フェニックスプロジェクト[LF][LF]どういたしまして。また一緒に仕事ができるといいですね。"
+msgstr "メッセージ[LF]FROM: 市民アテナ(シネドリオン)[LF]TO: フェニックスプロジェクト[LF][LF]どういたしまして。また一緒に仕事ができるといいですね。"
 
 msgctxt "Progression/PROG_SY0_WIN_CHOICE_1_TEXT"
 msgid "Thank you."
@@ -2303,12 +2303,11 @@ msgid ""
 "killing, they thought we were going to surrender the human cause. And they thought we wouldn't defend ourselves. Wouldn't use violence if necessary. Let's show them the depth of their error."
 msgstr ""
 
-#, fuzzy
 #| msgctxt "GeoEvents/AN14_CHOICE_1_TEXT"
 #| msgid "The Phoenix Project cannot follow the Exalted."
 msgctxt "Progression/PROG_SY4_P_CHOICE_0_TEXT"
 msgid "The Phoenix Project will help you stop them."
-msgstr "フェニックスプロジェクトがイグザルティドに従うことはできない。"
+msgstr "フェニックスプロジェクトは、彼らを止めるのに役立ちます。"
 
 msgctxt "Progression/PROG_SY4_P_TEXT_GENERAL_0"
 msgid ""
@@ -2327,12 +2326,11 @@ msgid ""
 "base."
 msgstr ""
 
-#, fuzzy
 #| msgctxt "GeoEvents/AN14_CHOICE_1_TEXT"
 #| msgid "The Phoenix Project cannot follow the Exalted."
 msgctxt "Progression/PROG_SY4_T_CHOICE_0_TEXT"
 msgid "The Phoenix Project will stop them."
-msgstr "フェニックスプロジェクトがイグザルティドに従うことはできない。"
+msgstr "フェニックスプロジェクトが彼らを阻止します。"
 
 msgctxt "Progression/PROG_SY4_T_TEXT_GENERAL_0"
 msgid ""
@@ -2359,12 +2357,11 @@ msgid ""
 " our chance to turn those values into reality."
 msgstr ""
 
-#, fuzzy
 #| msgctxt "GeoEvents/AN9_CHOICE_0_TEXT"
 #| msgid "Offer assistance."
 msgctxt "Progression/PROG_SY4_WIN1_CHOICE_0_TEXT"
 msgid "Enter alliance."
-msgstr "手伝いを申し出る。"
+msgstr "同盟を結ぶ。"
 
 msgctxt "Progression/PROG_SY4_WIN1_TEXT_GENERAL_0"
 msgid ""
@@ -2411,12 +2408,11 @@ msgctxt "Progression/PROG_SY5_FAIL_CHOICE_0_OUTCOME_GENERAL"
 msgid "We will have to seek new alternatives to save the Earth."
 msgstr "我々は地球を救うために別の選択肢を模索する必要があります。"
 
-#, fuzzy
 #| msgctxt "GeoEvents/AN13_CHOICE_0_TEXT"
 #| msgid "Accept."
 msgctxt "Progression/PROG_SY5_FAIL_CHOICE_0_TEXT"
 msgid "Accept."
-msgstr "受け取る。"
+msgstr "承諾する。"
 
 msgctxt "Progression/PROG_SY5_FAIL_TEXT_GENERAL_0"
 msgid "Our failure to protect the launch side has had dramatic consequences: Synedrion has voted to break off diplomatic relations with us. Apparently we have been deemed untrustworthy."
@@ -2538,12 +2534,11 @@ msgid ""
 "the war could be over."
 msgstr ""
 
-#, fuzzy
 #| msgctxt "GeoEvents/AN14_CHOICE_1_TEXT"
 #| msgid "The Phoenix Project cannot follow the Exalted."
 msgctxt "Progression/PROG_SY6_P_CHOICE_0_TEXT"
 msgid "The Phoenix Project is ready."
-msgstr "フェニックスプロジェクトがイグザルティドに従うことはできない。"
+msgstr "フェニックスプロジェクトの準備が整いました。"
 
 msgctxt "Progression/PROG_SY6_P_TEXT_GENERAL_0"
 msgid ""
@@ -2560,12 +2555,11 @@ msgctxt "Progression/PROG_SY6_T_CHOICE_0_OUTCOME_GENERAL"
 msgid "MESSAGE[LF]FROM: Citizen Nikolai[LF]TO: Phoenix Project[LF][LF]Then let us make this happen. Let us win."
 msgstr ""
 
-#, fuzzy
 #| msgctxt "GeoEvents/AN14_CHOICE_1_TEXT"
 #| msgid "The Phoenix Project cannot follow the Exalted."
 msgctxt "Progression/PROG_SY6_T_CHOICE_0_TEXT"
 msgid "The Phoenix Project is ready."
-msgstr "フェニックスプロジェクトがイグザルティドに従うことはできない。"
+msgstr "フェニックスプロジェクトの準備が整いました。"
 
 msgctxt "Progression/PROG_SY6_T_TEXT_GENERAL_0"
 msgid ""
@@ -2621,23 +2615,21 @@ msgid ""
 "saving the world."
 msgstr ""
 
-#, fuzzy
 #| msgctxt "GeoEvents/AN13_CHOICE_0_TEXT"
 #| msgid "Accept."
 msgctxt "Progression/PROG_SY8_CHOICE_0_TEXT"
 msgid "Accept gift."
-msgstr "受け取る。"
+msgstr "贈り物を受け取る。"
 
 msgctxt "Progression/PROG_SY8_CHOICE_1_OUTCOME_GENERAL"
 msgid "MESSAGE[LF]FROM: Citizen Stas (Synedrion)[LF]TO: Phoenix Project[LF][LF]Oh. What a shame. Uh... well, I suppose that's politics for you. Always worrying about what other people will think."
 msgstr ""
 
-#, fuzzy
 #| msgctxt "GeoEvents/AN10_CHOICE_1_TEXT"
 #| msgid "Decline the gift."
 msgctxt "Progression/PROG_SY8_CHOICE_1_TEXT"
 msgid "Reject gift."
-msgstr "この贈り物を辞退する。"
+msgstr "贈り物を拒否する。"
 
 msgctxt "Progression/PROG_SY8_TEXT_GENERAL_0"
 msgid ""
