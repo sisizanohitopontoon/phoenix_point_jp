@@ -2204,7 +2204,7 @@ msgstr "[null]"
 
 msgctxt "GeoEvents/PROG_PU121_TEXT_GENERAL_0"
 msgid "MESSAGE[LF][LF]Good move, Phoenix Project. You think you can beat us at our own game? Tobias West thought the same way and look at him now: trembling behind his walls and adjutants, terrified of every sound in the dark.[LF]You’ll be like that soon, and you’ll never know when that sound turns out to be us."
-msgstr "СООБЩЕНИЕ[LF] [LF] Ну вы и молодцы, Проект Феникс. Думаете, что сможете победить нас в нашей игре? Тобиас Вест думал так же, и где он теперь? Дрожит за высокими стенами, прячется за подручными, пугается каждого шороха в темноте.[LF] Вас ждет та же участь. Кто знает, может это и не шорох вовсе, а эхо наших шагов."
+msgstr "СООБЩЕНИЕ[LF] [LF]Ну вы и молодцы, Проект Феникс. Думаете, что сможете победить нас в нашей игре? Тобиас Вест думал так же, и где он теперь? Дрожит за высокими стенами, прячется за подручными, пугается каждого шороха в темноте.[LF]Вас ждет та же участь. Кто знает, может это и не шорох вовсе, а эхо наших шагов."
 
 msgctxt "GeoEvents/PROG_PU121_TITLE"
 msgid "A Good Move"
@@ -2533,6 +2533,114 @@ msgstr "Наемник, предавший Синедрион, обратилс�
 msgctxt "GeoEvents/PROG_PU7_CHOICE_0_OUTCOME_GENERAL"
 msgid "MESSAGE[LF][LF]We’ve received an automated emergency transmission from a New Jericho science facility. The message is composed of the word “Overrun” repeated in loop. Tracking down the location of the transmission has revealed some security footage."
 msgstr "СООБЩЕНИЕ[LF] [LF] Мы получили экстренную передачу из научного центра в Новом Иерихоне. Это автоматически отправленное сообщение, в котором повторяется единственное слово — «Нападение». Отслеживание местоположения передачи выявило некоторые кадры с камер наблюдения."
+
+msgctxt "GeoEvents/RE23_CHOICE_0_TEXT"
+msgid "OK"
+msgstr "ОК."
+
+msgctxt "GeoEvents/RE23_TEXT_GENERAL_0"
+msgid "MESSAGE[LF]FROM: Citizen Athena (Synedrion)[LF][LF]Synedrion is now SUPPORTIVE of the Phoenix Project. The locations of Synedrion havens have been added to the geoscape. Defend them to earn reputation. Failure to defend a haven under attack will lose some support."
+msgstr "СООБЩЕНИЕ[LF] ОТПРАВИТЕЛЬ: Гражданка Афина (Синедрион)[LF] [LF] Синедрион теперь СТОРОННИК Проекта Феникс. Места расположения убежищ Синедриона были добавлены в геоскоп. Защищайте их, чтобы заработать репутацию. Если вам не удастся защитить атакованное убежище, вы потеряете часть поддержки."
+
+msgctxt "GeoEvents/RE23_TITLE"
+msgid "SUPPORTIVE"
+msgstr "СТОРОННИК"
+
+msgctxt "GeoEvents/RE24_CHOICE_0_TEXT"
+msgid "OK"
+msgstr "ОК."
+
+msgctxt "GeoEvents/RE24_TEXT_GENERAL_0"
+msgid "MESSAGE[LF]FROM: Citizen Athena (Synedrion)[LF][LF]Synedrion is now ALIGNED with the goals and values of the Phoenix Project. All completed Synedrion research is now shared with Phoenix, and can be accessed from the Research List."
+msgstr "СООБЩЕНИЕ[LF] ОТПРАВИТЕЛЬ: Гражданка Афина (Синедрион)[LF] [LF] Синедрион теперь ПОПУТЧИК Проекта Феникс и имеет с ним общие цели и ценности. Теперь в списке исследований Феникса откроется доступ ко всем проведенным исследованиям Синедриона."
+
+msgctxt "GeoEvents/RE24_TITLE"
+msgid "ALIGNED"
+msgstr "ПОПУТЧИК"
+
+msgctxt "GeoEvents/RE25_CHOICE_0_TEXT"
+msgid "OK"
+msgstr "ОК."
+
+msgctxt "GeoEvents/RE25_TEXT_GENERAL_0"
+msgid "MESSAGE[LF]FROM: Citizen Athena (Synedrion)[LF][LF]Synedrion is now ALLIED with the Phoenix Project, and will co-operate on finding a solution to the Pandoran threat. Phoenix may now actively participate in Synedrion research projects."
+msgstr "СООБЩЕНИЕ[LF] ОТПРАВИТЕЛЬ: Гражданка Афина (Синедрион)[LF] [LF] Синедрион теперь СОЮЗНИК Проекта Феникс и поможет найти решение для пандоранской угрозы. Феникс теперь может активно участвовать в исследовательских проектах Синедриона."
+
+msgctxt "GeoEvents/RE25_TITLE"
+msgid "ALLIED"
+msgstr "СОЮЗНИК"
+
+msgctxt "GeoEvents/RE26_CHOICE_0_TEXT"
+msgid "OK"
+msgstr "ОК."
+
+msgctxt "GeoEvents/RE26_TEXT_GENERAL_0"
+msgid "MESSAGE[LF]FROM: The Exalted (Anu)[LF][LF]The Disciples of Anu are now SUPPORTIVE of the Phoenix Project. The locations of Disciples of Anu havens have been added to the geoscape. Defend them to earn reputation. Failure to defend a haven under attack will lose some support."
+msgstr "СООБЩЕНИЕ[LF] ОТПРАВИТЕЛЬ: Возвышенная (Ану)[LF] [LF] Последователи Ану теперь СТОРОННИКИ Проекта Феникс. Места расположения убежищ Последователей Ану были добавлены в геоскоп. Защищайте их, чтобы заработать репутацию. Если вам не удастся защитить атакованное убежище, вы потеряете часть поддержки."
+
+msgctxt "GeoEvents/RE26_TITLE"
+msgid "SUPPORTIVE"
+msgstr "СТОРОННИК"
+
+msgctxt "GeoEvents/RE27_CHOICE_0_TEXT"
+msgid "OK"
+msgstr "ОК."
+
+msgctxt "GeoEvents/RE27_TEXT_GENERAL_0"
+msgid "MESSAGE[LF]FROM: The Exalted (Anu)[LF][LF]The Disciples of Anu are now ALIGNED with the goals and values of the Phoenix Project. All completed Disciples of Anu research is now shared with Phoenix, and can be accessed from the Research List."
+msgstr "СООБЩЕНИЕ[LF] ОТПРАВИТЕЛЬ: Возвышенная (Ану)[LF] [LF] Последователи Ану теперь ПОПУТЧИКИ Проекта Феникс и имеют с ним общие цели и ценности. Теперь в списке исследований Феникса откроется доступ ко всем проведенным исследованиям Последователей Ану."
+
+msgctxt "GeoEvents/RE27_TITLE"
+msgid "ALIGNED"
+msgstr "ПОПУТЧИК"
+
+msgctxt "GeoEvents/RE28_CHOICE_0_TEXT"
+msgid "OK"
+msgstr "ОК."
+
+msgctxt "GeoEvents/RE28_TEXT_GENERAL_0"
+msgid "MESSAGE[LF]FROM: The Exalted (Anu)[LF][LF]The Disciples of Anu are now ALLIED with the Phoenix Project, and will co-operate on finding a solution to the Pandoran threat. Phoenix may now actively participate in Disciples of Anu research projects."
+msgstr "СООБЩЕНИЕ[LF] ОТПРАВИТЕЛЬ: Возвышенная (Ану)[LF] [LF] Последователи Ану теперь СОЮЗНИКИ Проекта Феникс и помогут найти решение для пандоранской угрозы. Феникс теперь может активно участвовать в исследовательских проектах Последователей Ану."
+
+msgctxt "GeoEvents/RE28_TITLE"
+msgid "ALLIED"
+msgstr "СОЮЗНИК"
+
+msgctxt "GeoEvents/RE29_CHOICE_0_TEXT"
+msgid "OK"
+msgstr "ОК."
+
+msgctxt "GeoEvents/RE29_TEXT_GENERAL_0"
+msgid "MESSAGE[LF]FROM: Tobias West (New Jericho)[LF][LF]New Jericho is now SUPPORTIVE of the Phoenix Project. The locations of New Jericho havens have been added to the geoscape. Defend them to earn reputation. Failure to defend a haven under attack will lose some support."
+msgstr "СООБЩЕНИЕ[LF] ОТПРАВИТЕЛЬ: Тобиас Вест (Новый Иерихон)[LF] [LF] Новый Иерихон теперь СТОРОННИК Проекта Феникс. Места расположения убежищ Нового Иерихона были добавлены в геоскоп. Защищайте их, чтобы заработать репутацию. Если вам не удастся защитить атакованное убежище, вы потеряете часть поддержки."
+
+msgctxt "GeoEvents/RE29_TITLE"
+msgid "SUPPORTIVE"
+msgstr "СТОРОННИК"
+
+msgctxt "GeoEvents/RE30_CHOICE_0_TEXT"
+msgid "OK"
+msgstr "ОК."
+
+msgctxt "GeoEvents/RE30_TEXT_GENERAL_0"
+msgid "New Jericho is now ALIGNED with the goals and values of the Phoenix Project. All completed New Jericho research is now shared with Phoenix, and can be accessed from the Research List."
+msgstr "СООБЩЕНИЕ[LF] ОТПРАВИТЕЛЬ: Тобиас Вест (Новый Иерихон)[LF] [LF] Новый Иерихон теперь ПОПУТЧИК Проекта Феникс и имеет с ним общие цели и ценности. Теперь в списке исследований Феникса откроется доступ ко всем проведенным исследованиям Нового Иерихона."
+
+msgctxt "GeoEvents/RE30_TITLE"
+msgid "ALIGNED"
+msgstr "ПОПУТЧИК"
+
+msgctxt "GeoEvents/RE31_CHOICE_0_TEXT"
+msgid "OK"
+msgstr "ОК."
+
+msgctxt "GeoEvents/RE31_TEXT_GENERAL_0"
+msgid "New Jericho is now ALLIED with the Phoenix Project, and will co-operate on finding a solution to the Pandoran threat. Phoenix may now actively participate in New Jericho research projects."
+msgstr "СООБЩЕНИЕ[LF] ОТПРАВИТЕЛЬ: Тобиас Вест (Новый Иерихон)[LF] [LF] Новый Иерихон теперь СОЮЗНИК Проекта Феникс и поможет найти решение для пандоранской угрозы. Феникс теперь может активно участвовать в исследовательских проектах Нового Иерихона."
+
+msgctxt "GeoEvents/RE31_TITLE"
+msgid "ALLIED"
+msgstr "СОЮЗНИК"
 
 msgctxt "Chain/CHAIN_NJ1_CHOICE_0_OUTCOME_GENERAL"
 msgid "MESSAGE[LF]FROM: Colonel Jack Harlson (New Jericho)[LF]TO: Phoenix Project[LF][LF]I look forward to receiving the results of this operation. You will be adequately compensated, of course."

@@ -2204,7 +2204,7 @@ msgstr "[null]"
 
 msgctxt "GeoEvents/PROG_PU121_TEXT_GENERAL_0"
 msgid "MESSAGE[LF][LF]Good move, Phoenix Project. You think you can beat us at our own game? Tobias West thought the same way and look at him now: trembling behind his walls and adjutants, terrified of every sound in the dark.[LF]You’ll be like that soon, and you’ll never know when that sound turns out to be us."
-msgstr "消息[LF] [LF] 干得漂亮，凤凰计划。你们以为可以在我们的游戏中战胜我们？托拜厄斯·韦斯特曾经也是这样认为的，看看他现在的处境吧：躲在他的高墙和副官身后瑟瑟发抖，害怕听见黑暗中的任何声响。[LF] 很快，你们也会和他一样，而且你们永远也不会知道那声响什么时候会是我们。"
+msgstr "消息[LF] [LF]干得漂亮，凤凰计划。你们以为可以在我们的游戏中战胜我们？托拜厄斯·韦斯特曾经也是这样认为的，看看他现在的处境吧：躲在他的高墙和副官身后瑟瑟发抖，害怕听见黑暗中的任何声响。[LF]很快，你们也会和他一样，而且你们永远也不会知道那声响什么时候会是我们。"
 
 msgctxt "GeoEvents/PROG_PU121_TITLE"
 msgid "A Good Move"
@@ -2533,6 +2533,114 @@ msgstr "一名不守规矩的平衡议会佣兵找到我们，并向我们提供
 msgctxt "GeoEvents/PROG_PU7_CHOICE_0_OUTCOME_GENERAL"
 msgid "MESSAGE[LF][LF]We’ve received an automated emergency transmission from a New Jericho science facility. The message is composed of the word “Overrun” repeated in loop. Tracking down the location of the transmission has revealed some security footage."
 msgstr "消息[LF] [LF] 我们收到了一则从新耶利哥某个科研设施发来的紧急自动传输讯息。讯息中不断重复着同一个字眼：沦陷。通过对讯息位置来源的追踪，我们看到了一些当时的安全影像。"
+
+msgctxt "GeoEvents/RE23_CHOICE_0_TEXT"
+msgid "OK"
+msgstr "好的。"
+
+msgctxt "GeoEvents/RE23_TEXT_GENERAL_0"
+msgid "MESSAGE[LF]FROM: Citizen Athena (Synedrion)[LF][LF]Synedrion is now SUPPORTIVE of the Phoenix Project. The locations of Synedrion havens have been added to the geoscape. Defend them to earn reputation. Failure to defend a haven under attack will lose some support."
+msgstr "消息[LF] 来自：市民雅典娜（平衡议会）[LF] [LF] 平衡议会目前十分支持凤凰计划。平衡议会避难所的位置已添加至世界地图。保护避难所可赢得声望，如果未能保护遭受攻击的避难所，就会失去一些支持。"
+
+msgctxt "GeoEvents/RE23_TITLE"
+msgid "SUPPORTIVE"
+msgstr "支持"
+
+msgctxt "GeoEvents/RE24_CHOICE_0_TEXT"
+msgid "OK"
+msgstr "好的。"
+
+msgctxt "GeoEvents/RE24_TEXT_GENERAL_0"
+msgid "MESSAGE[LF]FROM: Citizen Athena (Synedrion)[LF][LF]Synedrion is now ALIGNED with the goals and values of the Phoenix Project. All completed Synedrion research is now shared with Phoenix, and can be accessed from the Research List."
+msgstr "消息[LF] 来自：市民雅典娜（平衡议会）[LF] [LF] 平衡议会目前与凤凰计划的目标和价值观念达成一致。所有已完成的平衡议会研究将与凤凰计划共享，并可在研究列表中访问。"
+
+msgctxt "GeoEvents/RE24_TITLE"
+msgid "ALIGNED"
+msgstr "达成一致"
+
+msgctxt "GeoEvents/RE25_CHOICE_0_TEXT"
+msgid "OK"
+msgstr "好的。"
+
+msgctxt "GeoEvents/RE25_TEXT_GENERAL_0"
+msgid "MESSAGE[LF]FROM: Citizen Athena (Synedrion)[LF][LF]Synedrion is now ALLIED with the Phoenix Project, and will co-operate on finding a solution to the Pandoran threat. Phoenix may now actively participate in Synedrion research projects."
+msgstr "消息[LF] 来自：市民雅典娜（平衡议会）[LF] [LF] 平衡议会目前与凤凰计划结为同盟，合作寻找应对潘多拉体威胁的解决方案。凤凰计划现在可以主动参与平衡议会的研究项目。"
+
+msgctxt "GeoEvents/RE25_TITLE"
+msgid "ALLIED"
+msgstr "结为同盟"
+
+msgctxt "GeoEvents/RE26_CHOICE_0_TEXT"
+msgid "OK"
+msgstr "好的。"
+
+msgctxt "GeoEvents/RE26_TEXT_GENERAL_0"
+msgid "MESSAGE[LF]FROM: The Exalted (Anu)[LF][LF]The Disciples of Anu are now SUPPORTIVE of the Phoenix Project. The locations of Disciples of Anu havens have been added to the geoscape. Defend them to earn reputation. Failure to defend a haven under attack will lose some support."
+msgstr "消息[LF] 来自：圣尊（安努教会）[LF] [LF] 安努门徒教会目前十分支持凤凰计划。教会避难所的位置已添加至世界地图。保护避难所可赢得声望，如果未能保护遭受攻击的避难所，就会失去一些支持。"
+
+msgctxt "GeoEvents/RE26_TITLE"
+msgid "SUPPORTIVE"
+msgstr "支持"
+
+msgctxt "GeoEvents/RE27_CHOICE_0_TEXT"
+msgid "OK"
+msgstr "好的。"
+
+msgctxt "GeoEvents/RE27_TEXT_GENERAL_0"
+msgid "MESSAGE[LF]FROM: The Exalted (Anu)[LF][LF]The Disciples of Anu are now ALIGNED with the goals and values of the Phoenix Project. All completed Disciples of Anu research is now shared with Phoenix, and can be accessed from the Research List."
+msgstr "消息[LF] 来自：圣尊（安努教会）[LF] [LF] 安努门徒教会目前与凤凰计划的目标和价值观念达成一致。所有已完成的安努门徒教会研究将与凤凰计划共享，并可在研究列表中访问。"
+
+msgctxt "GeoEvents/RE27_TITLE"
+msgid "ALIGNED"
+msgstr "达成一致"
+
+msgctxt "GeoEvents/RE28_CHOICE_0_TEXT"
+msgid "OK"
+msgstr "好的。"
+
+msgctxt "GeoEvents/RE28_TEXT_GENERAL_0"
+msgid "MESSAGE[LF]FROM: The Exalted (Anu)[LF][LF]The Disciples of Anu are now ALLIED with the Phoenix Project, and will co-operate on finding a solution to the Pandoran threat. Phoenix may now actively participate in Disciples of Anu research projects."
+msgstr "消息[LF] 来自：圣尊（安努教会）[LF] [LF] 安努门徒教会目前与凤凰计划结为同盟，合作寻找应对潘多拉体威胁的解决方案。凤凰计划现在可以主动参与安努门徒教会的研究项目。"
+
+msgctxt "GeoEvents/RE28_TITLE"
+msgid "ALLIED"
+msgstr "结为同盟"
+
+msgctxt "GeoEvents/RE29_CHOICE_0_TEXT"
+msgid "OK"
+msgstr "好的。"
+
+msgctxt "GeoEvents/RE29_TEXT_GENERAL_0"
+msgid "MESSAGE[LF]FROM: Tobias West (New Jericho)[LF][LF]New Jericho is now SUPPORTIVE of the Phoenix Project. The locations of New Jericho havens have been added to the geoscape. Defend them to earn reputation. Failure to defend a haven under attack will lose some support."
+msgstr "消息[LF] 来自：托拜厄斯 韦斯特（新耶利哥）[LF] [LF] 新耶利哥目前十分支持凤凰计划。新耶利哥避难所的位置已添加至世界地图。保护避难所可赢得声望，如果未能保护遭受攻击的避难所，就会失去一些支持。"
+
+msgctxt "GeoEvents/RE29_TITLE"
+msgid "SUPPORTIVE"
+msgstr "支持"
+
+msgctxt "GeoEvents/RE30_CHOICE_0_TEXT"
+msgid "OK"
+msgstr "好的。"
+
+msgctxt "GeoEvents/RE30_TEXT_GENERAL_0"
+msgid "New Jericho is now ALIGNED with the goals and values of the Phoenix Project. All completed New Jericho research is now shared with Phoenix, and can be accessed from the Research List."
+msgstr "消息[LF] 来自：托拜厄斯 韦斯特（新耶利哥）[LF] [LF] 新耶利哥目前与凤凰计划的目标和价值观念达成一致。所有已完成的新耶利哥研究将与凤凰计划共享，并可在研究列表中访问。"
+
+msgctxt "GeoEvents/RE30_TITLE"
+msgid "ALIGNED"
+msgstr "达成一致"
+
+msgctxt "GeoEvents/RE31_CHOICE_0_TEXT"
+msgid "OK"
+msgstr "好的。"
+
+msgctxt "GeoEvents/RE31_TEXT_GENERAL_0"
+msgid "New Jericho is now ALLIED with the Phoenix Project, and will co-operate on finding a solution to the Pandoran threat. Phoenix may now actively participate in New Jericho research projects."
+msgstr "消息[LF] 来自：托拜厄斯 韦斯特（新耶利哥）[LF] [LF] 新耶利哥目前与凤凰计划结为同盟，合作寻找应对潘多拉体威胁的解决方案。凤凰计划现在可以主动参与新耶利哥的研究项目。"
+
+msgctxt "GeoEvents/RE31_TITLE"
+msgid "ALLIED"
+msgstr "结为同盟"
 
 msgctxt "Chain/CHAIN_NJ1_CHOICE_0_OUTCOME_GENERAL"
 msgid "MESSAGE[LF]FROM: Colonel Jack Harlson (New Jericho)[LF]TO: Phoenix Project[LF][LF]I look forward to receiving the results of this operation. You will be adequately compensated, of course."

@@ -2204,7 +2204,7 @@ msgstr "[null]"
 
 msgctxt "GeoEvents/PROG_PU121_TEXT_GENERAL_0"
 msgid "MESSAGE[LF][LF]Good move, Phoenix Project. You think you can beat us at our own game? Tobias West thought the same way and look at him now: trembling behind his walls and adjutants, terrified of every sound in the dark.[LF]You’ll be like that soon, and you’ll never know when that sound turns out to be us."
-msgstr "MESSAGGIO[LF] [LF] Bella mossa, Progetto Phoenix. Pensate davvero di poterci battere al nostro stesso gioco? Tobias West la pensava allo stesso modo e guardate che fine ha fatto: impaurito, nascosto dentro le sue quattro mura e dietro ai suoi aiutanti, terrorizzato da qualsiasi rumore nel buio.[LF] Anche voi sarete così, ben presto, e non saprete mai quando saremo noi a fare quel rumore."
+msgstr "MESSAGGIO[LF] [LF]Bella mossa, Progetto Phoenix. Pensate davvero di poterci battere al nostro stesso gioco? Tobias West la pensava allo stesso modo e guardate che fine ha fatto: impaurito, nascosto dentro le sue quattro mura e dietro ai suoi aiutanti, terrorizzato da qualsiasi rumore nel buio.[LF]Anche voi sarete così, ben presto, e non saprete mai quando saremo noi a fare quel rumore."
 
 msgctxt "GeoEvents/PROG_PU121_TITLE"
 msgid "A Good Move"
@@ -2533,6 +2533,114 @@ msgstr "Un mercenario corrotto di Synedrion si è fatto avanti con una proposta 
 msgctxt "GeoEvents/PROG_PU7_CHOICE_0_OUTCOME_GENERAL"
 msgid "MESSAGE[LF][LF]We’ve received an automated emergency transmission from a New Jericho science facility. The message is composed of the word “Overrun” repeated in loop. Tracking down the location of the transmission has revealed some security footage."
 msgstr "MESSAGGIO[LF] [LF] Abbiamo ricevuto una trasmissione di emergenza automatica da una struttura di ricerca di Nuova Gerico. Il messaggio contiene solo la parola \"\"Occupata\"\" ripetuta in loop. Durante l'identificazione del luogo di trasmissione sono state rinvenute delle registrazioni di sicurezza."
+
+msgctxt "GeoEvents/RE23_CHOICE_0_TEXT"
+msgid "OK"
+msgstr "OK."
+
+msgctxt "GeoEvents/RE23_TEXT_GENERAL_0"
+msgid "MESSAGE[LF]FROM: Citizen Athena (Synedrion)[LF][LF]Synedrion is now SUPPORTIVE of the Phoenix Project. The locations of Synedrion havens have been added to the geoscape. Defend them to earn reputation. Failure to defend a haven under attack will lose some support."
+msgstr "MESSAGGIO[LF] DA: Cittadina Athena (Synedrion)[LF] [LF] Ora Synedrion COOPERA con il Progetto Phoenix. Le posizioni dei rifugi di Synedrion sono state aggiunte al Globo. È necessario difenderle per guadagnare reputazione. Fallire nella difesa di un rifugio durante un attacco significa perdere supporto."
+
+msgctxt "GeoEvents/RE23_TITLE"
+msgid "SUPPORTIVE"
+msgstr "COOPERANTE"
+
+msgctxt "GeoEvents/RE24_CHOICE_0_TEXT"
+msgid "OK"
+msgstr "OK."
+
+msgctxt "GeoEvents/RE24_TEXT_GENERAL_0"
+msgid "MESSAGE[LF]FROM: Citizen Athena (Synedrion)[LF][LF]Synedrion is now ALIGNED with the goals and values of the Phoenix Project. All completed Synedrion research is now shared with Phoenix, and can be accessed from the Research List."
+msgstr "MESSAGGIO[LF] DA: Cittadina Athena (Synedrion)[LF] [LF] Ora Synedrion è ALLINEATA con gli obiettivi e i valori del Progetto Phoenix. Tutte le ricerche completate di Synedrion sono state condivise con Phoenix, e vi si può accedere tramite l'elenco delle ricerche."
+
+msgctxt "GeoEvents/RE24_TITLE"
+msgid "ALIGNED"
+msgstr "ALLINEATA"
+
+msgctxt "GeoEvents/RE25_CHOICE_0_TEXT"
+msgid "OK"
+msgstr "OK."
+
+msgctxt "GeoEvents/RE25_TEXT_GENERAL_0"
+msgid "MESSAGE[LF]FROM: Citizen Athena (Synedrion)[LF][LF]Synedrion is now ALLIED with the Phoenix Project, and will co-operate on finding a solution to the Pandoran threat. Phoenix may now actively participate in Synedrion research projects."
+msgstr "MESSAGGIO[LF] DA: Cittadina Athena (Synedrion)[LF] [LF] Ora Synedrion è ALLEATA con il Progetto Phoenix, e insieme collaboreranno per trovare una soluzione alla minaccia dei Pandora. Ora Phoenix può partecipare attivamente ai progetti di ricerca di Synedrion."
+
+msgctxt "GeoEvents/RE25_TITLE"
+msgid "ALLIED"
+msgstr "ALLEATA"
+
+msgctxt "GeoEvents/RE26_CHOICE_0_TEXT"
+msgid "OK"
+msgstr "OK."
+
+msgctxt "GeoEvents/RE26_TEXT_GENERAL_0"
+msgid "MESSAGE[LF]FROM: The Exalted (Anu)[LF][LF]The Disciples of Anu are now SUPPORTIVE of the Phoenix Project. The locations of Disciples of Anu havens have been added to the geoscape. Defend them to earn reputation. Failure to defend a haven under attack will lose some support."
+msgstr "MESSAGGIO[LF] DA: La Suprema (Anu)[LF] [LF] Ora i Discepoli di Anu COOPERANO con il Progetto Phoenix. Le posizioni dei rifugi dei Discepoli di Anu sono state aggiunte al Globo. È necessario difenderle per guadagnare reputazione. Fallire nella difesa di un rifugio durante un attacco significa perdere supporto."
+
+msgctxt "GeoEvents/RE26_TITLE"
+msgid "SUPPORTIVE"
+msgstr "COOPERANTE"
+
+msgctxt "GeoEvents/RE27_CHOICE_0_TEXT"
+msgid "OK"
+msgstr "OK."
+
+msgctxt "GeoEvents/RE27_TEXT_GENERAL_0"
+msgid "MESSAGE[LF]FROM: The Exalted (Anu)[LF][LF]The Disciples of Anu are now ALIGNED with the goals and values of the Phoenix Project. All completed Disciples of Anu research is now shared with Phoenix, and can be accessed from the Research List."
+msgstr "MESSAGGIO[LF] DA: La Suprema (Anu)[LF] [LF] Ora i Discepoli di Anu sono ALLINEATI con gli obiettivi e i valori del Progetto Phoenix. Tutte le ricerche completate dei Discepoli di Anu sono state condivise con Phoenix, e vi si può accedere tramite l'elenco delle ricerche."
+
+msgctxt "GeoEvents/RE27_TITLE"
+msgid "ALIGNED"
+msgstr "ALLINEATA"
+
+msgctxt "GeoEvents/RE28_CHOICE_0_TEXT"
+msgid "OK"
+msgstr "OK."
+
+msgctxt "GeoEvents/RE28_TEXT_GENERAL_0"
+msgid "MESSAGE[LF]FROM: The Exalted (Anu)[LF][LF]The Disciples of Anu are now ALLIED with the Phoenix Project, and will co-operate on finding a solution to the Pandoran threat. Phoenix may now actively participate in Disciples of Anu research projects."
+msgstr "MESSAGGIO[LF] DA: La Suprema (Anu)[LF] [LF] Ora i Discepoli di Anu sono ALLEATI con il Progetto Phoenix, e insieme collaboreranno per trovare una soluzione alla minaccia dei Pandora. Ora Phoenix può partecipare attivamente ai progetti di ricerca dei Discepoli di Anu."
+
+msgctxt "GeoEvents/RE28_TITLE"
+msgid "ALLIED"
+msgstr "ALLEATA"
+
+msgctxt "GeoEvents/RE29_CHOICE_0_TEXT"
+msgid "OK"
+msgstr "OK."
+
+msgctxt "GeoEvents/RE29_TEXT_GENERAL_0"
+msgid "MESSAGE[LF]FROM: Tobias West (New Jericho)[LF][LF]New Jericho is now SUPPORTIVE of the Phoenix Project. The locations of New Jericho havens have been added to the geoscape. Defend them to earn reputation. Failure to defend a haven under attack will lose some support."
+msgstr "MESSAGGIO[LF] DA: Tobias West (Nuova Gerico)[LF] [LF] Ora Nuova Gerico COOPERA con il Progetto Phoenix. Le posizioni dei rifugi di Nuova Gerico sono state aggiunte al Globo. È necessario difenderle per guadagnare reputazione. Fallire nella difesa di un rifugio durante un attacco significa perdere supporto."
+
+msgctxt "GeoEvents/RE29_TITLE"
+msgid "SUPPORTIVE"
+msgstr "COOPERANTE"
+
+msgctxt "GeoEvents/RE30_CHOICE_0_TEXT"
+msgid "OK"
+msgstr "OK."
+
+msgctxt "GeoEvents/RE30_TEXT_GENERAL_0"
+msgid "New Jericho is now ALIGNED with the goals and values of the Phoenix Project. All completed New Jericho research is now shared with Phoenix, and can be accessed from the Research List."
+msgstr "MESSAGGIO[LF] DA: Tobias West (Nuova Gerico)[LF] [LF] Ora Nuova Gerico è ALLINEATA con gli obiettivi e i valori del Progetto Phoenix. Tutte le ricerche completate di Nuova Gerico sono state condivise con Phoenix, e vi si può accedere tramite l'elenco delle ricerche."
+
+msgctxt "GeoEvents/RE30_TITLE"
+msgid "ALIGNED"
+msgstr "ALLINEATA"
+
+msgctxt "GeoEvents/RE31_CHOICE_0_TEXT"
+msgid "OK"
+msgstr "OK."
+
+msgctxt "GeoEvents/RE31_TEXT_GENERAL_0"
+msgid "New Jericho is now ALLIED with the Phoenix Project, and will co-operate on finding a solution to the Pandoran threat. Phoenix may now actively participate in New Jericho research projects."
+msgstr "MESSAGGIO[LF] DA: Tobias West (Nuova Gerico)[LF] [LF] Ora Nuova Gerico è ALLEATA con il Progetto Phoenix, e insieme collaboreranno per trovare una soluzione alla minaccia dei Pandora. Ora Phoenix può partecipare attivamente ai progetti di ricerca di Nuova Gerico."
+
+msgctxt "GeoEvents/RE31_TITLE"
+msgid "ALLIED"
+msgstr "ALLEATA"
 
 msgctxt "Chain/CHAIN_NJ1_CHOICE_0_OUTCOME_GENERAL"
 msgid "MESSAGE[LF]FROM: Colonel Jack Harlson (New Jericho)[LF]TO: Phoenix Project[LF][LF]I look forward to receiving the results of this operation. You will be adequately compensated, of course."

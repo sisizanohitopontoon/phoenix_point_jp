@@ -358,6 +358,38 @@ msgctxt "PH_Localization/KEY_OK"
 msgid "OK"
 msgstr "好的"
 
+msgctxt "Darleth/KEY_TRADE_HAVEN"
+msgid "TRADE RESOURCES WITH {0}"
+msgstr "用 {0} 交易资源"
+
+msgctxt "Darleth/KEY_TRADE_SELECT"
+msgid "SELECT HAVEN RESOURCE"
+msgstr "选择避难所资源"
+
+msgctxt "Darleth/KEY_TRADE_COSTS"
+msgid "COSTS"
+msgstr "花费"
+
+msgctxt "Darleth/KEY_TRADE_EXCHANGE"
+msgid "EXCHANGE"
+msgstr "交换"
+
+msgctxt "Darleth/KEY_TRADE_FOR"
+msgid "FOR"
+msgstr "换取"
+
+msgctxt "Darleth/KEY_TRADE_PHOENIX"
+msgid "PHOENIX PROJECT RESOURCES"
+msgstr "凤凰计划资源"
+
+msgctxt "Darleth/KEY_TRADE_NOTIFICATION"
+msgid "TRADE {0} FOR {1}"
+msgstr "用 {0} 换取 {1}"
+
+msgctxt "Darleth/KEY_TRADE_INSUFFICIENT"
+msgid "NOT ENOUGH RESOURCES TO TRADE"
+msgstr "可交易资源不足"
+
 msgctxt "Blood Titanium/KEY_ITEM_TYPE_BIONIC"
 msgid "BIONIC"
 msgstr "仿生学"
@@ -1028,7 +1060,23 @@ msgstr "仓库空间不足。请建造更多仓库设施。"
 
 msgctxt "Blood Titanium/KEY_LOAD_DLC_REQUIRED"
 msgid "The following Downloadable Content is required to load this saved game: {0}[LF][LF]Do you want to go to the store and buy them?"
-msgstr "[null]"
+msgstr "加载此游戏存档需要以下可下载内容：{0}[LF] [LF] 是否要前往商店购买？"
+
+msgctxt "Blood Titanium/KEY_TIMED_MISSION_COUNTER"
+msgid "{Objective} (ends in {time})"
+msgstr "{Objective}（{time} 后结束）"
+
+msgctxt "Blood Titanium/KEY_TIMED_MISSION_ENDED"
+msgid "The times mission {0} has expired. No further actions regarding it are possible."
+msgstr "限时任务{0}已过期。无法再进行相关行动。"
+
+msgctxt "Blood Titanium/KEY_TUTORIAL_TIMED_MISSIONS_NAME"
+msgid "Time Limited Events"
+msgstr "限时事件"
+
+msgctxt "Blood Titanium/KEY_TUTORIAL_TIMED_MISSIONS_DESCRIPTION"
+msgid "Timed limited events are time sensitive objectives that disappear after a set amount of time. If not completed within the time limit, the mission disappears and will not reappear for the remaining game."
+msgstr "限时事件是有时间限制的目标，将会在一定时间后消失。如果未能在规定时间限制内完成，该任务将会消失且不会在接下来的游戏过程中再次出现。"
 
 msgctxt "Abilities/KEY_ACID_RESISTANCE_DESCRIPTION"
 msgid "Reduces effect of Acid Damage by half"
@@ -1167,7 +1215,7 @@ msgid "EAGLE EYED"
 msgstr "目光敏锐"
 
 msgctxt "Abilities/KEY_ELECTRIC_STRIKE_DESCRIPTION"
-msgid "Dazes target if shock value is greater than target's Hit Points"
+msgid "Paralyzes target if shock value is greater than target's Hit Points"
 msgstr "若冲击值大于目标生命值，可使目标眩晕"
 
 msgctxt "Abilities/KEY_ELECTRIC_STRIKE_NAME"
@@ -4289,6 +4337,22 @@ msgstr "由于已从用户档案登出，你已回到标题界面。"
 msgctxt "Xbox/KEY_PLATFORM_YOU_WILL_BE_SIGNED_OUT"
 msgid "You will be signed out from your user profile and will be returned to the sign in screen. Do you want to continue?"
 msgstr "你即将登出用户档案并回到登入界面，要继续吗？"
+
+msgctxt "Xbox/KEY_STREAMING_INSTALL_LAUNCH"
+msgid "LAUNCH"
+msgstr "[null]"
+
+msgctxt "Xbox/KEY_STREAMING_INSTALL_CANCEL2"
+msgid "SAVE & EXIT"
+msgstr "[null]"
+
+msgctxt "Xbox/KEY_STREAMING_INSTALL_TEXT_TITLE"
+msgid "DOWNLOADING MISSION"
+msgstr "[null]"
+
+msgctxt "Xbox/KEY_STREAMING_INSTALL_TEXT_DESCRIPTION"
+msgid "The selected mission is currently being downloaded to your device. Please, wait until the download is complete before launching."
+msgstr "[null]"
 
 msgctxt "Objectives/KEY_OBJECTIVE_PROTECT_CIVILIANS"
 msgid "PROTECT ALL CIVILIANS [{0}/{1}]"
@@ -8954,10 +9018,6 @@ msgctxt "Opening Screen/KEY_BSNAPSHOT_GAMES_INC_BACKER_BUILD_END1"
 msgid "SNAPSHOT GAMES, INC.[LF]END USER LICENSE AGREEMENT[LF][LF]This End User License Agreement (“Agreement”) is a contract between you and Snapshot Games, Inc. (“Snapshot” or “we” or “us”) for you to use the Phoenix Point computer game (collectively, the “Software”).[LF][LF]PLEASE READ THIS AGREEMENT CAREFULLY. IT CONTAINS IMPORTANT TERMS THAT AFFECT YOU, YOUR USE OF THE SOFTWARE, AND ANY FEEDBACK (DEFINED BELOW) YOU PROVIDE TO US. BY CLICKING “I ACCEPT”, “I AGREE”, OR A SIMILAR ACKNOWLEDGEMENT OF AGREEMENT OR BY DOWNLOADING, INSTALLING, COPYING OR USING THE SOFTWARE, YOU AGREE TO BE BOUND BY THE TERMS OF THIS AGREEMENT. IF YOU DO NOT AGREE TO THESE TERMS, DO NOT DOWNLOAD, INSTALL, COPY OR USE THE SOFTWARE OR SUBMIT ANY FEEDBACK TO US.  THIS AGREEMENT CONSTITUTES A VALID AND BINDING LEGAL CONTRACT BETWEEN YOU AND US.[LF][LF]For information on how we collect and use your information, see our Privacy Policy located here: https://phoenixpoint.info/privacy-policy.[LF][LF]1.        Acceptance of this Agreement.[LF](a)        By an Individual 18 Years of Age or Older.  Any individual who is at least 18 years of age or the legal age of majority under applicable law may accept the terms and conditions of this Agreement by selecting the “I Accept,” “I Agree,” or similar acknowledgment of agreement or by downloading, installing, copying, or using the Software.  By accepting the terms and conditions of this Agreement, you acknowledge that you have read, understood, and accepted the terms and conditions of this Agreement and agree to be bound thereby.[LF](b)        By an Individual Between the Ages of 13 and 17 Years.  Any individual who is a minor (as determined by the state or province of your residence) and 13 years of age or older (an “Eligible Minor”) must have his or her parent or legal guardian indicate consent to the terms and conditions of this Agreement.  An Eligible Minor’s parent or legal guardian may accept the terms and conditions of this Agreement by selecting the “I Accept”, “I Agree”, or similar acknowledgment of agreement or by downloading, installing, copying, or using the Software on behalf of such Eligible Minor.  By accepting the terms and conditions of this Agreement, the parent or legal guardian of the Eligible Minor acknowledges that he or she has read, understood, and accepted the terms and conditions of this Agreement on behalf of such Eligible Minor and on behalf of themselves and agrees to be bound thereby.  Without limiting the foregoing, Parents and legal guardians understand that they are responsible for the acts and activities of their Eligible Minors in connection with any installation, copying, or use of the Software.[LF](c)        By an Individual Under the Age of 13 Years.  The Software is not targeted towards, nor intended for use by, anyone under the age of 13.  Children under the age of 13 are not eligible to install, copy, or use the Software, notwithstanding that they may have the consent of a parent or legal guardian.[LF](d)        Import and Export Control Laws.  You may not accept the terms and conditions of this Agreement or download, install, copy or use the Software if (a) you are a resident of any U.S. embargoed countries or (b) you are listed on the U.S. Treasury Department’s list of Specially Designated Nationals or the U.S. Department of Commerce Denied Person’s List or Entity List.  By downloading, installing or using any component of the Software, you represent and warrant that you are not located in, under control of, or a national or resident of any such country or jurisdiction or on any such list.[LF][LF]2.        Software License. Subject to the terms of this Agreement, your compliance with the terms of service, terms of use, subscriber agreement or other terms of the Web site from which you obtain the Software (“Terms of Service”) which govern your use of such Web sites' services to, among other activities, obtain the Software, and your compliance with any other agreement you may have entered with us governing your use of Software-related services (the “Service”), we grant you a nonexclusive, nontransferable, nonsublicenseable license to download, install and use one copy of the Software in binary executable form only on a single personal computing device solely for your own, personal use of the Software and Service. The terms of this Agreement supplement any applicable Terms of Service and supersede those Terms of Service where this Agreement and the Terms of Service conflict.  Any Snapshot software that updates, upgrades, supplements, replaces, or offers patches to the Software is governed by this Agreement unless separate license terms accompany such update, upgrade, supplement, replacement, or patch, in which case such separate terms will govern in the event of a conflict with this Agreement or as otherwise provided in such separate terms.[LF][LF]3.        License Limitations. The preceding states the entirety of your rights with respect to the Software, and we reserve all rights in and to the Software and Services not expressly granted to you in this Agreement. Without limiting the foregoing, you will not do, or authorize or permit any third party to do, any of the following: (a) distribute, license or sell the Software; (b) use the Software for any purpose other than your own personal, noncommercial use; (c) reverse engineer, decompile, disassemble or attempt to discover the source code for the Software; (d) modify, alter or create any derivative works of the Software; (e) remove, alter or obscure any copyright, trademark or other proprietary rights notice on or in the Software; (f) use the Software to commit any crime or violate any applicable local, state, national, or international law, regulation, ordinance, or treaty including, but not limited to, any fraud, misrepresentation, money laundering, or illegal gambling; (g) use the Software to access, or attempt to access, facilities, networks, equipment, or systems of Snapshot, Snapshot Parties (as defined below), another user, or any other third party, including any partner of Snapshot, without authorization; (h) use or access the Software for the purposes of, or in connection with, (1) using, or attempting to use, any cheat codes, devices, tools, or processes, including, but not limited to, any third-party code sets or utilities (including any code sets or utilities developed by you or on your behalf), or (2) distributing, publishing, or otherwise making available or publicizing in any way any such cheat codes, devices, tools, or processes; or (i) circumvent or attempt to circumvent any methods employed by Snapshot to control access to the components, features or functions of the Software or Service. [LF][LF]4.        Ownership. The Software is the valuable property of Snapshot and its licensors and is protected by copyright and other intellectual property laws and treaties. We and our licensors own all right, title and interest in and to the Software, including all copyright and other intellectual property rights in the Software.[LF][LF]5.        Feedback. In the course of using the Software, you may provide to Snapshot materials, information and feedback on the Software (including, without limitation, questions, comments, suggestions, or the like) regarding the performance, features, gameplay and functionality of the Software or Service (“Feedback”). .  You hereby grant to Snapshot an exclusive, royalty-free, irrevocable, perpetual worldwide right and license to reproduce, use, disclose, exhibit, display, transform, create derivative works and distribute any such Feedback without limitation. Further, we will be free to use any ideas, concepts, know-how or techniques contained in such Feedback for any purpose whatsoever, including, without limitation, developing, manufacturing, marketing and selling products and services incorporating such Feedback. We will have no obligation to consider, use, return or preserve any Feedback you provide to us. Any Feedback you provide to us may or may not be treated confidentially by us, and we will have no obligation or liability to you for the use or disclosure of any Feedback. You should not to expect any compensation of any kind from us with respect to your Feedback. [LF][LF]6.        Disclaimers. YOU ACKNOWLEDGE THE SOFTWARE AND SERVICE ARE PROVIDED “AS IS,” WITH ALL FAULTS, DEFECTS AND ERRORS, AND WITHOUT WARRANTY OF ANY KIND. SNAPSHOT DISCLAIMS ALL WARRANTIES (EXPRESS OR IMPLIED AND ARISING BY LAW OR OTHERWISE) REGARDING THE SOFTWARE AND SERVICE AND THEIR PERFORMANCE OR SUITABILITY FOR YOUR INTENDED USE, INCLUDING WITHOUT LIMITATION ANY IMPLIED WARRANTY OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, OR NONINFRINGEMENT. WITHOUT LIMITING THE FOREGOING, SNAPSHOT DOES NOT WARRANT THAT THE SOFTWARE WILL BE FREE OF BUGS, ERRORS, VIRUSES, OR OTHER DEFECTS.  SNAPSHOT WILL HAVE NO LIABILITY OF ANY KIND FOR THE USE OF OR INABILITY TO USE THE SOFTWARE OR ANY SERVICE THAT THE SOFTWARE IS INTENDED TO ACCESS, OR FOR ANY LOSS OF DATA.  PORTIONS OF THE SOFTWARE INCLUDE USER CONTENT WHICH MAY BE DEEMED TO BE OBSCENE OR OFFENSIVE.  SNAPSHOT CANNOT (A) REVIEW ALL USER CONTENT BEFORE IT IS INTEGRATED INTO THE SOFTWARE AND (B) ENSURE PROMPT REMOVAL OF OBJECTIONABLE MATERIAL AFTER IT HAS BEEN INTEGRATED INTO THE SOFTWARE. ACCORDINGLY, SNAPSHOT WILL HAVE NO LIABILITY OF ANY KIND FOR ANY ACTION OR INACTION REGARDING TRANSMISSIONS, COMMUNICATIONS, OR CONTENT PROVIDED BY ANY USER OR THIRD PARTY. [LF][LF]7.        Indemnification. You will defend, indemnify and hold harmless Snapshot, its affiliates, independent contractors and service providers, and each of their respective members, directors, officers, employees and agents (“Snapshot Parties”), from and against all claims, damages, costs, liabilities and expenses (including, but not limited to, reasonable attorneys’ fees) arising out of or related to your use of, or inability to use, the Software or Service.  IF YOU ARE AN ELIGIBLE MINOR, YOUR PARENTS OR LEGAL GUARDIANS FURTHER WILL DEFEND, INDEMNIFY AND HOLD HARMLESS EACH OF THE SNAPSHOT PARTIES FROM ANY CLAIMS, DAMAGES, COSTS, INJURIES, LOSSES, OR EXPENSES ARISING OUT OF OR RELATED TO YOUR USE OF, OR INABILITY TO USE, THE SOFTWARE.[LF][LF][LF]"
 msgstr "SNAPSHOT GAMES, INC.[LF]最终用户许可协议[LF][LF]本最终用户许可协议(“协议”)是您与 Snapshot Games, Inc.(“Snapshot”或“我们”或“我方”)之间，关于使用电子游戏 Phoenix Point（统称为本“软件”）的协议。[LF][LF]请仔细阅读本协议。本协议包含重要条款，将影响您、您对软件的使用以及向我们提供的任何反馈（定义参见下文）。通过点击“我接受”、“我同意”或类似的协议确认选项，或下载、安装、复制或使用本软件，即表明您同意受本协议条款的约束。如果您不同意这些条款，请勿下载、安装、复制或使用本软件或向我们提交任何反馈。本协议是您与我方之间有效且具有约束力的法律合同。[LF][LF]有关我们如何收集和使用您的信息，请参阅我们的《隐私权政策》：https://phoenixpoint.info/privacy-policy。[LF][LF]1.        接受本协议。[LF](a)        18 岁或以上的个人。根据其适用的法律，年满 18 岁或达到法定年龄的任何个人均可通过选择“我接受”、“我同意”或类似的协议确认选项，或下载、安装、复制或使用本软件，即表明接受本协议的条款和条件。接受本协议的条款和条件，即表示您已阅读、理解并接受本协议的条款和条件，并同意受其约束。[LF](b)        年龄在 13 到 17 岁之间的个人。任何未成年人（根据您当地的法律规定）和13岁或以上（“符合条件的未成年人”）必须由其父母或法定监护人表明同意本协议的条款和条件。符合条件的未成年人的父母或法定监护人可通过选择“我接受”、“我同意”或类似的协议确认选项，或代表该未成年人下载、安装、复制或使用本软件，即表明接受本协议的条款和条件。接受本协议的条款和条件，即表示该未成年人的父母或法定监护人已阅读、理解并代表该未成年人接受本协议的条款和条件，且表明自己和该未成年人同意受其约束。在不限制上述规定的情况下，父母和法定监护人明白，他们对该未成年人与任何安装、复制或使用本软件有关的行为和活动负责。[LF](c)        13 岁以下的个人。本软件并不针对 13 岁以下的任何个人，也并非专门供其使用。13 岁以下的儿童不得安装、复制或使用该软件，尽管他们可能已得到父母或法定监护人的同意。[LF](d)        进出口管制法律。如果(a)您是美国禁运国家的居民，或(b)您被列入美国财政部特别指定国民清单或商务部拒绝人员清单或实体清单上，则可能无法接受本协议的条款和条件，或下载、安装、复制或使用本软件。下载、安装或使用本软件的任何组件，即表示并保证您不处于任何此类国家或管辖区的所在地或控制之下，或是在任何此类列表上的国民或居民。[LF][LF]2.        软件许可。根据本协议的条款，您需遵守服务条款、使用条款、订阅者协议或获取本软件的网站的其他条款(“服务条款””)，其中规定了您对此类网站服务的使用，和获取本软件的其他活动，以及需遵守您与我们之间关于使用软件相关的服务所签订的任何其他协议(“服务”)，我们授予您非独占性、不可转让、不可转授的许可，仅可在单独的个人计算机设备上以二进制可执行形式下载、安装和使用本软件的一份副本，仅供您本人使用本软件和服务。本协议的条款可补充任何适用的服务条款，本协议与服务条款发生冲突时将代替服务条款。任何 Snapshot 公司对软件进行的更新、升级、补充、替换或提供的补丁均受本协议约束，除非这些更新、升级、补充、替换或补丁随附其独立的许可条款，此类独立条款与本协议或其他单独条款中的规定发生冲突，或独立条款有另行规定的，采用独立条款。[LF][LF]3.        许可限制。以上条目声明了您对软件的全部权利，我们保留本协议中未明确授予您的软件和服务中的权利，及与之相关的所有权利。在不限制上述规定的情况下，您不得做出、授权或允许任何第三方做出下列任何事情：(a) 分发、许可或出售本软件；(b) 将本软件用于除您个人、非商业用途之外的任何目的；(c)逆向工程、反编译、反汇编或试图获取软件源代码；(d) 修改、变更或创建软件的任何衍生作品；(e) 删除、更改或模糊本软件上或本软件中的任何版权、商标或其他所有权通知；(f) 使用本软件进行任何犯罪或违反任何适用的地方、州、国家或国际法、法规、条例或条约，包括但不限于任何欺诈、虚假陈述、洗钱或非法赌博；(g) 未经授权，使用本软件访问或试图访问 Snapshot、Snapshot 合作伙伴（定义见下文）、其他用户或任何其他第三方（包括 Snapshot 的任何合作伙伴）的设施、网络、设备或系统；(h) 为下列目的或与下列目的有关的目的使用或访问软件：(1) 使用或试图使用任何作弊代码、设备、工具或程序，包括但不限于任何第三方代码集或实用程序（包括任何由您开发或您代表开发的代码集或实用程序），或 (2) 分发、出版、或以任何方式提供或宣传任何这样的作弊代码、设备、工具或程序；或 (i) 规避或试图规避 Snapshot 用于控制访问软件或服务的组件、特性或功能的任何方法。[LF][LF]4.        所有权。本软件是 Snapshot 及其授权者的重要财产，受版权和其他知识产权法律和条约的保护。我们和我们的授权者拥有本软件的所有权利、所有权和利益，包括本软件的所有版权和其他知识产权。[LF][LF]5.        反馈。在使用本软件的过程中，您可以提供有关本软件或服务的性能、特色、可玩性和功能方面的资料、信息和反馈（包括但不限于问题、评论、建议或类似内容）(“反馈”)。您在此授予 Snapshot 独家、免版税、不可撤销的永久的权利和许可，以复制、使用、披露、展示、显示、转换和创造衍生作品，并无限制地发布任何此类反馈。此外，我们可以自由且出于任何目的使用此类反馈中包含的任何想法、概念、专门知识或技术，包括但不限于开发、制造、营销和销售包含此类反馈的产品和服务。我们没有义务考虑、使用、返回或保留您提供给我们的任何反馈。您向我们提供的任何反馈可能被我们保密，也可能不被我们保密，对于使用或披露任何反馈，我们不承担任何义务或责任。对于您的反馈，您不应该期望我们给予任何形式的报酬。[LF][LF]6.        免责声明。您承认软件和服务都是“按原样”提供的，包括所有的故障、缺陷和错误，并且没有任何形式的保证。Snapshot 对软件和服务及其性能或对您的预期用途的适用性不负任何责任（明示或暗示的，法律或其他方面产生的），包括但不限于对适销性、特定用途的适用性或不侵权的任何默认保证。在不限制上述的前提下，Snapshot 并不保证软件没有漏洞、错误、病毒缺陷或其他缺陷。对于使用或无法使用该软件、该软件拟使用的任何服务或任何数据丢失，不承担任何责任。该软件的部分内容包括可能被视为淫秽或具有冒犯性。Snapshot 无法 (A) 在将所有用户内容集成到软件之前对其进行审查，(B) 确保在将其集成到软件之后及时删除令人反感的内容。因此，Snapshot 对于任何用户或第三方提供的任何传输、通信或内容所采取的行动或不作为不承担任何责任。[LF][LF]7.        赔偿。您将为 Snapshot，其附属公司，独立承包商和服务提供商及其各自的成员，董事，管理人员，雇员和代理商({bi \\> Snapshot 合作伙伴\\ <bi \\}”)辩护，保护并使其免受损害，并反对由于您使用或无法使用软件或服务而引起或与之有关的所有索赔，损害，成本，负债和费用（包括但不限于合理的律师费）。\\{b \\>如果您是符合条件的未成年人，则您的父母或法定监护人将为 Snapshot 的各个合作伙伴辩护，使其免受因您使用或无法使用本软件而产生的或与之相关的任何索赔、损害、成本、伤害、损失或费用。[LF][LF]"
 
-msgctxt "Opening Screen/KEY_BSNAPSHOT_GAMES_INC_BACKER_BUILD_END2"
-msgid "8.        Limitation of Liability.  IN NO EVENT WILL ANY OF THE SNAPSHOT PARTIES BE LIABLE TO YOU OR ANY THIRD PARTY FOR ANY INDIRECT, CONSEQUENTIAL, SPECIAL, OR PUNITIVE DAMAGES, INCLUDING, BUT NOT LIMITED TO, LOSS OF USE, LOSS OF PROFITS, OR LOSS OF DATA, WHETHER IN AN ACTION IN CONTRACT, TORT (INCLUDING BUT NOT LIMITED TO NEGLIGENCE, WHETHER ACTIVE, PASSIVE, OR IMPUTED), OR OTHERWISE, ARISING OUT OF OR IN ANY WAY CONNECTED WITH THE SOFTWARE OR SERVICE, INCLUDING, WITHOUT LIMITATION, ANY DAMAGES CAUSED BY OR RESULTING FROM MISTAKES, OMISSIONS, INTERRUPTIONS, DELETION OF FILES OR E-MAIL, ERRORS, DEFECTS, VIRUSES, DELAYS IN OPERATION OR TRANSMISSION, OR ANY FAILURE OF PERFORMANCE, WHETHER OR NOT RESULTING FROM ACTS OF GOD, COMMUNICATIONS FAILURE, THEFT, DESTRUCTION, OR UNAUTHORIZED ACCESS TO SNAPSHOT’S RECORDS, PROGRAMS, OR SERVICES.  IN NO EVENT WILL THE AGGREGATE LIABILITY OF SNAPSHOT, WHETHER IN CONTRACT, WARRANTY, TORT (INCLUDING, BUT NOT LIMITED TO, NEGLIGENCE, WHETHER ACTIVE, PASSIVE, OR IMPUTED), PRODUCT LIABILITY, STRICT LIABILITY, OR OTHER THEORY, ARISING OUT OF OR RELATING TO THE SOFTWARE EXCEED THE PURCHASE PRICE THAT YOU PAID FOR A LICENSE TO THE SOFTWARE OR SERVICE.[CR][LF][CR][LF]9.        Arbitration; Governing Law.  [CR][LF][CR][LF]PLEASE READ THE FOLLOWING PARAGRAPH CAREFULLY BECAUSE IT REQUIRES YOU TO ARBITRATE DISPUTES AND LIMITS THE MANNER IN WHICH YOU CAN SEEK RELIEF FROM US.[CR][LF][CR][LF]You and Snapshot will arbitrate any dispute arising from this Agreement and your use of the Software, except that you and Snapshot are not required to arbitrate any dispute in which either party seeks equitable and other relief for the alleged unlawful use of copyrights, trademarks, trade names, logos, trade secrets, or patents. ARBITRATION PREVENTS YOU FROM SUING IN COURT OR FROM HAVING A JURY TRIAL. [CR][LF]You and Snapshot will notify each other in writing of any dispute within thirty (30) days of when it arises. Notice to Snapshot will be sent to Snapshot Games, Inc., Attn: David Kaye, 145 S Fairfax Ave #200, Los Angeles CA 90036.  You and Snapshot further agree: to attempt informal resolution prior to any demand for arbitration; that any arbitration will occur in Los Angeles County, California; that arbitration will be conducted confidentially by a single arbitrator in accordance with the JAMS Streamlined Arbitration Rules; and that the state or federal courts in Los Angeles County, California have exclusive jurisdiction over any appeals of an arbitration award and over any suit between the parties not subject to arbitration. Other than class procedures and remedies discussed below, the arbitrator has the authority to grant any remedy that would otherwise be available in court.  Any dispute between the parties will be governed solely by both this Agreement and the laws of the State of California and applicable United States law, without giving effect to any conflict of laws principles that may provide for the application of the law of another jurisdiction.  The 1980 U.N. Convention on Contracts for the International Sale of Goods will not apply to this Agreement.  Whether the dispute is heard in arbitration or in court, you and Snapshot will not commence against the other a class action, class arbitration or other representative action or proceeding.[CR][LF][CR][LF]10.        Termination. Snapshot may terminate this Agreement at any time, with or without cause, immediately upon notice to you. Snapshot may also discontinue the Service at any time, in which case this Agreement will terminate automatically without notice. You may terminate this Agreement by ceasing use of the Software and Service, cancelling any account you may have with us to use the Service (if any), and deleting all copies of the Software in your possession or control. In the event of the termination of this Agreement for any reason: (a) the license granted to you in this Agreement will terminate; (b) you must immediately cease all use of the Software and Service and destroy or erase all copies of the Software in your possession or control; and (c) all sections of this Agreement except Section 2 will survive any such termination, together with the Terms of Service.[CR][LF][CR][LF][CR][LF]11.        Import and Export Control Laws.  Snapshot is subject to regulation by agencies of the United States, such as the U.S. Department of Commerce, which prohibit export of certain products or technology to certain countries or nationals of certain countries.  You will not use or otherwise export or re-export the Software except as authorized by U.S. law and the laws of the jurisdiction in which the Software was obtained.  In particular, but without limitation, the Software may not be exported or re-exported (a) into (or to a nation or resident of) any U.S. embargoed countries or (b) to anyone on the U.S. Treasury Department’s list of Specially Designated Nationals or the U.S. Department of Commerce Denied Person’s List or Entity List.  [CR][LF][CR][LF]12.        General. (a) Severability. If any provision of this Agreement is held by a court of competent jurisdiction to be invalid, illegal, or unenforceable, the remainder of this Agreement will remain in full force and effect. (b) Assignment. You may not assign this Agreement or any of its rights under this Agreement without the prior written consent of Snapshot, and any attempted assignment without such consent will be void. Subject to the foregoing restriction, this Agreement will be fully binding upon, inure to the benefit of, and be enforceable by you, us, and each of your and our respective successors and assigns. (c) Entire Agreement. This Agreement, together with the Terms of Service, sets forth our entire agreement with respect to your use of the Software or Service and the subject matter hereof, and supersedes all prior and contemporaneous understandings and agreements whether written or oral.  No amendment, modification, or waiver of any of the provisions of this Agreement will be valid unless set forth in a written instrument signed by the party to be bound thereby. (d) Language. This Agreement is in the English language, which language will be controlling, even if interpretations of this Agreement in other languages are made."
-msgstr "8.        责任范围。\\ {2 \\>在任何情况下，任何 Snapshot 合作伙伴均不会对您或任何第三方负以下责任：任何间接的、随之发生的、特殊或惩罚性的损害，包括但不限于使用价值损失，利润损失或数据丢失，无论是在合同诉讼中还是侵权（包括但不限于疏忽大意，无论是主动、被动还是被归咎），或因软件和服务而产生的，及以任何方式与软件和服务相关的问题，包括但不限于由于错误，疏忽，干扰，文件或电子邮件的删除，错误，缺陷，病毒，操作或传输延迟，或由于任何不可抗力、通信失效、盗窃、破坏或未经授权访问 Snapshot 程序或服务造成的任何性能故障。Snapshot 就该软件引起或涉及该软件的总计责任无论是在合同、担保、侵权（包括但不限于疏忽，无论是主动，被动还是被归咎）、产品责任、无过错责任或是在其他原则中，都不会超出购买该软件或服务的许可所应付的价格。[CR][LF][CR][LF]9.        仲裁；适用法律。 [CR][LF][CR][LF]请仔细阅读以下段落，因为它要求您对争议进行仲裁，并限制了您向我们寻求救济的方式。[CR][LF][CR][LF]您和 Snapshot 可就因本协议和您对软件的使用而引起的任何争议进行仲裁，除非您和 Snapshot 都不需要仲裁争议，例如任何一方因涉嫌非法使用版权、商标、商号、标识、商业秘密或专利而寻求公平和其他救济。仲裁可避免您在法庭上被起诉或受到陪审团审判。[CR][LF]如有任何争议，您和 Snapshot 将在争议发生后三十 (30) 天内以书面形式通知对方。寄往 Snapshot 的通知将送往 Snapshot Games, Inc.，收件人：David Kaye, 145 S Fairfax Ave #200, Los Angeles CA 90036。您和 Snapshot 进一步同意：在提出任何仲裁要求前尝试通过非正式途径解决；任何仲裁将在加利福尼亚州洛杉矶郡进行；该仲裁将由一名仲裁员根据 JAMS 精简仲裁规则秘密进行；并且加利福尼亚州洛杉矶郡的州或联邦法院对仲裁裁决的任何上诉以及当事方之间不受仲裁的任何诉讼具有专属管辖权。除下文讨论的类别程序及救济措施，仲裁员在庭上有权准予实施任何有效救济措施。各方的所有争议仅受此协议、加利福利亚洲法律以及适用的美国法律管辖，不影响任何可能规定适用其他司法管辖区法律的冲突法律原则。1980 年《联合国国际货物销售合同公约》不适用于本协议。无论是在仲裁中还是在法庭上审理，您方及 Snapshot 不得针对另一方提集体诉讼、集体仲裁或其他代表诉讼或程序。[CR][LF][CR][LF]10.        终止。 Snapshot 可随时无理由终止本协议，且在您收到对应通知时即刻生效。Snapshot 也可随时停止服务。在此种情况下，本协议将自动终止，且无需告知各相关方。如要终止本协议，您可停止使用软件及服务，即注销与我方相关的所有涉及此服务的账号（如有），并删除您持有的所有本软件副本。以任意理由终止本协议时：(a) 本协议准予您的许可将终止；(b) 您应当立即停止使用本软件及服务，并销毁或删除您持有的所有本软件副本；(c) 除本协议第 2 条外，本协议的所有条款以及服务条款将在任何此类终止后继续有效。[CR][LF][CR][LF][CR][LF]11.        进出口管制法。  Snapshot 受美国机构监管，如禁止向某些国家或某些国家的国民出口某些产品或技术的美国商务部。除非获得美国法律和该软件所在司法管辖区的法律的授权，您不得使用或以其他方式出口或再出口该软件。尤其是（但不限于），本软件不可出口或再出口至 (a) 所有美国禁运国家（或这些国家的国民或居民）或 (b) 美国财务部特别指定国民清单或美国商务部拒绝人员清单或实体清单中包含的人员或实体。 [CR][LF][CR][LF]12.        通用。 (a) 效力瑕疵。如果本协议的任何条款被具有合法管辖权的法院裁定为无效、非法或不可执行，则本协议的其余部分将继续完全有效。(b) 转让。事先未经 Snapshot 书面同意时，您不得转让本协议或其附属权利，任何未经同意的转让都将无效。在遵守上述限制的前提下，本协议将完全受贵方、我方以及贵方和我方各自的继任者和受让人的约束，符合其利益并可由其执行。(c) 整体协议。本协议以及服务条款，规定了我们关于您使用软件或服务以及本协议主题的完整协议，并取代了所有先前和现在的书面或口头理解和协议。除对应方签署了受到约束的书面文书，对本协议所有条款的修订、修改或弃权声明均无法律效力。(d) 语言。本协议文字为英文，虽然本协议已通过其他语言进行解释，但最终应当以英文为准。[CR]"
-
 msgctxt "Opening Screen/KEY_CONTINUE_GAME"
 msgid "CONTINUE"
 msgstr "继续"
@@ -10119,8 +10179,8 @@ msgid "PANDORAN CITADEL DESTROYED"
 msgstr "潘多拉城堡被毁"
 
 msgctxt "Missions/KEY_MISSION_ATTACK_LAIR_BRIEFING_DESCRIPTION"
-msgid "Locate and eliminate the Spawnery to destroy the Lair."
-msgstr "找到并摧毁产卵腔，进而摧毁巢穴。"
+msgid "Locate and eliminate the Spawnery to neutralize the Lair, and then evacuate your squad."
+msgstr "找到并消灭产卵腔来破坏大巢穴，然后撤离你的小队。"
 
 msgctxt "Missions/KEY_MISSION_ATTACK_LAIR_BRIEFING_NAME"
 msgid "ATTACK PANDORAN LAIR"
@@ -12095,12 +12155,12 @@ msgid "ROOTS"
 msgstr "根"
 
 msgctxt "Body parts/KEY_SHELL"
-msgid "#SHELL"
-msgstr "#外壳"
+msgid "SHELL"
+msgstr "外壳"
 
 msgctxt "Body parts/KEY_SHELL_DESCRIPTION"
-msgid "#SHELL"
-msgstr "#外壳"
+msgid "SHELL"
+msgstr "外壳"
 
 msgctxt "Body parts/KEY_SHELL_NAME"
 msgid "SHELL"
@@ -12309,6 +12369,26 @@ msgstr "贝尔彻腹"
 msgctxt "Body parts/KEY_ABDOMEN_BELCHER_DESCRIPTION"
 msgid "Releases multiple spawnlings on death"
 msgstr "死亡时大量产卵"
+
+msgctxt "Body parts/KEY_ASPIDA_ARMS_NAME"
+msgid "Midas V Arms"
+msgstr "迈达斯 V 手臂"
+
+msgctxt "Body parts/KEY_ASPIDA_ARMS_DESCRIPTION"
+msgid "Synedrion Aspida Vehicle Mech Arms"
+msgstr "平衡议会悬浮车机械臂"
+
+msgctxt "Body parts/KEY_SPAWNERY_EGG_POD_NAME"
+msgid "EGG POD"
+msgstr "卵腔"
+
+msgctxt "Body parts/KEY_SPAWNERY_SHELL_NAME"
+msgid "SHELL"
+msgstr "外壳"
+
+msgctxt "Body parts/KEY_SPAWNERY_BODY_NAME"
+msgid "BODY"
+msgstr "身体"
 
 msgctxt "Equipment/KEY_AMMO_AN_ACID_HANDGUN_DESCRIPTION"
 msgid "Disciples of Anu Acid Handgun Magazine"
