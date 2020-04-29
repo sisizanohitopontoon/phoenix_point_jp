@@ -3,8 +3,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2020-04-28 15:48+0000\n"
-"Last-Translator: sisizanohito <sisizanohito@gmail.com>\n"
+"PO-Revision-Date: 2020-04-29 13:18+0000\n"
+"Last-Translator: higema <ltdhyndsh@yahoo.co.jp>\n"
 "Language-Team: \n"
 "Language: ja\n"
 "MIME-Version: 1.0\n"
@@ -373,19 +373,17 @@ msgctxt "PH_Localization/KEY_OK"
 msgid "OK"
 msgstr "OK"
 
-#, fuzzy
 #| msgctxt "Manufacture Screen/KEY_MANUFACTURE_RETURNED_RESOURCES"
 #| msgid "RETURNED RESOURCES"
 msgctxt "Darleth/KEY_TRADE_HAVEN"
 msgid "TRADE RESOURCES WITH {0}"
-msgstr "返ってくる資源"
+msgstr "{0}との資源トレード"
 
-#, fuzzy
 #| msgctxt "PH_Localization/KEY_GEOSCAPE_NO_RESOURCES"
 #| msgid "NOT ENOUGH RESOURCES"
 msgctxt "Darleth/KEY_TRADE_SELECT"
 msgid "SELECT HAVEN RESOURCE"
-msgstr "資源が足りない"
+msgstr "ヘイヴン側の資源を選択"
 
 #, fuzzy
 #| msgctxt "Geoscape/KEY_GEOSCAPE_COST"
@@ -394,37 +392,33 @@ msgctxt "Darleth/KEY_TRADE_COSTS"
 msgid "COSTS"
 msgstr "コスト"
 
-#, fuzzy
 #| msgctxt "Geoscape/KEY_AIRCRAFT_STATS_RANGE"
 #| msgid "RANGE"
 msgctxt "Darleth/KEY_TRADE_EXCHANGE"
 msgid "EXCHANGE"
-msgstr "航続距離"
+msgstr "拠出"
 
 msgctxt "Darleth/KEY_TRADE_FOR"
 msgid "FOR"
-msgstr ""
+msgstr "受け取り"
 
-#, fuzzy
 #| msgctxt "Tactical/KEY_TURNS_PHOENIX_FORCES"
 #| msgid "PHOENIX FORCES"
 msgctxt "Darleth/KEY_TRADE_PHOENIX"
 msgid "PHOENIX PROJECT RESOURCES"
-msgstr "フェニックス部隊"
+msgstr "フェニックスプロジェクトの資源"
 
-#, fuzzy
 #| msgctxt "Tactical/KEY_DAMAGE_DEALT_TWO"
 #| msgid "Damage {0} - {1}"
 msgctxt "Darleth/KEY_TRADE_NOTIFICATION"
 msgid "TRADE {0} FOR {1}"
-msgstr "ダメージ {0} - {1}"
+msgstr "{0}を{1}とトレードした"
 
-#, fuzzy
 #| msgctxt "PH_Localization/KEY_GEOSCAPE_NO_RESOURCES"
 #| msgid "NOT ENOUGH RESOURCES"
 msgctxt "Darleth/KEY_TRADE_INSUFFICIENT"
 msgid "NOT ENOUGH RESOURCES TO TRADE"
-msgstr "資源が足りない"
+msgstr "トレードするための資源が足りない"
 
 msgctxt "Blood Titanium/KEY_ITEM_TYPE_BIONIC"
 msgid "BIONIC"
@@ -1103,21 +1097,21 @@ msgstr "この保存済みゲームをロードするには、次のダウンロ
 
 msgctxt "Blood Titanium/KEY_TIMED_MISSION_COUNTER"
 msgid "{Objective} (ends in {time})"
-msgstr ""
+msgstr "{Objective} (あと{time}で終了)"
 
 msgctxt "Blood Titanium/KEY_TIMED_MISSION_ENDED"
 msgid "The times mission {0} has expired. No further actions regarding it are possible."
-msgstr ""
+msgstr "時限ミッション{0}の期間が終了した。このミッションに関わる行動はもう行えない。"
 
 msgctxt "Blood Titanium/KEY_TUTORIAL_TIMED_MISSIONS_NAME"
 msgid "Time Limited Events"
-msgstr ""
+msgstr "時間制限付きイベント"
 
 msgctxt "Blood Titanium/KEY_TUTORIAL_TIMED_MISSIONS_DESCRIPTION"
 msgid ""
 "Timed limited events are time sensitive objectives that disappear after a set amount of time. If not completed within the time limit, the mission disappears and will not reappear for the remaining "
 "game."
-msgstr ""
+msgstr "時間制限付きイベントとは、設定された時間が経過すると消えてしまうミッション目標のことです。制限時間内に完了できなかった場合、そのミッションは消滅し以降出現しなくなります。"
 
 msgctxt "Abilities/KEY_ACID_RESISTANCE_DESCRIPTION"
 msgid "Reduces effect of Acid Damage by half"
@@ -1255,12 +1249,11 @@ msgctxt "Abilities/KEY_EAGLE_EYED_NAME"
 msgid "EAGLE EYED"
 msgstr "イーグルアイ化"
 
-#, fuzzy
 #| msgctxt "Abilities/KEY_ELECTRIC_STRIKE_DESCRIPTION"
 #| msgid "Dazes target if shock value is greater than target's Hit Points"
 msgctxt "Abilities/KEY_ELECTRIC_STRIKE_DESCRIPTION"
 msgid "Paralyzes target if shock value is greater than target's Hit Points"
-msgstr "与えたショック値がターゲットのヒットポイントを 上回った場合、放心状態にさせる"
+msgstr "与えたショック値がターゲットのヒットポイントを 上回った場合、ターゲットを麻痺させる"
 
 msgctxt "Abilities/KEY_ELECTRIC_STRIKE_NAME"
 msgid "ELECTRIC STRIKE"
@@ -4641,27 +4634,25 @@ msgctxt "Xbox/KEY_PLATFORM_YOU_WILL_BE_SIGNED_OUT"
 msgid "You will be signed out from your user profile and will be returned to the sign in screen. Do you want to continue?"
 msgstr "ユーザープロファイルからサインアウトし、サインイン画面に戻ります。続行しますか？"
 
-#, fuzzy
 #| msgctxt "Body parts/KEY_ARTHRON_GRENADE_ARM_NAME"
 #| msgid "LAUNCHER ARM"
 msgctxt "Xbox/KEY_STREAMING_INSTALL_LAUNCH"
 msgid "LAUNCH"
-msgstr "ランチャーアーム"
+msgstr "起動"
 
 msgctxt "Xbox/KEY_STREAMING_INSTALL_CANCEL2"
 msgid "SAVE & EXIT"
-msgstr ""
+msgstr "セーブして終了する"
 
-#, fuzzy
 #| msgctxt "Diplomacy and Factions/KEY_DIPLOMACY_LOCATE"
 #| msgid "LOCATE MISSION"
 msgctxt "Xbox/KEY_STREAMING_INSTALL_TEXT_TITLE"
 msgid "DOWNLOADING MISSION"
-msgstr "ミッション地点を確認"
+msgstr "ミッションをダウンロード中"
 
 msgctxt "Xbox/KEY_STREAMING_INSTALL_TEXT_DESCRIPTION"
 msgid "The selected mission is currently being downloaded to your device. Please, wait until the download is complete before launching."
-msgstr ""
+msgstr "選択したミッションは、お使いのデバイスに現在ダウンロード中です。ダウンロードが完了するまで待ってから起動してください。"
 
 msgctxt "Objectives/KEY_OBJECTIVE_PROTECT_CIVILIANS"
 msgid "PROTECT ALL CIVILIANS [{0}/{1}]"
@@ -6317,11 +6308,11 @@ msgstr "---"
 
 msgctxt "Backer Info/KEY_BCR1_LEADER"
 msgid "Justinian Cyneweard"
-msgstr "ジャスティニアン・シーンワード"
+msgstr "ジャスティニアン・シネワード"
 
 msgctxt "Backer Info/KEY_BCR2_HAVEN"
 msgid "Aatxe"
-msgstr "アーケス"
+msgstr "アーテス"
 
 msgctxt "Backer Info/KEY_BCR2_MOTTO"
 msgid "Nola bizi, hala hil"
@@ -6329,7 +6320,7 @@ msgstr "ノラビジ、ハラヒ"
 
 msgctxt "Backer Info/KEY_BCR2_LEADER"
 msgid "Erik-Logan Hughes"
-msgstr "エリック・ローガン・ヒューズ"
+msgstr "エリック・ローガンヒューズ"
 
 msgctxt "Backer Info/KEY_BCR3_HAVEN"
 msgid "Dokkum"
@@ -6341,7 +6332,7 @@ msgstr "---"
 
 msgctxt "Backer Info/KEY_BCR3_LEADER"
 msgid "Boris Eysbroek"
-msgstr "ボリス・エイスブローク"
+msgstr "ボリス・イスブローク"
 
 msgctxt "Backer Info/KEY_BCR4_HAVEN"
 msgid "R.E.M.E. Corporation"
@@ -6353,7 +6344,7 @@ msgstr "明日食む為に今日を働く"
 
 msgctxt "Backer Info/KEY_BCR4_LEADER"
 msgid "Jachlan Wisopp"
-msgstr "ジェーキアン・ウィソップ"
+msgstr "ジャクラン・ウィソップ"
 
 msgctxt "Backer Info/KEY_BCR5_HAVEN"
 msgid "Cedar Ark"
@@ -6369,7 +6360,7 @@ msgstr "マイク・スパーク"
 
 msgctxt "Backer Info/KEY_BCR6_HAVEN"
 msgid "Scheria"
-msgstr "シェリア"
+msgstr "スケリア"
 
 msgctxt "Backer Info/KEY_BCR6_MOTTO"
 msgid "Faber est Suae Quisque Fortunae"
@@ -6381,7 +6372,7 @@ msgstr "ユリシーズ・J・ブラック"
 
 msgctxt "Backer Info/KEY_BCR7_HAVEN"
 msgid "Bastion Irazu"
-msgstr "バスティオン・イラズ"
+msgstr "バスティオン・イラス"
 
 msgctxt "Backer Info/KEY_BCR7_MOTTO"
 msgid "Presidium Prepetua Aeternum Quaerere"
@@ -6389,7 +6380,7 @@ msgstr ""
 
 msgctxt "Backer Info/KEY_BCR7_LEADER"
 msgid "Fabio Mena"
-msgstr "ファビオ・メナ"
+msgstr "ファビオ・ミーナ"
 
 msgctxt "Backer Info/KEY_BCR8_HAVEN"
 msgid "Dustwood"
@@ -6413,11 +6404,11 @@ msgstr ""
 
 msgctxt "Backer Info/KEY_BCR9_LEADER"
 msgid "Walter Ivan Toso"
-msgstr "ウォルター・イヴァン・トソ"
+msgstr "ウォルター・イワン・トーソー"
 
 msgctxt "Backer Info/KEY_BCR10_HAVEN"
 msgid "Towa"
-msgstr "トーワ"
+msgstr "東和"
 
 msgctxt "Backer Info/KEY_BCR10_MOTTO"
 msgid "---"
@@ -6425,7 +6416,7 @@ msgstr "---"
 
 msgctxt "Backer Info/KEY_BCR10_LEADER"
 msgid "Hikari Towa"
-msgstr "ヒカリ・トーワ"
+msgstr "東和光"
 
 msgctxt "Backer Info/KEY_BCR11_HAVEN"
 msgid "Harmony"
@@ -6437,7 +6428,7 @@ msgstr "音楽と共に、立ち上がれ"
 
 msgctxt "Backer Info/KEY_BCR11_LEADER"
 msgid "James O'Hearn"
-msgstr "ジェームズ・オハーン"
+msgstr "ジェームス・オハーン"
 
 msgctxt "Backer Info/KEY_BCR12_HAVEN"
 msgid "New Sydney"
@@ -6449,7 +6440,7 @@ msgstr "彼らのために"
 
 msgctxt "Backer Info/KEY_BCR12_LEADER"
 msgid "Harry Brown-Beresford"
-msgstr "ハリー・ブラウン=ベレスフォード"
+msgstr "ハリー・ブラウンベレスフォード"
 
 msgctxt "Backer Info/KEY_BCR13_HAVEN"
 msgid "The Reformed"
@@ -8183,7 +8174,7 @@ msgstr "製造"
 
 msgctxt "Manufacture Screen/KEY_MANUFACTURE_UNAFFORDABLE"
 msgid "Unaffordable"
-msgstr ""
+msgstr "空きが足りない"
 
 msgctxt "Manufacture Screen/KEY_MANUFACTURE_DEPLOY"
 msgid "SELECT DEPLOYMENT LOCATION"
@@ -10647,12 +10638,11 @@ msgctxt "Missions/KEY_MISSION_ATTACK_CITADEL_VICTORY_NAME"
 msgid "PANDORAN CITADEL DESTROYED"
 msgstr "パンドラン・シタデルは破壊された"
 
-#, fuzzy
 #| msgctxt "Missions/KEY_MISSION_ATTACK_LAIR_BRIEFING_DESCRIPTION"
 #| msgid "Locate and eliminate the Spawnery to destroy the Lair."
 msgctxt "Missions/KEY_MISSION_ATTACK_LAIR_BRIEFING_DESCRIPTION"
 msgid "Locate and eliminate the Spawnery to neutralize the Lair, and then evacuate your squad."
-msgstr "レアを破壊するため、スポーンリィを抹殺する"
+msgstr "レアを無力化するためスポーンリーを探しだして排除し、その後は部隊を脱出させる。"
 
 msgctxt "Missions/KEY_MISSION_ATTACK_LAIR_BRIEFING_NAME"
 msgid "ATTACK PANDORAN LAIR"
@@ -12882,12 +12872,11 @@ msgctxt "Body parts/KEY_ASPIDA_ARMS_NAME"
 msgid "Midas V Arms"
 msgstr ""
 
-#, fuzzy
 #| msgctxt "Equipment/KEY_SY_ASSAULT_LEGS_DESCRIPTION"
 #| msgid "Synedrion Assault Leg Armor"
 msgctxt "Body parts/KEY_ASPIDA_ARMS_DESCRIPTION"
 msgid "Synedrion Aspida Vehicle Mech Arms"
-msgstr "シネドリオン アサルト レッグアーマー"
+msgstr "シネドリオン アスピーダ メックアーム"
 
 msgctxt "Body parts/KEY_SPAWNERY_EGG_POD_NAME"
 msgid "EGG POD"
@@ -12899,12 +12888,11 @@ msgctxt "Body parts/KEY_SPAWNERY_SHELL_NAME"
 msgid "SHELL"
 msgstr "外殻"
 
-#, fuzzy
 #| msgctxt "Roster Screen/KEY_GEOROSTER_BODY"
 #| msgid "BODY"
 msgctxt "Body parts/KEY_SPAWNERY_BODY_NAME"
 msgid "BODY"
-msgstr "ボディ"
+msgstr "体"
 
 msgctxt "Equipment/KEY_AMMO_AN_ACID_HANDGUN_DESCRIPTION"
 msgid "Disciples of Anu Acid Handgun Magazine"
