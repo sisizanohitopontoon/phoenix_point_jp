@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2020-06-05 12:14+0000\n"
+"PO-Revision-Date: 2020-06-05 12:19+0000\n"
 "Last-Translator: higema <ltdhyndsh@yahoo.co.jp>\n"
 "Language-Team: \n"
 "Language: ja\n"
@@ -5760,21 +5760,18 @@ msgid ""
 "which inhibit growth in the fungi the Disciples grow for food."
 msgstr "いくつかの実験の後、職員達が原因を突き止めた。問題は、このヘイヴンに侵入した未知の微生物にある。その代謝廃棄物に含まれるいくつかの桂皮酸誘導体が、ディサイプルズが食料用に育てているキノコの成長を阻害するのだ。"
 
-#, fuzzy
 #| msgctxt "GeoEvents/AN1_CHOICE_0_TEXT"
 #| msgid "Investigate the problem."
 msgctxt "Anu/AN1_CHOICE_0_TEXT"
 msgid "Investigate the problem."
 msgstr "問題を調査する。"
 
-#, fuzzy
 #| msgctxt "GeoEvents/AN1_CHOICE_1_OUTCOME_GENERAL"
 #| msgid "Exarch [HavenLeader] expresses sadness at our choice, but promises to pray for us to the Dead God."
 msgctxt "Anu/AN1_CHOICE_1_OUTCOME_GENERAL"
 msgid "Exarch [HavenLeader] expresses sadness at our choice, but promises to pray for us to the Dead God."
-msgstr "エクザルフ・[HavenLeader]は私達の判断に悲しみを表したものの、私達のために死せる神に祈ることを約束してくれた。"
+msgstr "エクザルフ・[HavenLeader]は私達の判断に悲しみを表したが、私達のために死せる神に祈ることを約束してくれた。"
 
-#, fuzzy
 #| msgctxt "GeoEvents/AN1_CHOICE_1_TEXT"
 #| msgid "Refuse the request."
 msgctxt "Anu/AN1_CHOICE_1_TEXT"
@@ -5793,7 +5790,7 @@ msgstr "[HavenName]の住民達はこのところ、ヘイヴン全体を養え�
 
 msgctxt "Anu/AN1_TITLE"
 msgid "Feed the Hungry"
-msgstr ""
+msgstr "飢えた人たちに食べ物を"
 
 msgctxt "Anu/AN20_CHOICE_0_OUTCOME_GENERAL"
 msgid "Resources are resources, and we need all the help we can get. Even if there's something unsettling about the Shadowed Hierarch and all the things he seems to know."
@@ -6228,14 +6225,12 @@ msgctxt "Anu/AN2_CHOICE_0_OUTCOME_GENERAL"
 msgid "Exarch [HavenLeaderSurname] is pleased that we have chosen to share our information, but saddened that things have not gotten better. To thank us, he offers some of the haven's food supply."
 msgstr "エクザルフ・[HavenLeaderSurname]は私達が情報を伝える判断をしたことを喜んだものの、事態が好転しなかったことについては悲しんだ。私達への礼として、彼はこのヘイヴンの食料の一部を譲ってくれた。"
 
-#, fuzzy
 #| msgctxt "GeoEvents/AN2_CHOICE_0_TEXT"
 #| msgid "Inform them about the current situation."
 msgctxt "Anu/AN2_CHOICE_0_TEXT"
 msgid "Inform them about the current situation."
 msgstr "現在の状況について情報を教える。"
 
-#, fuzzy
 #| msgctxt "GeoEvents/AN2_CHOICE_1_OUTCOME_GENERAL"
 #| msgid ""
 #| "Exarch [HavenLeaderSurname] is extremely pleased. He commends us to the Dead God and his true prophet, the Exalted. There are many here who have family in other havens, he says, and they will "
@@ -6244,23 +6239,20 @@ msgctxt "Anu/AN2_CHOICE_1_OUTCOME_GENERAL"
 msgid ""
 "Exarch [HavenLeaderSurname] is extremely pleased. He commends us to the Dead God and his true prophet, the Exalted. There are many here who have family in other havens, he says, and they will "
 "finally be able to speak to their loved ones again, all thanks to the Phoenix Project. He asks his people to reward us generously."
-msgstr "エクザルフ・[HavenLeaderSurname]はとても喜び、死せる神と真の預言者イグザルティドに私達の貢献を知らせた。エクザルフは言う。\"\"ここには他のヘイヴンに家族を持つ多くの者達がいる。ようやく愛する者達と話せるようになったその全員が、フェニックスプロジェクトに感謝している。\"\"彼は住民達に、惜しみなく報いるよう求めた。"
+msgstr "エクザルフ・[HavenLeaderSurname]はとても喜び、死せる神と真の預言者イグザルティドに私達の貢献を知らせた。エクザルフは言う。「ここには他のヘイヴンに家族を持つ多くの者達がいる。ようやく愛する者達と話せるようになったその全員が、フェニックスプロジェクトに感謝している。」彼は住民達に、惜しみなく報いるよう求めた。"
 
-#, fuzzy
 #| msgctxt "GeoEvents/AN2_CHOICE_1_TEXT"
 #| msgid "Help them fix their communications systems."
 msgctxt "Anu/AN2_CHOICE_1_TEXT"
 msgid "Help them fix their communications systems."
 msgstr "通信システムの修理に手を貸す。"
 
-#, fuzzy
 #| msgctxt "GeoEvents/AN2_CHOICE_2_OUTCOME_GENERAL"
 #| msgid "Horrified by our exaggarated tales, the people of [HavenName] retreat to their homes to pray to the god who seems to have abandoned them."
 msgctxt "Anu/AN2_CHOICE_2_OUTCOME_GENERAL"
 msgid "Horrified by our exaggarated tales, the people of [HavenName] retreat to their homes to pray to the god who seems to have abandoned them."
 msgstr "誇張された話に怯えた[HavenName]の人々は、自分達を見捨てたと思しき神に祈りを捧げるために家へと退散していった。"
 
-#, fuzzy
 #| msgctxt "GeoEvents/AN2_CHOICE_2_TEXT"
 #| msgid "Convince them things are even worse than they think."
 msgctxt "Anu/AN2_CHOICE_2_TEXT"
@@ -6275,7 +6267,7 @@ msgstr "[HavenName]の住民は職員達をひどく怖れている。どうや�
 
 msgctxt "Anu/AN2_TITLE"
 msgid "Cut Off"
-msgstr ""
+msgstr "遮断"
 
 msgctxt "Anu/AN30_CHOICE_0_OUTCOME_GENERAL"
 msgid ""
