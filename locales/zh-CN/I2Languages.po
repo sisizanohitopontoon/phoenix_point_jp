@@ -43,7 +43,7 @@ msgid "RECLAIM"
 msgstr "回收"
 
 msgctxt "PH_Localization/KEY_HEALTH"
-msgid "HEALTH"
+msgid "HIT POINTS"
 msgstr "生命值："
 
 msgctxt "PH_Localization/KEY_HIT_POINTS"
@@ -357,6 +357,358 @@ msgstr "重试"
 msgctxt "PH_Localization/KEY_OK"
 msgid "OK"
 msgstr "好的"
+
+msgctxt "Danforth/KEY_OBJECTIVE_PICK_RESOURCES"
+msgid "RESOURCE PACKS COLLECTED: {0}/{1}"
+msgstr "资源包集：{0} / {1}"
+
+msgctxt "Danforth/KEY_RESOURCE_FOOD_NAME"
+msgid "FOOD PACK"
+msgstr "食品礼包"
+
+msgctxt "Danforth/KEY_RESOURCE_FOOD_DESCRIPTION"
+msgid "Concentrated nutrient portions"
+msgstr "浓缩营养部分"
+
+msgctxt "Danforth/KEY_RESOURCE_MATERIALS_NAME"
+msgid "MATERIAL PACK"
+msgstr "材料包装"
+
+msgctxt "Danforth/KEY_RESOURCE_MATERIALS_DESCRIPTION"
+msgid "Construction materials"
+msgstr "建筑材料"
+
+msgctxt "Danforth/KEY_RESOURCE_MUTAGENS_NAME"
+msgid "MUTAGEN PACK"
+msgstr "诱变包"
+
+msgctxt "Danforth/KEY_RESOURCE_MUTAGENS_DESCRIPTION"
+msgid "A capsule of active Pandoran mutagens."
+msgstr "活性潘多拉星球诱变剂的胶囊。"
+
+msgctxt "Danforth/KEY_RESOURCE_TECH_NAME"
+msgid "TECH PACK"
+msgstr "技术包"
+
+msgctxt "Danforth/KEY_RESOURCE_TECH_DESCRIPTION"
+msgid "High tech construction components"
+msgstr "高科技建筑构件"
+
+msgctxt "Danforth/KEY_OBJECTIVE_RESCUE_ALLY"
+msgid "#RESCUE ALLIES: {0}/{1}"
+msgstr "营救同盟：{0} / {1}"
+
+msgctxt "Danforth/KEY_OBJECTIVE_RECOVER_VEHICLE"
+msgid "#RECOVER VEHICLE"
+msgstr "回收车"
+
+msgctxt "Danforth/KEY_LOAD_INVALID_TACTICAL"
+msgid "This in-battle save is not compatible with the current version of the game. The game will revert the Geoscape just prior to the mission."
+msgstr "这-战斗保存是不符合游戏的当前版本兼容。本场比赛将恢复世界地图只是之前的使命。"
+
+msgctxt "Danforth/KEY_BASE_RECRUITS_SPAWNED"
+msgid "New recruits available."
+msgstr "新聘人员提供。"
+
+msgctxt "Danforth/KEY_BASE_RECRUITS_ROSTER_NAME"
+msgid "RECRUITS"
+msgstr "新兵"
+
+msgctxt "Danforth/KEY_BASE_RECRUITS_ROSTER_DESCRIPTION"
+msgid "All volunteers available for recruiting at your base"
+msgstr "在你的基地可供招募的志愿者"
+
+msgctxt "Danforth/KEY_BASE_RECRUITS_ABILITIES"
+msgid "ABILITIES"
+msgstr "能力"
+
+msgctxt "Danforth/KEY_BASE_RECRUITS_DEPLOYMENT"
+msgid "RECRUIT DEPLOYMENT"
+msgstr "招募发展"
+
+msgctxt "Danforth/KEY_BASE_STATUS_RECRUITING_NORMAL"
+msgid "ONLINE"
+msgstr "线上"
+
+msgctxt "Danforth/KEY_BASE_STATUS_RECRUITING_ATTACK"
+msgid "INCOMING ATTACK"
+msgstr "进入攻击"
+
+msgctxt "Danforth/KEY_BASE_RECRUITS_AVAILABLE"
+msgid "RECRUITS AVAILABLE IN {0} DAYS"
+msgstr "新兵{0}天内发布"
+
+msgctxt "Danforth/KEY_BASE_RECRUITS_RECRUIT_ACTION"
+msgid "RECRUIT"
+msgstr "招"
+
+msgctxt "Danforth/KEY_BASE_DISMISS_PERSON"
+msgid "Dismiss soldier, removing them from the Phoenix Project. All equipment will be put in storage."
+msgstr "解雇士兵，从凤凰计划移除。所有的设备将被入库。"
+
+msgctxt "Danforth/KEY_BASE_DISMISS_PERSON_PROMPT"
+msgid "Are you sure you want to dismiss {0}? If you do their equipment will be placed in storage."
+msgstr "你确定你要辞退{0}？如果你做他们的设备将被放置在存储。"
+
+msgctxt "Danforth/KEY_BASE_DISMISS_PERSON_RESULT"
+msgid "{0} has been dismissed."
+msgstr "{0}已被驳回。"
+
+msgctxt "Danforth/KEY_BASE_DISMISS_VEHICLE"
+msgid "Remove vehicle from the Phoenix Project"
+msgstr "从凤凰城项目中删除车辆"
+
+msgctxt "Danforth/KEY_BASE_DISMISS_VEHICLE_PROMPT"
+msgid "Are you sure you want to remove {0}?"
+msgstr "你确定要删除{0}？"
+
+msgctxt "Danforth/KEY_BASE_DISMISS_VEHICLE_RESULT"
+msgid "{0} has been abandoned"
+msgstr "{0}已被放弃"
+
+msgctxt "Danforth/KEY_BASE_DISMISS_MUTOG"
+msgid "Release Mutog, removing it from the Phoenix Project"
+msgstr "释放变异犬，从凤凰城项目中移除"
+
+msgctxt "Danforth/KEY_BASE_DISMISS_MUTOG_PROMPT"
+msgid "Are you sure you want to release {0}?"
+msgstr "你确定你要释放{0}？"
+
+msgctxt "Danforth/KEY_BASE_DISMISS_MUTOG_RESULT"
+msgid "{0} has been released"
+msgstr "{0}已被释放"
+
+msgctxt "Danforth/KEY_OBJECTIVE_GET_SOLDIERS"
+msgid "RESCUE SOLDIERS: {0}/{1}"
+msgstr "救援士兵：{0} / {1}"
+
+msgctxt "Danforth/KEY_OBJECTIVE_GET_VEHICLE"
+msgid "RECOVER VEHICLE"
+msgstr "恢复车辆"
+
+msgctxt "Danforth/KEY_MANUFACTURING_STORAGE_INSUFFICIENT"
+msgid "<color=#ECBA62> (insufficient storage space)</color>"
+msgstr "<color=#ECBA62>（存储空间不足）</color>"
+
+msgctxt "Danforth/KEY_MISSION_DEBRIEF_RESCUE"
+msgid "NEW PERSONNEL"
+msgstr "新进人员"
+
+msgctxt "Danforth/KEY_MESSAGE_HAVEN_LEADER_DOESNT_TRADE"
+msgid "Diplomatic relations with the Haven are too low. The Heaven leader refuses to trade with you."
+msgstr "与金丰外交关系太低。天堂领袖拒绝与你们进行交易。"
+
+msgctxt "Danforth/KEY_MESSAGE_SITE_UNREACHABLE"
+msgid "The location is too far away to be reached directly."
+msgstr "该位置是太远可直接到达。"
+
+msgctxt "Danforth/KEY_MESSAGE_NOT_ENOUGH_RESOURCES"
+msgid "You do not have enough resources to perform this action."
+msgstr "您没有足够的资源来执行此操作。"
+
+msgctxt "Danforth/KEY_MISSION_RAID_RESOURCES_SITE_BRIEFING_DESCRIPTION"
+msgid "Search the crates and obtain as many resource packs as possible."
+msgstr "搜索包装箱，并获得尽可能多的资源包越好。"
+
+msgctxt "Danforth/KEY_MISSION_RAID_RESOURCES_SITE_BRIEFING_NAME"
+msgid "RESOURCE RAID"
+msgstr "资源突袭"
+
+msgctxt "Danforth/KEY_MISSION_RAID_RESOURCES_SITE_DEFEAT_DESCRIPTION"
+msgid "Your entire team has been wiped out. No resources were claimed."
+msgstr "你的整个团队已经被消灭了。没有资源被宣称。"
+
+msgctxt "Danforth/KEY_MISSION_RAID_RESOURCES_SITE_DEFEAT_NAME"
+msgid "RESOURCE RAID FAILED"
+msgstr "资源突袭失败"
+
+msgctxt "Danforth/KEY_MISSION_RAID_RESOURCES_SITE_VICTORY_DESCRIPTION"
+msgid "Your team was successfully evacuated. All resources obtained from the mission are added to your resource pool."
+msgstr "你的团队被成功疏散。从任务获得的所有资源都添加到您的资源池。"
+
+msgctxt "Danforth/KEY_MISSION_RAID_RESOURCES_SITE_VICTORY_NAME"
+msgid "RESOURCE RAID SUCCESSFUL"
+msgstr "资源突袭成功"
+
+msgctxt "Danforth/KEY_MISSION_RAID_RESOURCES_SITE_WARNING"
+msgid "Warning! Resource Raid missions are much more dangerous if within a mist zone."
+msgstr "警告！资源空袭任务是雾区域内，如果要危险得多。"
+
+msgctxt "Danforth/KEY_MISSION_RAID_RESOURCES_SITE_WARNING_DESCRIPTION"
+msgid "Be aware you will be facing a continuous stream of local reinforcements. Collect as much equipment and resources as you can from the crates and exit the site from an evacuation zone."
+msgstr "要知道你将面临当地增援的连续流。收集尽可能多的设备和资源，你可以从包装箱从疏散区离开现场。"
+
+msgctxt "Danforth/KEY_STATUS_REPAIR_TIME"
+msgid "{0:f0}h to repair"
+msgstr "{0：F0} h至修"
+
+msgctxt "Danforth/KEY_STATUS_AI_CONTROLLED_NAME"
+msgid "AUTONOMOUS"
+msgstr "自主性"
+
+msgctxt "Danforth/KEY_STATUS_AI_CONTROLLED_DESCRIPTION"
+msgid "Reverted to autonomous AI control"
+msgstr "恢复到自主AI控制"
+
+msgctxt "Danforth/KEY_WARNING_CONTINUOUS_ATTACK"
+msgid "CONTINIOUS ATTACK"
+msgstr "不断攻击"
+
+msgctxt "Danforth/KEY_CONTINUOUS_ATTACK_DESCRIPTION"
+msgid "Enemy reinforcements will arrive continuously from areas marked with this symbol"
+msgstr "敌方增援将带有此标志的领域不断到货"
+
+msgctxt "Danforth/KEY_SCARAB_TIRE_DESCRIPTION"
+msgid "Scarab caterpillar track"
+msgstr "圣甲虫履带"
+
+msgctxt "Danforth/KEY_SCARAB_TIRE_NAME"
+msgid "TRACK"
+msgstr "跟踪"
+
+msgctxt "Danforth/KEY_ASPIDA_ENGINE_DESCRIPTION"
+msgid "Aspida ground effect thruster"
+msgstr "悬浮车地面效应推进器"
+
+msgctxt "Danforth/KEY_ASPIDA_ENGINE_NAME"
+msgid "THRUSTER"
+msgstr "推力"
+
+msgctxt "Danforth/KEY_ASPIDA_HULL_DESCRIPTION"
+msgid "Aspida hull"
+msgstr "悬浮车船体"
+
+msgctxt "Danforth/KEY_ASPIDA_HULL_NAME"
+msgid "HULL"
+msgstr "船壳"
+
+msgctxt "Danforth/KEY_ASPIDA_SHIELDING_DESCRIPTION"
+msgid "Aspida Shielding"
+msgstr "悬浮车屏蔽"
+
+msgctxt "Danforth/KEY_ASPIDA_SHIELDING_NAME"
+msgid "SHIELDING"
+msgstr "屏蔽"
+
+msgctxt "Danforth/KEY_ASPIDA_ARM_DESCRIPTION"
+msgid "Synedrion Aspida Tech Arm"
+msgstr "悬浮车技术臂"
+
+msgctxt "Danforth/KEY_ASPIDA_ARM_NAME"
+msgid "TECH ARM"
+msgstr "高科技手臂"
+
+msgctxt "Danforth/KEY_BASE_ACTIVATE_NAME"
+msgid "ACTIVATE BASE"
+msgstr "激活基地"
+
+msgctxt "Danforth/KEY_BASE_ACTIVATE_DESCRIPTION"
+msgid "Activate Phoenix Base remotely, rendering it operational."
+msgstr "凤凰激活远程基地，使其正常运行。"
+
+msgctxt "Danforth/KEY_BASE_ACTIVATE_CONFIRM_NAME"
+msgid "PHOENIX ACTIVATION PROTOCOL"
+msgstr "凤凰激活协议"
+
+msgctxt "Danforth/KEY_BASE_ACTIVATE_CONFIRM_DESCRIPTION"
+msgid "Initiating the activation protocols will consume resources to make the base operational. Any damaged facilities will need to be repaired."
+msgstr "发起激活协议会消耗资源，使所述基本操作。任何损坏的设施需要进行维修。"
+
+msgctxt "Danforth/KEY_BASE_ACTIVATE_NOTIFICATION_RESOURCES"
+msgid "You do not have the enough resources to activate the base"
+msgstr "您没有足够的资源来激活底部"
+
+msgctxt "Danforth/KEY_BASE_ACTIVATE_NOTIFICATION_LIMIT"
+msgid "You have reached the operational limit for Phoenix Bases. No more bases can be activated."
+msgstr "您已经达到了菲尼克斯基地的运行极限。没有更多的基地可以被激活。"
+
+msgctxt "Danforth/KEY_BASE_ACTIVATE_NOTIFICATION_ACTIVATED"
+msgid "Phoenix Base is already operational."
+msgstr "凤凰基地已经开始运营。"
+
+msgctxt "Danforth/KEY_GEOSCAPE_PANDORAN_NEST_DISCOVERED"
+msgid "A Pandoran Nest has been discovered and revealed on the Geoscape."
+msgstr "一个潘多拉星球鸟巢已经发现并在世界地图透露。"
+
+msgctxt "Danforth/KEY_GEOSCAPE_PANDORAN_LAIR_DISCOVERED"
+msgid "A Pandoran Lair has been discovered and revealed on the Geoscape."
+msgstr "一个潘多拉星球巢穴已经发现并在世界地图透露。"
+
+msgctxt "Danforth/KEY_GEOSCAPE_PANDORAN_CITADEL_DISCOVERED"
+msgid "A Pandoran Citadel has been discovered and revealed on the Geoscape."
+msgstr "一个潘多拉星球堡垒已经发现并在世界地图透露。"
+
+msgctxt "Danforth/KEY_MESSAGE_NO_SPACE_TO_RECRUIT"
+msgid "THERE IS NOT ENOUGH SPACE IN YOUR AIRCRAFT FOR THE NEW RECRUIT"
+msgstr "没有足够的空间，在你飞机招新"
+
+msgctxt "Danforth/KEY_BASE_RECRUIT_CONFIRMATION"
+msgid "Are you sure you want to recruit {0} for {1}?"
+msgstr "你确定你想要招募{0} {1}？"
+
+msgctxt "Danforth/KEY_BASE_RECRUIT_DEPLOYMENT"
+msgid "{0} has been recruited and deployed to base {1}"
+msgstr "{0}被招募并部署到基{1}"
+
+msgctxt "Danforth/KEY_MISSION_RESCUE_SOLDIERS_BRIEFING_DESC"
+msgid "Take control of the independent soldiers and evacuate the site with them"
+msgstr "以独立士兵控制，并与他们撤离现场"
+
+msgctxt "Danforth/KEY_MISSION_RESCUE_SOLDIERS_BRIEFING_NAME"
+msgid "RESCUE SOLDIERS"
+msgstr "救援士兵"
+
+msgctxt "Danforth/KEY_MISSION_RESCUE_SOLDIERS_DEFEAT_DESC"
+msgid "Your squad was wiped out"
+msgstr "你的小队全军覆没"
+
+msgctxt "Danforth/KEY_MISSION_RESCUE_SOLDIERS_DEFEAT_NAME"
+msgid "RESCUE FAILED"
+msgstr "救援失败"
+
+msgctxt "Danforth/KEY_MISSION_RESCUE_SOLDIERS_VICTORY_DESC"
+msgid "All surviving soldiers and vehicles have been evacuated"
+msgstr "所有幸存的士兵和车辆已被疏散"
+
+msgctxt "Danforth/KEY_MISSION_RESCUE_SOLDIERS_VICTORY_NAME"
+msgid "RESCUE MISSION OVER"
+msgstr "救援任务了"
+
+msgctxt "Danforth/KEY_MISSION_RECOVER_VEHICLE_BRIEFING_DESC"
+msgid "Take control of the vehicle located somewhere in the site and evacuate with it"
+msgstr "您可以在网站上的车辆所在的地方，并撤出它的控制"
+
+msgctxt "Danforth/KEY_MISSION_RECOVER_VEHICLE_BRIEFING_NAME"
+msgid "RECOVER VEHICLE"
+msgstr "恢复车辆"
+
+msgctxt "Danforth/KEY_MISSION_RECOVER_VEHICLE_DEFEAT_DESC"
+msgid "Your squad was wiped out"
+msgstr "你的小队全军覆没"
+
+msgctxt "Danforth/KEY_MISSION_RECOVER_VEHICLE_DEFEAT_NAME"
+msgid "RECOVERY FAILED"
+msgstr "恢复失败"
+
+msgctxt "Danforth/KEY_MISSION_RECOVER_VEHICLE_VICTORY_DESC"
+msgid "All surviving soldiers and vehicles have been evacuated"
+msgstr "所有幸存的士兵和车辆已被疏散"
+
+msgctxt "Danforth/KEY_MISSION_RECOVER_VEHICLE_VICTORY_NAME"
+msgid "RECOVERY MISSION OVER"
+msgstr "恢复任务了"
+
+msgctxt "Danforth/KEY_LAUNCH_LASER_DESCRIPTION"
+msgid "Fire laser at target location."
+msgstr "在目标位置消防激光。"
+
+msgctxt "Danforth/KEY_LAUNCH_LASER_NAME"
+msgid "LASER SHOT"
+msgstr "激光射击"
+
+msgctxt "Danforth/KEY_MESSAGE_NO_SPACE_INVENTORY"
+msgid "No space in inventory"
+msgstr "在库存没有足够的空间"
 
 msgctxt "Darleth/KEY_TRADE_HAVEN"
 msgid "TRADE RESOURCES WITH {0}"
@@ -1119,7 +1471,7 @@ msgid "BERSERKER TRAINING"
 msgstr "狂战士训练"
 
 msgctxt "Abilities/KEY_BLOODLUST_DESCRIPTION"
-msgid "Damage and Speed are increased proportional to the health lost (up to +50%)"
+msgid "Damage and Speed are increased proportional to the hit points lost (up to +50%)"
 msgstr "根据损失的生命值，按比例增加伤害和速度（最多增加 50%）"
 
 msgctxt "Abilities/KEY_BLOODLUST_NAME"
@@ -1215,7 +1567,7 @@ msgid "EAGLE EYED"
 msgstr "目光敏锐"
 
 msgctxt "Abilities/KEY_ELECTRIC_STRIKE_DESCRIPTION"
-msgid "Paralyzes target if shock value is greater than target's Hit Points"
+msgid "Target is dazed if shock value is greater than target's current Hit Points"
 msgstr "若冲击值大于目标生命值，可使目标眩晕"
 
 msgctxt "Abilities/KEY_ELECTRIC_STRIKE_NAME"
@@ -1467,7 +1819,7 @@ msgid "IGNORE PAIN"
 msgstr "无视疼痛"
 
 msgctxt "Abilities/KEY_INFECTED_BLOOD_DESCRIPTION"
-msgid "Add 1 Virus Damage for each Health Point damage inflicted in melee"
+msgid "Add 1 Virus Damage for each Hit Point damage inflicted in melee"
 msgstr "近战中造成的每点生命值伤害都附加 1 点病毒伤害"
 
 msgctxt "Abilities/KEY_INFECTED_BLOOD_NAME"
@@ -2363,11 +2715,11 @@ msgid "FAST USE"
 msgstr "快速使用"
 
 msgctxt "Abilities/KEY_TECHNICIAN_MANUAL_CONTROL_DESCRIPTION"
-msgid "Take manual control of a turret or vehicle weapon and shoot at a target"
+msgid "Use 1 AP and 3 WPs to take control of a turret or vehicle weapon and shoot at a target. "
 msgstr "手动控制炮台或载具武器并向目标射击"
 
 msgctxt "Abilities/KEY_TECHNICIAN_MANUAL_CONTROL_NAME"
-msgid "MANUAL CONTROL"
+msgid "REMOTE CONTROL"
 msgstr "手动控制"
 
 msgctxt "Abilities/KEY_TECHNICIAN_FIELD_MEDIC_DESCRIPTION"
@@ -2903,7 +3255,7 @@ msgid "ACID"
 msgstr "酸蚀"
 
 msgctxt "Damage types/KEY_DAMAGE_TYPE_ACID_DESC"
-msgid "ACID damage sticks to body parts - each turn it does 10 damage - first to armor, then body. Acid level reduces by 10 each turn."
+msgid "ACID damage sticks to individual body parts - each turn it applies damage to armor first, then body. Acid levels reduce by 10 each turn."
 msgstr "酸蚀伤害会附着于躯体的各个部位 - 每回合造成 10 点伤害 - 先伤害护甲，然后伤害身体。酸蚀等级每回合会减少 10。"
 
 msgctxt "Damage types/KEY_DAMAGE_TYPE_IMPACT"
@@ -3263,7 +3615,7 @@ msgid "The Geoscape"
 msgstr "世界地图"
 
 msgctxt "Tutorial/KEY_TUTORIAL_GEOSCAPE_DESCRIPTION"
-msgid "The GEOSCAPE shows the world and all locations and sites of interest.[LF][LF]In the beginning, all you know about is your base, Phoenix Point.[LF][LF]GEOSCAPE CONTROLS[LF]Move globe: Hold down :LMB: and drag, or use gamepad :RTS:[CR][LF]Gamepad cursor: :LTS:[LF]Zoom in/out: :MW: or use gamepad :LT: and :RT:[LF][LF]SELECT THE \"\"BASES\"\" BUTTON with :LMB: or the gamepad cursor with :A:"
+msgid "The GEOSCAPE shows the world and all locations and sites of interest.[LF][LF]In the beginning, all you know about is your base, Phoenix Point.[LF][LF]GEOSCAPE CONTROLS[LF]Move globe: Hold down :LMB: and drag, or use gamepad :RTS:[LF]Move gamepad cursor: :LTS:[LF]Zoom in/out: :MW: or use gamepad :LT: and :RT:[LF][LF]SELECT THE \"\"BASES\"\" BUTTON with :LMB: or the gamepad cursor with :A:"
 msgstr "世界地图显示整个世界中的所有地区和兴趣点。[LF][LF]游戏开始时，你唯一了解的地方只有你的基地：凤凰点。[LF][LF]世界地图控制[LF]转动地球仪：按住 :LMB: 并拖动，或使用手柄 :RTS:[LF]手柄光标：:LTS:[LF]放大/缩小：:MW: 或使用手柄 :LT: 和 :RT:[LF][LF]使用 :LMB: 点选“基地”按钮，或用手柄光标选中后按 :A:"
 
 msgctxt "Tutorial/KEY_TUTORIAL_BASE_NAME"
@@ -3295,7 +3647,7 @@ msgid "Mission Rewards and Fatigue"
 msgstr "任务奖励与疲劳"
 
 msgctxt "Tutorial/KEY_TUTORIAL_RESOURCES_DESCRIPTION"
-msgid "On completing a mission, all gathered items and resources are added to your overall supplies. [LF][LF]Soldiers get fatigued during battle, losing 1 stamina point per turn (max 10 per battle). When stamina falls below 20%, a soldier will suffer an Action Point penalty in the next battle.[LF][LF]Your soldiers will recover stamina and health while resting at base, as long as the base has a functioning Living Quarters and Medical Bay.[LF][LF]RETURN TO YOUR BASE SO YOUR SOLDIERS CAN RECOVER"
+msgid "On completing a mission, all gathered items and resources are added to your overall supplies. [LF][LF]Soldiers get fatigued during battle, losing 1 stamina point per turn (max 10 per battle). When stamina falls below 20%, a soldier will suffer an Action Point penalty in the next battle.[LF][LF]Your soldiers will recover stamina and hit points while resting at base, as long as the base has a functioning Living Quarters and Medical Bay.[LF][LF]RETURN TO YOUR BASE SO YOUR SOLDIERS CAN RECOVER"
 msgstr "完成某个任务后，所有收集到的物品和资源都将添加至你的总补给中。[LF][LF]士兵在战斗中会感到疲劳，每回合会失去 1 点耐力（每场战斗最多 10 点）。当耐力低于 20% 时，士兵将在下次战斗中受到行动点数惩罚。[LF][LF]只要基地中有宿舍和医疗室，士兵就可以在基地中休息，从而恢复耐力和生命值。[LF][LF]返回基地让你的士兵进行恢复"
 
 msgctxt "Tutorial/KEY_TUTORIAL_PERSONNEL_NAME"
@@ -3747,7 +4099,7 @@ msgid "Acid Damage"
 msgstr "酸蚀伤害"
 
 msgctxt "Phoenixpedia/KEY_PHOENIXPEDIA_GUIDE_ACID_DESC"
-msgid "A weapon with Acid Damage will add the damage value to the acid level of the hit body part. Acid can accumulate on body parts, if they are hit multiple times with acid damage.[LF][LF]At the start of a character's turn, acid will eat away at the body part. First, the body part's armor is affected, and reduced by 10. If there is no armor left on the body part then 10 damage is applied to Body Part Hit Points and to General Hit Points. After all acid damage is resolved, the acid value on each body part will reduce by 10."
+msgid "A weapon with Acid Damage will add the damage value to the acid level of the hit body part. Acid can accumulate on body parts, if they are hit multiple times with acid damage.[LF][LF]At the start of a character's turn, acid will eat away at the body part. First, the body part's armor is affected, and reduced by the Acid value. If there is no armor left on the body part then the damage is applied to Body Part Hit Points and to General Hit Points. After all acid damage is resolved, the acid value on each body part will reduce by 10."
 msgstr "具有酸蚀伤害的武器会将伤害值增加至被击中身体部位的酸蚀等级。如果身体部位多次受到酸蚀伤害，酸蚀等级也会累积。[LF][LF]当受到影响的角色回合开始时，酸蚀会逐渐侵蚀身体部位。首先，身体部位的护甲会受到影响，减少 10 点。如果身体部位没有剩余护甲，则会对身体部位和总生命值造成 10 点伤害。所有酸蚀伤害结算完毕后，每个身体部位的酸蚀值将会减少 10 点。"
 
 msgctxt "Phoenixpedia/KEY_PHOENIXPEDIA_GUIDE_PARALYSE_NAME"
@@ -3803,8 +4155,8 @@ msgid "Status Effects"
 msgstr "状态效果"
 
 msgctxt "Phoenixpedia/KEY_PHOENIXPEDIA_GUIDE_STATUS_EFFECTS_DESCRIPTION"
-msgid "Status effects can apply to the entire character or only to a specific body part.[LF][LF]While the status effects of a unit is can be seen on the health indicator above the character's head, body part statuses are only visible from the Character Info screen. The only exceptions are when a body part is wounded or disabled, which are indicated on the damage display to the left of the health indicator.[LF][LF]STATUS EFFECTS SUMMARY[LF]ACID: Acid corrodes 10 armor per turn. If there is no armor, then the damage is applied to the body part. Acid value reduces by 10 per turn.[LF]BLEEDING: Each turn, lose Hit Points equal to bleed value.[LF]BURNING: Fire damage is applied to each body part at the start of the turn, subtracting armor.[LF]FRENZIED: Speed increased by 50% and immune to panic.[LF]GOOED: Unable to move until Goo decays or is removed.[LF]INFECTED BY VIRUS: At start of turn virus is subtracted from Will Points, then virus value is reduced by 1.[LF]PANICKED: Unable to move for a turn, while recovering Will Points.[LF]POISONED: At start of turn, poison is subtracted from Hit Points, then poison value is reduced by 10.[LF]PREPARING: (Pandoran Sentinel and Egg only) Preparing to activate special ability on the next turn.[LF]BERSERK: (Mutog only) Mutog becomes wild, attacking friend or foe.[LF]ENRAGED: (Mutog only) Damage dealt and speed are increased by 50%. There's a 10% chance the Mutog will go Berserk at the start of each turn.[LF]ALERTED: (Enemy only). Enemy is aware of your presence.[LF]TIRED: (caused by entering a battle with low Stamina) -1 Action Point each turn.[LF]EXHAUSTED: (caused by entering a battle with low Stamina) -2 Action Point each turn.[LF]PARALYZED: Cannot move or perform any actions.[LF]PARALYSIS: Action Points are reduced by the proportion of paralysis value to Strength.[LF]DAZED: Action Points reduced to 1 and accuracy halved.[LF]OVERWATCH: Enemies entering the overwatch cone will trigger an attack."
-msgstr "状态效果可以施加于整个角色，也可以只施加于特定的身体部位。[LF][LF]单位的状态效果可以在角色头部上方的健康指示器上查看，而身体部位的状态只能在角色信息界面上显示。不过，当某个身体部位受伤或损坏时，健康指示器左侧的伤害显示将会予以表明。[LF][LF]状态效果概览[LF]酸蚀：酸蚀每回合腐蚀 10 点护甲。如果没有护甲，伤害将直接作用于身体部位。酸蚀值每回合降低 10 点。[LF]流血：每回合失去等同于流血数值的生命值。[LF]燃烧：回合开始时，将减去护甲之后的火焰伤害作用于所有身体部位。[LF]疯狂：速度增加 50% 并且免疫恐慌。[LF]粘住：在粘液消散或被移除前无法移动[LF]病毒感染：回合开始时，意志力点数扣除病毒值，随后病毒值减少 1 点。[LF]恐慌：恢复意志力点数时的一回合内无法移动[LF]中毒：回合开始时，生命值扣除毒性值，随后毒性值减少 10 点[LF]准备中：（仅潘多拉哨兵和卵）准备在下一回合激活特殊技能[LF]狂暴：（仅变异犬）变异犬陷入狂暴，不分敌我发动攻击[LF]暴怒：（仅变异犬）造成的伤害和速度增加 50％。变异犬在每回合开始时有 10％ 几率变得“狂暴”。[LF]警觉：（仅敌人）。敌人察觉到了你的存在[LF]疲劳：（由进入战斗时耐力较低而造成）每回合 -1 点行动点数[LF]筋疲力尽：（由进入战斗时耐力较低而造成）每回合 -1 点行动点数[LF]麻痹：不能移动，也不能执行任何行动[LF]麻痹：按照麻痹值与力量值的比例减少行动点数[LF]眩晕：行动点数减少为 1 点且准度减半[LF]警戒：进入锥形警戒区的敌人将触发一次攻击"
+msgid "Status effects can apply to the entire character or only to a specific body part.[LF][LF]While the status effects of a unit is can be seen on the health indicator above the character's head, body part statuses are only visible from the Character Info screen. The only exceptions are when a body part is wounded or disabled, which are indicated on the damage display to the left of the health indicator.[LF][LF]STATUS EFFECTS SUMMARY[LF]ACID: Acid corrodes the armor by the Acid value (per turn). If there is no armor, then the damage is applied to the body part. Acid value reduces by 10 per turn.[LF]BLEEDING: Each turn, lose Hit Points equal to bleed value.[LF]BURNING: Fire damage is applied to each body part at the start of the turn, subtracting armor.[LF]FRENZIED: Speed increased by 50% and immune to panic.[LF]GOOED: Unable to move until Goo decays or is removed.[LF]INFECTED BY VIRUS: At start of turn virus is subtracted from Will Points, then virus value is reduced by 1.[LF]PANICKED: Unable to move for a turn, while recovering Will Points.[LF]POISONED: At start of turn, poison is subtracted from Hit Points, then poison value is reduced by 10.[LF]PREPARING: (Pandoran Sentinel and Egg only) Preparing to activate special ability on the next turn.[LF]BERSERK: (Mutog only) Mutog becomes wild, attacking friend or foe.[LF]ENRAGED: (Mutog only) Damage dealt and speed are increased by 50%. There's a 10% chance the Mutog will go Berserk at the start of each turn.[LF]ALERTED: (Enemy only). Enemy is aware of your presence.[LF]TIRED: (caused by entering a battle with low Stamina) -1 Action Point each turn.[LF]EXHAUSTED: (caused by entering a battle with low Stamina) -2 Action Point each turn.[LF]PARALYZED: Cannot move or perform any actions.[LF]PARALYSIS: Action Points are reduced by the proportion of paralysis value to Strength.[LF]DAZED: Action Points reduced to 1 and accuracy halved. Abilities requiring Will Points cannot be used.[LF]OVERWATCH: Enemies entering the overwatch cone will trigger an attack.[LF]SONIC: Dazes the target is the target's Will Points are less than the amount of Sonic Damage"
+msgstr "状态效果可以施加于整个角色，也可以只施加于特定的身体部位。[LF][LF]单位的状态效果可以在角色头部上方的健康指示器上查看，而身体部位的状态只能在角色信息界面上显示。不过，当某个身体部位受伤或损坏时，健康指示器左侧的伤害显示将会予以表明。[LF][LF]状态效果概览[LF]酸蚀：酸蚀每回合腐蚀 10 点护甲。如果没有护甲，伤害将直接作用于身体部位。酸蚀值每回合降低 10 点。[LF]流血：每回合失去等同于流血数值的生命值。[LF]燃烧：回合开始时，将减去护甲之后的火焰伤害作用于所有身体部位。[LF]疯狂：速度增加 50% 并且免疫恐慌。[LF]粘住：在粘液消散或被移除前无法移动[LF]病毒感染：回合开始时，意志力点数扣除病毒值，随后病毒值减少 1 点。[LF]恐慌：恢复意志力点数时的一回合内无法移动[LF]中毒：回合开始时，生命值扣除毒性值，随后毒性值减少 10 点[LF]准备中：（仅潘多拉哨兵和卵）准备在下一回合激活特殊技能[LF]狂暴：（仅变异犬）变异犬陷入狂暴，不分敌我发动攻击[LF]暴怒：（仅变异犬）造成的伤害和速度增加 50％。变异犬在每回合开始时有 10％ 几率变得“狂暴”。[LF]警觉：（仅敌人）。敌人察觉到了你的存在[LF]疲劳：（由进入战斗时耐力较低而造成）每回合 -1 点行动点数[LF]筋疲力尽：（由进入战斗时耐力较低而造成）每回合 -1 点行动点数[LF]麻痹：不能移动，也不能执行任何行动[LF]麻痹：按照麻痹值与力量值的比例减少行动点数[LF]眩晕：行动点数减少为 1 点且准度减半[LF]警戒：进入锥形警戒区的敌人将触发一次攻击[LF]声波：晕眩目标是目标的意志点小于音速伤害值"
 
 msgctxt "Phoenixpedia/KEY_PHOENIXPEDIA_GUIDE_HAVENS_NAME"
 msgid "Advanced: Havens"
@@ -4352,6 +4704,14 @@ msgstr "[null]"
 
 msgctxt "Xbox/KEY_STREAMING_INSTALL_TEXT_DESCRIPTION"
 msgid "The selected mission is currently being downloaded to your device. Please, wait until the download is complete before launching."
+msgstr "[null]"
+
+msgctxt "Xbox/KEY_CONSOLE_CONTINUE"
+msgid "PRESS :A: TO CONTINUE"
+msgstr "[null]"
+
+msgctxt "Xbox/KEY_CONSOLE_SWITCH_PROFILE"
+msgid "SWITCH PROFILE"
 msgstr "[null]"
 
 msgctxt "Objectives/KEY_OBJECTIVE_PROTECT_CIVILIANS"
@@ -8067,7 +8427,7 @@ msgid "HANDS TO USE"
 msgstr "占用手"
 
 msgctxt "Equipping Screen/KEY_ITEM_STAT_HEALTH"
-msgid "HEALTH"
+msgid "HIT POINTS"
 msgstr "健康"
 
 msgctxt "Equipping Screen/KEY_ITEM_STAT_LOCATION_HP"
@@ -9875,7 +10235,7 @@ msgid "SPECIAL MISSION"
 msgstr "特殊任务"
 
 msgctxt "Geoscape/KEY_FACILITY_BUILDING"
-msgid "FACILITY IS BUILDING"
+msgid "FACILITY UNDER CONSTRUCTION"
 msgstr "设施正在建造中"
 
 msgctxt "Geoscape/KEY_ODI_TT"
@@ -9979,7 +10339,7 @@ msgid "The teeming, chaotic slums of Disciples of Anu havens house the devoted m
 msgstr "安努门徒教会避难所拥挤而混乱的贫民窟中居住着大量虔诚的追随者。"
 
 msgctxt "Haven Screen/KEY_HAVEN_ZONE_RESIDENTIAL_DESC_SY"
-msgid "Synedrion constructs the most human centred cvilian amenites as an example of the world they want to create."
+msgid "Synedrion constructs the most human centred civilian amenites as an example of the world they want to create."
 msgstr "平衡议会建造出了最为“以人为本”的民用生活设施，这也是他们梦想世界中的建筑典范。"
 
 msgctxt "Haven Screen/KEY_GEOSCAPE_ZONE_RESIDENTIAL_ELITE_NAME"
@@ -10051,7 +10411,7 @@ msgid "MIST REPELLER"
 msgstr "散雾器"
 
 msgctxt "Haven Screen/KEY_GEOSCAPE_ZONE_MIST_DESCRIPTION"
-msgid "Havens will generally provide enough accomodation for their populations, but they are vulnerable to Pandoran attack."
+msgid "Mist repellers create a mist-free zone around the Haven, reducing starvation and the risk of attack from Pandoran bases."
 msgstr "一般情况下，避难所可以为人们提供足够的居住空间，不过这些区域也很容易受到潘多拉的攻击。"
 
 msgctxt "Haven Screen/KEY_GEOSCAPE_ZONE_MISSIONARY_NAME"
@@ -10135,11 +10495,11 @@ msgid "Send an aircraft with a squad to this haven to conduct a mission here"
 msgstr "派遣一只队伍和一架飞行器前往该避难所并在此执行一项任务"
 
 msgctxt "Haven Screen/KEY_RECRUIT_LEADER_NEGATIVE_DIPLOMACY_TT"
-msgid "Haven leader is unfriendly with Phoenix Point. Improve diplomacy relation to be able to recruit."
+msgid "The haven leader is not friendly towards the Phoenix Project. Improve diplomatic relations to enable recruiting."
 msgstr "避难所领袖对凤凰点并不友好。改善外交关系以进行招募。"
 
 msgctxt "Haven Screen/KEY_TRADE_LEADER_NEGATIVE_DIPLOMACY_TT"
-msgid "Haven leader is unfriendly with Phoenix Point. Improve diplomacy relation to be able to trade."
+msgid "The haven leader is not friendly towards the Phoenix Project. Improve diplomatic relations to enable trading."
 msgstr "避难所领袖对凤凰点并不友好。改善外交关系以进行交易。"
 
 msgctxt "Missions/KEY_MISSION_ALIEN_LAIR"
@@ -10155,7 +10515,7 @@ msgid "PANDORAN  PALACE"
 msgstr "潘多拉宫殿"
 
 msgctxt "Missions/KEY_MISSION_ATTACK_CITADEL_BRIEFING_DESCRIPTION"
-msgid "Locate and eliminate the Scylla to destroy the Citadel."
+msgid "Locate and eliminate the Scylla and then evacuate your squad"
 msgstr "找到并消灭斯库拉进而摧毁城堡。"
 
 msgctxt "Missions/KEY_MISSION_ATTACK_CITADEL_BRIEFING_NAME"
@@ -10163,7 +10523,7 @@ msgid "ATTACK PANDORAN CITADEL"
 msgstr "攻击潘多拉城堡"
 
 msgctxt "Missions/KEY_MISSION_ATTACK_CITADEL_DEFEAT_DESCRIPTION"
-msgid "The monster that rules this citadel will continue its reign of terror on nearby human settlements."
+msgid "The monster that rules this citadel will continue its reign of terror on nearby human settlements"
 msgstr "掌控这座城堡的怪物将在附近的人类定居点延续它的恐怖统治。"
 
 msgctxt "Missions/KEY_MISSION_ATTACK_CITADEL_DEFEAT_NAME"
@@ -10219,7 +10579,7 @@ msgid "PANDORAN NEST SURVIVES"
 msgstr "潘多拉巢穴幸存"
 
 msgctxt "Missions/KEY_MISSION_ATTACK_NEST_VICTORY_DESCRIPTION"
-msgid "The Pandoran lair has been neutralized and abandoned by its inhabitants. The rest of humanity can breathe a sigh of relief."
+msgid "The Pandoran nest has been neutralized and abandoned by its inhabitants. The rest of humanity can breathe a sigh of relief."
 msgstr "已消除潘多拉大巢穴威胁，此建筑已被其居民抛弃。剩下的人类终于可以长吁一口气了。"
 
 msgctxt "Missions/KEY_MISSION_ATTACK_NEST_VICTORY_NAME"
@@ -10235,7 +10595,7 @@ msgid "PHOENIX BASE DISCOVERED"
 msgstr "已发现凤凰基地"
 
 msgctxt "Missions/KEY_MISSION_ATTACK_SCAVENGING_SITE_BRIEFING_DESCRIPTION"
-msgid "Eliminate all enemies to claim the resource crates."
+msgid "Take as many items from the crates as you can safely manage and evacuate your squad"
 msgstr "消灭所有敌人以获取资源箱。"
 
 msgctxt "Missions/KEY_MISSION_ATTACK_SCAVENGING_SITE_BRIEFING_NAME"
@@ -10243,7 +10603,7 @@ msgid "SCAVENGING SITE"
 msgstr "回收处"
 
 msgctxt "Missions/KEY_MISSION_ATTACK_SCAVENGING_SITE_DEFEAT_DESCRIPTION"
-msgid "The site is overrun and any resource crates remaining there are destroyed."
+msgid "The site is overrun and any remaining crates will no longer be recoverable"
 msgstr "此地遭到肆虐，所有资源箱均已被摧毁。"
 
 msgctxt "Missions/KEY_MISSION_ATTACK_SCAVENGING_SITE_DEFEAT_NAME"
@@ -10251,7 +10611,7 @@ msgid "SCAVENGING SITE ABANDONED"
 msgstr "回收处已废弃"
 
 msgctxt "Missions/KEY_MISSION_ATTACK_SCAVENGING_SITE_VICTORY_DESCRIPTION"
-msgid "All surviving crates have been recovered and resources transferred to our stores."
+msgid "All collected resource packs have been transferred to our stores"
 msgstr "已取回所有幸存资源箱，资源已全部转移至仓库。"
 
 msgctxt "Missions/KEY_MISSION_ATTACK_SCAVENGING_SITE_VICTORY_NAME"
@@ -10799,7 +11159,7 @@ msgid "AIRCRAFT CAPTURED"
 msgstr "已夺取飞行器"
 
 msgctxt "Missions/KEY_MISSION_STEAL_FOOD_BRIEFING_DESC"
-msgid "Eliminate enemy forces and prevent damage to food crates to capture them."
+msgid "Take as many items from the crates as you can safely manage and evacuate your squad"
 msgstr "消灭敌方军队并夺取未受损的食物箱。"
 
 msgctxt "Missions/KEY_MISSION_STEAL_FOOD_BRIEFING_NAME"
@@ -10807,7 +11167,7 @@ msgid "RAID FOOD"
 msgstr "掠夺食物"
 
 msgctxt "Missions/KEY_MISSION_STEAL_FOOD_DEFEAT_DESC"
-msgid "No food crates survived the battle."
+msgid "Nothing was gained from the mission"
 msgstr "所有食物箱均未能幸免于此次战斗。"
 
 msgctxt "Missions/KEY_MISSION_STEAL_FOOD_DEFEAT_NAME"
@@ -10815,15 +11175,15 @@ msgid "FOOD RAID FAILURE"
 msgstr "掠夺食物失败"
 
 msgctxt "Missions/KEY_MISSION_STEAL_FOOD_VICTORY_DESC"
-msgid "All surviving food crates have been recovered, and added to our resources."
+msgid "All collected food resource packs have been transferred to our stores"
 msgstr "所有幸存食物箱均已被取回并加入我们的资源当中。"
 
 msgctxt "Missions/KEY_MISSION_STEAL_FOOD_VICTORY_NAME"
-msgid "FOOD SECURED"
+msgid "RAID MISSION OVER"
 msgstr "已夺取食物"
 
 msgctxt "Missions/KEY_MISSION_STEAL_MATERIALS_BRIEFING_DESC"
-msgid "Eliminate enemy forces and prevent damage to material crates to capture them."
+msgid "Take as many items from the crates as you can safely manage and evacuate your squad"
 msgstr "消灭敌方军队并夺取未受损的物资箱。"
 
 msgctxt "Missions/KEY_MISSION_STEAL_MATERIALS_BRIEFING_NAME"
@@ -10831,7 +11191,7 @@ msgid "RAID MATERIALS"
 msgstr "掠夺材料"
 
 msgctxt "Missions/KEY_MISSION_STEAL_MATERIALS_DEFEAT_DESC"
-msgid "No material crates survived the battle."
+msgid "Nothing was gained from the mission"
 msgstr "所有物资箱均未能免于此次战斗。"
 
 msgctxt "Missions/KEY_MISSION_STEAL_MATERIALS_DEFEAT_NAME"
@@ -10839,11 +11199,11 @@ msgid "MATERIALS RAID FAILURE"
 msgstr "掠夺材料失败"
 
 msgctxt "Missions/KEY_MISSION_STEAL_MATERIALS_VICTORY_DESC"
-msgid "All surviving material crates have been recovered, and added to resources."
+msgid "All collected materials resource packs have been transferred to our stores"
 msgstr "所有幸存物资箱均已被取回并添加到我们的资源当中。"
 
 msgctxt "Missions/KEY_MISSION_STEAL_MATERIALS_VICTORY_NAME"
-msgid "MATERIALS SECURED"
+msgid "RAID MISSION OVER"
 msgstr "已夺取材料"
 
 msgctxt "Missions/KEY_MISSION_STEAL_RESEARCH_BRIEFING_DESC"
@@ -10871,7 +11231,7 @@ msgid "RESEARCH ACQUIRED"
 msgstr "已获得研究"
 
 msgctxt "Missions/KEY_MISSION_STEAL_TECH_BRIEFING_DESC"
-msgid "Eliminate enemy forces and prevent damage to tech crates to capture them."
+msgid "Take as many items from the crates as you can safely manage and evacuate your squad"
 msgstr "消灭敌方军队并夺取未受损的科技箱。"
 
 msgctxt "Missions/KEY_MISSION_STEAL_TECH_BRIEFING_NAME"
@@ -10879,7 +11239,7 @@ msgid "RAID TECH"
 msgstr "掠夺科技"
 
 msgctxt "Missions/KEY_MISSION_STEAL_TECH_DEFEAT_DESC"
-msgid "No tech crates survived the battle."
+msgid "Nothing was gained from the mission"
 msgstr "所有科技箱均未能幸免于此次战斗。"
 
 msgctxt "Missions/KEY_MISSION_STEAL_TECH_DEFEAT_NAME"
@@ -10887,11 +11247,11 @@ msgid "TECH RAID FAILURE"
 msgstr "掠夺科技失败"
 
 msgctxt "Missions/KEY_MISSION_STEAL_TECH_VICTORY_DESC"
-msgid "All surviving tech crates have been recovered, and added to our resources."
+msgid "All collected tech resource packs have been transferred to our stores"
 msgstr "所有幸存科技箱均已被取回并加入我们的资源当中。"
 
 msgctxt "Missions/KEY_MISSION_STEAL_TECH_VICTORY_NAME"
-msgid "TECH SECURED"
+msgid "RAID MISSION OVER"
 msgstr "已夺取科技"
 
 msgctxt "Missions/KEY_MISSION_SUMMARY_BACK_GEOSCAPE"
@@ -11123,7 +11483,7 @@ msgid "AMBUSH SURVIVED!"
 msgstr "已成功撤离"
 
 msgctxt "Missions/KEY_MISSION_AMBUSH_VICTORY_BRIEFING_TEXT"
-msgid "YOUR FORCES DENY THE ENEMY."
+msgid "YOUR FORCES HAVE ESCAPED THE AMBUSH!"
 msgstr "你的军队已将敌人击败。"
 
 msgctxt "Missions/KEY_MISSION_AMBUSH_DEFEAT_BRIEFING_NAME"
@@ -11183,7 +11543,7 @@ msgid "All Phoenix Soldiers have lost {0} Stamina."
 msgstr "所有凤凰士兵失去 {0} 点耐力。"
 
 msgctxt "Missions/KEY_MISSION_OUTCOME_SOLDIER_INJURED_ALL"
-msgid "All Phoenix Soldiers have lost {0} Health."
+msgid "All Phoenix Soldiers have lost {0} Hit Points."
 msgstr "所有凤凰士兵失去 {0} 点生命值。"
 
 msgctxt "Missions/KEY_MISSION_OUTCOME_ALIEN_ATTACKS"
@@ -11907,7 +12267,7 @@ msgid "Effective Range is the range in tile positions at which the soldier can e
 msgstr "有效距离是指士兵在当前所处格位与拥有人类体型的目标之间的距离，且士兵拥有 50% 的几率命中目标。"
 
 msgctxt "Loading Tips/KEY_TACTICAL_LOADING_TIP_25"
-msgid "The armor level of a body part will prevent that much damage affecting Hit Points e.g. a damage value of 50 against armour of 20 will result in 30 Hit Points lost."
+msgid "The armor level of a body part will prevent that much damage affecting Hit Points e.g. a damage value of 50 against armor of 20 will result in 30 Hit Points lost."
 msgstr "身体部位的护甲等级能够抵挡相应的生命值伤害，如用伤害值为 50 的伤害攻击护甲值为 20 的目标时，最终会对该目标造成 30 点伤害。"
 
 msgctxt "Loading Tips/KEY_TACTICAL_LOADING_TIP_26"
@@ -11919,7 +12279,7 @@ msgid "Viral damage will reduce Will Points at the start of your turn, then the 
 msgstr "病毒伤害会在你的回合开始时扣除意志力点数，在接下来的回合中，病毒会减少且造成的伤害也会降低，直到病毒消散。"
 
 msgctxt "Loading Tips/KEY_TACTICAL_LOADING_TIP_28"
-msgid "Acid damage attached to body parts will reduce armor by 10 each turn, and  then eat away at the flesh, until no acid damage is left."
+msgid "Acid damage attached to body parts will damage armor first, and then body parts. Remaining acid levels reduce each turn."
 msgstr "附着在身体部位的酸蚀伤害会在每回合减少对应部位的 10 点护甲，然后开始腐蚀肉体，直到酸蚀伤害消失。"
 
 msgctxt "Loading Tips/KEY_TACTICAL_LOADING_TIP_29"
@@ -12223,11 +12583,11 @@ msgid "SIDE"
 msgstr "侧面"
 
 msgctxt "Body parts/KEY_VEHICLE_TIRE_DESCRIPTION"
-msgid "Tire"
+msgid "New Jericho Armadillo Wheel"
 msgstr "轮胎"
 
 msgctxt "Body parts/KEY_VEHICLE_TIRE_NAME"
-msgid "TIRE"
+msgid "WHEEL"
 msgstr "轮胎"
 
 msgctxt "Body parts/KEY_VEHICLE_TOP_DESCRIPTION"

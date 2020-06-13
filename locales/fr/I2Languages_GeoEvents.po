@@ -2540,7 +2540,7 @@ msgstr "OK."
 
 msgctxt "GeoEvents/RE23_TEXT_GENERAL_0"
 msgid "MESSAGE[LF]FROM: Citizen Athena (Synedrion)[LF][LF]Synedrion is now SUPPORTIVE of the Phoenix Project. The locations of Synedrion havens have been added to the geoscape. Defend them to earn reputation. Failure to defend a haven under attack will lose some support."
-msgstr "NACHRICHT[LF] VON: Bürgerin Athena (Synedrion)[LF] [LF] Das Phoenix-Projekt besitzt nun die UNTERSTÜTZUNG Synedrions. Die Standorte der Synedrion-Zufluchten wurden dem Geoscape hinzugefügt. Verteidigt sie, um euch einen guten Ruf zu verdienen. Bei Nicht-Verteidigung einer angegriffenen Zuflucht geht Unterstützung verloren."
+msgstr "MESSAGE[LF]DE : Citoyenne Athéna (Synédrion)[LF][LF]Le Synédrion est maintenant FAVORABLE au Projet Phoenix. Les emplacements des refuges du Synédrion ont été ajoutés au Geoscape. Protégez-les pour obtenir une bonne réputation. Si vous ne défendez pas un refuge attaqué, vous perdrez du soutien."
 
 msgctxt "GeoEvents/RE23_TITLE"
 msgid "SUPPORTIVE"
@@ -2641,6 +2641,22 @@ msgstr "MESSAGE[LF] DE : Tobias West (Nouvelle-Jéricho)[LF] [LF] La Nouvelle-J�
 msgctxt "GeoEvents/RE31_TITLE"
 msgid "ALLIED"
 msgstr "ALLIÉ"
+
+msgctxt "GeoEvents/MISC_01_CHOICE_0_OUTCOME_GENERAL"
+msgid "Check for new unexplored sites in the geoscape display."
+msgstr "Recherchez de nouveaux sites inexplorés dans l'affichage du géopanorama."
+
+msgctxt "GeoEvents/MISC_01_CHOICE_0_TEXT"
+msgid "This is good news"
+msgstr "C'est une bonne nouvelle"
+
+msgctxt "GeoEvents/MISC_01_TEXT_GENERAL_0"
+msgid "Atmospheric analysis improvements have revealed overgrown sites which may be more rewarding than anything we have encountered so far."
+msgstr "Les améliorations de l'analyse atmosphérique ont révélé des sites envahis par la végétation qui peuvent être plus gratifiants que tout ce que nous avons rencontré jusqu'à présent."
+
+msgctxt "GeoEvents/MISC_01_TITLE"
+msgid "New Scavenging Sites Uncovered"
+msgstr "Nouveaux sites de récupération découverts"
 
 msgctxt "Chain/CHAIN_NJ1_CHOICE_0_OUTCOME_GENERAL"
 msgid "MESSAGE[LF]FROM: Colonel Jack Harlson (New Jericho)[LF]TO: Phoenix Project[LF][LF]I look forward to receiving the results of this operation. You will be adequately compensated, of course."

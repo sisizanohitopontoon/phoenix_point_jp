@@ -43,7 +43,7 @@ msgid "RECLAIM"
 msgstr "ZURÜCKERHALTEN"
 
 msgctxt "PH_Localization/KEY_HEALTH"
-msgid "HEALTH"
+msgid "HIT POINTS"
 msgstr "GESUNDHEIT"
 
 msgctxt "PH_Localization/KEY_HIT_POINTS"
@@ -357,6 +357,358 @@ msgstr "ERNEUT VERSUCHEN"
 msgctxt "PH_Localization/KEY_OK"
 msgid "OK"
 msgstr "OK"
+
+msgctxt "Danforth/KEY_OBJECTIVE_PICK_RESOURCES"
+msgid "RESOURCE PACKS COLLECTED: {0}/{1}"
+msgstr "RESOURCE PACK GESAMMELTER: {0} / {1}"
+
+msgctxt "Danforth/KEY_RESOURCE_FOOD_NAME"
+msgid "FOOD PACK"
+msgstr "ESSEN UND GETRÄNKE"
+
+msgctxt "Danforth/KEY_RESOURCE_FOOD_DESCRIPTION"
+msgid "Concentrated nutrient portions"
+msgstr "Konzentrierte Nährstoffabschnitte"
+
+msgctxt "Danforth/KEY_RESOURCE_MATERIALS_NAME"
+msgid "MATERIAL PACK"
+msgstr "MATERIALPACKUNG"
+
+msgctxt "Danforth/KEY_RESOURCE_MATERIALS_DESCRIPTION"
+msgid "Construction materials"
+msgstr "Baumaterialien"
+
+msgctxt "Danforth/KEY_RESOURCE_MUTAGENS_NAME"
+msgid "MUTAGEN PACK"
+msgstr "MUTAGEN PACK"
+
+msgctxt "Danforth/KEY_RESOURCE_MUTAGENS_DESCRIPTION"
+msgid "A capsule of active Pandoran mutagens."
+msgstr "Eine Kapsel aktiver Pandoran Mutagenen."
+
+msgctxt "Danforth/KEY_RESOURCE_TECH_NAME"
+msgid "TECH PACK"
+msgstr "TECH-PACK"
+
+msgctxt "Danforth/KEY_RESOURCE_TECH_DESCRIPTION"
+msgid "High tech construction components"
+msgstr "High-Tech-Bauteile"
+
+msgctxt "Danforth/KEY_OBJECTIVE_RESCUE_ALLY"
+msgid "#RESCUE ALLIES: {0}/{1}"
+msgstr "RETTUNGS VERBÜNDETEN: {0} / {1}"
+
+msgctxt "Danforth/KEY_OBJECTIVE_RECOVER_VEHICLE"
+msgid "#RECOVER VEHICLE"
+msgstr "ERHOLEN FAHRZEUG"
+
+msgctxt "Danforth/KEY_LOAD_INVALID_TACTICAL"
+msgid "This in-battle save is not compatible with the current version of the game. The game will revert the Geoscape just prior to the mission."
+msgstr "Dieser in-Kampf speichern ist nicht kompatibel mit der aktuellen Version des Spiels. Das Spiel wird die Geoscape kurz vor der Mission zurück."
+
+msgctxt "Danforth/KEY_BASE_RECRUITS_SPAWNED"
+msgid "New recruits available."
+msgstr "Neue Rekruten zur Verfügung."
+
+msgctxt "Danforth/KEY_BASE_RECRUITS_ROSTER_NAME"
+msgid "RECRUITS"
+msgstr "REKRUTEN"
+
+msgctxt "Danforth/KEY_BASE_RECRUITS_ROSTER_DESCRIPTION"
+msgid "All volunteers available for recruiting at your base"
+msgstr "Alle Freiwilligen für die Rekrutierung an Ihrer Basis"
+
+msgctxt "Danforth/KEY_BASE_RECRUITS_ABILITIES"
+msgid "ABILITIES"
+msgstr "FÄHIGKEITEN"
+
+msgctxt "Danforth/KEY_BASE_RECRUITS_DEPLOYMENT"
+msgid "RECRUIT DEPLOYMENT"
+msgstr "REKRUT EINSATZ"
+
+msgctxt "Danforth/KEY_BASE_STATUS_RECRUITING_NORMAL"
+msgid "ONLINE"
+msgstr "ONLINE"
+
+msgctxt "Danforth/KEY_BASE_STATUS_RECRUITING_ATTACK"
+msgid "INCOMING ATTACK"
+msgstr "EINGEHENDER ANGRIFF"
+
+msgctxt "Danforth/KEY_BASE_RECRUITS_AVAILABLE"
+msgid "RECRUITS AVAILABLE IN {0} DAYS"
+msgstr "REKRUTEN IN {0} TAGE VERFÜGBAR"
+
+msgctxt "Danforth/KEY_BASE_RECRUITS_RECRUIT_ACTION"
+msgid "RECRUIT"
+msgstr "REKRUTIEREN"
+
+msgctxt "Danforth/KEY_BASE_DISMISS_PERSON"
+msgid "Dismiss soldier, removing them from the Phoenix Project. All equipment will be put in storage."
+msgstr "Entlassen Soldaten, sie aus dem Phoenix-Projekt zu entfernen. Alle Geräte werden in gelagert werden."
+
+msgctxt "Danforth/KEY_BASE_DISMISS_PERSON_PROMPT"
+msgid "Are you sure you want to dismiss {0}? If you do their equipment will be placed in storage."
+msgstr "Sind Sie sicher, dass Sie entlassen wollen {0}? Wenn Sie ihre Ausrüstung tun bei der Lagerung platziert werden."
+
+msgctxt "Danforth/KEY_BASE_DISMISS_PERSON_RESULT"
+msgid "{0} has been dismissed."
+msgstr "{0} wurde abgewiesen."
+
+msgctxt "Danforth/KEY_BASE_DISMISS_VEHICLE"
+msgid "Remove vehicle from the Phoenix Project"
+msgstr "Entfernen Fahrzeug von dem Phoenix-Projekt"
+
+msgctxt "Danforth/KEY_BASE_DISMISS_VEHICLE_PROMPT"
+msgid "Are you sure you want to remove {0}?"
+msgstr "Sind Sie sicher, das Sie entfernen möchten {0}?"
+
+msgctxt "Danforth/KEY_BASE_DISMISS_VEHICLE_RESULT"
+msgid "{0} has been abandoned"
+msgstr "{0} wurde aufgegeben"
+
+msgctxt "Danforth/KEY_BASE_DISMISS_MUTOG"
+msgid "Release Mutog, removing it from the Phoenix Project"
+msgstr "Lassen Sie Mutog, Entfernen aus dem Projekt Phoenix"
+
+msgctxt "Danforth/KEY_BASE_DISMISS_MUTOG_PROMPT"
+msgid "Are you sure you want to release {0}?"
+msgstr "Sind Sie sicher, Sie freigeben möchten {0}?"
+
+msgctxt "Danforth/KEY_BASE_DISMISS_MUTOG_RESULT"
+msgid "{0} has been released"
+msgstr "{0} wurde veröffentlicht"
+
+msgctxt "Danforth/KEY_OBJECTIVE_GET_SOLDIERS"
+msgid "RESCUE SOLDIERS: {0}/{1}"
+msgstr "RETTUNGS SOLDATEN: {0} / {1}"
+
+msgctxt "Danforth/KEY_OBJECTIVE_GET_VEHICLE"
+msgid "RECOVER VEHICLE"
+msgstr "ERHOLEN FAHRZEUG"
+
+msgctxt "Danforth/KEY_MANUFACTURING_STORAGE_INSUFFICIENT"
+msgid "<color=#ECBA62> (insufficient storage space)</color>"
+msgstr "<color=#ECBA62> (unzureichende Speicherplatz) </color>"
+
+msgctxt "Danforth/KEY_MISSION_DEBRIEF_RESCUE"
+msgid "NEW PERSONNEL"
+msgstr "NEW PERSONAL"
+
+msgctxt "Danforth/KEY_MESSAGE_HAVEN_LEADER_DOESNT_TRADE"
+msgid "Diplomatic relations with the Haven are too low. The Heaven leader refuses to trade with you."
+msgstr "Die diplomatischen Beziehungen mit dem Haven sind zu niedrig. Der Himmel Führer weigert sich, mit Ihnen zu handeln."
+
+msgctxt "Danforth/KEY_MESSAGE_SITE_UNREACHABLE"
+msgid "The location is too far away to be reached directly."
+msgstr "Die Lage ist zu weit entfernt, direkt erreicht werden."
+
+msgctxt "Danforth/KEY_MESSAGE_NOT_ENOUGH_RESOURCES"
+msgid "You do not have enough resources to perform this action."
+msgstr "Sie haben nicht genug Ressourcen, um diese Aktion durchzuführen."
+
+msgctxt "Danforth/KEY_MISSION_RAID_RESOURCES_SITE_BRIEFING_DESCRIPTION"
+msgid "Search the crates and obtain as many resource packs as possible."
+msgstr "Suchen Sie die Kisten und erhalten so viele Ressourcen-Packs wie möglich."
+
+msgctxt "Danforth/KEY_MISSION_RAID_RESOURCES_SITE_BRIEFING_NAME"
+msgid "RESOURCE RAID"
+msgstr "RESSOURCENÜBERFALL"
+
+msgctxt "Danforth/KEY_MISSION_RAID_RESOURCES_SITE_DEFEAT_DESCRIPTION"
+msgid "Your entire team has been wiped out. No resources were claimed."
+msgstr "Ihr gesamtes Team wurde ausgelöscht. Keine Ressourcen wurden in Anspruch genommen."
+
+msgctxt "Danforth/KEY_MISSION_RAID_RESOURCES_SITE_DEFEAT_NAME"
+msgid "RESOURCE RAID FAILED"
+msgstr "RESSOURCENÜBERFALL FEHLGESCHLAGEN"
+
+msgctxt "Danforth/KEY_MISSION_RAID_RESOURCES_SITE_VICTORY_DESCRIPTION"
+msgid "Your team was successfully evacuated. All resources obtained from the mission are added to your resource pool."
+msgstr "Ihr Team wurde erfolgreich evakuiert. Alle Ressourcen aus der Mission erhalten werden, zu Ihrem Ressourcenpool hinzugefügt."
+
+msgctxt "Danforth/KEY_MISSION_RAID_RESOURCES_SITE_VICTORY_NAME"
+msgid "RESOURCE RAID SUCCESSFUL"
+msgstr "RESSOURCENÜBERFALL ERFOLGREICH"
+
+msgctxt "Danforth/KEY_MISSION_RAID_RESOURCES_SITE_WARNING"
+msgid "Warning! Resource Raid missions are much more dangerous if within a mist zone."
+msgstr "Warnung! Ressourcen Raid Missionen sind viel gefährlicher, wenn sie innerhalb einer Nebelzone."
+
+msgctxt "Danforth/KEY_MISSION_RAID_RESOURCES_SITE_WARNING_DESCRIPTION"
+msgid "Be aware you will be facing a continuous stream of local reinforcements. Collect as much equipment and resources as you can from the crates and exit the site from an evacuation zone."
+msgstr "Denken Sie daran, Sie einen kontinuierlichen Strom von lokalen Verstärkungen werden gegenüber. Sammeln Sie so viel Ausrüstung und Ressourcen, wie Sie aus den Kisten können und die Seite aus einer Evakuierungszone verlassen."
+
+msgctxt "Danforth/KEY_STATUS_REPAIR_TIME"
+msgid "{0:f0}h to repair"
+msgstr "{0: f0} h zu reparieren"
+
+msgctxt "Danforth/KEY_STATUS_AI_CONTROLLED_NAME"
+msgid "AUTONOMOUS"
+msgstr "AUTONOM"
+
+msgctxt "Danforth/KEY_STATUS_AI_CONTROLLED_DESCRIPTION"
+msgid "Reverted to autonomous AI control"
+msgstr "Umgeschaltet zur autonomen AI-Steuerung"
+
+msgctxt "Danforth/KEY_WARNING_CONTINUOUS_ATTACK"
+msgid "CONTINIOUS ATTACK"
+msgstr "KONSTANTER ANGRIFF"
+
+msgctxt "Danforth/KEY_CONTINUOUS_ATTACK_DESCRIPTION"
+msgid "Enemy reinforcements will arrive continuously from areas marked with this symbol"
+msgstr "Feind Verstärkungen werden kontinuierlich aus Bereichen kommen mit diesem Symbol gekennzeichnet"
+
+msgctxt "Danforth/KEY_SCARAB_TIRE_DESCRIPTION"
+msgid "Scarab caterpillar track"
+msgstr "Scarab Gleiskette"
+
+msgctxt "Danforth/KEY_SCARAB_TIRE_NAME"
+msgid "TRACK"
+msgstr "SPUR"
+
+msgctxt "Danforth/KEY_ASPIDA_ENGINE_DESCRIPTION"
+msgid "Aspida ground effect thruster"
+msgstr "Aspida Bodeneffekt-Thruster"
+
+msgctxt "Danforth/KEY_ASPIDA_ENGINE_NAME"
+msgid "THRUSTER"
+msgstr "THRUSTER"
+
+msgctxt "Danforth/KEY_ASPIDA_HULL_DESCRIPTION"
+msgid "Aspida hull"
+msgstr "Aspida Rumpf"
+
+msgctxt "Danforth/KEY_ASPIDA_HULL_NAME"
+msgid "HULL"
+msgstr "RUMPF"
+
+msgctxt "Danforth/KEY_ASPIDA_SHIELDING_DESCRIPTION"
+msgid "Aspida Shielding"
+msgstr "Aspida Abschirmung"
+
+msgctxt "Danforth/KEY_ASPIDA_SHIELDING_NAME"
+msgid "SHIELDING"
+msgstr "ABSCHIRMUNG"
+
+msgctxt "Danforth/KEY_ASPIDA_ARM_DESCRIPTION"
+msgid "Synedrion Aspida Tech Arm"
+msgstr "Synedrion Aspida Tech Arm"
+
+msgctxt "Danforth/KEY_ASPIDA_ARM_NAME"
+msgid "TECH ARM"
+msgstr "TECH ARM"
+
+msgctxt "Danforth/KEY_BASE_ACTIVATE_NAME"
+msgid "ACTIVATE BASE"
+msgstr "AKTIVIEREN SIE DIE BASIS"
+
+msgctxt "Danforth/KEY_BASE_ACTIVATE_DESCRIPTION"
+msgid "Activate Phoenix Base remotely, rendering it operational."
+msgstr "Aktivieren Phoenix Basis der Ferne, wodurch es in Betrieb genommen."
+
+msgctxt "Danforth/KEY_BASE_ACTIVATE_CONFIRM_NAME"
+msgid "PHOENIX ACTIVATION PROTOCOL"
+msgstr "PHOENIX AKTIVIERUNG PROTOKOLL"
+
+msgctxt "Danforth/KEY_BASE_ACTIVATE_CONFIRM_DESCRIPTION"
+msgid "Initiating the activation protocols will consume resources to make the base operational. Any damaged facilities will need to be repaired."
+msgstr "die Aktivierungsprotokolle Initiieren werden Ressourcen verbrauchen die Basis betriebsbereit zu machen. Beschädigte Einrichtungen müssen repariert werden."
+
+msgctxt "Danforth/KEY_BASE_ACTIVATE_NOTIFICATION_RESOURCES"
+msgid "You do not have the enough resources to activate the base"
+msgstr "Sie haben nicht die genügend Ressourcen um die Basis zu aktivieren"
+
+msgctxt "Danforth/KEY_BASE_ACTIVATE_NOTIFICATION_LIMIT"
+msgid "You have reached the operational limit for Phoenix Bases. No more bases can be activated."
+msgstr "Sie haben die Betriebsgrenze für Phoenix Bases erreicht. Keine weiteren Basen aktiviert werden."
+
+msgctxt "Danforth/KEY_BASE_ACTIVATE_NOTIFICATION_ACTIVATED"
+msgid "Phoenix Base is already operational."
+msgstr "Phoenix Basis ist bereits in Betrieb."
+
+msgctxt "Danforth/KEY_GEOSCAPE_PANDORAN_NEST_DISCOVERED"
+msgid "A Pandoran Nest has been discovered and revealed on the Geoscape."
+msgstr "Ein Pandoran Nest wurde auf der Geoscape entdeckt und aufgedeckt."
+
+msgctxt "Danforth/KEY_GEOSCAPE_PANDORAN_LAIR_DISCOVERED"
+msgid "A Pandoran Lair has been discovered and revealed on the Geoscape."
+msgstr "Ein Pandoran Lair wurde auf der Geoscape entdeckt und aufgedeckt."
+
+msgctxt "Danforth/KEY_GEOSCAPE_PANDORAN_CITADEL_DISCOVERED"
+msgid "A Pandoran Citadel has been discovered and revealed on the Geoscape."
+msgstr "Eine Pandoran Zitadelle wurde auf der Geoscape entdeckt und aufgedeckt."
+
+msgctxt "Danforth/KEY_MESSAGE_NO_SPACE_TO_RECRUIT"
+msgid "THERE IS NOT ENOUGH SPACE IN YOUR AIRCRAFT FOR THE NEW RECRUIT"
+msgstr "Es ist nicht genügend Platz im Flugzeug für DAS NEUE RECRUIT"
+
+msgctxt "Danforth/KEY_BASE_RECRUIT_CONFIRMATION"
+msgid "Are you sure you want to recruit {0} for {1}?"
+msgstr "Sind Sie sicher, dass Sie rekrutieren {0} für {1}?"
+
+msgctxt "Danforth/KEY_BASE_RECRUIT_DEPLOYMENT"
+msgid "{0} has been recruited and deployed to base {1}"
+msgstr "{0} wurde auf Basis rekrutiert und eingesetzt {1}"
+
+msgctxt "Danforth/KEY_MISSION_RESCUE_SOLDIERS_BRIEFING_DESC"
+msgid "Take control of the independent soldiers and evacuate the site with them"
+msgstr "Übernimm die Kontrolle der unabhängigen Soldaten und evakuieren Sie die Seite mit ihnen"
+
+msgctxt "Danforth/KEY_MISSION_RESCUE_SOLDIERS_BRIEFING_NAME"
+msgid "RESCUE SOLDIERS"
+msgstr "RETTUNGS SOLDATEN"
+
+msgctxt "Danforth/KEY_MISSION_RESCUE_SOLDIERS_DEFEAT_DESC"
+msgid "Your squad was wiped out"
+msgstr "Ihr Kader wurde weggewischt"
+
+msgctxt "Danforth/KEY_MISSION_RESCUE_SOLDIERS_DEFEAT_NAME"
+msgid "RESCUE FAILED"
+msgstr "RETTUNG GESCHEITERT"
+
+msgctxt "Danforth/KEY_MISSION_RESCUE_SOLDIERS_VICTORY_DESC"
+msgid "All surviving soldiers and vehicles have been evacuated"
+msgstr "Alle überlebenden Soldaten und Fahrzeuge wurden evakuiert"
+
+msgctxt "Danforth/KEY_MISSION_RESCUE_SOLDIERS_VICTORY_NAME"
+msgid "RESCUE MISSION OVER"
+msgstr "RETTUNGSMISSION ÜBER"
+
+msgctxt "Danforth/KEY_MISSION_RECOVER_VEHICLE_BRIEFING_DESC"
+msgid "Take control of the vehicle located somewhere in the site and evacuate with it"
+msgstr "Nehmen Sie die Kontrolle über das Fahrzeug befindet sich irgendwo auf der Website und evakuieren mit ihm"
+
+msgctxt "Danforth/KEY_MISSION_RECOVER_VEHICLE_BRIEFING_NAME"
+msgid "RECOVER VEHICLE"
+msgstr "RECOVER FAHRZEUG"
+
+msgctxt "Danforth/KEY_MISSION_RECOVER_VEHICLE_DEFEAT_DESC"
+msgid "Your squad was wiped out"
+msgstr "Ihr Kader wurde weggewischt"
+
+msgctxt "Danforth/KEY_MISSION_RECOVER_VEHICLE_DEFEAT_NAME"
+msgid "RECOVERY FAILED"
+msgstr "WIEDERHERSTELLUNG FEHLGESCHLAGEN"
+
+msgctxt "Danforth/KEY_MISSION_RECOVER_VEHICLE_VICTORY_DESC"
+msgid "All surviving soldiers and vehicles have been evacuated"
+msgstr "Alle überlebenden Soldaten und Fahrzeuge wurden evakuiert"
+
+msgctxt "Danforth/KEY_MISSION_RECOVER_VEHICLE_VICTORY_NAME"
+msgid "RECOVERY MISSION OVER"
+msgstr "RETTUNGSAKTION ÜBER"
+
+msgctxt "Danforth/KEY_LAUNCH_LASER_DESCRIPTION"
+msgid "Fire laser at target location."
+msgstr "Feuer-Laser am Zielort."
+
+msgctxt "Danforth/KEY_LAUNCH_LASER_NAME"
+msgid "LASER SHOT"
+msgstr "LASER-SCHUSS"
+
+msgctxt "Danforth/KEY_MESSAGE_NO_SPACE_INVENTORY"
+msgid "No space in inventory"
+msgstr "Kein Platz im Inventar"
 
 msgctxt "Darleth/KEY_TRADE_HAVEN"
 msgid "TRADE RESOURCES WITH {0}"
@@ -1119,7 +1471,7 @@ msgid "BERSERKER TRAINING"
 msgstr "BERSERKERTRAINING"
 
 msgctxt "Abilities/KEY_BLOODLUST_DESCRIPTION"
-msgid "Damage and Speed are increased proportional to the health lost (up to +50%)"
+msgid "Damage and Speed are increased proportional to the hit points lost (up to +50%)"
 msgstr "Schaden und Geschwindigkeit werden proportional zur verlorenen Gesundheit gesteigert (bis 50 %)"
 
 msgctxt "Abilities/KEY_BLOODLUST_NAME"
@@ -1215,7 +1567,7 @@ msgid "EAGLE EYED"
 msgstr "ADLERAUGEN"
 
 msgctxt "Abilities/KEY_ELECTRIC_STRIKE_DESCRIPTION"
-msgid "Paralyzes target if shock value is greater than target's Hit Points"
+msgid "Target is dazed if shock value is greater than target's current Hit Points"
 msgstr "Verwirrt das Ziel, wenn der Schockwert größer ist als die Trefferpunkte des Ziels"
 
 msgctxt "Abilities/KEY_ELECTRIC_STRIKE_NAME"
@@ -1467,7 +1819,7 @@ msgid "IGNORE PAIN"
 msgstr "SCHMERZ IGNORIEREN"
 
 msgctxt "Abilities/KEY_INFECTED_BLOOD_DESCRIPTION"
-msgid "Add 1 Virus Damage for each Health Point damage inflicted in melee"
+msgid "Add 1 Virus Damage for each Hit Point damage inflicted in melee"
 msgstr "Füge Virusschaden für jeden Schadenspunkt Gesundheit hinzu, der im Nahkampf zugefügt wird"
 
 msgctxt "Abilities/KEY_INFECTED_BLOOD_NAME"
@@ -2363,11 +2715,11 @@ msgid "FAST USE"
 msgstr "SCHNELLE NUTZUNG"
 
 msgctxt "Abilities/KEY_TECHNICIAN_MANUAL_CONTROL_DESCRIPTION"
-msgid "Take manual control of a turret or vehicle weapon and shoot at a target"
+msgid "Use 1 AP and 3 WPs to take control of a turret or vehicle weapon and shoot at a target. "
 msgstr "Übernimm die Kontrolle über ein Geschütz oder eine Fahrzeugwaffe und schieße damit auf ein Ziel"
 
 msgctxt "Abilities/KEY_TECHNICIAN_MANUAL_CONTROL_NAME"
-msgid "MANUAL CONTROL"
+msgid "REMOTE CONTROL"
 msgstr "MANUELLE STEUERUNG"
 
 msgctxt "Abilities/KEY_TECHNICIAN_FIELD_MEDIC_DESCRIPTION"
@@ -2903,7 +3255,7 @@ msgid "ACID"
 msgstr "SÄURE"
 
 msgctxt "Damage types/KEY_DAMAGE_TYPE_ACID_DESC"
-msgid "ACID damage sticks to body parts - each turn it does 10 damage - first to armor, then body. Acid level reduces by 10 each turn."
+msgid "ACID damage sticks to individual body parts - each turn it applies damage to armor first, then body. Acid levels reduce by 10 each turn."
 msgstr "SÄURE-Schaden klebt an Körperteilen - bei jedem Zug fügt er 10 Schaden zu - zuerst bei der Rüstung, dann am Körper. Die Säurestufe verringert sich in jedem Zug um 10."
 
 msgctxt "Damage types/KEY_DAMAGE_TYPE_IMPACT"
@@ -3263,7 +3615,7 @@ msgid "The Geoscape"
 msgstr "Das Geoscape"
 
 msgctxt "Tutorial/KEY_TUTORIAL_GEOSCAPE_DESCRIPTION"
-msgid "The GEOSCAPE shows the world and all locations and sites of interest.[LF][LF]In the beginning, all you know about is your base, Phoenix Point.[LF][LF]GEOSCAPE CONTROLS[LF]Move globe: Hold down :LMB: and drag, or use gamepad :RTS:[CR][LF]Gamepad cursor: :LTS:[LF]Zoom in/out: :MW: or use gamepad :LT: and :RT:[LF][LF]SELECT THE \"\"BASES\"\" BUTTON with :LMB: or the gamepad cursor with :A:"
+msgid "The GEOSCAPE shows the world and all locations and sites of interest.[LF][LF]In the beginning, all you know about is your base, Phoenix Point.[LF][LF]GEOSCAPE CONTROLS[LF]Move globe: Hold down :LMB: and drag, or use gamepad :RTS:[LF]Move gamepad cursor: :LTS:[LF]Zoom in/out: :MW: or use gamepad :LT: and :RT:[LF][LF]SELECT THE \"\"BASES\"\" BUTTON with :LMB: or the gamepad cursor with :A:"
 msgstr "Das GEOSCAPE zeigt die Welt und alle Orte und interessante Stellen.[LF][LF]Am Anfang siehst du nur deine Basis, Phoenix Point.[LF][LF]GEOSCAPE-STEUERUNG[LF]Globus bewegen: Halte :LMB: gedrückt und ziehe, oder verwende das Gamepad und :RTS:[LF]Gamepad-Cursor: :LTS:[LF]Rein-/Rauszoomen: :MW: oder Gamepad :LT: und :RT:[LF][LF]WÄHLE DEN „BASEN“-BUTTON mit :LMB: oder Gamepad-Cursor mit :A:"
 
 msgctxt "Tutorial/KEY_TUTORIAL_BASE_NAME"
@@ -3295,7 +3647,7 @@ msgid "Mission Rewards and Fatigue"
 msgstr "Belohnungen für Missionen und Müdigkeit"
 
 msgctxt "Tutorial/KEY_TUTORIAL_RESOURCES_DESCRIPTION"
-msgid "On completing a mission, all gathered items and resources are added to your overall supplies. [LF][LF]Soldiers get fatigued during battle, losing 1 stamina point per turn (max 10 per battle). When stamina falls below 20%, a soldier will suffer an Action Point penalty in the next battle.[LF][LF]Your soldiers will recover stamina and health while resting at base, as long as the base has a functioning Living Quarters and Medical Bay.[LF][LF]RETURN TO YOUR BASE SO YOUR SOLDIERS CAN RECOVER"
+msgid "On completing a mission, all gathered items and resources are added to your overall supplies. [LF][LF]Soldiers get fatigued during battle, losing 1 stamina point per turn (max 10 per battle). When stamina falls below 20%, a soldier will suffer an Action Point penalty in the next battle.[LF][LF]Your soldiers will recover stamina and hit points while resting at base, as long as the base has a functioning Living Quarters and Medical Bay.[LF][LF]RETURN TO YOUR BASE SO YOUR SOLDIERS CAN RECOVER"
 msgstr "Wenn du eine Mission abschließt, werden alle gesammelten Gegenstände und Ressourcen deinen Gesamtvorräten hinzugefügt. [LF][LF]Soldaten werden im Kampfes müde und verlieren 1 Ausdauerpunkt pro Zug (max. 10 pro Kampf). Wenn ihre Ausdauer unter 20 % fällt, erleiden Soldaten im nächsten Kampf einen Abzug bei ihren Aktionspunkten.[LF][LF]Deine Soldaten regenerieren ihre Ausdauer und Gesundheit, wenn sie sich auf der Basis ausruhen, solange die Basis funktionierende Wohnräume und eine Krankenstation hat.[LF][LF]KEHRE ZU DEINER BASIS ZURÜCK, DAMIT SICH DEINE SOLDATEN ERHOLEN KÖNNEN"
 
 msgctxt "Tutorial/KEY_TUTORIAL_PERSONNEL_NAME"
@@ -3747,7 +4099,7 @@ msgid "Acid Damage"
 msgstr "Säureschaden"
 
 msgctxt "Phoenixpedia/KEY_PHOENIXPEDIA_GUIDE_ACID_DESC"
-msgid "A weapon with Acid Damage will add the damage value to the acid level of the hit body part. Acid can accumulate on body parts, if they are hit multiple times with acid damage.[LF][LF]At the start of a character's turn, acid will eat away at the body part. First, the body part's armor is affected, and reduced by 10. If there is no armor left on the body part then 10 damage is applied to Body Part Hit Points and to General Hit Points. After all acid damage is resolved, the acid value on each body part will reduce by 10."
+msgid "A weapon with Acid Damage will add the damage value to the acid level of the hit body part. Acid can accumulate on body parts, if they are hit multiple times with acid damage.[LF][LF]At the start of a character's turn, acid will eat away at the body part. First, the body part's armor is affected, and reduced by the Acid value. If there is no armor left on the body part then the damage is applied to Body Part Hit Points and to General Hit Points. After all acid damage is resolved, the acid value on each body part will reduce by 10."
 msgstr "Eine Waffe mit Säureschaden addiert ihren Schadenswert zur Säurestufe des getroffenen Körperteils. Säure kann sich auf Körperteilen ansammeln, wenn sie mehrfach von Säure getroffen wurden.[LF][LF]Zu Beginn des Zugs frisst sich die Säure in den betroffenen Körperteil. Dies hat zuerst Einfluss auf die Rüstung, deren Wert um 10 verringert wird. Wenn keine Rüstung mehr auf dem Körperteil vorhanden ist, werden 10 Punkte von den Trefferpunkten des Körperteils abgezogen und von den allgemeinen Trefferpunkten. Sobald alle Säureschäden abgezogen wurden, verringert sich der Säurewert jedes Körperteils um 10."
 
 msgctxt "Phoenixpedia/KEY_PHOENIXPEDIA_GUIDE_PARALYSE_NAME"
@@ -3803,8 +4155,8 @@ msgid "Status Effects"
 msgstr "Statuseffekte"
 
 msgctxt "Phoenixpedia/KEY_PHOENIXPEDIA_GUIDE_STATUS_EFFECTS_DESCRIPTION"
-msgid "Status effects can apply to the entire character or only to a specific body part.[LF][LF]While the status effects of a unit is can be seen on the health indicator above the character's head, body part statuses are only visible from the Character Info screen. The only exceptions are when a body part is wounded or disabled, which are indicated on the damage display to the left of the health indicator.[LF][LF]STATUS EFFECTS SUMMARY[LF]ACID: Acid corrodes 10 armor per turn. If there is no armor, then the damage is applied to the body part. Acid value reduces by 10 per turn.[LF]BLEEDING: Each turn, lose Hit Points equal to bleed value.[LF]BURNING: Fire damage is applied to each body part at the start of the turn, subtracting armor.[LF]FRENZIED: Speed increased by 50% and immune to panic.[LF]GOOED: Unable to move until Goo decays or is removed.[LF]INFECTED BY VIRUS: At start of turn virus is subtracted from Will Points, then virus value is reduced by 1.[LF]PANICKED: Unable to move for a turn, while recovering Will Points.[LF]POISONED: At start of turn, poison is subtracted from Hit Points, then poison value is reduced by 10.[LF]PREPARING: (Pandoran Sentinel and Egg only) Preparing to activate special ability on the next turn.[LF]BERSERK: (Mutog only) Mutog becomes wild, attacking friend or foe.[LF]ENRAGED: (Mutog only) Damage dealt and speed are increased by 50%. There's a 10% chance the Mutog will go Berserk at the start of each turn.[LF]ALERTED: (Enemy only). Enemy is aware of your presence.[LF]TIRED: (caused by entering a battle with low Stamina) -1 Action Point each turn.[LF]EXHAUSTED: (caused by entering a battle with low Stamina) -2 Action Point each turn.[LF]PARALYZED: Cannot move or perform any actions.[LF]PARALYSIS: Action Points are reduced by the proportion of paralysis value to Strength.[LF]DAZED: Action Points reduced to 1 and accuracy halved.[LF]OVERWATCH: Enemies entering the overwatch cone will trigger an attack."
-msgstr "Statuseffekte können den gesamten Charakter betreffen, oder auch nur bestimmte Körperteile.[LF][LF]Die Statuseffekte eines Charakters werden über dessen Kopf über der Gesundheitsanzeige angezeigt. Der Status eines Körperteils ist jedoch nur im Charakterinfomenü sichtbar. Die einzigen Ausnahmen sind, wenn ein Körperteil verwundet oder deaktiviert ist. Dies wird links neben der Gesundheitsanzeige bei der Schadensanzeige angezeigt.[LF][LF]ZUSAMMENFASSUNG DER STATUSEFFEKTE[LF]SÄURE: Säure lässt 10 Rüstungspunkte pro Zug rosten. Wenn keine Rüstung vorhanden ist, wird der Schaden auf den Körperteil angewendet. Der Säurewert verringert sich um 10 Punkte pro Zug.[LF]BLUTEN: Du verlierst in jedem Zug Trefferpunkte in Höhe des Blutungswerts.[LF]BRENNEN: Zu Beginn des Zuges wird der Feuerschaden auf jedes Körperteil angewendet. Der Wert wird von der Rüstung abgezogen.[LF]IM WUTRAUSCH: Die Geschwindigkeit wird um 50% erhöht und der Soldat ist immun gegen Panik.[LF]GESCHLEIMT: Der Soldat kann sich einen Zug lang nicht bewegen, während sich die Willenskraftpunkte regenerieren.[LF]INFIZIERT DURCH VIRUS: Zu Beginn des Zuges wird der Viruswert von den Willenskraftpunkten abgezogen. Danach wird der Viruswert um 1 verringert.[LF]IN PANIK: Der Soldat kann sich einen Zug lang nicht bewegen, während sich die Willenskraftpunkte regenerieren.[LF]VERGIFTET: Zu Beginn des Zuges wird der Giftwert von den Trefferpunkten abgezogen. Zu Beginn des Zuges wird der Giftwert von den Trefferpunkten abgezogen. Danach sinkt die Giftstufe um jeweils 10.[LF]VORBEREITEN: (nur für Pandoraner-Wächter und Ei) Bereitet sich auf die Aktivierung der Spezialfähigkeit im nächsten Zug vor.[LF]BERSERKER: (nur Mutog) Der Mutog wird wild, greift Freund und Feind an.[LF]WÜTEND: (nur Mutog) Der verursachte Schaden und die Geschwindigkeit werden um 50 % erhöht. 10 %ige Chance, dass der Mutog zu Beginn jeder Runde wütend wird.[LF]ALARMIERT: (nur Feind). Der Feind ist sich deiner Anwesenheit bewusst.[LF]MÜDE: (verursacht durch Kämpfen mit geringer Ausdauer)[LF]ERSCHÖPFT: (verursacht durch Kämpfen mit geringer Ausdauer)[LF]GELÄHMT: Bewegen und Aktionen sind nicht möglich.[LF]LÄHMUNG: Aktionspunkte werden proportional im Verhältnis Lähmungswert zu Stärke verringert.[LF]VERWIRRT: Die Aktionspunkte werden auf 1 reduziert, die Genauigkeit wird halbiert. [LF]ÜBERWACHUNG: Gegner, die den Überwachungsbereich betreten, lösen einen Angriff aus."
+msgid "Status effects can apply to the entire character or only to a specific body part.[LF][LF]While the status effects of a unit is can be seen on the health indicator above the character's head, body part statuses are only visible from the Character Info screen. The only exceptions are when a body part is wounded or disabled, which are indicated on the damage display to the left of the health indicator.[LF][LF]STATUS EFFECTS SUMMARY[LF]ACID: Acid corrodes the armor by the Acid value (per turn). If there is no armor, then the damage is applied to the body part. Acid value reduces by 10 per turn.[LF]BLEEDING: Each turn, lose Hit Points equal to bleed value.[LF]BURNING: Fire damage is applied to each body part at the start of the turn, subtracting armor.[LF]FRENZIED: Speed increased by 50% and immune to panic.[LF]GOOED: Unable to move until Goo decays or is removed.[LF]INFECTED BY VIRUS: At start of turn virus is subtracted from Will Points, then virus value is reduced by 1.[LF]PANICKED: Unable to move for a turn, while recovering Will Points.[LF]POISONED: At start of turn, poison is subtracted from Hit Points, then poison value is reduced by 10.[LF]PREPARING: (Pandoran Sentinel and Egg only) Preparing to activate special ability on the next turn.[LF]BERSERK: (Mutog only) Mutog becomes wild, attacking friend or foe.[LF]ENRAGED: (Mutog only) Damage dealt and speed are increased by 50%. There's a 10% chance the Mutog will go Berserk at the start of each turn.[LF]ALERTED: (Enemy only). Enemy is aware of your presence.[LF]TIRED: (caused by entering a battle with low Stamina) -1 Action Point each turn.[LF]EXHAUSTED: (caused by entering a battle with low Stamina) -2 Action Point each turn.[LF]PARALYZED: Cannot move or perform any actions.[LF]PARALYSIS: Action Points are reduced by the proportion of paralysis value to Strength.[LF]DAZED: Action Points reduced to 1 and accuracy halved. Abilities requiring Will Points cannot be used.[LF]OVERWATCH: Enemies entering the overwatch cone will trigger an attack.[LF]SONIC: Dazes the target is the target's Will Points are less than the amount of Sonic Damage"
+msgstr "Statuseffekte können den gesamten Charakter betreffen, oder auch nur bestimmte Körperteile.[LF][LF]Die Statuseffekte eines Charakters werden über dessen Kopf über der Gesundheitsanzeige angezeigt. Der Status eines Körperteils ist jedoch nur im Charakterinfomenü sichtbar. Die einzigen Ausnahmen sind, wenn ein Körperteil verwundet oder deaktiviert ist. Dies wird links neben der Gesundheitsanzeige bei der Schadensanzeige angezeigt.[LF][LF]ZUSAMMENFASSUNG DER STATUSEFFEKTE[LF]SÄURE: Säure lässt 10 Rüstungspunkte pro Zug rosten. Wenn keine Rüstung vorhanden ist, wird der Schaden auf den Körperteil angewendet. Der Säurewert verringert sich um 10 Punkte pro Zug.[LF]BLUTEN: Du verlierst in jedem Zug Trefferpunkte in Höhe des Blutungswerts.[LF]BRENNEN: Zu Beginn des Zuges wird der Feuerschaden auf jedes Körperteil angewendet. Der Wert wird von der Rüstung abgezogen.[LF]IM WUTRAUSCH: Die Geschwindigkeit wird um 50% erhöht und der Soldat ist immun gegen Panik.[LF]GESCHLEIMT: Der Soldat kann sich einen Zug lang nicht bewegen, während sich die Willenskraftpunkte regenerieren.[LF]INFIZIERT DURCH VIRUS: Zu Beginn des Zuges wird der Viruswert von den Willenskraftpunkten abgezogen. Danach wird der Viruswert um 1 verringert.[LF]IN PANIK: Der Soldat kann sich einen Zug lang nicht bewegen, während sich die Willenskraftpunkte regenerieren.[LF]VERGIFTET: Zu Beginn des Zuges wird der Giftwert von den Trefferpunkten abgezogen. Zu Beginn des Zuges wird der Giftwert von den Trefferpunkten abgezogen. Danach sinkt die Giftstufe um jeweils 10.[LF]VORBEREITEN: (nur für Pandoraner-Wächter und Ei) Bereitet sich auf die Aktivierung der Spezialfähigkeit im nächsten Zug vor.[LF]BERSERKER: (nur Mutog) Der Mutog wird wild, greift Freund und Feind an.[LF]WÜTEND: (nur Mutog) Der verursachte Schaden und die Geschwindigkeit werden um 50 % erhöht. 10 %ige Chance, dass der Mutog zu Beginn jeder Runde wütend wird.[LF]ALARMIERT: (nur Feind). Der Feind ist sich deiner Anwesenheit bewusst.[LF]MÜDE: (verursacht durch Kämpfen mit geringer Ausdauer)[LF]ERSCHÖPFT: (verursacht durch Kämpfen mit geringer Ausdauer)[LF]GELÄHMT: Bewegen und Aktionen sind nicht möglich.[LF]LÄHMUNG: Aktionspunkte werden proportional im Verhältnis Lähmungswert zu Stärke verringert.[LF]VERWIRRT: Die Aktionspunkte werden auf 1 reduziert, die Genauigkeit wird halbiert. [LF]ÜBERWACHUNG: Gegner, die den Überwachungsbereich betreten, lösen einen Angriff aus.[LF]SCHALL: Betäubt das Ziel, wenn die Willenspunkte des Ziels geringer sind als die Menge an Schallschaden."
 
 msgctxt "Phoenixpedia/KEY_PHOENIXPEDIA_GUIDE_HAVENS_NAME"
 msgid "Advanced: Havens"
@@ -4352,6 +4704,14 @@ msgstr "[null]"
 
 msgctxt "Xbox/KEY_STREAMING_INSTALL_TEXT_DESCRIPTION"
 msgid "The selected mission is currently being downloaded to your device. Please, wait until the download is complete before launching."
+msgstr "[null]"
+
+msgctxt "Xbox/KEY_CONSOLE_CONTINUE"
+msgid "PRESS :A: TO CONTINUE"
+msgstr "[null]"
+
+msgctxt "Xbox/KEY_CONSOLE_SWITCH_PROFILE"
+msgid "SWITCH PROFILE"
 msgstr "[null]"
 
 msgctxt "Objectives/KEY_OBJECTIVE_PROTECT_CIVILIANS"
@@ -8067,7 +8427,7 @@ msgid "HANDS TO USE"
 msgstr "ERFORDERLICHE HÄNDE"
 
 msgctxt "Equipping Screen/KEY_ITEM_STAT_HEALTH"
-msgid "HEALTH"
+msgid "HIT POINTS"
 msgstr "GESUNDHEIT"
 
 msgctxt "Equipping Screen/KEY_ITEM_STAT_LOCATION_HP"
@@ -9875,7 +10235,7 @@ msgid "SPECIAL MISSION"
 msgstr "SPEZIALMISSION"
 
 msgctxt "Geoscape/KEY_FACILITY_BUILDING"
-msgid "FACILITY IS BUILDING"
+msgid "FACILITY UNDER CONSTRUCTION"
 msgstr "EINRICHTUNG BEFINDET SICH IM BAU[LF]"
 
 msgctxt "Geoscape/KEY_ODI_TT"
@@ -9979,7 +10339,7 @@ msgid "The teeming, chaotic slums of Disciples of Anu havens house the devoted m
 msgstr "Die Massen, die den Jüngern von Anu treu ergeben sind, leben in brodelnden, chaotischen Slums. "
 
 msgctxt "Haven Screen/KEY_HAVEN_ZONE_RESIDENTIAL_DESC_SY"
-msgid "Synedrion constructs the most human centred cvilian amenites as an example of the world they want to create."
+msgid "Synedrion constructs the most human centred civilian amenites as an example of the world they want to create."
 msgstr "Synedrion baut sehr viele Einrichtungen, die sich am Wohlergehen der Menschen orientieren, als Beispiel für die Welt, die sie erschaffen wollen."
 
 msgctxt "Haven Screen/KEY_GEOSCAPE_ZONE_RESIDENTIAL_ELITE_NAME"
@@ -10051,7 +10411,7 @@ msgid "MIST REPELLER"
 msgstr "NEBELABWEHRANLAGE"
 
 msgctxt "Haven Screen/KEY_GEOSCAPE_ZONE_MIST_DESCRIPTION"
-msgid "Havens will generally provide enough accomodation for their populations, but they are vulnerable to Pandoran attack."
+msgid "Mist repellers create a mist-free zone around the Haven, reducing starvation and the risk of attack from Pandoran bases."
 msgstr "Zufluchten bieten im Allgemeinen genügend Unterkünfte für ihre Bevölkerung, sind aber durch Pandora-Angriffe verwundbar."
 
 msgctxt "Haven Screen/KEY_GEOSCAPE_ZONE_MISSIONARY_NAME"
@@ -10135,11 +10495,11 @@ msgid "Send an aircraft with a squad to this haven to conduct a mission here"
 msgstr "Sende ein Flugzeug mit einem Team zu dieser Zuflucht, um hier eine Mission durchzuführen[LF]"
 
 msgctxt "Haven Screen/KEY_RECRUIT_LEADER_NEGATIVE_DIPLOMACY_TT"
-msgid "Haven leader is unfriendly with Phoenix Point. Improve diplomacy relation to be able to recruit."
+msgid "The haven leader is not friendly towards the Phoenix Project. Improve diplomatic relations to enable recruiting."
 msgstr "Der Anführer der Zuflucht ist Phoenix Point feindlich gesonnen. Verbessere die diplomatischen Beziehungen, um Soldaten zu rekrutieren."
 
 msgctxt "Haven Screen/KEY_TRADE_LEADER_NEGATIVE_DIPLOMACY_TT"
-msgid "Haven leader is unfriendly with Phoenix Point. Improve diplomacy relation to be able to trade."
+msgid "The haven leader is not friendly towards the Phoenix Project. Improve diplomatic relations to enable trading."
 msgstr "Der Anführer der Zuflucht ist Phoenix Point feindlich gesonnen. Verbessere die diplomatischen Beziehungen, um Handel zu treiben."
 
 msgctxt "Missions/KEY_MISSION_ALIEN_LAIR"
@@ -10155,7 +10515,7 @@ msgid "PANDORAN  PALACE"
 msgstr "PANDORAPALAST"
 
 msgctxt "Missions/KEY_MISSION_ATTACK_CITADEL_BRIEFING_DESCRIPTION"
-msgid "Locate and eliminate the Scylla to destroy the Citadel."
+msgid "Locate and eliminate the Scylla and then evacuate your squad"
 msgstr "Finde und eliminiere die Scylla, um die Zitadelle zu zerstören."
 
 msgctxt "Missions/KEY_MISSION_ATTACK_CITADEL_BRIEFING_NAME"
@@ -10163,7 +10523,7 @@ msgid "ATTACK PANDORAN CITADEL"
 msgstr "GREIFE DIE PANDORAZITADELLE AN"
 
 msgctxt "Missions/KEY_MISSION_ATTACK_CITADEL_DEFEAT_DESCRIPTION"
-msgid "The monster that rules this citadel will continue its reign of terror on nearby human settlements."
+msgid "The monster that rules this citadel will continue its reign of terror on nearby human settlements"
 msgstr "Das Monster, das in dieser Zitadelle herrscht, wird seine Schreckensherrschaft über die naheliegenden menschlichen Siedlungen weiter ausüben."
 
 msgctxt "Missions/KEY_MISSION_ATTACK_CITADEL_DEFEAT_NAME"
@@ -10219,7 +10579,7 @@ msgid "PANDORAN NEST SURVIVES"
 msgstr "PANDORANEST ÜBERLEBT"
 
 msgctxt "Missions/KEY_MISSION_ATTACK_NEST_VICTORY_DESCRIPTION"
-msgid "The Pandoran lair has been neutralized and abandoned by its inhabitants. The rest of humanity can breathe a sigh of relief."
+msgid "The Pandoran nest has been neutralized and abandoned by its inhabitants. The rest of humanity can breathe a sigh of relief."
 msgstr "Der Pandorabau wurde neutralisiert und von seinen Bewohnern verlassen. Die verbliebene Menschheit kann erleichtert aufatmen."
 
 msgctxt "Missions/KEY_MISSION_ATTACK_NEST_VICTORY_NAME"
@@ -10235,7 +10595,7 @@ msgid "PHOENIX BASE DISCOVERED"
 msgstr "PHOENIX-BASIS ENTDECKT"
 
 msgctxt "Missions/KEY_MISSION_ATTACK_SCAVENGING_SITE_BRIEFING_DESCRIPTION"
-msgid "Eliminate all enemies to claim the resource crates."
+msgid "Take as many items from the crates as you can safely manage and evacuate your squad"
 msgstr "Eliminiere alle Feinde, um die Ressourcenkisten zu erbeuten."
 
 msgctxt "Missions/KEY_MISSION_ATTACK_SCAVENGING_SITE_BRIEFING_NAME"
@@ -10243,7 +10603,7 @@ msgid "SCAVENGING SITE"
 msgstr "BEUTEZUG"
 
 msgctxt "Missions/KEY_MISSION_ATTACK_SCAVENGING_SITE_DEFEAT_DESCRIPTION"
-msgid "The site is overrun and any resource crates remaining there are destroyed."
+msgid "The site is overrun and any remaining crates will no longer be recoverable"
 msgstr "Der Ort wurde überrannt und alle dort verbleibenden Ressourcenkisten zerstört."
 
 msgctxt "Missions/KEY_MISSION_ATTACK_SCAVENGING_SITE_DEFEAT_NAME"
@@ -10251,7 +10611,7 @@ msgid "SCAVENGING SITE ABANDONED"
 msgstr "BEUTEZUG AUFGEGEBEN"
 
 msgctxt "Missions/KEY_MISSION_ATTACK_SCAVENGING_SITE_VICTORY_DESCRIPTION"
-msgid "All surviving crates have been recovered and resources transferred to our stores."
+msgid "All collected resource packs have been transferred to our stores"
 msgstr "Alle verbleibenden Kisten wurden geborgen und die Ressourcen in unser Lager gebracht."
 
 msgctxt "Missions/KEY_MISSION_ATTACK_SCAVENGING_SITE_VICTORY_NAME"
@@ -10799,7 +11159,7 @@ msgid "AIRCRAFT CAPTURED"
 msgstr "FLUGGERÄT ERBEUTET"
 
 msgctxt "Missions/KEY_MISSION_STEAL_FOOD_BRIEFING_DESC"
-msgid "Eliminate enemy forces and prevent damage to food crates to capture them."
+msgid "Take as many items from the crates as you can safely manage and evacuate your squad"
 msgstr "Eliminiere die Feinde und schütze die Nahrungskisten. Nur unbeschädigt kannst du sie erbeuten. "
 
 msgctxt "Missions/KEY_MISSION_STEAL_FOOD_BRIEFING_NAME"
@@ -10807,7 +11167,7 @@ msgid "RAID FOOD"
 msgstr "NAHRUNG ERBEUTEN[LF]"
 
 msgctxt "Missions/KEY_MISSION_STEAL_FOOD_DEFEAT_DESC"
-msgid "No food crates survived the battle."
+msgid "Nothing was gained from the mission"
 msgstr "Keine Nahrungskiste hat den Kampf überstanden."
 
 msgctxt "Missions/KEY_MISSION_STEAL_FOOD_DEFEAT_NAME"
@@ -10815,15 +11175,15 @@ msgid "FOOD RAID FAILURE"
 msgstr "NAHRUNG ERBEUTEN GESCHEITERT"
 
 msgctxt "Missions/KEY_MISSION_STEAL_FOOD_VICTORY_DESC"
-msgid "All surviving food crates have been recovered, and added to our resources."
+msgid "All collected food resource packs have been transferred to our stores"
 msgstr "Alle verbleibenden Nahrungskisten wurden geborgen und zu unseren Ressourcen hinzugefügt."
 
 msgctxt "Missions/KEY_MISSION_STEAL_FOOD_VICTORY_NAME"
-msgid "FOOD SECURED"
+msgid "RAID MISSION OVER"
 msgstr "NAHRUNG ERBEUTET"
 
 msgctxt "Missions/KEY_MISSION_STEAL_MATERIALS_BRIEFING_DESC"
-msgid "Eliminate enemy forces and prevent damage to material crates to capture them."
+msgid "Take as many items from the crates as you can safely manage and evacuate your squad"
 msgstr "Eliminiere die Feinde und schütze die Materialkisten. Nur unbeschädigt kannst du sie erbeuten. "
 
 msgctxt "Missions/KEY_MISSION_STEAL_MATERIALS_BRIEFING_NAME"
@@ -10831,7 +11191,7 @@ msgid "RAID MATERIALS"
 msgstr "MATERIAL ERBEUTEN"
 
 msgctxt "Missions/KEY_MISSION_STEAL_MATERIALS_DEFEAT_DESC"
-msgid "No material crates survived the battle."
+msgid "Nothing was gained from the mission"
 msgstr "Keine Materialkiste hat den Kampf überstanden."
 
 msgctxt "Missions/KEY_MISSION_STEAL_MATERIALS_DEFEAT_NAME"
@@ -10839,11 +11199,11 @@ msgid "MATERIALS RAID FAILURE"
 msgstr "MATERIALÜBERFALL GESCHEITERT"
 
 msgctxt "Missions/KEY_MISSION_STEAL_MATERIALS_VICTORY_DESC"
-msgid "All surviving material crates have been recovered, and added to resources."
+msgid "All collected materials resource packs have been transferred to our stores"
 msgstr "Alle verbleibenden Materialkisten wurden geborgen und zu unseren Ressourcen hinzugefügt."
 
 msgctxt "Missions/KEY_MISSION_STEAL_MATERIALS_VICTORY_NAME"
-msgid "MATERIALS SECURED"
+msgid "RAID MISSION OVER"
 msgstr "MATERIAL ERBEUTET"
 
 msgctxt "Missions/KEY_MISSION_STEAL_RESEARCH_BRIEFING_DESC"
@@ -10871,7 +11231,7 @@ msgid "RESEARCH ACQUIRED"
 msgstr "FORSCHUNG ERBEUTET"
 
 msgctxt "Missions/KEY_MISSION_STEAL_TECH_BRIEFING_DESC"
-msgid "Eliminate enemy forces and prevent damage to tech crates to capture them."
+msgid "Take as many items from the crates as you can safely manage and evacuate your squad"
 msgstr "Eliminiere feindliche Kräfte und verhindere Schäden an Technikkisten, um sie zu erbeuten."
 
 msgctxt "Missions/KEY_MISSION_STEAL_TECH_BRIEFING_NAME"
@@ -10879,7 +11239,7 @@ msgid "RAID TECH"
 msgstr "TECHNIK ERBEUTET"
 
 msgctxt "Missions/KEY_MISSION_STEAL_TECH_DEFEAT_DESC"
-msgid "No tech crates survived the battle."
+msgid "Nothing was gained from the mission"
 msgstr "Keine Technikkiste hat den Kampf überstanden."
 
 msgctxt "Missions/KEY_MISSION_STEAL_TECH_DEFEAT_NAME"
@@ -10887,11 +11247,11 @@ msgid "TECH RAID FAILURE"
 msgstr "KEINE TECHNIK ERBEUTET"
 
 msgctxt "Missions/KEY_MISSION_STEAL_TECH_VICTORY_DESC"
-msgid "All surviving tech crates have been recovered, and added to our resources."
+msgid "All collected tech resource packs have been transferred to our stores"
 msgstr "Alle verbleibenden Technikkisten wurden geborgen und zu unseren Ressourcen hinzugefügt."
 
 msgctxt "Missions/KEY_MISSION_STEAL_TECH_VICTORY_NAME"
-msgid "TECH SECURED"
+msgid "RAID MISSION OVER"
 msgstr "TECHNIK ERBEUTET"
 
 msgctxt "Missions/KEY_MISSION_SUMMARY_BACK_GEOSCAPE"
@@ -11123,7 +11483,7 @@ msgid "AMBUSH SURVIVED!"
 msgstr "HINTERHALT ÜBERLEBT!"
 
 msgctxt "Missions/KEY_MISSION_AMBUSH_VICTORY_BRIEFING_TEXT"
-msgid "YOUR FORCES DENY THE ENEMY."
+msgid "YOUR FORCES HAVE ESCAPED THE AMBUSH!"
 msgstr "DEINE TRUPPEN WIDERSTEHEN DEM FEIND."
 
 msgctxt "Missions/KEY_MISSION_AMBUSH_DEFEAT_BRIEFING_NAME"
@@ -11183,7 +11543,7 @@ msgid "All Phoenix Soldiers have lost {0} Stamina."
 msgstr "Alle Phoenix-Soldaten haben {0} Ausdauer verloren."
 
 msgctxt "Missions/KEY_MISSION_OUTCOME_SOLDIER_INJURED_ALL"
-msgid "All Phoenix Soldiers have lost {0} Health."
+msgid "All Phoenix Soldiers have lost {0} Hit Points."
 msgstr "Alle Phoenix-Soldaten haben {0} Leben verloren."
 
 msgctxt "Missions/KEY_MISSION_OUTCOME_ALIEN_ATTACKS"
@@ -11907,7 +12267,7 @@ msgid "Effective Range is the range in tile positions at which the soldier can e
 msgstr "Die effektive Reichweite ist die Entfernung in Feldern, bei der der Soldat eine 50% Chance hat, ein Ziel menschlicher Größe zu treffen.[LF]"
 
 msgctxt "Loading Tips/KEY_TACTICAL_LOADING_TIP_25"
-msgid "The armor level of a body part will prevent that much damage affecting Hit Points e.g. a damage value of 50 against armour of 20 will result in 30 Hit Points lost."
+msgid "The armor level of a body part will prevent that much damage affecting Hit Points e.g. a damage value of 50 against armor of 20 will result in 30 Hit Points lost."
 msgstr "Die Rüstungsstufe eines Körperteils reduziert den Schaden, der von den Trefferpunkten abgezogen wird. Bei einem Schadenswert von 50 gegen eine Rüstung von 20 werden also 30 Trefferpunkte abgezogen.[LF]"
 
 msgctxt "Loading Tips/KEY_TACTICAL_LOADING_TIP_26"
@@ -11919,7 +12279,7 @@ msgid "Viral damage will reduce Will Points at the start of your turn, then the 
 msgstr "Virusschaden reduziert Willenspunkte zu Beginn deines Zuges. Bei jedem weiteren Zug reduziert sich das Virus und schadet weniger, bis das Schadenspotential auf Null gesunken ist.[LF]"
 
 msgctxt "Loading Tips/KEY_TACTICAL_LOADING_TIP_28"
-msgid "Acid damage attached to body parts will reduce armor by 10 each turn, and  then eat away at the flesh, until no acid damage is left."
+msgid "Acid damage attached to body parts will damage armor first, and then body parts. Remaining acid levels reduce each turn."
 msgstr "Säureschaden an Körperteilen reduziert die Rüstung um 10 pro Runde und frisst dann am Fleisch, bis kein Schadenspotential mehr vorhanden ist."
 
 msgctxt "Loading Tips/KEY_TACTICAL_LOADING_TIP_29"
@@ -12223,11 +12583,11 @@ msgid "SIDE"
 msgstr "SEITE"
 
 msgctxt "Body parts/KEY_VEHICLE_TIRE_DESCRIPTION"
-msgid "Tire"
+msgid "New Jericho Armadillo Wheel"
 msgstr "Reifen"
 
 msgctxt "Body parts/KEY_VEHICLE_TIRE_NAME"
-msgid "TIRE"
+msgid "WHEEL"
 msgstr "REIFEN"
 
 msgctxt "Body parts/KEY_VEHICLE_TOP_DESCRIPTION"
