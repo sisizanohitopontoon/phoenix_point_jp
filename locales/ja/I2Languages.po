@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2020-06-13 14:49+0000\n"
+"PO-Revision-Date: 2020-06-13 14:54+0000\n"
 "Last-Translator: higema <ltdhyndsh@yahoo.co.jp>\n"
 "Language-Team: \n"
 "Language: ja\n"
@@ -666,26 +666,23 @@ msgctxt "Danforth/KEY_ASPIDA_SHIELDING_NAME"
 msgid "SHIELDING"
 msgstr "シールド"
 
-#, fuzzy
 #| msgctxt "Equipment/KEY_SY_ASSAULT_LEGS_DESCRIPTION"
 #| msgid "Synedrion Assault Leg Armor"
 msgctxt "Danforth/KEY_ASPIDA_ARM_DESCRIPTION"
 msgid "Synedrion Aspida Tech Arm"
-msgstr "シネドリオン アサルト レッグアーマー"
+msgstr "シネドリオン アスピーダ テック アーム"
 
-#, fuzzy
 #| msgctxt "Geoscape/KEY_GEOSCAPE_TECH"
 #| msgid "TECH"
 msgctxt "Danforth/KEY_ASPIDA_ARM_NAME"
 msgid "TECH ARM"
-msgstr "テック"
+msgstr "テックアーム"
 
-#, fuzzy
 #| msgctxt "Tactical/KEY_INTERACT_ACTIVATE_NAME"
 #| msgid "ACTIVATE"
 msgctxt "Danforth/KEY_BASE_ACTIVATE_NAME"
 msgid "ACTIVATE BASE"
-msgstr "アクティベート"
+msgstr "基地を稼働させる"
 
 msgctxt "Danforth/KEY_BASE_ACTIVATE_DESCRIPTION"
 msgid "Activate Phoenix Base remotely, rendering it operational."
@@ -699,12 +696,11 @@ msgctxt "Danforth/KEY_BASE_ACTIVATE_CONFIRM_DESCRIPTION"
 msgid "Initiating the activation protocols will consume resources to make the base operational. Any damaged facilities will need to be repaired."
 msgstr ""
 
-#, fuzzy
 #| msgctxt "Tactical/KEY_MESSAGE_GEO_NO_RESOURCES_SOLDIER"
 #| msgid "You don't have enough resources to hire a soldier"
 msgctxt "Danforth/KEY_BASE_ACTIVATE_NOTIFICATION_RESOURCES"
 msgid "You do not have the enough resources to activate the base"
-msgstr "兵士を雇うのに十分な資源を持っていない"
+msgstr "基地を稼働させるための資源が足りない"
 
 msgctxt "Danforth/KEY_BASE_ACTIVATE_NOTIFICATION_LIMIT"
 msgid "You have reached the operational limit for Phoenix Bases. No more bases can be activated."
@@ -730,12 +726,11 @@ msgctxt "Danforth/KEY_MESSAGE_NO_SPACE_TO_RECRUIT"
 msgid "THERE IS NOT ENOUGH SPACE IN YOUR AIRCRAFT FOR THE NEW RECRUIT"
 msgstr ""
 
-#, fuzzy
 #| msgctxt "Controls/KEY_CONTROLS_WARNING_CONFLICT_CONFIRMATION"
 #| msgid "Are you sure you want to reassign it for \"\"{0}\"\"?"
 msgctxt "Danforth/KEY_BASE_RECRUIT_CONFIRMATION"
 msgid "Are you sure you want to recruit {0} for {1}?"
-msgstr "\"\"{0}\"\"に本当に再配置してもよろしいですか？"
+msgstr "{1}で{0}を雇用してよろしいですか？"
 
 msgctxt "Danforth/KEY_BASE_RECRUIT_DEPLOYMENT"
 msgid "{0} has been recruited and deployed to base {1}"
@@ -745,34 +740,31 @@ msgctxt "Danforth/KEY_MISSION_RESCUE_SOLDIERS_BRIEFING_DESC"
 msgid "Take control of the independent soldiers and evacuate the site with them"
 msgstr ""
 
-#, fuzzy
 #| msgctxt "Geoscape/KEY_RECRUIT_SOLDIER_ABILITY_NAME"
 #| msgid "RECRUIT SOLDIER"
 msgctxt "Danforth/KEY_MISSION_RESCUE_SOLDIERS_BRIEFING_NAME"
 msgid "RESCUE SOLDIERS"
-msgstr "兵士を雇用"
+msgstr "兵士救出"
 
 msgctxt "Danforth/KEY_MISSION_RESCUE_SOLDIERS_DEFEAT_DESC"
 msgid "Your squad was wiped out"
 msgstr ""
 
-#, fuzzy
 #| msgctxt "Missions/KEY_MISSION_AMBUSH_DEFEAT_BRIEFING_NAME"
 #| msgid "ESCAPE FAILED!"
 msgctxt "Danforth/KEY_MISSION_RESCUE_SOLDIERS_DEFEAT_NAME"
 msgid "RESCUE FAILED"
-msgstr "退避失敗!"
+msgstr "救出失敗"
 
 msgctxt "Danforth/KEY_MISSION_RESCUE_SOLDIERS_VICTORY_DESC"
 msgid "All surviving soldiers and vehicles have been evacuated"
 msgstr ""
 
-#, fuzzy
 #| msgctxt "Diplomacy and Factions/KEY_DIPLOMACY_LOCATE"
 #| msgid "LOCATE MISSION"
 msgctxt "Danforth/KEY_MISSION_RESCUE_SOLDIERS_VICTORY_NAME"
 msgid "RESCUE MISSION OVER"
-msgstr "ミッション地点を確認"
+msgstr "救出ミッション終了"
 
 msgctxt "Danforth/KEY_MISSION_RECOVER_VEHICLE_BRIEFING_DESC"
 msgid "Take control of the vehicle located somewhere in the site and evacuate with it"
