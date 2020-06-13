@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2020-06-13 14:24+0000\n"
+"PO-Revision-Date: 2020-06-13 14:29+0000\n"
 "Last-Translator: higema <ltdhyndsh@yahoo.co.jp>\n"
 "Language-Team: \n"
 "Language: ja\n"
@@ -375,30 +375,27 @@ msgctxt "PH_Localization/KEY_OK"
 msgid "OK"
 msgstr "OK"
 
-#, fuzzy
 #| msgctxt "Objectives/KEY_OBJECTIVE_PROTECT_CRATES"
 #| msgid "CRATES PROTECTED [{0}/{1}]"
 msgctxt "Danforth/KEY_OBJECTIVE_PICK_RESOURCES"
 msgid "RESOURCE PACKS COLLECTED: {0}/{1}"
-msgstr "守った箱 [{0}/{1}]"
+msgstr "回収された資源パック: {0}/{1}"
 
-#, fuzzy
 #| msgctxt "Geoscape/KEY_GEOSCAPE_FOOD"
 #| msgid "FOOD"
 msgctxt "Danforth/KEY_RESOURCE_FOOD_NAME"
 msgid "FOOD PACK"
-msgstr "食料"
+msgstr "食料パック"
 
 msgctxt "Danforth/KEY_RESOURCE_FOOD_DESCRIPTION"
 msgid "Concentrated nutrient portions"
 msgstr ""
 
-#, fuzzy
 #| msgctxt "Geoscape/KEY_GEOSCAPE_MATERIALS"
 #| msgid "MATERIALS"
 msgctxt "Danforth/KEY_RESOURCE_MATERIALS_NAME"
 msgid "MATERIAL PACK"
-msgstr "マテリアル"
+msgstr "マテリアルパック"
 
 msgctxt "Danforth/KEY_RESOURCE_MATERIALS_DESCRIPTION"
 msgid "Construction materials"
@@ -412,48 +409,43 @@ msgctxt "Danforth/KEY_RESOURCE_MUTAGENS_DESCRIPTION"
 msgid "A capsule of active Pandoran mutagens."
 msgstr ""
 
-#, fuzzy
 #| msgctxt "Geoscape/KEY_GEOSCAPE_TECH"
 #| msgid "TECH"
 msgctxt "Danforth/KEY_RESOURCE_TECH_NAME"
 msgid "TECH PACK"
-msgstr "テック"
+msgstr "テックパック"
 
 msgctxt "Danforth/KEY_RESOURCE_TECH_DESCRIPTION"
 msgid "High tech construction components"
 msgstr ""
 
-#, fuzzy
 #| msgctxt "Objectives/KEY_OBJECTIVE_EVACUATE"
 #| msgid "EVACUATE AREA [{0}/{1}]"
 msgctxt "Danforth/KEY_OBJECTIVE_RESCUE_ALLY"
 msgid "#RESCUE ALLIES: {0}/{1}"
-msgstr "エリアを退避 [{0}/{1}]"
+msgstr "#味方を救出する [{0}/{1}]"
 
-#, fuzzy
 #| msgctxt "Abilities/KEY_ENTER_VEHICLE_NAME"
 #| msgid "ENTER VEHICLE"
 msgctxt "Danforth/KEY_OBJECTIVE_RECOVER_VEHICLE"
 msgid "#RECOVER VEHICLE"
-msgstr "乗車"
+msgstr "#車両を回収する"
 
 msgctxt "Danforth/KEY_LOAD_INVALID_TACTICAL"
 msgid "This in-battle save is not compatible with the current version of the game. The game will revert the Geoscape just prior to the mission."
 msgstr ""
 
-#, fuzzy
 #| msgctxt "Manufacture Screen/KEY_MANUFACTURE_NOT_ITEMS_WARNING_TT"
 #| msgid "No items available"
 msgctxt "Danforth/KEY_BASE_RECRUITS_SPAWNED"
 msgid "New recruits available."
-msgstr "利用可能なアイテムがありません"
+msgstr "新たな補充兵が利用可能。"
 
-#, fuzzy
 #| msgctxt "Geoscape/KEY_RECRUIT_SOLDIER_ABILITY_NAME"
 #| msgid "RECRUIT SOLDIER"
 msgctxt "Danforth/KEY_BASE_RECRUITS_ROSTER_NAME"
 msgid "RECRUITS"
-msgstr "兵士を雇用"
+msgstr "補充兵"
 
 #, fuzzy
 #| msgctxt "Research Screen/KEY_RESEARCH_PRODUCTION"
@@ -462,7 +454,6 @@ msgctxt "Danforth/KEY_BASE_RECRUITS_ROSTER_DESCRIPTION"
 msgid "All volunteers available for recruiting at your base"
 msgstr "以下の物が基地で生産可能になりました:"
 
-#, fuzzy
 #| msgctxt "Tactical/KEY_ABILITY"
 #| msgid "ABILITY"
 msgctxt "Danforth/KEY_BASE_RECRUITS_ABILITIES"
