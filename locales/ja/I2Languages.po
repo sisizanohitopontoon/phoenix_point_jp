@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2020-06-13 14:40+0000\n"
+"PO-Revision-Date: 2020-06-13 14:43+0000\n"
 "Last-Translator: higema <ltdhyndsh@yahoo.co.jp>\n"
 "Language-Team: \n"
 "Language: ja\n"
@@ -523,41 +523,37 @@ msgctxt "Danforth/KEY_BASE_DISMISS_MUTOG"
 msgid "Release Mutog, removing it from the Phoenix Project"
 msgstr "フェニックスプロジェクトからミュートッグを解き放って追い出す"
 
-#, fuzzy
 #| msgctxt "Controls/KEY_CONTROLS_WARNING_CONFLICT_CONFIRMATION"
 #| msgid "Are you sure you want to reassign it for \"\"{0}\"\"?"
 msgctxt "Danforth/KEY_BASE_DISMISS_MUTOG_PROMPT"
 msgid "Are you sure you want to release {0}?"
-msgstr "\"\"{0}\"\"に本当に再配置してもよろしいですか？"
+msgstr "本当に{0}を解き放ちますか？"
 
 msgctxt "Danforth/KEY_BASE_DISMISS_MUTOG_RESULT"
 msgid "{0} has been released"
 msgstr ""
 
-#, fuzzy
 #| msgctxt "Geoscape/KEY_RECRUIT_SOLDIER_ABILITY_NAME"
 #| msgid "RECRUIT SOLDIER"
 msgctxt "Danforth/KEY_OBJECTIVE_GET_SOLDIERS"
 msgid "RESCUE SOLDIERS: {0}/{1}"
-msgstr "兵士を雇用"
+msgstr "兵士を救出する: {0}/{1}"
 
-#, fuzzy
 #| msgctxt "Abilities/KEY_ENTER_VEHICLE_NAME"
 #| msgid "ENTER VEHICLE"
 msgctxt "Danforth/KEY_OBJECTIVE_GET_VEHICLE"
 msgid "RECOVER VEHICLE"
-msgstr "乗車"
+msgstr "車両を回収する"
 
 msgctxt "Danforth/KEY_MANUFACTURING_STORAGE_INSUFFICIENT"
 msgid "<color=#ECBA62> (insufficient storage space)</color>"
 msgstr ""
 
-#, fuzzy
 #| msgctxt "Base Screen/KEY_BASE_PERSONNEL_GLOBAL"
 #| msgid "PERSONNEL"
 msgctxt "Danforth/KEY_MISSION_DEBRIEF_RESCUE"
 msgid "NEW PERSONNEL"
-msgstr "人材"
+msgstr "新たな人員"
 
 msgctxt "Danforth/KEY_MESSAGE_HAVEN_LEADER_DOESNT_TRADE"
 msgid "Diplomatic relations with the Haven are too low. The Heaven leader refuses to trade with you."
@@ -567,45 +563,41 @@ msgctxt "Danforth/KEY_MESSAGE_SITE_UNREACHABLE"
 msgid "The location is too far away to be reached directly."
 msgstr ""
 
-#, fuzzy
 #| msgctxt "Geoscape/KEY_GEO_SCANNER_NO_RESOURCES"
 #| msgid "You don't have enough resources to perform an Area Scan."
 msgctxt "Danforth/KEY_MESSAGE_NOT_ENOUGH_RESOURCES"
 msgid "You do not have enough resources to perform this action."
-msgstr "エリア スキャンを実行するための資源が不足しています。"
+msgstr "この行動を実行するには資源が足りません。"
 
 msgctxt "Danforth/KEY_MISSION_RAID_RESOURCES_SITE_BRIEFING_DESCRIPTION"
 msgid "Search the crates and obtain as many resource packs as possible."
 msgstr ""
 
-#, fuzzy
 #| msgctxt "Missions/KEY_MISSION_RESOURCES_RECOVERED"
 #| msgid "RESOURCES RECOVERED"
 msgctxt "Danforth/KEY_MISSION_RAID_RESOURCES_SITE_BRIEFING_NAME"
 msgid "RESOURCE RAID"
-msgstr "資源が回収された"
+msgstr "資源強奪"
 
 msgctxt "Danforth/KEY_MISSION_RAID_RESOURCES_SITE_DEFEAT_DESCRIPTION"
 msgid "Your entire team has been wiped out. No resources were claimed."
 msgstr ""
 
-#, fuzzy
 #| msgctxt "Missions/KEY_MISSION_STEAL_TECH_DEFEAT_NAME"
 #| msgid "TECH RAID FAILURE"
 msgctxt "Danforth/KEY_MISSION_RAID_RESOURCES_SITE_DEFEAT_NAME"
 msgid "RESOURCE RAID FAILED"
-msgstr "テック強奪失敗"
+msgstr "資源強奪 失敗"
 
 msgctxt "Danforth/KEY_MISSION_RAID_RESOURCES_SITE_VICTORY_DESCRIPTION"
 msgid "Your team was successfully evacuated. All resources obtained from the mission are added to your resource pool."
 msgstr ""
 
-#, fuzzy
 #| msgctxt "Abilities/KEY_RESOURCEFULL_PERSONALTRACK_NAME"
 #| msgid "RESOURCEFUL"
 msgctxt "Danforth/KEY_MISSION_RAID_RESOURCES_SITE_VICTORY_NAME"
 msgid "RESOURCE RAID SUCCESSFUL"
-msgstr "リソースフル"
+msgstr "資源強奪 成功"
 
 #, fuzzy
 #| msgctxt "Missions/KEY_MISSION_ATTACK_SCAVENGING_SITE_WARNING"
