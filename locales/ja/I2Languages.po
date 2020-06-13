@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2020-06-13 14:33+0000\n"
+"PO-Revision-Date: 2020-06-13 14:40+0000\n"
 "Last-Translator: higema <ltdhyndsh@yahoo.co.jp>\n"
 "Language-Team: \n"
 "Language: ja\n"
@@ -489,44 +489,39 @@ msgctxt "Danforth/KEY_BASE_DISMISS_PERSON"
 msgid "Dismiss soldier, removing them from the Phoenix Project. All equipment will be put in storage."
 msgstr ""
 
-#, fuzzy
 #| msgctxt "Options Screen/KEY_OPTIONS_SAVE_DELETE"
 #| msgid "Are you sure you want to delete this save game? All progress within will be lost."
 msgctxt "Danforth/KEY_BASE_DISMISS_PERSON_PROMPT"
 msgid "Are you sure you want to dismiss {0}? If you do their equipment will be placed in storage."
-msgstr "本当にこのセーブ データを削除しますか?データ内の進行は全て失われます。"
+msgstr "本当に{0}を解雇しますか?解雇した場合、兵士が装備していたものは倉庫に保管されます。"
 
 msgctxt "Danforth/KEY_BASE_DISMISS_PERSON_RESULT"
 msgid "{0} has been dismissed."
 msgstr ""
 
-#, fuzzy
 #| msgctxt "Geoscape Objectives/KEY_OBJECTIVE_TUTORIAL_RESEARCH"
 #| msgid "Research the Phoenix Project"
 msgctxt "Danforth/KEY_BASE_DISMISS_VEHICLE"
 msgid "Remove vehicle from the Phoenix Project"
-msgstr "フェニックスプロジェクトを研究する"
+msgstr "フェニックスプロジェクトから車両を廃棄する"
 
-#, fuzzy
 #| msgctxt "Controls/KEY_CONTROLS_WARNING_CONFLICT_CONFIRMATION"
 #| msgid "Are you sure you want to reassign it for \"\"{0}\"\"?"
 msgctxt "Danforth/KEY_BASE_DISMISS_VEHICLE_PROMPT"
 msgid "Are you sure you want to remove {0}?"
-msgstr "\"\"{0}\"\"に本当に再配置してもよろしいですか？"
+msgstr "本当に{0}を廃棄しますか？"
 
-#, fuzzy
 #| msgctxt "Geoscape/KEY_ALIEN_BASE_ABANDONED_CITADEL_DESC"
 #| msgid "This structure has been abandoned"
 msgctxt "Danforth/KEY_BASE_DISMISS_VEHICLE_RESULT"
 msgid "{0} has been abandoned"
-msgstr "この構造物は放棄されている"
+msgstr "{0}は廃棄された。"
 
-#, fuzzy
 #| msgctxt "Geoscape Objectives/KEY_OBJECTIVE_TUTORIAL_RESEARCH"
 #| msgid "Research the Phoenix Project"
 msgctxt "Danforth/KEY_BASE_DISMISS_MUTOG"
 msgid "Release Mutog, removing it from the Phoenix Project"
-msgstr "フェニックスプロジェクトを研究する"
+msgstr "フェニックスプロジェクトからミュートッグを解き放って追い出す"
 
 #, fuzzy
 #| msgctxt "Controls/KEY_CONTROLS_WARNING_CONFLICT_CONFIRMATION"
