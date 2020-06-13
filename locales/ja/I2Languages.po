@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2020-06-13 15:04+0000\n"
+"PO-Revision-Date: 2020-06-13 15:06+0000\n"
 "Last-Translator: higema <ltdhyndsh@yahoo.co.jp>\n"
 "Language-Team: \n"
 "Language: ja\n"
@@ -794,26 +794,23 @@ msgctxt "Danforth/KEY_MISSION_RECOVER_VEHICLE_VICTORY_NAME"
 msgid "RECOVERY MISSION OVER"
 msgstr ""
 
-#, fuzzy
 #| msgctxt "Abilities/KEY_LAUNCH_GRENADE_DESCRIPTION"
 #| msgid "Fire grenade at a target location"
 msgctxt "Danforth/KEY_LAUNCH_LASER_DESCRIPTION"
 msgid "Fire laser at target location."
-msgstr "目標地点にグレネードを射出する"
+msgstr "目標地点にレーザーを発射する。"
 
-#, fuzzy
 #| msgctxt "Equipping Screen/KEY_ITEM_STAT_SINGLE_SHOT"
 #| msgid "SINGLE SHOT"
 msgctxt "Danforth/KEY_LAUNCH_LASER_NAME"
 msgid "LASER SHOT"
-msgstr "単射"
+msgstr "レーザーショット"
 
-#, fuzzy
 #| msgctxt "Tactical/KEY_MESSAGE_NO_AMMO_IN_INVENTORY"
 #| msgid "No ammo in inventory"
 msgctxt "Danforth/KEY_MESSAGE_NO_SPACE_INVENTORY"
 msgid "No space in inventory"
-msgstr "インベントリに弾薬がない"
+msgstr "インベントリに空きがない"
 
 #, fuzzy
 #| msgctxt "Manufacture Screen/KEY_MANUFACTURE_RETURNED_RESOURCES"
