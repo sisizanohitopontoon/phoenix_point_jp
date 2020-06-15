@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2020-06-15 13:49+0000\n"
+"PO-Revision-Date: 2020-06-15 13:54+0000\n"
 "Last-Translator: higema <ltdhyndsh@yahoo.co.jp>\n"
 "Language-Team: \n"
 "Language: ja\n"
@@ -11214,12 +11214,11 @@ msgctxt "Missions/KEY_MISSION_ATTACK_SCAVENGING_SITE_DEFEAT_NAME"
 msgid "SCAVENGING SITE ABANDONED"
 msgstr "スカベンジ地点は放棄された"
 
-#, fuzzy
 #| msgctxt "Missions/KEY_MISSION_ATTACK_SCAVENGING_SITE_VICTORY_DESCRIPTION"
 #| msgid "All surviving crates have been recovered and resources transferred to our stores."
 msgctxt "Missions/KEY_MISSION_ATTACK_SCAVENGING_SITE_VICTORY_DESCRIPTION"
 msgid "All collected resource packs have been transferred to our stores"
-msgstr "残存した箱はすべて回収され、資源が倉庫に転送された。"
+msgstr "回収した資源パックはすべて倉庫に転送された。"
 
 msgctxt "Missions/KEY_MISSION_ATTACK_SCAVENGING_SITE_VICTORY_NAME"
 msgid "SCAVENGING SITE CLEARED"
@@ -11781,12 +11780,11 @@ msgctxt "Missions/KEY_MISSION_STEAL_FOOD_DEFEAT_NAME"
 msgid "FOOD RAID FAILURE"
 msgstr "食料強奪失敗"
 
-#, fuzzy
 #| msgctxt "Missions/KEY_MISSION_ATTACK_SCAVENGING_SITE_VICTORY_DESCRIPTION"
 #| msgid "All surviving crates have been recovered and resources transferred to our stores."
 msgctxt "Missions/KEY_MISSION_STEAL_FOOD_VICTORY_DESC"
 msgid "All collected food resource packs have been transferred to our stores"
-msgstr "残存した箱はすべて回収され、資源が倉庫に転送された。"
+msgstr "回収した食料資源パックはすべて倉庫に転送された。"
 
 #, fuzzy
 #| msgctxt "Missions/KEY_MISSION_SUMMARY_COMPLETED"
@@ -13251,19 +13249,17 @@ msgctxt "Body parts/KEY_VEHICLE_SIDE_RIGHT_NAME"
 msgid "SIDE"
 msgstr "右側面"
 
-#, fuzzy
 #| msgctxt "Equipment/KEY_VEHICLE_TURRET_GAUS_DESCRIPTION"
 #| msgid "New Jericho Armadillo Gauss Turret"
 msgctxt "Body parts/KEY_VEHICLE_TIRE_DESCRIPTION"
 msgid "New Jericho Armadillo Wheel"
-msgstr "ニュージェリコ アルマジロ ガウスタレット"
+msgstr "ニュージェリコ アルマジロ ホイール"
 
-#, fuzzy
 #| msgctxt "Controls/KEY_CONTROLS_TACTICAL_PC_MOUSE_WHEEL_NAME"
 #| msgid "MOUSE WHEEL"
 msgctxt "Body parts/KEY_VEHICLE_TIRE_NAME"
 msgid "WHEEL"
-msgstr "マウスホイール"
+msgstr "ホイール"
 
 msgctxt "Body parts/KEY_VEHICLE_TOP_DESCRIPTION"
 msgid "Top"
@@ -13409,12 +13405,11 @@ msgctxt "Body parts/KEY_ASPIDA_ARMS_NAME"
 msgid "Midas V Arms"
 msgstr ""
 
-#, fuzzy
 #| msgctxt "Equipment/KEY_SY_ASSAULT_LEGS_DESCRIPTION"
 #| msgid "Synedrion Assault Leg Armor"
 msgctxt "Body parts/KEY_ASPIDA_ARMS_DESCRIPTION"
 msgid "Synedrion Aspida Vehicle Mech Arms"
-msgstr "シネドリオン アサルト レッグアーマー"
+msgstr "シネドリオン アスピーダ メックアーム"
 
 msgctxt "Body parts/KEY_SPAWNERY_EGG_POD_NAME"
 msgid "EGG POD"
@@ -13424,7 +13419,6 @@ msgctxt "Body parts/KEY_SPAWNERY_SHELL_NAME"
 msgid "SHELL"
 msgstr "外殻"
 
-#, fuzzy
 #| msgctxt "Roster Screen/KEY_GEOROSTER_BODY"
 #| msgid "BODY"
 msgctxt "Body parts/KEY_SPAWNERY_BODY_NAME"
