@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2020-06-15 13:37+0000\n"
+"PO-Revision-Date: 2020-06-15 13:44+0000\n"
 "Last-Translator: higema <ltdhyndsh@yahoo.co.jp>\n"
 "Language-Team: \n"
 "Language: ja\n"
@@ -5128,12 +5128,11 @@ msgctxt "Xbox/KEY_STREAMING_INSTALL_TEXT_DESCRIPTION"
 msgid "The selected mission is currently being downloaded to your device. Please, wait until the download is complete before launching."
 msgstr ""
 
-#, fuzzy
 #| msgctxt "Base Screen/KEY_BASE_SWITCH_ON"
 #| msgid "PRESS TO SWITCH ON"
 msgctxt "Xbox/KEY_CONSOLE_CONTINUE"
 msgid "PRESS :A: TO CONTINUE"
-msgstr "スイッチを入れる"
+msgstr "続けるには :A: を押してください"
 
 msgctxt "Xbox/KEY_CONSOLE_SWITCH_PROFILE"
 msgid "SWITCH PROFILE"
@@ -8853,12 +8852,11 @@ msgctxt "Equipping Screen/KEY_ITEM_STAT_HANDS_TO_USE"
 msgid "HANDS TO USE"
 msgstr "使用する手"
 
-#, fuzzy
 #| msgctxt "Tactical/KEY_WILL_POINTS_CLEAN"
 #| msgid "WILL POINTS"
 msgctxt "Equipping Screen/KEY_ITEM_STAT_HEALTH"
 msgid "HIT POINTS"
-msgstr "ウィルポイント"
+msgstr "ヒットポイント"
 
 msgctxt "Equipping Screen/KEY_ITEM_STAT_LOCATION_HP"
 msgid "LOCATION HIT POINTS"
@@ -10822,12 +10820,11 @@ msgctxt "Geoscape/KEY_SPECIAL_MISSION"
 msgid "SPECIAL MISSION"
 msgstr "スペシャルミッション"
 
-#, fuzzy
 #| msgctxt "Base Screen/KEY_BASE_UNDER_CONSTRCUTION"
 #| msgid "UNDER CONSTRUCTION"
 msgctxt "Geoscape/KEY_FACILITY_BUILDING"
 msgid "FACILITY UNDER CONSTRUCTION"
-msgstr "建設中"
+msgstr "施設が建設中"
 
 msgctxt "Geoscape/KEY_ODI_TT"
 msgid "Oneiric Delirium Index - Save havens to slow down progress, or destroy Pandoran bases to reverse it"
@@ -10929,7 +10926,6 @@ msgctxt "Haven Screen/KEY_HAVEN_ZONE_RESIDENTIAL_DESC_AN"
 msgid "The teeming, chaotic slums of Disciples of Anu havens house the devoted mass of followers."
 msgstr "ディサイプルズ・オブ・アヌのヘイヴンの人で溢れる雑然としたスラムは、熱心な大衆信者達を住まわせている。"
 
-#, fuzzy
 #| msgctxt "Haven Screen/KEY_HAVEN_ZONE_RESIDENTIAL_DESC_SY"
 #| msgid "Synedrion constructs the most human centred cvilian amenites as an example of the world they want to create."
 msgctxt "Haven Screen/KEY_HAVEN_ZONE_RESIDENTIAL_DESC_SY"
@@ -11088,19 +11084,17 @@ msgctxt "Haven Screen/KEY_MISSION_NEEDS_AIRCRAFT_TT"
 msgid "Send an aircraft with a squad to this haven to conduct a mission here"
 msgstr "ミッションを遂行するため、このヘイヴンに部隊を載せた航空機を派遣してください"
 
-#, fuzzy
 #| msgctxt "Haven Screen/KEY_RECRUIT_LEADER_NEGATIVE_DIPLOMACY_TT"
 #| msgid "Haven leader is unfriendly with Phoenix Point. Improve diplomacy relation to be able to recruit."
 msgctxt "Haven Screen/KEY_RECRUIT_LEADER_NEGATIVE_DIPLOMACY_TT"
 msgid "The haven leader is not friendly towards the Phoenix Project. Improve diplomatic relations to enable recruiting."
-msgstr "ヘイヴンリーダーがフェニックスプロジェクトに対して友好的ではありません。雇用を可能にするには外交関係を改善してください。"
+msgstr "このヘイヴンのリーダーはフェニックスプロジェクトに対して友好的ではありません。雇用を可能にするには外交関係を改善してください。"
 
-#, fuzzy
 #| msgctxt "Haven Screen/KEY_TRADE_LEADER_NEGATIVE_DIPLOMACY_TT"
 #| msgid "Haven leader is unfriendly with Phoenix Point. Improve diplomacy relation to be able to trade."
 msgctxt "Haven Screen/KEY_TRADE_LEADER_NEGATIVE_DIPLOMACY_TT"
 msgid "The haven leader is not friendly towards the Phoenix Project. Improve diplomatic relations to enable trading."
-msgstr "ヘイヴンリーダーがフェニックスプロジェクトに対して友好的ではありません。トレードを可能にするには外交関係を改善してください。"
+msgstr "このヘイヴンリーダーはフェニックスプロジェクトに対して友好的ではありません。トレードを可能にするには外交関係を改善してください。"
 
 msgctxt "Missions/KEY_MISSION_ALIEN_LAIR"
 msgid "PANDORAN LAIR"
@@ -11114,23 +11108,21 @@ msgctxt "Missions/KEY_MISSION_ALIEN_PALACE"
 msgid "PANDORAN  PALACE"
 msgstr "パンドラン・パレス"
 
-#, fuzzy
 #| msgctxt "Missions/KEY_MISSION_ATTACK_LAIR_BRIEFING_DESCRIPTION"
 #| msgid "Locate and eliminate the Spawnery to destroy the Lair."
 msgctxt "Missions/KEY_MISSION_ATTACK_CITADEL_BRIEFING_DESCRIPTION"
 msgid "Locate and eliminate the Scylla and then evacuate your squad"
-msgstr "レアを破壊するため、スポーンリィを抹殺する"
+msgstr "スキュラを発見して倒し、その後に部隊を退避させる"
 
 msgctxt "Missions/KEY_MISSION_ATTACK_CITADEL_BRIEFING_NAME"
 msgid "ATTACK PANDORAN CITADEL"
 msgstr "パンドラン・シタデルを攻撃する"
 
-#, fuzzy
 #| msgctxt "Missions/KEY_MISSION_ATTACK_CITADEL_DEFEAT_DESCRIPTION"
 #| msgid "The monster that rules this citadel will continue its reign of terror on nearby human settlements."
 msgctxt "Missions/KEY_MISSION_ATTACK_CITADEL_DEFEAT_DESCRIPTION"
 msgid "The monster that rules this citadel will continue its reign of terror on nearby human settlements"
-msgstr "シタデルを支配するこの怪物は、付近の人間の居住地に恐怖の治世を続けるだろう。"
+msgstr "シタデルを支配するこの怪物は、付近の人間の居住地に対して恐怖の治世を続けるだろう。"
 
 msgctxt "Missions/KEY_MISSION_ATTACK_CITADEL_DEFEAT_NAME"
 msgid "PANDORAN CITADEL SURVIVES"
