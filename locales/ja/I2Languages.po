@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2020-06-15 14:51+0000\n"
+"PO-Revision-Date: 2020-06-15 15:00+0000\n"
 "Last-Translator: higema <ltdhyndsh@yahoo.co.jp>\n"
 "Language-Team: \n"
 "Language: ja\n"
@@ -1534,21 +1534,21 @@ msgstr "この保存済みゲームをロードするには、次のダウンロ
 
 msgctxt "Blood Titanium/KEY_TIMED_MISSION_COUNTER"
 msgid "{Objective} (ends in {time})"
-msgstr ""
+msgstr "{Objective} (あと{time}で終了)"
 
 msgctxt "Blood Titanium/KEY_TIMED_MISSION_ENDED"
 msgid "The times mission {0} has expired. No further actions regarding it are possible."
-msgstr ""
+msgstr "時限ミッション{0}の期間が終了した。このミッションに関わる行動はもう行えない。"
 
 msgctxt "Blood Titanium/KEY_TUTORIAL_TIMED_MISSIONS_NAME"
 msgid "Time Limited Events"
-msgstr ""
+msgstr "時間制限付きイベント"
 
 msgctxt "Blood Titanium/KEY_TUTORIAL_TIMED_MISSIONS_DESCRIPTION"
 msgid ""
 "Timed limited events are time sensitive objectives that disappear after a set amount of time. If not completed within the time limit, the mission disappears and will not reappear for the remaining "
 "game."
-msgstr ""
+msgstr "時間制限付きイベントとは、設定された時間が経過すると消えてしまうミッション目標のことです。制限時間内に完了できなかった場合、そのミッションは消滅し以降出現しなくなります。"
 
 msgctxt "Abilities/KEY_ACID_RESISTANCE_DESCRIPTION"
 msgid "Reduces effect of Acid Damage by half"
@@ -5116,7 +5116,7 @@ msgstr "起動"
 
 msgctxt "Xbox/KEY_STREAMING_INSTALL_CANCEL2"
 msgid "SAVE & EXIT"
-msgstr ""
+msgstr "セーブして終了する"
 
 #| msgctxt "Diplomacy and Factions/KEY_DIPLOMACY_LOCATE"
 #| msgid "LOCATE MISSION"
@@ -5126,7 +5126,7 @@ msgstr "ミッションをダウンロード中"
 
 msgctxt "Xbox/KEY_STREAMING_INSTALL_TEXT_DESCRIPTION"
 msgid "The selected mission is currently being downloaded to your device. Please, wait until the download is complete before launching."
-msgstr ""
+msgstr "選択したミッションは、お使いのデバイスに現在ダウンロード中です。ダウンロードが完了するまで待ってから起動してください。"
 
 #| msgctxt "Base Screen/KEY_BASE_SWITCH_ON"
 #| msgid "PRESS TO SWITCH ON"
@@ -8658,7 +8658,7 @@ msgstr "製造"
 
 msgctxt "Manufacture Screen/KEY_MANUFACTURE_UNAFFORDABLE"
 msgid "Unaffordable"
-msgstr ""
+msgstr "空きが足りない"
 
 msgctxt "Manufacture Screen/KEY_MANUFACTURE_DEPLOY"
 msgid "SELECT DEPLOYMENT LOCATION"
@@ -13394,7 +13394,7 @@ msgstr "死亡時に複数の子を放出する"
 
 msgctxt "Body parts/KEY_ASPIDA_ARMS_NAME"
 msgid "Midas V Arms"
-msgstr ""
+msgstr "ミダスVアームズ"
 
 #| msgctxt "Equipment/KEY_SY_ASSAULT_LEGS_DESCRIPTION"
 #| msgid "Synedrion Assault Leg Armor"
@@ -13404,7 +13404,7 @@ msgstr "シネドリオン アスピーダ メックアーム"
 
 msgctxt "Body parts/KEY_SPAWNERY_EGG_POD_NAME"
 msgid "EGG POD"
-msgstr ""
+msgstr "エッグポッド"
 
 msgctxt "Body parts/KEY_SPAWNERY_SHELL_NAME"
 msgid "SHELL"
