@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2020-06-15 14:28+0000\n"
+"PO-Revision-Date: 2020-06-15 14:33+0000\n"
 "Last-Translator: higema <ltdhyndsh@yahoo.co.jp>\n"
 "Language-Team: \n"
 "Language: ja\n"
@@ -471,7 +471,7 @@ msgstr "オンライン"
 
 msgctxt "Danforth/KEY_BASE_STATUS_RECRUITING_ATTACK"
 msgid "INCOMING ATTACK"
-msgstr ""
+msgstr "襲撃接近中"
 
 #| msgctxt "Geoscape/KEY_RECRUIT_SOLDIER_INFO_LABEL"
 #| msgid "RECRUIT AVAILABLE AT HAVEN"
@@ -487,7 +487,7 @@ msgstr "雇用"
 
 msgctxt "Danforth/KEY_BASE_DISMISS_PERSON"
 msgid "Dismiss soldier, removing them from the Phoenix Project. All equipment will be put in storage."
-msgstr ""
+msgstr "兵士を解雇し、フェニックスプロジェクトから立ち去らせます。 兵士が身に着けていた装備は全て倉庫に保管されます。"
 
 #| msgctxt "Options Screen/KEY_OPTIONS_SAVE_DELETE"
 #| msgid "Are you sure you want to delete this save game? All progress within will be lost."
@@ -497,7 +497,7 @@ msgstr "本当に{0}を解雇しますか?解雇した場合、兵士が装備�
 
 msgctxt "Danforth/KEY_BASE_DISMISS_PERSON_RESULT"
 msgid "{0} has been dismissed."
-msgstr ""
+msgstr "{0}は解雇された。"
 
 #| msgctxt "Geoscape Objectives/KEY_OBJECTIVE_TUTORIAL_RESEARCH"
 #| msgid "Research the Phoenix Project"
@@ -531,7 +531,7 @@ msgstr "本当に{0}を解き放ちますか？"
 
 msgctxt "Danforth/KEY_BASE_DISMISS_MUTOG_RESULT"
 msgid "{0} has been released"
-msgstr ""
+msgstr "{0}は解き放たれた"
 
 #| msgctxt "Geoscape/KEY_RECRUIT_SOLDIER_ABILITY_NAME"
 #| msgid "RECRUIT SOLDIER"
@@ -547,7 +547,7 @@ msgstr "車両を回収する"
 
 msgctxt "Danforth/KEY_MANUFACTURING_STORAGE_INSUFFICIENT"
 msgid "<color=#ECBA62> (insufficient storage space)</color>"
-msgstr ""
+msgstr "<color=#ECBA62> (倉庫の空きが足りません)</color>"
 
 #| msgctxt "Base Screen/KEY_BASE_PERSONNEL_GLOBAL"
 #| msgid "PERSONNEL"
