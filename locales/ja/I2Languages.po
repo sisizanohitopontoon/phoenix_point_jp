@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2020-06-13 15:06+0000\n"
+"PO-Revision-Date: 2020-06-15 13:10+0000\n"
 "Last-Translator: higema <ltdhyndsh@yahoo.co.jp>\n"
 "Language-Team: \n"
 "Language: ja\n"
@@ -659,12 +659,11 @@ msgctxt "Danforth/KEY_ASPIDA_SHIELDING_DESCRIPTION"
 msgid "Aspida Shielding"
 msgstr ""
 
-#, fuzzy
 #| msgctxt "Blood Titanium/KEY_SHIELD_BIONIC_NAME"
 #| msgid "SHIELD"
 msgctxt "Danforth/KEY_ASPIDA_SHIELDING_NAME"
 msgid "SHIELDING"
-msgstr "シールド"
+msgstr "シールディング"
 
 #| msgctxt "Equipment/KEY_SY_ASSAULT_LEGS_DESCRIPTION"
 #| msgid "Synedrion Assault Leg Armor"
@@ -812,58 +811,51 @@ msgctxt "Danforth/KEY_MESSAGE_NO_SPACE_INVENTORY"
 msgid "No space in inventory"
 msgstr "インベントリに空きがない"
 
-#, fuzzy
 #| msgctxt "Manufacture Screen/KEY_MANUFACTURE_RETURNED_RESOURCES"
 #| msgid "RETURNED RESOURCES"
 msgctxt "Darleth/KEY_TRADE_HAVEN"
 msgid "TRADE RESOURCES WITH {0}"
-msgstr "返ってくる資源"
+msgstr "{0}との資源トレード"
 
-#, fuzzy
 #| msgctxt "PH_Localization/KEY_GEOSCAPE_NO_RESOURCES"
 #| msgid "NOT ENOUGH RESOURCES"
 msgctxt "Darleth/KEY_TRADE_SELECT"
 msgid "SELECT HAVEN RESOURCE"
-msgstr "資源が足りない"
+msgstr "ヘイヴン側の資源を選択"
 
-#, fuzzy
 #| msgctxt "Geoscape/KEY_GEOSCAPE_COST"
 #| msgid "COST"
 msgctxt "Darleth/KEY_TRADE_COSTS"
 msgid "COSTS"
 msgstr "コスト"
 
-#, fuzzy
 #| msgctxt "Geoscape/KEY_AIRCRAFT_STATS_RANGE"
 #| msgid "RANGE"
 msgctxt "Darleth/KEY_TRADE_EXCHANGE"
 msgid "EXCHANGE"
-msgstr "航続距離"
+msgstr "拠出"
 
 msgctxt "Darleth/KEY_TRADE_FOR"
 msgid "FOR"
 msgstr ""
 
-#, fuzzy
 #| msgctxt "Tactical/KEY_TURNS_PHOENIX_FORCES"
 #| msgid "PHOENIX FORCES"
 msgctxt "Darleth/KEY_TRADE_PHOENIX"
 msgid "PHOENIX PROJECT RESOURCES"
-msgstr "フェニックス部隊"
+msgstr "フェニックスプロジェクトの資源"
 
-#, fuzzy
 #| msgctxt "Tactical/KEY_DAMAGE_DEALT_TWO"
 #| msgid "Damage {0} - {1}"
 msgctxt "Darleth/KEY_TRADE_NOTIFICATION"
 msgid "TRADE {0} FOR {1}"
-msgstr "ダメージ {0} - {1}"
+msgstr "{0}を{1}とトレードする"
 
-#, fuzzy
 #| msgctxt "PH_Localization/KEY_GEOSCAPE_NO_RESOURCES"
 #| msgid "NOT ENOUGH RESOURCES"
 msgctxt "Darleth/KEY_TRADE_INSUFFICIENT"
 msgid "NOT ENOUGH RESOURCES TO TRADE"
-msgstr "資源が足りない"
+msgstr "トレードするための資源が足りない"
 
 msgctxt "Blood Titanium/KEY_ITEM_TYPE_BIONIC"
 msgid "BIONIC"
@@ -1598,12 +1590,11 @@ msgctxt "Abilities/KEY_BERSERKER_TRAINING_NAME"
 msgid "BERSERKER TRAINING"
 msgstr "バーサーカートレーニング"
 
-#, fuzzy
 #| msgctxt "Abilities/KEY_BLOODLUST_DESCRIPTION"
 #| msgid "Damage and Speed are increased proportional to the health lost (up to +50%)"
 msgctxt "Abilities/KEY_BLOODLUST_DESCRIPTION"
 msgid "Damage and Speed are increased proportional to the hit points lost (up to +50%)"
-msgstr "失ったヘルスに比例してダメージと スピードが上昇する(最大で+50%)"
+msgstr "失ったヒットポイントに比例してダメージと スピードが上昇する(最大で+50%)"
 
 msgctxt "Abilities/KEY_BLOODLUST_NAME"
 msgid "BLOODLUST"
@@ -1697,7 +1688,6 @@ msgctxt "Abilities/KEY_EAGLE_EYED_NAME"
 msgid "EAGLE EYED"
 msgstr "イーグルアイ化"
 
-#, fuzzy
 #| msgctxt "Abilities/KEY_ELECTRIC_STRIKE_DESCRIPTION"
 #| msgid "Dazes target if shock value is greater than target's Hit Points"
 msgctxt "Abilities/KEY_ELECTRIC_STRIKE_DESCRIPTION"
@@ -1952,12 +1942,11 @@ msgctxt "Abilities/KEY_IGNORE_PAIN_NAME"
 msgid "IGNORE PAIN"
 msgstr "イグノア・ペイン"
 
-#, fuzzy
 #| msgctxt "Abilities/KEY_INFECTED_BLOOD_DESCRIPTION"
 #| msgid "Add 1 Virus Damage for each Health Point damage inflicted in melee"
 msgctxt "Abilities/KEY_INFECTED_BLOOD_DESCRIPTION"
 msgid "Add 1 Virus Damage for each Hit Point damage inflicted in melee"
-msgstr "近接攻撃で負わせたHPダメージ毎に1ウィルスダメージを追加する"
+msgstr "近接攻撃でHPダメージを負わせる毎に1ウィルスダメージを加える"
 
 msgctxt "Abilities/KEY_INFECTED_BLOOD_NAME"
 msgid "INFECTED BLOOD"
