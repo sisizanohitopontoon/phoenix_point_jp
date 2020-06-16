@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2020-06-16 12:24+0000\n"
+"PO-Revision-Date: 2020-06-16 12:29+0000\n"
 "Last-Translator: higema <ltdhyndsh@yahoo.co.jp>\n"
 "Language-Team: \n"
 "Language: ja\n"
@@ -723,7 +723,7 @@ msgstr "パンドラン・シタデルが発見され、ジオスケープ上に
 
 msgctxt "Danforth/KEY_MESSAGE_NO_SPACE_TO_RECRUIT"
 msgid "THERE IS NOT ENOUGH SPACE IN YOUR AIRCRAFT FOR THE NEW RECRUIT"
-msgstr ""
+msgstr "新たな補充兵を入れる航空機のスペースが足りない"
 
 #| msgctxt "Controls/KEY_CONTROLS_WARNING_CONFLICT_CONFIRMATION"
 #| msgid "Are you sure you want to reassign it for \"\"{0}\"\"?"
@@ -733,11 +733,11 @@ msgstr "{1}で{0}を雇用してよろしいですか？"
 
 msgctxt "Danforth/KEY_BASE_RECRUIT_DEPLOYMENT"
 msgid "{0} has been recruited and deployed to base {1}"
-msgstr ""
+msgstr "{0}が雇用され{1}基地に配備された。"
 
 msgctxt "Danforth/KEY_MISSION_RESCUE_SOLDIERS_BRIEFING_DESC"
 msgid "Take control of the independent soldiers and evacuate the site with them"
-msgstr ""
+msgstr "独立兵達の指揮権を確保し、彼らを連れてこの地点から退避する"
 
 #| msgctxt "Geoscape/KEY_RECRUIT_SOLDIER_ABILITY_NAME"
 #| msgid "RECRUIT SOLDIER"
@@ -747,7 +747,7 @@ msgstr "兵士救出"
 
 msgctxt "Danforth/KEY_MISSION_RESCUE_SOLDIERS_DEFEAT_DESC"
 msgid "Your squad was wiped out"
-msgstr ""
+msgstr "部隊は全滅した"
 
 #| msgctxt "Missions/KEY_MISSION_AMBUSH_DEFEAT_BRIEFING_NAME"
 #| msgid "ESCAPE FAILED!"
@@ -757,7 +757,7 @@ msgstr "救出失敗"
 
 msgctxt "Danforth/KEY_MISSION_RESCUE_SOLDIERS_VICTORY_DESC"
 msgid "All surviving soldiers and vehicles have been evacuated"
-msgstr ""
+msgstr "生き残った兵士および車両は全て退避した"
 
 #| msgctxt "Diplomacy and Factions/KEY_DIPLOMACY_LOCATE"
 #| msgid "LOCATE MISSION"
@@ -767,7 +767,7 @@ msgstr "救出ミッション終了"
 
 msgctxt "Danforth/KEY_MISSION_RECOVER_VEHICLE_BRIEFING_DESC"
 msgid "Take control of the vehicle located somewhere in the site and evacuate with it"
-msgstr ""
+msgstr "この場所のどこかに位置する車両のコントロールを確保し、車両を連れて退避する"
 
 #| msgctxt "Abilities/KEY_ENTER_VEHICLE_NAME"
 #| msgid "ENTER VEHICLE"
@@ -777,7 +777,7 @@ msgstr "車両回収"
 
 msgctxt "Danforth/KEY_MISSION_RECOVER_VEHICLE_DEFEAT_DESC"
 msgid "Your squad was wiped out"
-msgstr ""
+msgstr "部隊は全滅した"
 
 #| msgctxt "Missions/KEY_MISSION_AMBUSH_DEFEAT_BRIEFING_NAME"
 #| msgid "ESCAPE FAILED!"
@@ -787,11 +787,11 @@ msgstr "回収失敗"
 
 msgctxt "Danforth/KEY_MISSION_RECOVER_VEHICLE_VICTORY_DESC"
 msgid "All surviving soldiers and vehicles have been evacuated"
-msgstr ""
+msgstr "生き残った兵士および車両は全て退避した"
 
 msgctxt "Danforth/KEY_MISSION_RECOVER_VEHICLE_VICTORY_NAME"
 msgid "RECOVERY MISSION OVER"
-msgstr ""
+msgstr "回収ミッション終了"
 
 #| msgctxt "Abilities/KEY_LAUNCH_GRENADE_DESCRIPTION"
 #| msgid "Fire grenade at a target location"
@@ -5136,7 +5136,7 @@ msgstr "続けるには :A: を押してください"
 
 msgctxt "Xbox/KEY_CONSOLE_SWITCH_PROFILE"
 msgid "SWITCH PROFILE"
-msgstr ""
+msgstr "プロファイル切り替え"
 
 msgctxt "Objectives/KEY_OBJECTIVE_PROTECT_CIVILIANS"
 msgid "PROTECT ALL CIVILIANS [{0}/{1}]"
@@ -6860,7 +6860,7 @@ msgstr "バスティオン・イラズ"
 
 msgctxt "Backer Info/KEY_BCR7_MOTTO"
 msgid "Presidium Prepetua Aeternum Quaerere"
-msgstr ""
+msgstr "プレジディウム・プレペトゥア・アエテルヌム・クゥアエレレ"
 
 msgctxt "Backer Info/KEY_BCR7_LEADER"
 msgid "Fabio Mena"
@@ -6884,7 +6884,7 @@ msgstr "ジェノバ"
 
 msgctxt "Backer Info/KEY_BCR9_MOTTO"
 msgid "Inter Nos Nostra Lex"
-msgstr ""
+msgstr "インテル・ノス・ノストラ・レクス"
 
 msgctxt "Backer Info/KEY_BCR9_LEADER"
 msgid "Walter Ivan Toso"
