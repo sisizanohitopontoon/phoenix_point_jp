@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2020-06-23 12:33+0000\n"
+"PO-Revision-Date: 2020-06-23 12:37+0000\n"
 "Last-Translator: higema <ltdhyndsh@yahoo.co.jp>\n"
 "Language-Team: \n"
 "Language: ja\n"
@@ -723,7 +723,7 @@ msgstr "パンドラン・シタデルが発見され、ジオスケープ上に
 
 msgctxt "Danforth/KEY_MESSAGE_NO_SPACE_TO_RECRUIT"
 msgid "THERE IS NOT ENOUGH SPACE IN YOUR AIRCRAFT FOR THE NEW RECRUIT"
-msgstr "航空機のスペース不足で新たな補充兵を乗せられない"
+msgstr "航空機のスペース不足で新たな補充兵の搭乗不可"
 
 #| msgctxt "Controls/KEY_CONTROLS_WARNING_CONFLICT_CONFIRMATION"
 #| msgid "Are you sure you want to reassign it for \"\"{0}\"\"?"
@@ -9400,7 +9400,7 @@ msgstr "研究キュー"
 
 msgctxt "Base Screen/KEY_BASE_SELECT_BASE"
 msgid "SELECT ANOTHER BASE"
-msgstr "別の基地を選択"
+msgstr "他の基地を選択"
 
 msgctxt "Base Screen/KEY_BASE_STORES"
 msgid "STORES"
