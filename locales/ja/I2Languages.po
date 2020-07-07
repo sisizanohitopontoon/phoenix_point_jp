@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2020-07-07 11:44+0000\n"
+"PO-Revision-Date: 2020-07-07 11:46+0000\n"
 "Last-Translator: higema <ltdhyndsh@yahoo.co.jp>\n"
 "Language-Team: \n"
 "Language: ja\n"
@@ -4552,7 +4552,7 @@ msgid ""
 "actions.[LF]PARALYSIS: Action Points are reduced by the proportion of paralysis value to Strength.[LF]DAZED: Action Points reduced to 1 and accuracy halved. Abilities requiring Will Points cannot be"
 " used.[LF]OVERWATCH: Enemies entering the overwatch cone will trigger an attack.[LF]SONIC: Dazes the target is the target's Will Points are less than the amount of Sonic Damage"
 msgstr ""
-"ステータス効果はキャラクター全体に、もしくは特定の部位に適用される。[LF][LF]ユニットのステータス効果はキャラクターの頭上にあるヘルスメーター上で確認できる一方、部位ステータスはキャラクター情報画面からしか確認できない。唯一の例外は部位の負傷または使用不能で、ヘルスメーターの左にあるダメージディスプレイ上に表示される。[LF][LF]ステータス効果概略[LF]酸:酸はターン毎に酸値分のアーマーを腐食する。アーマーが残っていない場合、該当部位にダメージが適用される。酸値はターン毎に10減少する。[LF]出血:毎ターン、出血値と同値のHPが失われる。[LF]燃焼:ターン開始時、それぞれの部位に対してアーマー値を差し引いたぶんの火炎ダメージが適用される。[LF]激昂:スピードが50％増加し、パニックを無効化する。[LF]粘液付着:粘液が朽ちるか取り除かれるまで、移動不能。[LF]ウィルス感染:ターン開始時にウィルス値分のWPが減少し、その後ウィルス値が1減少する。[LF]パニック:WPをリカバーする間、1ターンの間移動不可。[LF]毒:ターン開始時に毒の値だけHPが減少し、その後毒値は10減少する。[LF]準備状態:(パンドランのセンチネルとエッグのみ)次ターンでスペシャルアビリティを実行するための準備状態。[LF]バーサーク:(ミュートッグのみ)ミュートッグが野生化し、敵味方を攻撃する。[LF]激怒:(ミュートッグのみ)与ダメージとスピードが50％上昇する。毎ターン開始時に10％の確率で、ミュートッグがバーサーク状態に移行。[LF]警戒:(敵のみ)敵がこちらの存在に気付いている。[LF]疲労:(低下したスタミナで戦闘に入ると発生)アクションポイント-1。[LF]消耗:(低下したスタミナで戦闘に入ると発生)アクションポイント-2。[LF]完全麻痺:移動もいかなるアクションも行えない。[LF]麻痺:ストレングスに対する麻痺値の割合毎にアクションポイントが減少する。[LF]放心:アクションポイントが1に低下し、命中精度が半減する。[LF]監視:監視範囲に敵が侵入すると攻撃が発動する。"
+"ステータス効果はキャラクター全体に、もしくは特定の部位に適用される。[LF][LF]ユニットのステータス効果はキャラクターの頭上にあるヘルスメーター上で確認できる一方、部位ステータスはキャラクター情報画面からしか確認できない。唯一の例外は部位の負傷または使用不能で、ヘルスメーターの左にあるダメージディスプレイ上に表示される。[LF][LF]ステータス効果概略[LF]酸:酸はターン毎に酸値分のアーマーを腐食する。アーマーが残っていない場合、該当部位にダメージが適用される。酸値はターン毎に10減少する。[LF]出血:毎ターン、出血値と同値のHPが失われる。[LF]燃焼:ターン開始時、それぞれの部位に対してアーマー値を差し引いた火炎ダメージが適用される。[LF]激昂:スピードが50％増加し、パニックを無効化する。[LF]粘液付着:粘液が朽ちるか取り除かれるまで、移動不能。[LF]ウィルス感染:ターン開始時にウィルス値分のWPが減少し、その後ウィルス値が1減少する。[LF]パニック:WPをリカバーする間、1ターンの間移動不可。[LF]毒:ターン開始時に毒の値だけHPが減少し、その後毒値は10減少する。[LF]準備状態:(パンドランのセンチネルとエッグのみ)次ターンでスペシャルアビリティを実行するための準備状態。[LF]バーサーク:(ミュートッグのみ)ミュートッグが野生化し、敵味方を攻撃する。[LF]激怒:(ミュートッグのみ)与ダメージとスピードが50％上昇する。毎ターン開始時に10％の確率で、ミュートッグがバーサーク状態に移行。[LF]警戒:(敵のみ)敵がこちらの存在に気付いている。[LF]疲労:(低下したスタミナで戦闘に入ると発生)アクションポイント-1。[LF]消耗:(低下したスタミナで戦闘に入ると発生)アクションポイント-2。[LF]完全麻痺:移動もいかなるアクションも行えない。[LF]麻痺:ストレングスに対する麻痺値の割合毎にアクションポイントが減少する。[LF]放心:アクションポイントが1に低下し、命中精度が半減する。[LF]監視:監視範囲に敵が侵入すると攻撃が発動する。"
 
 msgctxt "Phoenixpedia/KEY_PHOENIXPEDIA_GUIDE_HAVENS_NAME"
 msgid "Advanced: Havens"
@@ -9512,7 +9512,7 @@ msgstr "アクセスリフトを撤去すると、敵による基地襲撃の間
 
 msgctxt "Base Screen/KEY_BASE_WARNING_STORES"
 msgid "Destroying the stores will decrease the amount of storage space you have. Items in excess will be discarded as a result. Are you sure you want to proceed?"
-msgstr "倉庫を撤去すると倉庫容量が減少します。結果的に容量を超過したぶんのアイテムは、廃棄されます。本当に続行しますか?"
+msgstr "倉庫を撤去すると倉庫容量が減少します。結果的に、容量を超過したアイテムは廃棄されます。本当に続行しますか?"
 
 msgctxt "Base Screen/KEY_BASE_WARNING_LIVING_QUARTERS"
 msgid "Destroying the Living Quarters will decrease the amount of personnel space you have. Are you sure you want to proceed?"
@@ -9540,7 +9540,7 @@ msgstr "ミスト・リペラーを撤去すると、基地周囲のミスト形
 
 msgctxt "Base Screen/KEY_BASE_WARNING_ALIEN_CONTAINMENT"
 msgid "Destroying the Containment Facility will decrease the amount of containment slots you have. All captured Pandorans in excess will be killed off. Are you sure you want to proceed?"
-msgstr "収容施設を破壊すると、確保中の収容スロット数が減少します。スロットを超過したぶんのパンドランは全て殺処分されます。本当に続行しますか？"
+msgstr "収容施設を破壊すると、確保中の収容スロット数が減少します。スロットを超過したパンドランは全て殺処分されます。本当に続行しますか？"
 
 msgctxt "Base Screen/KEY_BASE_WARNING_MUTATION_LAB"
 msgid "Destroying the Mutation Lab will decrease the amount of Mutagens you produce per day. At least one Mutation Lab is required to enhance your soldiers. Are you sure you want to proceed?"
