@@ -358,21 +358,61 @@ msgctxt "PH_Localization/KEY_OK"
 msgid "OK"
 msgstr "好的"
 
+msgctxt "Cthulhu/KEY_BASE_PROMPT_HARVEST_ALIEN_FOR_FOOD"
+msgid "Are you sure you want to kill the Pandoran {0} for food? If you do the creature will be killed and :Resources: Supplies:  {1} will be added to your reserves."
+msgstr "[null]"
+
+msgctxt "Cthulhu/KEY_BASE_PROMPT_HARVEST_ALIEN_FOR_MUTAGENS"
+msgid "Are you sure you want to kill the Pandoran {0} for mutagens? If you do the creature will be killed and :Resources: Mutagens: {1} will be added to your reserves."
+msgstr "[null]"
+
+msgctxt "Cthulhu/KEY_BASE_PROMPT_KILL_CAPTURED_ALIEN"
+msgid "Are you sure you want to kill the Pandoran {0}?"
+msgstr "[null]"
+
+msgctxt "Cthulhu/KEY_BASE_PROMPT_HARVEST_ALIEN_FOR_FOOD_RESULT"
+msgid "{0} has been killed. {1} food has been added to reserves."
+msgstr "[null]"
+
+msgctxt "Cthulhu/KEY_BASE_PROMPT_HARVEST_ALIEN_FOR_MUTAGENS_RESULT"
+msgid "{0} has been killed. {1} mutagens have been added to reserves."
+msgstr "[null]"
+
+msgctxt "Cthulhu/KEY_BASE_PROMPT_KILL_CAPTURED_ALIEN_RESULT"
+msgid "{0} has been killed."
+msgstr "[null]"
+
+msgctxt "Cthulhu/KEY_TUTORIAL_BASE_ACTIVATION_NAME"
+msgid "Base Activation"
+msgstr "[null]"
+
+msgctxt "Cthulhu/KEY_TUTORIAL_BASE_ACTIVATION_DESCRIPTION"
+msgid "After analyzing the Phoenix Archives data banks, it has become clear that Phoenix Point is the only operational Phoenix Base.[LF]Fortunately we were able to find the locations of 31 additional bases throughout the globe, some of which could be remotely reactivated. The decision which bases to activate is vital since it will determine how the Phoenix Initiative progresses.[LF]Damaged facilities will have to be additionally repaired after activation."
+msgstr "[null]"
+
+msgctxt "Cthulhu/KEY_TUTORIAL_BASE_ACTIVATION_DESCRIPTION_ADD"
+msgid "Bases available for activation will be visualized with this symbol."
+msgstr "[null]"
+
+msgctxt "Cthulhu/KEY_ALIEN_BASE_DISCOVERED"
+msgid "PANDORAN BASE DETECTED"
+msgstr "[null]"
+
 msgctxt "Danforth/KEY_OBJECTIVE_PICK_RESOURCES"
 msgid "RESOURCE PACKS COLLECTED: {0}/{1}"
-msgstr "资源包集：{0} / {1}"
+msgstr "收集资源包：{0}/{1}"
 
 msgctxt "Danforth/KEY_RESOURCE_FOOD_NAME"
 msgid "FOOD PACK"
-msgstr "食品礼包"
+msgstr "食物包"
 
 msgctxt "Danforth/KEY_RESOURCE_FOOD_DESCRIPTION"
 msgid "Concentrated nutrient portions"
-msgstr "浓缩营养部分"
+msgstr "浓缩的营养口粮"
 
 msgctxt "Danforth/KEY_RESOURCE_MATERIALS_NAME"
 msgid "MATERIAL PACK"
-msgstr "材料包装"
+msgstr "材料包"
 
 msgctxt "Danforth/KEY_RESOURCE_MATERIALS_DESCRIPTION"
 msgid "Construction materials"
@@ -380,19 +420,19 @@ msgstr "建筑材料"
 
 msgctxt "Danforth/KEY_RESOURCE_MUTAGENS_NAME"
 msgid "MUTAGEN PACK"
-msgstr "诱变包"
+msgstr "突变原包"
 
 msgctxt "Danforth/KEY_RESOURCE_MUTAGENS_DESCRIPTION"
 msgid "A capsule of active Pandoran mutagens."
-msgstr "活性潘多拉星球诱变剂的胶囊。"
+msgstr "一颗活性潘多拉体突变原胶囊。"
 
 msgctxt "Danforth/KEY_RESOURCE_TECH_NAME"
 msgid "TECH PACK"
-msgstr "技术包"
+msgstr "科技包"
 
 msgctxt "Danforth/KEY_RESOURCE_TECH_DESCRIPTION"
 msgid "High tech construction components"
-msgstr "高科技建筑构件"
+msgstr "高科技结构元件"
 
 msgctxt "Danforth/KEY_OBJECTIVE_RESCUE_ALLY"
 msgid "#RESCUE ALLIES: {0}/{1}"
@@ -404,75 +444,75 @@ msgstr "回收车"
 
 msgctxt "Danforth/KEY_LOAD_INVALID_TACTICAL"
 msgid "This in-battle save is not compatible with the current version of the game. The game will revert the Geoscape just prior to the mission."
-msgstr "这-战斗保存是不符合游戏的当前版本兼容。本场比赛将恢复世界地图只是之前的使命。"
+msgstr "此战斗存档与游戏当前版本不兼容。游戏将恢复至执行此任务前的世界地图状态。"
 
 msgctxt "Danforth/KEY_BASE_RECRUITS_SPAWNED"
 msgid "New recruits available."
-msgstr "新聘人员提供。"
+msgstr "新成员可用。"
 
 msgctxt "Danforth/KEY_BASE_RECRUITS_ROSTER_NAME"
 msgid "RECRUITS"
-msgstr "新兵"
+msgstr "新成员"
 
 msgctxt "Danforth/KEY_BASE_RECRUITS_ROSTER_DESCRIPTION"
 msgid "All volunteers available for recruiting at your base"
-msgstr "在你的基地可供招募的志愿者"
+msgstr "可在基地招募的所有志愿者"
 
 msgctxt "Danforth/KEY_BASE_RECRUITS_ABILITIES"
 msgid "ABILITIES"
-msgstr "能力"
+msgstr "技能"
 
 msgctxt "Danforth/KEY_BASE_RECRUITS_DEPLOYMENT"
 msgid "RECRUIT DEPLOYMENT"
-msgstr "招募发展"
+msgstr "新成员部署"
 
 msgctxt "Danforth/KEY_BASE_STATUS_RECRUITING_NORMAL"
 msgid "ONLINE"
-msgstr "线上"
+msgstr "在线"
 
 msgctxt "Danforth/KEY_BASE_STATUS_RECRUITING_ATTACK"
 msgid "INCOMING ATTACK"
-msgstr "进入攻击"
+msgstr "即将来袭"
 
 msgctxt "Danforth/KEY_BASE_RECRUITS_AVAILABLE"
 msgid "RECRUITS AVAILABLE IN {0} DAYS"
-msgstr "新兵{0}天内发布"
+msgstr "新成员于 {0} 天后可用"
 
 msgctxt "Danforth/KEY_BASE_RECRUITS_RECRUIT_ACTION"
 msgid "RECRUIT"
-msgstr "招"
+msgstr "招募"
 
 msgctxt "Danforth/KEY_BASE_DISMISS_PERSON"
 msgid "Dismiss soldier, removing them from the Phoenix Project. All equipment will be put in storage."
-msgstr "解雇士兵，从凤凰计划移除。所有的设备将被入库。"
+msgstr "遣散士兵，将其请出凤凰计划。所有装备都将放回仓库。"
 
 msgctxt "Danforth/KEY_BASE_DISMISS_PERSON_PROMPT"
 msgid "Are you sure you want to dismiss {0}? If you do their equipment will be placed in storage."
-msgstr "你确定你要辞退{0}？如果你做他们的设备将被放置在存储。"
+msgstr "确定要遣散{0}吗？确认操作后，被遣散士兵的所有装备都将放回仓库。"
 
 msgctxt "Danforth/KEY_BASE_DISMISS_PERSON_RESULT"
 msgid "{0} has been dismissed."
-msgstr "{0}已被驳回。"
+msgstr "{0}已被遣散。"
 
 msgctxt "Danforth/KEY_BASE_DISMISS_VEHICLE"
 msgid "Remove vehicle from the Phoenix Project"
-msgstr "从凤凰城项目中删除车辆"
+msgstr "从凤凰计划移除载具"
 
 msgctxt "Danforth/KEY_BASE_DISMISS_VEHICLE_PROMPT"
 msgid "Are you sure you want to remove {0}?"
-msgstr "你确定要删除{0}？"
+msgstr "确定要移除{0}吗？"
 
 msgctxt "Danforth/KEY_BASE_DISMISS_VEHICLE_RESULT"
 msgid "{0} has been abandoned"
-msgstr "{0}已被放弃"
+msgstr "{0}已被废弃"
 
 msgctxt "Danforth/KEY_BASE_DISMISS_MUTOG"
 msgid "Release Mutog, removing it from the Phoenix Project"
-msgstr "释放变异犬，从凤凰城项目中移除"
+msgstr "释放变异犬，将其移除凤凰计划"
 
 msgctxt "Danforth/KEY_BASE_DISMISS_MUTOG_PROMPT"
 msgid "Are you sure you want to release {0}?"
-msgstr "你确定你要释放{0}？"
+msgstr "确定要释放{0}吗？"
 
 msgctxt "Danforth/KEY_BASE_DISMISS_MUTOG_RESULT"
 msgid "{0} has been released"
@@ -480,11 +520,11 @@ msgstr "{0}已被释放"
 
 msgctxt "Danforth/KEY_OBJECTIVE_GET_SOLDIERS"
 msgid "RESCUE SOLDIERS: {0}/{1}"
-msgstr "救援士兵：{0} / {1}"
+msgstr "营救士兵：{0}/{1}"
 
 msgctxt "Danforth/KEY_OBJECTIVE_GET_VEHICLE"
 msgid "RECOVER VEHICLE"
-msgstr "恢复车辆"
+msgstr "回收载具"
 
 msgctxt "Danforth/KEY_MANUFACTURING_STORAGE_INSUFFICIENT"
 msgid "<color=#ECBA62> (insufficient storage space)</color>"
@@ -496,19 +536,19 @@ msgstr "新进人员"
 
 msgctxt "Danforth/KEY_MESSAGE_HAVEN_LEADER_DOESNT_TRADE"
 msgid "Diplomatic relations with the Haven are too low. The Heaven leader refuses to trade with you."
-msgstr "与金丰外交关系太低。天堂领袖拒绝与你们进行交易。"
+msgstr "与避难所外交关系过低。避难所领袖拒绝与你交易。"
 
 msgctxt "Danforth/KEY_MESSAGE_SITE_UNREACHABLE"
 msgid "The location is too far away to be reached directly."
-msgstr "该位置是太远可直接到达。"
+msgstr "该地点过远，无法直接到达。"
 
 msgctxt "Danforth/KEY_MESSAGE_NOT_ENOUGH_RESOURCES"
 msgid "You do not have enough resources to perform this action."
-msgstr "您没有足够的资源来执行此操作。"
+msgstr "资源不足，无法执行此行动。"
 
 msgctxt "Danforth/KEY_MISSION_RAID_RESOURCES_SITE_BRIEFING_DESCRIPTION"
 msgid "Search the crates and obtain as many resource packs as possible."
-msgstr "搜索包装箱，并获得尽可能多的资源包越好。"
+msgstr "搜索箱子，获取尽可能多的资源包。"
 
 msgctxt "Danforth/KEY_MISSION_RAID_RESOURCES_SITE_BRIEFING_NAME"
 msgid "RESOURCE RAID"
@@ -516,7 +556,7 @@ msgstr "资源突袭"
 
 msgctxt "Danforth/KEY_MISSION_RAID_RESOURCES_SITE_DEFEAT_DESCRIPTION"
 msgid "Your entire team has been wiped out. No resources were claimed."
-msgstr "你的整个团队已经被消灭了。没有资源被宣称。"
+msgstr "你的整支小队全军覆没。未获得任何资源。"
 
 msgctxt "Danforth/KEY_MISSION_RAID_RESOURCES_SITE_DEFEAT_NAME"
 msgid "RESOURCE RAID FAILED"
@@ -524,7 +564,7 @@ msgstr "资源突袭失败"
 
 msgctxt "Danforth/KEY_MISSION_RAID_RESOURCES_SITE_VICTORY_DESCRIPTION"
 msgid "Your team was successfully evacuated. All resources obtained from the mission are added to your resource pool."
-msgstr "你的团队被成功疏散。从任务获得的所有资源都添加到您的资源池。"
+msgstr "小队已成功撤离。从任务中获得的所有资源将添加至资源库。"
 
 msgctxt "Danforth/KEY_MISSION_RAID_RESOURCES_SITE_VICTORY_NAME"
 msgid "RESOURCE RAID SUCCESSFUL"
@@ -532,31 +572,31 @@ msgstr "资源突袭成功"
 
 msgctxt "Danforth/KEY_MISSION_RAID_RESOURCES_SITE_WARNING"
 msgid "Warning! Resource Raid missions are much more dangerous if within a mist zone."
-msgstr "警告！资源空袭任务是雾区域内，如果要危险得多。"
+msgstr "警告！在迷雾区域内执行资源突袭任务的风险极大。"
 
 msgctxt "Danforth/KEY_MISSION_RAID_RESOURCES_SITE_WARNING_DESCRIPTION"
 msgid "Be aware you will be facing a continuous stream of local reinforcements. Collect as much equipment and resources as you can from the crates and exit the site from an evacuation zone."
-msgstr "要知道你将面临当地增援的连续流。收集尽可能多的设备和资源，你可以从包装箱从疏散区离开现场。"
+msgstr "你将面对源源不断的增援部队。从箱子中收集尽可能多的装备和资源，然后从撤离区域离开。"
 
 msgctxt "Danforth/KEY_STATUS_REPAIR_TIME"
 msgid "{0:f0}h to repair"
-msgstr "{0：F0} h至修"
+msgstr "{0:f0} 小时后修复"
 
 msgctxt "Danforth/KEY_STATUS_AI_CONTROLLED_NAME"
 msgid "AUTONOMOUS"
-msgstr "自主性"
+msgstr "自主"
 
 msgctxt "Danforth/KEY_STATUS_AI_CONTROLLED_DESCRIPTION"
 msgid "Reverted to autonomous AI control"
-msgstr "恢复到自主AI控制"
+msgstr "恢复为自主 AI 控制"
 
 msgctxt "Danforth/KEY_WARNING_CONTINUOUS_ATTACK"
-msgid "CONTINIOUS ATTACK"
-msgstr "不断攻击"
+msgid "CONTINUOUS ATTACK"
+msgstr "持续攻击"
 
 msgctxt "Danforth/KEY_CONTINUOUS_ATTACK_DESCRIPTION"
 msgid "Enemy reinforcements will arrive continuously from areas marked with this symbol"
-msgstr "敌方增援将带有此标志的领域不断到货"
+msgstr "敌方增援部队将不断地从该符号标记区域抵达战场"
 
 msgctxt "Danforth/KEY_SCARAB_TIRE_DESCRIPTION"
 msgid "Scarab caterpillar track"
@@ -564,39 +604,39 @@ msgstr "圣甲虫履带"
 
 msgctxt "Danforth/KEY_SCARAB_TIRE_NAME"
 msgid "TRACK"
-msgstr "跟踪"
+msgstr "履带"
 
 msgctxt "Danforth/KEY_ASPIDA_ENGINE_DESCRIPTION"
 msgid "Aspida ground effect thruster"
-msgstr "悬浮车地面效应推进器"
+msgstr "悬浮车地效推进器"
 
 msgctxt "Danforth/KEY_ASPIDA_ENGINE_NAME"
 msgid "THRUSTER"
-msgstr "推力"
+msgstr "推进器"
 
 msgctxt "Danforth/KEY_ASPIDA_HULL_DESCRIPTION"
 msgid "Aspida hull"
-msgstr "悬浮车船体"
+msgstr "悬浮车车体"
 
 msgctxt "Danforth/KEY_ASPIDA_HULL_NAME"
 msgid "HULL"
-msgstr "船壳"
+msgstr "车体"
 
 msgctxt "Danforth/KEY_ASPIDA_SHIELDING_DESCRIPTION"
 msgid "Aspida Shielding"
-msgstr "悬浮车屏蔽"
+msgstr "悬浮车护盾"
 
 msgctxt "Danforth/KEY_ASPIDA_SHIELDING_NAME"
 msgid "SHIELDING"
-msgstr "屏蔽"
+msgstr "护盾"
 
 msgctxt "Danforth/KEY_ASPIDA_ARM_DESCRIPTION"
 msgid "Synedrion Aspida Tech Arm"
-msgstr "悬浮车技术臂"
+msgstr "平衡议会悬浮车机械臂"
 
 msgctxt "Danforth/KEY_ASPIDA_ARM_NAME"
 msgid "TECH ARM"
-msgstr "高科技手臂"
+msgstr "机械臂"
 
 msgctxt "Danforth/KEY_BASE_ACTIVATE_NAME"
 msgid "ACTIVATE BASE"
@@ -604,7 +644,7 @@ msgstr "激活基地"
 
 msgctxt "Danforth/KEY_BASE_ACTIVATE_DESCRIPTION"
 msgid "Activate Phoenix Base remotely, rendering it operational."
-msgstr "凤凰激活远程基地，使其正常运行。"
+msgstr "远程激活凤凰基地，使其开始运作。"
 
 msgctxt "Danforth/KEY_BASE_ACTIVATE_CONFIRM_NAME"
 msgid "PHOENIX ACTIVATION PROTOCOL"
@@ -612,51 +652,51 @@ msgstr "凤凰激活协议"
 
 msgctxt "Danforth/KEY_BASE_ACTIVATE_CONFIRM_DESCRIPTION"
 msgid "Initiating the activation protocols will consume resources to make the base operational. Any damaged facilities will need to be repaired."
-msgstr "发起激活协议会消耗资源，使所述基本操作。任何损坏的设施需要进行维修。"
+msgstr "启动激活协议将消耗资源以使基地开始运作。所有损坏的设施都需要修理。"
 
 msgctxt "Danforth/KEY_BASE_ACTIVATE_NOTIFICATION_RESOURCES"
 msgid "You do not have the enough resources to activate the base"
-msgstr "您没有足够的资源来激活底部"
+msgstr "资源不足，无法激活此基地"
 
 msgctxt "Danforth/KEY_BASE_ACTIVATE_NOTIFICATION_LIMIT"
 msgid "You have reached the operational limit for Phoenix Bases. No more bases can be activated."
-msgstr "您已经达到了菲尼克斯基地的运行极限。没有更多的基地可以被激活。"
+msgstr "你已经达到凤凰基地操作限制。无法激活更多的基地。"
 
 msgctxt "Danforth/KEY_BASE_ACTIVATE_NOTIFICATION_ACTIVATED"
 msgid "Phoenix Base is already operational."
-msgstr "凤凰基地已经开始运营。"
+msgstr "凤凰基地已开始运作。"
 
 msgctxt "Danforth/KEY_GEOSCAPE_PANDORAN_NEST_DISCOVERED"
 msgid "A Pandoran Nest has been discovered and revealed on the Geoscape."
-msgstr "一个潘多拉星球鸟巢已经发现并在世界地图透露。"
+msgstr "发现潘多拉巢穴，将在世界地图上显示。"
 
 msgctxt "Danforth/KEY_GEOSCAPE_PANDORAN_LAIR_DISCOVERED"
 msgid "A Pandoran Lair has been discovered and revealed on the Geoscape."
-msgstr "一个潘多拉星球巢穴已经发现并在世界地图透露。"
+msgstr "发现潘多拉大巢穴，将在世界地图上显示。"
 
 msgctxt "Danforth/KEY_GEOSCAPE_PANDORAN_CITADEL_DISCOVERED"
 msgid "A Pandoran Citadel has been discovered and revealed on the Geoscape."
-msgstr "一个潘多拉星球堡垒已经发现并在世界地图透露。"
+msgstr "发现潘多拉城堡，将在世界地图上显示。"
 
 msgctxt "Danforth/KEY_MESSAGE_NO_SPACE_TO_RECRUIT"
 msgid "THERE IS NOT ENOUGH SPACE IN YOUR AIRCRAFT FOR THE NEW RECRUIT"
-msgstr "没有足够的空间，在你飞机招新"
+msgstr "你的飞行器没有足够的空间来容纳新成员"
 
 msgctxt "Danforth/KEY_BASE_RECRUIT_CONFIRMATION"
 msgid "Are you sure you want to recruit {0} for {1}?"
-msgstr "你确定你想要招募{0} {1}？"
+msgstr "确定要为{1}招募{0}吗？"
 
 msgctxt "Danforth/KEY_BASE_RECRUIT_DEPLOYMENT"
 msgid "{0} has been recruited and deployed to base {1}"
-msgstr "{0}被招募并部署到基{1}"
+msgstr "已招募{0}，并将其部署至{1}基地"
 
 msgctxt "Danforth/KEY_MISSION_RESCUE_SOLDIERS_BRIEFING_DESC"
 msgid "Take control of the independent soldiers and evacuate the site with them"
-msgstr "以独立士兵控制，并与他们撤离现场"
+msgstr "控制独立士兵，与他们一起撤离此处"
 
 msgctxt "Danforth/KEY_MISSION_RESCUE_SOLDIERS_BRIEFING_NAME"
 msgid "RESCUE SOLDIERS"
-msgstr "救援士兵"
+msgstr "营救士兵"
 
 msgctxt "Danforth/KEY_MISSION_RESCUE_SOLDIERS_DEFEAT_DESC"
 msgid "Your squad was wiped out"
@@ -664,23 +704,23 @@ msgstr "你的小队全军覆没"
 
 msgctxt "Danforth/KEY_MISSION_RESCUE_SOLDIERS_DEFEAT_NAME"
 msgid "RESCUE FAILED"
-msgstr "救援失败"
+msgstr "营救失败"
 
 msgctxt "Danforth/KEY_MISSION_RESCUE_SOLDIERS_VICTORY_DESC"
 msgid "All surviving soldiers and vehicles have been evacuated"
-msgstr "所有幸存的士兵和车辆已被疏散"
+msgstr "所有幸存的士兵和载具都已撤离"
 
 msgctxt "Danforth/KEY_MISSION_RESCUE_SOLDIERS_VICTORY_NAME"
 msgid "RESCUE MISSION OVER"
-msgstr "救援任务了"
+msgstr "营救任务结束"
 
 msgctxt "Danforth/KEY_MISSION_RECOVER_VEHICLE_BRIEFING_DESC"
 msgid "Take control of the vehicle located somewhere in the site and evacuate with it"
-msgstr "您可以在网站上的车辆所在的地方，并撤出它的控制"
+msgstr "控制位于此处某个地方的车辆，并与其一同撤离"
 
 msgctxt "Danforth/KEY_MISSION_RECOVER_VEHICLE_BRIEFING_NAME"
 msgid "RECOVER VEHICLE"
-msgstr "恢复车辆"
+msgstr "回收载具"
 
 msgctxt "Danforth/KEY_MISSION_RECOVER_VEHICLE_DEFEAT_DESC"
 msgid "Your squad was wiped out"
@@ -688,19 +728,19 @@ msgstr "你的小队全军覆没"
 
 msgctxt "Danforth/KEY_MISSION_RECOVER_VEHICLE_DEFEAT_NAME"
 msgid "RECOVERY FAILED"
-msgstr "恢复失败"
+msgstr "回收失败"
 
 msgctxt "Danforth/KEY_MISSION_RECOVER_VEHICLE_VICTORY_DESC"
 msgid "All surviving soldiers and vehicles have been evacuated"
-msgstr "所有幸存的士兵和车辆已被疏散"
+msgstr "所有幸存的士兵和载具都已撤离"
 
 msgctxt "Danforth/KEY_MISSION_RECOVER_VEHICLE_VICTORY_NAME"
 msgid "RECOVERY MISSION OVER"
-msgstr "恢复任务了"
+msgstr "回收任务结束"
 
 msgctxt "Danforth/KEY_LAUNCH_LASER_DESCRIPTION"
 msgid "Fire laser at target location."
-msgstr "在目标位置消防激光。"
+msgstr "向目标地点发射激光。"
 
 msgctxt "Danforth/KEY_LAUNCH_LASER_NAME"
 msgid "LASER SHOT"
@@ -708,7 +748,7 @@ msgstr "激光射击"
 
 msgctxt "Danforth/KEY_MESSAGE_NO_SPACE_INVENTORY"
 msgid "No space in inventory"
-msgstr "在库存没有足够的空间"
+msgstr "物品栏空间不足"
 
 msgctxt "Darleth/KEY_TRADE_HAVEN"
 msgid "TRADE RESOURCES WITH {0}"
@@ -1412,7 +1452,7 @@ msgstr "仓库空间不足。请建造更多仓库设施。"
 
 msgctxt "Blood Titanium/KEY_LOAD_DLC_REQUIRED"
 msgid "The following Downloadable Content is required to load this saved game: {0}[LF][LF]Do you want to go to the store and buy them?"
-msgstr "加载此游戏存档需要以下可下载内容：{0}[LF] [LF] 是否要前往商店购买？"
+msgstr "加载此游戏存档需要以下可下载内容：{0}[LF][LF] 是否要前往商店购买？"
 
 msgctxt "Blood Titanium/KEY_TIMED_MISSION_COUNTER"
 msgid "{Objective} (ends in {time})"
@@ -2716,11 +2756,11 @@ msgstr "快速使用"
 
 msgctxt "Abilities/KEY_TECHNICIAN_MANUAL_CONTROL_DESCRIPTION"
 msgid "Use 1 AP and 3 WPs to take control of a turret or vehicle weapon and shoot at a target. "
-msgstr "手动控制炮台或载具武器并向目标射击"
+msgstr "花费 1 点行动点数和 3 点意志力点数，控制炮台或载具武器向目标射击。"
 
 msgctxt "Abilities/KEY_TECHNICIAN_MANUAL_CONTROL_NAME"
 msgid "REMOTE CONTROL"
-msgstr "手动控制"
+msgstr "远程控制"
 
 msgctxt "Abilities/KEY_TECHNICIAN_FIELD_MEDIC_DESCRIPTION"
 msgid "Restore 10 Hit Points and 10 Armor to all body parts of the selected target. Disabled body parts are restored."
@@ -3256,7 +3296,7 @@ msgstr "酸蚀"
 
 msgctxt "Damage types/KEY_DAMAGE_TYPE_ACID_DESC"
 msgid "ACID damage sticks to individual body parts - each turn it applies damage to armor first, then body. Acid levels reduce by 10 each turn."
-msgstr "酸蚀伤害会附着于躯体的各个部位 - 每回合造成 10 点伤害 - 先伤害护甲，然后伤害身体。酸蚀等级每回合会减少 10。"
+msgstr "酸蚀伤害会附着于躯体的各个部位，每回合先损伤护甲，护甲耗尽后才会伤害身体。酸蚀等级每回合会减少 10。"
 
 msgctxt "Damage types/KEY_DAMAGE_TYPE_IMPACT"
 msgid "IMPACT"
@@ -3703,7 +3743,7 @@ msgid "Satellite Uplink"
 msgstr "卫星上行系统"
 
 msgctxt "Tutorial/KEY_TUTORIAL_SATELLITE_DESCRIPTION"
-msgid "Satellite Uplinks allow Area Scans to be initiated, revealing new sites of interest. The more Uplinks there are available, the more simultaneous scans can be performed.[LF][LF]An Area Scan can only performed by an aircraft, centred on its location. The scanning zone will expand over time, revealing new sites.[LF][LF]PERFORM AN AREA SCAN[LF]:LMB: on the Scan Area button, or select it with the gamepad cursor using :LTS: and press :A:."
+msgid "Satellite Uplinks allow Area Scans to be initiated from the base, revealing new sites of interest and providing constant information of changes in the area.[LF][LF]An Area Scan can only performed from a base. Once initiated the scanning zone will expand over time until it reaches its maximum range or is halted.[LF][LF]PERFORM AN AREA SCAN[LF]:LMB: on the Scan Area button, or select it with the gamepad cursor using :LTS: and press :A:."
 msgstr "卫星上行系统可以启动区域扫描从而发现新的兴趣点。可用的上行系统越多，可同步进行的扫描就越多。[LF][LF]只有飞行器能够以自身所在位置为中心进行扫描。随着时间的推移，扫描区域会逐渐扩大，新的地点会不断出现。[LF][LF]进行区域扫描[LF]用 :LMB: 点选“扫描区域”按钮，或用手柄 :LTS: 移动光标选中后按 :A:."
 
 msgctxt "Tutorial/KEY_TUTORIAL_MIST_NAME"
@@ -3800,7 +3840,7 @@ msgstr "一名士兵用完行动点数之后便会进入预备模式，并且会
 
 msgctxt "Tutorial/KEY_TUTORIAL_TACTICAL1_STANDBY_DESCRIPTION_BIND"
 msgid "Once a soldier is out of APs he enters Standby Mode and the next soldier is selected. If there are no soldiers with APs remaining your turn ends. [LF][LF]You can order a soldier to enter Standby Mode by using the [<color=#ECBA62>{[SetEndTurnAbility]}</color>], selecting the icon from the Action Bar, or using gamepad :B:[LF][LF]SELECT STANDBY MODE[LF]"
-msgstr "一名士兵用完行动点数之后便会进入预备模式，并且会选中下一名士兵。所有士兵都没有剩余行动点数时，你的回合结束。[LF] [LF] 你可以按 [<color=#ECBA62>{[SetEndTurnAbility]}</color>] 键、在行动条中选择相应图标，或是按手柄上的 :B: 键来命令士兵进入预备模式。[LF] [LF] 选择预备模式"
+msgstr "一名士兵用完行动点数之后便会进入预备模式，并且会选中下一名士兵。所有士兵都没有剩余行动点数时，你的回合结束。[LF][LF] 你可以按 [<color=#ECBA62>{[SetEndTurnAbility]}</color>] 键、在行动条中选择相应图标，或是按手柄上的 :B: 键来命令士兵进入预备模式。[LF][LF] 选择预备模式"
 
 msgctxt "Tutorial/KEY_TUTORIAL_TACTICAL1_TURNS_NAME"
 msgid "End Turn"
@@ -3856,7 +3896,7 @@ msgstr "物品栏显示士兵携带的所有物品以及地上和相邻箱子中
 
 msgctxt "Tutorial/KEY_TUTORIAL_TACTICAL2_INVENTORY_DESCRIPTION_BIND"
 msgid "The Inventory shows everything carried by a soldier, and items on the ground or in adjacent crates.[LF][LF]ENCUMBRANCE[LF]If the weight of all carried items and armor is greater than the soldier's Strength then the soldier suffers a movement penalty.[LF][LF]ACCESS THE INVENTORY[LF]Press the inventory icon, or the [<color=#ECBA62>{[SetInventoryAbility]}</color>] key, or press gamepad :R3:."
-msgstr "物品栏显示士兵携带的所有物品，以及地上和相邻箱子中的物品。[LF] [LF] 负重[LF] 如果所有携带的物品和护甲的重量之和大于士兵的力量，则士兵将受到移动惩罚。[LF] [LF] 打开物品栏[LF] 点击物品栏图标、按 [<color=#ECBA62>{[SetInventoryAbility]}</color>] 键或手柄上的 :R3: 键。"
+msgstr "物品栏显示士兵携带的所有物品，以及地上和相邻箱子中的物品。[LF][LF] 负重[LF] 如果所有携带的物品和护甲的重量之和大于士兵的力量，则士兵将受到移动惩罚。[LF][LF] 打开物品栏[LF] 点击物品栏图标、按 [<color=#ECBA62>{[SetInventoryAbility]}</color>] 键或手柄上的 :R3: 键。"
 
 msgctxt "Tutorial/KEY_TUTORIAL_TACTICAL2_INVENTORY_DISPLAY_NAME"
 msgid "Inventory Display"
@@ -3908,7 +3948,7 @@ msgstr "物品栏中准备就绪的物品将显示在“就绪”物品条中。
 
 msgctxt "Tutorial/KEY_TUTORIAL_TACTICAL2_READY_ITEMS_DESCRIPTION_BIND"
 msgid "Items in the ready section of the inventory are shown in the Ready Items Bar. They can be selected for use without an AP cost.[LF][LF]READY ITEMS BAR CONTROLS[LF]Select item: Use :LMB: on the item's icon, or keys <color=#ECBA62>[{[TacSelectItem1]}], [{[TacSelectItem2]}], [{[TacSelectItem3]}] or [{[TacSelectItem4]}]</color>[LF]Select next item: <color=#ECBA62>[{[CycleWeapons]}]</color> key or gamepad :X:[LF][LF]SELECT THE GRENADE"
-msgstr "位于物品栏就绪区域的物品将显示在就绪物品条中。选择并使用这些物品不会消耗行动点数。[LF] [LF] 就绪物品条控制[LF] 选择物品：按 :LMB: 点击物品图标，或按 <color=#ECBA62>[{[TacSelectItem1]}]、[{[TacSelectItem2]}]、[{[TacSelectItem3]}] 或 [{[TacSelectItem4]}]</color> 键[LF] 选择下一物品：按 <color=#ECBA62>[{[CycleWeapons]}]</color> 键或手柄上的 :X: 键[LF] [LF] 选择手雷"
+msgstr "位于物品栏就绪区域的物品将显示在就绪物品条中。选择并使用这些物品不会消耗行动点数。[LF][LF] 就绪物品条控制[LF] 选择物品：按 :LMB: 点击物品图标，或按 <color=#ECBA62>[{[TacSelectItem1]}]、[{[TacSelectItem2]}]、[{[TacSelectItem3]}] 或 [{[TacSelectItem4]}]</color> 键[LF] 选择下一物品：按 <color=#ECBA62>[{[CycleWeapons]}]</color> 键或手柄上的 :X: 键[LF] [LF] 选择手雷"
 
 msgctxt "Tutorial/KEY_TUTORIAL_TACTICAL2_GRENADE_NAME"
 msgid "Grenades"
@@ -3968,7 +4008,7 @@ msgstr "警戒技能可以让士兵在敌人的回合中守卫某片区域。如
 
 msgctxt "Tutorial/KEY_TUTORIAL_TACTICAL2_OVERWATCH_DESCRIPTION_BIND"
 msgid "The Overwatch ability allows soldiers to guard an area during the enemy’s turn. If an enemy enters the Overwatch cone, it is attacked automatically.[LF][LF]OVERWATCH CONTROLS[LF]Enter Overwatch mode: Select the Overwatch icon from the Action Bar, or press [<color=#ECBA62>{[SetOverwatchAbility]}</color>], or use gamepad :Y:[LF]Select target position: Move Mouse or use :LTS:[LF]Change width of overwatch zone: CTRL + :MW: or use :LB: and :RB:[LF]Confirm Overwatch: :LMB: or :A:[LF][LF]MOVE YOUR SOLDIER AND SET OVERWATCH[LF]:LMB: or :A: on the highlighted target position towards the two approaching enemies."
-msgstr "警戒技能可以让士兵在敌人的回合中守卫某片区域。如果敌人进入了锥形警戒区，士兵将会自动发起攻击。[LF] [LF] 警戒控制[LF] 进入警戒模式：选择行动条中的“警戒”图标，或按 [<color=#ECBA62>{[SetOverwatchAbility]}</color>] 键或手柄上的 :Y: 键[LF] 选择目标位置：移动鼠标或按 :LTS:[LF] 变更警戒区范围：Ctrl + :MW: 或使用 :LB: 和 :RB:[LF] 确认警戒：按 :LMB: 或 :A:[LF] [LF] 移动士兵并设置警戒[LF] 面朝正在接近的两名敌人，在高亮目标位置按 :LMB: 或 :A:。"
+msgstr "警戒技能可以让士兵在敌人的回合中守卫某片区域。如果敌人进入了锥形警戒区，士兵将会自动发起攻击。[LF][LF] 警戒控制[LF] 进入警戒模式：选择行动条中的“警戒”图标，或按 [<color=#ECBA62>{[SetOverwatchAbility]}</color>] 键或手柄上的 :Y: 键[LF] 选择目标位置：移动鼠标或按 :LTS:[LF] 变更警戒区范围：Ctrl + :MW: 或使用 :LB: 和 :RB:[LF] 确认警戒：按 :LMB: 或 :A:[LF][LF] 移动士兵并设置警戒[LF] 面朝正在接近的两名敌人，在高亮目标位置按 :LMB: 或 :A:。"
 
 msgctxt "Tutorial/KEY_TUTORIAL_TACTICAL2_INFO_NAME"
 msgid "Character Info Panel"
@@ -4156,7 +4196,7 @@ msgstr "状态效果"
 
 msgctxt "Phoenixpedia/KEY_PHOENIXPEDIA_GUIDE_STATUS_EFFECTS_DESCRIPTION"
 msgid "Status effects can apply to the entire character or only to a specific body part.[LF][LF]While the status effects of a unit is can be seen on the health indicator above the character's head, body part statuses are only visible from the Character Info screen. The only exceptions are when a body part is wounded or disabled, which are indicated on the damage display to the left of the health indicator.[LF][LF]STATUS EFFECTS SUMMARY[LF]ACID: Acid corrodes the armor by the Acid value (per turn). If there is no armor, then the damage is applied to the body part. Acid value reduces by 10 per turn.[LF]BLEEDING: Each turn, lose Hit Points equal to bleed value.[LF]BURNING: Fire damage is applied to each body part at the start of the turn, subtracting armor.[LF]FRENZIED: Speed increased by 50% and immune to panic.[LF]GOOED: Unable to move until Goo decays or is removed.[LF]INFECTED BY VIRUS: At start of turn virus is subtracted from Will Points, then virus value is reduced by 1.[LF]PANICKED: Unable to move for a turn, while recovering Will Points.[LF]POISONED: At start of turn, poison is subtracted from Hit Points, then poison value is reduced by 10.[LF]PREPARING: (Pandoran Sentinel and Egg only) Preparing to activate special ability on the next turn.[LF]BERSERK: (Mutog only) Mutog becomes wild, attacking friend or foe.[LF]ENRAGED: (Mutog only) Damage dealt and speed are increased by 50%. There's a 10% chance the Mutog will go Berserk at the start of each turn.[LF]ALERTED: (Enemy only). Enemy is aware of your presence.[LF]TIRED: (caused by entering a battle with low Stamina) -1 Action Point each turn.[LF]EXHAUSTED: (caused by entering a battle with low Stamina) -2 Action Point each turn.[LF]PARALYZED: Cannot move or perform any actions.[LF]PARALYSIS: Action Points are reduced by the proportion of paralysis value to Strength.[LF]DAZED: Action Points reduced to 1 and accuracy halved. Abilities requiring Will Points cannot be used.[LF]OVERWATCH: Enemies entering the overwatch cone will trigger an attack.[LF]SONIC: Dazes the target is the target's Will Points are less than the amount of Sonic Damage"
-msgstr "状态效果可以施加于整个角色，也可以只施加于特定的身体部位。[LF][LF]单位的状态效果可以在角色头部上方的健康指示器上查看，而身体部位的状态只能在角色信息界面上显示。不过，当某个身体部位受伤或损坏时，健康指示器左侧的伤害显示将会予以表明。[LF][LF]状态效果概览[LF]酸蚀：酸蚀每回合腐蚀 10 点护甲。如果没有护甲，伤害将直接作用于身体部位。酸蚀值每回合降低 10 点。[LF]流血：每回合失去等同于流血数值的生命值。[LF]燃烧：回合开始时，将减去护甲之后的火焰伤害作用于所有身体部位。[LF]疯狂：速度增加 50% 并且免疫恐慌。[LF]粘住：在粘液消散或被移除前无法移动[LF]病毒感染：回合开始时，意志力点数扣除病毒值，随后病毒值减少 1 点。[LF]恐慌：恢复意志力点数时的一回合内无法移动[LF]中毒：回合开始时，生命值扣除毒性值，随后毒性值减少 10 点[LF]准备中：（仅潘多拉哨兵和卵）准备在下一回合激活特殊技能[LF]狂暴：（仅变异犬）变异犬陷入狂暴，不分敌我发动攻击[LF]暴怒：（仅变异犬）造成的伤害和速度增加 50％。变异犬在每回合开始时有 10％ 几率变得“狂暴”。[LF]警觉：（仅敌人）。敌人察觉到了你的存在[LF]疲劳：（由进入战斗时耐力较低而造成）每回合 -1 点行动点数[LF]筋疲力尽：（由进入战斗时耐力较低而造成）每回合 -1 点行动点数[LF]麻痹：不能移动，也不能执行任何行动[LF]麻痹：按照麻痹值与力量值的比例减少行动点数[LF]眩晕：行动点数减少为 1 点且准度减半[LF]警戒：进入锥形警戒区的敌人将触发一次攻击[LF]声波：晕眩目标是目标的意志点小于音速伤害值"
+msgstr "状态效果可以施加于整个角色，也可以只施加于特定的身体部位。[LF][LF] 单位的状态效果可以在角色头部上方的健康指示器上查看，而身体部位的状态只能在角色信息界面上显示。不过，当某个身体部位受伤或损坏时，健康指示器左侧的伤害显示将会予以表明。[LF][LF] 状态效果概览[LF] 酸蚀：酸蚀每回合腐蚀 10 点护甲。如果没有护甲，伤害将直接作用于身体部位。酸蚀值每回合降低 10 点。[LF] 流血：每回合失去等同于流血数值的生命值。[LF]燃烧：回合开始时，将减去护甲之后的火焰伤害作用于所有身体部位。[LF]疯狂：速度增加 50% 并且免疫恐慌。[LF]粘住：在粘液消散或被移除前无法移动。[LF]病毒感染：回合开始时，意志力点数扣除病毒值，随后病毒值减少 1 点。[LF] 恐慌：恢复意志力点数时的一回合内无法移动。[LF]中毒：回合开始时，生命值扣除毒性值，随后毒性值减少 10 点。[LF] 准备中：（仅潘多拉哨兵和卵）准备在下一回合激活特殊技能。[LF]狂暴：（仅变异犬）变异犬陷入狂暴，不分敌我发动攻击。[LF]暴怒：（仅变异犬）造成的伤害和速度增加 50％。变异犬在每回合开始时有 10％ 几率变得“狂暴”。[LF] 警觉：（仅敌人）。敌人察觉到了你的存在。[LF]疲劳：（由进入战斗时耐力较低而造成）每回合 -1 点行动点数。[LF] 筋疲力尽：（由进入战斗时耐力较低而造成）每回合 -2 点行动点数。[LF] 麻痹：不能移动，也不能执行任何行动。[LF]麻痹：按照麻痹值与力量值的比例减少行动点数。[LF]眩晕：行动点数减少至 1 点且准度减半，无法使用意志力点数技能。[LF]警戒：进入锥形警戒区的敌人将触发一次攻击。"
 
 msgctxt "Phoenixpedia/KEY_PHOENIXPEDIA_GUIDE_HAVENS_NAME"
 msgid "Advanced: Havens"
@@ -9475,7 +9515,7 @@ msgid "FESTERING SKIES"
 msgstr "溃烂天空"
 
 msgctxt "Opening Screen/KEY_BSNAPSHOT_GAMES_INC_BACKER_BUILD_PP1"
-msgid "PRIVACY POLICY    [LF]Last updated July 03, 2018  [LF][LF][LF]Thank you for choosing to be part of our community at Snapshot Games Inc. (“Company”, “we”, “us”, or “our”). We are committed to protecting your personal information and your right to privacy. If you have any questions or concerns about our policy, or our practices with regards to your personal information, please contact us at contact@snapshotgames.com. [LF]When you visit our website http://phoenixpoint.info, and use our services, you trust us with your personal information. We take your privacy very seriously. In this privacy policy, we seek to explain to you in the clearest way possible what information we collect, how we use it and what rights you have in relation to it. We hope you take some time to read through it carefully, as it is important. If there are any terms in this privacy policy   that you do not agree with, please discontinue use of our Sites and our services. [LF]This privacy policy applies to all information collected through our website (such as http://phoenixpoint.info), and/or any related services, sales, marketing or events (we refer to them collectively in this privacy policy as the \"\"Services\"\").  [LF]Please read this privacy policy carefully as it will help you make informed decisions about sharing your personal information with us.   [LF][LF]TABLE OF CONTENTS  [LF]1. WHAT INFORMATION DO WE COLLECT?[LF]2. HOW DO WE USE YOUR INFORMATION?[LF]3. WILL YOUR INFORMATION BE SHARED WITH ANYONE?    [LF]4. DO WE USE COOKIES AND OTHER TRACKING TECHNOLOGIES?      [LF]5. IS YOUR INFORMATION TRANSFERRED INTERNATIONALLY?    [LF]6. HOW LONG DO WE KEEP YOUR INFORMATION?    [LF]7. DO WE COLLECT INFORMATION FROM MINORS?  [LF]8. WHAT ARE YOUR PRIVACY RIGHTS?[LF]9. CONTROLS FOR DO-NOT-TRACK FEATURES [LF]10. DO CALIFORNIA RESIDENTS HAVE SPECIFIC PRIVACY RIGHTS? [LF]11. DO WE MAKE UPDATES TO THIS POLICY?[LF]12. HOW CAN YOU CONTACT US ABOUT THIS POLICY?[LF][LF][LF]1. WHAT INFORMATION DO WE COLLECT?  [LF][LF]Personal information you disclose to us [LF]In Short: We collect personal information that you provide to us such as name, address, contact information, passwords and security data, and payment information.  [LF]We collect personal information that you voluntarily provide to us when registering at the Services expressing an interest in obtaining information about us or our products and services, when participating in activities on the Services or otherwise contacting us.[LF]The personal information that we collect depends on the context of your interactions with us and the Services, the choices you make and the products and features you use. The personal information we collect can include the following:[LF]   [LF]   [LF]Credentials. We collect passwords, password hints, and similar security information used for authentication and account access.   [LF]All personal information that you provide to us must be true, complete and accurate, and you must notify us of any changes to such personal information.   [LF]Information automatically collected [LF]In Short: Some information – such as IP address and/or browser and device characteristics – is collected automatically when you visit our Services.[LF]We automatically collect certain information when you visit, use or navigate the Services. This information does not reveal your specific identity (like your name or contact information) but may include device and usage information, such as your IP address, browser and device characteristics, operating system, language preferences, referring URLs, device name, country, location, information about how and when you use our Services and other technical information. This information is primarily needed to maintain the security and operation of our Services, and for our internal analytics and reporting purposes.[LF]Like many businesses, we also collect information through cookies and similar technologies.   [LF]    [LF][LF]2. HOW DO WE USE YOUR INFORMATION?  [LF]In Short:  We process your information for purposes based on legitimate business interests, the fulfillment of our contract with you, compliance with our legal obligations, and/or your consent.  [LF]We use personal information collected via our Services for a variety of business purposes described below. We process your personal information for these purposes in reliance on our legitimate business interests, in order to enter into or perform a contract with you, with your consent, and/or for compliance with our legal obligations. We indicate the specific processing grounds we rely on next to each purpose listed below. [LF]  [LF]We use the information we collect or receive:   [LF][LF]To send you marketing and promotional communications. We and/or our third party marketing partners may use the personal information you send to us for our marketing purposes, if this is in accordance with your marketing preferences. You can opt-out of our marketing emails at any time (see the \"\" WHAT ARE YOUR PRIVACY RIGHTS  \"\" below).      [LF][LF]To send administrative information to you. We may use your personal information to send you product, service and new feature information and/or information about changes to our terms, conditions, and policies.       [LF][LF]Fulfill and manage your orders. We may use your information to fulfill and manage your orders, payments, returns, and exchanges made through the Services.            [LF][LF]Deliver targeted advertising to you. We may use your information to develop and display content and advertising (and work with third parties who do so) tailored to your interests and/or location and to measure its effectiveness.                 [LF][LF]Request Feedback. We may use your information to request feedback and to contact you about your use of our Services.                                                                                                                                          [LF][LF]For other Business Purposes. We may use your information for other Business Purposes, such as data analysis, identifying usage trends, determining the effectiveness of our promotional campaigns and to evaluate and improve our Services, products, marketing and your experience. We may use and store this information in aggregated and anonymized form so that it is not associated with individual end users and does not include personal information. We will not use identifiable personal information without your consent.            [LF][LF]3. WILL YOUR INFORMATION BE SHARED WITH ANYONE?  [LF]In Short:  We only share information with your consent, to comply with laws, to provide you with services, to protect your rights, or to fulfill business obligations.   [LF][LF]We may process or share data based on the following legal basis:[LF]Consent: We may process your data if you have given us specific consent to use your personal information in a specific purpose.[LF][LF][LF]Legitimate Interests: We may process your data when it is reasonably necessary to achieve our legitimate business interests.[LF][LF][LF]Performance of a Contract: Where we have entered into a contract with you, we may process your personal information to fulfill the terms of our contract.[LF][LF][LF]Legal Obligations: We may disclose your information where we are legally required to do so in order to comply with applicable law, governmental requests, a judicial proceeding, court order, or legal process, such as in response to a court order or a subpoena (including in response to public authorities to meet national security or law enforcement requirements).[LF][LF][LF]Vital Interests: We may disclose your information where we believe it is necessary to investigate, prevent, or take action regarding potential violations of our policies, suspected fraud, situations involving potential threats to the safety of any person and illegal activities, or as evidence in litigation in which we are involved.[LF]More specifically, we may need to process your data or share your personal information in the following situations:   [LF]Vendors, Consultants and Other Third-Party Service Providers. We may share your data with third party vendors, service providers, contractors or agents who perform services for us or on our behalf and require access to such information to do that work. Examples include: payment processing, data analysis, email delivery, hosting services, customer service and marketing efforts. We may allow selected third parties to use tracking technology on the Services, which will enable them to collect data about how you interact with the Services over time. This information may be used to, among other things, analyze and track data, determine the popularity of certain content and better understand online activity. Unless described in this Policy, we do not share, sell, rent or trade any of your information with third parties for their promotional purposes.       [LF][LF][LF]Business Transfers. We may share or transfer your information in connection with, or during negotiations of, any merger, sale of company assets, financing, or acquisition of all or a portion of our business to another company.       [LF][LF][LF]Business Partners. We may share your information with our business partners to offer you certain products, services or promotions.      [LF]     [LF][LF]4. DO WE USE COOKIES AND OTHER TRACKING TECHNOLOGIES?  [LF]In Short:  We may use cookies and other tracking technologies to collect and store your information.  [LF]We may use cookies and similar tracking technologies (like web beacons and pixels) to access or store information. Specific information about how we use such technologies and how you can refuse certain cookies is set out in our Cookie Policy.                  [LF][LF]5. IS YOUR INFORMATION TRANSFERRED INTERNATIONALLY?  [LF]In Short:  We may transfer, store, and process your information in countries other than your own.  [LF]Our servers are located in United States. If you are accessing our Services from outside United States, please be aware that your information may be transferred to, stored, and processed by us in our facilities and by those third parties with whom we may share your personal information (see \"\" WILL YOUR INFORMATION BE SHARED WITH ANYONE?  \"\" above), in United States, and other countries. [LF]If you are a resident in the European Economic Area, then these countries may not have data protection or other laws as comprehensive as those in your country. We will however take all necessary measures to protect your personal information in accordance with this privacy policy and applicable law.              [LF][LF]6. HOW LONG DO WE KEEP YOUR INFORMATION?  [LF]In Short:  We keep your information for as long as necessary to fulfill the purposes outlined in this privacy policy unless otherwise required by law.   [LF]We will only keep your personal information for as long as it is necessary for the purposes set out in this privacy policy, unless a longer retention period is required or permitted by law (such as tax, accounting or other legal requirements). No purpose in this policy will require us keeping your personal information for longer than the period of time in which users have an account with us .  [LF]When we have no ongoing legitimate business need to process your personal information, we will either delete or anonymize it, or, if this is not possible (for example, because your personal information has been stored in backup archives), then we will securely store your personal information and isolate it from any further processing until deletion is possible.    [LF][LF]7. DO WE COLLECT INFORMATION FROM MINORS?  [LF]In Short:  We do not knowingly collect data from or market to children under 18 years of age.  [LF]We do not knowingly solicit data from or market to children under 18 years of age. By using the Services, you represent that you are at least 18 or that you are the parent or guardian of such a minor and consent to such minor dependent’s use of the Services. If we learn that personal information from users less than 18 years of age has been collected, we will deactivate the account and take reasonable measures to promptly delete such data from our records. If you become aware of any data we have collected from children under age 18, please contact us at contact@snapshotgames.com.  [LF][LF][LF]"
+msgid "PRIVACY POLICY    [LF]Last updated July 03, 2018  [LF][LF][LF]Thank you for choosing to be part of our community at Snapshot Games Inc. (“Company”, “we”, “us”, or “our”). We are committed to protecting your personal information and your right to privacy. If you have any questions or concerns about our policy, or our practices with regards to your personal information, please contact us at contact@snapshotgames.com. [LF]When you visit our website http://phoenixpoint.info, and use our services, you trust us with your personal information. We take your privacy very seriously. In this privacy policy, we seek to explain to you in the clearest way possible what information we collect, how we use it and what rights you have in relation to it. We hope you take some time to read through it carefully, as it is important. If there are any terms in this privacy policy   that you do not agree with, please discontinue use of our Sites and our services. [LF]This privacy policy applies to all information collected through our website (such as http://phoenixpoint.info), and/or any related services, sales, marketing or events (we refer to them collectively in this privacy policy as the \"\"Services\"\").  [LF]Please read this privacy policy carefully as it will help you make informed decisions about sharing your personal information with us.   [LF][LF]TABLE OF CONTENTS  [LF]1. WHAT INFORMATION DO WE COLLECT?[LF]2. HOW DO WE USE YOUR INFORMATION?[LF]3. WILL YOUR INFORMATION BE SHARED WITH ANYONE?    [LF]4. DO WE USE COOKIES AND OTHER TRACKING TECHNOLOGIES?      [LF]5. IS YOUR INFORMATION TRANSFERRED INTERNATIONALLY?    [LF]6. HOW LONG DO WE KEEP YOUR INFORMATION?    [LF]7. DO WE COLLECT INFORMATION FROM MINORS?  [LF]8. WHAT ARE YOUR PRIVACY RIGHTS?[LF]9. CONTROLS FOR DO-NOT-TRACK FEATURES [LF]10. DO CALIFORNIA RESIDENTS HAVE SPECIFIC PRIVACY RIGHTS? [LF]11. DO WE MAKE UPDATES TO THIS POLICY?[LF]12. HOW CAN YOU CONTACT US ABOUT THIS POLICY?[LF][LF][LF]1. WHAT INFORMATION DO WE COLLECT?  [LF][LF]Personal information you disclose to us [LF]In Short: We collect personal information that you provide to us such as name, address, contact information, passwords and security data, and payment information.  [LF]We collect personal information that you voluntarily provide to us when registering at the Services expressing an interest in obtaining information about us or our products and services, when participating in activities on the Services or otherwise contacting us.[LF]The personal information that we collect depends on the context of your interactions with us and the Services, the choices you make and the products and features you use. The personal information we collect can include the following:[LF]   [LF]   [LF]Credentials. We collect passwords, password hints, and similar security information used for authentication and account access.   [LF]All personal information that you provide to us must be true, complete and accurate, and you must notify us of any changes to such personal information.   [LF]Information automatically collected [LF]In Short: Some information – such as IP address and/or browser and device characteristics – is collected automatically when you visit our Services.[LF]We automatically collect certain information when you visit, use or navigate the Services. This information does not reveal your specific identity (like your name or contact information) but may include device and usage information, such as your IP address, browser and device characteristics, operating system, language preferences, referring URLs, device name, country, location, information about how and when you use our Services and other technical information. This information is primarily needed to maintain the security and operation of our Services, and for our internal analytics and reporting purposes.[LF]Like many businesses, we also collect information through cookies and similar technologies.   [LF]   [LF][LF]2. HOW DO WE USE YOUR INFORMATION?  [LF]In Short:  We process your information for purposes based on legitimate business interests, the fulfillment of our contract with you, compliance with our legal obligations, and/or your consent.  [LF]We use personal information collected via our Services for a variety of business purposes described below. We process your personal information for these purposes in reliance on our legitimate business interests, in order to enter into or perform a contract with you, with your consent, and/or for compliance with our legal obligations. We indicate the specific processing grounds we rely on next to each purpose listed below. [LF]  [LF]We use the information we collect or receive:   [LF][LF]To send you marketing and promotional communications. We and/or our third party marketing partners may use the personal information you send to us for our marketing purposes, if this is in accordance with your marketing preferences. You can opt-out of our marketing emails at any time (see the \"\" WHAT ARE YOUR PRIVACY RIGHTS  \"\" below).      [LF][LF]To send administrative information to you. We may use your personal information to send you product, service and new feature information and/or information about changes to our terms, conditions, and policies.       [LF][LF]Fulfill and manage your orders. We may use your information to fulfill and manage your orders, payments, returns, and exchanges made through the Services.            [LF][LF]Deliver targeted advertising to you. We may use your information to develop and display content and advertising (and work with third parties who do so) tailored to your interests and/or location and to measure its effectiveness.                 [LF][LF]Request Feedback. We may use your information to request feedback and to contact you about your use of our Services.                                                                                                                                          [LF][LF]For other Business Purposes. We may use your information for other Business Purposes, such as data analysis, identifying usage trends, determining the effectiveness of our promotional campaigns and to evaluate and improve our Services, products, marketing and your experience. We may use and store this information in aggregated and anonymized form so that it is not associated with individual end users and does not include personal information. We will not use identifiable personal information without your consent.            [LF][LF]3. WILL YOUR INFORMATION BE SHARED WITH ANYONE?  [LF]In Short:  We only share information with your consent, to comply with laws, to provide you with services, to protect your rights, or to fulfill business obligations.   [LF][LF]We may process or share data based on the following legal basis:[LF]Consent: We may process your data if you have given us specific consent to use your personal information in a specific purpose.[LF][LF][LF]Legitimate Interests: We may process your data when it is reasonably necessary to achieve our legitimate business interests.[LF][LF][LF]Performance of a Contract: Where we have entered into a contract with you, we may process your personal information to fulfill the terms of our contract.[LF][LF][LF]Legal Obligations: We may disclose your information where we are legally required to do so in order to comply with applicable law, governmental requests, a judicial proceeding, court order, or legal process, such as in response to a court order or a subpoena (including in response to public authorities to meet national security or law enforcement requirements).[LF][LF][LF]Vital Interests: We may disclose your information where we believe it is necessary to investigate, prevent, or take action regarding potential violations of our policies, suspected fraud, situations involving potential threats to the safety of any person and illegal activities, or as evidence in litigation in which we are involved.[LF]More specifically, we may need to process your data or share your personal information in the following situations:   [LF]Vendors, Consultants and Other Third-Party Service Providers. We may share your data with third party vendors, service providers, contractors or agents who perform services for us or on our behalf and require access to such information to do that work. Examples include: payment processing, data analysis, email delivery, hosting services, customer service and marketing efforts. We may allow selected third parties to use tracking technology on the Services, which will enable them to collect data about how you interact with the Services over time. This information may be used to, among other things, analyze and track data, determine the popularity of certain content and better understand online activity. Unless described in this Policy, we do not share, sell, rent or trade any of your information with third parties for their promotional purposes.       [LF][LF][LF]Business Transfers. We may share or transfer your information in connection with, or during negotiations of, any merger, sale of company assets, financing, or acquisition of all or a portion of our business to another company.       [LF][LF][LF]Business Partners. We may share your information with our business partners to offer you certain products, services or promotions.      [LF]     [LF][LF]4. DO WE USE COOKIES AND OTHER TRACKING TECHNOLOGIES?  [LF]In Short:  We may use cookies and other tracking technologies to collect and store your information.  [LF]We may use cookies and similar tracking technologies (like web beacons and pixels) to access or store information. Specific information about how we use such technologies and how you can refuse certain cookies is set out in our Cookie Policy.                  [LF][LF]5. IS YOUR INFORMATION TRANSFERRED INTERNATIONALLY?  [LF]In Short:  We may transfer, store, and process your information in countries other than your own.  [LF]Our servers are located in United States. If you are accessing our Services from outside United States, please be aware that your information may be transferred to, stored, and processed by us in our facilities and by those third parties with whom we may share your personal information (see \"\" WILL YOUR INFORMATION BE SHARED WITH ANYONE?  \"\" above), in United States, and other countries. [LF]If you are a resident in the European Economic Area, then these countries may not have data protection or other laws as comprehensive as those in your country. We will however take all necessary measures to protect your personal information in accordance with this privacy policy and applicable law.              [LF][LF]6. HOW LONG DO WE KEEP YOUR INFORMATION?  [LF]In Short:  We keep your information for as long as necessary to fulfill the purposes outlined in this privacy policy unless otherwise required by law.   [LF]We will only keep your personal information for as long as it is necessary for the purposes set out in this privacy policy, unless a longer retention period is required or permitted by law (such as tax, accounting or other legal requirements). No purpose in this policy will require us keeping your personal information for longer than the period of time in which users have an account with us .  [LF]When we have no ongoing legitimate business need to process your personal information, we will either delete or anonymize it, or, if this is not possible (for example, because your personal information has been stored in backup archives), then we will securely store your personal information and isolate it from any further processing until deletion is possible.    [LF][LF]7. DO WE COLLECT INFORMATION FROM MINORS?  [LF]In Short:  We do not knowingly collect data from or market to children under 18 years of age.  [LF]We do not knowingly solicit data from or market to children under 18 years of age. By using the Services, you represent that you are at least 18 or that you are the parent or guardian of such a minor and consent to such minor dependent’s use of the Services. If we learn that personal information from users less than 18 years of age has been collected, we will deactivate the account and take reasonable measures to promptly delete such data from our records. If you become aware of any data we have collected from children under age 18, please contact us at contact@snapshotgames.com.  [LF][LF][LF]"
 msgstr "隐私政策最后更新时间为2018年7月3日，[LF][LF]谢谢您选择加入Snapshot Games Inc.（“公司”，“我们”，“我们”或“我们的”）社区。我们致力于保护您的个人信息和您的隐私权。如果您对我们的政策或我们对您的个人信息的做法有任何疑问或疑虑，请通过contact@snapshotgames.com与我们联系。[LF]当您访问我们的网站http://phoenixpoint.info并使用我们的服务时，您会相信我们的个人信息。我们非常重视您的隐私。在本隐私政策中，我们力求以最清晰的方式向您解释我们收集哪些信息，我们如何使用它以及您对它拥有什么权利。我们希望您花一些时间仔细阅读它，因为它很重要。如果您不同意本隐私政策中的任何条款，请停止使用我们的网站和服务。本隐私政策适用于通过我们的网站（例如http://phoenixpoint.info）收集的所有信息，和/或任何相关的服务，销售，营销或事件（我们在本隐私政策中统称为“服务” ）。[LF]请仔细阅读本隐私政策，因为它会帮助您做出与我们共享您的个人信息的明智决定。[LF]目录[LF]1.我们收集哪些信息？ [LF]2.我们如何使用您的信息？ [LF]3.您的信息将与任何人共享吗？ [LF]4.我们是否使用Cookie和其他跟踪技术？ [LF]5.您的信息是否在国际范围内转移？ [LF]6.我们多长时间保留您的信息？ [LF]7.我们是否收集未成年人的信息？ [LF]8.您的隐私权是什么？ [LF]9.禁止追踪功能的控制措施[LF]10.加利福尼亚州居民是否拥有特定的隐私权？ [LF]11.我们是否会对此政策进行更新？ [LF]12.您如何就此政策与我们联系？ [LF][LF]1.我们收集什么信息？[LF]简而言之，您向我们披露的个人信息：我们收集您提供给我们的个人信息，例如姓名，地址，联系信息，密码和安全性数据以及付款信息。我们收集您在服务注册时自愿提供给我们的个人信息，表示有兴趣获取有关我们或我们的产品和服务的信息，参与服务活动或以其他方式与我们联系。我们收集的个人信息取决于您与我们和服务交互的上下文，您做出的选择以及您使用的产品和功能。我们收集的个人信息可以包括以下内容：凭据。我们收集用于身份验证和帐户访问的密码，密码提示和类似的安全信息。您提供给我们的所有个人信息必须真实，完整和准确，并且您必须将此类个人信息的任何更改通知我们。自动收集的信息简而言之：当您访问我们的服务时，会自动收集某些信息（例如IP地址和/或浏览器和设备特征）。当您访问，使用或浏览服务时，我们会自动收集某些信息。该信息不会透露您的特定身份（例如您的姓名或联系信息），但可能包括设备和使用信息，例如您的IP地址，浏览器和设备特征，操作系统，语言首选项，引荐URL，设备名称，国家/地区，位置，有关如何以及何时使用我们的服务的信息以及其他技术信息。该信息主要用于维护我们服务的安全性和操作，以及用于我们的内部分析和报告目的。与许多企业一样，我们也通过Cookie和类似技术来收集信息。 [LF]2.我们如何使用您的信息？简而言之：我们会出于合法商业利益，与您的合同履行，遵守我们的法律义务和/或您的同意的目的处理您的信息。我们将通过“服务”收集的个人信息用于以下所述的各种商业目的。为了这些目的，我们会出于合法目的处理您的个人信息，以便在您的同意下与您签订合同或与您签订合同和/或遵守我们的法律义务。我们在下面列出的每个目的旁边指明了我们所依赖的特定处理基础。我们使用收集或接收的信息：向您发送市场营销和促销信息。如果我们和/或我们的第三方营销合作伙伴符合您的营销偏好，则可以将您发送给我们的个人信息用于我们的营销目的。您可以随时选择退出我们的营销电子邮件（请参阅下面的“您的隐私权是什么”）。向您发送管理信息。我们可能会使用您的个人信息向您发送产品，服务和新功能信息和/或有关我们条款，条件和政策变更的信息。履行和管理您的订单。我们可能会使用您的信息来履行和管理通过服务进行的订单，付款，退货和换货。向您投放定向广告。我们可能会使用您的信息来开发和显示适合您的兴趣和/或位置的内容和广告（并与第三方合作），并评估其有效性。要求反馈。我们可能会使用您的信息来请求反馈并就您对我们服务的使用与您联系。用于其他业务目的。我们可能会将您的信息用于其他业务目的，例如数据分析，确定使用趋势，确定促销活动的有效性以及评估和改善我们的服务，产品，市场营销和您的经验。我们可能会以汇总和匿名的形式使用和存储此信息，以使它不与单个最终用户相关联，并且不包含个人信息。未经您的同意，我们不会使用可识别的个人信息。 [LF]3.您的信息将与任何人共享吗？简而言之：我们仅在您同意的情况下共享信息，遵守法律，为您提供服务，保护您的权利或履行商业义务。我们可能会基于以下法律依据处理或共享数据：同意：如果您已明确同意将您的个人信息用于特定目的，则我们可能会处理您的数据。合法利益：在合理必要的情况下，我们可能会处理您的数据以实现我们的合法商业利益。履行合同：如果我们与您签订了合同，则我们可能会处理您的个人信息以履行我们的合同条款。法律义务：为了遵守适用法律，政府要求，司法程序，法院命令或法律程序，我们可能会在法律上要求您披露您的信息，例如响应法院命令或传票（ （包括响应公共当局以满足国家安全或执法要求）。重要利益：我们认为有必要调查，预防或采取行动，涉及可能违反我们政策的行为，涉嫌欺诈，涉及对任何人的安全构成潜在威胁的情况和非法活动时，我们可能会披露您的信息，或作为我们参与的诉讼。更具体地说，在以下情况下，我们可能需要处理您的数据或共享您的个人信息：供应商，顾问和其他第三方服务提供商。我们可能会与为我们或代表我们执行服务并需要访问此类信息的第三方供应商，服务提供商，承包商或代理商共享您的数据。示例包括：付款处理，数据分析，电子邮件传递，托管服务，客户服务和营销工作。我们可能允许选定的第三方在服务上使用跟踪技术，这将使他们能够收集有关您如何与服务交互的数据。除其他事项外，该信息可用于分析和跟踪数据，确定某些内容的受欢迎程度并更好地理解在线活动。除非本政策中有描述，否则我们不会与第三方共享，出售，出租或交易您的任何信息以促进他们的促销目的。业务转移。我们可能会在任何合并，出售公司资产，融资或收购我们全部或部分业务给另一家公司的过程中或在谈判过程中共享或转移您的信息。商业合作伙伴。我们可能会与我们的业务合作伙伴共享您的信息，以向您提供某些产品，服务或促销。 [LF]4.我们是否使用Cookie和其他跟踪技术？简而言之：我们可能会使用Cookie和其他跟踪技术来收集和存储您的信息。我们可能会使用Cookie和类似的跟踪技术（例如网络信标和像素）来访问或存储信息。我们的Cookie政策中列出了有关我们如何使用此类技术以及您如何拒绝某些Cookie的特定信息。 [LF]5.您的信息是否在国际范围内转移？简而言之：我们可能会在您自己国家以外的国家/地区转移，存储和处理您的信息。我们的服务器位于美国。如果您要从美国以外的地方访问我们的服务，请注意，您的信息可能会被我们在我们的设施中以及与我们共享您的个人信息的第三方转移，存储和处理（请参阅“将您的信息在美国和其他国家/地区与任何人共享？如果您是欧洲经济区的居民，那么这些国家/地区可能没有与您所在国家/地区一样全面的数据保护或其他法律。但是，我们将根据本隐私政策和适用法律采取一切必要措施保护您的个人信息。 [LF]6.我们多长时间保留您的信息？简而言之：除非法律另有要求，否则我们会在必要时保留您的信息，以达到本隐私政策概述的目的。除非法律要求或允许更长的保留期限（例如税收，会计或其他法律要求），否则我们只会将您的个人信息保留在本隐私政策规定的必要目的范围内。本政策的任何目的均不要求我们将您的个人信息保留的时间超过用户在我们帐户中拥有的时间。如果我们没有进行中的合法业务来处理您的个人信息，我们将对其进行删除或匿名化，或者，如果不可能（例如，由于您的个人信息已存储在备份档案中），我们将安全地存储您的个人信息，并将其与任何进一步的处理隔离，直到可以删除为止。 [LF]7.我们是否收集未成年人的信息？简而言之：我们不会有意收集或销售18岁以下儿童的数据。我们不会有意向18岁以下的儿童索取数据或向其销售数据。通过使用服务，您表示您已年满18岁，或者您是该未成年人的父母或监护人，并同意该未成年人的使用服务。如果我们了解到已收集了来自18岁以下用户的个人信息，我们将停用该帐户并采取合理措施立即从我们的记录中删除此类数据。如果您知道我们从18岁以下儿童那里收集的任何数据，请通过contact@snapshotgames.com与我们联系。 [LF]"
 
 msgctxt "Opening Screen/KEY_BSNAPSHOT_GAMES_INC_BACKER_BUILD_PP2"
@@ -10236,7 +10276,7 @@ msgstr "特殊任务"
 
 msgctxt "Geoscape/KEY_FACILITY_BUILDING"
 msgid "FACILITY UNDER CONSTRUCTION"
-msgstr "设施正在建造中"
+msgstr "设施正在建造"
 
 msgctxt "Geoscape/KEY_ODI_TT"
 msgid "Oneiric Delirium Index - Save havens to slow down progress, or destroy Pandoran bases to reverse it"
@@ -10412,7 +10452,7 @@ msgstr "散雾器"
 
 msgctxt "Haven Screen/KEY_GEOSCAPE_ZONE_MIST_DESCRIPTION"
 msgid "Mist repellers create a mist-free zone around the Haven, reducing starvation and the risk of attack from Pandoran bases."
-msgstr "一般情况下，避难所可以为人们提供足够的居住空间，不过这些区域也很容易受到潘多拉的攻击。"
+msgstr "散雾器可以在避难所周围创造一片无雾区域，从而缓解饥荒并降低潘多拉体从基地发起袭击的几率。"
 
 msgctxt "Haven Screen/KEY_GEOSCAPE_ZONE_MISSIONARY_NAME"
 msgid "MISSIONARY TEMPLE"
@@ -10496,11 +10536,11 @@ msgstr "派遣一只队伍和一架飞行器前往该避难所并在此执行一
 
 msgctxt "Haven Screen/KEY_RECRUIT_LEADER_NEGATIVE_DIPLOMACY_TT"
 msgid "The haven leader is not friendly towards the Phoenix Project. Improve diplomatic relations to enable recruiting."
-msgstr "避难所领袖对凤凰点并不友好。改善外交关系以进行招募。"
+msgstr "这位避难所领袖对凤凰计划并不友好。改善外交关系可促进招募。"
 
 msgctxt "Haven Screen/KEY_TRADE_LEADER_NEGATIVE_DIPLOMACY_TT"
 msgid "The haven leader is not friendly towards the Phoenix Project. Improve diplomatic relations to enable trading."
-msgstr "避难所领袖对凤凰点并不友好。改善外交关系以进行交易。"
+msgstr "这位避难所领袖对凤凰计划并不友好。改善外交关系可促进贸易。"
 
 msgctxt "Missions/KEY_MISSION_ALIEN_LAIR"
 msgid "PANDORAN LAIR"
@@ -10516,7 +10556,7 @@ msgstr "潘多拉宫殿"
 
 msgctxt "Missions/KEY_MISSION_ATTACK_CITADEL_BRIEFING_DESCRIPTION"
 msgid "Locate and eliminate the Scylla and then evacuate your squad"
-msgstr "找到并消灭斯库拉进而摧毁城堡。"
+msgstr "找到并消灭斯库拉，然后撤离你的小队"
 
 msgctxt "Missions/KEY_MISSION_ATTACK_CITADEL_BRIEFING_NAME"
 msgid "ATTACK PANDORAN CITADEL"
@@ -10580,7 +10620,7 @@ msgstr "潘多拉巢穴幸存"
 
 msgctxt "Missions/KEY_MISSION_ATTACK_NEST_VICTORY_DESCRIPTION"
 msgid "The Pandoran nest has been neutralized and abandoned by its inhabitants. The rest of humanity can breathe a sigh of relief."
-msgstr "已消除潘多拉大巢穴威胁，此建筑已被其居民抛弃。剩下的人类终于可以长吁一口气了。"
+msgstr "潘多拉巢穴已经被毁，并且遭到了遗弃。剩下的人类终于可以长吁一口气了。"
 
 msgctxt "Missions/KEY_MISSION_ATTACK_NEST_VICTORY_NAME"
 msgid "PANDORAN NEST DESTROYED"
@@ -10596,7 +10636,7 @@ msgstr "已发现凤凰基地"
 
 msgctxt "Missions/KEY_MISSION_ATTACK_SCAVENGING_SITE_BRIEFING_DESCRIPTION"
 msgid "Take as many items from the crates as you can safely manage and evacuate your squad"
-msgstr "消灭所有敌人以获取资源箱。"
+msgstr "尽可能多地拿走箱子里的物品，然后撤离你的小队"
 
 msgctxt "Missions/KEY_MISSION_ATTACK_SCAVENGING_SITE_BRIEFING_NAME"
 msgid "SCAVENGING SITE"
@@ -10604,7 +10644,7 @@ msgstr "回收处"
 
 msgctxt "Missions/KEY_MISSION_ATTACK_SCAVENGING_SITE_DEFEAT_DESCRIPTION"
 msgid "The site is overrun and any remaining crates will no longer be recoverable"
-msgstr "此地遭到肆虐，所有资源箱均已被摧毁。"
+msgstr "此地已沦陷，所有剩余的箱子无法被回收"
 
 msgctxt "Missions/KEY_MISSION_ATTACK_SCAVENGING_SITE_DEFEAT_NAME"
 msgid "SCAVENGING SITE ABANDONED"
@@ -10612,7 +10652,7 @@ msgstr "回收处已废弃"
 
 msgctxt "Missions/KEY_MISSION_ATTACK_SCAVENGING_SITE_VICTORY_DESCRIPTION"
 msgid "All collected resource packs have been transferred to our stores"
-msgstr "已取回所有幸存资源箱，资源已全部转移至仓库。"
+msgstr "所有收集到的资源包已转入仓库"
 
 msgctxt "Missions/KEY_MISSION_ATTACK_SCAVENGING_SITE_VICTORY_NAME"
 msgid "SCAVENGING SITE CLEARED"
@@ -11160,7 +11200,7 @@ msgstr "已夺取飞行器"
 
 msgctxt "Missions/KEY_MISSION_STEAL_FOOD_BRIEFING_DESC"
 msgid "Take as many items from the crates as you can safely manage and evacuate your squad"
-msgstr "消灭敌方军队并夺取未受损的食物箱。"
+msgstr "尽可能多地拿走箱子里的物品，然后撤离你的小队"
 
 msgctxt "Missions/KEY_MISSION_STEAL_FOOD_BRIEFING_NAME"
 msgid "RAID FOOD"
@@ -11168,7 +11208,7 @@ msgstr "掠夺食物"
 
 msgctxt "Missions/KEY_MISSION_STEAL_FOOD_DEFEAT_DESC"
 msgid "Nothing was gained from the mission"
-msgstr "所有食物箱均未能幸免于此次战斗。"
+msgstr "本次任务什么也没有得到"
 
 msgctxt "Missions/KEY_MISSION_STEAL_FOOD_DEFEAT_NAME"
 msgid "FOOD RAID FAILURE"
@@ -11176,15 +11216,15 @@ msgstr "掠夺食物失败"
 
 msgctxt "Missions/KEY_MISSION_STEAL_FOOD_VICTORY_DESC"
 msgid "All collected food resource packs have been transferred to our stores"
-msgstr "所有幸存食物箱均已被取回并加入我们的资源当中。"
+msgstr "所有收集倒的食物资源包已转入仓库"
 
 msgctxt "Missions/KEY_MISSION_STEAL_FOOD_VICTORY_NAME"
 msgid "RAID MISSION OVER"
-msgstr "已夺取食物"
+msgstr "突袭任务结束"
 
 msgctxt "Missions/KEY_MISSION_STEAL_MATERIALS_BRIEFING_DESC"
 msgid "Take as many items from the crates as you can safely manage and evacuate your squad"
-msgstr "消灭敌方军队并夺取未受损的物资箱。"
+msgstr "尽可能多地拿走箱子里的物品，然后撤离你的小队"
 
 msgctxt "Missions/KEY_MISSION_STEAL_MATERIALS_BRIEFING_NAME"
 msgid "RAID MATERIALS"
@@ -11192,7 +11232,7 @@ msgstr "掠夺材料"
 
 msgctxt "Missions/KEY_MISSION_STEAL_MATERIALS_DEFEAT_DESC"
 msgid "Nothing was gained from the mission"
-msgstr "所有物资箱均未能免于此次战斗。"
+msgstr "本次任务什么也没有得到"
 
 msgctxt "Missions/KEY_MISSION_STEAL_MATERIALS_DEFEAT_NAME"
 msgid "MATERIALS RAID FAILURE"
@@ -11200,11 +11240,11 @@ msgstr "掠夺材料失败"
 
 msgctxt "Missions/KEY_MISSION_STEAL_MATERIALS_VICTORY_DESC"
 msgid "All collected materials resource packs have been transferred to our stores"
-msgstr "所有幸存物资箱均已被取回并添加到我们的资源当中。"
+msgstr "所有收集到的材料资源包已转入仓库"
 
 msgctxt "Missions/KEY_MISSION_STEAL_MATERIALS_VICTORY_NAME"
 msgid "RAID MISSION OVER"
-msgstr "已夺取材料"
+msgstr "突袭任务结束"
 
 msgctxt "Missions/KEY_MISSION_STEAL_RESEARCH_BRIEFING_DESC"
 msgid "Inflitrate the research facility and hack the consoles we have identified as containing the research data."
@@ -11232,7 +11272,7 @@ msgstr "已获得研究"
 
 msgctxt "Missions/KEY_MISSION_STEAL_TECH_BRIEFING_DESC"
 msgid "Take as many items from the crates as you can safely manage and evacuate your squad"
-msgstr "消灭敌方军队并夺取未受损的科技箱。"
+msgstr "尽可能多地拿走箱子里的物品，然后撤离你的小队"
 
 msgctxt "Missions/KEY_MISSION_STEAL_TECH_BRIEFING_NAME"
 msgid "RAID TECH"
@@ -11240,7 +11280,7 @@ msgstr "掠夺科技"
 
 msgctxt "Missions/KEY_MISSION_STEAL_TECH_DEFEAT_DESC"
 msgid "Nothing was gained from the mission"
-msgstr "所有科技箱均未能幸免于此次战斗。"
+msgstr "本次任务什么也没有得到"
 
 msgctxt "Missions/KEY_MISSION_STEAL_TECH_DEFEAT_NAME"
 msgid "TECH RAID FAILURE"
@@ -11248,11 +11288,11 @@ msgstr "掠夺科技失败"
 
 msgctxt "Missions/KEY_MISSION_STEAL_TECH_VICTORY_DESC"
 msgid "All collected tech resource packs have been transferred to our stores"
-msgstr "所有幸存科技箱均已被取回并加入我们的资源当中。"
+msgstr "所有收集到的科技资源包已转入仓库"
 
 msgctxt "Missions/KEY_MISSION_STEAL_TECH_VICTORY_NAME"
 msgid "RAID MISSION OVER"
-msgstr "已夺取科技"
+msgstr "突袭任务结束"
 
 msgctxt "Missions/KEY_MISSION_SUMMARY_BACK_GEOSCAPE"
 msgid "GO BACK TO GEOSCAPE"
@@ -12280,7 +12320,7 @@ msgstr "病毒伤害会在你的回合开始时扣除意志力点数，在接下
 
 msgctxt "Loading Tips/KEY_TACTICAL_LOADING_TIP_28"
 msgid "Acid damage attached to body parts will damage armor first, and then body parts. Remaining acid levels reduce each turn."
-msgstr "附着在身体部位的酸蚀伤害会在每回合减少对应部位的 10 点护甲，然后开始腐蚀肉体，直到酸蚀伤害消失。"
+msgstr "酸蚀伤害会附着于躯体的各个部位，先损伤护甲，护甲耗尽后才会伤害身体。剩余酸蚀等级每回合都会减少。"
 
 msgctxt "Loading Tips/KEY_TACTICAL_LOADING_TIP_29"
 msgid "Paralysis damage will inflict an Action Point penalty based on the paralysis damage value compared to the target's strength. If paralysis value is greater than strength, then the victim is totally paralyzed."
@@ -12584,7 +12624,7 @@ msgstr "侧面"
 
 msgctxt "Body parts/KEY_VEHICLE_TIRE_DESCRIPTION"
 msgid "New Jericho Armadillo Wheel"
-msgstr "轮胎"
+msgstr "新耶利哥犰狳车轮"
 
 msgctxt "Body parts/KEY_VEHICLE_TIRE_NAME"
 msgid "WHEEL"
@@ -14784,7 +14824,7 @@ msgstr "J·P·李希特上尉"
 
 msgctxt "Character Bios/KEY_BIO_DESC_RICHTER"
 msgid "A wayward assault trooper, Richter was always heading for trouble. After the fall of the independent haven where he spent his childhood, Richter joined New Jericho less out of a dedication to its principles than out of a desire to kill as many Pandorans as possible. [LF][LF]A classified incident resulted in Richter being placed in quarantine, which led to him being one of four soldiers left behind to defend Fort Freiheit while the rest of the population was evacuated. Richter was the only one of the four to make it back to a New Jericho settlement, although rumors of the others surviving as well continue to circulate. Richter, for his part, will say nothing when asked, but is known to bear a grudge against Colonel Harslon, who was in charge of Fort Freiheit.[LF][LF]Richter now works in New Jericho's Training and Leader Development Department, although he is said to be involved with some of New Jericho's secret projects as well."
-msgstr "李希特是一名桀敖不驯的突击队员，总是会惹出各种各样的麻烦。童年时期的独立避难所沦陷之后，他便加入了新耶利哥。他这么做的理由，并不是为了什么所谓的新耶利哥原则，而是为了杀死尽可能多的潘多拉体。[LF] [LF]基地里发生的一起机密事件使李希特被隔离了起来。也正是如此，当弗莱海特堡垒的居民全都撤离之后，他成为了留下来的四员守将之一。尽管其他三人也幸存下来了的谣言仍在继续流传，但李希特是四人中唯一一个回到了新耶利哥定居点的人。旁人问及李希特发生的事情时，他什么也不愿说，但人们都知道他对掌管弗莱海特堡垒的哈尔森上校心怀不满。[LF] [LF]如今的李希特在新耶利哥的培训与首领培养部门工作，不过据说他也参与了一些新耶利哥的秘密项目。"
+msgstr "李希特是一名桀敖不驯的突击队员，总是会惹出各种各样的麻烦。童年时期的独立避难所沦陷之后，他便加入了新耶利哥。他这么做的理由，并不是为了什么所谓的新耶利哥原则，而是为了杀死尽可能多的潘多拉体。[LF][LF]基地里发生的一起机密事件使李希特被隔离了起来。也正是如此，当弗莱海特堡垒的居民全都撤离之后，他成为了留下来的四员守将之一。尽管其他三人也幸存下来了的谣言仍在继续流传，但李希特是四人中唯一一个回到了新耶利哥定居点的人。旁人问及李希特发生的事情时，他什么也不愿说，但人们都知道他对掌管弗莱海特堡垒的哈尔森上校心怀不满。[LF][LF]如今的李希特在新耶利哥的培训与首领培养部门工作，不过据说他也参与了一些新耶利哥的秘密项目。"
 
 msgctxt "Character Bios/KEY_BIO_NAME_HARLSON"
 msgid "Colonel Jack Harlson"
@@ -14888,7 +14928,7 @@ msgstr "纯净者"
 
 msgctxt "Lore/KEY_LORE_DESC_PURE"
 msgid "The renegade faction known as \"\"The Pure\"\" appeared in 2045 after a group of experimental subjects escaped from a New Jericho cybernetics program. The program was being shut down at the time, and its apparent failure covered up. Acting as a nomad paramilitary organisation, The Pure are cyborgs - as close to a machine as a human can get. They share the belief that anyone that has exposed flesh could be infected, and is thus “impure”. While there are many instances of them attacking scavenging sites or convoys world wide, none of their strongholds have been located so far.[CR][LF][CR][LF]According to the individual known as Subject 24, they are the result of advanced cybernetic New Jericho experiments that somehow went wrong. In particular, the mental state of subjects in the program suffered from the transition they had to endure to become cyborgs.[CR]"
-msgstr "2045 年，一批从新耶利哥神经机械项目中逃出来的实验对象出现在大众视野之下，这支反叛派系自称为“纯净者”。该项目随后便遭到关闭，项目失败一事也被掩盖起来。纯净者的行为举止如同一个四处游荡的准军事组织，这些半机械人的身体几乎已经达到了人类机械改造的极限。他们的共同观念是，任何暴露在外的肉体都有可能被污染，因此是“不纯净的”。虽然世界各地都有他们袭击回收处或车队的报道，但他们的据点至今还未被发现。[LF] [LF]根据一位自称“24 号实验对象”的个体所述，他们是一项新耶利哥高级神经机械实验的产物，但那次实验出了些差错。实验对象的精神状态遭受了必须承受的转变，才能成为半机械人。"
+msgstr "2045 年，一批从新耶利哥神经机械项目中逃出来的实验对象出现在大众视野之下，这支反叛派系自称为“纯净者”。该项目随后便遭到关闭，项目失败一事也被掩盖起来。纯净者的行为举止如同一个四处游荡的准军事组织，这些半机械人的身体几乎已经达到了人类机械改造的极限。他们的共同观念是，任何暴露在外的肉体都有可能被污染，因此是“不纯净的”。虽然世界各地都有他们袭击回收处或车队的报道，但他们的据点至今还未被发现。[LF][LF]根据一位自称“24 号实验对象”的个体所述，他们是一项新耶利哥高级神经机械实验的产物，但那次实验出了些差错。实验对象的精神状态遭受了必须承受的转变，才能成为半机械人。"
 
 msgctxt "Lore/KEY_LORE_TITLE_SUBJECT24"
 msgid "Subject 24"
@@ -14896,7 +14936,7 @@ msgstr "24 号实验对象"
 
 msgctxt "Lore/KEY_LORE_DESC_SUBJECT24"
 msgid "Little is known about the individual calling himself Subject 24. According to his own words he was involved in New Jericho’s cybernetic program \"\"Project Purity\"\", and later became the leader of The Pure faction. Classified records confirm the existence of a Major Zachery Richards who indeed worked for Tobias West, although he was marked as having died in a work accident. Any further information has been redacted and unavailable.[CR][LF][CR][LF]Supplementary: a behavior analysis has received with 89% certainty that Subject 24 is as resentful of the Phoenix Project as he is of New Jericho. There is a possibility for him to have been involved with the organisation at some point in the past. [CR]"
-msgstr "关于自称为 24 号实验对象的个体信息少之又少。根据他的自述，他曾经参与过新耶利哥的一个名为“纯净计划”的神经机械项目，后来成为了纯净者派系的首领。机密档案证实，确实有一位名叫扎奇里·理查德的少校曾经为托拜厄斯·韦斯特工作，但记录显示他已在一场工作事故中殉职。所有详情信息均已遭到篡改且无法使用。[LF] [LF]补充信息：行为分析表明，24 号实验对象有 89% 的可能性对凤凰计划持仇恨态度，且不亚于他对新耶利哥的憎恨。原因可能是他曾经与凤凰计划打过交道。"
+msgstr "关于自称为 24 号实验对象的个体信息少之又少。根据他的自述，他曾经参与过新耶利哥的一个名为“纯净计划”的神经机械项目，后来成为了纯净者派系的首领。机密档案证实，确实有一位名叫扎奇里·理查德的少校曾经为托拜厄斯·韦斯特工作，但记录显示他已在一场工作事故中殉职。所有详情信息均已遭到篡改且无法使用。[LF][LF]补充信息：行为分析表明，24 号实验对象有 89% 的可能性对凤凰计划持仇恨态度，且不亚于他对新耶利哥的憎恨。原因可能是他曾经与凤凰计划打过交道。"
 
 msgctxt "Lore/KEY_LORE_TITLE_FORSAKEN"
 msgid "The Forsaken"
@@ -14904,5 +14944,5 @@ msgstr "放逐者"
 
 msgctxt "Lore/KEY_LORE_DESC_FORSAKEN"
 msgid "For decades Disciples of Anu had practised the exiling, or outcasting, of their members that were too weak to withstand the mutation gifts they acquired. According to preliminary reports, ninety percent of them would die within a few weeks. With time, tho, the survivors slowly grouped together forming bandit squads that would roam the world looking for food and resources.[LF][LF]Completely mutated, and with no loyalty to the Exalted or anyone else, these outcasts banded together in their mind breaking dreams. They appear to lack any hierarchy or command structure, yet are able to organize themselves to attack small targets. Lately, their attacks have become bolder and better planned, as if they are somehow linked to each other. [LF][LF]At present the outcast’s threat level remains low."
-msgstr "数十年来，安努门徒教会一直在驱逐那些过于软弱而无法承受异变馈赠的成员。根据初步报告，遭到驱逐的成员有百分之九十都会在几周内死去。但久而久之，那些存活下来的人逐渐聚在了一起，组成了各种形式的强盗小队在世界各处游荡，寻找食物和资源。[LF] [LF]这些被遗弃之人从头到脚都已发生变异。他们既不效忠于圣尊，也不听从任何人的命令，只是由各自支离破碎的想法而汇聚在一起。他们似乎并没有等级制度之分，也缺乏指挥，但却能够自行组织起来对一些小型目标发起攻击。最近，他们的攻击活动变得愈发明目张胆，而且有着更强的计划性，仿佛相互连接在了一起。 [LF] [LF]目前，放逐者的威胁等级依然较低。"
+msgstr "数十年来，安努门徒教会一直在驱逐那些过于软弱而无法承受异变馈赠的成员。根据初步报告，遭到驱逐的成员有百分之九十都会在几周内死去。但久而久之，那些存活下来的人逐渐聚在了一起，组成了各种形式的强盗小队在世界各处游荡，寻找食物和资源。[LF][LF]这些被遗弃之人从头到脚都已发生变异。他们既不效忠于圣尊，也不听从任何人的命令，只是由各自支离破碎的想法而汇聚在一起。他们似乎并没有等级制度之分，也缺乏指挥，但却能够自行组织起来对一些小型目标发起攻击。最近，他们的攻击活动变得愈发明目张胆，而且有着更强的计划性，仿佛相互连接在了一起。 [LF] [LF]目前，放逐者的威胁等级依然较低。"
 

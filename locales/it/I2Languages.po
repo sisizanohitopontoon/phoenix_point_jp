@@ -358,41 +358,81 @@ msgctxt "PH_Localization/KEY_OK"
 msgid "OK"
 msgstr "OK"
 
+msgctxt "Cthulhu/KEY_BASE_PROMPT_HARVEST_ALIEN_FOR_FOOD"
+msgid "Are you sure you want to kill the Pandoran {0} for food? If you do the creature will be killed and :Resources: Supplies:  {1} will be added to your reserves."
+msgstr "[null]"
+
+msgctxt "Cthulhu/KEY_BASE_PROMPT_HARVEST_ALIEN_FOR_MUTAGENS"
+msgid "Are you sure you want to kill the Pandoran {0} for mutagens? If you do the creature will be killed and :Resources: Mutagens: {1} will be added to your reserves."
+msgstr "[null]"
+
+msgctxt "Cthulhu/KEY_BASE_PROMPT_KILL_CAPTURED_ALIEN"
+msgid "Are you sure you want to kill the Pandoran {0}?"
+msgstr "[null]"
+
+msgctxt "Cthulhu/KEY_BASE_PROMPT_HARVEST_ALIEN_FOR_FOOD_RESULT"
+msgid "{0} has been killed. {1} food has been added to reserves."
+msgstr "[null]"
+
+msgctxt "Cthulhu/KEY_BASE_PROMPT_HARVEST_ALIEN_FOR_MUTAGENS_RESULT"
+msgid "{0} has been killed. {1} mutagens have been added to reserves."
+msgstr "[null]"
+
+msgctxt "Cthulhu/KEY_BASE_PROMPT_KILL_CAPTURED_ALIEN_RESULT"
+msgid "{0} has been killed."
+msgstr "[null]"
+
+msgctxt "Cthulhu/KEY_TUTORIAL_BASE_ACTIVATION_NAME"
+msgid "Base Activation"
+msgstr "[null]"
+
+msgctxt "Cthulhu/KEY_TUTORIAL_BASE_ACTIVATION_DESCRIPTION"
+msgid "After analyzing the Phoenix Archives data banks, it has become clear that Phoenix Point is the only operational Phoenix Base.[LF]Fortunately we were able to find the locations of 31 additional bases throughout the globe, some of which could be remotely reactivated. The decision which bases to activate is vital since it will determine how the Phoenix Initiative progresses.[LF]Damaged facilities will have to be additionally repaired after activation."
+msgstr "[null]"
+
+msgctxt "Cthulhu/KEY_TUTORIAL_BASE_ACTIVATION_DESCRIPTION_ADD"
+msgid "Bases available for activation will be visualized with this symbol."
+msgstr "[null]"
+
+msgctxt "Cthulhu/KEY_ALIEN_BASE_DISCOVERED"
+msgid "PANDORAN BASE DETECTED"
+msgstr "[null]"
+
 msgctxt "Danforth/KEY_OBJECTIVE_PICK_RESOURCES"
 msgid "RESOURCE PACKS COLLECTED: {0}/{1}"
-msgstr "Pacchetti di risorse collezionati: {0} / {1}"
+msgstr "PACCHETTI RISORSE RACCOLTI: {0}/{1}"
 
 msgctxt "Danforth/KEY_RESOURCE_FOOD_NAME"
 msgid "FOOD PACK"
-msgstr "PACCO ALIMENTARE"
+msgstr "PACCHETTO DI CIBO"
 
 msgctxt "Danforth/KEY_RESOURCE_FOOD_DESCRIPTION"
 msgid "Concentrated nutrient portions"
-msgstr "porzioni di nutrienti concentrati"
+msgstr "Porzioni di nutrienti concentrati"
 
 msgctxt "Danforth/KEY_RESOURCE_MATERIALS_NAME"
 msgid "MATERIAL PACK"
-msgstr "PACCO MATERIALE"
+msgstr "PACCHETTO DI MATERIALI"
 
 msgctxt "Danforth/KEY_RESOURCE_MATERIALS_DESCRIPTION"
 msgid "Construction materials"
-msgstr "Materiali di costruzione"
+msgstr "Materiali da costruzione"
 
 msgctxt "Danforth/KEY_RESOURCE_MUTAGENS_NAME"
 msgid "MUTAGEN PACK"
-msgstr "PACCO MUTAGENO"
+msgstr "PACCHETTO DI MUTAGENI"
 
 msgctxt "Danforth/KEY_RESOURCE_MUTAGENS_DESCRIPTION"
 msgid "A capsule of active Pandoran mutagens."
-msgstr "Una capsula di mutageni Pandoriani attivi."
+msgstr "Una capsula di mutageni attivi dei Pandora."
 
 msgctxt "Danforth/KEY_RESOURCE_TECH_NAME"
 msgid "TECH PACK"
-msgstr "PACCO TECH"
+msgstr "PACCHETTO DI TECNOLOGIA"
 
 msgctxt "Danforth/KEY_RESOURCE_TECH_DESCRIPTION"
 msgid "High tech construction components"
-msgstr "elementi costruttivi ad alta tecnologia"
+msgstr "Componenti per costruzioni ad alta tecnologia"
 
 msgctxt "Danforth/KEY_OBJECTIVE_RESCUE_ALLY"
 msgid "#RESCUE ALLIES: {0}/{1}"
@@ -404,7 +444,7 @@ msgstr "RECUPERO DEL VEICOLO"
 
 msgctxt "Danforth/KEY_LOAD_INVALID_TACTICAL"
 msgid "This in-battle save is not compatible with the current version of the game. The game will revert the Geoscape just prior to the mission."
-msgstr "Questo in-battaglia di salvataggio non è compatibile con la versione attuale del gioco. Il gioco tornerà la Geoscape poco prima della missione."
+msgstr "Questo salvataggio durante la battaglia non è compatibile con la versione attuale del gioco. Il Globo sarà riportato a prima dell'inizio della missione."
 
 msgctxt "Danforth/KEY_BASE_RECRUITS_SPAWNED"
 msgid "New recruits available."
@@ -416,7 +456,7 @@ msgstr "RECLUTE"
 
 msgctxt "Danforth/KEY_BASE_RECRUITS_ROSTER_DESCRIPTION"
 msgid "All volunteers available for recruiting at your base"
-msgstr "Tutti i volontari disponibili per il reclutamento presso la vostra base"
+msgstr "Tutti i volontari disponibili per il reclutamento si trovano nella tua base"
 
 msgctxt "Danforth/KEY_BASE_RECRUITS_ABILITIES"
 msgid "ABILITIES"
@@ -424,19 +464,19 @@ msgstr "ABILITÀ"
 
 msgctxt "Danforth/KEY_BASE_RECRUITS_DEPLOYMENT"
 msgid "RECRUIT DEPLOYMENT"
-msgstr "RECLUTA SCHIERAMENTO"
+msgstr "SCHIERAMENTO RECLUTA"
 
 msgctxt "Danforth/KEY_BASE_STATUS_RECRUITING_NORMAL"
 msgid "ONLINE"
-msgstr "IN LINEA"
+msgstr "ONLINE"
 
 msgctxt "Danforth/KEY_BASE_STATUS_RECRUITING_ATTACK"
 msgid "INCOMING ATTACK"
-msgstr "attacco in arrivo"
+msgstr "ATTACCO IN ARRIVO"
 
 msgctxt "Danforth/KEY_BASE_RECRUITS_AVAILABLE"
 msgid "RECRUITS AVAILABLE IN {0} DAYS"
-msgstr "Reclute disponibile in {0} giorni"
+msgstr "RECLUTE DISPONIBILI TRA {0} GIORNI"
 
 msgctxt "Danforth/KEY_BASE_RECRUITS_RECRUIT_ACTION"
 msgid "RECRUIT"
@@ -444,103 +484,103 @@ msgstr "RECLUTA"
 
 msgctxt "Danforth/KEY_BASE_DISMISS_PERSON"
 msgid "Dismiss soldier, removing them from the Phoenix Project. All equipment will be put in storage."
-msgstr "Respingere soldato, rimuovendoli dal Progetto Phoenix. Tutte le attrezzature sarà messo in deposito."
+msgstr "Congeda un soldato, rimuovendolo dal Progetto Phoenix. Tutto l'equipaggiamento verrà trasferito al magazzino."
 
 msgctxt "Danforth/KEY_BASE_DISMISS_PERSON_PROMPT"
 msgid "Are you sure you want to dismiss {0}? If you do their equipment will be placed in storage."
-msgstr "Sei sicuro di voler annullare {0}? Se fate il loro equipaggiamento sarà collocato in deposito."
+msgstr "Vuoi davvero congedare {0}? Se procedi, il suo equipaggiamento verrà trasferito al magazzino."
 
 msgctxt "Danforth/KEY_BASE_DISMISS_PERSON_RESULT"
 msgid "{0} has been dismissed."
-msgstr "{0} è stato respinto."
+msgstr "{0} non fa più parte dei tuoi soldati."
 
 msgctxt "Danforth/KEY_BASE_DISMISS_VEHICLE"
 msgid "Remove vehicle from the Phoenix Project"
-msgstr "Rimuovere veicolo dal Progetto Phoenix"
+msgstr "Rimuovi veicolo dal Progetto Phoenix"
 
 msgctxt "Danforth/KEY_BASE_DISMISS_VEHICLE_PROMPT"
 msgid "Are you sure you want to remove {0}?"
-msgstr "Sei sicuro di voler rimuovere {0}?"
+msgstr "Vuoi davvero rimuovere {0}?"
 
 msgctxt "Danforth/KEY_BASE_DISMISS_VEHICLE_RESULT"
 msgid "{0} has been abandoned"
-msgstr "{0} è stato abbandonato"
+msgstr "Abbandono di {0} completato"
 
 msgctxt "Danforth/KEY_BASE_DISMISS_MUTOG"
 msgid "Release Mutog, removing it from the Phoenix Project"
-msgstr "Rilasciare Mutog, rimuovendolo dal Progetto Phoenix"
+msgstr "Libera Mutog, rimuovendolo dal Progetto Phoenix"
 
 msgctxt "Danforth/KEY_BASE_DISMISS_MUTOG_PROMPT"
 msgid "Are you sure you want to release {0}?"
-msgstr "Sei sicuro di voler cedere {0}?"
+msgstr "Vuoi davvero liberare {0}?"
 
 msgctxt "Danforth/KEY_BASE_DISMISS_MUTOG_RESULT"
 msgid "{0} has been released"
-msgstr "{0} è stato rilasciato"
+msgstr "{0} è stato liberato"
 
 msgctxt "Danforth/KEY_OBJECTIVE_GET_SOLDIERS"
 msgid "RESCUE SOLDIERS: {0}/{1}"
-msgstr "SOLDATI DI SOCCORSO: {0} / {1}"
+msgstr "SALVA SOLDATI: {0}/{1}"
 
 msgctxt "Danforth/KEY_OBJECTIVE_GET_VEHICLE"
 msgid "RECOVER VEHICLE"
-msgstr "RECUPERARE VEICOLO"
+msgstr "RECUPERA VEICOLO"
 
 msgctxt "Danforth/KEY_MANUFACTURING_STORAGE_INSUFFICIENT"
 msgid "<color=#ECBA62> (insufficient storage space)</color>"
-msgstr "<color=#ECBA62> (spazio di archiviazione insufficiente) </color>"
+msgstr "<color=#ECBA62> (spazio magazzino insufficiente)</color>"
 
 msgctxt "Danforth/KEY_MISSION_DEBRIEF_RESCUE"
 msgid "NEW PERSONNEL"
-msgstr "NUOVO PERSONALE"
+msgstr "NUOVI MEMBRI DEL PERSONALE"
 
 msgctxt "Danforth/KEY_MESSAGE_HAVEN_LEADER_DOESNT_TRADE"
 msgid "Diplomatic relations with the Haven are too low. The Heaven leader refuses to trade with you."
-msgstr "Le relazioni diplomatiche con l'Haven sono troppo bassi. Il leader cielo si rifiuta di vendere con voi."
+msgstr "Le relazioni diplomatiche con il rifugio sono troppo scarse. Il leader del rifugio si rifiuta di commerciare con te."
 
 msgctxt "Danforth/KEY_MESSAGE_SITE_UNREACHABLE"
 msgid "The location is too far away to be reached directly."
-msgstr "La posizione è troppo lontano per essere raggiunto direttamente."
+msgstr "La posizione è troppo lontana per essere raggiunta in maniera diretta."
 
 msgctxt "Danforth/KEY_MESSAGE_NOT_ENOUGH_RESOURCES"
 msgid "You do not have enough resources to perform this action."
-msgstr "Non si dispone di risorse sufficienti per eseguire questa azione."
+msgstr "Non hai abbastanza risorse per eseguire questa azione."
 
 msgctxt "Danforth/KEY_MISSION_RAID_RESOURCES_SITE_BRIEFING_DESCRIPTION"
 msgid "Search the crates and obtain as many resource packs as possible."
-msgstr "Cerca le casse e ottenere il maggior numero di pacchetti di risorse possibili."
+msgstr "Ispeziona le casse e ottieni quanti più pacchetti risorse possibili."
 
 msgctxt "Danforth/KEY_MISSION_RAID_RESOURCES_SITE_BRIEFING_NAME"
 msgid "RESOURCE RAID"
-msgstr "RISORSA RAID"
+msgstr "RAZZIA DI RISORSE"
 
 msgctxt "Danforth/KEY_MISSION_RAID_RESOURCES_SITE_DEFEAT_DESCRIPTION"
 msgid "Your entire team has been wiped out. No resources were claimed."
-msgstr "L'intero team è stata spazzata via. Nessuna risorsa è stata rivendicati."
+msgstr "La tua squadra è stata completamente annientata. Non hai ottenuto alcuna risorsa."
 
 msgctxt "Danforth/KEY_MISSION_RAID_RESOURCES_SITE_DEFEAT_NAME"
 msgid "RESOURCE RAID FAILED"
-msgstr "RISORSA RAID FALLITO"
+msgstr "RAZZIA DI RISORSE FALLITA"
 
 msgctxt "Danforth/KEY_MISSION_RAID_RESOURCES_SITE_VICTORY_DESCRIPTION"
 msgid "Your team was successfully evacuated. All resources obtained from the mission are added to your resource pool."
-msgstr "La tua squadra è stato evacuato con successo. Tutte le risorse ottenute dalla missione vengono aggiunti al pool di risorse."
+msgstr "La tua squadra è stata fatta evacuare con successo. Tutte le risorse ottenute dalla missione sono state aggiunte a quelle già in tuo possesso."
 
 msgctxt "Danforth/KEY_MISSION_RAID_RESOURCES_SITE_VICTORY_NAME"
 msgid "RESOURCE RAID SUCCESSFUL"
-msgstr "RISORSA RAID SUCCESSO"
+msgstr "RAZZIA DI RISORSE COMPLETATA CON SUCCESSO"
 
 msgctxt "Danforth/KEY_MISSION_RAID_RESOURCES_SITE_WARNING"
 msgid "Warning! Resource Raid missions are much more dangerous if within a mist zone."
-msgstr "Avvertimento! missioni Raid risorse sono molto più pericoloso se all'interno di una zona di nebbia."
+msgstr "Attenzione! Le missioni di razzia di risorse sono molto più pericolose se si svolgono all'interno di una zona di bruma."
 
 msgctxt "Danforth/KEY_MISSION_RAID_RESOURCES_SITE_WARNING_DESCRIPTION"
 msgid "Be aware you will be facing a continuous stream of local reinforcements. Collect as much equipment and resources as you can from the crates and exit the site from an evacuation zone."
-msgstr "Essere consapevoli vi troverete di fronte un flusso continuo di rinforzi locali. Raccogliere quanto più attrezzature e risorse, come si può dalle casse e uscire dal sito da una zona di evacuazione."
+msgstr "Tieni a mente che dovrai affrontare un flusso continuo di rinforzi nemici. Raccogli quante più risorse ed equipaggiamento possibile dalle casse e abbandona il sito tramite una zona di evacuazione."
 
 msgctxt "Danforth/KEY_STATUS_REPAIR_TIME"
 msgid "{0:f0}h to repair"
-msgstr "{0: F0} h di riparazione"
+msgstr "{0:f0} ore per completare la riparazione"
 
 msgctxt "Danforth/KEY_STATUS_AI_CONTROLLED_NAME"
 msgid "AUTONOMOUS"
@@ -548,27 +588,27 @@ msgstr "AUTONOMO"
 
 msgctxt "Danforth/KEY_STATUS_AI_CONTROLLED_DESCRIPTION"
 msgid "Reverted to autonomous AI control"
-msgstr "Ritornato per controllare autonomo AI"
+msgstr "Ripristino del controllo automatico delle IA"
 
 msgctxt "Danforth/KEY_WARNING_CONTINUOUS_ATTACK"
-msgid "CONTINIOUS ATTACK"
-msgstr "ATTACCO continious"
+msgid "CONTINUOUS ATTACK"
+msgstr "ATTACCO COSTANTE"
 
 msgctxt "Danforth/KEY_CONTINUOUS_ATTACK_DESCRIPTION"
 msgid "Enemy reinforcements will arrive continuously from areas marked with this symbol"
-msgstr "rinforzi nemici arriveranno in modo continuo da aree contrassegnate con questo simbolo"
+msgstr "I rinforzi nemici continueranno ad arrivare dalle aree contrassegnate con questo simbolo"
 
 msgctxt "Danforth/KEY_SCARAB_TIRE_DESCRIPTION"
 msgid "Scarab caterpillar track"
-msgstr "cingolati Caterpillar Scarab"
+msgstr "Cingoli dello Scarabeo"
 
 msgctxt "Danforth/KEY_SCARAB_TIRE_NAME"
 msgid "TRACK"
-msgstr "TRACCIA"
+msgstr "CINGOLI"
 
 msgctxt "Danforth/KEY_ASPIDA_ENGINE_DESCRIPTION"
 msgid "Aspida ground effect thruster"
-msgstr "Aspida effetto suolo di prua"
+msgstr "Propulsore a effetto suolo per l'Aspida"
 
 msgctxt "Danforth/KEY_ASPIDA_ENGINE_NAME"
 msgid "THRUSTER"
@@ -576,7 +616,7 @@ msgstr "PROPULSORE"
 
 msgctxt "Danforth/KEY_ASPIDA_HULL_DESCRIPTION"
 msgid "Aspida hull"
-msgstr "scafo Aspida"
+msgstr "Scafo dell'Aspida"
 
 msgctxt "Danforth/KEY_ASPIDA_HULL_NAME"
 msgid "HULL"
@@ -584,107 +624,107 @@ msgstr "SCAFO"
 
 msgctxt "Danforth/KEY_ASPIDA_SHIELDING_DESCRIPTION"
 msgid "Aspida Shielding"
-msgstr "Aspida schermatura"
+msgstr "Scudi dell'Aspida"
 
 msgctxt "Danforth/KEY_ASPIDA_SHIELDING_NAME"
 msgid "SHIELDING"
-msgstr "SCHERMATURA"
+msgstr "SCUDI"
 
 msgctxt "Danforth/KEY_ASPIDA_ARM_DESCRIPTION"
 msgid "Synedrion Aspida Tech Arm"
-msgstr "Sinedrio Aspida Tech Arm"
+msgstr "Braccio meccanico dell'Aspida di Synedrion"
 
 msgctxt "Danforth/KEY_ASPIDA_ARM_NAME"
 msgid "TECH ARM"
-msgstr "TECH ARM"
+msgstr "BRACCIO MECCANICO"
 
 msgctxt "Danforth/KEY_BASE_ACTIVATE_NAME"
 msgid "ACTIVATE BASE"
-msgstr "ACTIVATE BASE"
+msgstr "ATTIVA BASE"
 
 msgctxt "Danforth/KEY_BASE_ACTIVATE_DESCRIPTION"
 msgid "Activate Phoenix Base remotely, rendering it operational."
-msgstr "Attiva Phoenix Base a distanza, rendendolo operativo."
+msgstr "Attiva la base Phoenix e rendila operativa da remoto."
 
 msgctxt "Danforth/KEY_BASE_ACTIVATE_CONFIRM_NAME"
 msgid "PHOENIX ACTIVATION PROTOCOL"
-msgstr "PHOENIX ATTIVAZIONE PROTOCOLLO"
+msgstr "PROTOCOLLO DI ATTIVAZIONE PHOENIX"
 
 msgctxt "Danforth/KEY_BASE_ACTIVATE_CONFIRM_DESCRIPTION"
 msgid "Initiating the activation protocols will consume resources to make the base operational. Any damaged facilities will need to be repaired."
-msgstr "Avvio dei protocolli di attivazione consumerà risorse per rendere la base operativa. Eventuali impianti danneggiati dovranno essere riparati."
+msgstr "L'avvio dei protocolli di attivazione consumerà delle risorse per rendere operativa la base. Tutte le strutture danneggiate dovranno essere riparate."
 
 msgctxt "Danforth/KEY_BASE_ACTIVATE_NOTIFICATION_RESOURCES"
 msgid "You do not have the enough resources to activate the base"
-msgstr "Non si dispone delle risorse sufficienti per attivare la base"
+msgstr "Non hai abbastanza risorse per attivare la base"
 
 msgctxt "Danforth/KEY_BASE_ACTIVATE_NOTIFICATION_LIMIT"
 msgid "You have reached the operational limit for Phoenix Bases. No more bases can be activated."
-msgstr "Hai raggiunto il limite operativo per basi Phoenix. Nessun altro basi possono essere attivati."
+msgstr "Hai raggiunto il limite di funzionamento per le basi Phoenix. Non è possibile attivare altre basi."
 
 msgctxt "Danforth/KEY_BASE_ACTIVATE_NOTIFICATION_ACTIVATED"
 msgid "Phoenix Base is already operational."
-msgstr "Phoenix Base è già operativo."
+msgstr "Base Phoenix già operativa."
 
 msgctxt "Danforth/KEY_GEOSCAPE_PANDORAN_NEST_DISCOVERED"
 msgid "A Pandoran Nest has been discovered and revealed on the Geoscape."
-msgstr "Un nido di Pandora è stato scoperto e ha rivelato sul Geoscape."
+msgstr "Un nido Pandora è stato scoperto e la sua posizione è stata indicata sul Globo."
 
 msgctxt "Danforth/KEY_GEOSCAPE_PANDORAN_LAIR_DISCOVERED"
 msgid "A Pandoran Lair has been discovered and revealed on the Geoscape."
-msgstr "Un Pandora Lair è stato scoperto e ha rivelato sul Geoscape."
+msgstr "Una tana Pandora è stata scoperta e la sua posizione è stata indicata sul Globo."
 
 msgctxt "Danforth/KEY_GEOSCAPE_PANDORAN_CITADEL_DISCOVERED"
 msgid "A Pandoran Citadel has been discovered and revealed on the Geoscape."
-msgstr "Un Pandora Cittadella è stato scoperto e ha rivelato sul Geoscape."
+msgstr "Una cittadella Pandora è stata scoperta e la sua posizione è stata indicata sul Globo."
 
 msgctxt "Danforth/KEY_MESSAGE_NO_SPACE_TO_RECRUIT"
 msgid "THERE IS NOT ENOUGH SPACE IN YOUR AIRCRAFT FOR THE NEW RECRUIT"
-msgstr "NON C'È SPAZIO sufficienti nel tuo aerei per la nuova recluta"
+msgstr "NON C'È ABBASTANZA SPAZIO SUL TUO VELIVOLO PER UNA NUOVA RECLUTA"
 
 msgctxt "Danforth/KEY_BASE_RECRUIT_CONFIRMATION"
 msgid "Are you sure you want to recruit {0} for {1}?"
-msgstr "Sei sicuro di voler reclutare {0} di {1}?"
+msgstr "Vuoi davvero reclutare {0} per {1}?"
 
 msgctxt "Danforth/KEY_BASE_RECRUIT_DEPLOYMENT"
 msgid "{0} has been recruited and deployed to base {1}"
-msgstr "{0} è stato assunto e distribuito alla base {1}"
+msgstr "Hai reclutato {0} e organizzato il suo schieramento nella base {1}"
 
 msgctxt "Danforth/KEY_MISSION_RESCUE_SOLDIERS_BRIEFING_DESC"
 msgid "Take control of the independent soldiers and evacuate the site with them"
-msgstr "Prendi il controllo dei soldati indipendenti ed evacuare il sito con loro"
+msgstr "Assumi il controllo dei soldati indipendenti e fai evacuare anche loro dal sito"
 
 msgctxt "Danforth/KEY_MISSION_RESCUE_SOLDIERS_BRIEFING_NAME"
 msgid "RESCUE SOLDIERS"
-msgstr "SOLDATI DI SOCCORSO"
+msgstr "SALVA SOLDATI"
 
 msgctxt "Danforth/KEY_MISSION_RESCUE_SOLDIERS_DEFEAT_DESC"
 msgid "Your squad was wiped out"
-msgstr "La tua squadra è stata spazzata via"
+msgstr "La tua squadra è stata annientata"
 
 msgctxt "Danforth/KEY_MISSION_RESCUE_SOLDIERS_DEFEAT_NAME"
 msgid "RESCUE FAILED"
-msgstr "MISSIONE DI SALVATAGGIO FALLITO"
+msgstr "SALVATAGGIO FALLITO"
 
 msgctxt "Danforth/KEY_MISSION_RESCUE_SOLDIERS_VICTORY_DESC"
 msgid "All surviving soldiers and vehicles have been evacuated"
-msgstr "Tutti i soldati sopravvissuti e veicoli sono stati evacuati"
+msgstr "Tutti i soldati sopravvissuti e i veicoli sono stati fatti evacuare"
 
 msgctxt "Danforth/KEY_MISSION_RESCUE_SOLDIERS_VICTORY_NAME"
 msgid "RESCUE MISSION OVER"
-msgstr "MISSIONE DI SALVATAGGIO OLTRE"
+msgstr "MISSIONE DI SALVATAGGIO TERMINATA"
 
 msgctxt "Danforth/KEY_MISSION_RECOVER_VEHICLE_BRIEFING_DESC"
 msgid "Take control of the vehicle located somewhere in the site and evacuate with it"
-msgstr "Prendi il controllo del veicolo si trova da qualche parte nel sito ed evacuare con esso"
+msgstr "Assumi il controllo del veicolo che si trova da qualche parte nel sito e usalo per evacuare"
 
 msgctxt "Danforth/KEY_MISSION_RECOVER_VEHICLE_BRIEFING_NAME"
 msgid "RECOVER VEHICLE"
-msgstr "RECUPERARE VEICOLO"
+msgstr "RECUPERA VEICOLO"
 
 msgctxt "Danforth/KEY_MISSION_RECOVER_VEHICLE_DEFEAT_DESC"
 msgid "Your squad was wiped out"
-msgstr "La tua squadra è stata spazzata via"
+msgstr "La tua squadra è stata annientata"
 
 msgctxt "Danforth/KEY_MISSION_RECOVER_VEHICLE_DEFEAT_NAME"
 msgid "RECOVERY FAILED"
@@ -692,23 +732,23 @@ msgstr "RECUPERO FALLITO"
 
 msgctxt "Danforth/KEY_MISSION_RECOVER_VEHICLE_VICTORY_DESC"
 msgid "All surviving soldiers and vehicles have been evacuated"
-msgstr "Tutti i soldati sopravvissuti e veicoli sono stati evacuati"
+msgstr "Tutti i soldati sopravvissuti e i veicoli sono stati fatti evacuare"
 
 msgctxt "Danforth/KEY_MISSION_RECOVER_VEHICLE_VICTORY_NAME"
 msgid "RECOVERY MISSION OVER"
-msgstr "RECUPERO MISSIONE OLTRE"
+msgstr "MISSIONE DI RECUPERO TERMINATA"
 
 msgctxt "Danforth/KEY_LAUNCH_LASER_DESCRIPTION"
 msgid "Fire laser at target location."
-msgstr "Fuoco a laser percorso di destinazione."
+msgstr "Spara un raggio laser sulla posizione bersaglio."
 
 msgctxt "Danforth/KEY_LAUNCH_LASER_NAME"
 msgid "LASER SHOT"
-msgstr "COLPO DI LASER"
+msgstr "RAGGIO LASER"
 
 msgctxt "Danforth/KEY_MESSAGE_NO_SPACE_INVENTORY"
 msgid "No space in inventory"
-msgstr "Nessuno spazio nell'inventario"
+msgstr "Spazio insufficiente nell'inventario"
 
 msgctxt "Darleth/KEY_TRADE_HAVEN"
 msgid "TRADE RESOURCES WITH {0}"
@@ -2716,11 +2756,11 @@ msgstr "USO VELOCE"
 
 msgctxt "Abilities/KEY_TECHNICIAN_MANUAL_CONTROL_DESCRIPTION"
 msgid "Use 1 AP and 3 WPs to take control of a turret or vehicle weapon and shoot at a target. "
-msgstr "Prende il controllo manuale di una torretta o dell'arma di un veicolo e spara a un bersaglio."
+msgstr "Usa 1 PA e 3 PV per prendere il controllo di una torretta o dell'arma di un veicolo e spara a un bersaglio."
 
 msgctxt "Abilities/KEY_TECHNICIAN_MANUAL_CONTROL_NAME"
 msgid "REMOTE CONTROL"
-msgstr "CONTROLLO MANUALE"
+msgstr "CONTROLLO DA REMOTO"
 
 msgctxt "Abilities/KEY_TECHNICIAN_FIELD_MEDIC_DESCRIPTION"
 msgid "Restore 10 Hit Points and 10 Armor to all body parts of the selected target. Disabled body parts are restored."
@@ -3256,7 +3296,7 @@ msgstr "ACIDO"
 
 msgctxt "Damage types/KEY_DAMAGE_TYPE_ACID_DESC"
 msgid "ACID damage sticks to individual body parts - each turn it applies damage to armor first, then body. Acid levels reduce by 10 each turn."
-msgstr "I danni ACIDI si attaccano alle parti del corpo, causando 10 danni ogni turno, prima all'armatura e poi al corpo. Il livello di acido cala di 10 a ogni turno."
+msgstr "I danni da ACIDO interessano le singole parti del corpo, e infliggono danni ogni turno: prima all'armatura e poi al corpo. I livelli di acido calano di 10 a ogni turno."
 
 msgctxt "Damage types/KEY_DAMAGE_TYPE_IMPACT"
 msgid "IMPACT"
@@ -3703,7 +3743,7 @@ msgid "Satellite Uplink"
 msgstr "Collegamento satellitare"
 
 msgctxt "Tutorial/KEY_TUTORIAL_SATELLITE_DESCRIPTION"
-msgid "Satellite Uplinks allow Area Scans to be initiated, revealing new sites of interest. The more Uplinks there are available, the more simultaneous scans can be performed.[LF][LF]An Area Scan can only performed by an aircraft, centred on its location. The scanning zone will expand over time, revealing new sites.[LF][LF]PERFORM AN AREA SCAN[LF]:LMB: on the Scan Area button, or select it with the gamepad cursor using :LTS: and press :A:."
+msgid "Satellite Uplinks allow Area Scans to be initiated from the base, revealing new sites of interest and providing constant information of changes in the area.[LF][LF]An Area Scan can only performed from a base. Once initiated the scanning zone will expand over time until it reaches its maximum range or is halted.[LF][LF]PERFORM AN AREA SCAN[LF]:LMB: on the Scan Area button, or select it with the gamepad cursor using :LTS: and press :A:."
 msgstr "I collegamenti satellitari permettono di iniziare la scansione area, per rivelare nuovi siti di interesse. Più sono i collegamenti disponibili, più scansioni simultanee potranno essere effettuate.[LF][LF]La scansione area può essere effettuata solo da un velivolo, che si trovi sulla posizione. L'area di scansione si allargherà col tempo, rivelando nuovi siti.[LF][LF]ESEGUIRE UNA SCANSIONE AREA[LF]:LMB: sul pulsante di scansione area, oppure selezionalo con il cursore del gamepad usando :LTS: e premendo :A:."
 
 msgctxt "Tutorial/KEY_TUTORIAL_MIST_NAME"
@@ -3908,7 +3948,7 @@ msgstr "Gli oggetti nella sezione \"\"IN USO\"\" dell'inventario sono mostrati n
 
 msgctxt "Tutorial/KEY_TUTORIAL_TACTICAL2_READY_ITEMS_DESCRIPTION_BIND"
 msgid "Items in the ready section of the inventory are shown in the Ready Items Bar. They can be selected for use without an AP cost.[LF][LF]READY ITEMS BAR CONTROLS[LF]Select item: Use :LMB: on the item's icon, or keys <color=#ECBA62>[{[TacSelectItem1]}], [{[TacSelectItem2]}], [{[TacSelectItem3]}] or [{[TacSelectItem4]}]</color>[LF]Select next item: <color=#ECBA62>[{[CycleWeapons]}]</color> key or gamepad :X:[LF][LF]SELECT THE GRENADE"
-msgstr "Gli oggetti nella sezione Pronto dell'inventario sono mostrati nella barra oggetti pronti. Possono essere selezionati per l'uso senza spendere alcun PA.[LF] [LF] COMANDI DELLA BARRA OGGETTI PRONTI[LF] Seleziona oggetto: usa :LMB: sull'icona dell'oggetto oppure i tasti <color=#ECBA62>[{[TacSelectItem1]}], [{[TacSelectItem2]}], [{[TacSelectItem3]}] o [{[TacSelectItem4]}]</color>[LF] Selezionare l'oggetto successivo: tasto <color=#ECBA62>[{[CycleWeapons]}]</color> o :X: sul gamepad[LF] [LF] SELEZIONA LA GRANATA"
+msgstr "Gli oggetti nella sezione Pronto dell'inventario sono mostrati nella barra oggetti pronti. Possono essere selezionati per l'uso senza spendere alcun PA.[LF] [LF] COMANDI DELLA BARRA OGGETTI PRONTI[LF] Seleziona oggetto: usa :LMB: sull'icona dell'oggetto oppure i tasti <color=#ECBA62>[{[TacSelectItem1]}], [{[TacSelectItem2]}], [{[TacSelectItem3]}] o [{[TacSelectItem4]}]</color>[LF]Selezionare l'oggetto successivo: tasto <color=#ECBA62>[{[CycleWeapons]}]</color> o :X: sul gamepad[LF] [LF] SELEZIONA LA GRANATA"
 
 msgctxt "Tutorial/KEY_TUTORIAL_TACTICAL2_GRENADE_NAME"
 msgid "Grenades"
@@ -4156,7 +4196,7 @@ msgstr "Effetti di stato"
 
 msgctxt "Phoenixpedia/KEY_PHOENIXPEDIA_GUIDE_STATUS_EFFECTS_DESCRIPTION"
 msgid "Status effects can apply to the entire character or only to a specific body part.[LF][LF]While the status effects of a unit is can be seen on the health indicator above the character's head, body part statuses are only visible from the Character Info screen. The only exceptions are when a body part is wounded or disabled, which are indicated on the damage display to the left of the health indicator.[LF][LF]STATUS EFFECTS SUMMARY[LF]ACID: Acid corrodes the armor by the Acid value (per turn). If there is no armor, then the damage is applied to the body part. Acid value reduces by 10 per turn.[LF]BLEEDING: Each turn, lose Hit Points equal to bleed value.[LF]BURNING: Fire damage is applied to each body part at the start of the turn, subtracting armor.[LF]FRENZIED: Speed increased by 50% and immune to panic.[LF]GOOED: Unable to move until Goo decays or is removed.[LF]INFECTED BY VIRUS: At start of turn virus is subtracted from Will Points, then virus value is reduced by 1.[LF]PANICKED: Unable to move for a turn, while recovering Will Points.[LF]POISONED: At start of turn, poison is subtracted from Hit Points, then poison value is reduced by 10.[LF]PREPARING: (Pandoran Sentinel and Egg only) Preparing to activate special ability on the next turn.[LF]BERSERK: (Mutog only) Mutog becomes wild, attacking friend or foe.[LF]ENRAGED: (Mutog only) Damage dealt and speed are increased by 50%. There's a 10% chance the Mutog will go Berserk at the start of each turn.[LF]ALERTED: (Enemy only). Enemy is aware of your presence.[LF]TIRED: (caused by entering a battle with low Stamina) -1 Action Point each turn.[LF]EXHAUSTED: (caused by entering a battle with low Stamina) -2 Action Point each turn.[LF]PARALYZED: Cannot move or perform any actions.[LF]PARALYSIS: Action Points are reduced by the proportion of paralysis value to Strength.[LF]DAZED: Action Points reduced to 1 and accuracy halved. Abilities requiring Will Points cannot be used.[LF]OVERWATCH: Enemies entering the overwatch cone will trigger an attack.[LF]SONIC: Dazes the target is the target's Will Points are less than the amount of Sonic Damage"
-msgstr "Gli effetti di stato possono essere applicati sul personaggio intero o su una parte del corpo specifica.[LF][LF]Gli effetti di stato di un'unità possono essere visualizzati sull'indicatore salute sopra la testa del personaggio, mentre lo stato delle parti del corpo è visibile soltanto nella schermata INFO dei personaggi. Fanno eccezione solo i casi in cui una parte del corpo è ferita o fuori uso. Quando ciò accade, essi vengono visualizzati sulla visuale danni a sinistra dell'indicatore salute.[LF][LF]EFFETTI DI STATO IN SINTESI[LF]ACIDO: l'acido corrode 10 punti armatura per turno. Se non c'è armatura, i danni vengono inflitti sulla parte del corpo. In seguito, il valore si riduce di 10 per turno.[LF]SANGUINAMENTO: a ogni turno, il bersaglio perde una quantità di punti ferita pari al valore di sanguinamento.[LF]FUOCO: i danni da fuoco vengono inflitti su ogni parte del corpo all'inizio del turno, riducendo l'armatura.[LF]FRENESIA: velocità incrementata del 50% e immunità al panico.[LF]INTRALCIO: impossibile muoversi finché la melma non si esaurisce o viene rimossa.[LF]INFEZIONE VIRALE: all'inizio del turno, il valore di virus è sottratto dai punti volontà. In seguito, il valore si riduce di 1.[LF]PANICO: impossibile muoversi per un turno mentre si recuperano punti volontà.[LF]AVVELENAMENTO: all'inizio del turno il valore di veleno è sottratto dai punti ferita. In seguito, il valore si riduce di 10.[LF]IN PREPARAZIONE: si prepara ad attivare un'abilità speciale nel prossimo turno (soltanto Sentinelle e Uova Pandora).[LF]BERSERK: il Mutog impazzisce, e attacca tutti senza distinzione (soltanto Mutog).[LF]FURIA: (soltanto Mutog) i danni inflitti e la velocità aumentano del 50%. C'è una possibilità del 10% che il Mutog scateni la sua furia all'inizio di ogni turno.[LF]IN ALLERTA: il nemico è consapevole della tua presenza (soltanto nemici).[LF]STANCHEZZA: -1 punto azione a ogni turno (provocato dall'entrare in battaglia con resistenza bassa).[LF]PARALISI: impossibile muoversi o compiere azioni.[LF]PARALISI: i punti azione sono ridotti di un numero pari al rapporto tra valore paralisi e forza.[LF]STORDIMENTO: punti azione ridotti a 1 e precisione dimezzata.[LF]GUARDIA: se un nemico entra nel cono di guardia, viene attaccato.[LF]SONICO: stordisce il bersaglio è che i punti volontà del bersaglio sono inferiori alla quantità di danno sonico."
+msgstr "Gli effetti di stato possono essere applicati al personaggio intero o a una sua parte del corpo specifica.[LF] [LF] Gli effetti di stato di un'unità possono essere visualizzati sull'indicatore salute sopra la testa del personaggio, mentre lo stato delle parti del corpo sono visibili soltanto nella schermata Info personaggio. Fanno eccezione solo i casi in cui una parte del corpo è ferita o fuori uso, in questo caso essi vengono visualizzati sulla visuale danni a sinistra dell'indicatore salute.[LF] [LF] EFFETTI DI STATO IN SINTESI[LF]ACIDO: l'acido corrode l'armatura di tanti punti quanto il valore dell'acido (ogni turno). Se non c'è armatura, i danni vengono inflitti sulla parte del corpo. Il valore si riduce quindi di 10 per turno.[LF] SANGUINAMENTO: a ogni turno, perdi una quantità di punti ferita pari al valore di sanguinamento.[LF]FUOCO: i danni da fuoco vengono inflitti su ogni parte del corpo all'inizio del turno, riducendo l'armatura.[LF] FRENESIA: velocità incrementata del 50% e immunità al panico.[LF] INTRALCIO: impossibile muoversi finché la melma non si esaurisce o viene rimossa.[LF] INFEZIONE VIRALE: all'inizio del turno, il virus è sottratto dai punti volontà, quindi il valore del virus è ridotto di 1.[LF] NEL PANICO: impossibile muoversi per un turno mentre si recuperano punti volontà.[LF] AVVELENAMENTO: all'inizio del turno, il veleno è sottratto dai punti ferita, quindi il valore del veleno è ridotto di 10.[LF] IN PREPARAZIONE: (soltanto sentinella e uovo Pandora) preparati ad attivare un'abilità speciale per il turno successivo.[LF] BERSERK: (soltanto Mutog) il Mutog impazzisce e attacca tutti senza distinzione.[LF] FURIA: (soltanto Mutog) i danni inflitti e la velocità aumentano del 50%. C'è una possibilità del 10% che il Mutog scateni la sua furia all'inizio di ogni turno.[LF] IN ALLERTA: (soltanto nemico) il nemico è consapevole della tua presenza.[LF] STANCHEZZA: (provocato dall'entrata in battaglia con resistenza bassa) -1 punto azione a ogni turno.[LF] ESAURIMENTO: (provocato dall'entrata in battaglia con resistenza bassa) -2 punti azione a ogni turno.[LF] PARALIZZATO: impossibile muoversi o compiere azioni.[LF] PARALISI: i punti azione sono ridotti di un numero pari al rapporto tra valore della paralisi e forza.[LF] STORDIMENTO: punti azione ridotti a 1 e precisione dimezzata. Impossibile usare le abilità che richiedono punti volontà.[LF] GUARDIA: I nemici provocano un attacco se entrano nel cono di guardia."
 
 msgctxt "Phoenixpedia/KEY_PHOENIXPEDIA_GUIDE_HAVENS_NAME"
 msgid "Advanced: Havens"
@@ -9475,7 +9515,7 @@ msgid "FESTERING SKIES"
 msgstr "CIELI INFETTI"
 
 msgctxt "Opening Screen/KEY_BSNAPSHOT_GAMES_INC_BACKER_BUILD_PP1"
-msgid "PRIVACY POLICY    [LF]Last updated July 03, 2018  [LF][LF][LF]Thank you for choosing to be part of our community at Snapshot Games Inc. (“Company”, “we”, “us”, or “our”). We are committed to protecting your personal information and your right to privacy. If you have any questions or concerns about our policy, or our practices with regards to your personal information, please contact us at contact@snapshotgames.com. [LF]When you visit our website http://phoenixpoint.info, and use our services, you trust us with your personal information. We take your privacy very seriously. In this privacy policy, we seek to explain to you in the clearest way possible what information we collect, how we use it and what rights you have in relation to it. We hope you take some time to read through it carefully, as it is important. If there are any terms in this privacy policy   that you do not agree with, please discontinue use of our Sites and our services. [LF]This privacy policy applies to all information collected through our website (such as http://phoenixpoint.info), and/or any related services, sales, marketing or events (we refer to them collectively in this privacy policy as the \"\"Services\"\").  [LF]Please read this privacy policy carefully as it will help you make informed decisions about sharing your personal information with us.   [LF][LF]TABLE OF CONTENTS  [LF]1. WHAT INFORMATION DO WE COLLECT?[LF]2. HOW DO WE USE YOUR INFORMATION?[LF]3. WILL YOUR INFORMATION BE SHARED WITH ANYONE?    [LF]4. DO WE USE COOKIES AND OTHER TRACKING TECHNOLOGIES?      [LF]5. IS YOUR INFORMATION TRANSFERRED INTERNATIONALLY?    [LF]6. HOW LONG DO WE KEEP YOUR INFORMATION?    [LF]7. DO WE COLLECT INFORMATION FROM MINORS?  [LF]8. WHAT ARE YOUR PRIVACY RIGHTS?[LF]9. CONTROLS FOR DO-NOT-TRACK FEATURES [LF]10. DO CALIFORNIA RESIDENTS HAVE SPECIFIC PRIVACY RIGHTS? [LF]11. DO WE MAKE UPDATES TO THIS POLICY?[LF]12. HOW CAN YOU CONTACT US ABOUT THIS POLICY?[LF][LF][LF]1. WHAT INFORMATION DO WE COLLECT?  [LF][LF]Personal information you disclose to us [LF]In Short: We collect personal information that you provide to us such as name, address, contact information, passwords and security data, and payment information.  [LF]We collect personal information that you voluntarily provide to us when registering at the Services expressing an interest in obtaining information about us or our products and services, when participating in activities on the Services or otherwise contacting us.[LF]The personal information that we collect depends on the context of your interactions with us and the Services, the choices you make and the products and features you use. The personal information we collect can include the following:[LF]   [LF]   [LF]Credentials. We collect passwords, password hints, and similar security information used for authentication and account access.   [LF]All personal information that you provide to us must be true, complete and accurate, and you must notify us of any changes to such personal information.   [LF]Information automatically collected [LF]In Short: Some information – such as IP address and/or browser and device characteristics – is collected automatically when you visit our Services.[LF]We automatically collect certain information when you visit, use or navigate the Services. This information does not reveal your specific identity (like your name or contact information) but may include device and usage information, such as your IP address, browser and device characteristics, operating system, language preferences, referring URLs, device name, country, location, information about how and when you use our Services and other technical information. This information is primarily needed to maintain the security and operation of our Services, and for our internal analytics and reporting purposes.[LF]Like many businesses, we also collect information through cookies and similar technologies.   [LF]    [LF][LF]2. HOW DO WE USE YOUR INFORMATION?  [LF]In Short:  We process your information for purposes based on legitimate business interests, the fulfillment of our contract with you, compliance with our legal obligations, and/or your consent.  [LF]We use personal information collected via our Services for a variety of business purposes described below. We process your personal information for these purposes in reliance on our legitimate business interests, in order to enter into or perform a contract with you, with your consent, and/or for compliance with our legal obligations. We indicate the specific processing grounds we rely on next to each purpose listed below. [LF]  [LF]We use the information we collect or receive:   [LF][LF]To send you marketing and promotional communications. We and/or our third party marketing partners may use the personal information you send to us for our marketing purposes, if this is in accordance with your marketing preferences. You can opt-out of our marketing emails at any time (see the \"\" WHAT ARE YOUR PRIVACY RIGHTS  \"\" below).      [LF][LF]To send administrative information to you. We may use your personal information to send you product, service and new feature information and/or information about changes to our terms, conditions, and policies.       [LF][LF]Fulfill and manage your orders. We may use your information to fulfill and manage your orders, payments, returns, and exchanges made through the Services.            [LF][LF]Deliver targeted advertising to you. We may use your information to develop and display content and advertising (and work with third parties who do so) tailored to your interests and/or location and to measure its effectiveness.                 [LF][LF]Request Feedback. We may use your information to request feedback and to contact you about your use of our Services.                                                                                                                                          [LF][LF]For other Business Purposes. We may use your information for other Business Purposes, such as data analysis, identifying usage trends, determining the effectiveness of our promotional campaigns and to evaluate and improve our Services, products, marketing and your experience. We may use and store this information in aggregated and anonymized form so that it is not associated with individual end users and does not include personal information. We will not use identifiable personal information without your consent.            [LF][LF]3. WILL YOUR INFORMATION BE SHARED WITH ANYONE?  [LF]In Short:  We only share information with your consent, to comply with laws, to provide you with services, to protect your rights, or to fulfill business obligations.   [LF][LF]We may process or share data based on the following legal basis:[LF]Consent: We may process your data if you have given us specific consent to use your personal information in a specific purpose.[LF][LF][LF]Legitimate Interests: We may process your data when it is reasonably necessary to achieve our legitimate business interests.[LF][LF][LF]Performance of a Contract: Where we have entered into a contract with you, we may process your personal information to fulfill the terms of our contract.[LF][LF][LF]Legal Obligations: We may disclose your information where we are legally required to do so in order to comply with applicable law, governmental requests, a judicial proceeding, court order, or legal process, such as in response to a court order or a subpoena (including in response to public authorities to meet national security or law enforcement requirements).[LF][LF][LF]Vital Interests: We may disclose your information where we believe it is necessary to investigate, prevent, or take action regarding potential violations of our policies, suspected fraud, situations involving potential threats to the safety of any person and illegal activities, or as evidence in litigation in which we are involved.[LF]More specifically, we may need to process your data or share your personal information in the following situations:   [LF]Vendors, Consultants and Other Third-Party Service Providers. We may share your data with third party vendors, service providers, contractors or agents who perform services for us or on our behalf and require access to such information to do that work. Examples include: payment processing, data analysis, email delivery, hosting services, customer service and marketing efforts. We may allow selected third parties to use tracking technology on the Services, which will enable them to collect data about how you interact with the Services over time. This information may be used to, among other things, analyze and track data, determine the popularity of certain content and better understand online activity. Unless described in this Policy, we do not share, sell, rent or trade any of your information with third parties for their promotional purposes.       [LF][LF][LF]Business Transfers. We may share or transfer your information in connection with, or during negotiations of, any merger, sale of company assets, financing, or acquisition of all or a portion of our business to another company.       [LF][LF][LF]Business Partners. We may share your information with our business partners to offer you certain products, services or promotions.      [LF]     [LF][LF]4. DO WE USE COOKIES AND OTHER TRACKING TECHNOLOGIES?  [LF]In Short:  We may use cookies and other tracking technologies to collect and store your information.  [LF]We may use cookies and similar tracking technologies (like web beacons and pixels) to access or store information. Specific information about how we use such technologies and how you can refuse certain cookies is set out in our Cookie Policy.                  [LF][LF]5. IS YOUR INFORMATION TRANSFERRED INTERNATIONALLY?  [LF]In Short:  We may transfer, store, and process your information in countries other than your own.  [LF]Our servers are located in United States. If you are accessing our Services from outside United States, please be aware that your information may be transferred to, stored, and processed by us in our facilities and by those third parties with whom we may share your personal information (see \"\" WILL YOUR INFORMATION BE SHARED WITH ANYONE?  \"\" above), in United States, and other countries. [LF]If you are a resident in the European Economic Area, then these countries may not have data protection or other laws as comprehensive as those in your country. We will however take all necessary measures to protect your personal information in accordance with this privacy policy and applicable law.              [LF][LF]6. HOW LONG DO WE KEEP YOUR INFORMATION?  [LF]In Short:  We keep your information for as long as necessary to fulfill the purposes outlined in this privacy policy unless otherwise required by law.   [LF]We will only keep your personal information for as long as it is necessary for the purposes set out in this privacy policy, unless a longer retention period is required or permitted by law (such as tax, accounting or other legal requirements). No purpose in this policy will require us keeping your personal information for longer than the period of time in which users have an account with us .  [LF]When we have no ongoing legitimate business need to process your personal information, we will either delete or anonymize it, or, if this is not possible (for example, because your personal information has been stored in backup archives), then we will securely store your personal information and isolate it from any further processing until deletion is possible.    [LF][LF]7. DO WE COLLECT INFORMATION FROM MINORS?  [LF]In Short:  We do not knowingly collect data from or market to children under 18 years of age.  [LF]We do not knowingly solicit data from or market to children under 18 years of age. By using the Services, you represent that you are at least 18 or that you are the parent or guardian of such a minor and consent to such minor dependent’s use of the Services. If we learn that personal information from users less than 18 years of age has been collected, we will deactivate the account and take reasonable measures to promptly delete such data from our records. If you become aware of any data we have collected from children under age 18, please contact us at contact@snapshotgames.com.  [LF][LF][LF]"
+msgid "PRIVACY POLICY    [LF]Last updated July 03, 2018  [LF][LF][LF]Thank you for choosing to be part of our community at Snapshot Games Inc. (“Company”, “we”, “us”, or “our”). We are committed to protecting your personal information and your right to privacy. If you have any questions or concerns about our policy, or our practices with regards to your personal information, please contact us at contact@snapshotgames.com. [LF]When you visit our website http://phoenixpoint.info, and use our services, you trust us with your personal information. We take your privacy very seriously. In this privacy policy, we seek to explain to you in the clearest way possible what information we collect, how we use it and what rights you have in relation to it. We hope you take some time to read through it carefully, as it is important. If there are any terms in this privacy policy   that you do not agree with, please discontinue use of our Sites and our services. [LF]This privacy policy applies to all information collected through our website (such as http://phoenixpoint.info), and/or any related services, sales, marketing or events (we refer to them collectively in this privacy policy as the \"\"Services\"\").  [LF]Please read this privacy policy carefully as it will help you make informed decisions about sharing your personal information with us.   [LF][LF]TABLE OF CONTENTS  [LF]1. WHAT INFORMATION DO WE COLLECT?[LF]2. HOW DO WE USE YOUR INFORMATION?[LF]3. WILL YOUR INFORMATION BE SHARED WITH ANYONE?    [LF]4. DO WE USE COOKIES AND OTHER TRACKING TECHNOLOGIES?      [LF]5. IS YOUR INFORMATION TRANSFERRED INTERNATIONALLY?    [LF]6. HOW LONG DO WE KEEP YOUR INFORMATION?    [LF]7. DO WE COLLECT INFORMATION FROM MINORS?  [LF]8. WHAT ARE YOUR PRIVACY RIGHTS?[LF]9. CONTROLS FOR DO-NOT-TRACK FEATURES [LF]10. DO CALIFORNIA RESIDENTS HAVE SPECIFIC PRIVACY RIGHTS? [LF]11. DO WE MAKE UPDATES TO THIS POLICY?[LF]12. HOW CAN YOU CONTACT US ABOUT THIS POLICY?[LF][LF][LF]1. WHAT INFORMATION DO WE COLLECT?  [LF][LF]Personal information you disclose to us [LF]In Short: We collect personal information that you provide to us such as name, address, contact information, passwords and security data, and payment information.  [LF]We collect personal information that you voluntarily provide to us when registering at the Services expressing an interest in obtaining information about us or our products and services, when participating in activities on the Services or otherwise contacting us.[LF]The personal information that we collect depends on the context of your interactions with us and the Services, the choices you make and the products and features you use. The personal information we collect can include the following:[LF]   [LF]   [LF]Credentials. We collect passwords, password hints, and similar security information used for authentication and account access.   [LF]All personal information that you provide to us must be true, complete and accurate, and you must notify us of any changes to such personal information.   [LF]Information automatically collected [LF]In Short: Some information – such as IP address and/or browser and device characteristics – is collected automatically when you visit our Services.[LF]We automatically collect certain information when you visit, use or navigate the Services. This information does not reveal your specific identity (like your name or contact information) but may include device and usage information, such as your IP address, browser and device characteristics, operating system, language preferences, referring URLs, device name, country, location, information about how and when you use our Services and other technical information. This information is primarily needed to maintain the security and operation of our Services, and for our internal analytics and reporting purposes.[LF]Like many businesses, we also collect information through cookies and similar technologies.   [LF]   [LF][LF]2. HOW DO WE USE YOUR INFORMATION?  [LF]In Short:  We process your information for purposes based on legitimate business interests, the fulfillment of our contract with you, compliance with our legal obligations, and/or your consent.  [LF]We use personal information collected via our Services for a variety of business purposes described below. We process your personal information for these purposes in reliance on our legitimate business interests, in order to enter into or perform a contract with you, with your consent, and/or for compliance with our legal obligations. We indicate the specific processing grounds we rely on next to each purpose listed below. [LF]  [LF]We use the information we collect or receive:   [LF][LF]To send you marketing and promotional communications. We and/or our third party marketing partners may use the personal information you send to us for our marketing purposes, if this is in accordance with your marketing preferences. You can opt-out of our marketing emails at any time (see the \"\" WHAT ARE YOUR PRIVACY RIGHTS  \"\" below).      [LF][LF]To send administrative information to you. We may use your personal information to send you product, service and new feature information and/or information about changes to our terms, conditions, and policies.       [LF][LF]Fulfill and manage your orders. We may use your information to fulfill and manage your orders, payments, returns, and exchanges made through the Services.            [LF][LF]Deliver targeted advertising to you. We may use your information to develop and display content and advertising (and work with third parties who do so) tailored to your interests and/or location and to measure its effectiveness.                 [LF][LF]Request Feedback. We may use your information to request feedback and to contact you about your use of our Services.                                                                                                                                          [LF][LF]For other Business Purposes. We may use your information for other Business Purposes, such as data analysis, identifying usage trends, determining the effectiveness of our promotional campaigns and to evaluate and improve our Services, products, marketing and your experience. We may use and store this information in aggregated and anonymized form so that it is not associated with individual end users and does not include personal information. We will not use identifiable personal information without your consent.            [LF][LF]3. WILL YOUR INFORMATION BE SHARED WITH ANYONE?  [LF]In Short:  We only share information with your consent, to comply with laws, to provide you with services, to protect your rights, or to fulfill business obligations.   [LF][LF]We may process or share data based on the following legal basis:[LF]Consent: We may process your data if you have given us specific consent to use your personal information in a specific purpose.[LF][LF][LF]Legitimate Interests: We may process your data when it is reasonably necessary to achieve our legitimate business interests.[LF][LF][LF]Performance of a Contract: Where we have entered into a contract with you, we may process your personal information to fulfill the terms of our contract.[LF][LF][LF]Legal Obligations: We may disclose your information where we are legally required to do so in order to comply with applicable law, governmental requests, a judicial proceeding, court order, or legal process, such as in response to a court order or a subpoena (including in response to public authorities to meet national security or law enforcement requirements).[LF][LF][LF]Vital Interests: We may disclose your information where we believe it is necessary to investigate, prevent, or take action regarding potential violations of our policies, suspected fraud, situations involving potential threats to the safety of any person and illegal activities, or as evidence in litigation in which we are involved.[LF]More specifically, we may need to process your data or share your personal information in the following situations:   [LF]Vendors, Consultants and Other Third-Party Service Providers. We may share your data with third party vendors, service providers, contractors or agents who perform services for us or on our behalf and require access to such information to do that work. Examples include: payment processing, data analysis, email delivery, hosting services, customer service and marketing efforts. We may allow selected third parties to use tracking technology on the Services, which will enable them to collect data about how you interact with the Services over time. This information may be used to, among other things, analyze and track data, determine the popularity of certain content and better understand online activity. Unless described in this Policy, we do not share, sell, rent or trade any of your information with third parties for their promotional purposes.       [LF][LF][LF]Business Transfers. We may share or transfer your information in connection with, or during negotiations of, any merger, sale of company assets, financing, or acquisition of all or a portion of our business to another company.       [LF][LF][LF]Business Partners. We may share your information with our business partners to offer you certain products, services or promotions.      [LF]     [LF][LF]4. DO WE USE COOKIES AND OTHER TRACKING TECHNOLOGIES?  [LF]In Short:  We may use cookies and other tracking technologies to collect and store your information.  [LF]We may use cookies and similar tracking technologies (like web beacons and pixels) to access or store information. Specific information about how we use such technologies and how you can refuse certain cookies is set out in our Cookie Policy.                  [LF][LF]5. IS YOUR INFORMATION TRANSFERRED INTERNATIONALLY?  [LF]In Short:  We may transfer, store, and process your information in countries other than your own.  [LF]Our servers are located in United States. If you are accessing our Services from outside United States, please be aware that your information may be transferred to, stored, and processed by us in our facilities and by those third parties with whom we may share your personal information (see \"\" WILL YOUR INFORMATION BE SHARED WITH ANYONE?  \"\" above), in United States, and other countries. [LF]If you are a resident in the European Economic Area, then these countries may not have data protection or other laws as comprehensive as those in your country. We will however take all necessary measures to protect your personal information in accordance with this privacy policy and applicable law.              [LF][LF]6. HOW LONG DO WE KEEP YOUR INFORMATION?  [LF]In Short:  We keep your information for as long as necessary to fulfill the purposes outlined in this privacy policy unless otherwise required by law.   [LF]We will only keep your personal information for as long as it is necessary for the purposes set out in this privacy policy, unless a longer retention period is required or permitted by law (such as tax, accounting or other legal requirements). No purpose in this policy will require us keeping your personal information for longer than the period of time in which users have an account with us .  [LF]When we have no ongoing legitimate business need to process your personal information, we will either delete or anonymize it, or, if this is not possible (for example, because your personal information has been stored in backup archives), then we will securely store your personal information and isolate it from any further processing until deletion is possible.    [LF][LF]7. DO WE COLLECT INFORMATION FROM MINORS?  [LF]In Short:  We do not knowingly collect data from or market to children under 18 years of age.  [LF]We do not knowingly solicit data from or market to children under 18 years of age. By using the Services, you represent that you are at least 18 or that you are the parent or guardian of such a minor and consent to such minor dependent’s use of the Services. If we learn that personal information from users less than 18 years of age has been collected, we will deactivate the account and take reasonable measures to promptly delete such data from our records. If you become aware of any data we have collected from children under age 18, please contact us at contact@snapshotgames.com.  [LF][LF][LF]"
 msgstr "POLITICA SULLA PRIVACY [LF]Ultimo aggiornamento 03 luglio 2018 [LF][LF][LF]Grazie per aver scelto di far parte della nostra community di Snapshot Games Inc. (\"\"Azienda\"\", \"\"noi\"\", \"\"noi\"\" o \"\"nostro\"\"). Ci impegniamo a proteggere le tue informazioni personali e il tuo diritto alla privacy. In caso di domande o dubbi sulla nostra politica o sulle nostre pratiche relative alle informazioni personali, vi preghiamo di contattarci all'indirizzo contact@snapshotgames.com. [LF]Quando visiti il nostro sito Web http://phoenixpoint.info e utilizzi i nostri servizi, ti fidi di noi con le tue informazioni personali. Prendiamo molto sul serio la vostra privacy. In questa politica sulla privacy, cerchiamo di spiegarti nel modo più chiaro possibile quali informazioni raccogliamo, come le usiamo e quali diritti hai in relazione ad esse. Ci auguriamo che abbiate del tempo per leggerlo attentamente, poiché è importante. Se nella presente informativa sulla privacy sono presenti termini non concordati, interrompere l'utilizzo dei nostri Siti e dei nostri servizi. [LF]La presente informativa sulla privacy si applica a tutte le informazioni raccolte attraverso il nostro sito Web (come http://phoenixpoint.info) e / o qualsiasi servizio, vendita, marketing o evento correlato (li chiamiamo collettivamente nella presente informativa sulla privacy come \"\"Servizi\"\" ). Si prega di leggere attentamente la presente informativa sulla privacy poiché vi aiuterà a prendere decisioni informate sulla condivisione delle informazioni personali con noi. [LF][LF]INDICE [LF]1. QUALI INFORMAZIONI RACCOGLIAMO? [LF]2. COME USIAMO LE TUE INFORMAZIONI? [LF]3. I tuoi dati verranno condivisi con chiunque? [LF]4. USIAMO COOKIE E ALTRE TECNOLOGIE DI MONITORAGGIO? [LF]5. LE VOSTRE INFORMAZIONI SONO TRASFERITE INTERNAZIONALMENTE? [LF]6. PER QUANTO TEMPO TENIAMO LE TUE INFORMAZIONI? [LF]7. RACCOGLIAMO INFORMAZIONI DAI MINORI? [LF]8. QUALI SONO I TUOI DIRITTI SULLA PRIVACY? [LF]9. CONTROLLI PER LE FUNZIONI DI NON TRACCIAZIONE [LF]10. I RESIDENTI DELLA CALIFORNIA HANNO DIRITTI SPECIFICI SULLA PRIVACY? [LF]11. EFFETTUIAMO AGGIORNAMENTI A QUESTA POLITICA? [LF]12. COME CONTATTARCI SU QUESTA POLITICA? [LF][LF][LF]1. QUALI INFORMAZIONI RACCOGLIAMO? [LF][LF]Informazioni personali che ci divulgate [LF]In breve: raccogliamo informazioni personali che ci fornite come nome, indirizzo, informazioni di contatto, password e dati di sicurezza e informazioni di pagamento. [LF]Raccogliamo informazioni personali che ci fornite volontariamente al momento della registrazione presso i Servizi che esprimono interesse ad ottenere informazioni su di noi o sui nostri prodotti e servizi, quando partecipano ad attività sui Servizi o ci contattano in altro modo. Le informazioni personali che raccogliamo dipendono dal contesto delle tue interazioni con noi e i Servizi, le scelte che fai e i prodotti e le funzionalità che utilizzi. Le informazioni personali che raccogliamo possono includere quanto segue: [LF]Credenziali. Raccogliamo password, suggerimenti per le password e informazioni di sicurezza simili utilizzate per l'autenticazione e l'accesso all'account. Tutte le informazioni personali che ci fornisci devono essere vere, complete e accurate e devi comunicarci qualsiasi modifica a tali informazioni personali. [LF]Informazioni raccolte automaticamente [LF]In breve: Alcune informazioni, come l'indirizzo IP e / o le caratteristiche del browser e del dispositivo, vengono raccolte automaticamente quando si visitano i nostri Servizi. Raccogliamo automaticamente determinate informazioni quando visiti, usi o navighi nei Servizi. Queste informazioni non rivelano la tua identità specifica (come il tuo nome o le informazioni di contatto) ma possono includere informazioni sul dispositivo e sull'utilizzo, come indirizzo IP, caratteristiche del browser e del dispositivo, sistema operativo, preferenze della lingua, URL di riferimento, nome del dispositivo, paese, posizione , informazioni su come e quando si utilizzano i nostri Servizi e altre informazioni tecniche. Queste informazioni sono necessarie principalmente per mantenere la sicurezza e il funzionamento dei nostri Servizi e per i nostri scopi interni di analisi e reportistica. Come molte aziende, raccogliamo anche informazioni tramite cookie e tecnologie simili. [LF][LF]2. COME USIAMO LE TUE INFORMAZIONI? [LF]In breve: trattiamo le tue informazioni per scopi basati su interessi commerciali legittimi, l'adempimento del nostro contratto con te, il rispetto dei nostri obblighi legali e / o il tuo consenso. [LF]Utilizziamo le informazioni personali raccolte tramite i nostri Servizi per una varietà di scopi commerciali descritti di seguito. Elaboriamo le tue informazioni personali per questi scopi facendo affidamento sui nostri legittimi interessi commerciali, al fine di stipulare o eseguire un contratto con te, con il tuo consenso e / o per il rispetto dei nostri obblighi legali. Indichiamo i motivi di elaborazione specifici su cui facciamo affidamento accanto a ciascuna finalità elencata di seguito. [LF][LF]Utilizziamo le informazioni che raccogliamo o riceviamo: [LF]per inviarti comunicazioni di marketing e promozionali. Noi e / o i nostri partner di marketing di terze parti possiamo utilizzare le informazioni personali che ci invii per i nostri scopi di marketing, se ciò è conforme alle tue preferenze di marketing. Puoi disattivare le nostre e-mail di marketing in qualsiasi momento (consulta la sezione \"\"QUALI SONO I TUOI DIRITTI SULLA PRIVACY\"\" di seguito). Per inviarti informazioni amministrative. Potremmo utilizzare le tue informazioni personali per inviarti informazioni su prodotti, servizi e nuove funzionalità e / o informazioni sulle modifiche ai nostri termini, condizioni e politiche. Soddisfa e gestisci i tuoi ordini. Potremmo utilizzare le tue informazioni per evadere e gestire i tuoi ordini, pagamenti, resi e scambi effettuati tramite i Servizi. Fornire pubblicità mirata per te. Possiamo utilizzare le tue informazioni per sviluppare e visualizzare contenuti e pubblicità (e lavorare con terze parti che lo fanno) su misura per i tuoi interessi e / o posizione e per misurarne l'efficacia. Richiedi feedback. Potremmo utilizzare le tue informazioni per richiedere feedback e contattarti in merito al tuo utilizzo dei nostri Servizi. Per altri scopi commerciali. Potremmo utilizzare le tue informazioni per altri scopi aziendali, come l'analisi dei dati, l'identificazione delle tendenze di utilizzo, la determinazione dell'efficacia delle nostre campagne promozionali e per valutare e migliorare i nostri servizi, prodotti, marketing e la tua esperienza. Possiamo utilizzare e archiviare queste informazioni in forma aggregata e anonima in modo che non siano associate a singoli utenti finali e non includano informazioni personali. Non utilizzeremo informazioni personali identificabili senza il tuo consenso. [LF][LF]3. I tuoi dati verranno condivisi con chiunque? [LF]In breve: condividiamo le informazioni solo con il tuo consenso, per rispettare le leggi, per fornirti servizi, per proteggere i tuoi diritti o per adempiere agli obblighi aziendali. Possiamo elaborare o condividere i dati in base alla seguente base legale: Consenso: possiamo elaborare i tuoi dati se ci hai fornito il consenso specifico per utilizzare le tue informazioni personali per uno scopo specifico. Interessi legittimi: possiamo elaborare i tuoi dati quando è ragionevolmente necessario per raggiungere i nostri legittimi interessi commerciali. Esecuzione di un contratto: Laddove abbiamo stipulato un contratto con voi, potremmo elaborare le vostre informazioni personali per adempiere ai termini del nostro contratto. Obblighi legali: possiamo divulgare le tue informazioni laddove siamo legalmente tenuti a farlo al fine di rispettare la legge applicabile, le richieste governative, un procedimento giudiziario, un ordine del tribunale o un processo legale, come in risposta a un ordine del tribunale o una citazione ( anche in risposta alle autorità pubbliche per soddisfare i requisiti di sicurezza nazionale o di applicazione della legge). Interessi vitali: possiamo divulgare le tue informazioni laddove riteniamo necessario indagare, prevenire o agire in merito a potenziali violazioni delle nostre politiche, sospette frodi, situazioni che comportano potenziali minacce alla sicurezza di qualsiasi persona e attività illegali o come prova in contenzioso in cui siamo coinvolti. Più specificamente, potrebbe essere necessario elaborare i tuoi dati o condividere le tue informazioni personali nelle seguenti situazioni: fornitori, consulenti e altri fornitori di servizi di terze parti. Potremmo condividere i tuoi dati con fornitori, fornitori di servizi, appaltatori o agenti di terze parti che prestano servizi per noi o per nostro conto e richiedono l'accesso a tali informazioni per svolgere tale attività. Gli esempi includono: elaborazione dei pagamenti, analisi dei dati, consegna e-mail, servizi di hosting, servizio clienti e iniziative di marketing. Potremmo consentire a terze parti selezionate di utilizzare la tecnologia di tracciamento dei Servizi, che consentirà loro di raccogliere dati su come interagisci con i Servizi nel tempo. Queste informazioni possono essere utilizzate, tra l'altro, per analizzare e tenere traccia dei dati, determinare la popolarità di determinati contenuti e comprendere meglio l'attività online. Salvo quanto descritto nella presente Politica, non condividiamo, vendiamo, affittiamo o scambiamo nessuna delle tue informazioni con terze parti per i loro scopi promozionali. Trasferimenti aziendali. Potremmo condividere o trasferire le tue informazioni in relazione o durante le negoziazioni di qualsiasi fusione, vendita di beni aziendali, finanziamento o acquisizione di tutta o parte della nostra attività a un'altra società. Soci in affari. Potremmo condividere le tue informazioni con i nostri partner commerciali per offrirti determinati prodotti, servizi o promozioni. [LF][LF]4. USIAMO COOKIE E ALTRE TECNOLOGIE DI MONITORAGGIO? [LF]In breve: potremmo utilizzare i cookie e altre tecnologie di tracciamento per raccogliere e archiviare le tue informazioni. Potremmo utilizzare cookie e tecnologie di tracciamento simili (come web beacon e pixel) per accedere o archiviare informazioni. Informazioni specifiche su come utilizziamo tali tecnologie e su come rifiutare determinati cookie sono contenute nella nostra Politica sui cookie. [LF][LF]5. LE VOSTRE INFORMAZIONI SONO TRASFERITE INTERNAZIONALMENTE? [LF]In breve: potremmo trasferire, archiviare ed elaborare le tue informazioni in paesi diversi dai tuoi. I nostri server si trovano negli Stati Uniti. Se stai accedendo ai nostri Servizi al di fuori degli Stati Uniti, tieni presente che le tue informazioni potrebbero essere trasferite, archiviate ed elaborate da noi nelle nostre strutture e da quelle terze parti con cui potremmo condividere le tue informazioni personali (vedi \"\"VOSTRE INFORMAZIONI TUOI CONDIVIDI CON CHIUNQUE? \"\"Sopra), negli Stati Uniti e in altri Paesi. Se risiedi nello Spazio economico europeo, questi Paesi potrebbero non avere una protezione dei dati o altre leggi esaustive come quelle del tuo Paese. Adotteremo tuttavia tutte le misure necessarie per proteggere le tue informazioni personali in conformità con la presente politica sulla privacy e la legge applicabile. [LF]6. PER QUANTO TEMPO TENIAMO LE TUE INFORMAZIONI? [LF]In breve: conserviamo le informazioni dell'utente per il tempo necessario a soddisfare gli scopi indicati nella presente informativa sulla privacy, salvo diversamente richiesto dalla legge. Conserveremo le tue informazioni personali solo per il tempo necessario per gli scopi indicati nella presente informativa sulla privacy, a meno che un periodo di conservazione più lungo non sia richiesto o consentito dalla legge (come ad esempio tasse, contabilità o altri requisiti legali). Nessuno scopo in questa politica ci imporrà di conservare le tue informazioni personali per un periodo di tempo superiore a quello in cui gli utenti hanno un account con noi. Quando non abbiamo attività commerciali legittime in corso per elaborare le tue informazioni personali, le cancelleremo o anonimizzeremo o, se ciò non è possibile (ad esempio perché le tue informazioni personali sono state archiviate negli archivi di backup), archiveremo in modo sicuro le tue informazioni personali e isolale da ogni ulteriore elaborazione fino a quando non è possibile la cancellazione. [LF]7. RACCOGLIAMO INFORMAZIONI DAI MINORI? [LF]In breve: non raccogliamo consapevolmente dati da o commercializziamo a bambini di età inferiore ai 18 anni. Non sollecitiamo consapevolmente dati da o commercializzati a bambini di età inferiore ai 18 anni. Utilizzando i Servizi, dichiari di avere almeno 18 anni o di essere il genitore o tutore di un minore di questo tipo e acconsenti all'utilizzo dei Servizi da parte di tale minore dipendente. Se apprendiamo che sono state raccolte informazioni personali dagli utenti di età inferiore ai 18 anni, disattiveremo l'account e prenderemo le misure ragionevoli per eliminare prontamente tali dati dai nostri archivi. Se venite a conoscenza di dati raccolti da minori di 18 anni, vi preghiamo di contattarci all'indirizzo contact@snapshotgames.com. [LF]"
 
 msgctxt "Opening Screen/KEY_BSNAPSHOT_GAMES_INC_BACKER_BUILD_PP2"
@@ -10412,7 +10452,7 @@ msgstr "REPELLENTE PER BRUMA"
 
 msgctxt "Haven Screen/KEY_GEOSCAPE_ZONE_MIST_DESCRIPTION"
 msgid "Mist repellers create a mist-free zone around the Haven, reducing starvation and the risk of attack from Pandoran bases."
-msgstr "Generalmente i rifugi forniscono abbastanza alloggi per le loro popolazioni, ma sono vulnerabili all'attacco dei Pandora."
+msgstr "I Repellenti per bruma creano un'area libera dalla bruma attorno al rifugio, riducendo la fame e il rischio di attacchi da parte delle basi dei Pandora."
 
 msgctxt "Haven Screen/KEY_GEOSCAPE_ZONE_MISSIONARY_NAME"
 msgid "MISSIONARY TEMPLE"
@@ -10496,11 +10536,11 @@ msgstr "Invia un velivolo con una squadra a bordo a questo rifugio per condurvi 
 
 msgctxt "Haven Screen/KEY_RECRUIT_LEADER_NEGATIVE_DIPLOMACY_TT"
 msgid "The haven leader is not friendly towards the Phoenix Project. Improve diplomatic relations to enable recruiting."
-msgstr "Il leader del rifugio ha una relazione fredda con Phoenix Point. Migliora le relazioni diplomatiche per poter rendere possibile il reclutamento."
+msgstr "Il leader del rifugio non apprezza il Progetto Phoenix. Migliora le relazioni diplomatiche per poter rendere possibile il reclutamento."
 
 msgctxt "Haven Screen/KEY_TRADE_LEADER_NEGATIVE_DIPLOMACY_TT"
 msgid "The haven leader is not friendly towards the Phoenix Project. Improve diplomatic relations to enable trading."
-msgstr "Il leader del rifugio ha una relazione fredda con Phoenix Point. Migliora le relazioni diplomatiche per poter rendere possibile gli scambi."
+msgstr "Il leader del rifugio non apprezza il Progetto Phoenix. Migliora le relazioni diplomatiche per poter rendere possibile il commercio."
 
 msgctxt "Missions/KEY_MISSION_ALIEN_LAIR"
 msgid "PANDORAN LAIR"
@@ -10516,7 +10556,7 @@ msgstr "PALAZZO PANDORA"
 
 msgctxt "Missions/KEY_MISSION_ATTACK_CITADEL_BRIEFING_DESCRIPTION"
 msgid "Locate and eliminate the Scylla and then evacuate your squad"
-msgstr "Localizza ed elimina la Scilla per distruggere la Cittadella."
+msgstr "Localizza ed elimina la Scilla, poi fai evacuare la tua squadra"
 
 msgctxt "Missions/KEY_MISSION_ATTACK_CITADEL_BRIEFING_NAME"
 msgid "ATTACK PANDORAN CITADEL"
@@ -10580,7 +10620,7 @@ msgstr "IL NIDO PANDORA SOPRAVVIVE"
 
 msgctxt "Missions/KEY_MISSION_ATTACK_NEST_VICTORY_DESCRIPTION"
 msgid "The Pandoran nest has been neutralized and abandoned by its inhabitants. The rest of humanity can breathe a sigh of relief."
-msgstr "La tana Pandora è stata neutralizzata e abbandonata dai suoi abitanti. Il resto dell'umanità può tirare un sospiro di sollievo."
+msgstr "Il nido dei Pandora è stato neutralizzato e abbandonato dai suoi abitanti. Il resto dell'umanità può tirare un sospiro di sollievo."
 
 msgctxt "Missions/KEY_MISSION_ATTACK_NEST_VICTORY_NAME"
 msgid "PANDORAN NEST DESTROYED"
@@ -10596,7 +10636,7 @@ msgstr "BASE PHOENIX SCOPERTA"
 
 msgctxt "Missions/KEY_MISSION_ATTACK_SCAVENGING_SITE_BRIEFING_DESCRIPTION"
 msgid "Take as many items from the crates as you can safely manage and evacuate your squad"
-msgstr "Elimina tutti i nemici per recuperare le casse di risorse"
+msgstr "Prendi dalle casse quanti più oggetti ti è possibile trasportare e fai evacuare la tua squadra"
 
 msgctxt "Missions/KEY_MISSION_ATTACK_SCAVENGING_SITE_BRIEFING_NAME"
 msgid "SCAVENGING SITE"
@@ -10604,7 +10644,7 @@ msgstr "SITO DI RECUPERO"
 
 msgctxt "Missions/KEY_MISSION_ATTACK_SCAVENGING_SITE_DEFEAT_DESCRIPTION"
 msgid "The site is overrun and any remaining crates will no longer be recoverable"
-msgstr "Il sito è stato invaso e tutte le casse di risorse rimanenti sono state distrutte."
+msgstr "Il sito è stato invaso e tutte le casse rimanenti non possono più essere recuperate"
 
 msgctxt "Missions/KEY_MISSION_ATTACK_SCAVENGING_SITE_DEFEAT_NAME"
 msgid "SCAVENGING SITE ABANDONED"
@@ -10612,7 +10652,7 @@ msgstr "SITO DI RECUPERO ABBANDONATO"
 
 msgctxt "Missions/KEY_MISSION_ATTACK_SCAVENGING_SITE_VICTORY_DESCRIPTION"
 msgid "All collected resource packs have been transferred to our stores"
-msgstr "Tutte le casse rimaste sono state recuperate e le risorse trasferite nei nostri magazzini."
+msgstr "Tutti i pacchetti risorse raccolti sono stati trasferiti ai nostri magazzini"
 
 msgctxt "Missions/KEY_MISSION_ATTACK_SCAVENGING_SITE_VICTORY_NAME"
 msgid "SCAVENGING SITE CLEARED"
@@ -11160,7 +11200,7 @@ msgstr "CATTURA VELIVOLO RIUSCITA"
 
 msgctxt "Missions/KEY_MISSION_STEAL_FOOD_BRIEFING_DESC"
 msgid "Take as many items from the crates as you can safely manage and evacuate your squad"
-msgstr "Elimina le forze nemiche e previeni i danni alle casse di cibo per catturarle."
+msgstr "Prendi dalle casse quanti più oggetti ti è possibile trasportare e fai evacuare la tua squadra"
 
 msgctxt "Missions/KEY_MISSION_STEAL_FOOD_BRIEFING_NAME"
 msgid "RAID FOOD"
@@ -11168,7 +11208,7 @@ msgstr "RAZZIA DI CIBO"
 
 msgctxt "Missions/KEY_MISSION_STEAL_FOOD_DEFEAT_DESC"
 msgid "Nothing was gained from the mission"
-msgstr "Tutte le casse di cibo sono state distrutte."
+msgstr "Non è stato ottenuto nulla dalla missione"
 
 msgctxt "Missions/KEY_MISSION_STEAL_FOOD_DEFEAT_NAME"
 msgid "FOOD RAID FAILURE"
@@ -11176,15 +11216,15 @@ msgstr "RAZZIA DI CIBO FALLITA"
 
 msgctxt "Missions/KEY_MISSION_STEAL_FOOD_VICTORY_DESC"
 msgid "All collected food resource packs have been transferred to our stores"
-msgstr "Tutte le casse di cibo non distrutte sono state recuperate e aggiunte alle nostre risorse."
+msgstr "Tutti i pacchetti di cibo raccolti sono stati trasferiti ai nostri magazzini"
 
 msgctxt "Missions/KEY_MISSION_STEAL_FOOD_VICTORY_NAME"
 msgid "RAID MISSION OVER"
-msgstr "RAZZIA DI CIBO RIUSCITA"
+msgstr "MISSIONE RAZZIA TERMINATA"
 
 msgctxt "Missions/KEY_MISSION_STEAL_MATERIALS_BRIEFING_DESC"
 msgid "Take as many items from the crates as you can safely manage and evacuate your squad"
-msgstr "Elimina le forze nemiche e previeni i danni alle casse di materiale per catturarle."
+msgstr "Prendi dalle casse quanti più oggetti ti è possibile trasportare e fai evacuare la tua squadra"
 
 msgctxt "Missions/KEY_MISSION_STEAL_MATERIALS_BRIEFING_NAME"
 msgid "RAID MATERIALS"
@@ -11192,7 +11232,7 @@ msgstr "RAZZIA DI MATERIALI"
 
 msgctxt "Missions/KEY_MISSION_STEAL_MATERIALS_DEFEAT_DESC"
 msgid "Nothing was gained from the mission"
-msgstr "Tutte le casse di materiali sono state distrutte."
+msgstr "Non è stato ottenuto nulla dalla missione"
 
 msgctxt "Missions/KEY_MISSION_STEAL_MATERIALS_DEFEAT_NAME"
 msgid "MATERIALS RAID FAILURE"
@@ -11200,11 +11240,11 @@ msgstr "RAZZIA DI MATERIALI FALLITA"
 
 msgctxt "Missions/KEY_MISSION_STEAL_MATERIALS_VICTORY_DESC"
 msgid "All collected materials resource packs have been transferred to our stores"
-msgstr "Tutte le casse di materiali non distrutte sono state recuperate e aggiunte alle risorse."
+msgstr "Tutti i pacchetti di materiali raccolti sono stati trasferiti ai nostri magazzini"
 
 msgctxt "Missions/KEY_MISSION_STEAL_MATERIALS_VICTORY_NAME"
 msgid "RAID MISSION OVER"
-msgstr "RAZZIA DI MATERIALI RIUSCITA"
+msgstr "MISSIONE RAZZIA TERMINATA"
 
 msgctxt "Missions/KEY_MISSION_STEAL_RESEARCH_BRIEFING_DESC"
 msgid "Inflitrate the research facility and hack the consoles we have identified as containing the research data."
@@ -11232,7 +11272,7 @@ msgstr "RICERCA ACQUISITA"
 
 msgctxt "Missions/KEY_MISSION_STEAL_TECH_BRIEFING_DESC"
 msgid "Take as many items from the crates as you can safely manage and evacuate your squad"
-msgstr "Elimina le forze nemiche e previeni i danni alle casse di tecnologia per catturarle."
+msgstr "Prendi dalle casse quanti più oggetti ti è possibile trasportare e fai evacuare la tua squadra"
 
 msgctxt "Missions/KEY_MISSION_STEAL_TECH_BRIEFING_NAME"
 msgid "RAID TECH"
@@ -11240,7 +11280,7 @@ msgstr "RAZZIA DI TECNOLOGIA"
 
 msgctxt "Missions/KEY_MISSION_STEAL_TECH_DEFEAT_DESC"
 msgid "Nothing was gained from the mission"
-msgstr "Tutte le casse di tecnologia sono state distrutte."
+msgstr "Non è stato ottenuto nulla dalla missione"
 
 msgctxt "Missions/KEY_MISSION_STEAL_TECH_DEFEAT_NAME"
 msgid "TECH RAID FAILURE"
@@ -11248,11 +11288,11 @@ msgstr "RAZZIA DI TECNOLOGIA FALLITA"
 
 msgctxt "Missions/KEY_MISSION_STEAL_TECH_VICTORY_DESC"
 msgid "All collected tech resource packs have been transferred to our stores"
-msgstr "Tutte le casse di tecnologia non distrutte sono state recuperate e aggiunte alle nostre risorse."
+msgstr "Tutti i pacchetti di tecnologia raccolti sono stati trasferiti ai nostri magazzini"
 
 msgctxt "Missions/KEY_MISSION_STEAL_TECH_VICTORY_NAME"
 msgid "RAID MISSION OVER"
-msgstr "RAZZIA DI TECNOLOGIA RIUSCITA"
+msgstr "MISSIONE RAZZIA TERMINATA"
 
 msgctxt "Missions/KEY_MISSION_SUMMARY_BACK_GEOSCAPE"
 msgid "GO BACK TO GEOSCAPE"
@@ -12280,7 +12320,7 @@ msgstr "I danni virali riducono i punti volontà all'inizio del tuo turno, in se
 
 msgctxt "Loading Tips/KEY_TACTICAL_LOADING_TIP_28"
 msgid "Acid damage attached to body parts will damage armor first, and then body parts. Remaining acid levels reduce each turn."
-msgstr "I danni acidi applicati su parti del corpo riducono l'armatura di 10 punti a ogni turno per poi corrodere la carne, finché non restano danni acidi."
+msgstr "I danni acidi applicati su parti del corpo danneggiano prima l'armatura e poi le parti del corpo. I livelli di acido rimanenti calano a ogni turno."
 
 msgctxt "Loading Tips/KEY_TACTICAL_LOADING_TIP_29"
 msgid "Paralysis damage will inflict an Action Point penalty based on the paralysis damage value compared to the target's strength. If paralysis value is greater than strength, then the victim is totally paralyzed."
@@ -12584,7 +12624,7 @@ msgstr "LATO"
 
 msgctxt "Body parts/KEY_VEHICLE_TIRE_DESCRIPTION"
 msgid "New Jericho Armadillo Wheel"
-msgstr "Pneumatico"
+msgstr "Ruota dell'Armadillo Nuova Gerico"
 
 msgctxt "Body parts/KEY_VEHICLE_TIRE_NAME"
 msgid "WHEEL"
