@@ -63,6 +63,10 @@ msgid "The Disciples of Anu are a syncretic religion dedicated to the pursuit of
 msgstr "安努门徒教会是一个致力于追求完美生物学的融合性宗教组织。教会等级森严，其领袖被称为圣尊。"
 
 msgctxt "Research/ANU_ANUFUNGUSFOOD_RESEARCHDEF_BENEFITS"
+msgid "The food production facility is available for construction in Phoenix bases."
+msgstr "[null]"
+
+msgctxt "Research/ANU_ANUFUNGUSFOOD_RESEARCHDEF_OLDBENEFITS"
 msgid "Food production facilities increase output by 25%."
 msgstr "食物生产设施的产出提高 25%。"
 
@@ -311,7 +315,7 @@ msgid "Soldier recruitment cost is decreased by 50%."
 msgstr "招募士兵消耗减少 50%。"
 
 msgctxt "Research/NJ_COMMANDFORTRESS_RESEARCHDEF_COMPLETE"
-msgid "The plans for the Fortress incoporate the best of New Jericho command and control systems. Production costs will be high, but once built, the Fortress will become the capital of New Jericho and the central hub of all its military and production systems. From here, Tobias West will be able to fully exercise his strategic genius, planning the campaign to utterly annihilate the Pandoran threat on Earth.[LF]The AI analysis and communications systems in this design will also help us identify and reach out to more potential recruits, reducing our recruitment costs significantly.[LF]"
+msgid "The plans for the Fortress incorporate the best of New Jericho command and control systems. Production costs will be high, but once built, the Fortress will become the capital of New Jericho and the central hub of all its military and production systems. From here, Tobias West will be able to fully exercise his strategic genius, planning the campaign to utterly annihilate the Pandoran threat on Earth.[LF]The AI analysis and communications systems in this design will also help us identify and reach out to more potential recruits, reducing our recruitment costs significantly.[LF]"
 msgstr "该堡垒的设计计划融合了最好的新耶利哥指挥和控制系统。其建造成本高昂，但一旦建成，将成为新耶利哥的首都，以及所有军事和生产系统的中央枢纽。托拜厄斯·韦斯特在这里能够充分发挥他的战略天赋，策划一场彻底消灭潘多拉体威胁的战役。[LF]这一设计中的人工智能分析和通信系统也将帮助我们识别和接触更多潜在的可招募人员，大大降低招募成本。[LF]"
 
 msgctxt "Research/NJ_COMMANDFORTRESS_RESEARCHDEF_NAME"
@@ -395,7 +399,7 @@ msgid "Direct command of weapon systems by thought alone can transform soldiers 
 msgstr "仅凭借思想就能直接指挥武器的系统，可将士兵改造成重型武器平台。"
 
 msgctxt "Research/NJ_PIERCERTECH_RESEARCHDEF_COMPLETE"
-msgid "The heat problems caused by extreme muzzle velocities have been overcome, allowing gauss weapons to be significantly upgraded. Although the new weapons will have a smaller caliber, the ammunition will penetrate armor much more effectively. The cost of production remains high, but such technological advances are essential if we are to defeat the Pandorans, whose very existence forces us into a neverending arms race.[CR][LF][CR][LF]"
+msgid "The heat problems caused by extreme muzzle velocities have been overcome, allowing gauss weapons to be significantly upgraded. Although the new weapons will have a smaller caliber, the ammunition will penetrate armor much more effectively. The cost of production remains high, but such technological advances are essential if we are to defeat the Pandorans, whose very existence forces us into a neverending arms race.[LF][LF][LF]"
 msgstr "极高的枪口初速带来的高温问题已被克服，高斯武器可以获得显著升级。虽然新武器的口径更小，但是子弹将更有效地穿透护甲。尽管生产成本仍然很高，但如果我们要击败潘多拉体，这种技术进步是必不可少的，它们的存在迫使我们进入一场永无休止的军备竞赛。[LF][LF]"
 
 msgctxt "Research/NJ_PIERCERTECH_RESEARCHDEF_NAME"
@@ -463,8 +467,8 @@ msgid "Tobias West once remarked that purity has no greater ally than a burning 
 msgstr "托拜厄斯·韦斯特曾说，燃烧的火焰就是纯洁最好的盟友。燃烧武器是理想的净化工具。"
 
 msgctxt "Research/NJ_SATELITEUPLINK_RESEARCHDEF_BENEFITS"
-msgid "Scanning radius of all our aircraft is increased by 25%."
-msgstr "我方所有飞行器的扫描范围提高 25%。"
+msgid "Scanning range of Phoenix Bases is increased by 25%"
+msgstr "凤凰基地的扫描范围扩大 25%"
 
 msgctxt "Research/NJ_SATELITEUPLINK_RESEARCHDEF_COMPLETE"
 msgid "New Jericho can now build satellite uplinks in havens, which improve the operational range of havens and actively locate alien structures. The construction of these facilities would likely antagonise other factions, but it would also greatly improve New Jericho’s ability to fight the Pandoran infection. The technology would also be useful for our own operations, improving the range of our satellite scans."
@@ -539,7 +543,7 @@ msgid "A group of New Jericho scientists proposed upgrading older armored vehicl
 msgstr "新耶利哥的一群科学家提议用最新技术升级旧的装甲载具，制造出一种能更好地适应当前环境的装甲运兵车。"
 
 msgctxt "Research/NJ_WALLSOFJERICHO_RESEARCHDEF_BENEFITS"
-msgid "Pandoran attacks on Pheonix bases are reduced by one threat level"
+msgid "Pandoran attacks on Phoenix bases are reduced by one threat level"
 msgstr "潘多拉体对凤凰基地的攻击降低一个威胁等级"
 
 msgctxt "Research/NJ_WALLSOFJERICHO_RESEARCHDEF_COMPLETE"
@@ -1051,20 +1055,20 @@ msgid "While treating a soldier affected by a Siren attack, the Phoenix medical 
 msgstr "凤凰医疗小队在治疗一名受到塞壬袭击而遭到感染的士兵时，发现了一种新的病毒株。尽管治愈这种病毒有成功的希望，但要想取得真正的进展，我们需要更多的时间和资源。"
 
 msgctxt "Research/PX_SDI_RESEARCHDEF_BENEFITS"
-msgid "Delirium monitoring system available."
-msgstr "梦呓谵妄监测系统现已可用。"
+msgid "Human population monitoring available"
+msgstr "人口监测可用"
 
 msgctxt "Research/PX_SDI_RESEARCHDEF_COMPLETE"
-msgid "An Oneiric Delirium Index (ODI) algorithm has been developed. This will allow us to keep track of the strength of the unknown mental phenomena caused by the Pandoran presence, which appear to be increasing in severity as they expand their grip on our world. As the ODI increases, more humans will experience nightmares, hallucinations, detachment from reality, and eventually brain seizures and death.[LF][LF]We have estimated a tipping point for ODI, beyond which the human race cannot be saved."
-msgstr "“梦呓谵妄指数 (ODI)”算法开发完成。我们能够通过这种算法跟踪了解由潘多拉体所引起的未知精神现象的强度。当潘多拉体扩大对我们世界的控制时，这种现象的严重性似乎在不断增加。当 ODI 增加时，更多的人类将经历噩梦、幻觉、脱离现实并最终导致大脑痉挛和死亡。[LF][LF]我们估计出了一个 ODI 临界点，一旦超过这个临界值，人类将无法被拯救。"
+msgid "The total human population gathered in the safety of havens can now be tracked on a daily basis. We have also calculated the survival threshold for human reproduction once the Pandoran threat is eliminated. If the population falls below this threshold, then humanity will not survive in the long term. It is imperative that we do not let this happen."
+msgstr "现在每天都可追踪生活在安全的避难所中的总人口数量。另外，我们还计算了解决潘多拉体威胁之后人类生殖的生存阈值。如果人口数量跌至阈值以下，人类将无法长期生存。确保不要发生这样的情况十分重要。"
 
 msgctxt "Research/PX_SDI_RESEARCHDEF_NAME"
-msgid "Oneiric Delirium Index"
-msgstr "梦呓谵妄指数"
+msgid "Human Population Census"
+msgstr "人口普查"
 
 msgctxt "Research/PX_SDI_RESEARCHDEF_UNLOCK"
-msgid "We could develop the Oneiric Delirium Index concept proposed by Randolph Symes III into a system for tracking the unusual mental phenomena caused by the Pandoran presence."
-msgstr "我们可以将伦道夫·赛姆斯三世提出的“梦呓谵妄指数”概念开发成一个系统，从而跟踪记录潘多拉体所引起的异常精神现象。"
+msgid "By collecting information from all human havens we can evaluate the Pandoran threat to human survival on our planet."
+msgstr "通过收集所有人类避难所的信息，我们可以评估潘多拉体是否会对星球上的人类生存造成威胁。"
 
 msgctxt "Research/PX_ATMOSPHERICANALYSIS_RESEARCHDEF_BENEFITS"
 msgid "Global mist monitoring system available."
@@ -1763,7 +1767,7 @@ msgid "Further advances in bionics would provide soldiers with enhanced capabili
 msgstr "仿生科技的进一步发展可以为士兵提供更强的生理机能，还能使士兵将身体与现有的神经科技相结合。"
 
 msgctxt "Blood Titanium/NJ_BIONICS2_RESEARCHDEF_COMPLETE"
-msgid "A new series of equipment and procedures now allow test subjects to have parts of their bodies replaced with more sophisticated mechanical components increasing their efficiency in battle. Thanks to the development of bio-alloys implant rejection rates are less than 0.02%, allowing nearly seamless incorporation of original nervous system and other connecting tissue.[CR][LF][CR][LF]As of yet bionic self-reparation has proven unsuccessful, requiring complete replacement should a malfunction occur. All new implants can now be produced in the Bionics Lab."
+msgid "A new series of equipment and procedures now allow test subjects to have parts of their bodies replaced with more sophisticated mechanical components increasing their efficiency in battle. Thanks to the development of bio-alloys implant rejection rates are less than 0.02%, allowing nearly seamless incorporation of original nervous system and other connecting tissue.[LF][LF][LF]As of yet bionic self-reparation has proven unsuccessful, requiring complete replacement should a malfunction occur. All new implants can now be produced in the Bionics Lab."
 msgstr "在一系列新设备和新流程的支持下，测试对象现可将某些身体部位替换成技术更加成熟的机械元件，从而提升他们的战斗效率。由于仿生合金植入物的发展，植入物成功接受率高达 99.98% 以上，几乎实现了与原有神经系统和其他结缔组织的无缝结合。[LF][LF] 不过经证明，仿生自我修复功能仍然不成功。因此只要发生故障，所有部件必须完全替换。所有新的植入物现已可在仿生实验室中制造。"
 
 msgctxt "Blood Titanium/NJ_BIONICS2_RESEARCHDEF_BENEFITS"
@@ -1785,6 +1789,946 @@ msgstr "在成功地结合了平衡议会的纳米科技与现有的仿生产品
 msgctxt "Blood Titanium/SYN_BIONICS3_RESEARCHDEF_BENEFITS"
 msgid "Cybernetics Lab facility and additional designs."
 msgstr "神经机械实验室附加设计设施。"
+
+msgctxt "Pandoran Research/ALN_NEST_RESEARCHDEF_NAME"
+msgid "PANDORAN NEST"
+msgstr "潘多拉巢穴"
+
+msgctxt "Pandoran Research/ALN_NEST_RESEARCHDEF_COMPLETE"
+msgid "The Pandorans have developed the ability to build structures on land capable of breeding and mutating large quantities of biomass."
+msgstr "潘多拉体已进化出在陆地上建造建筑的能力，它们能够繁殖和突变大量的生物质。"
+
+msgctxt "Pandoran Research/ALN_LAIR_RESEARCHDEF_NAME"
+msgid "PANDORAN LAIR"
+msgstr "潘多拉大巢穴"
+
+msgctxt "Pandoran Research/ALN_LAIR_RESEARCHDEF_COMPLETE"
+msgid "A new type of Pandoran structure has evolved capable of generating far more powerful mutations, and with far greater reach."
+msgstr "一种新型潘多拉建筑，已进化出能够产生更强突变体的能力，并且占地范围更广。"
+
+msgctxt "Pandoran Research/ALN_CITADEL_RESEARCHDEF_NAME"
+msgid "PANDORAN CITADEL"
+msgstr "潘多拉城堡"
+
+msgctxt "Pandoran Research/ALN_CITADEL_RESEARCHDEF_COMPLETE"
+msgid "An Apex mutation is being developed in a huge, cavernous structure. This poses a serious threat to human life on earth."
+msgstr "巨大的洞穴结构正在形成顶级的变异体，这将对地球上的人类生命构成严重威胁。"
+
+msgctxt "Pandoran Research/ALN_ACIDTECH_RESEARCHDEF_NAME"
+msgid "PANDORAN ACID TECH"
+msgstr "潘多拉酸性科技"
+
+msgctxt "Pandoran Research/ALN_ACIDTECH_RESEARCHDEF_COMPLETE"
+msgid "Pandorans have enhanced their capability with acid based combat systems."
+msgstr "潘多拉体用酸基战斗系统强化了它们的能力。"
+
+msgctxt "Pandoran Research/ALN_VIRALTECH_RESEARCHDEF_NAME"
+msgid "PANDORAN VIRAL TECH"
+msgstr "潘多拉病毒科技"
+
+msgctxt "Pandoran Research/ALN_VIRALTECH_RESEARCHDEF_COMPLETE"
+msgid "Pandorans have weaponized a Pandoravirus mutation with instant effects for deployment on the battlefield."
+msgstr "潘多拉体将一种可立即生效的潘多拉病毒突变用作武器并部署至战场。"
+
+msgctxt "Pandoran Research/ALN_CRABMANBASIC_RESEARCHDEF_NAME"
+msgid "ARTHRON"
+msgstr "蟹钳人"
+
+msgctxt "Pandoran Research/ALN_CRABMANBASIC_RESEARCHDEF_COMPLETE"
+msgid "Species classification A-1[LF]A human mutation with sea creature DNA we have named the Arthron. It uses its large claw to attack in close combat."
+msgstr "物种类别 A-1[LF]含有海洋生物 DNA 的人类变异体，我们将其称为蟹钳人。这种生物会使用巨大的螯进行近战攻击。"
+
+msgctxt "Pandoran Research/ALN_CRABMANCHARGER_RESEARCHDEF_NAME"
+msgid "ARTHRON BRUTE"
+msgstr "蟹钳人莽兽"
+
+msgctxt "Pandoran Research/ALN_CRABMANCHARGER_RESEARCHDEF_COMPLETE"
+msgid "Species classification A-Alpha[LF]A new type of Arthron evolved for close combat. The most noticeable difference is the presence of an organic shield and the ability to spit poison at medium range. The specimen has shown to exhibit increased aggression"
+msgstr "物种类别 A-Alpha[LF]一种为近身战斗而进化的新型蟹钳人。它与蟹钳人最显著的区别，在于生长出了有机盾牌和具备进行中等距离喷毒的能力。此样本显示出更强的攻击性"
+
+msgctxt "Pandoran Research/ALN_CRABMANADVANCEDCHARGER_RESEARCHDEF_NAME"
+msgid "ARTHRON BRUTE ALPHA"
+msgstr "蟹钳人莽兽头领"
+
+msgctxt "Pandoran Research/ALN_CRABMANADVANCEDCHARGER_RESEARCHDEF_COMPLETE"
+msgid "Species classification A-Alpha-1[LF]An enhanced variation of the Brute mutation with enhanced melee capabilities. Reports state that the creature has an evolved pincer limb capable of considerable damage. "
+msgstr "物种类别 A-Alpha-1[LF]一种强化了近战能力的蟹钳人莽兽变种。报告指出，这种生物进化出的钳形肢可以造成巨量伤害。"
+
+msgctxt "Pandoran Research/ALN_CRABMANADVANCEDCHARGER2_RESEARCHDEF_NAME"
+msgid "ARTHRON BRUTE ALPHA"
+msgstr "蟹钳人莽兽头领"
+
+msgctxt "Pandoran Research/ALN_CRABMANADVANCEDCHARGER2_RESEARCHDEF_COMPLETE"
+msgid "Species classification A-Alpha-2[LF]A mutation of the Brute, this subspecies has evolved internal organs capable of delivering highly toxic poison in combat. While antidotes for the poison are developed, its speed and strength render the creature extremely dangerous."
+msgstr "物种类别 A-Alpha-2[LF]一种变异的蟹钳人莽兽，此亚种进化出了能够在战斗中释放剧毒的内脏。虽已开发出解药，但它的速度和力量依然使其非常危险。"
+
+msgctxt "Pandoran Research/ALN_CRABMANELITECHARGER_RESEARCHDEF_NAME"
+msgid "ARTHRON BRUTE CHAMPION"
+msgstr "蟹钳人莽兽勇士"
+
+msgctxt "Pandoran Research/ALN_CRABMANELITECHARGER_RESEARCHDEF_COMPLETE"
+msgid "Species classification A-Alpha-E1[LF]An enhanced form of the Brute equipped with a strengthened shield and pincer. The observed specimens exhibit increased intelligence and are capable of cunning and tactical thought on the battlefield. To be approached with extreme caution."
+msgstr "物种类别 A-Alpha-E1[LF]装备有强化盾牌和大螯的增强型蟹钳人莽兽。观察样本显示出比普通潘多拉体更高的智力水平，并且在战场上能够运用狡猾的战术。接近时务必极为小心。"
+
+msgctxt "Pandoran Research/ALN_CRABMANELITECHARGER2_RESEARCHDEF_NAME"
+msgid "ARTHRON BRUTE CHAMPION"
+msgstr "蟹钳人莽兽勇士"
+
+msgctxt "Pandoran Research/ALN_CRABMANELITECHARGER2_RESEARCHDEF_COMPLETE"
+msgid "Species classification A-Alpha-E2[LF]An evolution of the Brute further suited for close combat. Reports indicate that the creature's chitin has mutated to the point of combat armor allowing it to survive a direct hit in the head. Its legs and torso are believed to present its major weaknesses."
+msgstr "物种类别 A-Alpha-E2[LF]更适合近战的进化型蟹钳人莽兽。报告指出，这种生物的几丁质已经变异到战斗装甲的程度，使得它在头部受到直接撞击后仍能存活。我们认为，腿部和躯干是其主要的弱点。"
+
+msgctxt "Pandoran Research/ALN_CRABMANELITECHARGER3_RESEARCHDEF_NAME"
+msgid "ARTHRON BRUTE CHAMPION"
+msgstr "蟹钳人莽兽勇士"
+
+msgctxt "Pandoran Research/ALN_CRABMANELITECHARGER3_RESEARCHDEF_COMPLETE"
+msgid "Species classification A-Alpha-E3[LF]A nearly fully armored Brute. While its combat capabilities remain similar to other types of Brute, its legs and torso are considerably strengthened, rendering it almost immune to standard weapons."
+msgstr "物种类别 A-Alpha-E3[LF]一种几乎披满装甲的蟹钳人莽兽。虽然它的战斗能力与其他类型的蟹钳人莽兽相仿，但它的腿和躯干都得到了巨大的防护加强，标准武器几乎无法对其造成伤害。"
+
+msgctxt "Pandoran Research/ALN_CRABMANULTRACHARGER_RESEARCHDEF_NAME"
+msgid "ARTHRON BRUTE PRIME"
+msgstr "蟹钳人莽兽精英"
+
+msgctxt "Pandoran Research/ALN_CRABMANULTRACHARGER_RESEARCHDEF_COMPLETE"
+msgid "Species classification A-Alpha-CAS[LF]The specimen is believed to be the peak of Brute evolution. Lacking any known weak spots, the specimen is capable of complex thinking and command capability when on the battlefield. When encountered, it is recommended that it be taken out first."
+msgstr "物种类别 A-Alpha-CAS[LF]此样本被认为是蟹钳人莽兽进化的巅峰。无已知弱点，在战场上具有复杂的思维和指挥能力。建议在遭遇时优先将其消灭。"
+
+msgctxt "Pandoran Research/ALN_CRABMANSHIELDER_RESEARCHDEF_NAME"
+msgid "ARTHRON SHIELDBEARER"
+msgstr "蟹钳人执盾手"
+
+msgctxt "Pandoran Research/ALN_CRABMANSHIELDER_RESEARCHDEF_COMPLETE"
+msgid "Species classification A-Beta[LF]A new specimen of Arthorn, mutated to have a large carapace and organic shield additionally protecting it from physical damage. Behavior analysis suggests this might be the Pandoran's attempt to create an equivalent of the Heavy Soldier class."
+msgstr "物种类别 A-Beta[LF]新型蟹钳人样本，已变异出巨型甲壳和有机盾牌来进一步保护自己免受物理伤害。行为分析表明，这可能是潘多拉体参照重装兵试图创造的生物类型。"
+
+msgctxt "Pandoran Research/ALN_CRABMANADVANCEDSHIELDER_RESEARCHDEF_NAME"
+msgid "ARTHRON SHIELDBEARER ALPHA"
+msgstr "蟹钳人执盾手头领"
+
+msgctxt "Pandoran Research/ALN_CRABMANADVANCEDSHIELDER_RESEARCHDEF_COMPLETE"
+msgid "Species classification A-Beta-1[LF]An enhanced form of Shieldbearer with reinforced carapace and shield that could withstand heavy blast damage. No significant behavior changes have been noticed at this point. Use of superior firepower is recommended."
+msgstr "物种类别 A-Beta-1[LF]一种加强型蟹钳人执盾手，甲壳和盾牌得到了进一步加固，可以承受大量爆炸伤害。目前还没有发现明显的行为变化。建议使用高级火力攻击。"
+
+msgctxt "Pandoran Research/ALN_CRABMANADVANCEDSHIELDER2_RESEARCHDEF_NAME"
+msgid "ARTHRON SHIELDBEARER ALPHA"
+msgstr "蟹钳人执盾手头领"
+
+msgctxt "Pandoran Research/ALN_CRABMANADVANCEDSHIELDER2_RESEARCHDEF_COMPLETE"
+msgid "Species classification A-Beta-2[LF]A mutation of the Shieldbearer subspecies evolved for close quarter combat. Reports have confirmed that the creature's limbs have been significantly enhanced, including the creature's pincer. The head remains a known weak spot."
+msgstr "物种类别 A-Beta-2[LF]为近身格斗进化而来的蟹钳人执盾手亚种变异体。有报告证实，这种生物的四肢得到了显著增强，包括它的大螯。头部依然是已知的弱点。"
+
+msgctxt "Pandoran Research/ALN_CRABMANELITESHIELDER_RESEARCHDEF_NAME"
+msgid "ARTHRON SHIELDBEARER CHAMPION"
+msgstr "蟹钳人执盾手勇士"
+
+msgctxt "Pandoran Research/ALN_CRABMANELITESHIELDER_RESEARCHDEF_COMPLETE"
+msgid "Species classification A-Beta-E1[LF]Described as an elite version of the Shieldbearer, the subspecies is nearly entirely armored and capable of tactical thought. Observation has confirmed that specimens have on occasion taken action to protect weaker Pandorans allowing others to advance and attack."
+msgstr "物种类别 A-Beta-E1[LF]蟹钳人执盾手精英进化体，此亚种几乎全身都包裹在装甲之中，并且具有战术思维能力。观察证实，这些样本有时会保护较弱的潘多拉体前进和攻击。"
+
+msgctxt "Pandoran Research/ALN_CRABMANELITESHIELDER2_RESEARCHDEF_NAME"
+msgid "ARTHRON SHIELDBEARER CHAMPION"
+msgstr "蟹钳人执盾手勇士"
+
+msgctxt "Pandoran Research/ALN_CRABMANELITESHIELDER2_RESEARCHDEF_COMPLETE"
+msgid "Species classification A-Beta-E2[LF]The creature is a highly evolved Shieldbearer equipped with enhanced pincer and shields arms. Unlike other creatures, it is speculated that its method of combat is to attract attention to itself giving the opportunity of other creatures to flank its attackers."
+msgstr "物种类别 A-Beta-E2[LF]一种高度进化的蟹钳人执盾手，装备有强化大螯和盾牌。根据推测，它的战斗方法与其他生物不同，它会吸引敌方注意力来让其他生物有机会从侧翼攻击。"
+
+msgctxt "Pandoran Research/ALN_CRABMANELITESHIELDER3_RESEARCHDEF_NAME"
+msgid "ARTHRON SHIELDBEARER CHAMPION"
+msgstr "蟹钳人执盾手勇士"
+
+msgctxt "Pandoran Research/ALN_CRABMANELITESHIELDER3_RESEARCHDEF_COMPLETE"
+msgid "Species classification A-Beta-E2[LF]A subspecies of Shieldbearer evolved specifically to counter machine gun and shotgun damage. Reports indicate that a few of these have been enough to dispatch entire squads of soldiers equipped with standard and substandard weapons. If encountered retreat is strongly recommended. "
+msgstr "物种类别 A-Beta-E2[LF]蟹钳人执盾手的一个亚种，专门进化用来对抗机枪和霰弹枪的伤害。报告显示，仅数个此种蟹钳人执盾手便足以歼灭配备了标准和次等武器的一整支士兵小队。如果遭遇，强烈建议撤退。"
+
+msgctxt "Pandoran Research/ALN_CRABMANULTRASHIELDER_RESEARCHDEF_NAME"
+msgid "ARTHRON SHIELDBEARER PRIME"
+msgstr "蟹钳人执盾手精英"
+
+msgctxt "Pandoran Research/ALN_CRABMANULTRASHIELDER_RESEARCHDEF_COMPLETE"
+msgid "Species classification A-Beta-CAS[LF]A commander type specimen, this creature is the apex of Shieldbearer evolution. Shielded by thick chitin with no known weak spots, it takes the role of a leader, directing other units on the battlefield. It is estimated that eliminating this Arthron, would decrease overall enemy performance by seventeen percent."
+msgstr "物种类别 A-Beta-CAS[LF]指挥官型样本，这种生物是蟹钳人执盾手进化的巅峰。全身由厚厚的几丁质包裹，没有已知的弱点。在战场上扮演指挥官角色，指挥其他部队作战。据估计，消灭这种蟹钳人将使敌人的整体作战能力下降 17%。"
+
+msgctxt "Pandoran Research/ALN_CRABMANGUNNER_RESEARCHDEF_NAME"
+msgid "ARTHRON GUNNER"
+msgstr "蟹钳人枪手"
+
+msgctxt "Pandoran Research/ALN_CRABMANGUNNER_RESEARCHDEF_COMPLETE"
+msgid "Species classification A-Gamma[LF]The first type of Arthron that has adapted to the use of firearms. The exact method of this process remains unclear, but somehow they managed to transform old human weapons and incorporate them into their bodies."
+msgstr "物种类别 A-Gamma[LF]首类能够使用枪炮的蟹钳人。尚不清楚其确切的进化过程，但它们不知以何种方法将旧的人类武器与自己的身体融合在了一起。"
+
+msgctxt "Pandoran Research/ALN_COMMANDO_RESEARCHDEF_NAME"
+msgid "ARTHRON SCOURGE"
+msgstr "灾祸蟹钳人"
+
+msgctxt "Pandoran Research/ALN_COMMANDO_RESEARCHDEF_COMPLETE"
+msgid "Species classification A-Gamma[LF]The first type of Arthron that has adapted to use grenades and firearms. The exact method of this process remains unclear, but somehow they managed to transform old human weapons and incorporate them into their bodies."
+msgstr "物种类别 A-Gamma[LF]首类能够使用手雷和枪炮的蟹钳人。尚不清楚其确切的进化过程，但它们不知以何种方法将旧的人类武器与自己的身体融合在了一起。"
+
+msgctxt "Pandoran Research/ALN_ADVANCEDCOMMANDO_RESEARCHDEF_NAME"
+msgid "ARTHRON SCOURGE ALPHA"
+msgstr "灾祸蟹钳人头领"
+
+msgctxt "Pandoran Research/ALN_ADVANCEDCOMMANDO_RESEARCHDEF_COMPLETE"
+msgid "Species classification A-Gamma-1[LF]A variation of Scourge, this subspecies is equipped with a superior machine gun and is better capable of using it. Observation suggests that the weapon has merged with the biological part of the creature's arm."
+msgstr "物种类别 A-Gamma-1[LF]灾祸蟹钳人的一个变种，此亚种装备有更高级的机枪且能力更强。观察表明，此生物的武器已经与手臂融合在了一起。"
+
+msgctxt "Pandoran Research/ALN_ADVANCEDCOMMANDO2_RESEARCHDEF_NAME"
+msgid "ARTHRON SCOURGE ALPHA"
+msgstr "灾祸蟹钳人头领"
+
+msgctxt "Pandoran Research/ALN_ADVANCEDCOMMANDO2_RESEARCHDEF_COMPLETE"
+msgid "Species classification A-Gamma-2[LF]A mutation of the Scourge with a biotechnologically superior grenade attachment. It remains unknown whether the Pandorans are producing the weapons or have found a way to biologically enhance them. "
+msgstr "物种类别 A-Gamma-2[LF]灾祸蟹钳人的一个变种，带有更高级的生物技术手雷。目前还不清楚到底是潘多拉体在生产这种武器，还是说它们从生物学上找到了强化自己的方法。"
+
+msgctxt "Pandoran Research/ALN_ELITECOMMANDO_RESEARCHDEF_NAME"
+msgid "ARTHRON SCOURGE CHAMPION"
+msgstr "灾祸蟹钳人勇士"
+
+msgctxt "Pandoran Research/ALN_ELITECOMMANDO_RESEARCHDEF_COMPLETE"
+msgid "Species classification A-Gamma-E1[LF]An evolved Scourge with superior firepower capabilities. Observations confirm that the creature is highly intelligent and aggressive, but still has limited perception capabilities. It is recommended to take it out from a distance."
+msgstr "物种类别 A-Gamma-E1[LF]具有高级火力能力的进化型灾祸蟹钳人。观察证实，这种生物极具智慧和攻击性，但感知能力仍然有限。建议从远处解决它们。"
+
+msgctxt "Pandoran Research/ALN_ELITECOMMANDO2_RESEARCHDEF_NAME"
+msgid "ARTHRON SCOURGE CHAMPION"
+msgstr "灾祸蟹钳人勇士"
+
+msgctxt "Pandoran Research/ALN_ELITECOMMANDO2_RESEARCHDEF_COMPLETE"
+msgid "Species classification A-Gamma-E2[LF]A subspecies of Scourge with hardened head and torso chitin serving as thick armor. Equipped with an enhanced machine gun melded to its arm, the creature shares a lot of behavior similarities with standard Assault soldiers, suggesting that the Pandorans are learning our tactics."
+msgstr "物种类别 A-Gamma-E2[LF]灾祸蟹钳人的亚种，头部和躯干坚硬的几丁质作为厚重的护甲使用，手臂处融合了一把强化机枪，与标准的突击兵拥有很多相似之处。这表明潘多拉体正在学习我们的战术。"
+
+msgctxt "Pandoran Research/ALN_ELITECOMMANDO3_RESEARCHDEF_NAME"
+msgid "ARTHRON SCOURGE CHAMPION"
+msgstr "灾祸蟹钳人勇士"
+
+msgctxt "Pandoran Research/ALN_ELITECOMMANDO3_RESEARCHDEF_COMPLETE"
+msgid "Species classification A-Gamma-E2[LF]Similar to the standard Scourge, this subspecies has evolved to be almost entirely covered with defensive chitin. Reports have confirmed that its grenade arm has also evolved and is capable of throwing more potent grenades at a greater distance."
+msgstr "物种类别 A-Gamma-E2[LF]与普通的灾祸蟹钳人类似，此亚种已进化并形成了几乎覆盖全身的防御性几丁质。有报告证实，它装有手榴弹的手臂也得到了进化，能够投掷威力更强的手榴弹，且投掷距离更远。"
+
+msgctxt "Pandoran Research/ALN_ULTRACOMMANDO_RESEARCHDEF_NAME"
+msgid "ARTHRON SCOURGE PRIME"
+msgstr "灾祸蟹钳人精英"
+
+msgctxt "Pandoran Research/ALN_ULTRACOMMANDO_RESEARCHDEF_COMPLETE"
+msgid "Species classification A-Gamma-CAS[LF]A command type Scourge, the subspecies has every part of its body covered in chitin armor. The specimen is skilled with both grenades and firearms, and is capable of instructing other Pandorans."
+msgstr "物种类别 A-Gamma-CAS[LF]指挥型灾祸蟹钳人，此亚种的整个躯体都覆盖几丁质盔甲。此样本精通手榴弹和枪炮，并且能指挥其他潘多拉体。"
+
+msgctxt "Pandoran Research/ALN_PRETORIAN_RESEARCHDEF_NAME"
+msgid "ARTHRON TYRANT"
+msgstr "蟹钳人暴君"
+
+msgctxt "Pandoran Research/ALN_PRETORIAN_RESEARCHDEF_COMPLETE"
+msgid "Species classification A-Delta[LF]A mutated Arthron evolved to counter flash attacks. Equipped with a chitin carapace, shield, and a machine gun implanted in its arm. Analysis suggests the specimen is the Pandoran equivalent of a support unit. The Arthron is further capable of spitting poison at medium range."
+msgstr "物种类别 A-Delta[LF]一种得到进化来对抗快速攻击的变异蟹钳人，装备有几丁质甲壳和盾牌，手臂上也植入了机关枪。分析表明，此样本相当于潘多拉的支援单位，更擅长在中等距离喷吐毒液。"
+
+msgctxt "Pandoran Research/ALN_ADVANCEDPRETORIAN_RESEARCHDEF_NAME"
+msgid "ARTHRON TYRANT ALPHA"
+msgstr "蟹钳人暴君头领"
+
+msgctxt "Pandoran Research/ALN_ADVANCEDPRETORIAN_RESEARCHDEF_COMPLETE"
+msgid "Species classification A-Delta-1[LF]An evolved Tyrant with increased poison spitting capabilities. Reports also confirm that it is equipped with superior intelligence and has a reinforced chitin shield."
+msgstr "物种类别 A-Delta-1[LF]进化型蟹钳人暴君，具有更强的喷吐毒液能力。报告还证实，它具备更高的智慧，且配备有经过强化的几丁质盾牌。"
+
+msgctxt "Pandoran Research/ALN_ADVANCEDPRETORIAN2_RESEARCHDEF_NAME"
+msgid "ARTHRON TYRANT ALPHA"
+msgstr "蟹钳人暴君头领"
+
+msgctxt "Pandoran Research/ALN_ADVANCEDPRETORIAN2_RESEARCHDEF_COMPLETE"
+msgid "Species classification A-Delta-2[LF]A mutation of the Tyrant, this subspecies has evolved a thicker carapace capable of withstanding standard weapons. The creature also has a large caliber firearm as well as enhanced perception."
+msgstr "物种类别 A-Delta-2[LF]作为蟹钳人暴君的变种，此亚种进化出了更厚的外壳，能够抵御标准武器的攻击。这种生物还拥有大口径的枪炮，感知能力也得到了增强。"
+
+msgctxt "Pandoran Research/ALN_ELITEPRETORIAN_RESEARCHDEF_NAME"
+msgid "ARTHRON TYRANT CHAMPION"
+msgstr "蟹钳人暴君勇士"
+
+msgctxt "Pandoran Research/ALN_ELITEPRETORIAN_RESEARCHDEF_COMPLETE"
+msgid "Species classification A-Delta-E1[LF]An evolved Tyrant with enhanced defensive and offensive capabilities. Reports have shown that several of these specimens are capable of clearing scavenger strongholds without issue.  To be avoided unless engaged with overwhelming force."
+msgstr "物种类别 A-Delta-E1[LF]蟹钳人暴君的进化型，具有更强的防御和进攻能力。报告显示，其中一些样本能够轻而易举地捣毁拾荒者的据点。除非拥有压倒性火力，否则建议避免直接与其接触。"
+
+msgctxt "Pandoran Research/ALN_ELITEPRETORIAN2_RESEARCHDEF_NAME"
+msgid "ARTHRON TYRANT CHAMPION"
+msgstr "蟹钳人暴君勇士"
+
+msgctxt "Pandoran Research/ALN_ELITEPRETORIAN2_RESEARCHDEF_COMPLETE"
+msgid "Species classification A-Delta-E2[LF]An advanced Tyrant subspecies with a carapace and body covered in chitin armor. The specimen has learned to mimic the tactics of the opponents it faces."
+msgstr "物种类别 A-Delta-E2[LF]一种蟹钳人暴君的高级亚种，全身覆盖几丁质盔甲。此样本还会模仿对手的战术。"
+
+msgctxt "Pandoran Research/ALN_ELITEPRETORIAN3_RESEARCHDEF_NAME"
+msgid "ARTHRON TYRANT CHAMPION"
+msgstr "蟹钳人暴君勇士"
+
+msgctxt "Pandoran Research/ALN_ELITEPRETORIAN3_RESEARCHDEF_COMPLETE"
+msgid "Species classification A-Delta-E2[LF]A superior mutation strain of Tyrant that has evolved to produce an even more toxic type of poison. The specimen's legs and torso are covered with an additional layer of chitin armor allowing it to rush its enemies even when under heavy fire."
+msgstr "物种类别 A-Delta-E2[LF]蟹钳人暴君的一种高级突变体，进化后的毒素毒性更加猛烈。此样本的腿部和躯干上覆盖着一层额外的几丁质盔甲，因此即使在猛烈的炮火下，也能保护自己冲向敌人。"
+
+msgctxt "Pandoran Research/ALN_ULTRAPRETORIAN_RESEARCHDEF_NAME"
+msgid "ARTHRON TYRANT PRIME"
+msgstr "蟹钳人暴君精英"
+
+msgctxt "Pandoran Research/ALN_ULTRAPRETORIAN_RESEARCHDEF_COMPLETE"
+msgid "Species classification A-Delta-CAS[LF]A command type Tyrant fully covered with thick chitin armor, it is capable of long and medium ranged attacks as well as leading units in battle. Analysis has found that the poison it ejects from its mouth is more potent than that of standard specimen."
+msgstr "物种类别 A-Delta-CAS[LF]指挥官型蟹钳人暴君，全身覆盖厚厚的几丁质盔甲，可在中远程距离发动攻击，也能指挥其他单位战斗。分析发现，这种生物口中喷出的毒液比标准样本的毒性更强。"
+
+msgctxt "Pandoran Research/ALN_ELITERANGER_RESEARCHDEF_NAME"
+msgid "ARTHRON MYRMIDON CHAMPION"
+msgstr "蟹钳人侍从勇士"
+
+msgctxt "Pandoran Research/ALN_ELITERANGER_RESEARCHDEF_COMPLETE"
+msgid "Species classification A-Epsilon-E1[LF]An evolved form of Arthron, with a heavy carapace that is capable of using grenades and spitting poison. Despite the creature's significant intelligence, it appears to be an evolutionary dead end, since the combination of grenades and close quarter pincer mutations cannot be efficiently used in any combat tactics."
+msgstr "物种类别 A-Epsilon-E1[LF]蟹钳人的进化型，拥有重型的甲壳，能够使用手雷和毒液进行攻击。尽管这种生物的智力水平有显著提高，但它的进化过程似乎进入了死胡同，因为手雷和变异而来的近战大螯组合在一起显得格格不入，无论哪种战术都无法有效地实行。"
+
+msgctxt "Pandoran Research/ALN_ELITERANGER2_RESEARCHDEF_NAME"
+msgid "ARTHRON MYRMIDON CHAMPION"
+msgstr "蟹钳人侍从勇士"
+
+msgctxt "Pandoran Research/ALN_ELITERANGER2_RESEARCHDEF_COMPLETE"
+msgid "Species classification A-Epsilon-E2[LF]An Arthron mutation that has evolved to spit extremely potent poison at enemies. Its enhanced pincer and ability to throw grenades make it extremely dangerous in mid and close-range combat. It is recommended to take it out from a distance."
+msgstr "物种类别 A-Epsilon-E2[LF]由蟹钳人进化而来的变异体，可朝敌人喷射毒性猛烈的毒液。强化的大螯和手雷也使它在中近程战斗中极其危险。建议从远处消灭。"
+
+msgctxt "Pandoran Research/ALN_ELITERANGER3_RESEARCHDEF_NAME"
+msgid "ARTHRON MYRMIDON CHAMPION"
+msgstr "蟹钳人侍从勇士"
+
+msgctxt "Pandoran Research/ALN_ELITERANGER3_RESEARCHDEF_COMPLETE"
+msgid "Species classification A-Epsilon-E2[LF]An Arthron subspecies that is believed to have evolved as an attempt to respond to Assault class units. While incapable of using firearms, the specimen can spit poison and throw grenades located in its left arm. "
+msgstr "物种类别 A-Epsilon-E2[LF]蟹钳人的一个亚种，应该是为了反制突击兵单位进化而来。虽然不能使用枪炮，但可以喷吐毒液并投掷左臂的手雷。"
+
+msgctxt "Pandoran Research/ALN_ULTRARANGER_RESEARCHDEF_NAME"
+msgid "ARTHRON MYRMIDON  PRIME"
+msgstr "蟹钳人侍从精英"
+
+msgctxt "Pandoran Research/ALN_ULTRARANGER_RESEARCHDEF_COMPLETE"
+msgid "Species classification A-Epsilon-CAS[LF]A commander type Arthron Myrmidon that has adapted new tactics to do with its melee-grenade style of fighting. The specimen has no weak spots and has the ability to direct other Pandoran troops. Killing it as soon as possible is advised."
+msgstr "物种类别 A-Epsilon-CAS[LF]指挥官型蟹钳人侍从，已经会运用新的战术来适应其近战手雷式的战斗。此样本没有任何弱点，并且能够指挥其他潘多拉部队。建议尽快击杀。"
+
+msgctxt "Pandoran Research/ALN_ELITEACIDRANGER_RESEARCHDEF_NAME"
+msgid "ARTHRON DRAGON CHAMPION"
+msgstr "蟹钳人恶龙勇士"
+
+msgctxt "Pandoran Research/ALN_ELITEACIDRANGER_RESEARCHDEF_COMPLETE"
+msgid "Species classification A-Zeta-E1[LF]An Arthron subspecies that has enhanced its grenade throwing capabilities to use acid grenades. Highly intelligent, the specimen has developed a melee-grenade style of fighting. Its legs are perhaps its greatest weak spot."
+msgstr "物种类别 A-Zeta-E1[LF]蟹钳人的亚种，强化了投掷酸性手榴弹的能力。此样本的智力高度发达，已适应了近战手雷式的作战风格。它的腿部也许是最大的弱点。"
+
+msgctxt "Pandoran Research/ALN_ELITEACIDRANGER2_RESEARCHDEF_NAME"
+msgid "ARTHRON DRAGON CHAMPION"
+msgstr "蟹钳人恶龙勇士"
+
+msgctxt "Pandoran Research/ALN_ELITEACIDRANGER2_RESEARCHDEF_COMPLETE"
+msgid "Species classification A-Zeta-E2[LF]A variation of Arthron evolved as a response to heavy armored soldiers. Considerably armored and equipped with acid grenades, it has been observed to attack fully armored enemies and occasionally vehicles."
+msgstr "物种类别 A-Zeta-E2[LF]蟹钳人的变异体，用于反制重装兵，拥有坚硬的外壳护甲以及威力强大的酸性手雷。根据观察，此样本会攻击盔甲厚重的敌人，偶尔还会攻击载具。"
+
+msgctxt "Pandoran Research/ALN_ELITEACIDRANGER3_RESEARCHDEF_NAME"
+msgid "ARTHRON DRAGON CHAMPION"
+msgstr "蟹钳人恶龙勇士"
+
+msgctxt "Pandoran Research/ALN_ELITEACIDRANGER3_RESEARCHDEF_COMPLETE"
+msgid "Species classification A-Zeta-E2[LF]A specialized combat Arthron whose body is covered with an additional layer of chitin armor. The specimen is capable of strong pincer attacks and can throw acid grenades from its mutated appendage."
+msgstr "物种类别 A-Zeta-E2[LF]一种特殊的战斗型蟹钳人，全身覆盖一层额外的几丁质盔甲。此样本能够挥舞大螯进行强力攻击，还能从变异的附肢中投掷酸性手雷。"
+
+msgctxt "Pandoran Research/ALN_ULTRAACIDRANGER_RESEARCHDEF_NAME"
+msgid "ARTHRON DRAGON PRIME"
+msgstr "蟹钳人恶龙精英"
+
+msgctxt "Pandoran Research/ALN_ULTRAACIDRANGER_RESEARCHDEF_COMPLETE"
+msgid "Species classification A-Zeta-CAS[LF]The apex of Arthron Dragon evolution. The specimen is considered a commander type Pandoran, capable of directing enemy units. Entirely protected by chitin armor, the creature throws acid grenades at what it evaluates as high value targets."
+msgstr "物种类别 A-Zeta-CAS[LF]蟹钳人恶龙进化的巅峰。此样本被认为是指挥官型潘多拉体，能够指挥敌军部队。这种生物全身由几丁质护甲保护，会向评估为高价值的目标投掷酸性手雷。"
+
+msgctxt "Pandoran Research/ALN_ELITEVIRALCOMMANDO_RESEARCHDEF_NAME"
+msgid "ARTHRON BANE CHAMPION"
+msgstr "毒祸蟹钳人勇士"
+
+msgctxt "Pandoran Research/ALN_ELITEVIRALCOMMANDO_RESEARCHDEF_COMPLETE"
+msgid "Species classification A-Eta-E1[LF]A subspecies of Arthron that has managed to integrate a strain of the Pandoravirus in its weaponry. Protected by a chitin carapace, the creature is specialized in long range combat. To be avoided whenever possible!"
+msgstr "物种类别 A-Eta-E1[LF]蟹钳人的一个亚种，将潘多拉病毒整合到了武器装备之中。这种生物由几丁质外壳保护，擅长远程战斗。尽可能避免与之交手！"
+
+msgctxt "Pandoran Research/ALN_ELITEVIRALCOMMANDO2_RESEARCHDEF_NAME"
+msgid "ARTHRON BANE CHAMPION"
+msgstr "毒祸蟹钳人勇士"
+
+msgctxt "Pandoran Research/ALN_ELITEVIRALCOMMANDO2_RESEARCHDEF_COMPLETE"
+msgid "Species classification A-Eta-E2[LF]A mutation of Arthron believed to have evolved in response to the Disciples of Anu Priests. The specimen is equipped with a grenade-launcher appendage and a viral weapon containing a weaponized strain of the Pandoravirus."
+msgstr "物种类别 A-Eta-E2[LF]蟹钳人的变异体，应该是为了对抗安努门徒教会的牧师兵进化而来。此样本装备一条手雷发射器附肢，以及一把含有潘多拉病毒的病毒武器。"
+
+msgctxt "Pandoran Research/ALN_ELITEVIRALCOMMANDO3_RESEARCHDEF_NAME"
+msgid "ARTHRON BANE CHAMPION"
+msgstr "毒祸蟹钳人勇士"
+
+msgctxt "Pandoran Research/ALN_ELITEVIRALCOMMANDO3_RESEARCHDEF_COMPLETE"
+msgid "Species classification A-Eta-E2[LF]A highly dangerous Arthron variation, capable of infecting soldiers with a strain of the Pandoravirus by using an evolved bio-organic Viral machine gun. In addition, the specimen has grenade launching capability and a thick chitin carapace."
+msgstr "物种类别 A-Eta-E2[LF]高度危险的蟹钳人变异体，能够使用进化而来的生物有机病毒机枪感染士兵。另外，此样本还会投掷手雷，并拥有厚重的几丁质外壳。"
+
+msgctxt "Pandoran Research/ALN_ULTRAVIRALCOMMANDO_RESEARCHDEF_NAME"
+msgid "ARTHRON BANE PRIME"
+msgstr "毒祸蟹钳人精英"
+
+msgctxt "Pandoran Research/ALN_ULTRAVIRALCOMMANDO_RESEARCHDEF_COMPLETE"
+msgid "Species classification A-Eta-CAS[LF]An evolution of the Arthron Bane subspecies, capable of tactical command. The specimen has no known weak spots and makes tactical use of its grenades and viral weapon to target key threats. Killing it will reduce Pandoran combat efficiency on the battlefield."
+msgstr "物种类别 A-Eta-CAS[LF]毒祸蟹钳人的进化型亚种，具有战术指挥能力。此样本没有已知弱点，会运用战术使用手雷和病毒武器对付关键性的威胁。将其击杀可降低潘多拉体在战场上的战斗效率。"
+
+msgctxt "Pandoran Research/ALN_FISHMANBASIC_RESEARCHDEF_NAME"
+msgid "TRITON STRANGLER"
+msgstr "触手鱼人扼杀者"
+
+msgctxt "Pandoran Research/ALN_FISHMANBASIC_RESEARCHDEF_COMPLETE"
+msgid "Species classification T-Zero[LF]A humanoid Pandoran species with four arms and heightened perception capabilities. Generally weak, the creature can use its upper appendages to drain blood from its opponents at close range."
+msgstr "物种类别 T-Zero[LF]类人潘多拉体，拥有四条手臂和更强的感知能力。这种生物通常比较弱小，会用自己的上附肢在近距离吸取对方的血液。"
+
+msgctxt "Pandoran Research/ALN_FISHMANSNEAKER_RESEARCHDEF_NAME"
+msgid "TRITON WRETCH"
+msgstr "触手鱼人恶棍"
+
+msgctxt "Pandoran Research/ALN_FISHMANSNEAKER_RESEARCHDEF_COMPLETE"
+msgid "Species classification T-Zero-B[LF]An evolved Triton subspecies with chameleon like skin allowing it to vanish at will on the battlefield. The specimen's appendages have evolved to the point it can use simple human made pistols. The creature is further capable of emitting a cloud of mist to hide itself when threatened."
+msgstr "物种类别 T-Zero-B[LF]触手鱼人的进化型亚种，拥有类似于变色龙的皮肤，能够战场上随意遁去身形。此样本的附肢已进化至可以使用简单的人造手枪。当受到威胁时，这种生物还能放出一团薄雾来隐藏自己。"
+
+msgctxt "Pandoran Research/ALN_FISHMANASSAULT_RESEARCHDEF_NAME"
+msgid "TRITON FOOTPAD"
+msgstr "触手鱼人强盗"
+
+msgctxt "Pandoran Research/ALN_FISHMANASSAULT_RESEARCHDEF_COMPLETE"
+msgid "Species classification T-Alpha[LF]A subspecies of Triton evolved to use human Assault Rifles. The specimen has enhanced perception and is capable of regenerating wounds. Additionally, reports confirm the existence of a second pair of arms that can drain blood of enemies from close distance."
+msgstr "物种类别 T-Alpha[LF]触手鱼人的进化型亚种，可以使用人造突击步枪。此样本的感知能力得到了增强，并且拥有伤口再生的能力。此外报告证明，此生物的第二对手臂可以从近距离吸取敌人的血液。"
+
+msgctxt "Pandoran Research/ALN_FISHMANSTRIKER_RESEARCHDEF_NAME"
+msgid "TRITON THUG"
+msgstr "触手鱼人暴徒"
+
+msgctxt "Pandoran Research/ALN_FISHMANSTRIKER_RESEARCHDEF_COMPLETE"
+msgid "Species classification T-Gamma[LF]A mutated subspecies of Strangler that has adapted to use human Shotguns. While the creature generally does not present a serious threat, its ability to regenerate and drain opponents' blood to heal make it a nuisance.[LF]"
+msgstr "物种类别 T-Gamma[LF]触手鱼人扼杀者的亚种变异体，已经学会使用人造霰弹枪。虽然这种生物一般不会造成严重威胁，但它的再生能力和吸取对手血液的能力使其非常讨厌。"
+
+msgctxt "Pandoran Research/ALN_FISHMANAGGROASSAULT_RESEARCHDEF_NAME"
+msgid "TRITON MANIAC"
+msgstr "触手鱼人狂热者"
+
+msgctxt "Pandoran Research/ALN_FISHMANAGGROASSAULT_RESEARCHDEF_COMPLETE"
+msgid "Species classification T-Alpha-1[LF]A variation of the Footpad. The specimen has been observed to always be equipped with New Jericho gauss rifles. Enhanced perception and bloodsucking capabilities are present, as well as an enhanced regeneration factor."
+msgstr "物种类别 T-Alpha-1[LF]触手鱼人强盗的变异体。据观察，此样本总是装备新耶利哥高斯步枪，拥有强化的感知能力、吸血能力以及再生能力。"
+
+msgctxt "Pandoran Research/ALN_FISHMANFOCUSASSAULT_RESEARCHDEF_NAME"
+msgid "TRITON FOOTPAD ALPHA"
+msgstr "触手鱼人强盗头领"
+
+msgctxt "Pandoran Research/ALN_FISHMANFOCUSASSAULT_RESEARCHDEF_COMPLETE"
+msgid "Species classification T-Alpha-2[LF]An evolved Footpad observed to be exclusively equipped with Synedrion technology. Analysis suggests that it is able to use any type of Assault Rifle, but chooses to use only Synedrion tech. The specimen has enhanced perception and regeneration capabilities and a second pair of arms capable of sucking blood from its victims."
+msgstr "物种类别 T-Alpha-2[LF]触手鱼人强盗的进化型。据观察，此样本专门配备有平衡议会的技术。分析表明，样本虽然可以使用任何类型的突击步枪，但却只会选择平衡议会的技术。此生物拥有增强的感知能力和再生能力，第二对手臂还能从受害者身上吸取血液。"
+
+msgctxt "Pandoran Research/ALN_FISHMANELITESTRIKER_RESEARCHDEF_NAME"
+msgid "TRITON THUG ALPHA"
+msgstr "触手鱼人暴徒头领"
+
+msgctxt "Pandoran Research/ALN_FISHMANELITESTRIKER_RESEARCHDEF_COMPLETE"
+msgid "Species classification T-Gamma-E[LF]An enhanced type of Thug with extremely heightened intelligence and regeneration capabilities. The specimen's weapon of choice is a human Shotgun, which it can occasionally use to create diversions by attracting attention to itself. To be approached with caution."
+msgstr "物种类别 T-Gamma-E[LF]强化型触手鱼人暴徒，具有极高的智力和再生能力。此样本所选择的武器是人造霰弹枪，偶尔可以用它来吸引注意力以转移焦点。接近时须小心。"
+
+msgctxt "Pandoran Research/ALN_FISHMANPIERCERASSAULT_RESEARCHDEF_NAME"
+msgid "TRITON MANIAC ALPHA"
+msgstr "触手鱼人狂热者头领"
+
+msgctxt "Pandoran Research/ALN_FISHMANPIERCERASSAULT_RESEARCHDEF_COMPLETE"
+msgid "Species classification T-Alpha-E[LF]This subspecies is believed to be the most intelligent Maniac, capable of tactical combat analyses and equipped with a piercing Assault Rifle. Reports suggest it has extremely high perception, along with high regeneration capabilities. To be avoided at all costs."
+msgstr "物种类别 T-Alpha-E[LF]此亚种被认为是最聪明的触手鱼人狂热者，能够进行战术战斗分析并装备有强大的突击步枪。报告显示它具有极高的感知能力，同时具有很强的再生能力。应全力避免接触。"
+
+msgctxt "Pandoran Research/ALN_FISHMANHUNTER_RESEARCHDEF_NAME"
+msgid "TRITON POACHER"
+msgstr "触手鱼人偷猎者"
+
+msgctxt "Pandoran Research/ALN_FISHMANHUNTER_RESEARCHDEF_COMPLETE"
+msgid "Species classification T-Delta[LF]Unlike other types of tritons, the primary goal of this subspecies is to hunt down and capture humans. Equipped with a Neural pistol and evolved paralyzing appendages it is to be avoided whenever possible."
+msgstr "物种类别 T-Delta[LF]与其他类型的触手鱼人不同，此亚种的主要目标是捕猎和俘虏人类，装备有神经手枪和进化而来的麻痹附肢。尽可能避免与其接触。"
+
+msgctxt "Pandoran Research/ALN_FISHMANELITEHUNTER_RESEARCHDEF_NAME"
+msgid "TRITON POACHER ALPHA"
+msgstr "触手鱼人偷猎者头领"
+
+msgctxt "Pandoran Research/ALN_FISHMANELITEHUNTER_RESEARCHDEF_COMPLETE"
+msgid "Species classification T-Delta-E[LF]A commander type Pandoran, this subspecies represents an evolution of the Poacher that has developed a taste for hunting humans. Reports indicate it is always armed with a neural Sniper Rifle and Pistol and often toys with its opponents before killing them. To be avoided at all costs."
+msgstr "物种类别 T-Delta-E[LF]指挥官型潘多拉体，此亚种是触手鱼人偷猎者的进化型，具有捕猎人类的嗜好。报告显示，此生物装备有神经狙击步枪和神经手枪，经常会在杀死敌人前戏耍对方。应全力避免接触。"
+
+msgctxt "Pandoran Research/ALN_FISHMANSNIPER_RESEARCHDEF_NAME"
+msgid "TRITON HITMAN"
+msgstr "触手鱼人杀手"
+
+msgctxt "Pandoran Research/ALN_FISHMANSNIPER_RESEARCHDEF_COMPLETE"
+msgid "Species classification T-Beta[LF]This Triton mutation has developed the ability to use human Sniper Rifles, as well as learned to mimic their actions. Observation has shown that it also has enhanced perception and regeneration capabilities, and can further shroud itself by emitting mist clouds from appendages on its shoulders."
+msgstr "物种类别 T-Beta[LF]这种触手鱼人变异体可以使用人造狙击步枪，并且会模仿人类的行为。观察表明，此样本还具有强化的感知能力和再生能力，并能从肩膀上的附肢散发雾气来进一步隐藏自己。"
+
+msgctxt "Pandoran Research/ALN_FISHMANFOCUSSNIPER_RESEARCHDEF_NAME"
+msgid "TRITON MARKSMAN"
+msgstr "触手鱼人射手"
+
+msgctxt "Pandoran Research/ALN_FISHMANFOCUSSNIPER_RESEARCHDEF_COMPLETE"
+msgid "Species classification T-Beta-1[LF]An enhanced type of Hitman that has evolved sound suppression and camouflage making it difficult to spot on the battlefield. Its choice of Synedrion sniper rifles suggest that this is the Pandoran answer to infiltration specialists."
+msgstr "物种类别 T-Beta-1[LF]一种高级的触手鱼人杀手，已进化出声音抑制和伪装能力，很难在战场上被敌人发现。它所选择的平衡议会狙击步枪表明，这一潘多拉体变种专为针对渗透专家进化而来。"
+
+msgctxt "Pandoran Research/ALN_FISHMANAGGROSNIPER_RESEARCHDEF_NAME"
+msgid "TRITON HITMAN ALPHA"
+msgstr "触手鱼人杀手头领"
+
+msgctxt "Pandoran Research/ALN_FISHMANAGGROSNIPER_RESEARCHDEF_COMPLETE"
+msgid "Species classification T-Beta-2[LF]A mutation of Hitman equipped with a New Jericho sniper rifle. The creature’s ability to disappear at will and suppress all sound, along with the ability to release mist make it dangerous to deal with. Use of grenades is recommended when dealing with it."
+msgstr "物种类别 T-Beta-2[LF]触手鱼人杀手的变异体，装备有新耶利哥狙击步枪。这种生物可以随意隐身并压制所有声音，同时还具有释放雾气的能力，在战斗中非常危险。建议使用手雷与其对抗。"
+
+msgctxt "Pandoran Research/ALN_FISHMANPIERCERSNIPER_RESEARCHDEF_NAME"
+msgid "TRITON MARKSMAN ALPHA"
+msgstr "触手鱼人射手头领"
+
+msgctxt "Pandoran Research/ALN_FISHMANPIERCERSNIPER_RESEARCHDEF_COMPLETE"
+msgid "Species classification T-Beta-E[LF]The subspecies is referred to as the Triton Assassin. Evolved to the point it can become almost invisible and unheard in combat, the piercing Sniper Rifle that is its weapon of choice allows it to kill any opponent. Never approach alone."
+msgstr "物种类别 T-Beta-E[LF]此亚种也被称为触手鱼人刺客，已进化到能够在战斗中变得几乎看不见也听不见的程度，武器为强大的狙击步枪，可以杀死任何对手。永远不要单独与之接触。"
+
+msgctxt "Pandoran Research/ALN_FISHMANVIRALASSAULT_RESEARCHDEF_NAME"
+msgid "TRITON GHOUL"
+msgstr "触手鱼人食尸鬼"
+
+msgctxt "Pandoran Research/ALN_FISHMANVIRALASSAULT_RESEARCHDEF_COMPLETE"
+msgid "Species classification T-Alpha-V[LF]A subspecies of Footpad that has managed to obtain the viral technology of the Disciples of Anu. While its perception is poorer than other Triton subspecies, it has evolved to suppress sound to an extreme level."
+msgstr "物种类别 T-Alpha-V[LF]触手鱼人强盗的亚种，掌握各种安努门徒教会的病毒技术。虽然它的感知能力比其他触手鱼人亚种较差，但它抑制声音的能力已经进化到了极限。"
+
+msgctxt "Pandoran Research/ALN_FISHMANVIRALSNIPER_RESEARCHDEF_NAME"
+msgid "TRITON GHOST"
+msgstr "触手鱼人幽灵"
+
+msgctxt "Pandoran Research/ALN_FISHMANVIRALSNIPER_RESEARCHDEF_COMPLETE"
+msgid "Species classification T-Beta-V[LF]A subspecies of Hitman with heightened perception and regeneration capabilities. Using Disciples of Anu technology, it is capable of infecting opponents from a distance as well as draining their blood in close quarters. Direct confrontation not advised."
+msgstr "物种类别 T-Beta-V[LF]触手鱼人杀手的亚种，具有高度感知能力和再生能力，掌握安努门徒教会技术，能够从远处感染对手，也能从近距离吸取敌人的血液。不建议与其直接对抗。"
+
+msgctxt "Pandoran Research/ALN_FISHMANELITEVIRALASSAULT_RESEARCHDEF_NAME"
+msgid "TRITON GHOUL ALPHA"
+msgstr "触手鱼人食尸鬼头领"
+
+msgctxt "Pandoran Research/ALN_FISHMANELITEVIRALASSAULT_RESEARCHDEF_COMPLETE"
+msgid "The enhanced subspecies of Ghoul, capable of paralyzing enemies on touch. The specimen has command level intelligence, often coordinating with other units on the battlefield as it infects enemies with its viral Redemptor weapon. If encountered it is to be taken out as fast as possible."
+msgstr "触手鱼人食尸鬼的增强型亚种，能够在接触时麻痹敌人。此样本拥有指挥官级别的智力水平，能够使用名为“救赎者”的病毒武器感染敌人，还能指挥战场上的其他单位协同作战。如果遭遇，应尽快将其消灭。"
+
+msgctxt "Pandoran Research/ALN_FISHMANELITEVIRALSNIPER_RESEARCHDEF_NAME"
+msgid "TRITON GHOST ALPHA"
+msgstr "触手鱼人幽灵头领"
+
+msgctxt "Pandoran Research/ALN_FISHMANELITEVIRALSNIPER_RESEARCHDEF_COMPLETE"
+msgid "Species classification T-Beta-VE[LF]A command type Ghost evolved to achieve near complete stealth in combat. While equipped with a viral Sniper Rifle, it can also sneak up to opponents and paralyze them using its second set of appendages."
+msgstr "物种类别 T-Beta-VE[LF]指挥官型触手鱼人幽灵，已进化至几乎可以完全在战斗中隐形的程度。虽然配备有病毒狙击步枪，但它也可以悄悄接近对手，并使用第二对附肢来麻痹敌人。"
+
+msgctxt "Pandoran Research/ALN_SCYLLA1_RESEARCHDEF_NAME"
+msgid "SCYLLA XENAGOS"
+msgstr "斯库拉贪欢神"
+
+msgctxt "Pandoran Research/ALN_SCYLLA1_RESEARCHDEF_COMPLETE"
+msgid "Species classification SCY-Alpha-1[LF]Considered to be the apex Pandoran creature, the specimen is believed to have strategic intelligence as well as the capability to psychically control troops on a global scale. The creature is giant in size, capable of destroying buildings with its massive arms or leaping on them. Observations have shown that it is also capable of emitting mist and spawning Mindfraggers."
+msgstr "物种类别 SCY-Alpha-1[LF]被认为是潘多拉生物进化的巅峰。此样本具有战略思维能力，并能控制全球范围内的潘多拉部队。这种生物体型庞大，能够用其巨大的手臂摧毁或跃上建筑物。观察结果表明，它还能散播雾气，并能孵化心控虫。"
+
+msgctxt "Pandoran Research/ALN_SCYLLA2_RESEARCHDEF_NAME"
+msgid "SCYLLA NOCTURNA"
+msgstr "斯库拉夜曲"
+
+msgctxt "Pandoran Research/ALN_SCYLLA2_RESEARCHDEF_COMPLETE"
+msgid "Species classification SCY-Alpha-2[LF]A subspecies of Scylla evolved to project torrents of organic goo from its head. The substance limits terrain movement and potentially inflicts minor damage on contact. The specimen is also able to release mist through organs on its back, as well as spawn Mindraggers from its abdomen."
+msgstr "物种类别 SCY-Alpha-2[LF]斯库拉的亚种进化型，能够从头部喷出大量有机粘液。这种物质可以限制地形移动，并可能在接触时造成轻微伤害。此样本还能通过背部的器官释放雾气，并能从腹部孵化心控虫。"
+
+msgctxt "Pandoran Research/ALN_SCYLLA3_RESEARCHDEF_NAME"
+msgid "SCYLLA TENEBRIS"
+msgstr "斯库拉暗影"
+
+msgctxt "Pandoran Research/ALN_SCYLLA3_RESEARCHDEF_COMPLETE"
+msgid "Species classification SCY-Alpha-3[LF]A mutation of Scylla that has evolved to inflict a massive sonic stun effect with its specialized head. Reports indicate the creature is less aggressive than standard Scylla's although protective when approached. The specimen is capable of destroying buildings as well as releasing mist and Mindfraggers when feeling threatened."
+msgstr "\"\"物种类别 SCY-Alpha-3[LF]一种进化而来的斯库拉变异体，能够通过特殊的头部造成严重的声波眩晕效果。报告显示，这种生物在被接近时的攻击性低于普通的斯库拉，但对自己的保护性更强。此样本在感受到威胁时能够摧毁建筑并释放迷雾和心控虫。\"\"[CR]"
+
+msgctxt "Pandoran Research/ALN_SCYLLA4_RESEARCHDEF_NAME"
+msgid "SCYLLA TETRARCH"
+msgstr "斯库拉领主"
+
+msgctxt "Pandoran Research/ALN_SCYLLA4_RESEARCHDEF_COMPLETE"
+msgid "Species classification SCY-Alpha-4[LF]An evolved Scylla capable of vast damage using heavy cannons integrated into its arms. The creature is capable of leveling buildings, as well as launching concentrated mist capsules. The abdomen seems to be harboring gestation pods for Mindfraggers."
+msgstr "物种类别 SCY-Alpha-4[LF]一种进化而来的斯库拉，能够使用连接在手臂上的重型火炮造成巨量伤害。这种生物能够推平建筑物，还能发射浓雾囊体，腹部似乎还有心控虫的孵化腔。"
+
+msgctxt "Pandoran Research/ALN_SCYLLA5_RESEARCHDEF_NAME"
+msgid "SCYLLA TYRANT"
+msgstr "斯库拉暴君"
+
+msgctxt "Pandoran Research/ALN_SCYLLA5_RESEARCHDEF_COMPLETE"
+msgid "Species classification SCY-Alpha-5[LF]An armed Scylla able to cause vast damage with its integrated gun arms. While the specimen doesn't have good close combat capabilities, it is able to inflict sonic damage with its screams. Mist and Mindfraggers may be released from its abdomen even after the creature is killed."
+msgstr "物种类别 SCY-Alpha-5[LF]全副武装的斯库拉，可以用连接在手臂上的枪炮造成巨量伤害。虽然此样本的近距离作战能力较差，但它可以通过尖叫造成声波伤害。即使在被杀死后，腹部也会释放浓雾和心控虫。"
+
+msgctxt "Pandoran Research/ALN_SCYLLA6_RESEARCHDEF_NAME"
+msgid "SCYLLA THYREOS"
+msgstr "斯库拉防御者"
+
+msgctxt "Pandoran Research/ALN_SCYLLA6_RESEARCHDEF_COMPLETE"
+msgid "Species classification SCY-Alpha-6[LF]A heavily armored Scylla subspecies evolved to be almost entirely covered in layers of thick chitin. Nearly impervious to damage, the specimen has shown it could destroy entire haven districts with its body and massive gun appendages."
+msgstr "物种类别 SCY-Alpha-6[LF]斯库拉的进化型亚种，全身几乎完全被厚厚的几丁质护甲覆盖，几乎不会受到伤害。此样本可利用其身体和庞大的枪炮附肢摧毁整片避难所地区。"
+
+msgctxt "Pandoran Research/ALN_SCYLLA7_RESEARCHDEF_NAME"
+msgid "SCYLLA IMPERATOR"
+msgstr "斯库拉帝王"
+
+msgctxt "Pandoran Research/ALN_SCYLLA7_RESEARCHDEF_COMPLETE"
+msgid "Species classification SCY-Alpha-7[LF]A Scylla mutation evolved to specialize in long and mid-range combat. The specimen is capable of spitting torrents of goo, as well as leveling entire areas with its \"\"arm guns\"\". A thick layer of chitin covers its carapace and legs, making it resilient to most attacks."
+msgstr "物种类别 SCY-Alpha-7[LF]斯库拉的进化型变异体，擅长中远程战斗。此样本能够喷出大量黏液，并用“手臂枪炮”将整片区域夷为平地。甲壳和腿部覆盖一层厚厚的几丁质，能够抵御绝大多数攻击。"
+
+msgctxt "Pandoran Research/ALN_SCYLLA8_RESEARCHDEF_NAME"
+msgid "SCYLLA HEGEMON"
+msgstr "斯库拉霸主"
+
+msgctxt "Pandoran Research/ALN_SCYLLA8_RESEARCHDEF_COMPLETE"
+msgid "Species classification SCY-Alpha-8[LF]A devastating Scylla subtype evolved to emit devastating sonic screams. Extremely aggressive, the specimen has power to level buildings with its large body and giant pincer-like appendages. Observations have shown that the creature often releases mist to assist other Pandoran troops."
+msgstr "物种类别 SCY-Alpha-8[LF]一种极具毁灭性的斯库拉亚型进化体，能够发出毁天灭地的声波尖啸，极具侵略性。此样本可以利用庞大的身体和大螯状的附肢来夷平建筑物。观察表明，这种生物经常释放浓雾来协助其他潘多拉部队。"
+
+msgctxt "Pandoran Research/ALN_SCYLLA9_RESEARCHDEF_NAME"
+msgid "SCYLLA REGINA"
+msgstr "斯库拉女王"
+
+msgctxt "Pandoran Research/ALN_SCYLLA9_RESEARCHDEF_COMPLETE"
+msgid "Species classification SCY-Alpha-9[LF]Believed to be the most vicious subspecies of Scylla, capable of mid and long-range attacks. The creature has the ability to enhance troops, deal sonic damage, and cause mass destruction using the weapons integrated in its appendages. Thick chitin armor covers its legs and carapace, providing protection from most weapons.[LF]"
+msgstr "物种类别 SCY-Alpha-9[LF]被认为是斯库拉最邪恶的亚种，能够进行中远程攻击。这种生物可以强化其他部队，造成声波伤害，并使用连接在附肢上的武器造成大规模伤害。厚重的几丁质护甲覆盖腿部和甲壳，保护其免受大多数武器的伤害。"
+
+msgctxt "Pandoran Research/ALN_SIREN1_RESEARCHDEF_NAME"
+msgid "SIREN INSTIGATOR"
+msgstr "塞壬煽动者"
+
+msgctxt "Pandoran Research/ALN_SIREN1_RESEARCHDEF_COMPLETE"
+msgid "Species classification S-Alpha-1[LF]A lethal Pandoran species evolved for close quarters combat. Eighty percent of the creature is covered with evolved chitin armor, making it difficult to injure. Highly intelligent and bloodthirsty, the Siren has been reported to dash to opponents and attack them with her bladed appendages."
+msgstr "物种类别 S-Alpha-1[LF]一种致命的潘多拉体，为近距战斗进化而来。全身百分之八十都由进化出的几丁质护甲覆盖，很难受到伤害。智力很高且嗜血成性，报告称它们会快速冲向对手并用刀片状的附肢发动攻击。"
+
+msgctxt "Pandoran Research/ALN_SIREN2_RESEARCHDEF_NAME"
+msgid "SIREN HELLION"
+msgstr "塞壬恶徒"
+
+msgctxt "Pandoran Research/ALN_SIREN2_RESEARCHDEF_COMPLETE"
+msgid "Species classification S-Alpha-2[LF]A command Siren variation, capable of directing troops as well as mind controlling opponents. Observation has shown that \"\"disabling\"\" the specimen’s head will end its mind control, although not kill it. The creature is also capable of nightmarish shrieks that decrease soldiers' willpower."
+msgstr "物种类别 S-Alpha-2[LF]塞壬的指挥型变异体，能够指挥部队，还能控制敌人的思维。观察表明，“致残”样本的头部可结束其精神控制，但并不能将其杀死。这种生物还能发出噩梦般的尖叫来降低士兵的意志力。"
+
+msgctxt "Pandoran Research/ALN_SIREN3_RESEARCHDEF_NAME"
+msgid "SIREN BANSHEE"
+msgstr "塞壬女妖"
+
+msgctxt "Pandoran Research/ALN_SIREN3_RESEARCHDEF_COMPLETE"
+msgid "Species classification S-Alpha-3[LF]A mutation of a Siren evolved to eject large amounts of acid as well as infect enemies with its sharp injector appendages. Battle reports have confirmed that the specimen is capable of advanced mind control, increasing the capabilities of Pandoran troops or assuming control of enemy soldiers."
+msgstr "物种类别 S-Alpha-3[LF]塞壬的进化型变异体，可喷射大量酸液，还能用注射器状的锋利附肢感染敌人。战斗报告已证实，此样本拥有高级的精神控制能力，可增强潘多拉部队的作战能力或是控制敌军士兵。"
+
+msgctxt "Pandoran Research/ALN_SIREN4_RESEARCHDEF_NAME"
+msgid "SIREN HARBINGER"
+msgstr "塞壬先驱"
+
+msgctxt "Pandoran Research/ALN_SIREN4_RESEARCHDEF_COMPLETE"
+msgid "Species classification S-Alpha-4[LF]A subspecies of Siren evolved purely for the sake of massacre. While capable of mind controlling enemies and psychically enhancing its own troops, the creature prefers to engage in close combat, melting away opponents’ armor and slicing them to shreds. To be avoided at all costs."
+msgstr "物种类别 S-Alpha-4[LF]塞壬的亚种进化型，专为实施杀戮进化而来。虽然这种生物能够控制敌人的思维，也可以在精神上强化己方部队，但它更喜欢近距离战斗，融化对手的盔甲并将他们切成碎片。应全力避免接触。"
+
+msgctxt "Pandoran Research/ALN_CHIRON1_RESEARCHDEF_NAME"
+msgid "CHIRON AGNI"
+msgstr "火神喀戎"
+
+msgctxt "Pandoran Research/ALN_CHIRON1_RESEARCHDEF_COMPLETE"
+msgid "Species classification C-Alpha[LF]A large bug-like Pandoran species that has evolved to act as a mobile artillery unit. The specimen has the ability to launch fireworms from long distances, but is defenseless at close range."
+msgstr "物种类别 C-Alpha[LF]巨大的虫型潘多拉体，已进化成机动炮兵单位。此样本可以从远距离发射火虫，不过一旦被近身则毫无还手之力。"
+
+msgctxt "Pandoran Research/ALN_CHIRON2_RESEARCHDEF_NAME"
+msgid "CHIRON FUJI"
+msgstr "火山喀戎"
+
+msgctxt "Pandoran Research/ALN_CHIRON2_RESEARCHDEF_COMPLETE"
+msgid "Species classification C-Alpha-H[LF]A variation of the Chiron that has grown chitin armor on its limbs for protection. The specimen's legs have mutated to allow close combat attacks, mostly for defense, in addition to its ability to launch fireworms at long distances."
+msgstr "物种类别 C-Alpha-H[LF]一种四肢长出防御性几丁质护甲的喀戎。此样本的腿部发生了变异，可进行以防御为主的近战攻击，此外还能从远距离发射火虫。"
+
+msgctxt "Pandoran Research/ALN_CHIRON3_RESEARCHDEF_NAME"
+msgid "CHIRON APLU"
+msgstr "瘟神喀戎"
+
+msgctxt "Pandoran Research/ALN_CHIRON3_RESEARCHDEF_COMPLETE"
+msgid "Species classification C-Alpha-P[LF]A mutated subspecies of Chiron that has evolved to launch poison worms at enemies. Reports speculate that the specimen is a response to Synedrion military developments. "
+msgstr "物种类别 C-Alpha-P[LF]喀戎亚种变异体，已进化出可向敌人发射毒虫的能力。根据报告推测，此样本是针对平衡议会的军事发展进化而成。"
+
+msgctxt "Pandoran Research/ALN_CHIRON4_RESEARCHDEF_NAME"
+msgid "CHIRON NERGAL"
+msgstr "战神喀戎"
+
+msgctxt "Pandoran Research/ALN_CHIRON4_RESEARCHDEF_COMPLETE"
+msgid "Species classification C-Alpha-P2[LF]A Chiron mutation that has developed chitin armored limbs capable of performing close range attacks. The specimen can additionally launch poison worms at targets from a large range."
+msgstr "物种类别 C-Alpha-P2[LF]喀戎变异体，长有几丁质护甲覆盖的肢体，能够进行近距离攻击。此样本还可以从极远处向目标发射毒虫。"
+
+msgctxt "Pandoran Research/ALN_CHIRON5_RESEARCHDEF_NAME"
+msgid "CHIRON ROBIGUS"
+msgstr "疫神喀戎"
+
+msgctxt "Pandoran Research/ALN_CHIRON5_RESEARCHDEF_COMPLETE"
+msgid "Species classification C-Alpha-A[LF]A subspecies of Chiron, that seems to be a response to New Jericho's advanced armor units. Observations have shown that the specimen largely targets vehicles and armored vehicles using artillery acid worms."
+msgstr "物种类别 C-Alpha-A[LF]喀戎的亚种变异体，似乎是为了对抗新耶利哥高级装甲部队进化而来。观察表明，此样本主要使用酸性蠕虫炮来对载具和装甲载具发动攻击。"
+
+msgctxt "Pandoran Research/ALN_CHIRON6_RESEARCHDEF_NAME"
+msgid "CHIRON PHTHISIS"
+msgstr "痨神喀戎"
+
+msgctxt "Pandoran Research/ALN_CHIRON6_RESEARCHDEF_COMPLETE"
+msgid "Species classification C-Alpha-A2[LF]An evolved Chiron that launches acid worms in an artillery fashion, while also capable of dealing close quarter damage with its reinforced limbs. Taking out quickly from a distance is advised."
+msgstr "物种类别 C-Alpha-A2[LF]喀戎的进化型，能够以炮击方式发射酸性蠕虫，同时也能用强化肢体进行近战攻击。建议从远处迅速将其消灭。"
+
+msgctxt "Pandoran Research/ALN_CHIRON7_RESEARCHDEF_NAME"
+msgid "CHIRON NINGAL"
+msgstr "芦苇神喀戎"
+
+msgctxt "Pandoran Research/ALN_CHIRON7_RESEARCHDEF_COMPLETE"
+msgid "Species classification C-Beta[LF]A Chiron variation that is able to launch capsules of organic goo preventing movement in large areas of terrain. The specimen is also able to disrupt soldiers in its vicinity by stomping on the ground with its massive legs."
+msgstr "物种类别 C-Beta[LF]喀戎变异体，能够发射有机黏液囊体来大面积阻碍移动。另外，此样本还能用巨足猛跺地面来扰乱附近的士兵。"
+
+msgctxt "Pandoran Research/ALN_CHIRON8_RESEARCHDEF_NAME"
+msgid "CHIRON PHASIS"
+msgstr "河神喀戎"
+
+msgctxt "Pandoran Research/ALN_CHIRON8_RESEARCHDEF_COMPLETE"
+msgid "Species classification C-Beta-H[LF]An evolved Chiron subspecies capable of launching capsules of organic goo that limit terrain movement. The specimen's limbs have further mutated allowing it to perform close quarter combat when threatened."
+msgstr "物种类别 C-Beta-H[LF]喀戎的亚种进化型，能够发射可限制地形移动的有机粘液囊体。此样本的四肢进一步变异，能够在受到威胁时进行近身格斗。"
+
+msgctxt "Pandoran Research/ALN_CHIRON9_RESEARCHDEF_NAME"
+msgid "CHIRON PERSES"
+msgstr "破坏神喀戎"
+
+msgctxt "Pandoran Research/ALN_CHIRON9_RESEARCHDEF_COMPLETE"
+msgid "Species classification C-Gamma[LF]An artillery subspecies of Chiron evolved to launch projectiles of biological explosives large distances. The destructive power of the projectiles is comparable to rocket launcher missiles. The specimen also has basic defense capabilities, allowing it to disrupt nearby units by using its large stomping legs."
+msgstr "物种类别 C-Gamma[LF]喀戎的亚种进化型，可以在远距离发射生物炸药。这些炮弹的破坏力与火箭弹相仿。此样本还拥有基本的防御能力，能够用巨足猛跺地面来扰乱附近的士兵。"
+
+msgctxt "Pandoran Research/ALN_CHIRON10_RESEARCHDEF_NAME"
+msgid "CHIRON ASTERIA"
+msgstr "星夜神喀戎"
+
+msgctxt "Pandoran Research/ALN_CHIRON10_RESEARCHDEF_COMPLETE"
+msgid "Species classification C-Gamma-B[LF]An enhanced Chiron subspecies that is capable of burrowing, thus increasing it's artillery range and accuracy. Battlefield reports compare the specimen to a fortified tank."
+msgstr "物种类别 C-Gamma-B[LF]高级喀戎亚种，能够掘洞来增加其火炮的射程和精确度。战场报告将此样本比作加强型坦克。"
+
+msgctxt "Pandoran Research/ALN_CHIRON11_RESEARCHDEF_NAME"
+msgid "CHIRON BASILISK"
+msgstr "蛇妖喀戎"
+
+msgctxt "Pandoran Research/ALN_CHIRON11_RESEARCHDEF_COMPLETE"
+msgid "Species classification C-Gamma-E1[LF]Considered the deadliest of Chirons, the subspecies has evolved to launch organic acid mortars throughout the battlefield. While weak in close quarter combat, the creature can deal minor damage to surrounding enemies using its large stomping legs."
+msgstr "物种类别 C-Gamma-E1[LF]被认为是最致命的喀戎亚种，此样本可以在战场上发射有机酸性迫击炮。虽然在近距离格斗中较弱，但这种生物可以用巨足猛跺地面，对周围的敌人造成轻微伤害。"
+
+msgctxt "Pandoran Research/ALN_CHIRON12_RESEARCHDEF_NAME"
+msgid "CHIRON TYPHON"
+msgstr "邪神喀戎"
+
+msgctxt "Pandoran Research/ALN_CHIRON12_RESEARCHDEF_COMPLETE"
+msgid "Species classification C-Gamma-E2[LF]Potentially the apex of Chirons, the subspecies is capable of launching acid mortars that deliver devastating destruction. This creature is also able to burrow and fortify its position for increased fire rate, distance, and accuracy."
+msgstr "物种类别 C-Gamma-E2[LF]此亚种可能是喀戎进化的巅峰，能够发射酸性迫击炮，造成毁灭性的破坏。这种生物也能掘洞并加固其位置来提高射击速度、距离和准度。"
+
+msgctxt "Pandoran Research/ALN_FIREWORM_RESEARCHDEF_NAME"
+msgid "FIREWORM"
+msgstr "火虫"
+
+msgctxt "Pandoran Research/ALN_FIREWORM_RESEARCHDEF_COMPLETE"
+msgid "Species classification W-F[LF]A small worm-like creature whose only purpose is to act as a living mind. Upon identifying its enemies, the creature approaches its target and bursts in a ball of flames."
+msgstr "物种类别 W-F[LF]一种小型虫类生物，唯一的目标就是攻击。一旦识别到敌人就会接近目标，然后爆炸成一团火焰。"
+
+msgctxt "Pandoran Research/ALN_POISONWORM_RESEARCHDEF_NAME"
+msgid "POISONWORM"
+msgstr "毒虫"
+
+msgctxt "Pandoran Research/ALN_POISONWORM_RESEARCHDEF_COMPLETE"
+msgid "Species classification W-P[LF]An evolved type of worm mutated to release highly poisonous gasses upon death. The specimen acts as a living drone, targeting any threat in vicinity. "
+msgstr "物种类别 W-P[LF]一种进化后的蠕虫，死亡时会产生剧毒气体。此样本就像活体无人机，会瞄准附近的任何威胁。"
+
+msgctxt "Pandoran Research/ALN_ACIDWORM_RESEARCHDEF_NAME"
+msgid "ACIDWORM"
+msgstr "酸虫"
+
+msgctxt "Pandoran Research/ALN_ACIDWORM_RESEARCHDEF_COMPLETE"
+msgid "Species classification W-A[LF]A subspecies of worm that has mutated to release a highly corrosive substance upon death. As other worm subtypes, it focuses on anything it regards hostile, including the occasional vehicle."
+msgstr "物种类别 W-A[LF]蠕虫的亚种变异体，死亡时会释放出一种腐蚀性很强的物质。与其他亚型蠕虫一样，它会攻击所有自认为是敌对的物体，偶尔还会包括载具。"
+
+msgctxt "Pandoran Research/ALN_FIREWORM_EGG_RESEARCHDEF_NAME"
+msgid "FIREWORM EGG"
+msgstr "火虫卵"
+
+msgctxt "Pandoran Research/ALN_FIREWORM_EGG_RESEARCHDEF_COMPLETE"
+msgid "Species classification W-F-POD[LF]A worm egg containing the Fireworm species. Reports claim that if disturbed the pod will break, releasing the creature inside."
+msgstr "物种类别 W-F-POD[LF]含有火虫的虫卵。根据报告显示，虫卵如果受到干扰，就会破裂并释放其中的生物。"
+
+msgctxt "Pandoran Research/ALN_POISONWORM_EGG_RESEARCHDEF_NAME"
+msgid "POISONWORM EGG"
+msgstr "毒虫卵"
+
+msgctxt "Pandoran Research/ALN_POISONWORM_EGG_RESEARCHDEF_COMPLETE"
+msgid "Species classification W-P-POD[LF]A worm egg containing the Poisonworm species. Reports claim that if disturbed the pod will break, releasing the creature inside."
+msgstr "物种类别 W-P-POD[LF]含有毒虫的虫卵。根据报告显示，虫卵如果受到干扰，就会破裂并释放其中的生物。"
+
+msgctxt "Pandoran Research/ALN_ACIDWORM_EGG_RESEARCHDEF_NAME"
+msgid "ACIDWORM EGG"
+msgstr "酸虫卵"
+
+msgctxt "Pandoran Research/ALN_ACIDWORM_EGG_RESEARCHDEF_COMPLETE"
+msgid "Species classification W-A-POD[LF]A worm egg containing the Acidworm species. Reports claim that if disturbed the pod will break, releasing the creature inside."
+msgstr "物种类别 W-A-POD[LF]含有酸虫的虫卵。根据报告显示，虫卵如果受到干扰，就会破裂并释放其中的生物。"
+
+msgctxt "Pandoran Research/ALN_FACEHUGGER_RESEARCHDEF_NAME"
+msgid "MINDFRAGGER"
+msgstr "心控虫"
+
+msgctxt "Pandoran Research/ALN_FACEHUGGER_RESEARCHDEF_COMPLETE"
+msgid "Species classification M[LF]A parasitic Pandoran specimen capable of assuming control of a person. Combat observations have shown that the creature is able to leap great distances in order to attach itself to the head of its target and take control."
+msgstr "物种类别 M[LF]寄生性潘多拉体样本，能够控制人的思维。战斗观察表明，这种生物能够跳跃很远的距离来依附在目标的头部并取得控制权。"
+
+msgctxt "Pandoran Research/ALN_FACEHUGGER_EGG_RESEARCHDEF_NAME"
+msgid "MINDFRAGGER EGG"
+msgstr "心控虫蛋"
+
+msgctxt "Pandoran Research/ALN_FACEHUGGER_EGG_RESEARCHDEF_COMPLETE"
+msgid "Species classification M[LF]A worm egg containing the Mindfragger species. Reports claim that if disturbed the pod will break, releasing the creature inside."
+msgstr "物种类别 M[LF]含有心控虫的虫卵。根据报告显示，虫卵如果受到干扰，就会破裂并释放其中的生物。"
+
+msgctxt "Pandoran Research/ALN_SPAWNINGPOOLCRABMAN_RESEARCHDEF_NAME"
+msgid "SPAWNERY"
+msgstr "产卵腔"
+
+msgctxt "Pandoran Research/ALN_SPAWNINGPOOLCRABMAN_RESEARCHDEF_COMPLETE"
+msgid "Species classification SP-1[LF]An immobile organic structure found in Pandoran Lairs. The structure is effectively a mutation laboratory, intelligently evolving new Pandoran forms. It is speculated that destroying it could cripple the Lair, causing it to be abandoned."
+msgstr "物种类别 SP-1[LF]在潘多拉体巢穴中发现的一种固定有机结构体。此结构体实际上是突变体实验室，能够智能地进化出新形态的潘多拉体。据推测，摧毁它可使巢穴瘫痪并使之被遗弃。"
+
+msgctxt "Pandoran Research/ALN_SENTINELTERROR_RESEARCHDEF_NAME"
+msgid "TERROR SENTINEL"
+msgstr "恐怖哨兵"
+
+msgctxt "Pandoran Research/ALN_SENTINELTERROR_RESEARCHDEF_COMPLETE"
+msgid "Species classification STL-T[LF]An immobile Pandoran specimen that serves as a “guardian” of a specific area. Mostly found in Pandoran colonies, the specimen is rumored to have psychic abilities that hinder human troops. Approach with caution."
+msgstr "物种类别 STL-T[LF]作为特定区域的“守护者”而存在的固定潘多拉体样本，大多发现于潘多拉殖民地。据传此样本具有妨碍人类部队的精神能力。接近须小心。"
+
+msgctxt "Pandoran Research/ALN_SENTINELHATCHING_RESEARCHDEF_NAME"
+msgid "HATCHING SENTINEL"
+msgstr "孵化哨兵"
+
+msgctxt "Pandoran Research/ALN_SENTINELHATCHING_RESEARCHDEF_COMPLETE"
+msgid "Species classification STL-H[LF]A Pandoran creature-structure hybrid found exclusively in Pandoran Nests. The specimen is linked to the spawning of Pandoran creatures. Reports claim it has the ability to detect invaders and trigger the hatching of Pandoran eggs nearby. We surmise that killing all Hatching Sentinels could neutralize the Pandoran colony permanently."
+msgstr "物种类别 STL-H[LF]一种潘多拉生物结构的混合体，仅存在于潘多拉巢穴之中。此样本与潘多拉生物的繁殖有关。报告称，它可以侦测入侵者并孵化附近的潘多拉卵。我们推测，只要杀死所有正在孵卵的哨兵就可以彻底摧毁潘多拉殖民地。"
+
+msgctxt "Pandoran Research/ALN_MISTSENTINEL_RESEARCHDEF_NAME"
+msgid "MIST SENTINEL"
+msgstr "迷雾哨兵"
+
+msgctxt "Pandoran Research/ALN_MISTSENTINEL_RESEARCHDEF_COMPLETE"
+msgid "Species classification STL-M[LF]A large colonizing structure that is found wherever sea mist spreads over land. The creature releases a concentrated microbial mist which may cover large parts of the battlefield."
+msgstr "物种类别 STL-M[LF]一种大型殖民结构体，在海雾弥漫的地方都能找到其踪影。这种生物可释放出浓缩的微生物迷雾，覆盖战场大部分区域。"
+
+msgctxt "DLC2 Necronomicon/ALN_SIRENORICHALCUM_RESEARCHDEF_NAME"
+msgid "Orichalcum Plated Siren"
+msgstr "[null]"
+
+msgctxt "DLC2 Necronomicon/ALN_SIRENORICHALCUM_RESEARCHDEF_COMPLETE"
+msgid "Species classification S-X73-1[LF]An unusual Siren mutation evolved thorough contact to orichalcum. While sharing most characteristics of the species, the specimen is extremely strong and well shielded. Observations suggest that its command and control capabilities are also considerably improved making it extremely dangerous when accompanied by other Pandorans."
+msgstr "[null]"
+
+msgctxt "DLC2 Necronomicon/ALN_TRITONTARSHADOW_RESEARCHDEF_NAME"
+msgid "Tar Shadow Triton"
+msgstr "[null]"
+
+msgctxt "DLC2 Necronomicon/ALN_TRITONTARSHADOW_RESEARCHDEF_COMPLETE"
+msgid "Species classification T-X74-1[LF]An unnatural Triton hybrid subspecies mutated through proximity to protean mutane gas. The exact nature and capabilities of the creature remain largely unknown. The only thing that is confirmed is that it only reveals itself when its life is threatened. Reports claim the creature looks like a tar shadow, extremely deadly at close proximity. "
+msgstr "[null]"
+
+msgctxt "DLC2 Necronomicon/ALN_ARTHRONTARSHADOW_RESEARCHDEF_NAME"
+msgid "Tar Shadow Arthron"
+msgstr "[null]"
+
+msgctxt "DLC2 Necronomicon/ALN_ARTHRONTARSHADOW_RESEARCHDEF_COMPLETE"
+msgid "Species classification A-X74-1[LF]An unknown Arthron hybrid created through the creature's contact to large amounts of protean mutane gas. According to observations the creature reveals itself when threatened and instantly engages in melee combat without concern of its life. Contact is to be avoided at all costs!"
+msgstr "[null]"
+
+msgctxt "DLC2 Necronomicon/ALN_SCYLLACRYSTAL_RESEARCHDEF_NAME"
+msgid "Living Crystal Scylla"
+msgstr "[null]"
+
+msgctxt "DLC2 Necronomicon/ALN_SCYLLACRYSTAL_RESEARCHDEF_COMPLETE"
+msgid "Species classification SCY-X75-1[LF]An unnatural Scylla mutation that ha occurred due to contact with ancient living crystals. Covered with a layer of crystal armor, the specimen is capable of increased defense and damage output. There is speculation that the crystals covering its body grant it increased intelligence and psychic powers allowing it to predict troop movements. Do not engage!"
+msgstr "[null]"
+
+msgctxt "DLC2 Necronomicon/ALN_CHIRONCRYSTAL_RESEARCHDEF_NAME"
+msgid "Living Crystal Chiron"
+msgstr "[null]"
+
+msgctxt "DLC2 Necronomicon/ALN_CHIRONCRYSTAL_RESEARCHDEF_COMPLETE"
+msgid "Species classification C-X75-1[LF]An unusual Chiron species mutation due to contact with living crystals. The specimen is considerably stronger that the other creatures of its type and is capable of dealing increased damage with its artillery-like projectiles. A crystal mass covers its body granting it additional armor and damage output. To be avoided when possible."
+msgstr "[null]"
+
+msgctxt "DLC2 Necronomicon/PX_ANTEDILUVIANARCHAEOLOGY_RESEARCHDEF_UNLOCK"
+msgid "The scientific field of Antediluvian Archaeology studies the unmistakable evidence of a civilization predating mankind by millennia. For centuries, detractors doubted the once-existence of such a civilization, but eventually the scientific community had to accept the mounting evidence. [LF][LF]The Pandoravirus disturbed ongoing Antediluvian research around the world. With this research, we prepare to get back on track and discover the secrets of the Ancients once and for all."
+msgstr "[null]"
+
+msgctxt "DLC2 Necronomicon/PX_ANTEDILUVIANARCHAEOLOGY_RESEARCHDEF_NAME"
+msgid "Antediluvian Archaeology"
+msgstr "[null]"
+
+msgctxt "DLC2 Necronomicon/PX_ANTEDILUVIANARCHAEOLOGY_RESEARCHDEF_COMPLETE"
+msgid "To achieve the breakthrough progress that has so far eluded everyone dabbling in Antediluvian Archaeology, we will have to provide our scientists with a constant stream of precursor artifacts. For this purpose, we have to discover the sites the Ancients used to inhabit.[LF][LF]Our scientists have devised a scanner probe. Produced in the Archaeology Facility and launched from a Manticore, it can detect Antediluvian sites. Then, the laborious process of excavating a pathway to the heart of the ancient ruins can begin."
+msgstr "[null]"
+
+msgctxt "DLC2 Necronomicon/PX_MATTOCKOFTHEANCIENTS_RESEARCHDEF_UNLOCK"
+msgid "Our scientists study the collection of Antediluvian schemata and texts we obtained. The results guide the development a new weapon for our tactical operatives."
+msgstr "[null]"
+
+msgctxt "DLC2 Necronomicon/PX_MATTOCKOFTHEANCIENTS_RESEARCHDEF_NAME"
+msgid "Mattock of the Ancients"
+msgstr "[null]"
+
+msgctxt "DLC2 Necronomicon/PX_MATTOCKOFTHEANCIENTS_RESEARCHDEF_COMPLETE"
+msgid "The epitome of genius in simplicity, the Mattock of the Ancients is a melee weapon of pure Orichalcum - a mysterious metal alloy of Antediluvian origin that exhibits properties contradicting classical understanding of Physics."
+msgstr "[null]"
+
+msgctxt "DLC2 Necronomicon/PX_SHARDGUN_RESEARCHDEF_UNLOCK"
+msgid "Our scientists study the collection of Antediluvian schemata and texts we obtained. The results guide the development a new weapon for our tactical operatives."
+msgstr "[null]"
+
+msgctxt "DLC2 Necronomicon/PX_SHARDGUN_RESEARCHDEF_NAME"
+msgid "Shard Gun"
+msgstr "[null]"
+
+msgctxt "DLC2 Necronomicon/PX_SHARDGUN_RESEARCHDEF_COMPLETE"
+msgid "The alloys the Ancients used allow the production of flechettes, or shards, that revolutionize the concept of closed-quarters combat. Using an Antediluvian power source, the Shard Gun eclipses any shotgun-class weapon in existence."
+msgstr "[null]"
+
+msgctxt "DLC2 Necronomicon/PX_REBUKE_RESEARCHDEF_UNLOCK"
+msgid "Our scientists study the collection of Antediluvian schemata and texts we obtained. The results guide the development a new weapon for our tactical operatives."
+msgstr "[null]"
+
+msgctxt "DLC2 Necronomicon/PX_REBUKE_RESEARCHDEF_NAME"
+msgid "Rebuke"
+msgstr "[null]"
+
+msgctxt "DLC2 Necronomicon/PX_REBUKE_RESEARCHDEF_COMPLETE"
+msgid "The Rebuke grenade launcher is the logical next step in utilizing the favorite power sources of the Ancients: a non-Newtonian fluid known as Protean Mutane gas. "
+msgstr "[null]"
+
+msgctxt "DLC2 Necronomicon/PX_CRYSTALCROSSBOW_RESEARCHDEF_UNLOCK"
+msgid "Our scientists study the collection of Antediluvian schemata and texts we obtained. The results guide the development a new weapon for our tactical operatives."
+msgstr "[null]"
+
+msgctxt "DLC2 Necronomicon/PX_CRYSTALCROSSBOW_RESEARCHDEF_NAME"
+msgid "Crystal Crossbow"
+msgstr "[null]"
+
+msgctxt "DLC2 Necronomicon/PX_CRYSTALCROSSBOW_RESEARCHDEF_COMPLETE"
+msgid "Using bolts of Living Crystal, this silent weapon, dubbed the Crystal Crossbow by our tactical operatives, exceeds the capability of any competitor."
+msgstr "[null]"
+
+msgctxt "DLC2 Necronomicon/PX_SCORPION_RESEARCHDEF_UNLOCK"
+msgid "Our scientists study the collection of Antediluvian schemata and texts we obtained. The results guide the development a new weapon for our tactical operatives."
+msgstr "[null]"
+
+msgctxt "DLC2 Necronomicon/PX_SCORPION_RESEARCHDEF_NAME"
+msgid "Scorpion"
+msgstr "[null]"
+
+msgctxt "DLC2 Necronomicon/PX_SCORPION_RESEARCHDEF_COMPLETE"
+msgid "The Scorpion sniper is the pinnacle of our Antediluvian research so far. Combines all three of the Antediluvian materials."
+msgstr "[null]"
+
+msgctxt "DLC2 Necronomicon/PX_SCYTHER_RESEARCHDEF_UNLOCK"
+msgid "Our scientists study the collection of Antediluvian schemata and texts we obtained. The results guide the development a new weapon for our tactical operatives."
+msgstr "[null]"
+
+msgctxt "DLC2 Necronomicon/PX_SCYTHER_RESEARCHDEF_NAME"
+msgid "Scyther"
+msgstr "[null]"
+
+msgctxt "DLC2 Necronomicon/PX_SCYTHER_RESEARCHDEF_COMPLETE"
+msgid "It is difficult to describe the workings of the Scyther weapon in words. Best observed in practicality. Caution: do not point towards friendlies!"
+msgstr "[null]"
 
 msgctxt "Key progression summary/Yuggothian Entity"
 msgid "[null]"

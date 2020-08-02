@@ -358,45 +358,1461 @@ msgctxt "PH_Localization/KEY_OK"
 msgid "OK"
 msgstr "OK"
 
-msgctxt "Cthulhu/KEY_BASE_PROMPT_HARVEST_ALIEN_FOR_FOOD"
-msgid "Are you sure you want to kill the Pandoran {0} for food? If you do the creature will be killed and :Resources: Supplies:  {1} will be added to your reserves."
+msgctxt "Blood Titanium/KEY_ARTHRON_ACID_GRENADE_ARM_DESCRIPTION"
+msgid "Organic Grenade Launcher"
+msgstr "Lance-grenades organique"
+
+msgctxt "Blood Titanium/KEY_ARTHRON_ACID_GRENADE_ARM_NAME"
+msgid "ACID LAUNCHER ARM"
+msgstr "BRAS LANCEUR D'ACIDE"
+
+msgctxt "Blood Titanium/KEY_AUGMENT"
+msgid "AUGMENTATION"
+msgstr "AUGMENTATION"
+
+msgctxt "Blood Titanium/KEY_AUGMENTATIONS"
+msgid "AUGMENTATIONS"
+msgstr "AUGMENTATIONS"
+
+msgctxt "Blood Titanium/KEY_AUMGENTATION_ACTION"
+msgid "AUGMENT"
+msgstr "AUGMENTER"
+
+msgctxt "Blood Titanium/KEY_AUMGENTATION_LIMIT"
+msgid "Safety limit reached. No further mutations or augmentations allowed."
+msgstr "Limite de sécurité atteinte. Aucune autre mutation ou augmentation autorisée."
+
+msgctxt "Blood Titanium/KEY_BASE_FACILITY_BIONICSLAB_DESCRIPTION"
+msgid "Allows soldiers to be augmented with bionic body parts, and produces research."
+msgstr "Permet aux soldats d'obtenir des parties du corps bioniques et produit des recherches."
+
+msgctxt "Blood Titanium/KEY_BASE_FACILITY_BIONICSLAB_NAME"
+msgid "CYBERNETICS LAB"
+msgstr "LABORATOIRE CYBERNÉTIQUE"
+
+msgctxt "Blood Titanium/KEY_BASE_INSUFFICENT_SPACE"
+msgid "Insufficient storage space. Build more Store facilities."
+msgstr "Espace de stockage insuffisant. Construisez davantage d'entrepôts."
+
+msgctxt "Blood Titanium/KEY_BASE_WARNING_RESEARCH_BIONICSLAB"
+msgid "Destroying the Cybernetics Lab will decrease the amount of research points you produce per day. At least one Cybernetics Lab is required to modify your soldiers. Are you sure you want to proceed?"
+msgstr "Si vous détruisez le labo cybernétique, vous réduirez le nombre de points de recherche que vous produisez par jour. Il faut au moins un laboratoire cybernétique pour modifier vos soldats. Voulez-vous vraiment continuer ?"
+
+msgctxt "Blood Titanium/KEY_BIONICS"
+msgid "BIONICS"
+msgstr "BIONIQUE"
+
+msgctxt "Blood Titanium/KEY_BIONIC_AUGMENTATION_DESCRIPTION"
+msgid "Bleed immunity. Viral, Poison, and Paralysis resistance. Vulnerable to Acid."
+msgstr "Immunité contre le saignement. Résistance aux armes virales, au poison et à la paralysie. Vulnérable à l'acide."
+
+msgctxt "Blood Titanium/KEY_BIONIC_AUGMENTATION_NAME"
+msgid "BIONIC AUGMENTATION"
+msgstr "AUGMENTATION BIONIQUE"
+
+msgctxt "Blood Titanium/KEY_CHIRON_TORSO_ACID_MORTAR_DESCRIPTION"
+msgid "ACID ABDOMEN"
+msgstr "ABDOMEN CAUSTIQUE"
+
+msgctxt "Blood Titanium/KEY_CHIRON_TORSO_ACID_MORTAR_NAME"
+msgid "ACID ABDOMEN"
+msgstr "ABDOMEN CAUSTIQUE"
+
+msgctxt "Blood Titanium/KEY_DAMAGED_BIONIC_PART"
+msgid "Broken augmented body part."
+msgstr "Partie du corps augmentée cassée."
+
+msgctxt "Blood Titanium/KEY_DAMAGE_TYPE_EMP"
+msgid "EMP"
+msgstr "EMP"
+
+msgctxt "Blood Titanium/KEY_DAMAGE_TYPE_EMP_DESC"
+msgid "EMP damage only affects electronic devices (and Bionic augmentations)."
+msgstr "Les dégâts EMP affectent uniquement les dispositifs électroniques (et les augmentations bioniques)."
+
+msgctxt "Blood Titanium/KEY_DEMOLITION_MAN_DESCRIPTION"
+msgid "Breach walls and solid constructs by walking through them."
+msgstr "Détruisez les murs et les constructions solides simplement en passant à travers."
+
+msgctxt "Blood Titanium/KEY_DEMOLITION_MAN_NAME"
+msgid "DEMOLITION STATE"
+msgstr "ÉTAT DE DÉMOLITION"
+
+msgctxt "Blood Titanium/KEY_DEPLOY_SHIELD_BIONIC_DESCRIPTION"
+msgid "Extend an energy shield in a given direction"
+msgstr "Déployez un bouclier d'énergie dans une direction donnée."
+
+msgctxt "Blood Titanium/KEY_DEPLOY_SHIELD_BIONIC_NAME"
+msgid "EXTEND SHIELD"
+msgstr "DÉPLOYER BOUCLIER"
+
+msgctxt "Blood Titanium/KEY_DISPLAY_ACTION_COST"
+msgid "ACTION COST:"
+msgstr "COÛT ACTION :"
+
+msgctxt "Blood Titanium/KEY_FACTION_NAME_BANDITS"
+msgid "SCAVENGERS"
+msgstr "MARAUDEURS"
+
+msgctxt "Blood Titanium/KEY_FACTION_NAME_FALLEN"
+msgid "THE FORSAKEN"
+msgstr "LES REJETÉS"
+
+msgctxt "Blood Titanium/KEY_FACTION_NAME_PURE"
+msgid "THE PURE"
+msgstr "LES PURS"
+
+msgctxt "Blood Titanium/KEY_GEAR_UP"
+msgid "GEAR UP"
+msgstr "GEAR UP"
+
+msgctxt "Blood Titanium/KEY_GEOSCAPE_PRODUCE_REPAIR_BOTH"
+msgid "Repair {item} for {0} Materials and {1} Tech"
+msgstr "Réparer l'objet {item} pour {0} matériaux et {1} technologie(s)"
+
+msgctxt "Blood Titanium/KEY_GEOSCAPE_PRODUCE_REPAIR_MATERIALS"
+msgid "Repair {item} for {0} Materials"
+msgstr "Réparer l'objet {item} pour {0} matériaux"
+
+msgctxt "Blood Titanium/KEY_ITEM_TYPE_BIONIC"
+msgid "BIONIC"
+msgstr "BIONIQUE"
+
+msgctxt "Blood Titanium/KEY_LOAD_DLC_REQUIRED"
+msgid "The following Downloadable Content is required to load this saved game: {0}[LF][LF]Do you want to go to the store and buy them?"
+msgstr "Le contenu téléchargeable suivant est nécessaire pour charger cette sauvegarde : {0}[LF][LF]Voulez-vous accéder au magasin pour l'acheter ?"
+
+msgctxt "Blood Titanium/KEY_MARTIAL_ARTIST_DESCRIPTION"
+msgid "Melee attacks cost 1 AP less (to a minimum of 1 AP)."
+msgstr "Les attaques au corps à corps coûtent 1 PA de moins (au minimum de 1 PA)."
+
+msgctxt "Blood Titanium/KEY_MARTIAL_ARTIST_NAME"
+msgid "COMBAT MATRIX"
+msgstr "MATRICE DE COMBAT"
+
+msgctxt "Blood Titanium/KEY_MELEE_PROFICIENCY_DESCRIPTION"
+msgid "Proficiency with Melee Weapons"
+msgstr "Maîtrise des armes de contact"
+
+msgctxt "Blood Titanium/KEY_MELEE_PROFICIENCY_NAME"
+msgid "MELEE WEAPON PROFICIENCY"
+msgstr "MAÎTRISE DES ARMES DE CONTACT"
+
+msgctxt "Blood Titanium/KEY_MIND_CONTROL_IMMUNITY_DESCRIPTION"
+msgid "Immune to Mind Control."
+msgstr "Immunise contre le contrôle mental."
+
+msgctxt "Blood Titanium/KEY_MIND_CONTROL_IMMUNITY_NAME"
+msgid "MIND CONTROL IMMUNITY"
+msgstr "IMMUNITÉ CONTRE LE CONTRÔLE MENTAL"
+
+msgctxt "Blood Titanium/KEY_NEURAL_DISRUPTION_DESCRIPTION"
+msgid "Disrupt target for 1 turn, causing it to become DISORIENTED and unable to use Will Point abilities."
+msgstr "Perturbe une cible pendant 1 tour, causant la DÉSORIENTATION et l'incapacité d'utiliser des capacités à points de volonté."
+
+msgctxt "Blood Titanium/KEY_NEURAL_DISRUPTION_NAME"
+msgid "NEURAL DISRUPTION"
+msgstr "PERTURBATION NEURALE"
+
+msgctxt "Blood Titanium/KEY_NJ_EXO_BIO_HELMET_DESCRIPTION"
+msgid "New Jericho Will Disruption Head Augmentation"
+msgstr "Augmentation de tête perturbatrice de volonté de la Nouvelle-Jéricho"
+
+msgctxt "Blood Titanium/KEY_NJ_EXO_BIO_HELMET_LONG_DESCRIPTION"
+msgid "Created as an advanced targeting implant, the Disruptor head augmentation was gradually modified to use ultrasound emitters to disrupt enemy mind processes."
+msgstr "Créée en tant qu'implant de ciblage avancé, l'augmentation de tête perturbatrice a été progressivement modifiée pour utiliser des émetteurs ultrasons qui perturbent les processus mentaux de l'ennemi."
+
+msgctxt "Blood Titanium/KEY_NJ_EXO_BIO_HELMET_NAME2"
+msgid "Disruptor Head"
+msgstr "Tête perturbatrice"
+
+msgctxt "Blood Titanium/KEY_NJ_EXO_BIO_LEGS_DESCRIPTION"
+msgid "New Jericho Rocket Legs Augmentation"
+msgstr "Augmentation de jambes de propulsion de la Nouvelle-Jéricho"
+
+msgctxt "Blood Titanium/KEY_NJ_EXO_BIO_LEGS_LONG_DESCRIPTION"
+msgid "Following the design of the Golem-B armor jetpack, the Propeller legs augmentation allows soldiers to traverse short distances flying over low obstacles on the way."
+msgstr "Suite à la conception du jetpack de l'armure du Golem-B, l'augmentation de jambes de propulsion permet aux soldats de parcourir de courtes distances en survolant des obstacles bas."
+
+msgctxt "Blood Titanium/KEY_NJ_EXO_BIO_LEGS_NAME2"
+msgid "Propeller Legs"
+msgstr "Jambes de propulsion"
+
+msgctxt "Blood Titanium/KEY_NJ_EXO_BIO_TORSO_DESCRIPTION"
+msgid "New Jericho Exoskeletal Torso Augmentation"
+msgstr "Augmentation de torse d'exosquelette de la Nouvelle-Jéricho"
+
+msgctxt "Blood Titanium/KEY_NJ_EXO_BIO_TORSO_LONG_DESCRIPTION"
+msgid "A third generation exoskeleton rig that allows a soldier to attach any mounted weapons or mecharms to their frame, increasing their versatility in combat by seventy-nine percent."
+msgstr "Une troisième génération d'exosquelette qui permet au soldat de greffer n'importe quelle arme ou mecharms à sa structure, lui donnant une versatilité accrue de soixante-dix-neuf pour cent en combat."
+
+msgctxt "Blood Titanium/KEY_NJ_EXO_BIO_TORSO_NAME2"
+msgid "Neural Torso"
+msgstr "Torse neural"
+
+msgctxt "Blood Titanium/KEY_NJ_JUGG_BIO_HELMET_DESCRIPTION"
+msgid "New Jericho Control Resist Head Augmentation"
+msgstr "Augmentation de tête résistante au contrôle de la Nouvelle-Jéricho"
+
+msgctxt "Blood Titanium/KEY_NJ_JUGG_BIO_HELMET_LONG_DESCRIPTION"
+msgid "A massive head augmentation of reinforced titanium, the Clarity head provides complete protection to the soldier’s brain, while also isolating him from Pandoran mind control.[CR]"
+msgstr "Une augmentation énorme de la tête en titane renforcé, la tête de clarté fournit une protection complète du cerveau du soldat tout en l'isolant du contrôle mental des Pandoriens."
+
+msgctxt "Blood Titanium/KEY_NJ_JUGG_BIO_HELMET_NAME2"
+msgid "Clarity Head"
+msgstr "Tête de clarté"
+
+msgctxt "Blood Titanium/KEY_NJ_JUGG_BIO_LEGS_DESCRIPTION"
+msgid "New Jericho Safe Landing Legs Augmentation"
+msgstr "Augmentation de jambes d'atterrissage sûr de la Nouvelle-Jéricho"
+
+msgctxt "Blood Titanium/KEY_NJ_JUGG_BIO_LEGS_LONG_DESCRIPTION"
+msgid "Based on advanced vehicle hydraulics, the Armadillo legs allow soldiers of up to three tons to land safely from fifty meters height absorbing the entire shock."
+msgstr "Basées sur le système hydraulique avancé du véhicule, les jambes Priodonte permettent aux soldats pesant jusqu'à trois tonnes d'atterrir en toute sécurité et d'absorber le choc d'un saut de cinquante mètres de haut."
+
+msgctxt "Blood Titanium/KEY_NJ_JUGG_BIO_LEGS_NAME2"
+msgid "Armadillo Legs"
+msgstr "Jambes de priodonte"
+
+msgctxt "Blood Titanium/KEY_NJ_JUGG_BIO_TORSO_DESCRIPTION"
+msgid "New Jericho Demolishing Torso Augmentation"
+msgstr "Augmentation de torse démolisseur de la Nouvelle-Jéricho"
+
+msgctxt "Blood Titanium/KEY_NJ_JUGG_BIO_TORSO_LONG_DESCRIPTION"
+msgid "Initially designed for space combat, the Juggernaut torso makes a person immune to the majority of physical attacks, while also allowing soldiers to breach through solid walls by walking through them."
+msgstr "Initialement conçu pour le combat spatial, le torse Destructeur immunise l'individu contre la majorité des attaques physiques, tout en permettant aux soldats de passer à travers des murs solides simplement en marchant."
+
+msgctxt "Blood Titanium/KEY_NJ_JUGG_BIO_TORSO_NAME2"
+msgid "Juggernaut Torso"
+msgstr "Torse destructeur"
+
+msgctxt "Blood Titanium/KEY_NUMBER_OF_AUGMENTATIONS"
+msgid "PLACEHOLDER"
+msgstr "PLACEHOLDER"
+
+msgctxt "Blood Titanium/KEY_PU_FIRST_SCENE1-1"
+msgid "Phoenix - if you are receiving this message, then respond on the secure channel I have provided. "
+msgstr "Phoenix - si vous recevez ce message, répondez sur le canal sécurisé que j'ai fourni."
+
+msgctxt "Blood Titanium/KEY_PU_FIRST_SCENE1-2"
+msgid "It is essential that the information I am about to give you is kept confidential."
+msgstr "Il est essentiel que les informations que je suis sur le point de vous donner restent confidentielles."
+
+msgctxt "Blood Titanium/KEY_PU_FIRST_SCENE1-3"
+msgid "My name is not important now - but I am known among the Pure as Subject 24 - "
+msgstr "Mon nom importe peu à présent, mais les Purs m'appellent Sujet 24."
+
+msgctxt "Blood Titanium/KEY_PU_FIRST_SCENE1-4"
+msgid "the 24th volunteer in a program set up by Tobias West that gave us hope. "
+msgstr "Le 24e volontaire dans un programme mis en œuvre par Tobias West qui nous avait donné espoir."
+
+msgctxt "Blood Titanium/KEY_PU_FIRST_SCENE1-5"
+msgid "We had a solution. A SOLUTION! "
+msgstr "Nous avions une solution. UNE SOLUTION !"
+
+msgctxt "Blood Titanium/KEY_PU_FIRST_SCENE1-6"
+msgid "A secret program that would fix the world. And in the final moment he backed down. "
+msgstr "Un programme secret qui réparerait le monde. Et au dernier moment, il a fait marche arrière."
+
+msgctxt "Blood Titanium/KEY_PU_FIRST_SCENE1-7"
+msgid "Nothing prepared me for his treachery - his selfish, cowardice - "
+msgstr "Je ne m'étais pas du tout préparé à cette trahison – son égoïsme, sa lâcheté –"
+
+msgctxt "Blood Titanium/KEY_PU_FIRST_SCENE1-8"
+msgid "but his attempts to erase us have failed ... failed."
+msgstr "mais ses tentatives visant à nous effacer ont échoué... échoué."
+
+msgctxt "Blood Titanium/KEY_PU_FIRST_SCENE2-1"
+msgid "It was known as Project Purity - "
+msgstr "C'était connu comme le Projet Pureté –"
+
+msgctxt "Blood Titanium/KEY_PU_FIRST_SCENE2-2"
+msgid "one man's dream of replacing every inch of human flesh with neurally controlled prosthetics."
+msgstr "le rêve d'un homme de remplacer chaque centimètre de chair humaine par des prothèses contrôlées par des neurones."
+
+msgctxt "Blood Titanium/KEY_PU_FIRST_SCENE2-3"
+msgid "When I volunteered for the project I had nothing left. "
+msgstr "Lorsque je me suis porté volontaire pour le projet, je n'avais plus rien."
+
+msgctxt "Blood Titanium/KEY_PU_FIRST_SCENE2-4"
+msgid "My entire family... ENTIRE FAMILY! ... had succumbed to the Pandoravirus. "
+msgstr "Toute ma famille... MA FAMILLE !... avait succombé au Pandoravirus."
+
+msgctxt "Blood Titanium/KEY_PU_FIRST_SCENE2-5"
+msgid "I watched my wife through bulletproof glass as she slowly turned into an abomination. "
+msgstr "J'ai regardé mon épouse à travers le verre pare-balles se transformer lentement en abomination."
+
+msgctxt "Blood Titanium/KEY_PU_FIRST_SCENE2-6"
+msgid "ABOMINATIONS! They're everywhere, waiting, watching! I had nothing left to lose."
+msgstr "DES ABOMINATIONS ! Ils sont partout, ils attendent, ils observent ! Je n'avais plus rien à perdre."
+
+msgctxt "Blood Titanium/KEY_PU_FIRST_SCENE2-7"
+msgid "Along with many other brave men and women, I put myself forwards."
+msgstr "Aux côtés d'autres hommes et femmes courageux, je me suis porté volontaire."
+
+msgctxt "Blood Titanium/KEY_PU_FIRST_SCENE2-8"
+msgid "A lot was sacrificed. He pushed us to the limit. "
+msgstr "Les sacrifices furent nombreux. Il nous a poussés à notre limite."
+
+msgctxt "Blood Titanium/KEY_PU_FIRST_SCENE2-9"
+msgid "Dozens of us died or were left crippled… and we came close to success."
+msgstr "Des dizaines sont morts ou ont été paralysés... et nous avons frôlé le succès."
+
+msgctxt "Blood Titanium/KEY_PU_FIRST_SCENE3-1"
+msgid "The Juggernaut warrior was the final design. More than a soldier. "
+msgstr "Le guerrier Destructeur était le dernier design. Plus qu'un soldat."
+
+msgctxt "Blood Titanium/KEY_PU_FIRST_SCENE3-2"
+msgid "More than a human - with titanium skin impervious to infection - perfectly pure... "
+msgstr "Plus qu'un humain – avec une peau en titane insensible à l'infection – d'une pureté parfaite..."
+
+msgctxt "Blood Titanium/KEY_PU_FIRST_SCENE3-3"
+msgid "PURE! Pure as a smile in winter... as a human should be."
+msgstr "PUR ! Pur comme un sourire en hiver... comme un humain devrait l'être."
+
+msgctxt "Blood Titanium/KEY_PU_FIRST_SCENE3-4"
+msgid "There were problems - total encapsulation created some ... "
+msgstr "Il y a eu des problèmes – la totale encapsulation a créé..."
+
+msgctxt "Blood Titanium/KEY_PU_FIRST_SCENE3-5"
+msgid "mental instability ... hallucinations ... dreams. Not everybody could take it, "
+msgstr "une instabilité mentale... des hallucinations... des rêves. Tout le monde ne pouvait pas le supporter,"
+
+msgctxt "Blood Titanium/KEY_PU_FIRST_SCENE3-6"
+msgid "but there was no shortage of volunteers to take the program forwards."
+msgstr "mais on ne manquait pas de volontaires pour faire avancer le programme."
+
+msgctxt "Blood Titanium/KEY_PU_FIRST_SCENE3-7"
+msgid "And then Tobias West - the coward, THE TRAITOR, the small minded charlatan - pulled the plug."
+msgstr "Puis Tobias West – le lâche, LE TRAÎTRE, le charlatan mesquin – y a coupé court."
+
+msgctxt "Blood Titanium/KEY_PU_FIRST_SCENE4-1"
+msgid "Terrified of what he couldn’t understand,"
+msgstr "Terrifié de ce qu'il ne comprenait pas,"
+
+msgctxt "Blood Titanium/KEY_PU_FIRST_SCENE4-2"
+msgid "the “great leader” ordered everyone involved with the project killed …. KILLED!"
+msgstr "le « grand chef » a ordonné que toutes les personnes impliquées dans le projet soient éliminées... ÉLIMINÉES !"
+
+msgctxt "Blood Titanium/KEY_PU_FIRST_SCENE4-3"
+msgid "Maybe he thought that if he buried us, he’d bury the truth of his shame along with us. "
+msgstr "Il pensait peut-être que s'il nous enterrait, il enterrerait la vérité de sa honte avec nous."
+
+msgctxt "Blood Titanium/KEY_PU_FIRST_SCENE4-4"
+msgid "HIS SHAME! But we fought back."
+msgstr "SA HONTE ! Mais nous nous sommes défendus."
+
+msgctxt "Blood Titanium/KEY_PU_FIRST_SCENE4-5"
+msgid "I and several others managed to escape. "
+msgstr "Moi et quelques autres avons réussi à nous échapper."
+
+msgctxt "Blood Titanium/KEY_PU_FIRST_SCENE4-6"
+msgid "For years we remained silent, hiding, running, waiting for the right moment … the right moment."
+msgstr "Pendant des années, nous avons gardé le silence, nous nous sommes cachés, nous avons fui, nous avons attendu le bon moment... le bon moment."
+
+msgctxt "Blood Titanium/KEY_PU_FIRST_SCENE4-7"
+msgid "And that moment has come - HAS COME!"
+msgstr "Et ce moment est arrivé – EST ARRIVÉ !"
+
+msgctxt "Blood Titanium/KEY_PU_FIRST_SCENE5-1"
+msgid "Facing a losing battle against the Pandoravirus, "
+msgstr "Devant une bataille perdue d'avance contre le Pandoravirus,"
+
+msgctxt "Blood Titanium/KEY_PU_FIRST_SCENE5-2"
+msgid "the weak-minded West has reactivated the old Project Purity facilities, and that makes him vulnerable."
+msgstr "le faible West a réactivé les anciennes installations du Projet Pureté, et c'est ce qui l'a rendu vulnérable."
+
+msgctxt "Blood Titanium/KEY_PU_FIRST_SCENE5-3"
+msgid "Phoenix - I am offering you an exchange. "
+msgstr "Phoenix – Je vous propose un échange."
+
+msgctxt "Blood Titanium/KEY_PU_FIRST_SCENE5-4"
+msgid "I know the location of the facility, and how to get in. "
+msgstr "Je sais où cette installation se trouve et comment entrer."
+
+msgctxt "Blood Titanium/KEY_PU_FIRST_SCENE5-5"
+msgid "You have the firepower. THE POWER! Hailstorms of fire and acid! Raid the lab, and share the tech with us."
+msgstr "Vous avez la puissance des armes. LA PUISSANCE ! Des tempêtes de feu et d'acide ! Attaquez le laboratoire et partagez la technologie avec nous."
+
+msgctxt "Blood Titanium/KEY_PU_FIRST_SCENE5-6"
+msgid "All this time in hiding has left us damaged and in need of urgent repairs."
+msgstr "Tout ce temps passé à nous cacher nous a laissés endommagés et nous avons besoin de réparations urgentes."
+
+msgctxt "Blood Titanium/KEY_PU_FIRST_SCENE5-7"
+msgid "If you succeed we will both gain - humanity will gain."
+msgstr "Si vous réussissez, nous y trouverons tous notre compte – l'humanité y trouvera son compte."
+
+msgctxt "Blood Titanium/KEY_PU_FIRST_SCENE5-8"
+msgid "We are the Pure. THE PURE! We are the future. Help us Phoenix. Help our species."
+msgstr "Nous sommes les Purs. LES PURS ! Nous sommes le futur. Aidez-nous Phoenix. Aidez notre espèce."
+
+msgctxt "Blood Titanium/KEY_PU_FOUR_SCENE1-1"
+msgid "This is a message for the Phoenix Project."
+msgstr "Ceci est un message pour le Projet Phoenix."
+
+msgctxt "Blood Titanium/KEY_PU_FOUR_SCENE1-2"
+msgid "I thought you had what it takes. A Phoenix rising from the ashes. THE ASHES."
+msgstr "Je pensais que vous étiez à la hauteur. Un phénix renaissant de ses cendres. SES CENDRES."
+
+msgctxt "Blood Titanium/KEY_PU_FOUR_SCENE1-3"
+msgid "Ashes to ashes. Nothing but a myth."
+msgstr "Tu es poussière et tu retourneras dans la poussière. Ce n'est qu'un mythe."
+
+msgctxt "Blood Titanium/KEY_PU_FOUR_SCENE1-4"
+msgid "You have struggled with stupidity at every turn, suffered betrayals - BETRAYALS -"
+msgstr "Vous avez dû faire avec la stupidité à chaque instant, vous avez encaissé les trahisons – LES TRAHISONS –"
+
+msgctxt "Blood Titanium/KEY_PU_FOUR_SCENE1-5"
+msgid "that brought humanity to the brink of extinction, yet you can't see the obvious:"
+msgstr "qui ont mené l'humanité au bord de l'extinction, mais vous ne voyez toujours pas ce qui est devant vous :"
+
+msgctxt "Blood Titanium/KEY_PU_FOUR_SCENE1-6"
+msgid "humanity cannot be saved without total transformation - WITHOUT - TOTAL - TRANSFORMATION -"
+msgstr "l'humanité ne peut pas être sauvée sans une transformation totale – SANS – UNE TRANSFORMATION – TOTALE –"
+
+msgctxt "Blood Titanium/KEY_PU_FOUR_SCENE1-7"
+msgid "without becoming pure ...  Pure ... PURE!"
+msgstr "Sans devenir pure... Pure... PURE !"
+
+msgctxt "Blood Titanium/KEY_PU_FOUR_SCENE2-1"
+msgid "Who do you think the saviour should be?"
+msgstr "Qui devrait être le sauveur, à votre avis ?"
+
+msgctxt "Blood Titanium/KEY_PU_FOUR_SCENE2-2"
+msgid "WEST?! The coward West hiding behind his walls?"
+msgstr "WEST ?! Le lâche de West qui se cache derrière ses remparts ?"
+
+msgctxt "Blood Titanium/KEY_PU_FOUR_SCENE2-3"
+msgid "The abominations that spread the disease?"
+msgstr "Les abominations qui propagent la maladie ?"
+
+msgctxt "Blood Titanium/KEY_PU_FOUR_SCENE2-4"
+msgid "Or the idiots who think we should embrace the infected and live with them as pets? PESTS?!"
+msgstr "Ou les idiots qui pensent que nous devrions accueillir les infectés à bras ouverts et en faire des animaux de compagnie ? DES PARASITES ?!"
+
+msgctxt "Blood Titanium/KEY_PU_FOUR_SCENE3-1"
+msgid "No!"
+msgstr "Non !"
+
+msgctxt "Blood Titanium/KEY_PU_FOUR_SCENE3-2"
+msgid "The PURE will cleanse the world and all flesh that opposes us will melt away! "
+msgstr "Les PURS vont purger le monde et toute la chair qui s'oppose à nous fondra !"
+
+msgctxt "Blood Titanium/KEY_PU_FOUR_SCENE3-3"
+msgid "The festering pits of rot and decay will be forgotten and a new order "
+msgstr "Les fosses de décomposition et de putréfaction seront oubliées et un nouvel ordre"
+
+msgctxt "Blood Titanium/KEY_PU_FOUR_SCENE3-4"
+msgid "forged from blood... BLOOD... and titanium will rise!"
+msgstr "sera forgé dans le sang... LE SANG... et ce sera l'ascension du titane !"
+
+msgctxt "Blood Titanium/KEY_PU_FOUR_SCENE3-5"
+msgid "If the Phoenix Project thinks it has the strength to stop us, that’s your foolish fantasy."
+msgstr "Si le Projet Phoenix pense avoir la force pour nous arrêter, vous rêvez et vous avez perdu la tête."
+
+msgctxt "Blood Titanium/KEY_PU_FOUR_SCENE3-6"
+msgid "You know where we are. Come if you dare. "
+msgstr "Vous savez où nous trouver. Venez si vous osez."
+
+msgctxt "Blood Titanium/KEY_PU_THREE_SCENE1-1"
+msgid "Smart move, Mikhail. Your betrayal of Synedrion will bring benefits to both of us. "
+msgstr "Bonne décision, Mikhail. En trahissant le Synédrion, nous obtiendrons tous deux des avantages."
+
+msgctxt "Blood Titanium/KEY_PU_THREE_SCENE1-2"
+msgid "The Malthusian faction never belonging with those deluded... DELUDED... idealists anyway."
+msgstr "La faction malthusienne ne se range jamais aux côtés de ces idéalistes avec leurs illusions... ILLUSIONS."
+
+msgctxt "Blood Titanium/KEY_PU_THREE_SCENE1-3"
+msgid "Like the Phoenix Project, they cannot understand the true horrors... THE HORRORS... of the world, "
+msgstr "Tout comme le Projet Phoenix, ils ne peuvent pas comprendre les véritables horreurs... LES HORREURS... du monde,"
+
+msgctxt "Blood Titanium/KEY_PU_THREE_SCENE1-4"
+msgid "because they’ve never seen it."
+msgstr "parce qu'ils ne les ont jamais vues."
+
+msgctxt "Blood Titanium/KEY_PU_THREE_SCENE1-5"
+msgid "The misguided dreams they surround themselves with are dangerous - leading humanity to a dead end."
+msgstr "Les rêves malavisés desquels ils s'entourent sont dangereux – ils mènent l'humanité à l'impasse."
+
+msgctxt "Blood Titanium/KEY_PU_THREE_SCENE1-6"
+msgid "For the sake of the future, they must be exterminated. EXTERMINATED! Again and again and again!"
+msgstr "Pour le bien du futur, ils doivent être exterminés. EXTERMINÉS ! Encore et encore !"
+
+msgctxt "Blood Titanium/KEY_PU_THREE_SCENE1-7"
+msgid "You, though, have shown us that you have what it takes to begin anew."
+msgstr "Vous, par contre, vous nous avez montré que vous êtes à la hauteur pour tout recommencer."
+
+msgctxt "Blood Titanium/KEY_PU_THREE_SCENE2-1"
+msgid "It’s almost impressive how well Synedrion scientists have adapted New Jericho’s technology."
+msgstr "C'est presque impressionnant de voir que les scientifiques du Synédrion ont si bien réussi à adapter la technologie de la Nouvelle-Jéricho."
+
+msgctxt "Blood Titanium/KEY_PU_THREE_SCENE2-2"
+msgid "In a few months they’ve achieved more than West could in decades."
+msgstr "En quelques mois, ils ont réalisé plus que West pendant des dizaines d'années."
+
+msgctxt "Blood Titanium/KEY_PU_THREE_SCENE2-3"
+msgid "And still those that lead them suffer from the same fallacy as he did ... as he did! "
+msgstr "Et pourtant, ceux qui sont à leur tête font la même erreur que lui... que lui !"
+
+msgctxt "Blood Titanium/KEY_PU_THREE_SCENE2-4"
+msgid "They are not prepared for total conversion - abandoning flesh to embrace the machine."
+msgstr "Ils ne sont pas prêts pour une conversion totale – pour abandonner la chair qui enveloppe la machine."
+
+msgctxt "Blood Titanium/KEY_PU_THREE_SCENE3-1"
+msgid "You have twenty-four hours to remove your conspirators from the research area."
+msgstr "Vous avez vingt-quatre heures pour évacuer vos conspirateurs de la zone de recherche."
+
+msgctxt "Blood Titanium/KEY_PU_THREE_SCENE3-2"
+msgid "When we attack, all will be gunned down. GUNNED DOWN!"
+msgstr "Lorsque nous attaquerons, ils seront tous abattus. ABATTUS !"
+
+msgctxt "Blood Titanium/KEY_PU_THREE_SCENE3-3"
+msgid "After that the second renaissance will begin. Beginning and end. Alpha and Omega."
+msgstr "Ensuite, la deuxième reconnaissance débutera. Début et fin. Alpha et Oméga."
+
+msgctxt "Blood Titanium/KEY_PU_THREE_SCENE3-4"
+msgid "You’ll have your chance to break from Synedrion, "
+msgstr "Vous aurez l'occasion de vous détacher du Synédrion,"
+
+msgctxt "Blood Titanium/KEY_PU_THREE_SCENE3-5"
+msgid "and Tobias West, and the other cowards will be purged away."
+msgstr "et Tobias West, et les autres lâches seront purgés."
+
+msgctxt "Blood Titanium/KEY_PU_THREE_SCENE4-1"
+msgid "Just don’t try to cross us, Mikhail!"
+msgstr "N'essayez pas de contrecarrer nos plans, Mikhail !"
+
+msgctxt "Blood Titanium/KEY_PU_THREE_SCENE4-2"
+msgid "If this turns out to be a trap... TRAP... we’ll still get the technology... "
+msgstr "S'il s'avère que c'est un piège... PIÈGE... nous récupérerons quand même la technologie..."
+
+msgctxt "Blood Titanium/KEY_PU_THREE_SCENE4-3"
+msgid "and the Malthusians will be added to the extinction list!"
+msgstr "et les Malthusiens seront ajoutés à la liste d'extermination !"
+
+msgctxt "Blood Titanium/KEY_REPAIR_BIONIC"
+msgid "REPAIR"
+msgstr "RÉPARER"
+
+msgctxt "Blood Titanium/KEY_REPAIR_BIONIC_WARNING"
+msgid "Are you sure you want to repair this augmentation?"
+msgstr "Voulez-vous vraiment réparer cette augmentation ?"
+
+msgctxt "Blood Titanium/KEY_REPAIR_KIT_DESCRIPTION"
+msgid "Repairs {bodyparthealamount} Hit Points (augmented body parts only)."
+msgstr "Répare {bodyparthealamount} points de vie (parties du corps augmentées uniquement)."
+
+msgctxt "Blood Titanium/KEY_REPAIR_KIT_NAME"
+msgid "REPAIR KIT"
+msgstr "KIT DE RÉPARATION"
+
+msgctxt "Blood Titanium/KEY_RETRIEVE_SHIELD_DESCRIPTION"
+msgid "Retract energy shield"
+msgstr "Rétractez le bouclier d'énergie."
+
+msgctxt "Blood Titanium/KEY_RETRIEVE_SHIELD_NAME"
+msgid "RETRACT SHIELD"
+msgstr "RÉTRACTER BOUCLIER"
+
+msgctxt "Blood Titanium/KEY_SAFE_LANDING_DESCRIPTION"
+msgid "No damage is suffered when landing from any height."
+msgstr "Aucun dégât subi à l'atterrissage de n'importe quelle hauteur."
+
+msgctxt "Blood Titanium/KEY_SAFE_LANDING_NAME"
+msgid "LANDING SHOCK ABSORPTION"
+msgstr "ABSORPTION DU CHOC D'ATTERRISSAGE"
+
+msgctxt "Blood Titanium/KEY_SHADOWSTEP_DESCRIPTION"
+msgid "Does not activate enemy Overwatch."
+msgstr "N'active pas la Vigilance de l'ennemi."
+
+msgctxt "Blood Titanium/KEY_SHADOWSTEP_NAME"
+msgid "SHADOWSTEP"
+msgstr "PAS FEUTRÉS"
+
+msgctxt "Blood Titanium/KEY_SHIELD_BIONIC_DESCRIPTION"
+msgid "Energy Shield"
+msgstr "Bouclier d'énergie"
+
+msgctxt "Blood Titanium/KEY_SHIELD_BIONIC_NAME"
+msgid "SHIELD"
+msgstr "BOUCLIER"
+
+msgctxt "Blood Titanium/KEY_SHINOBI_LEAP_DESCRIPTION"
+msgid "Leap to target location."
+msgstr "Bondissez à l'emplacement cible."
+
+msgctxt "Blood Titanium/KEY_SHINOBI_LEAP_NAME"
+msgid "ROCKET LEAP"
+msgstr "BOND PROPULSÉ"
+
+msgctxt "Blood Titanium/KEY_SLOT_UNAVAILABLE_BIONIC"
+msgid "Enhancement impossible due to existing augmentation."
+msgstr "Amélioration impossible en raison d'une augmentation existante."
+
+msgctxt "Blood Titanium/KEY_SLOT_UNAVAILABLE_MUTATION"
+msgid "Enhancement impossible due to existing mutation."
+msgstr "Amélioration impossible en raison d'une mutation existante."
+
+msgctxt "Blood Titanium/KEY_STATUS_DISABLED_ELECTRONIC_DESCRIPTION"
+msgid "Body part disabled."
+msgstr "Partie du corps désactivée."
+
+msgctxt "Blood Titanium/KEY_STATUS_DISABLED_ELECTRONIC_NAME"
+msgid "DISABLED"
+msgstr "DÉSACTIVÉ"
+
+msgctxt "Blood Titanium/KEY_STATUS_SILENCED"
+msgid "DISORIENTED"
+msgstr "DÉSORIENTATION"
+
+msgctxt "Blood Titanium/KEY_STATUS_SILENCED_DESCRIPTION"
+msgid "Cannot use Will Point abilities for 1 turn."
+msgstr "Ne peut pas utiliser de capacités à points de volonté pendant 1 tour."
+
+msgctxt "Blood Titanium/KEY_SY_EMP_GRENADE_DESCRIPTION"
+msgid "Synedrion EMP Grenade"
+msgstr "Grenade EMP du Synédrion"
+
+msgctxt "Blood Titanium/KEY_SY_EMP_GRENADE_NAME"
+msgid "ZEUS GRENADE"
+msgstr "GRENADE DE ZEUS"
+
+msgctxt "Blood Titanium/KEY_SY_SHINOBI_BIO_HELMET_DESCRIPTION"
+msgid "Synedrion Silent Echo Head Augmentation"
+msgstr "Augmentation de tête d'écho silencieux du Synédrion"
+
+msgctxt "Blood Titanium/KEY_SY_SHINOBI_BIO_HELMET_LONG_DESCRIPTION"
+msgid "Based on Triton head physiology, the Echo head augment is able to produce a sound suppression field, making all weapons used by the soldier silent."
+msgstr "Basée sur la physiologie de la tête de Triton, l'augmentation Tête d'Écho est capable de produire un champ de suppression sonore qui rend toutes les armes utilisées par le soldat silencieuses."
+
+msgctxt "Blood Titanium/KEY_SY_SHINOBI_BIO_HELMET_NAME2"
+msgid "Echo Head"
+msgstr "Tête d'écho"
+
+msgctxt "Blood Titanium/KEY_SY_SHINOBI_BIO_LEGS_DESCRIPTION"
+msgid "Synedrion Anti-detection Legs Augmentation"
+msgstr "Augmentation de jambes anti-détection du Synédrion"
+
+msgctxt "Blood Titanium/KEY_SY_SHINOBI_BIO_LEGS_LONG_DESCRIPTION"
+msgid "Designed for silent running, the Mirage legs allow soldiers to run through observed areas unnoticed without worrying about enemy Overwatch."
+msgstr "Conçues pour courir sans faire de bruit, les jambes Mirage permettent aux soldats de passer en courant dans des zones observées sans se faire détecter ni se préoccuper de la Vigilance de l'ennemi."
+
+msgctxt "Blood Titanium/KEY_SY_SHINOBI_BIO_LEGS_NAME2"
+msgid "Mirage Legs"
+msgstr "Jambes de mirage"
+
+msgctxt "Blood Titanium/KEY_SY_SHINOBI_BIO_TORSO_DESCRIPTION"
+msgid "Synedrion Melee Proficient Torso Augmentation"
+msgstr "Augmentation de torse de maîtrise au corps à corps du Synédrion"
+
+msgctxt "Blood Titanium/KEY_SY_SHINOBI_BIO_TORSO_LONG_DESCRIPTION"
+msgid "The Vengeance torso augmentation focuses on close combat efficiency, allowing soldiers to use a range advanced martial techniques without prior melee combat proficiency."
+msgstr "L'augmentation de torse de vengeance est axée sur l'efficacité en combat rapproché et permet aux soldats d'utiliser une série de techniques martiales sophistiquées sans aucune maîtrise préalable du combat au corps à corps."
+
+msgctxt "Blood Titanium/KEY_SY_SHINOBI_BIO_TORSO_NAME2"
+msgid "Vengeance Torso"
+msgstr "Torse de vengeance"
+
+msgctxt "Blood Titanium/KEY_TIMED_MISSION_COUNTER"
+msgid "{Objective} (ends in {time})"
+msgstr "{Objective} (prend fin dans {time})"
+
+msgctxt "Blood Titanium/KEY_TIMED_MISSION_ENDED"
+msgid "The times mission {0} has expired. No further actions regarding it are possible."
+msgstr "Le temps pour la mission {0} est écoulé. Aucune autre action n'est possible."
+
+msgctxt "Blood Titanium/KEY_TUTORIAL_TIMED_MISSIONS_DESCRIPTION"
+msgid "Timed limited events are time sensitive objectives that disappear after a set amount of time. If not completed within the time limit, the mission disappears and will not reappear for the remaining game."
+msgstr "Les événements limités dans le temps sont des objectifs qui disparaissent après un certain temps. S'ils ne sont pas atteints dans la limite du temps imparti, la mission disparaît et ne sera plus disponible pendant le reste de la partie."
+
+msgctxt "Blood Titanium/KEY_TUTORIAL_TIMED_MISSIONS_NAME"
+msgid "Time Limited Events"
+msgstr "Événements limités dans le temps"
+
+msgctxt "Blood Titanium/KEY_USE_REPAIR_KIT_DESCRIPTION"
+msgid "Repair {bodyparthealamount} Hit Points (augmented body parts only)."
+msgstr "Répare {bodyparthealamount} points de vie (parties du corps augmentées uniquement)."
+
+msgctxt "Blood Titanium/KEY_USE_REPAIR_KIT_NAME"
+msgid "USE REPAIR KIT"
+msgstr "UTILISER KIT DE RÉPARATION"
+
+msgctxt "Blood Titanium/KEY_VIRAL_MACHINE_GUN_DESCRIPTION"
+msgid "VIRAL MACHINE GUN"
+msgstr "MITRAILLEUSE VIRALE"
+
+msgctxt "Blood Titanium/KEY_VIRAL_MACHINE_GUN_NAME"
+msgid "VIRAL MACHINE GUN"
+msgstr "MITRAILLEUSE VIRALE"
+
+msgctxt "DLC2 Necronomicon/KEY_GEO_ANCIENT_GUARDIAN_GUARD_NAME"
+msgid "DEPLOY GUARDIAN"
 msgstr "[null]"
 
-msgctxt "Cthulhu/KEY_BASE_PROMPT_HARVEST_ALIEN_FOR_MUTAGENS"
-msgid "Are you sure you want to kill the Pandoran {0} for mutagens? If you do the creature will be killed and :Resources: Mutagens: {1} will be added to your reserves."
+msgctxt "DLC2 Necronomicon/KEY_GEO_ANCIENT_GUARDIAN_GUARD_DESCRIPTION"
+msgid "Deploys a Cyclops Guardian at the site."
 msgstr "[null]"
 
-msgctxt "Cthulhu/KEY_BASE_PROMPT_KILL_CAPTURED_ALIEN"
-msgid "Are you sure you want to kill the Pandoran {0}?"
+msgctxt "DLC2 Necronomicon/KEY_GEO_ABILITY_EXCAVATE_SITE_NAME"
+msgid "EXCAVATE SITE"
 msgstr "[null]"
 
-msgctxt "Cthulhu/KEY_BASE_PROMPT_HARVEST_ALIEN_FOR_FOOD_RESULT"
-msgid "{0} has been killed. {1} food has been added to reserves."
+msgctxt "DLC2 Necronomicon/KEY_GEO_ABILITY_EXCAVATE_SITE_DESCRIPTION"
+msgid "Send a team of excavators to open a path to the ancient ruin."
 msgstr "[null]"
 
-msgctxt "Cthulhu/KEY_BASE_PROMPT_HARVEST_ALIEN_FOR_MUTAGENS_RESULT"
-msgid "{0} has been killed. {1} mutagens have been added to reserves."
+msgctxt "DLC2 Necronomicon/KEY_EXCAVATE_POPUP_NAME"
+msgid "EXCAVATE ANCIENT SITE"
 msgstr "[null]"
 
-msgctxt "Cthulhu/KEY_BASE_PROMPT_KILL_CAPTURED_ALIEN_RESULT"
-msgid "{0} has been killed."
+msgctxt "DLC2 Necronomicon/KEY_EXCAVATE_POPUP_DESCRIPTION"
+msgid "Send a team of excavators to open a path to the ancient ruin. The team has to be carried there by air, but doesn't require constant aerial supervision."
 msgstr "[null]"
 
-msgctxt "Cthulhu/KEY_TUTORIAL_BASE_ACTIVATION_NAME"
-msgid "Base Activation"
+msgctxt "DLC2 Necronomicon/KEY_EXCAVATE_POPUP_LISTCOSTS"
+msgid "EXCAVATION COST"
 msgstr "[null]"
 
-msgctxt "Cthulhu/KEY_TUTORIAL_BASE_ACTIVATION_DESCRIPTION"
-msgid "After analyzing the Phoenix Archives data banks, it has become clear that Phoenix Point is the only operational Phoenix Base.[LF]Fortunately we were able to find the locations of 31 additional bases throughout the globe, some of which could be remotely reactivated. The decision which bases to activate is vital since it will determine how the Phoenix Initiative progresses.[LF]Damaged facilities will have to be additionally repaired after activation."
+msgctxt "DLC2 Necronomicon/KEY_EXCAVATE_POPUP_BUTTON"
+msgid "EXCAVATE"
 msgstr "[null]"
 
-msgctxt "Cthulhu/KEY_TUTORIAL_BASE_ACTIVATION_DESCRIPTION_ADD"
-msgid "Bases available for activation will be visualized with this symbol."
+msgctxt "DLC2 Necronomicon/KEY_MESSAGE_NOT_ENOUGH_CHARGES"
+msgid "YOU DON'T HAVE ENOUGH CHARGES"
 msgstr "[null]"
 
-msgctxt "Cthulhu/KEY_ALIEN_BASE_DISCOVERED"
-msgid "PANDORAN BASE DETECTED"
+msgctxt "DLC2 Necronomicon/KEY_MESSAGE_NO_ARCHEOLOGY_FACILITY"
+msgid "YOU NEED AN OPERATIONAL ARCHAEOLOGY LAB"
 msgstr "[null]"
+
+msgctxt "DLC2 Necronomicon/KEY_MESSAGE_MISSING_ARCHEOLOGY_FACILITY"
+msgid "YOU NEED A POWERED ARCHAEOLOGY LAB!"
+msgstr "[null]"
+
+msgctxt "DLC2 Necronomicon/KEY_MESSAGE_MISSING_REFINERY"
+msgid "YOU DON'T HAVE THE NEEDED ANCIENT PROCESSING SITE!"
+msgstr "[null]"
+
+msgctxt "DLC2 Necronomicon/KEY_GEOSCAPE_MESSAGE_EXCAVATION_COMPLETED"
+msgid "EXCAVATION COMPLETED"
+msgstr "[null]"
+
+msgctxt "DLC2 Necronomicon/KEY_BASE_FACILITY_ARCHEOLOGY_LAB_NAME"
+msgid "ARCHAEOLOGY LAB"
+msgstr "[null]"
+
+msgctxt "DLC2 Necronomicon/KEY_BASE_FACILITY_ARCHEOLOGY_LAB_DESCRIPTION"
+msgid "The Archaeology Lab allows the construction of Archaeology Probes. Additionally, the number of Archaeology Labs controlled determines the rate of Antediluvian artifact recovery and processing."
+msgstr "[null]"
+
+msgctxt "DLC2 Necronomicon/KEY_ITEM_ANCIENT_SITE_PROBE_NAME"
+msgid "ARCHAEOLOGY PROBE"
+msgstr "[null]"
+
+msgctxt "DLC2 Necronomicon/KEY_ITEM_ANCIENT_SITE_PROBE_DESCRIPTION"
+msgid "Scans for Antediluvian sites"
+msgstr "[null]"
+
+msgctxt "DLC2 Necronomicon/KEY_AC_CROSSBOW_NAME"
+msgid "Crystal Crossbow"
+msgstr "[null]"
+
+msgctxt "DLC2 Necronomicon/KEY_AC_CROSSBOW_DESCRIPTION"
+msgid "The Crystal Crossbow is a silent weapon based on the Ancients technology."
+msgstr "[null]"
+
+msgctxt "DLC2 Necronomicon/KEY_AC_MACE_NAME"
+msgid "Mattock of the Ancients"
+msgstr "[null]"
+
+msgctxt "DLC2 Necronomicon/KEY_AC_MACE_DESCRIPTION"
+msgid "The Mattock of the Ancients is a one-handed melee weapon based on the Ancients technology."
+msgstr "[null]"
+
+msgctxt "DLC2 Necronomicon/KEY_AC_HEAVY_NAME"
+msgid "Rebuke"
+msgstr "[null]"
+
+msgctxt "DLC2 Necronomicon/KEY_AC_HEAVY_DESCRIPTION"
+msgid "The Rebuke is a grenade launcher based on the Ancients technology."
+msgstr "[null]"
+
+msgctxt "DLC2 Necronomicon/KEY_AC_SNIPER_NAME"
+msgid "Scorpion"
+msgstr "[null]"
+
+msgctxt "DLC2 Necronomicon/KEY_AC_SNIPER_DESCRIPTION"
+msgid "The Scorpion is a sniper rifle based on the Ancients technology."
+msgstr "[null]"
+
+msgctxt "DLC2 Necronomicon/KEY_AC_SCYTHE_NAME"
+msgid "Scyther"
+msgstr "[null]"
+
+msgctxt "DLC2 Necronomicon/KEY_AC_SCYTHE_DESCRIPTION"
+msgid "The Scyther is a two-handed melee weapon based on the Ancients technology."
+msgstr "[null]"
+
+msgctxt "DLC2 Necronomicon/KEY_AC_SHOTGUN_NAME"
+msgid "Shard gun"
+msgstr "[null]"
+
+msgctxt "DLC2 Necronomicon/KEY_AC_SHOTGUN_DESCRIPTION"
+msgid "The Shard Gun is a shotgun based on the Ancients technology."
+msgstr "[null]"
+
+msgctxt "DLC2 Necronomicon/KEY_AC_ATTACK"
+msgid "Establish control over the Ancient Site"
+msgstr "[null]"
+
+msgctxt "DLC2 Necronomicon/KEY_AC_ATTACK_WIN"
+msgid "Assault on the Ancient Site Successful"
+msgstr "[null]"
+
+msgctxt "DLC2 Necronomicon/KEY_AC_ATTACK_FAIL"
+msgid "Assault on the Ancient Site Failed"
+msgstr "[null]"
+
+msgctxt "DLC2 Necronomicon/KEY_AC_DEFEND"
+msgid "Defend the Ancient Site"
+msgstr "[null]"
+
+msgctxt "DLC2 Necronomicon/KEY_AC_DEFEND_WIN"
+msgid "Defense of Ancient Site Successful"
+msgstr "[null]"
+
+msgctxt "DLC2 Necronomicon/KEY_AC_DEFEND_FAIL"
+msgid "Defense of Ancient Site Failed"
+msgstr "[null]"
+
+msgctxt "DLC2 Necronomicon/KEY_AC_ATTACK_DESCRIPTION"
+msgid "Establish control over the Ancient Site"
+msgstr "[null]"
+
+msgctxt "DLC2 Necronomicon/KEY_AC_ATTACK_WIN_DESCRIPTION"
+msgid "Assault on the Ancient Site Successful"
+msgstr "[null]"
+
+msgctxt "DLC2 Necronomicon/KEY_AC_ATTACK_FAIL_DESCRIPTION"
+msgid "Assault on the Ancient Site Failed"
+msgstr "[null]"
+
+msgctxt "DLC2 Necronomicon/KEY_AC_DEFEND_DESCRIPTION"
+msgid "Defend the Ancient Site"
+msgstr "[null]"
+
+msgctxt "DLC2 Necronomicon/KEY_AC_DEFEND_WIN_DESCRIPTION"
+msgid "Defense of the Ancient Site Successful"
+msgstr "[null]"
+
+msgctxt "DLC2 Necronomicon/KEY_AC_DEFEND_FAIL_DESCRIPTION"
+msgid "Defense of the Ancient Site Failed"
+msgstr "[null]"
+
+msgctxt "DLC2 Necronomicon/KEY_AC_MISSION_ATTACK_BRIEFING"
+msgid "Establish control over the Ancient Site"
+msgstr "[null]"
+
+msgctxt "DLC2 Necronomicon/KEY_AC_MISSION_DEFEND_BRIEFING"
+msgid "Defend the Ancient Site from the attackers"
+msgstr "[null]"
+
+msgctxt "DLC2 Necronomicon/KEY_AC_CRYSTAL_HARVEST"
+msgid "Living Crystal Quarry"
+msgstr "[null]"
+
+msgctxt "DLC2 Necronomicon/KEY_AC_CRYSTAL_REFINERY"
+msgid "The Living Crystal Lapidary"
+msgstr "[null]"
+
+msgctxt "DLC2 Necronomicon/KEY_AC_ORICHALCUM_HARVEST"
+msgid "Orichalcum Mine"
+msgstr "[null]"
+
+msgctxt "DLC2 Necronomicon/KEY_AC_ORICHALCUM_REFINERY"
+msgid "The Orichalcum Forge"
+msgstr "[null]"
+
+msgctxt "DLC2 Necronomicon/KEY_AC_PROTEAN_HARVEST"
+msgid "Protean Mutane Field"
+msgstr "[null]"
+
+msgctxt "DLC2 Necronomicon/KEY_AC_PROTEAN_REFINERY"
+msgid "The Protean Mutane Refinery"
+msgstr "[null]"
+
+msgctxt "DLC2 Necronomicon/KEY_FACTION_ANCIENTS"
+msgid "Ancients"
+msgstr "[null]"
+
+msgctxt "DLC2 Necronomicon/KEY_GEO_LAUNCH_PROBE_NAME"
+msgid "LAUNCH ARCHAEOLOGY PROBE"
+msgstr "[null]"
+
+msgctxt "DLC2 Necronomicon/KEY_GEO_LAUNCH_PROBE_DESCRIPTION"
+msgid "Launches a probe that detects Antediluvian ruins."
+msgstr "[null]"
+
+msgctxt "DLC2 Necronomicon/KEY_BASE_FACILITY_ARCHAEOLOGYLAB_NAME"
+msgid "ARCHAEOLOGY LAB"
+msgstr "[null]"
+
+msgctxt "DLC2 Necronomicon/KEY_BASE_FACILITY_ARCHAEOLOGYLAB_DESCRIPTION"
+msgid "A facility for the pursuit of the field of Antediluvian Archaeology."
+msgstr "[null]"
+
+msgctxt "DLC2 Necronomicon/KEY_BASE_WARNING_ARCHAEOLOGY_LAB"
+msgid "Destroying an Archaeology Lab reduces our ability to process Antediluvian artifacts. Are you sure you want to proceed?"
+msgstr "[null]"
+
+msgctxt "DLC2 Necronomicon/KEY_TUTORIAL_DLC2_ARCHEOLOGY_NAME"
+msgid "<When archeology facility is build tutorial title>"
+msgstr "[null]"
+
+msgctxt "DLC2 Necronomicon/KEY_TUTORIAL_DLC2_ARCHEOLOGY_DESCRIPTION"
+msgid "<When archeology facility is build tutorial description>"
+msgstr "[null]"
+
+msgctxt "DLC2 Necronomicon/KEY_TUTORIAL_DLC2_ANCIENT_SITE_NAME"
+msgid "<When ancient site discovered via scan tutorial title>"
+msgstr "[null]"
+
+msgctxt "DLC2 Necronomicon/KEY_TUTORIAL_DLC2_ANCIENT_SITE_DESCRIPTION"
+msgid "<When ancient site discovered via scan tutorial description>"
+msgstr "[null]"
+
+msgctxt "DLC2 Necronomicon/KEY_TUTORIAL_DLC2_EXCAVATION_DONE_NAME"
+msgid "<When ancient site excavation is completed tutorial title>"
+msgstr "[null]"
+
+msgctxt "DLC2 Necronomicon/KEY_TUTORIAL_DLC2_EXCAVATION_DONE_DESCRIPTION"
+msgid "<When ancient site excavation is completed tutorial description>"
+msgstr "[null]"
+
+msgctxt "DLC2 Necronomicon/KEY_TUTORIAL_DLC2_HARVESITNG_NAME"
+msgid "<When harvesting site is captured tutorial title>"
+msgstr "[null]"
+
+msgctxt "DLC2 Necronomicon/KEY_TUTORIAL_DLC2_HARVESITNG_DESCRIPTION"
+msgid "<When harvesting site is captured tutorial description>"
+msgstr "[null]"
+
+msgctxt "DLC2 Necronomicon/KEY_TUTORIAL_DLC2_REFINERY_NAME"
+msgid "<When refinery site is captured tutorial title>"
+msgstr "[null]"
+
+msgctxt "DLC2 Necronomicon/KEY_TUTORIAL_DLC2_REFINERY_DESCRIPTIOY"
+msgid "<When refinery site is captured tutorial description>"
+msgstr "[null]"
+
+msgctxt "DLC2 Necronomicon/KEY_AC_HOPLITE1_NAME"
+msgid "HOPLITE"
+msgstr "[null]"
+
+msgctxt "DLC2 Necronomicon/KEY_AC_HOPLITE2_NAME"
+msgid "HOPLITE"
+msgstr "[null]"
+
+msgctxt "DLC2 Necronomicon/KEY_AC_CYCLOPS1_NAME"
+msgid "CYCLOPS"
+msgstr "[null]"
+
+msgctxt "DLC2 Necronomicon/KEY_AC_CYCLOPS2_NAME"
+msgid "CYCLOPS"
+msgstr "[null]"
+
+msgctxt "DLC2 Necronomicon/KEY_AC_CYCLOPS3_NAME"
+msgid "CYCLOPS"
+msgstr "[null]"
+
+msgctxt "DLC2 Necronomicon/KEY_AC_ANCIENTS_TACTICAL_BANNER"
+msgid "ANCIENT GUARDIANS"
+msgstr "[null]"
+
+msgctxt "DLC2 Necronomicon/KEY_OBJECTIVE_BLUEPRINT"
+msgid "Retrieve the Antediluvian collection"
+msgstr "[null]"
+
+msgctxt "DLC2 Necronomicon/KEY_DEPLOYGUARDIAN_POPUP_NAME"
+msgid "DEPLOY GUARDIAN"
+msgstr "[null]"
+
+msgctxt "DLC2 Necronomicon/KEY_DEPLOYGUARDIAN_POPUP_DESCRIPTION"
+msgid "Deploys a Cyclops Guardian to aid our forces in site defenses."
+msgstr "[null]"
+
+msgctxt "DLC2 Necronomicon/KEY_DEPLOYGUARDIAN_POPUP_LISTCOSTS"
+msgid "DEPLOYMENT COST"
+msgstr "[null]"
+
+msgctxt "DLC2 Necronomicon/KEY_DEPLOYGUARDIAN_POPUP_BUTTON"
+msgid "DEPLOY GUARDIAN"
+msgstr "[null]"
+
+msgctxt "DLC2 Necronomicon/KEY_AC_LIVINGCRYSTALSHIELD"
+msgid "LIVING CRYSTAL SHIELD"
+msgstr "[null]"
+
+msgctxt "DLC2 Necronomicon/KEY_AC_ORICHALCUMSHIELD"
+msgid "ORICHALCUM SHIELD"
+msgstr "[null]"
+
+msgctxt "DLC2 Necronomicon/KEY_AC_POWERDRILL"
+msgid "MUTANE-POWERED DRILL"
+msgstr "[null]"
+
+msgctxt "DLC2 Necronomicon/KEY_AC_GUARDIANBEAM"
+msgid "GUARDIAN BEAM"
+msgstr "[null]"
+
+msgctxt "DLC2 Necronomicon/KEY_AC_STOMP"
+msgid "STOMP"
+msgstr "[null]"
+
+msgctxt "DLC2 Necronomicon/KEY_AC_LIVINGCRYSTALSHIELD_DESCRIPTION"
+msgid "A shield made of Living Crystal."
+msgstr "[null]"
+
+msgctxt "DLC2 Necronomicon/KEY_AC_ORICHALCUMSHIELD_DESCRIPTION"
+msgid "A sharp-edged shield made of Orichalcum."
+msgstr "[null]"
+
+msgctxt "DLC2 Necronomicon/KEY_AC_POWERDRILL_DESCRIPTION"
+msgid "A drill powered by Protean Mutane turbine."
+msgstr "[null]"
+
+msgctxt "DLC2 Necronomicon/KEY_AC_GUARDIANBEAM_DESCRIPTION"
+msgid "A devastating beam weapon."
+msgstr "[null]"
+
+msgctxt "DLC2 Necronomicon/KEY_AC_STOMP_DESCRIPTION"
+msgid "A close-range attack."
+msgstr "[null]"
+
+msgctxt "DLC2 Necronomicon/KEY_LA_ZERO_SCENE1-1"
+msgid "This is getting out of hand, Randolph. "
+msgstr "[null]"
+
+msgctxt "DLC2 Necronomicon/KEY_LA_ZERO_SCENE1-2"
+msgid "I wont' stop my proto-civilization research, so tell the committee to back off!"
+msgstr "[null]"
+
+msgctxt "DLC2 Necronomicon/KEY_LA_ZERO_SCENE1-3"
+msgid "You’re the director now - please help me, I need your support."
+msgstr "[null]"
+
+msgctxt "DLC2 Necronomicon/KEY_LA_ZERO_SCENE2-1"
+msgid "This is not just some crackpot theory invented by your grandfather! "
+msgstr "[null]"
+
+msgctxt "DLC2 Necronomicon/KEY_LA_ZERO_SCENE2-2"
+msgid "The anomalous artifacts - the extraordinary technology, predating Sumeria by millenia. "
+msgstr "[null]"
+
+msgctxt "DLC2 Necronomicon/KEY_LA_ZERO_SCENE2-3"
+msgid "If you can't restart my project, I will go to the Vanadium Corporation."
+msgstr "[null]"
+
+msgctxt "DLC2 Necronomicon/KEY_LA_ZERO_SCENE3-1"
+msgid "There's been another attack, Tobias."
+msgstr "[null]"
+
+msgctxt "DLC2 Necronomicon/KEY_LA_ZERO_SCENE3-2"
+msgid "The excavation team is scared and they aren't the only ones."
+msgstr "[null]"
+
+msgctxt "DLC2 Necronomicon/KEY_LA_ZERO_SCENE3-3"
+msgid "What if the Pandorans know what we are doing and are trying to stop it? "
+msgstr "[null]"
+
+msgctxt "DLC2 Necronomicon/KEY_LA_ZERO_SCENE3-4"
+msgid "They aren't just brainless flesh puppets. I'm heading back to the lab. "
+msgstr "[null]"
+
+msgctxt "DLC2 Necronomicon/KEY_LA_ZERO_SCENE3-5"
+msgid "Be there. We need to discuss this in person."
+msgstr "[null]"
+
+msgctxt "DLC2 Necronomicon/KEY_LA_ZERO_SCENE4-1"
+msgid "You’re making a mistake, Colonel! The last Pandoran attacks were not an accident. "
+msgstr "[null]"
+
+msgctxt "DLC2 Necronomicon/KEY_LA_ZERO_SCENE4-2"
+msgid "They're targeting everyone related to project Glory. "
+msgstr "[null]"
+
+msgctxt "DLC2 Necronomicon/KEY_LA_ZERO_SCENE4-3"
+msgid "Locking me in an isolation facility won't change a thing!"
+msgstr "[null]"
+
+msgctxt "DLC2 Necronomicon/KEY_LA_ZERO_SCENE4-4"
+msgid "Take her away."
+msgstr "[null]"
+
+msgctxt "DLC2 Necronomicon/KEY_LA_ZERO_SCENE4-5"
+msgid "No!"
+msgstr "[null]"
+
+msgctxt "DLC2 Necronomicon/KEY_LA_ZERO_SCENE5-1"
+msgid "Reference: Dr Helena Lewandowski"
+msgstr "[null]"
+
+msgctxt "DLC2 Necronomicon/KEY_LA_ZERO_SCENE5-2"
+msgid "Status: Detained in New Jericho infection research base Fort Destiny"
+msgstr "[null]"
+
+msgctxt "DLC2 Necronomicon/KEY_LA_ZERO_SCENE5-3"
+msgid "Ceasing further monitoring"
+msgstr "[null]"
+
+msgctxt "DLC2 Necronomicon/KEY_LA_FIRST_SCENE1-1"
+msgid "Decades were needed to get to this point. The old Phoenix Project didn’t want to see -  "
+msgstr "[null]"
+
+msgctxt "DLC2 Necronomicon/KEY_LA_FIRST_SCENE1-2"
+msgid "New Jericho didn’t want to accept... I really hope the third time’s a charm."
+msgstr "[null]"
+
+msgctxt "DLC2 Necronomicon/KEY_LA_FIRST_SCENE2-1"
+msgid "We have always been so busy focusing on recent phenomena. "
+msgstr "[null]"
+
+msgctxt "DLC2 Necronomicon/KEY_LA_FIRST_SCENE2-2"
+msgid "We ran in circles - researching the mist, the Pandoravirus, "
+msgstr "[null]"
+
+msgctxt "DLC2 Necronomicon/KEY_LA_FIRST_SCENE2-3"
+msgid "the thousands of mutations that appeared - but never searched for its true origins."
+msgstr "[null]"
+
+msgctxt "DLC2 Necronomicon/KEY_LA_FIRST_SCENE3-1"
+msgid "We weren’t the first to deal with this. "
+msgstr "[null]"
+
+msgctxt "DLC2 Necronomicon/KEY_LA_FIRST_SCENE3-2"
+msgid "Randolf's grandfather found evidence of sites and artifacts predating known history. "
+msgstr "[null]"
+
+msgctxt "DLC2 Necronomicon/KEY_LA_FIRST_SCENE3-3"
+msgid "With the ice caps melted, we stand a better chance of finding them than he ever did."
+msgstr "[null]"
+
+msgctxt "DLC2 Necronomicon/KEY_LA_SECOND_SCENE1-1"
+msgid "Randolf’s grandfather first spoke of an ancient civilisation living on earth. "
+msgstr "[null]"
+
+msgctxt "DLC2 Necronomicon/KEY_LA_SECOND_SCENE1-2"
+msgid "Back then the Phoenix Initiative was open to the idea. "
+msgstr "[null]"
+
+msgctxt "DLC2 Necronomicon/KEY_LA_SECOND_SCENE1-3"
+msgid "During my days, things had changed considerably. "
+msgstr "[null]"
+
+msgctxt "DLC2 Necronomicon/KEY_LA_SECOND_SCENE1-4"
+msgid "Looking back now, I’m convinced it wasn’t by chance."
+msgstr "[null]"
+
+msgctxt "DLC2 Necronomicon/KEY_LA_SECOND_SCENE2-1"
+msgid "Orichalcum. Plato claimed it to be the gold of Atlantis, "
+msgstr "[null]"
+
+msgctxt "DLC2 Necronomicon/KEY_LA_SECOND_SCENE2-2"
+msgid "others claimed that it was a golden bronze alloy used by the Romans."
+msgstr "[null]"
+
+msgctxt "DLC2 Necronomicon/KEY_LA_SECOND_SCENE2-3"
+msgid "With organic components, and the ancients used it in their fight against a terrifying enemy."
+msgstr "[null]"
+
+msgctxt "DLC2 Necronomicon/KEY_LA_SECOND_SCENE2-4"
+msgid "It seems they we were wrong. The material is impossible to replicate or even analyze. "
+msgstr "[null]"
+
+msgctxt "DLC2 Necronomicon/KEY_LA_SECOND_SCENE2-5"
+msgid "The only thing we know for certain is that it’s a metal alloy with organic components, "
+msgstr "[null]"
+
+msgctxt "DLC2 Necronomicon/KEY_LA_SECOND_SCENE2-6"
+msgid "and the ancients used it in their fight against a terrifying enemy."
+msgstr "[null]"
+
+msgctxt "DLC2 Necronomicon/KEY_LA_SECOND_SCENE3-1"
+msgid "Tests show the material can affect mutated cells. "
+msgstr "[null]"
+
+msgctxt "DLC2 Necronomicon/KEY_LA_SECOND_SCENE3-2"
+msgid "We can use it for the construction of superior weapons to fight the Pandorans with. "
+msgstr "[null]"
+
+msgctxt "DLC2 Necronomicon/KEY_LA_SECOND_SCENE3-3"
+msgid "Not the most scientific approach, "
+msgstr "[null]"
+
+msgctxt "DLC2 Necronomicon/KEY_LA_SECOND_SCENE3-4"
+msgid "but after my spell in a New Jericho “research” center, I’ve learned to be flexible."
+msgstr "[null]"
+
+msgctxt "DLC2 Necronomicon/KEY_LA_SECOND_SCENE4-1"
+msgid "A word of warning; "
+msgstr "[null]"
+
+msgctxt "DLC2 Necronomicon/KEY_LA_SECOND_SCENE4-2"
+msgid "by discovering this site the Phoenix Project has become an even bigger target."
+msgstr "[null]"
+
+msgctxt "DLC2 Necronomicon/KEY_LA_SECOND_SCENE4-3"
+msgid "Both the Pandorans and the rest of humanity will want this ancient technology for themselves. "
+msgstr "[null]"
+
+msgctxt "DLC2 Necronomicon/KEY_LA_SECOND_SCENE4-4"
+msgid "Keep that in mind as we go forward."
+msgstr "[null]"
+
+msgctxt "DLC2 Necronomicon/KEY_LA_THIRD_SCENE1-1"
+msgid "Tobias was quite interested in my research at the beginning. "
+msgstr "[null]"
+
+msgctxt "DLC2 Necronomicon/KEY_LA_THIRD_SCENE1-2"
+msgid "He dreamt of finding a magical relic from the past that would save the world. "
+msgstr "[null]"
+
+msgctxt "DLC2 Necronomicon/KEY_LA_THIRD_SCENE1-3"
+msgid "Ironically, when the attempts brought the attention of the Pandorans he started having second thoughts."
+msgstr "[null]"
+
+msgctxt "DLC2 Necronomicon/KEY_LA_THIRD_SCENE2-1"
+msgid "The more I looked into it, "
+msgstr "[null]"
+
+msgctxt "DLC2 Necronomicon/KEY_LA_THIRD_SCENE2-2"
+msgid "the more I saw evidence that someone actively attempted to sabotage my Archeological Research facility."
+msgstr "[null]"
+
+msgctxt "DLC2 Necronomicon/KEY_LA_THIRD_SCENE2-3"
+msgid "Threats, mockery, unexpected accidents have accompanied me every step of the way,"
+msgstr "[null]"
+
+msgctxt "DLC2 Necronomicon/KEY_LA_THIRD_SCENE2-4"
+msgid "and when that didn’t stop us, the Pandorans started attacking."
+msgstr "[null]"
+
+msgctxt "DLC2 Necronomicon/KEY_LA_THIRD_SCENE3-1"
+msgid "Based on the findings, the Ancients used the facility to harvest mutane gas, "
+msgstr "[null]"
+
+msgctxt "DLC2 Necronomicon/KEY_LA_THIRD_SCENE3-2"
+msgid "transforming it into a liquid compound to be merged with alloys. "
+msgstr "[null]"
+
+msgctxt "DLC2 Necronomicon/KEY_LA_THIRD_SCENE3-3"
+msgid "I’ve still no idea what its original purpose was, "
+msgstr "[null]"
+
+msgctxt "DLC2 Necronomicon/KEY_LA_THIRD_SCENE3-4"
+msgid "but it can be used to upgrade equipment in the short run."
+msgstr "[null]"
+
+msgctxt "DLC2 Necronomicon/KEY_LA_THIRD_SCENE4-1"
+msgid "The Phoenix Project has done well so far, but a quick word of warning. "
+msgstr "[null]"
+
+msgctxt "DLC2 Necronomicon/KEY_LA_THIRD_SCENE4-2"
+msgid "It’s not so important who makes the discovery, but who gets to use it. "
+msgstr "[null]"
+
+msgctxt "DLC2 Necronomicon/KEY_LA_THIRD_SCENE4-3"
+msgid "I tried explaining that to Tobias West, but he failed to grasp the concept. Make sure that you do."
+msgstr "[null]"
+
+msgctxt "DLC2 Necronomicon/KEY_LA_FOURTH_SCENE1-1"
+msgid "The ancients valued their refining facilities far more than their cities. "
+msgstr "[null]"
+
+msgctxt "DLC2 Necronomicon/KEY_LA_FOURTH_SCENE1-2"
+msgid "The materials they produced undoubtedly were the basis of all their technology... "
+msgstr "[null]"
+
+msgctxt "DLC2 Necronomicon/KEY_LA_FOURTH_SCENE1-3"
+msgid "but I think they had a more urgent reason to have the refineries protected."
+msgstr "[null]"
+
+msgctxt "DLC2 Necronomicon/KEY_LA_FOURTH_SCENE2-1"
+msgid "Living crystals... for generations humanity has attempted to create a perfect power source. "
+msgstr "[null]"
+
+msgctxt "DLC2 Necronomicon/KEY_LA_FOURTH_SCENE2-2"
+msgid "The ancients succeeded in that, and more. "
+msgstr "[null]"
+
+msgctxt "DLC2 Necronomicon/KEY_LA_FOURTH_SCENE2-3"
+msgid "New Jericho believed the samples I uncovered to be some ancient battery. "
+msgstr "[null]"
+
+msgctxt "DLC2 Necronomicon/KEY_LA_FOURTH_SCENE2-4"
+msgid "From what we’ve found I’m certain they were wrong."
+msgstr "[null]"
+
+msgctxt "DLC2 Necronomicon/KEY_LA_FOURTH_SCENE3-1"
+msgid "Analyses remain inconclusive, but we know that the living crystals are indeed a source of power, "
+msgstr "[null]"
+
+msgctxt "DLC2 Necronomicon/KEY_LA_FOURTH_SCENE3-2"
+msgid "and potentially a destructive power."
+msgstr "[null]"
+
+msgctxt "DLC2 Necronomicon/KEY_LA_FOURTH_SCENE3-3"
+msgid "Experiments have shown that prolonged exposure is capable of killing the Pandoravirus and mutated cells, "
+msgstr "[null]"
+
+msgctxt "DLC2 Necronomicon/KEY_LA_FOURTH_SCENE3-4"
+msgid "as well as entire Pandoran organisms. Human cells don’t start showing signs until hours later."
+msgstr "[null]"
+
+msgctxt "DLC2 Necronomicon/KEY_LA_FOURTH_SCENE4-1"
+msgid "Decades won't be enough to uncover their secrets. For now I'm certain of two things: "
+msgstr "[null]"
+
+msgctxt "DLC2 Necronomicon/KEY_LA_FOURTH_SCENE4-2"
+msgid "the ancients were biologically different from humans and they had defeated the Pandorans before. "
+msgstr "[null]"
+
+msgctxt "DLC2 Necronomicon/KEY_LA_FOURTH_SCENE4-3"
+msgid "One question remains, though... where does humanity stand in all this?"
+msgstr "[null]"
+
+msgctxt "DLC2 Necronomicon/KEY_LA_FIFTH_SCENE1-1"
+msgid "It has taken us decades. "
+msgstr "[null]"
+
+msgctxt "DLC2 Necronomicon/KEY_LA_FIFTH_SCENE1-2"
+msgid "Randolph's grandfather wasn’t the first to look into this ancient civilization."
+msgstr "[null]"
+
+msgctxt "DLC2 Necronomicon/KEY_LA_FIFTH_SCENE1-3"
+msgid "For centuries humanity has delved into the past, following myths in the hopes of obtaining knowledge. "
+msgstr "[null]"
+
+msgctxt "DLC2 Necronomicon/KEY_LA_FIFTH_SCENE1-4"
+msgid "Now through your help I have finally discovered the truth."
+msgstr "[null]"
+
+msgctxt "DLC2 Necronomicon/KEY_LA_FIFTH_SCENE2-1"
+msgid "It’s still unclear how the ancients appeared. "
+msgstr "[null]"
+
+msgctxt "DLC2 Necronomicon/KEY_LA_FIFTH_SCENE2-2"
+msgid "Maybe they evolved like us, or they arrived here from elsewhere in the galaxy. "
+msgstr "[null]"
+
+msgctxt "DLC2 Necronomicon/KEY_LA_FIFTH_SCENE2-3"
+msgid "What I now know with absolute certainty is that for millennia Earth was theirs."
+msgstr "[null]"
+
+msgctxt "DLC2 Necronomicon/KEY_LA_FIFTH_SCENE3-1"
+msgid "They constructed large cities and massive factories, "
+msgstr "[null]"
+
+msgctxt "DLC2 Necronomicon/KEY_LA_FIFTH_SCENE3-2"
+msgid "refineries to provide them with advanced technology and endless energy -"
+msgstr "[null]"
+
+msgctxt "DLC2 Necronomicon/KEY_LA_FIFTH_SCENE3-3"
+msgid "things humanity has dreamed about. But even that didn’t save them from invasion."
+msgstr "[null]"
+
+msgctxt "DLC2 Necronomicon/KEY_LA_FIFTH_SCENE4-1"
+msgid "It started like it did with us. "
+msgstr "[null]"
+
+msgctxt "DLC2 Necronomicon/KEY_LA_FIFTH_SCENE4-2"
+msgid "A new virus that attacked the natural world mutating everything it came in contact with. "
+msgstr "[null]"
+
+msgctxt "DLC2 Necronomicon/KEY_LA_FIFTH_SCENE4-3"
+msgid "The mutated creatures methodically attacked every city, guided by the alien entity residing on Yuggoth. "
+msgstr "[null]"
+
+msgctxt "DLC2 Necronomicon/KEY_LA_FIFTH_SCENE4-4"
+msgid "By the time the ancients had made the connection nine tenths of their world had fallen."
+msgstr "[null]"
+
+msgctxt "DLC2 Necronomicon/KEY_LA_FIFTH_SCENE5-1"
+msgid "That is when they devised the plan - "
+msgstr "[null]"
+
+msgctxt "DLC2 Necronomicon/KEY_LA_FIFTH_SCENE5-2"
+msgid "a weapon of unimaginable proportions that would destroy the invader on a global scale in one blow - "
+msgstr "[null]"
+
+msgctxt "DLC2 Necronomicon/KEY_LA_FIFTH_SCENE5-3"
+msgid "a bioengineered virophage missile system."
+msgstr "[null]"
+
+msgctxt "DLC2 Necronomicon/KEY_LA_FIFTH_SCENE6-1"
+msgid "The records I translated say that the weapon was completed. "
+msgstr "[null]"
+
+msgctxt "DLC2 Necronomicon/KEY_LA_FIFTH_SCENE6-2"
+msgid "I suspect it was launched, but in doing so the ancients purged not only the Pandorans, but themselves as well. "
+msgstr "[null]"
+
+msgctxt "DLC2 Necronomicon/KEY_LA_FIFTH_SCENE6-3"
+msgid "I estimate that over ninety percent of all organic life on Earth was destroyed as a result."
+msgstr "[null]"
+
+msgctxt "DLC2 Necronomicon/KEY_LA_FIFTH_SCENE7-1"
+msgid "Now it is time for the Phoenix Project to pick up the pieces and take the fight to the Pandorans. "
+msgstr "[null]"
+
+msgctxt "DLC2 Necronomicon/KEY_LA_FIFTH_SCENE7-2"
+msgid "I’ve helped you unlock all the puzzles of the ancients. "
+msgstr "[null]"
+
+msgctxt "DLC2 Necronomicon/KEY_LA_FIFTH_SCENE7-3"
+msgid "If we use the virophage again, "
+msgstr "[null]"
+
+msgctxt "DLC2 Necronomicon/KEY_LA_FIFTH_SCENE7-4"
+msgid "it must be better targeted to avoid our own extinction along with the Pandorans."
+msgstr "[null]"
+
+msgctxt "DLC2 Necronomicon/KEY_LA_FIFTH_SCENE7-5"
+msgid "It’s a desperate solution, but a proven one. Good luck, Phoenix. See you on the other side."
+msgstr "[null]"
+
+msgctxt "Darleth/KEY_TRADE_HAVEN"
+msgid "TRADE RESOURCES WITH {0}"
+msgstr "ÉCHANGER DES RESSOURCES AVEC {0}"
+
+msgctxt "Darleth/KEY_TRADE_SELECT"
+msgid "SELECT HAVEN RESOURCE"
+msgstr "SÉLECTIONNER RESSOURCE DU REFUGE"
+
+msgctxt "Darleth/KEY_TRADE_COSTS"
+msgid "COSTS"
+msgstr "COÛT"
+
+msgctxt "Darleth/KEY_TRADE_EXCHANGE"
+msgid "EXCHANGE"
+msgstr "ÉCHANGER"
+
+msgctxt "Darleth/KEY_TRADE_FOR"
+msgid "FOR"
+msgstr "CONTRE"
+
+msgctxt "Darleth/KEY_TRADE_PHOENIX"
+msgid "PHOENIX PROJECT RESOURCES"
+msgstr "RESSOURCES DU PROJET PHOENIX"
+
+msgctxt "Darleth/KEY_TRADE_NOTIFICATION"
+msgid "TRADE {0} FOR {1}"
+msgstr "ÉCHANGER {0} CONTRE {1}"
+
+msgctxt "Darleth/KEY_TRADE_INSUFFICIENT"
+msgid "NOT ENOUGH RESOURCES TO TRADE"
+msgstr "RESSOURCES INSUFFISANTES POUR L'ÉCHANGE"
 
 msgctxt "Danforth/KEY_OBJECTIVE_PICK_RESOURCES"
 msgid "RESOURCE PACKS COLLECTED: {0}/{1}"
@@ -750,725 +2166,369 @@ msgctxt "Danforth/KEY_MESSAGE_NO_SPACE_INVENTORY"
 msgid "No space in inventory"
 msgstr "Aucun espace dans l'inventaire."
 
-msgctxt "Darleth/KEY_TRADE_HAVEN"
-msgid "TRADE RESOURCES WITH {0}"
-msgstr "ÉCHANGER DES RESSOURCES AVEC {0}"
-
-msgctxt "Darleth/KEY_TRADE_SELECT"
-msgid "SELECT HAVEN RESOURCE"
-msgstr "SÉLECTIONNER RESSOURCE DU REFUGE"
-
-msgctxt "Darleth/KEY_TRADE_COSTS"
-msgid "COSTS"
-msgstr "COÛT"
-
-msgctxt "Darleth/KEY_TRADE_EXCHANGE"
-msgid "EXCHANGE"
-msgstr "ÉCHANGER"
-
-msgctxt "Darleth/KEY_TRADE_FOR"
-msgid "FOR"
-msgstr "CONTRE"
-
-msgctxt "Darleth/KEY_TRADE_PHOENIX"
-msgid "PHOENIX PROJECT RESOURCES"
-msgstr "RESSOURCES DU PROJET PHOENIX"
-
-msgctxt "Darleth/KEY_TRADE_NOTIFICATION"
-msgid "TRADE {0} FOR {1}"
-msgstr "ÉCHANGER {0} CONTRE {1}"
-
-msgctxt "Darleth/KEY_TRADE_INSUFFICIENT"
-msgid "NOT ENOUGH RESOURCES TO TRADE"
-msgstr "RESSOURCES INSUFFISANTES POUR L'ÉCHANGE"
-
-msgctxt "Blood Titanium/KEY_ITEM_TYPE_BIONIC"
-msgid "BIONIC"
-msgstr "BIONIQUE"
-
-msgctxt "Blood Titanium/KEY_NJ_EXO_BIO_HELMET_NAME2"
-msgid "Disruptor Head"
-msgstr "Tête perturbatrice"
-
-msgctxt "Blood Titanium/KEY_NJ_EXO_BIO_LEGS_NAME2"
-msgid "Propeller Legs"
-msgstr "Jambes de propulsion"
-
-msgctxt "Blood Titanium/KEY_NJ_EXO_BIO_TORSO_NAME2"
-msgid "Neural Torso"
-msgstr "Torse neural"
-
-msgctxt "Blood Titanium/KEY_SY_SHINOBI_BIO_HELMET_NAME2"
-msgid "Echo Head"
-msgstr "Tête d'écho"
-
-msgctxt "Blood Titanium/KEY_SY_SHINOBI_BIO_LEGS_NAME2"
-msgid "Mirage Legs"
-msgstr "Jambes de mirage"
-
-msgctxt "Blood Titanium/KEY_SY_SHINOBI_BIO_TORSO_NAME2"
-msgid "Vengeance Torso"
-msgstr "Torse de vengeance"
-
-msgctxt "Blood Titanium/KEY_NJ_JUGG_BIO_HELMET_NAME2"
-msgid "Clarity Head"
-msgstr "Tête de clarté"
-
-msgctxt "Blood Titanium/KEY_NJ_JUGG_BIO_LEGS_NAME2"
-msgid "Armadillo Legs"
-msgstr "Jambes de priodonte"
-
-msgctxt "Blood Titanium/KEY_NJ_JUGG_BIO_TORSO_NAME2"
-msgid "Juggernaut Torso"
-msgstr "Torse destructeur"
-
-msgctxt "Blood Titanium/KEY_NJ_EXO_BIO_HELMET_DESCRIPTION"
-msgid "New Jericho Will Disruption Head Augmentation"
-msgstr "Augmentation de tête perturbatrice de volonté de la Nouvelle-Jéricho"
-
-msgctxt "Blood Titanium/KEY_NJ_EXO_BIO_LEGS_DESCRIPTION"
-msgid "New Jericho Rocket Legs Augmentation"
-msgstr "Augmentation de jambes de propulsion de la Nouvelle-Jéricho"
-
-msgctxt "Blood Titanium/KEY_NJ_EXO_BIO_TORSO_DESCRIPTION"
-msgid "New Jericho Exoskeletal Torso Augmentation"
-msgstr "Augmentation de torse d'exosquelette de la Nouvelle-Jéricho"
-
-msgctxt "Blood Titanium/KEY_SY_SHINOBI_BIO_HELMET_DESCRIPTION"
-msgid "Synedrion Silent Echo Head Augmentation"
-msgstr "Augmentation de tête d'écho silencieux du Synédrion"
-
-msgctxt "Blood Titanium/KEY_SY_SHINOBI_BIO_LEGS_DESCRIPTION"
-msgid "Synedrion Anti-detection Legs Augmentation"
-msgstr "Augmentation de jambes anti-détection du Synédrion"
-
-msgctxt "Blood Titanium/KEY_SY_SHINOBI_BIO_TORSO_DESCRIPTION"
-msgid "Synedrion Melee Proficient Torso Augmentation"
-msgstr "Augmentation de torse de maîtrise au corps à corps du Synédrion"
-
-msgctxt "Blood Titanium/KEY_NJ_JUGG_BIO_HELMET_DESCRIPTION"
-msgid "New Jericho Control Resist Head Augmentation"
-msgstr "Augmentation de tête résistante au contrôle de la Nouvelle-Jéricho"
-
-msgctxt "Blood Titanium/KEY_NJ_JUGG_BIO_LEGS_DESCRIPTION"
-msgid "New Jericho Safe Landing Legs Augmentation"
-msgstr "Augmentation de jambes d'atterrissage sûr de la Nouvelle-Jéricho"
-
-msgctxt "Blood Titanium/KEY_NJ_JUGG_BIO_TORSO_DESCRIPTION"
-msgid "New Jericho Demolishing Torso Augmentation"
-msgstr "Augmentation de torse démolisseur de la Nouvelle-Jéricho"
-
-msgctxt "Blood Titanium/KEY_NJ_EXO_BIO_HELMET_LONG_DESCRIPTION"
-msgid "Created as an advanced targeting implant, the Disruptor head augmentation was gradually modified to use ultrasound emitters to disrupt enemy mind processes."
-msgstr "Créée en tant qu'implant de ciblage avancé, l'augmentation de tête perturbatrice a été progressivement modifiée pour utiliser des émetteurs ultrasons qui perturbent les processus mentaux de l'ennemi."
-
-msgctxt "Blood Titanium/KEY_NJ_EXO_BIO_LEGS_LONG_DESCRIPTION"
-msgid "Following the design of the Golem-B armor jetpack, the Propeller legs augmentation allows soldiers to traverse short distances flying over low obstacles on the way."
-msgstr "Suite à la conception du jetpack de l'armure du Golem-B, l'augmentation de jambes de propulsion permet aux soldats de parcourir de courtes distances en survolant des obstacles bas."
-
-msgctxt "Blood Titanium/KEY_NJ_EXO_BIO_TORSO_LONG_DESCRIPTION"
-msgid "A third generation exoskeleton rig that allows a soldier to attach any mounted weapons or mecharms to their frame, increasing their versatility in combat by seventy-nine percent."
-msgstr "Une troisième génération d'exosquelette qui permet au soldat de greffer n'importe quelle arme ou mecharms à sa structure, lui donnant une versatilité accrue de soixante-dix-neuf pour cent en combat."
-
-msgctxt "Blood Titanium/KEY_SY_SHINOBI_BIO_HELMET_LONG_DESCRIPTION"
-msgid "Based on Triton head physiology, the Echo head augment is able to produce a sound suppression field, making all weapons used by the soldier silent."
-msgstr "Basée sur la physiologie de la tête de Triton, l'augmentation Tête d'Écho est capable de produire un champ de suppression sonore qui rend toutes les armes utilisées par le soldat silencieuses."
-
-msgctxt "Blood Titanium/KEY_SY_SHINOBI_BIO_LEGS_LONG_DESCRIPTION"
-msgid "Designed for silent running, the Mirage legs allow soldiers to run through observed areas unnoticed without worrying about enemy Overwatch."
-msgstr "Conçues pour courir sans faire de bruit, les jambes Mirage permettent aux soldats de passer en courant dans des zones observées sans se faire détecter ni se préoccuper de la Vigilance de l'ennemi."
-
-msgctxt "Blood Titanium/KEY_SY_SHINOBI_BIO_TORSO_LONG_DESCRIPTION"
-msgid "The Vengeance torso augmentation focuses on close combat efficiency, allowing soldiers to use a range advanced martial techniques without prior melee combat proficiency."
-msgstr "L'augmentation de torse de vengeance est axée sur l'efficacité en combat rapproché et permet aux soldats d'utiliser une série de techniques martiales sophistiquées sans aucune maîtrise préalable du combat au corps à corps."
-
-msgctxt "Blood Titanium/KEY_NJ_JUGG_BIO_HELMET_LONG_DESCRIPTION"
-msgid "A massive head augmentation of reinforced titanium, the Clarity head provides complete protection to the soldier’s brain, while also isolating him from Pandoran mind control.[CR]"
-msgstr "Une augmentation énorme de la tête en titane renforcé, la tête de clarté fournit une protection complète du cerveau du soldat tout en l'isolant du contrôle mental des Pandoriens."
-
-msgctxt "Blood Titanium/KEY_NJ_JUGG_BIO_LEGS_LONG_DESCRIPTION"
-msgid "Based on advanced vehicle hydraulics, the Armadillo legs allow soldiers of up to three tons to land safely from fifty meters height absorbing the entire shock."
-msgstr "Basées sur le système hydraulique avancé du véhicule, les jambes Priodonte permettent aux soldats pesant jusqu'à trois tonnes d'atterrir en toute sécurité et d'absorber le choc d'un saut de cinquante mètres de haut."
-
-msgctxt "Blood Titanium/KEY_NJ_JUGG_BIO_TORSO_LONG_DESCRIPTION"
-msgid "Initially designed for space combat, the Juggernaut torso makes a person immune to the majority of physical attacks, while also allowing soldiers to breach through solid walls by walking through them."
-msgstr "Initialement conçu pour le combat spatial, le torse Destructeur immunise l'individu contre la majorité des attaques physiques, tout en permettant aux soldats de passer à travers des murs solides simplement en marchant."
-
-msgctxt "Blood Titanium/KEY_BASE_FACILITY_BIONICSLAB_NAME"
-msgid "CYBERNETICS LAB"
-msgstr "LABORATOIRE CYBERNÉTIQUE"
-
-msgctxt "Blood Titanium/KEY_BASE_WARNING_RESEARCH_BIONICSLAB"
-msgid "Destroying the Cybernetics Lab will decrease the amount of research points you produce per day. At least one Cybernetics Lab is required to modify your soldiers. Are you sure you want to proceed?"
-msgstr "Si vous détruisez le labo cybernétique, vous réduirez le nombre de points de recherche que vous produisez par jour. Il faut au moins un laboratoire cybernétique pour modifier vos soldats. Voulez-vous vraiment continuer ?"
-
-msgctxt "Blood Titanium/KEY_BASE_FACILITY_BIONICSLAB_DESCRIPTION"
-msgid "Allows soldiers to be augmented with bionic body parts, and produces research."
-msgstr "Permet aux soldats d'obtenir des parties du corps bioniques et produit des recherches."
-
-msgctxt "Blood Titanium/KEY_MIND_CONTROL_IMMUNITY_NAME"
-msgid "MIND CONTROL IMMUNITY"
-msgstr "IMMUNITÉ CONTRE LE CONTRÔLE MENTAL"
-
-msgctxt "Blood Titanium/KEY_MIND_CONTROL_IMMUNITY_DESCRIPTION"
-msgid "Immune to Mind Control."
-msgstr "Immunise contre le contrôle mental."
-
-msgctxt "Blood Titanium/KEY_STATUS_SILENCED"
-msgid "DISORIENTED"
-msgstr "DÉSORIENTATION"
-
-msgctxt "Blood Titanium/KEY_STATUS_SILENCED_DESCRIPTION"
-msgid "Cannot use Will Point abilities for 1 turn."
-msgstr "Ne peut pas utiliser de capacités à points de volonté pendant 1 tour."
-
-msgctxt "Blood Titanium/KEY_NEURAL_DISRUPTION_NAME"
-msgid "NEURAL DISRUPTION"
-msgstr "PERTURBATION NEURALE"
-
-msgctxt "Blood Titanium/KEY_NEURAL_DISRUPTION_DESCRIPTION"
-msgid "Disrupt target for 1 turn, causing it to become DISORIENTED and unable to use Will Point abilities."
-msgstr "Perturbe une cible pendant 1 tour, causant la DÉSORIENTATION et l'incapacité d'utiliser des capacités à points de volonté."
-
-msgctxt "Blood Titanium/KEY_SHINOBI_LEAP_NAME"
-msgid "ROCKET LEAP"
-msgstr "BOND PROPULSÉ"
-
-msgctxt "Blood Titanium/KEY_SHINOBI_LEAP_DESCRIPTION"
-msgid "Leap to target location."
-msgstr "Bondissez à l'emplacement cible."
-
-msgctxt "Blood Titanium/KEY_SHADOWSTEP_NAME"
-msgid "SHADOWSTEP"
-msgstr "PAS FEUTRÉS"
-
-msgctxt "Blood Titanium/KEY_SHADOWSTEP_DESCRIPTION"
-msgid "Does not activate enemy Overwatch."
-msgstr "N'active pas la Vigilance de l'ennemi."
-
-msgctxt "Blood Titanium/KEY_SAFE_LANDING_NAME"
-msgid "LANDING SHOCK ABSORPTION"
-msgstr "ABSORPTION DU CHOC D'ATTERRISSAGE"
-
-msgctxt "Blood Titanium/KEY_SAFE_LANDING_DESCRIPTION"
-msgid "No damage is suffered when landing from any height."
-msgstr "Aucun dégât subi à l'atterrissage de n'importe quelle hauteur."
-
-msgctxt "Blood Titanium/KEY_MARTIAL_ARTIST_NAME"
-msgid "COMBAT MATRIX"
-msgstr "MATRICE DE COMBAT"
-
-msgctxt "Blood Titanium/KEY_MARTIAL_ARTIST_DESCRIPTION"
-msgid "Melee attacks cost 1 AP less (to a minimum of 1 AP)."
-msgstr "Les attaques au corps à corps coûtent 1 PA de moins (au minimum de 1 PA)."
-
-msgctxt "Blood Titanium/KEY_MELEE_PROFICIENCY_NAME"
-msgid "MELEE WEAPON PROFICIENCY"
-msgstr "MAÎTRISE DES ARMES DE CONTACT"
-
-msgctxt "Blood Titanium/KEY_MELEE_PROFICIENCY_DESCRIPTION"
-msgid "Proficiency with Melee Weapons"
-msgstr "Maîtrise des armes de contact"
-
-msgctxt "Blood Titanium/KEY_FACTION_NAME_PURE"
-msgid "THE PURE"
-msgstr "LES PURS"
-
-msgctxt "Blood Titanium/KEY_FACTION_NAME_FALLEN"
-msgid "THE FORSAKEN"
-msgstr "LES REJETÉS"
-
-msgctxt "Blood Titanium/KEY_GEAR_UP"
-msgid "GEAR UP"
-msgstr "GEAR UP"
-
-msgctxt "Blood Titanium/KEY_BIONICS"
-msgid "BIONICS"
-msgstr "BIONIQUE"
-
-msgctxt "Blood Titanium/KEY_AUGMENTATIONS"
-msgid "AUGMENTATIONS"
-msgstr "AUGMENTATIONS"
-
-msgctxt "Blood Titanium/KEY_NUMBER_OF_AUGMENTATIONS"
-msgid "PLACEHOLDER"
-msgstr "PLACEHOLDER"
-
-msgctxt "Blood Titanium/KEY_FACTION_NAME_BANDITS"
-msgid "SCAVENGERS"
-msgstr "MARAUDEURS"
-
-msgctxt "Blood Titanium/KEY_AUGMENT"
-msgid "AUGMENTATION"
-msgstr "AUGMENTATION"
-
-msgctxt "Blood Titanium/KEY_REPAIR_BIONIC"
-msgid "REPAIR"
-msgstr "RÉPARER"
-
-msgctxt "Blood Titanium/KEY_SLOT_UNAVAILABLE_MUTATION"
-msgid "Enhancement impossible due to existing mutation."
-msgstr "Amélioration impossible en raison d'une mutation existante."
-
-msgctxt "Blood Titanium/KEY_SLOT_UNAVAILABLE_BIONIC"
-msgid "Enhancement impossible due to existing augmentation."
-msgstr "Amélioration impossible en raison d'une augmentation existante."
-
-msgctxt "Blood Titanium/KEY_AUMGENTATION_LIMIT"
-msgid "Safety limit reached. No further mutations or augmentations allowed."
-msgstr "Limite de sécurité atteinte. Aucune autre mutation ou augmentation autorisée."
-
-msgctxt "Blood Titanium/KEY_AUMGENTATION_ACTION"
-msgid "AUGMENT"
-msgstr "AUGMENTER"
-
-msgctxt "Blood Titanium/KEY_REPAIR_BIONIC_WARNING"
-msgid "Are you sure you want to repair this augmentation?"
-msgstr "Voulez-vous vraiment réparer cette augmentation ?"
-
-msgctxt "Blood Titanium/KEY_DEMOLITION_MAN_NAME"
-msgid "DEMOLITION STATE"
-msgstr "ÉTAT DE DÉMOLITION"
-
-msgctxt "Blood Titanium/KEY_DEMOLITION_MAN_DESCRIPTION"
-msgid "Breach walls and solid constructs by walking through them."
-msgstr "Détruisez les murs et les constructions solides simplement en passant à travers."
-
-msgctxt "Blood Titanium/KEY_DEPLOY_SHIELD_BIONIC_NAME"
-msgid "EXTEND SHIELD"
-msgstr "DÉPLOYER BOUCLIER"
-
-msgctxt "Blood Titanium/KEY_DEPLOY_SHIELD_BIONIC_DESCRIPTION"
-msgid "Extend an energy shield in a given direction"
-msgstr "Déployez un bouclier d'énergie dans une direction donnée."
-
-msgctxt "Blood Titanium/KEY_RETRIEVE_SHIELD_NAME"
-msgid "RETRACT SHIELD"
-msgstr "RÉTRACTER BOUCLIER"
-
-msgctxt "Blood Titanium/KEY_RETRIEVE_SHIELD_DESCRIPTION"
-msgid "Retract energy shield"
-msgstr "Rétractez le bouclier d'énergie."
-
-msgctxt "Blood Titanium/KEY_SHIELD_BIONIC_NAME"
-msgid "SHIELD"
-msgstr "BOUCLIER"
-
-msgctxt "Blood Titanium/KEY_SHIELD_BIONIC_DESCRIPTION"
-msgid "Energy Shield"
-msgstr "Bouclier d'énergie"
-
-msgctxt "Blood Titanium/KEY_REPAIR_KIT_NAME"
-msgid "REPAIR KIT"
-msgstr "KIT DE RÉPARATION"
-
-msgctxt "Blood Titanium/KEY_REPAIR_KIT_DESCRIPTION"
-msgid "Repairs {bodyparthealamount} Hit Points (augmented body parts only)."
-msgstr "Répare {bodyparthealamount} points de vie (parties du corps augmentées uniquement)."
-
-msgctxt "Blood Titanium/KEY_USE_REPAIR_KIT_NAME"
-msgid "USE REPAIR KIT"
-msgstr "UTILISER KIT DE RÉPARATION"
-
-msgctxt "Blood Titanium/KEY_USE_REPAIR_KIT_DESCRIPTION"
-msgid "Repair {bodyparthealamount} Hit Points (augmented body parts only)."
-msgstr "Répare {bodyparthealamount} points de vie (parties du corps augmentées uniquement)."
-
-msgctxt "Blood Titanium/KEY_SY_EMP_GRENADE_NAME"
-msgid "ZEUS GRENADE"
-msgstr "GRENADE DE ZEUS"
-
-msgctxt "Blood Titanium/KEY_SY_EMP_GRENADE_DESCRIPTION"
-msgid "Synedrion EMP Grenade"
-msgstr "Grenade EMP du Synédrion"
-
-msgctxt "Blood Titanium/KEY_DAMAGE_TYPE_EMP"
-msgid "EMP"
-msgstr "EMP"
-
-msgctxt "Blood Titanium/KEY_DAMAGE_TYPE_EMP_DESC"
-msgid "EMP damage only affects electronic devices (and Bionic augmentations)."
-msgstr "Les dégâts EMP affectent uniquement les dispositifs électroniques (et les augmentations bioniques)."
-
-msgctxt "Blood Titanium/KEY_DAMAGED_BIONIC_PART"
-msgid "Broken augmented body part."
-msgstr "Partie du corps augmentée cassée."
-
-msgctxt "Blood Titanium/KEY_PU_FIRST_SCENE1-1"
-msgid "Phoenix - if you are receiving this message, then respond on the secure channel I have provided. "
-msgstr "Phoenix - si vous recevez ce message, répondez sur le canal sécurisé que j'ai fourni."
-
-msgctxt "Blood Titanium/KEY_PU_FIRST_SCENE1-2"
-msgid "It is essential that the information I am about to give you is kept confidential."
-msgstr "Il est essentiel que les informations que je suis sur le point de vous donner restent confidentielles."
-
-msgctxt "Blood Titanium/KEY_PU_FIRST_SCENE1-3"
-msgid "My name is not important now - but I am known among the Pure as Subject 24 - "
-msgstr "Mon nom importe peu à présent, mais les Purs m'appellent Sujet 24."
-
-msgctxt "Blood Titanium/KEY_PU_FIRST_SCENE1-4"
-msgid "the 24th volunteer in a program set up by Tobias West that gave us hope. "
-msgstr "Le 24e volontaire dans un programme mis en œuvre par Tobias West qui nous avait donné espoir."
-
-msgctxt "Blood Titanium/KEY_PU_FIRST_SCENE1-5"
-msgid "We had a solution. A SOLUTION! "
-msgstr "Nous avions une solution. UNE SOLUTION !"
-
-msgctxt "Blood Titanium/KEY_PU_FIRST_SCENE1-6"
-msgid "A secret program that would fix the world. And in the final moment he backed down. "
-msgstr "Un programme secret qui réparerait le monde. Et au dernier moment, il a fait marche arrière."
-
-msgctxt "Blood Titanium/KEY_PU_FIRST_SCENE1-7"
-msgid "Nothing prepared me for his treachery - his selfish, cowardice - "
-msgstr "Je ne m'étais pas du tout préparé à cette trahison – son égoïsme, sa lâcheté –"
-
-msgctxt "Blood Titanium/KEY_PU_FIRST_SCENE1-8"
-msgid "but his attempts to erase us have failed ... failed."
-msgstr "mais ses tentatives visant à nous effacer ont échoué... échoué."
-
-msgctxt "Blood Titanium/KEY_PU_FIRST_SCENE2-1"
-msgid "It was known as Project Purity - "
-msgstr "C'était connu comme le Projet Pureté –"
-
-msgctxt "Blood Titanium/KEY_PU_FIRST_SCENE2-2"
-msgid "one man's dream of replacing every inch of human flesh with neurally controlled prosthetics."
-msgstr "le rêve d'un homme de remplacer chaque centimètre de chair humaine par des prothèses contrôlées par des neurones."
-
-msgctxt "Blood Titanium/KEY_PU_FIRST_SCENE2-3"
-msgid "When I volunteered for the project I had nothing left. "
-msgstr "Lorsque je me suis porté volontaire pour le projet, je n'avais plus rien."
-
-msgctxt "Blood Titanium/KEY_PU_FIRST_SCENE2-4"
-msgid "My entire family... ENTIRE FAMILY! ... had succumbed to the Pandoravirus. "
-msgstr "Toute ma famille... MA FAMILLE !... avait succombé au Pandoravirus."
-
-msgctxt "Blood Titanium/KEY_PU_FIRST_SCENE2-5"
-msgid "I watched my wife through bulletproof glass as she slowly turned into an abomination. "
-msgstr "J'ai regardé mon épouse à travers le verre pare-balles se transformer lentement en abomination."
-
-msgctxt "Blood Titanium/KEY_PU_FIRST_SCENE2-6"
-msgid "ABOMINATIONS! They're everywhere, waiting, watching! I had nothing left to lose."
-msgstr "DES ABOMINATIONS ! Ils sont partout, ils attendent, ils observent ! Je n'avais plus rien à perdre."
-
-msgctxt "Blood Titanium/KEY_PU_FIRST_SCENE2-7"
-msgid "Along with many other brave men and women, I put myself forwards."
-msgstr "Aux côtés d'autres hommes et femmes courageux, je me suis porté volontaire."
-
-msgctxt "Blood Titanium/KEY_PU_FIRST_SCENE2-8"
-msgid "A lot was sacrificed. He pushed us to the limit. "
-msgstr "Les sacrifices furent nombreux. Il nous a poussés à notre limite."
-
-msgctxt "Blood Titanium/KEY_PU_FIRST_SCENE2-9"
-msgid "Dozens of us died or were left crippled… and we came close to success."
-msgstr "Des dizaines sont morts ou ont été paralysés... et nous avons frôlé le succès."
-
-msgctxt "Blood Titanium/KEY_PU_FIRST_SCENE3-1"
-msgid "The Juggernaut warrior was the final design. More than a soldier. "
-msgstr "Le guerrier Destructeur était le dernier design. Plus qu'un soldat."
-
-msgctxt "Blood Titanium/KEY_PU_FIRST_SCENE3-2"
-msgid "More than a human - with titanium skin impervious to infection - perfectly pure... "
-msgstr "Plus qu'un humain – avec une peau en titane insensible à l'infection – d'une pureté parfaite..."
-
-msgctxt "Blood Titanium/KEY_PU_FIRST_SCENE3-3"
-msgid "PURE! Pure as a smile in winter... as a human should be."
-msgstr "PUR ! Pur comme un sourire en hiver... comme un humain devrait l'être."
-
-msgctxt "Blood Titanium/KEY_PU_FIRST_SCENE3-4"
-msgid "There were problems - total encapsulation created some ... "
-msgstr "Il y a eu des problèmes – la totale encapsulation a créé..."
-
-msgctxt "Blood Titanium/KEY_PU_FIRST_SCENE3-5"
-msgid "mental instability ... hallucinations ... dreams. Not everybody could take it, "
-msgstr "une instabilité mentale... des hallucinations... des rêves. Tout le monde ne pouvait pas le supporter,"
-
-msgctxt "Blood Titanium/KEY_PU_FIRST_SCENE3-6"
-msgid "but there was no shortage of volunteers to take the program forwards."
-msgstr "mais on ne manquait pas de volontaires pour faire avancer le programme."
-
-msgctxt "Blood Titanium/KEY_PU_FIRST_SCENE3-7"
-msgid "And then Tobias West - the coward, THE TRAITOR, the small minded charlatan - pulled the plug."
-msgstr "Puis Tobias West – le lâche, LE TRAÎTRE, le charlatan mesquin – y a coupé court."
-
-msgctxt "Blood Titanium/KEY_PU_FIRST_SCENE4-1"
-msgid "Terrified of what he couldn’t understand,"
-msgstr "Terrifié de ce qu'il ne comprenait pas,"
-
-msgctxt "Blood Titanium/KEY_PU_FIRST_SCENE4-2"
-msgid "the “great leader” ordered everyone involved with the project killed …. KILLED!"
-msgstr "le « grand chef » a ordonné que toutes les personnes impliquées dans le projet soient éliminées... ÉLIMINÉES !"
-
-msgctxt "Blood Titanium/KEY_PU_FIRST_SCENE4-3"
-msgid "Maybe he thought that if he buried us, he’d bury the truth of his shame along with us. "
-msgstr "Il pensait peut-être que s'il nous enterrait, il enterrerait la vérité de sa honte avec nous."
-
-msgctxt "Blood Titanium/KEY_PU_FIRST_SCENE4-4"
-msgid "HIS SHAME! But we fought back."
-msgstr "SA HONTE ! Mais nous nous sommes défendus."
-
-msgctxt "Blood Titanium/KEY_PU_FIRST_SCENE4-5"
-msgid "I and several others managed to escape. "
-msgstr "Moi et quelques autres avons réussi à nous échapper."
-
-msgctxt "Blood Titanium/KEY_PU_FIRST_SCENE4-6"
-msgid "For years we remained silent, hiding, running, waiting for the right moment … the right moment."
-msgstr "Pendant des années, nous avons gardé le silence, nous nous sommes cachés, nous avons fui, nous avons attendu le bon moment... le bon moment."
-
-msgctxt "Blood Titanium/KEY_PU_FIRST_SCENE4-7"
-msgid "And that moment has come - HAS COME!"
-msgstr "Et ce moment est arrivé – EST ARRIVÉ !"
-
-msgctxt "Blood Titanium/KEY_PU_FIRST_SCENE5-1"
-msgid "Facing a losing battle against the Pandoravirus, "
-msgstr "Devant une bataille perdue d'avance contre le Pandoravirus,"
-
-msgctxt "Blood Titanium/KEY_PU_FIRST_SCENE5-2"
-msgid "the weak-minded West has reactivated the old Project Purity facilities, and that makes him vulnerable."
-msgstr "le faible West a réactivé les anciennes installations du Projet Pureté, et c'est ce qui l'a rendu vulnérable."
-
-msgctxt "Blood Titanium/KEY_PU_FIRST_SCENE5-3"
-msgid "Phoenix - I am offering you an exchange. "
-msgstr "Phoenix – Je vous propose un échange."
-
-msgctxt "Blood Titanium/KEY_PU_FIRST_SCENE5-4"
-msgid "I know the location of the facility, and how to get in. "
-msgstr "Je sais où cette installation se trouve et comment entrer."
-
-msgctxt "Blood Titanium/KEY_PU_FIRST_SCENE5-5"
-msgid "You have the firepower. THE POWER! Hailstorms of fire and acid! Raid the lab, and share the tech with us."
-msgstr "Vous avez la puissance des armes. LA PUISSANCE ! Des tempêtes de feu et d'acide ! Attaquez le laboratoire et partagez la technologie avec nous."
-
-msgctxt "Blood Titanium/KEY_PU_FIRST_SCENE5-6"
-msgid "All this time in hiding has left us damaged and in need of urgent repairs."
-msgstr "Tout ce temps passé à nous cacher nous a laissés endommagés et nous avons besoin de réparations urgentes."
-
-msgctxt "Blood Titanium/KEY_PU_FIRST_SCENE5-7"
-msgid "If you succeed we will both gain - humanity will gain."
-msgstr "Si vous réussissez, nous y trouverons tous notre compte – l'humanité y trouvera son compte."
-
-msgctxt "Blood Titanium/KEY_PU_FIRST_SCENE5-8"
-msgid "We are the Pure. THE PURE! We are the future. Help us Phoenix. Help our species."
-msgstr "Nous sommes les Purs. LES PURS ! Nous sommes le futur. Aidez-nous Phoenix. Aidez notre espèce."
-
-msgctxt "Blood Titanium/KEY_PU_THREE_SCENE1-1"
-msgid "Smart move, Mikhail. Your betrayal of Synedrion will bring benefits to both of us. "
-msgstr "Bonne décision, Mikhail. En trahissant le Synédrion, nous obtiendrons tous deux des avantages."
-
-msgctxt "Blood Titanium/KEY_PU_THREE_SCENE1-2"
-msgid "The Malthusian faction never belonging with those deluded... DELUDED... idealists anyway."
-msgstr "La faction malthusienne ne se range jamais aux côtés de ces idéalistes avec leurs illusions... ILLUSIONS."
-
-msgctxt "Blood Titanium/KEY_PU_THREE_SCENE1-3"
-msgid "Like the Phoenix Project, they cannot understand the true horrors... THE HORRORS... of the world, "
-msgstr "Tout comme le Projet Phoenix, ils ne peuvent pas comprendre les véritables horreurs... LES HORREURS... du monde,"
-
-msgctxt "Blood Titanium/KEY_PU_THREE_SCENE1-4"
-msgid "because they’ve never seen it."
-msgstr "parce qu'ils ne les ont jamais vues."
-
-msgctxt "Blood Titanium/KEY_PU_THREE_SCENE1-5"
-msgid "The misguided dreams they surround themselves with are dangerous - leading humanity to a dead end."
-msgstr "Les rêves malavisés desquels ils s'entourent sont dangereux – ils mènent l'humanité à l'impasse."
-
-msgctxt "Blood Titanium/KEY_PU_THREE_SCENE1-6"
-msgid "For the sake of the future, they must be exterminated. EXTERMINATED! Again and again and again!"
-msgstr "Pour le bien du futur, ils doivent être exterminés. EXTERMINÉS ! Encore et encore !"
-
-msgctxt "Blood Titanium/KEY_PU_THREE_SCENE1-7"
-msgid "You, though, have shown us that you have what it takes to begin anew."
-msgstr "Vous, par contre, vous nous avez montré que vous êtes à la hauteur pour tout recommencer."
-
-msgctxt "Blood Titanium/KEY_PU_THREE_SCENE2-1"
-msgid "It’s almost impressive how well Synedrion scientists have adapted New Jericho’s technology."
-msgstr "C'est presque impressionnant de voir que les scientifiques du Synédrion ont si bien réussi à adapter la technologie de la Nouvelle-Jéricho."
-
-msgctxt "Blood Titanium/KEY_PU_THREE_SCENE2-2"
-msgid "In a few months they’ve achieved more than West could in decades."
-msgstr "En quelques mois, ils ont réalisé plus que West pendant des dizaines d'années."
-
-msgctxt "Blood Titanium/KEY_PU_THREE_SCENE2-3"
-msgid "And still those that lead them suffer from the same fallacy as he did ... as he did! "
-msgstr "Et pourtant, ceux qui sont à leur tête font la même erreur que lui... que lui !"
-
-msgctxt "Blood Titanium/KEY_PU_THREE_SCENE2-4"
-msgid "They are not prepared for total conversion - abandoning flesh to embrace the machine."
-msgstr "Ils ne sont pas prêts pour une conversion totale – pour abandonner la chair qui enveloppe la machine."
-
-msgctxt "Blood Titanium/KEY_PU_THREE_SCENE3-1"
-msgid "You have twenty-four hours to remove your conspirators from the research area."
-msgstr "Vous avez vingt-quatre heures pour évacuer vos conspirateurs de la zone de recherche."
-
-msgctxt "Blood Titanium/KEY_PU_THREE_SCENE3-2"
-msgid "When we attack, all will be gunned down. GUNNED DOWN!"
-msgstr "Lorsque nous attaquerons, ils seront tous abattus. ABATTUS !"
-
-msgctxt "Blood Titanium/KEY_PU_THREE_SCENE3-3"
-msgid "After that the second renaissance will begin. Beginning and end. Alpha and Omega."
-msgstr "Ensuite, la deuxième reconnaissance débutera. Début et fin. Alpha et Oméga."
-
-msgctxt "Blood Titanium/KEY_PU_THREE_SCENE3-4"
-msgid "You’ll have your chance to break from Synedrion, "
-msgstr "Vous aurez l'occasion de vous détacher du Synédrion,"
-
-msgctxt "Blood Titanium/KEY_PU_THREE_SCENE3-5"
-msgid "and Tobias West, and the other cowards will be purged away."
-msgstr "et Tobias West, et les autres lâches seront purgés."
-
-msgctxt "Blood Titanium/KEY_PU_THREE_SCENE4-1"
-msgid "Just don’t try to cross us, Mikhail!"
-msgstr "N'essayez pas de contrecarrer nos plans, Mikhail !"
-
-msgctxt "Blood Titanium/KEY_PU_THREE_SCENE4-2"
-msgid "If this turns out to be a trap... TRAP... we’ll still get the technology... "
-msgstr "S'il s'avère que c'est un piège... PIÈGE... nous récupérerons quand même la technologie..."
-
-msgctxt "Blood Titanium/KEY_PU_THREE_SCENE4-3"
-msgid "and the Malthusians will be added to the extinction list!"
-msgstr "et les Malthusiens seront ajoutés à la liste d'extermination !"
-
-msgctxt "Blood Titanium/KEY_PU_FOUR_SCENE1-1"
-msgid "This is a message for the Phoenix Project."
-msgstr "Ceci est un message pour le Projet Phoenix."
-
-msgctxt "Blood Titanium/KEY_PU_FOUR_SCENE1-2"
-msgid "I thought you had what it takes. A Phoenix rising from the ashes. THE ASHES."
-msgstr "Je pensais que vous étiez à la hauteur. Un phénix renaissant de ses cendres. SES CENDRES."
-
-msgctxt "Blood Titanium/KEY_PU_FOUR_SCENE1-3"
-msgid "Ashes to ashes. Nothing but a myth."
-msgstr "Tu es poussière et tu retourneras dans la poussière. Ce n'est qu'un mythe."
-
-msgctxt "Blood Titanium/KEY_PU_FOUR_SCENE1-4"
-msgid "You have struggled with stupidity at every turn, suffered betrayals - BETRAYALS -"
-msgstr "Vous avez dû faire avec la stupidité à chaque instant, vous avez encaissé les trahisons – LES TRAHISONS –"
-
-msgctxt "Blood Titanium/KEY_PU_FOUR_SCENE1-5"
-msgid "that brought humanity to the brink of extinction, yet you can't see the obvious:"
-msgstr "qui ont mené l'humanité au bord de l'extinction, mais vous ne voyez toujours pas ce qui est devant vous :"
-
-msgctxt "Blood Titanium/KEY_PU_FOUR_SCENE1-6"
-msgid "humanity cannot be saved without total transformation - WITHOUT - TOTAL - TRANSFORMATION -"
-msgstr "l'humanité ne peut pas être sauvée sans une transformation totale – SANS – UNE TRANSFORMATION – TOTALE –"
-
-msgctxt "Blood Titanium/KEY_PU_FOUR_SCENE1-7"
-msgid "without becoming pure ...  Pure ... PURE!"
-msgstr "Sans devenir pure... Pure... PURE !"
-
-msgctxt "Blood Titanium/KEY_PU_FOUR_SCENE2-1"
-msgid "Who do you think the saviour should be?"
-msgstr "Qui devrait être le sauveur, à votre avis ?"
-
-msgctxt "Blood Titanium/KEY_PU_FOUR_SCENE2-2"
-msgid "WEST?! The coward West hiding behind his walls?"
-msgstr "WEST ?! Le lâche de West qui se cache derrière ses remparts ?"
-
-msgctxt "Blood Titanium/KEY_PU_FOUR_SCENE2-3"
-msgid "The abominations that spread the disease?"
-msgstr "Les abominations qui propagent la maladie ?"
-
-msgctxt "Blood Titanium/KEY_PU_FOUR_SCENE2-4"
-msgid "Or the idiots who think we should embrace the infected and live with them as pets? PESTS?!"
-msgstr "Ou les idiots qui pensent que nous devrions accueillir les infectés à bras ouverts et en faire des animaux de compagnie ? DES PARASITES ?!"
-
-msgctxt "Blood Titanium/KEY_PU_FOUR_SCENE3-1"
-msgid "No!"
-msgstr "Non !"
-
-msgctxt "Blood Titanium/KEY_PU_FOUR_SCENE3-2"
-msgid "The PURE will cleanse the world and all flesh that opposes us will melt away! "
-msgstr "Les PURS vont purger le monde et toute la chair qui s'oppose à nous fondra !"
-
-msgctxt "Blood Titanium/KEY_PU_FOUR_SCENE3-3"
-msgid "The festering pits of rot and decay will be forgotten and a new order "
-msgstr "Les fosses de décomposition et de putréfaction seront oubliées et un nouvel ordre"
-
-msgctxt "Blood Titanium/KEY_PU_FOUR_SCENE3-4"
-msgid "forged from blood... BLOOD... and titanium will rise!"
-msgstr "sera forgé dans le sang... LE SANG... et ce sera l'ascension du titane !"
-
-msgctxt "Blood Titanium/KEY_PU_FOUR_SCENE3-5"
-msgid "If the Phoenix Project thinks it has the strength to stop us, that’s your foolish fantasy."
-msgstr "Si le Projet Phoenix pense avoir la force pour nous arrêter, vous rêvez et vous avez perdu la tête."
-
-msgctxt "Blood Titanium/KEY_PU_FOUR_SCENE3-6"
-msgid "You know where we are. Come if you dare. "
-msgstr "Vous savez où nous trouver. Venez si vous osez."
-
-msgctxt "Blood Titanium/KEY_VIRAL_MACHINE_GUN_NAME"
-msgid "VIRAL MACHINE GUN"
-msgstr "MITRAILLEUSE VIRALE"
-
-msgctxt "Blood Titanium/KEY_VIRAL_MACHINE_GUN_DESCRIPTION"
-msgid "VIRAL MACHINE GUN"
-msgstr "MITRAILLEUSE VIRALE"
-
-msgctxt "Blood Titanium/KEY_ARTHRON_ACID_GRENADE_ARM_NAME"
-msgid "ACID LAUNCHER ARM"
-msgstr "BRAS LANCEUR D'ACIDE"
-
-msgctxt "Blood Titanium/KEY_ARTHRON_ACID_GRENADE_ARM_DESCRIPTION"
-msgid "Organic Grenade Launcher"
-msgstr "Lance-grenades organique"
-
-msgctxt "Blood Titanium/KEY_CHIRON_TORSO_ACID_MORTAR_NAME"
-msgid "ACID ABDOMEN"
-msgstr "ABDOMEN CAUSTIQUE"
-
-msgctxt "Blood Titanium/KEY_CHIRON_TORSO_ACID_MORTAR_DESCRIPTION"
-msgid "ACID ABDOMEN"
-msgstr "ABDOMEN CAUSTIQUE"
-
-msgctxt "Blood Titanium/KEY_STATUS_DISABLED_ELECTRONIC_NAME"
-msgid "DISABLED"
-msgstr "DÉSACTIVÉ"
-
-msgctxt "Blood Titanium/KEY_STATUS_DISABLED_ELECTRONIC_DESCRIPTION"
-msgid "Body part disabled."
-msgstr "Partie du corps désactivée."
-
-msgctxt "Blood Titanium/KEY_BIONIC_AUGMENTATION_NAME"
-msgid "BIONIC AUGMENTATION"
-msgstr "AUGMENTATION BIONIQUE"
-
-msgctxt "Blood Titanium/KEY_BIONIC_AUGMENTATION_DESCRIPTION"
-msgid "Bleed immunity. Viral, Poison, and Paralysis resistance. Vulnerable to Acid."
-msgstr "Immunité contre le saignement. Résistance aux armes virales, au poison et à la paralysie. Vulnérable à l'acide."
-
-msgctxt "Blood Titanium/KEY_DISPLAY_ACTION_COST"
-msgid "ACTION COST:"
-msgstr "COÛT ACTION :"
-
-msgctxt "Blood Titanium/KEY_GEOSCAPE_PRODUCE_REPAIR_MATERIALS"
-msgid "Repair {item} for {0} Materials"
-msgstr "Réparer l'objet {item} pour {0} matériaux"
-
-msgctxt "Blood Titanium/KEY_GEOSCAPE_PRODUCE_REPAIR_BOTH"
-msgid "Repair {item} for {0} Materials and {1} Tech"
-msgstr "Réparer l'objet {item} pour {0} matériaux et {1} technologie(s)"
-
-msgctxt "Blood Titanium/KEY_BASE_INSUFFICENT_SPACE"
-msgid "Insufficient storage space. Build more Store facilities."
-msgstr "Espace de stockage insuffisant. Construisez davantage d'entrepôts."
-
-msgctxt "Blood Titanium/KEY_LOAD_DLC_REQUIRED"
-msgid "The following Downloadable Content is required to load this saved game: {0}[LF][LF]Do you want to go to the store and buy them?"
-msgstr "Le contenu téléchargeable suivant est nécessaire pour charger cette sauvegarde : {0}[LF][LF]Voulez-vous accéder au magasin pour l'acheter ?"
-
-msgctxt "Blood Titanium/KEY_TIMED_MISSION_COUNTER"
-msgid "{Objective} (ends in {time})"
-msgstr "{Objective} (prend fin dans {time})"
-
-msgctxt "Blood Titanium/KEY_TIMED_MISSION_ENDED"
-msgid "The times mission {0} has expired. No further actions regarding it are possible."
-msgstr "Le temps pour la mission {0} est écoulé. Aucune autre action n'est possible."
-
-msgctxt "Blood Titanium/KEY_TUTORIAL_TIMED_MISSIONS_NAME"
-msgid "Time Limited Events"
-msgstr "Événements limités dans le temps"
-
-msgctxt "Blood Titanium/KEY_TUTORIAL_TIMED_MISSIONS_DESCRIPTION"
-msgid "Timed limited events are time sensitive objectives that disappear after a set amount of time. If not completed within the time limit, the mission disappears and will not reappear for the remaining game."
-msgstr "Les événements limités dans le temps sont des objectifs qui disparaissent après un certain temps. S'ils ne sont pas atteints dans la limite du temps imparti, la mission disparaît et ne sera plus disponible pendant le reste de la partie."
+msgctxt "Cthulhu/KEY_BASE_PROMPT_HARVEST_ALIEN_FOR_FOOD"
+msgid "Kill the Pandoran {0} for {1} food?"
+msgstr "Éliminer l'ennemi pandorien {0} pour {1} aliment(s) ?"
+
+msgctxt "Cthulhu/KEY_BASE_PROMPT_HARVEST_ALIEN_FOR_MUTAGENS"
+msgid "Kill the Pandoran {0} for {1} mutagens?"
+msgstr "Éliminer l'ennemi pandorien {0} pour {1} mutagènes ?"
+
+msgctxt "Cthulhu/KEY_BASE_PROMPT_KILL_CAPTURED_ALIEN"
+msgid "Are you sure you want to kill the Pandoran {0}?"
+msgstr "Voulez-vous vraiment éliminer l'ennemi pandorien {0} ?"
+
+msgctxt "Cthulhu/KEY_BASE_PROMPT_HARVEST_ALIEN_FOR_FOOD_RESULT"
+msgid "{0} has been killed for {1} food"
+msgstr "L'ennemi {0} a été éliminé pour {1} aliment(s)"
+
+msgctxt "Cthulhu/KEY_BASE_PROMPT_HARVEST_ALIEN_FOR_MUTAGENS_RESULT"
+msgid "{0} has been killed for {1} mutagens"
+msgstr "L'ennemi {0} a été éliminé pour {1} mutagènes"
+
+msgctxt "Cthulhu/KEY_BASE_PROMPT_KILL_CAPTURED_ALIEN_RESULT"
+msgid "{0} has been killed."
+msgstr "L'ennemi {0} a été éliminé."
+
+msgctxt "Cthulhu/KEY_TUTORIAL_BASE_ACTIVATION_NAME"
+msgid "BASE ACTIVATION"
+msgstr "ACTIVATION DE BASE"
+
+msgctxt "Cthulhu/KEY_TUTORIAL_BASE_ACTIVATION_DESCRIPTION"
+msgid "There are a number of inactive Phoenix bases spread throughout the world. In order to activate them, select the base on the geoscape and then select ACTIVATE BASE from the menu. Activation costs resources and the cost increases with each base activated.[LF][LF]There is an increasing possibility that bases will be infested after you activate them. You will need to send a squad to clear out the infestation before you can use the base."
+msgstr "Il existe un certain nombre de bases Phoenix inactives disséminées dans le monde. Pour les activer, sélectionnez la base dans le Geoscape, puis ACTIVER LA BASE dans le menu. L'activation a un coût en ressources, qui augmente avec chaque base activée.[LF][LF]Il existe une possibilité accrue que les bases soient infestées lorsque vous les activez. Vous devrez envoyer une escouade pour nettoyer l'infestation avant d'utiliser la base."
+
+msgctxt "Cthulhu/KEY_ALIEN_BASE_DISCOVERED"
+msgid "PANDORAN COLONY DETECTED"
+msgstr "COLONIE PANDORIENNE DÉTECTÉE"
+
+msgctxt "Cthulhu/KEY_PX_BASE_NAME_PROMPT"
+msgid "Give your base a unique name"
+msgstr "Donnez un nom unique à votre base"
+
+msgctxt "Cthulhu/KEY_FACILITY_LIMIT_WARNING"
+msgid "Cannot construct more than {0} {1} per base"
+msgstr "Impossible de construire plus de {0} {1} par base"
+
+msgctxt "Cthulhu/KEY_AREA_SCAN_LOADING"
+msgid "LOADING AREA SCAN..."
+msgstr "CHARGEMENT DU BALAYAGE DE ZONE..."
+
+msgctxt "Cthulhu/KEY_POP_METER_TT"
+msgid "Surviving human population in havens. If this falls below {0}% you will lose the game."
+msgstr "Population humaine survivant dans les refuges. Si ce chiffre descend en dessous de {0} %, vous perdrez la partie."
+
+msgctxt "Cthulhu/KEY_PANDORAN_RESEARCH_REPORT"
+msgid "PANDORAN INTELLIGENCE REPORT {0}/{1}"
+msgstr "RAPPORT SUR LA SITUATION PANDORIENNE {0}/{1}"
+
+msgctxt "Cthulhu/KEY_PANDORAN_RESEARCH_REPORT_DESC"
+msgid "Haven reports and scientific observations have identified new Pandoran mutations. The following analysis is available:"
+msgstr "Les rapports de refuge et les observations scientifiques ont identifié de nouvelles mutations de Pandoriens. L'analyse suivante est disponible :"
+
+msgctxt "Cthulhu/KEY_PANDORAN_RESEARCH_REPORT_SUMMARY"
+msgid "SUMMARY"
+msgstr "RÉSUMÉ"
+
+msgctxt "Cthulhu/KEY_PREVIOUS_ENTRY"
+msgid "PREVIOUS ENTRY"
+msgstr "ENTRÉE PRÉCÉDENTE"
+
+msgctxt "Cthulhu/KEY_NEXT_ENTRY"
+msgid "NEXT ENTRY"
+msgstr "ENTRÉE SUIVANTE"
+
+msgctxt "Cthulhu/KEY_MORE_INFO"
+msgid "DETAILED ANALYSIS"
+msgstr "ANALYSE DÉTAILLÉE"
+
+msgctxt "Cthulhu/KEY_CLOSE_INTELLIGENCE_REPORT"
+msgid "CLOSE INTELLIGENCE REPORT"
+msgstr "RAPPORT SUR LA SITUATION À PROXIMITÉ"
+
+msgctxt "Cthulhu/KEY_SCV_STANDARD_TT"
+msgid "Recover items from crates and escape"
+msgstr "Récupérer des objets dans les caisses et fuir"
+
+msgctxt "Cthulhu/KEY_SCV_RESCUE_VEHICLE_TT"
+msgid "Recover an abandoned vehicle"
+msgstr "Récupérer un véhicule abandonné"
+
+msgctxt "Cthulhu/KEY_SCV_RESCUE_SOLDIERS_TT"
+msgid "Rescue independent soldiers"
+msgstr "Secourir des soldats indépendants"
+
+msgctxt "Cthulhu/KEY_SCV_OVG_STANDARD_TT"
+msgid "Rich site - recover items from crates and escape"
+msgstr "Site riche - récupérer des objets dans les caisses et fuir"
+
+msgctxt "Cthulhu/KEY_SCV_OVG_RESCUE_VEHICLE_TT"
+msgid "Recover an abandoned vehicle and recover items from crates"
+msgstr "Récupérer un véhicule abandonné et les objets dans les caisses"
+
+msgctxt "Cthulhu/KEY_SCV_OVG_RESCUE_SOLDIERS_TT"
+msgid "Rescue experienced independent soldiers"
+msgstr "Secourir des soldats indépendants expérimentés"
+
+msgctxt "Cthulhu/KEY_OBJECTIVE_INFESTED_BASE"
+msgid "Clear base infestation"
+msgstr "Neutraliser l'infestation de la base"
+
+msgctxt "Cthulhu/KEY_INFESTESTATION_THREAT"
+msgid "Infestation chance"
+msgstr "Probabilité d'infestation"
+
+msgctxt "Cthulhu/KEY_INFESTESTATION_THREAT_DESC"
+msgid "After activation, an infested base will need to be cleared out by a squad before it can be used.[CR]"
+msgstr "Après l'activation, une base infestée devra être neutralisée par une escouade avant d'être utilisée."
+
+msgctxt "Cthulhu/KEY_CONSTRUCTED_FACILITIES"
+msgid "Constructed facilities"
+msgstr "Installations construites"
+
+msgctxt "Cthulhu/KEY_AVAILABLE_SLOTS"
+msgid "Available Slots"
+msgstr "Emplacements disponibles"
+
+msgctxt "Cthulhu/KEY_ACTIVATION_COST"
+msgid "ACTIVATION COST"
+msgstr "COÛT D'ACTIVATION"
+
+msgctxt "Cthulhu/KEY_TUTORIAL_PANDORAN_BASE_REVEALED_NAME"
+msgid "REVEALING PANDORAN COLONIES"
+msgstr "RÉVÉLER LES COLONIES PANDORIENNES"
+
+msgctxt "Cthulhu/KEY_TUTORIAL_PANDORAN_BASE_REVEALED_DESCRIPTION"
+msgid "Pandoran colonies have a chance to be revealed after a successful haven defense mission. The more times that a colony attacks, the greater the chance of it being revealed.[LF][LF]If a Pandoran colony attacks from within the scanning range of a Phoenix base, it will be revealed immediately.[LF]"
+msgstr "Il y a une possibilité de révéler les colonies pandoriennes après avoir réussi une mission de protection d'un refuge. Plus une colonie attaque, plus elle court le risque d'être révélée.[LF][LF]Si une colonie pandorienne attaque dans le rayon de balayage d'une base Phoenix, elles sera immédiatement révélée."
+
+msgctxt "Cthulhu/KEY_BASE_PANDORAN_BASE_REVEALED_NAME"
+msgid "PANDORAN ATTACK ANALYSIS"
+msgstr "ANALYSE D'ATTAQUE DE PANDORIEN"
+
+msgctxt "Cthulhu/KEY_BASE_PANDORAN_BASE_REVEALED_DESCRIPTION"
+msgid "Analysis of the Pandorans' behavior has revealed the location of their colony. A new {0} site is visible in the geoscape view and may now be targeted for attack."
+msgstr "L'analyse du comportement des Pandoriens a révélé l'emplacement de leur colonie. Un nouveau site de {0} est désormais visible sur le Geoscape et peut être ciblé pour une attaque."
+
+msgctxt "Cthulhu/KEY_BASE_PANDORAN_BASE_REVEALED_FAILED_DESCRIPTION"
+msgid "Analysis of the Pandoran’s movement patterns have failed to identify their origin. The exact location of the Pandoran Colony responsible for the attack remains unknown. If a colony attacks from within Phoenix Base scanning range, it would be detected immediately."
+msgstr "L'analyse des modèles de déplacement du Pandorien n'a pas réussi à identifier son origine. L'emplacement exact de la colonie responsable de l'attaque reste inconnu. Si une colonie attaque dans le rayon de balayage d'une base Phoenix, elles sera immédiatement détectée."
+
+msgctxt "Cthulhu/KEY_SKILLPOINTS_RESET"
+msgid "RESET SKILL POINTS"
+msgstr "RÉINITIALISER LES POINTS DE COMPÉTENCE"
+
+msgctxt "Cthulhu/KEY_TUTORIAL_SATELLITE_SCANNING_ORGANIC_NAME"
+msgid "Satellite Scanning"
+msgstr "Balayage satellite"
+
+msgctxt "Cthulhu/KEY_TUTORIAL_SATELLITE_SCANNING_ORGANIC_DESCRIPTION"
+msgid "SATELLITE SCANNING[LF][LF]A functioning Satellite Uplink in a base will begin to scan for sites around it, expanding its search area over time. Sites will be revealed with the \"\"?\"\" symbol, use your aircraft to EXPLORE them and find out what they are. [LF][LF]CONTACT EXPLORATION[LF][LF]When you reveal a haven, a number of other sites nearby will be located. The number of sites revealed this way depends on how large and important the haven is, and will tend to locate other havens belonging to the same faction. Some general exploration sites will also be located this way."
+msgstr "BALAYAGE SATELLITE[LF][LF]Un relais satellite opérationnel dans une base commencera le balayage pour trouver des sites autour de celle-ci, élargissant sa zone de recherche avec le temps. Les sites seront révélés avec le symbole « ? ». EXPLOREZ-LES à bord de votre vaisseau pour découvrir ce qu'ils sont.[LF][LF]EXPLORATION DE CONTACT[LF][LF]Lorsque vous révélez un refuge, d'autres sites à proximité seront localisés. Le nombre de sites révélés de cette façon dépend de la grandeur et de l'importance du refuge. D'autres refuges appartenant à la même faction auront tendance à être révélés aussi, tout comme des sites d'exploration générale."
+
+msgctxt "Cthulhu/KEY_GEOSCAPE_SCAN_AREA_COL"
+msgid "Scan Range:"
+msgstr "Rayon de balayage :"
+
+msgctxt "Cthulhu/KEY_GEOSCAPE_BASE_INFESTED"
+msgid "BASE INFESTED"
+msgstr "BASE INFESTÉE"
+
+msgctxt "Cthulhu/KEY_GEOSCAPE_BASE_FACILITIES_BUILT"
+msgid "Facilities built"
+msgstr "Installations construites"
+
+msgctxt "Cthulhu/KEY_GEOSCAPE_BASE_BUILDING_SLOTS"
+msgid "Free facility slots: {0}"
+msgstr "Emplacements d'installations libres : {0}"
+
+msgctxt "Cthulhu/KEY_GEOSCAPE_BASE_INFESTATION_THREAT_LOW"
+msgid "LOW"
+msgstr "FAIBLE"
+
+msgctxt "Cthulhu/KEY_GEOSCAPE_BASE_INFESTATION_THREAT_MEDIUM"
+msgid "MEDIUM"
+msgstr "MOYENNE"
+
+msgctxt "Cthulhu/KEY_GEOSCAPE_BASE_INFESTATION_THREAT_HIGH"
+msgid "HIGH"
+msgstr "ÉLEVÉE"
+
+msgctxt "Cthulhu/KEY_MISSION_PX_BASE_ACTIVATED_INFESTED_NAME"
+msgid "Base Infestation Warning!"
+msgstr "Avertissement d'infestation de la base !"
+
+msgctxt "Cthulhu/KEY_MISSION_PX_BASE_ACTIVATED_INFESTED_DESCRIPTION"
+msgid "The activation sequence has revealed intruders within the base! Send a squad to clear out the infestation so the base can be used."
+msgstr "La séquence d'activation a révélé des intrus dans la base ! Envoyez une escouade pour neutraliser l'infestation afin de pouvoir utiliser la base."
+
+msgctxt "Cthulhu/KEY_MISSION_PX_BASE_ACTIVATED_STANDARD_NAME"
+msgid "Phoenix Base Activated"
+msgstr "Base Phoenix activée"
+
+msgctxt "Cthulhu/KEY_MISSION_PX_BASE_ACTIVATED_STANDARD_DESCRIPTION"
+msgid "A Phoenix Base has been brought online. All systems are nominal, no threats detected. Damaged base facilities need to be repaired in order for them to be fully operational."
+msgstr "Une base Phoenix a été mise en ligne. Tous les systèmes sont nominaux, aucune menace détectée. Les installations endommagées doivent être réparées afin que la base soit complètement opérationnelle."
+
+msgctxt "Cthulhu/KEY_MISSION_PX_BASE_INFESTED_BRIEFING_NAME"
+msgid "CLEAR OUT THE INFESTATION"
+msgstr "NEUTRALISER L'INFESTATION"
+
+msgctxt "Cthulhu/KEY_MISSION_PX_BASE_INFESTED_BRIEFING_DESCRIPTION"
+msgid "Eliminate any Pandoran entities within the base and protect as many key structures as possible."
+msgstr "Éliminez toutes les entités pandoriennes de la base et protégez le plus de structures possibles."
+
+msgctxt "Cthulhu/KEY_MISSION_PX_BASE_ACTIVATED_INFESTED_VICTORY_NAME"
+msgid "BASE INFESTATION CLEARED"
+msgstr "INFESTATION DE LA BASE NEUTRALISÉE"
+
+msgctxt "Cthulhu/KEY_MISSION_PX_BASE_ACTIVATED_INFESTED_VICTORY_DESCRIPTION"
+msgid "Our forces have successfully eliminated the Pandoran intruders and the base is now operational."
+msgstr "Nos forces ont réussi à éliminer les intrus pandoriens et la base est désormais opérationnelle."
+
+msgctxt "Cthulhu/KEY_MISSION_PX_BASE_ACTIVATED_INFESTED_DEFEAT_NAME"
+msgid "FAILED TO CLEAR INFESTATION"
+msgstr "ÉCHEC DE LA NEUTRALISATION DE L'INFESTATION"
+
+msgctxt "Cthulhu/KEY_MISSION_PX_BASE_ACTIVATED_INFESTED_DEFEAT_DESCRIPTION"
+msgid "Our forces failed to secure the base and the infestation remains. We can make another attempt at a later time."
+msgstr "Nos forces n'ont pas réussi à sécuriser la base et l'infestation est toujours présente. Nous pouvons retenter ultérieurement."
+
+msgctxt "Cthulhu/KEY_NJ_ASSAULT_NAME"
+msgid "NEW JERICHO ASSAULT"
+msgstr "UNITÉ D'ASSAUT - NOUVELLE-JÉRICHO"
+
+msgctxt "Cthulhu/KEY_NJ_HEAVY_NAME"
+msgid "NEW JERICHO HEAVY"
+msgstr "MASTODONTE - NOUVELLE-JÉRICHO"
+
+msgctxt "Cthulhu/KEY_NJ_SNIPER_NAME"
+msgid "NEW JERICHO SNIPER"
+msgstr "TIREUR D'ÉLITE - NOUVELLE JÉRICHO"
+
+msgctxt "Cthulhu/KEY_NJ_TECHNICIAN_NAME"
+msgid "NEW JERICHO TECHNICIAN"
+msgstr "TECHNICIEN - NOUVELLE-JÉRICHO"
+
+msgctxt "Cthulhu/KEY_SY_ASSAULT_NAME"
+msgid "SYNEDRION ASSAULT"
+msgstr "UNITÉ D'ASSAUT - SYNÉDRION"
+
+msgctxt "Cthulhu/KEY_SY_SNIPER_NAME"
+msgid "SYNEDRION SNIPER"
+msgstr "TIREUR D'ÉLITE - SYNÉDRION"
+
+msgctxt "Cthulhu/KEY_SY_INFILTRATOR_NAME"
+msgid "SYNEDRION INFILTRATOR"
+msgstr "INFILTRÉ - SYNÉDRION"
+
+msgctxt "Cthulhu/KEY_AN_ASSAULT_NAME"
+msgid "DISCIPLES OF ANU ASSAULT"
+msgstr "UNITÉ D'ASSAUT - DISCIPLES D'ANU"
+
+msgctxt "Cthulhu/KEY_AN_BERSERKER_NAME"
+msgid "DISCIPLES OF ANU BERSERKER"
+msgstr "BERSERKER - DISCIPLES D'ANU"
+
+msgctxt "Cthulhu/KEY_AN_PRIEST_NAME"
+msgid "DISCIPLES OF ANU PRIEST"
+msgstr "PRÊTRE - DISCIPLES D'ANU"
+
+msgctxt "Cthulhu/KEY_BAN_ASSAULT_NAME"
+msgid "BANDIT ASSAULT"
+msgstr "UNITÉ D'ASSAUT - BANDITS"
+
+msgctxt "Cthulhu/KEY_BAN_HEAVY_NAME"
+msgid "BANDIT HEAVY"
+msgstr "MASTODONTE - BANDITS"
+
+msgctxt "Cthulhu/KEY_BAN_SNIPER_NAME"
+msgid "BANDIT SNIPER"
+msgstr "TIREUR D'ÉLITE - BANDITS"
+
+msgctxt "Cthulhu/KEY_PU_ASSAULT_NAME"
+msgid "PURE ASSAULT"
+msgstr "UNITÉ D'ASSAUT - PURS"
+
+msgctxt "Cthulhu/KEY_PU_HEAVY_NAME"
+msgid "PURE HEAVY"
+msgstr "MASTODONTE - PURS"
+
+msgctxt "Cthulhu/KEY_PU_SNIPER_NAME"
+msgid "PURE SNIPER"
+msgstr "TIREUR D'ÉLITÉ - PURS"
+
+msgctxt "Cthulhu/KEY_PU_TECHNICIAN_NAME"
+msgid "PURE TECHNICIAN"
+msgstr "TECHNICIEN - PURS"
+
+msgctxt "Cthulhu/KEY_PU_INFILTRATOR_NAME"
+msgid "PURE INFILTRATOR"
+msgstr "INFILTRÉ - PURS"
+
+msgctxt "Cthulhu/KEY_FK_ASSAULT_NAME"
+msgid "FORSAKEN ASSAULT"
+msgstr "UNITÉ D'ASSAUT - REJETÉS"
+
+msgctxt "Cthulhu/KEY_FK_BERSERKER_NAME"
+msgid "FORSAKEN BERSERKER"
+msgstr "BERSERKER - REJETÉS"
+
+msgctxt "Cthulhu/KEY_FK_PRIEST_NAME"
+msgid "FORSAKEN PRIEST"
+msgstr "PRÊTRE - REJETÉS"
+
+msgctxt "Cthulhu/KEY_ASSAULT_FILTER_TT"
+msgid "Assault class filter"
+msgstr "Filtre de classe unité d'assaut"
+
+msgctxt "Cthulhu/KEY_SNIPER_FILTER_TT"
+msgid "Sniper class filter"
+msgstr "Filtre de classe tireur d'élite"
+
+msgctxt "Cthulhu/KEY_HEAVY_FILTER_TT"
+msgid "Heavy class filter"
+msgstr "Filtre de classe mastodonte"
+
+msgctxt "Cthulhu/KEY_BERSERKER_FILTER_TT"
+msgid "Berserker class filter"
+msgstr "Filtre de classe berserker"
+
+msgctxt "Cthulhu/KEY_PRIEST_FILTER_TT"
+msgid "Priest class filter"
+msgstr "Filtre de classe prêtre"
+
+msgctxt "Cthulhu/KEY_INFILTRATOR_FILTER_TT"
+msgid "Infiltrator class filter"
+msgstr "Filtre de classe infiltré"
+
+msgctxt "Cthulhu/KEY_TECHNICIAN_FILTER_TT"
+msgid "Technician class filter"
+msgstr "Filtre de classe technicien"
+
+msgctxt "Cthulhu/KEY_OPTIONS_CUSTOMISABLE_SOLDIERS"
+msgid "RANDOM SOLDIER OUTFITS"
+msgstr "TENUES DE SOLDATS ALÉATOIRES"
+
+msgctxt "Cthulhu/KEY_RESEARCH_PANDORAN_SPECIES"
+msgid "SPECIES CLASSIFICATION"
+msgstr "CLASSIFICATION DES ESPÈCES"
+
+msgctxt "Cthulhu/KEY_CHARACTERNAME_SIRENPRAETORIAN"
+msgid "SIREN PRAETORIAN"
+msgstr "SIRÈNE PRAÉTORIENNE"
+
+msgctxt "Cthulhu/KEY_CHARACTERNAME_CHIRONASTERIA"
+msgid "CHIRON ASTERIA"
+msgstr "CHIRON ASTERIA"
+
+msgctxt "Cthulhu/KEY_GEOSCAPE_MESSAGE_HAVEN_ZONE_ATTRITION"
+msgid "Zone {0} in haven {2} ({1}) has fallen into disrepair"
+msgstr "La zone {0} du havre {2} ({1}) est tombée en ruine"
+
+msgctxt "Cthulhu/KEY_BASE_RECRUITS_AVAILABLE_1DAY"
+msgid "RECRUITS AVAILABLE IN 1 DAY"
+msgstr "RECRUES DISPONIBLES DANS 1 JOUR"
 
 msgctxt "Abilities/KEY_ACID_RESISTANCE_DESCRIPTION"
 msgid "Reduces effect of Acid Damage by half"
@@ -1479,8 +2539,8 @@ msgid "ACID RESISTANT"
 msgstr "RÉSISTANCE À L'ACIDE"
 
 msgctxt "Abilities/KEY_ARMOUR_BREAK_DESCRIPTION"
-msgid "The next attack deals 50 additional Shred Damage"
-msgstr "L'attaque suivante inflige 50 points supplémentaires de dégâts de déchiquetage."
+msgid "The next attack deals 30 additional Shred Damage"
+msgstr "L'attaque suivante inflige 30 points supplémentaires de dégâts de déchiquetage."
 
 msgctxt "Abilities/KEY_ARMOUR_BREAK_NAME"
 msgid "ARMOR BREAK"
@@ -1527,8 +2587,8 @@ msgid "BODY SLAM"
 msgstr "CHARGE VIOLENTE"
 
 msgctxt "Abilities/KEY_ADRENALINE_RUSH_DESCRIPTION"
-msgid "All abilities cost a maximum of 1 Action Point until the end of the turn with 50% accuracy penalty, but you cannot do anything that costs Will Points[LF]"
-msgstr "Toutes les capacités coûtent un maximum de 1 point d'action jusqu'à la fin du tour avec 50 % de pénalité de précision, mais vous ne pouvez faire aucune action qui consomme des points de volonté."
+msgid "All abilities cost a maximum of 1 Action Point until the end of the turn and you become dazed next turn."
+msgstr "Chaque capacité coûte un maximum de 1 point d'action jusqu'à la fin du tour et l'unité est étourdie au tour suivant."
 
 msgctxt "Abilities/KEY_ADRENALINE_RUSH_NAME"
 msgid "ADRENALINE RUSH"
@@ -1643,8 +2703,8 @@ msgid "EVACUATE"
 msgstr "ÉVACUER"
 
 msgctxt "Abilities/KEY_EXERTION_DESCRIPTION"
-msgid "Move to a target position within 75% of the normal movement range"
-msgstr "Accédez à une position cible dans 75 % du rayon normal de déplacement."
+msgid "Move up to half your movement range. Limited to 2 uses per turn."
+msgstr "Déplacez-vous dans la moitié du rayon normal de déplacement. Maximum 2 utilisations par tour."
 
 msgctxt "Abilities/KEY_EXERTION_NAME"
 msgid "DASH"
@@ -2223,16 +3283,24 @@ msgid "PSYCHIC WARD"
 msgstr "SERVICE PSYCHIQUE"
 
 msgctxt "Abilities/KEY_RAGE_BURST_DESCRIPTION"
-msgid "Shoot 5 times with 50% accuracy using a proficient, direct-fire weapon"
-msgstr "Effectuez 5 tirs avec 50 % de précision à l'aide d'une arme à projectiles directs maîtrisée."
+msgid "Shoot 5 times spread across an arc with a direct-fire weapon"
+msgstr "Tirez 5 fois en arc avec une arme à projectiles directs."
 
 msgctxt "Abilities/KEY_RAGE_BURST_NAME"
 msgid "RAGE BURST"
 msgstr "EXPLOSION DE RAGE"
 
+msgctxt "Abilities/KEY_ONSLAUGHT_DESCRIPTION"
+msgid "An ally within 10 tiles recovers 2 Action Points"
+msgstr "Un allié dans un rayon de 10 cases récupère 2 points d'action."
+
+msgctxt "Abilities/KEY_ONSLAUGHT_NAME"
+msgid "ONSLAUGHT"
+msgstr "OFFENSIVE"
+
 msgctxt "Abilities/KEY_RALLY_DESCRIPTION"
-msgid "Each ally recovers 1 Action Point. Limited to one use per turn."
-msgstr "Chaque allié récupère 1 point d'action. Limité à une utilisation par tour."
+msgid "Each ally within 10 tiles recovers 1 Action Point. Limited to one use per turn."
+msgstr "Chaque allié récupère 1 point d'action. Limité à une utilisation par tour."
 
 msgctxt "Abilities/KEY_RALLY_NAME"
 msgid "RALLY THE TROOPS"
@@ -2715,11 +3783,11 @@ msgid "WEAK SPOT"
 msgstr "POINT FAIBLE"
 
 msgctxt "Abilities/KEY_SNIPER_MARK_FOR_DEATH_DESCRIPTION"
-msgid "Mark an enemy target. Until end of turn all damage to that target is increased by 50%."
-msgstr "Marquez un ennemi. Jusqu'à la fin du tour, tous les dégâts de cette cible augmentent de 50 %."
+msgid "Mark an enemy target. Until the end of the turn, each hit from an attack or individual round gets +10 damage."
+msgstr "Marquez une cible ennemie. Chaque coup causé par une attaque ou un tir individuel inflige +10 points de dégâts jusqu'à la fin du tour."
 
 msgctxt "Abilities/KEY_SNIPER_MARK_FOR_DEATH_NAME"
-msgid "MARK FOR DEATH"
+msgid "MARKED FOR DEATH"
 msgstr "DÉSIGNÉ POUR MOURIR"
 
 msgctxt "Abilities/KEY_HEAVY_WARCRY_DESCRIPTION"
@@ -2779,8 +3847,8 @@ msgid "REMOTE DEPLOYMENT"
 msgstr "DÉPLOIEMENT À DISTANCE"
 
 msgctxt "Abilities/KEY_TECHNICIAN_ELECTRICAL_REINFORCEMENT_DESCRIPTION"
-msgid "All allies gain 20 temporary Armor for 1 turn"
-msgstr "Tous les alliés obtiennent 20 points d'armure temporaires pendant 1 tour."
+msgid "Give yourself and allies within 20 tiles a bonus of 20 armour for 1 turn. This effect does not stack."
+msgstr "Octroyez-vous et à vos alliés dans un rayon de 20 cases un bonus de 20 points d'armure pendant 1 tour. Cet effet n'est pas cumulable."
 
 msgctxt "Abilities/KEY_TECHNICIAN_ELECTRICAL_REINFORCEMENT_NAME"
 msgid "ELECTRIC REINFORCEMENT"
@@ -2987,8 +4055,8 @@ msgid "SHOOT SPIKE"
 msgstr "LANCER PIC"
 
 msgctxt "Abilities/KEY_USE_STIMPACK_DESCRIPTION"
-msgid "Instill Frenzy on target, increasing its Action points by 1 and Will Points by 2 for 2 turns."
-msgstr "Provoque la frénésie de la cible, lui octroyant 1 point d'action et 2 points de volonté supplémentaires pendant 2 tours."
+msgid "Instill Frenzy on target, increasing movement by 50% for 2 turns, with panic immunity"
+msgstr "Provoquez la frénésie de la cible, augmentant ses déplacements de 50 % pendant 2 tours, avec une immunité contre la panique"
 
 msgctxt "Abilities/KEY_USE_STIMPACK_NAME"
 msgid "USE STIMPACK"
@@ -3199,8 +4267,8 @@ msgid "RECKLESS"
 msgstr "INSOUCIANT"
 
 msgctxt "Abilities/KEY_RECKLESS_PERSONALTRACK_DESC"
-msgid "30% bonus damage dealt and -20% accuracy"
-msgstr "Bonus de 30 % de dommages infligés et - 20 % précision"
+msgid "20% bonus damage dealt and -20% accuracy"
+msgstr "Bonus de 20 % de dommages infligés et - 20 % précision"
 
 msgctxt "Abilities/KEY_RESOURCEFULL_PERSONALTRACK_NAME"
 msgid "RESOURCEFUL"
@@ -3215,16 +4283,16 @@ msgid "SELF DEFENSE SPECIALIST"
 msgstr "SPÉCIALISTE EN AUTODÉFENSE"
 
 msgctxt "Abilities/KEY_SELFDEFENSESPECIALIST_PERSONALTRACK_DESC"
-msgid "Gain PDW and Handgun proficiency with +20% damage dealt and +10 hearing range"
-msgstr "Obtiens la maîtrise des PDW et des Pistolets avec un bonus de +20% de dommage infligé et + 10 de portée auditive"
+msgid "Gain PDW and Handgun proficiency with +20% damage, +20% accuracy and +10 tiles hearing range"
+msgstr "Obtenez la maîtrise des PDW et des armes de poing avec +20 % de dégâts, +20 % de précision et +10 cases de portée de son"
 
 msgctxt "Abilities/KEY_STRONGMAN_PERSONALTRACK_NAME"
 msgid "STRONGMAN"
 msgstr "HOMME FORT"
 
 msgctxt "Abilities/KEY_STRONGMAN_PERSONALTRACK_DESC"
-msgid "Gain Heavy Weapons proficiency with +30% bonus damage and -10 perception"
-msgstr "Obtiens la maîtrise des Armes lourdes avec un bonus de + 30 % de dommages infligés et - 10 perception"
+msgid "Gain Heavy Weapons proficiency with +30% bonus damage, +30% accuracy and -10 perception"
+msgstr "Obtenez la maîtrise des armes lourdes avec +30 % de dégâts supplémentaires, +30 % de précision et 10 points de perception"
 
 msgctxt "Abilities/KEY_THIEF_PERSONALTRACK_NAME"
 msgid "THIEF"
@@ -3743,8 +4811,8 @@ msgid "Satellite Uplink"
 msgstr "Relais satellite"
 
 msgctxt "Tutorial/KEY_TUTORIAL_SATELLITE_DESCRIPTION"
-msgid "Satellite Uplinks allow Area Scans to be initiated from the base, revealing new sites of interest and providing constant information of changes in the area.[LF][LF]An Area Scan can only performed from a base. Once initiated the scanning zone will expand over time until it reaches its maximum range or is halted.[LF][LF]PERFORM AN AREA SCAN[LF]:LMB: on the Scan Area button, or select it with the gamepad cursor using :LTS: and press :A:."
-msgstr "Les relais satellites permettent d'effectuer des balayages de zones, qui peuvent révéler de nouveaux sites d'intérêt. Plus vous disposez de relais, plus vous pourrez effectuer de balayages.[LF][LF]Un balayage de zone peut uniquement être amorcé depuis un véhicule, centré sur l'emplacement choisi. La zone de balayage augmentera au fil du temps, révélant de nouveaux sites.[LF][LF]LANCER UN BALAYAGE DE ZONE[LF]:LMB: sur le bouton de balayage de zone, ou sélectionnez-le avec le curseur de la manette en utilisant :LTS: puis appuyez sur :A:."
+msgid "SATELLITE SCANNING[LF][LF]A functioning Satellite Uplink in a base will begin to scan for exploration sites around it, expanding its search area over time.[LF][LF]Exploration sites are identified with the \"\"?\"\" symbol, use your aircraft to EXPLORE them and find out what they are. [LF][LF]HAVEN CONTACT[LF][LF]When site exploration reveals a haven, a number of other sites nearby will be located. The number of sites revealed this way depends on how large and important the haven is, and will tend to locate other havens belonging to the same faction."
+msgstr "BALAYAGE SATELLITE[LF][LF]Un relais satellite opérationnel dans une base commencera le balayage pour trouver des sites d'exploration autour de celle-ci, élargissant sa zone de recherche avec le temps.[LF][LF]Les sites d'exploration sont identifiés avec le symbole « ? ». EXPLOREZ-LES à bord de votre vaisseau pour découvrir ce qu'ils sont.[LF][LF]CONTACT ENTRE REFUGES[LF][LF]Lorsqu'un site d'exploration révèle un refuge, d'autres sites à proximité sont localisés. Le nombre de sites révélés de cette façon dépend de la grandeur et de l'importance du refuge. D'autres refuges appartenant à la même faction auront tendance à être révélés aussi."
 
 msgctxt "Tutorial/KEY_TUTORIAL_MIST_NAME"
 msgid "The Mist"
@@ -3755,12 +4823,12 @@ msgid "The mist represents the progression of the Pandoravirus as it spreads thr
 msgstr "La Brume représente la progression du Pandoravirus tandis qu'il se propage dans le monde. Les mutations pandoriennes tenteront de bâtir des colonies dans les zones de terrain recouvertes de brume, puis tenteront d'attaquer les refuges proches.[LF][LF]Pour mieux affronter cette menace, vous devrez produire de l'équipement.[LF][LF]SÉLECTIONNEZ LE BOUTON « FABRICATION »."
 
 msgctxt "Tutorial/KEY_TUTORIAL_DOOMCLOCK_NAME"
-msgid "Oneiric Delirium Index"
-msgstr "Indice de délire onirique"
+msgid "Human Population"
+msgstr "Population humaine"
 
 msgctxt "Tutorial/KEY_TUTORIAL_DOOMCLOCK_DESCRIPTION"
-msgid "The ODI meter displays the current intensity of Oneiric Delirium. At 100% humanity cannot be saved."
-msgstr "La jauge IDO indique l'intensité du délire onirique. Lorsqu'elle atteint 100 %, l'humanité ne peut plus être sauvée."
+msgid "The population meter shows the surviving human population since the start of the game.[LF][LF]The population will decline through starvation and attacks on havens. If it falls below a critical level, humanity cannot survive and you lose the game."
+msgstr "La jauge de population indique la population humaine survivante depuis le début de la partie.[LF][LF]La population baisse lors de famines ou d'attaques des refuges. Si le chiffre tombe sous un certain niveau critique, l'humanité ne peut pas survivre et vous perdez la partie."
 
 msgctxt "Tutorial/KEY_TUTORIAL_CAPTURE_NAME"
 msgid "Capture and Containment"
@@ -3819,7 +4887,7 @@ msgid "Action Points and Actions"
 msgstr "Points d'action et actions"
 
 msgctxt "Tutorial/KEY_TUTORIAL_TACTICAL1_AP_PART2_DESCRIPTION"
-msgid "Action controls[CR][LF]Select Action: :LMB: on the action icon, or use :RT: to enter the Action Bar and :DLEFT: and :DRIGHT: to select.[CR][LF]Perform Action: :LMB: on the action button or icon, or use :A: (when in Action bar)[CR][LF]Movement: :LMB: or :A: then select MOVE to go to the Selection Marker location[CR][LF]Direct Movement: :RMB: to go directly to the Selection Marker location"
+msgid "Action controls[LF]Select Action: :LMB: on the action icon, or use :RT: to enter the Action Bar and :DLEFT: and :DRIGHT: to select.[LF]Perform Action: :LMB: on the action button or icon, or use :A: (when in Action bar)[LF]Movement: :LMB: or :A: then select MOVE to go to the Selection Marker location[LF]Direct Movement: :RMB: to go directly to the Selection Marker location"
 msgstr "Commandes d'actions[LF]Sélectionner « Action » : :LMB: sur l'icône d'action, ou utilisez :RT: pour entrer dans la barre d'action et :DLEFT:/:DRIGHT: pour choisir une action.[LF]Effectuer une action : :LMB: sur le bouton d'action ou l'icône, ou utilisez :A: (dans la barre d'action)[LF]Déplacements : :LMB: ou :A:, puis sélectionnez DÉPLACEMENT pour vous rendre à l'emplacement du marqueur de sélection.[LF]Déplacements directs : :RMB: pour vous rendre directement à l'emplacement du marqueur de sélection."
 
 msgctxt "Tutorial/KEY_TUTORIAL_TACTICAL1_SHOOTING_NAME"
@@ -3896,7 +4964,7 @@ msgstr "L'inventaire montre tous les objets transportés par un soldat, ainsi qu
 
 msgctxt "Tutorial/KEY_TUTORIAL_TACTICAL2_INVENTORY_DESCRIPTION_BIND"
 msgid "The Inventory shows everything carried by a soldier, and items on the ground or in adjacent crates.[LF][LF]ENCUMBRANCE[LF]If the weight of all carried items and armor is greater than the soldier's Strength then the soldier suffers a movement penalty.[LF][LF]ACCESS THE INVENTORY[LF]Press the inventory icon, or the [<color=#ECBA62>{[SetInventoryAbility]}</color>] key, or press gamepad :R3:."
-msgstr "L'inventaire montre tous les objets transportés par un soldat, ainsi que ceux au sol ou dans des caisses à proximité.[LF] [LF] CHARGE[LF] Si le poids des objets transportés et de l'armure dépasse la puissance du soldat, il subit alors une pénalité de mouvement.[LF] [LF] ACCÉDER À L'INVENTAIRE[LF]Appuyez sur l'icône d'inventaire, ou sur la touche [<color=#ECBA62>{[SetInventoryAbility]}</color>], ou appuyez sur la touche :R3: de la manette."
+msgstr "L'inventaire montre tous les objets transportés par un soldat, ainsi que ceux au sol ou dans des caisses à proximité.[LF] [LF] CHARGE[LF] Si le poids des objets transportés et de l'armure dépasse la puissance du soldat, il subit alors une pénalité de mouvement.[LF] [LF] ACCÉDER À L'INVENTAIRE[LF] Appuyez sur l'icône d'inventaire, ou sur la touche [<color=#ECBA62>{[SetInventoryAbility]}</color>], ou appuyez sur la touche :R3: de la manette."
 
 msgctxt "Tutorial/KEY_TUTORIAL_TACTICAL2_INVENTORY_DISPLAY_NAME"
 msgid "Inventory Display"
@@ -4155,7 +5223,7 @@ msgid "Virus Damage"
 msgstr "Dégâts viraux"
 
 msgctxt "Phoenixpedia/KEY_PHOENIXPEDIA_GUIDE_VIRUS_DESC"
-msgid "If a weapon inflicts at least some Standard Damage, then the VIrus Damage value of the weapon is added to the target's virus value.[LF][LF]Virus damage can accumulate from multiple attacks. At the start of the affected character's turn, its virus value is subtracted from Will Points. Then the virus level reduces by 1. Over multiple turns the virus level will fall to zero, but the victim will panic if his Will Points fall to zero.[LF][CR][LF]Standard Medkits have no effect on Virus damage."
+msgid "If a weapon inflicts at least some Standard Damage, then the VIrus Damage value of the weapon is added to the target's virus value.[LF][LF]Virus damage can accumulate from multiple attacks. At the start of the affected character's turn, its virus value is subtracted from Will Points. Then the virus level reduces by 1. Over multiple turns the virus level will fall to zero, but the victim will panic if his Will Points fall to zero.[LF][LF][LF]Standard Medkits have no effect on Virus damage."
 msgstr "Si une arme inflige des dégâts normaux, alors la valeur de dégâts de virus de l'arme sera ajoutée au niveau de virus actuel de la cible.[LF][LF]Les dégâts de virus peuvent être accumulés par le biais de plusieurs attaques. Au début du tour du personnage affecté, sa valeur de virus est soustraite à ses points de vie globaux. Ensuite, le niveau de virus baisse de 1. Même si le niveau de virus passe à zéro après quelques tours, la victime peut mourir si son total de points de vie atteint zéro avant.[LF][LF]Les médikits normaux n'ont aucun effet sur les dégâts de virus."
 
 msgctxt "Phoenixpedia/KEY_PHOENIXPEDIA_GUIDE_FIRE_NAME"
@@ -4196,7 +5264,7 @@ msgstr "Effets d'état"
 
 msgctxt "Phoenixpedia/KEY_PHOENIXPEDIA_GUIDE_STATUS_EFFECTS_DESCRIPTION"
 msgid "Status effects can apply to the entire character or only to a specific body part.[LF][LF]While the status effects of a unit is can be seen on the health indicator above the character's head, body part statuses are only visible from the Character Info screen. The only exceptions are when a body part is wounded or disabled, which are indicated on the damage display to the left of the health indicator.[LF][LF]STATUS EFFECTS SUMMARY[LF]ACID: Acid corrodes the armor by the Acid value (per turn). If there is no armor, then the damage is applied to the body part. Acid value reduces by 10 per turn.[LF]BLEEDING: Each turn, lose Hit Points equal to bleed value.[LF]BURNING: Fire damage is applied to each body part at the start of the turn, subtracting armor.[LF]FRENZIED: Speed increased by 50% and immune to panic.[LF]GOOED: Unable to move until Goo decays or is removed.[LF]INFECTED BY VIRUS: At start of turn virus is subtracted from Will Points, then virus value is reduced by 1.[LF]PANICKED: Unable to move for a turn, while recovering Will Points.[LF]POISONED: At start of turn, poison is subtracted from Hit Points, then poison value is reduced by 10.[LF]PREPARING: (Pandoran Sentinel and Egg only) Preparing to activate special ability on the next turn.[LF]BERSERK: (Mutog only) Mutog becomes wild, attacking friend or foe.[LF]ENRAGED: (Mutog only) Damage dealt and speed are increased by 50%. There's a 10% chance the Mutog will go Berserk at the start of each turn.[LF]ALERTED: (Enemy only). Enemy is aware of your presence.[LF]TIRED: (caused by entering a battle with low Stamina) -1 Action Point each turn.[LF]EXHAUSTED: (caused by entering a battle with low Stamina) -2 Action Point each turn.[LF]PARALYZED: Cannot move or perform any actions.[LF]PARALYSIS: Action Points are reduced by the proportion of paralysis value to Strength.[LF]DAZED: Action Points reduced to 1 and accuracy halved. Abilities requiring Will Points cannot be used.[LF]OVERWATCH: Enemies entering the overwatch cone will trigger an attack.[LF]SONIC: Dazes the target is the target's Will Points are less than the amount of Sonic Damage"
-msgstr "Les effets d'état peuvent toucher un personnage entier ou une partie du corps spécifique.[LF] [LF] Les effets d'état d'une unité sont visibles sur l'indicateur de santé au-dessus de la tête du personnage, mais les états affectant les parties du corps ne sont visibles que depuis l'écran d'infos du personnage. Les seules exceptions sont les cas où une partie du corps est blessée ou désactivée, indiqués sur l'écran des dégâts à gauche de l'indicateur de santé.[LF] [LF] RÉSUMÉ DES EFFETS D'ÉTAT :[LF] ACIDE : L'acide corrode des points d'armure équivalents à la valeur de l'acide (par tour). S'il n'y a pas d'armure, les dégâts sont appliqués au corps. La valeur de l'acide baisse de 10 points par tour.[LF]SAIGNEMENT : Le saignement fait perdre à la cible des points de santé équivalents à sa valeur de saignement à chaque tour.[LF] BRÛLURE : des dégâts de feu sont appliqués à chaque partie du corps en début de tour, retirant des points d'armure.[LF] FRÉNÉTIQUE : Vitesse augmentée de 50 % et immunité contre la panique.[LF] EN GELÉE : déplacements impossibles jusqu'à ce que la gelée disparaisse ou soit retirée.[LF]INFECTION VIRALE : Au début du tour, la virulence du virus retire des points de volonté, puis sa valeur baisse de 1 point.[LF] PANIQUÉ : Déplacements impossibles pendant un tour, l'unité récupère des points de volonté.[LF]EMPOISONNÉ : Au début du tour le poison retire des points de vie, puis sa valeur baisse de 10 points.[LF] PRÉPARATION : (sentinelles et œufs pandoriens uniquement) L'unité se prépare à activer une capacité spéciale au prochain tour.[LF] DÉCHAÎNÉ : (Mutog uniquement) Le Mutog devient fou, attaquant amis comme ennemis.[LF] ENRAGÉ : (Mutog uniquement) Les dégâts infligés et la vitesse augmentent de 50 %. Il y a 10 % de chance que le Mutog soit déchaîné au début de chaque tour.[LF]ALERTÉ : (ennemi uniquement) L'ennemi est conscient de votre présence.[LF]FATIGUÉ : (causé par une endurance basse en début de combat) -1 point d'action à chaque tour.[LF] ÉPUISÉ : (causé par une endurance basse en début de combat) -2 points d'action à chaque tour.[LF] PARALYSÉ : Déplacements ou actions impossibles.[LF] PARALYSIE : Les points d'action sont réduits proportionnellement à la valeur de paralysie appliquée à la puissance.[LF] ÉTOURDI : Points d'action réduits à 1 et précision réduite de moitié. Les capacités nécessitant des points de volonté ne peuvent pas être utilisées.[LF] VIGILANCE : Les ennemis qui entrent dans la zone de vigilance provoquent une attaque."
+msgstr "Les effets d'état peuvent toucher un personnage entier ou une partie du corps spécifique.[LF] [LF] Les effets d'état d'une unité sont visibles sur l'indicateur de santé au-dessus de la tête du personnage, mais les états affectant les parties du corps ne sont visibles que depuis l'écran d'infos du personnage. Les seules exceptions sont les cas où une partie du corps est blessée ou désactivée, indiqués sur l'écran des dégâts à gauche de l'indicateur de santé.[LF] [LF] RÉSUMÉ DES EFFETS D'ÉTAT :[LF] ACIDE : L'acide corrode des points d'armure équivalents à la valeur de l'acide (par tour). S'il n'y a pas d'armure, les dégâts sont appliqués au corps. La valeur de l'acide baisse de 10 points par tour.[LF] SAIGNEMENT : Le saignement fait perdre à la cible des points de santé équivalents à sa valeur de saignement à chaque tour.[LF]BRÛLURE : des dégâts de feu sont appliqués à chaque partie du corps en début de tour, retirant des points d'armure.[LF] FRÉNÉTIQUE : Vitesse augmentée de 50 % et immunité contre la panique.[LF] EN GELÉE : déplacements impossibles jusqu'à ce que la gelée disparaisse ou soit retirée.[LF] INFECTION VIRALE : Au début du tour, la virulence du virus retire des points de volonté, puis sa valeur baisse de 1 point.[LF]PANIQUÉ : Déplacements impossibles pendant un tour, l'unité récupère des points de volonté.[LF] EMPOISONNÉ : Au début du tour le poison retire des points de vie, puis sa valeur baisse de 10 points.[LF] PRÉPARATION : (sentinelles et œufs pandoriens uniquement) L'unité se prépare à activer une capacité spéciale au prochain tour.[LF] DÉCHAÎNÉ : (Mutog uniquement) Le Mutog devient fou, attaquant amis comme ennemis.[LF]ENRAGÉ : (Mutog uniquement) Les dégâts infligés et la vitesse augmentent de 50 %. Il y a 10 % de chance que le Mutog soit déchaîné au début de chaque tour.[LF] ALERTÉ : (ennemi uniquement) L'ennemi est conscient de votre présence.[LF] FATIGUÉ : (causé par une endurance basse en début de combat) -1 point d'action à chaque tour.[LF] ÉPUISÉ : (causé par une endurance basse en début de combat) -2 points d'action à chaque tour.[LF] PARALYSÉ : Déplacements ou actions impossibles.[LF]PARALYSIE : Les points d'action sont réduits proportionnellement à la valeur de paralysie appliquée à la puissance.[LF] ÉTOURDI : Points d'action réduits à 1 et précision réduite de moitié. Les capacités nécessitant des points de volonté ne peuvent pas être utilisées.[LF]VIGILANCE : Les ennemis qui entrent dans la zone de vigilance provoquent une attaque."
 
 msgctxt "Phoenixpedia/KEY_PHOENIXPEDIA_GUIDE_HAVENS_NAME"
 msgid "Advanced: Havens"
@@ -5335,7 +6403,7 @@ msgid "we were reduced to a secret... a memory."
 msgstr "nous avons été réduits à un secret... à un souvenir."
 
 msgctxt "Cinematic Subtitles/KEY_PP_INTRO4_01"
-msgid "When the Pandoravirus woke up, we should have been the first line of defence. "
+msgid "When the Pandoravirus woke up, we should have been the first line of defense. "
 msgstr "Lorsque le Pandoravirus s'est réveillé, nous aurions dû être la première ligne de défense."
 
 msgctxt "Cinematic Subtitles/KEY_PP_INTRO4_02"
@@ -7927,7 +8995,7 @@ msgid ";"
 msgstr ";"
 
 msgctxt "Controls/KEY_CONTROLS_INPUT_PC_APOSTROPHE"
-msgid "'"
+msgid "[null]"
 msgstr "n^2"
 
 msgctxt "Controls/KEY_CONTROLS_INPUT_PC_OPEN_BRACKET"
@@ -8843,7 +9911,7 @@ msgid "Are you sure you want to demolish this facility?"
 msgstr "Voulez-vous vraiment démolir cette installation ?"
 
 msgctxt "Base Screen/KEY_BASE_FACILITY_ACCESS_LIFT_DESCRIPTION"
-msgid "Deployment point for defence missions, and an escape route if things go badly."
+msgid "Deployment point for defense missions, and an escape route if things go badly."
 msgstr "Point de déploiement pour les missions de défense et une issue de secours si les choses tournent mal."
 
 msgctxt "Base Screen/KEY_BASE_FACILITY_ACCESS_LIFT_NAME"
@@ -8931,8 +9999,8 @@ msgid "MIST REPELLER"
 msgstr "REPOUSSEUR DE BRUME"
 
 msgctxt "Base Screen/KEY_BASE_FACILITY_SATELLITE_UPLINK_DESCRIPTION"
-msgid "Allows aircraft to initiate one area scan to locate sites of interest."
-msgstr "Permet à un vaisseau d'initier un balayage de zone pour localiser les sites d'intérêt."
+msgid "Scans an area around the base, locating sites of interest. Pandoran colonies attacking havens from within scanning range will be instantly detected."
+msgstr "Balaie une zone autour de la base, repérant les sites d’intérêt. Les colonies pandoriennes qui attaquent les refuges dans ce rayon de balayage seront instantanément détectées."
 
 msgctxt "Base Screen/KEY_BASE_FACILITY_SATELLITE_UPLINK_NAME"
 msgid "SATELLITE UPLINK"
@@ -9467,7 +10535,7 @@ msgid "PLAY DEMO"
 msgstr "JOUER À LA DÉMO"
 
 msgctxt "Opening Screen/KEY_DEMO_TEXT"
-msgid "Experience a night time tactical, fighting against an alien incursion in a new Jericho power facility.[CR][LF][CR][LF]Use the cover of the building to aboid alien artillery - or use your Scarab AFV for protection."
+msgid "Experience a night time tactical, fighting against an alien incursion in a new Jericho power facility.[LF][LF][LF]Use the cover of the building to aboid alien artillery - or use your Scarab AFV for protection."
 msgstr "Livrez un combat tactique en pleine nuit contre une incursion extraterrestre dans une centrale d'énergie de la Nouvelle-Jéricho.[LF][LF]Utilisez le bâtiment pour éviter l'artillerie extraterrestre, ou utilisez votre Scarabée AFV pour vous protéger."
 
 msgctxt "Opening Screen/KEY_CREDITS"
@@ -9515,7 +10583,7 @@ msgid "FESTERING SKIES"
 msgstr "CIELS DE POISON"
 
 msgctxt "Opening Screen/KEY_BSNAPSHOT_GAMES_INC_BACKER_BUILD_PP1"
-msgid "PRIVACY POLICY    [LF]Last updated July 03, 2018  [LF][LF][LF]Thank you for choosing to be part of our community at Snapshot Games Inc. (“Company”, “we”, “us”, or “our”). We are committed to protecting your personal information and your right to privacy. If you have any questions or concerns about our policy, or our practices with regards to your personal information, please contact us at contact@snapshotgames.com. [LF]When you visit our website http://phoenixpoint.info, and use our services, you trust us with your personal information. We take your privacy very seriously. In this privacy policy, we seek to explain to you in the clearest way possible what information we collect, how we use it and what rights you have in relation to it. We hope you take some time to read through it carefully, as it is important. If there are any terms in this privacy policy   that you do not agree with, please discontinue use of our Sites and our services. [LF]This privacy policy applies to all information collected through our website (such as http://phoenixpoint.info), and/or any related services, sales, marketing or events (we refer to them collectively in this privacy policy as the \"\"Services\"\").  [LF]Please read this privacy policy carefully as it will help you make informed decisions about sharing your personal information with us.   [LF][LF]TABLE OF CONTENTS  [LF]1. WHAT INFORMATION DO WE COLLECT?[LF]2. HOW DO WE USE YOUR INFORMATION?[LF]3. WILL YOUR INFORMATION BE SHARED WITH ANYONE?    [LF]4. DO WE USE COOKIES AND OTHER TRACKING TECHNOLOGIES?      [LF]5. IS YOUR INFORMATION TRANSFERRED INTERNATIONALLY?    [LF]6. HOW LONG DO WE KEEP YOUR INFORMATION?    [LF]7. DO WE COLLECT INFORMATION FROM MINORS?  [LF]8. WHAT ARE YOUR PRIVACY RIGHTS?[LF]9. CONTROLS FOR DO-NOT-TRACK FEATURES [LF]10. DO CALIFORNIA RESIDENTS HAVE SPECIFIC PRIVACY RIGHTS? [LF]11. DO WE MAKE UPDATES TO THIS POLICY?[LF]12. HOW CAN YOU CONTACT US ABOUT THIS POLICY?[LF][LF][LF]1. WHAT INFORMATION DO WE COLLECT?  [LF][LF]Personal information you disclose to us [LF]In Short: We collect personal information that you provide to us such as name, address, contact information, passwords and security data, and payment information.  [LF]We collect personal information that you voluntarily provide to us when registering at the Services expressing an interest in obtaining information about us or our products and services, when participating in activities on the Services or otherwise contacting us.[LF]The personal information that we collect depends on the context of your interactions with us and the Services, the choices you make and the products and features you use. The personal information we collect can include the following:[LF]   [LF]   [LF]Credentials. We collect passwords, password hints, and similar security information used for authentication and account access.   [LF]All personal information that you provide to us must be true, complete and accurate, and you must notify us of any changes to such personal information.   [LF]Information automatically collected [LF]In Short: Some information – such as IP address and/or browser and device characteristics – is collected automatically when you visit our Services.[LF]We automatically collect certain information when you visit, use or navigate the Services. This information does not reveal your specific identity (like your name or contact information) but may include device and usage information, such as your IP address, browser and device characteristics, operating system, language preferences, referring URLs, device name, country, location, information about how and when you use our Services and other technical information. This information is primarily needed to maintain the security and operation of our Services, and for our internal analytics and reporting purposes.[LF]Like many businesses, we also collect information through cookies and similar technologies.   [LF]   [LF][LF]2. HOW DO WE USE YOUR INFORMATION?  [LF]In Short:  We process your information for purposes based on legitimate business interests, the fulfillment of our contract with you, compliance with our legal obligations, and/or your consent.  [LF]We use personal information collected via our Services for a variety of business purposes described below. We process your personal information for these purposes in reliance on our legitimate business interests, in order to enter into or perform a contract with you, with your consent, and/or for compliance with our legal obligations. We indicate the specific processing grounds we rely on next to each purpose listed below. [LF]  [LF]We use the information we collect or receive:   [LF][LF]To send you marketing and promotional communications. We and/or our third party marketing partners may use the personal information you send to us for our marketing purposes, if this is in accordance with your marketing preferences. You can opt-out of our marketing emails at any time (see the \"\" WHAT ARE YOUR PRIVACY RIGHTS  \"\" below).      [LF][LF]To send administrative information to you. We may use your personal information to send you product, service and new feature information and/or information about changes to our terms, conditions, and policies.       [LF][LF]Fulfill and manage your orders. We may use your information to fulfill and manage your orders, payments, returns, and exchanges made through the Services.            [LF][LF]Deliver targeted advertising to you. We may use your information to develop and display content and advertising (and work with third parties who do so) tailored to your interests and/or location and to measure its effectiveness.                 [LF][LF]Request Feedback. We may use your information to request feedback and to contact you about your use of our Services.                                                                                                                                          [LF][LF]For other Business Purposes. We may use your information for other Business Purposes, such as data analysis, identifying usage trends, determining the effectiveness of our promotional campaigns and to evaluate and improve our Services, products, marketing and your experience. We may use and store this information in aggregated and anonymized form so that it is not associated with individual end users and does not include personal information. We will not use identifiable personal information without your consent.            [LF][LF]3. WILL YOUR INFORMATION BE SHARED WITH ANYONE?  [LF]In Short:  We only share information with your consent, to comply with laws, to provide you with services, to protect your rights, or to fulfill business obligations.   [LF][LF]We may process or share data based on the following legal basis:[LF]Consent: We may process your data if you have given us specific consent to use your personal information in a specific purpose.[LF][LF][LF]Legitimate Interests: We may process your data when it is reasonably necessary to achieve our legitimate business interests.[LF][LF][LF]Performance of a Contract: Where we have entered into a contract with you, we may process your personal information to fulfill the terms of our contract.[LF][LF][LF]Legal Obligations: We may disclose your information where we are legally required to do so in order to comply with applicable law, governmental requests, a judicial proceeding, court order, or legal process, such as in response to a court order or a subpoena (including in response to public authorities to meet national security or law enforcement requirements).[LF][LF][LF]Vital Interests: We may disclose your information where we believe it is necessary to investigate, prevent, or take action regarding potential violations of our policies, suspected fraud, situations involving potential threats to the safety of any person and illegal activities, or as evidence in litigation in which we are involved.[LF]More specifically, we may need to process your data or share your personal information in the following situations:   [LF]Vendors, Consultants and Other Third-Party Service Providers. We may share your data with third party vendors, service providers, contractors or agents who perform services for us or on our behalf and require access to such information to do that work. Examples include: payment processing, data analysis, email delivery, hosting services, customer service and marketing efforts. We may allow selected third parties to use tracking technology on the Services, which will enable them to collect data about how you interact with the Services over time. This information may be used to, among other things, analyze and track data, determine the popularity of certain content and better understand online activity. Unless described in this Policy, we do not share, sell, rent or trade any of your information with third parties for their promotional purposes.       [LF][LF][LF]Business Transfers. We may share or transfer your information in connection with, or during negotiations of, any merger, sale of company assets, financing, or acquisition of all or a portion of our business to another company.       [LF][LF][LF]Business Partners. We may share your information with our business partners to offer you certain products, services or promotions.      [LF]     [LF][LF]4. DO WE USE COOKIES AND OTHER TRACKING TECHNOLOGIES?  [LF]In Short:  We may use cookies and other tracking technologies to collect and store your information.  [LF]We may use cookies and similar tracking technologies (like web beacons and pixels) to access or store information. Specific information about how we use such technologies and how you can refuse certain cookies is set out in our Cookie Policy.                  [LF][LF]5. IS YOUR INFORMATION TRANSFERRED INTERNATIONALLY?  [LF]In Short:  We may transfer, store, and process your information in countries other than your own.  [LF]Our servers are located in United States. If you are accessing our Services from outside United States, please be aware that your information may be transferred to, stored, and processed by us in our facilities and by those third parties with whom we may share your personal information (see \"\" WILL YOUR INFORMATION BE SHARED WITH ANYONE?  \"\" above), in United States, and other countries. [LF]If you are a resident in the European Economic Area, then these countries may not have data protection or other laws as comprehensive as those in your country. We will however take all necessary measures to protect your personal information in accordance with this privacy policy and applicable law.              [LF][LF]6. HOW LONG DO WE KEEP YOUR INFORMATION?  [LF]In Short:  We keep your information for as long as necessary to fulfill the purposes outlined in this privacy policy unless otherwise required by law.   [LF]We will only keep your personal information for as long as it is necessary for the purposes set out in this privacy policy, unless a longer retention period is required or permitted by law (such as tax, accounting or other legal requirements). No purpose in this policy will require us keeping your personal information for longer than the period of time in which users have an account with us .  [LF]When we have no ongoing legitimate business need to process your personal information, we will either delete or anonymize it, or, if this is not possible (for example, because your personal information has been stored in backup archives), then we will securely store your personal information and isolate it from any further processing until deletion is possible.    [LF][LF]7. DO WE COLLECT INFORMATION FROM MINORS?  [LF]In Short:  We do not knowingly collect data from or market to children under 18 years of age.  [LF]We do not knowingly solicit data from or market to children under 18 years of age. By using the Services, you represent that you are at least 18 or that you are the parent or guardian of such a minor and consent to such minor dependent’s use of the Services. If we learn that personal information from users less than 18 years of age has been collected, we will deactivate the account and take reasonable measures to promptly delete such data from our records. If you become aware of any data we have collected from children under age 18, please contact us at contact@snapshotgames.com.  [LF][LF][LF]"
+msgid "PRIVACY POLICY    [LF]Last updated July 03, 2018  [LF][LF][LF]Thank you for choosing to be part of our community at Snapshot Games Inc. (“Company”, “we”, “us”, or “our”). We are committed to protecting your personal information and your right to privacy. If you have any questions or concerns about our policy, or our practices with regards to your personal information, please contact us at contact@snapshotgames.com. [LF]When you visit our website http://phoenixpoint.info, and use our services, you trust us with your personal information. We take your privacy very seriously. In this privacy policy, we seek to explain to you in the clearest way possible what information we collect, how we use it and what rights you have in relation to it. We hope you take some time to read through it carefully, as it is important. If there are any terms in this privacy policy   that you do not agree with, please discontinue use of our Sites and our services. [LF]This privacy policy applies to all information collected through our website (such as http://phoenixpoint.info), and/or any related services, sales, marketing or events (we refer to them collectively in this privacy policy as the \"\"Services\"\").  [LF]Please read this privacy policy carefully as it will help you make informed decisions about sharing your personal information with us.   [LF][LF]TABLE OF CONTENTS  [LF]1. WHAT INFORMATION DO WE COLLECT?[LF]2. HOW DO WE USE YOUR INFORMATION?[LF]3. WILL YOUR INFORMATION BE SHARED WITH ANYONE?    [LF]4. DO WE USE COOKIES AND OTHER TRACKING TECHNOLOGIES?      [LF]5. IS YOUR INFORMATION TRANSFERRED INTERNATIONALLY?    [LF]6. HOW LONG DO WE KEEP YOUR INFORMATION?    [LF]7. DO WE COLLECT INFORMATION FROM MINORS?  [LF]8. WHAT ARE YOUR PRIVACY RIGHTS?[LF]9. CONTROLS FOR DO-NOT-TRACK FEATURES [LF]10. DO CALIFORNIA RESIDENTS HAVE SPECIFIC PRIVACY RIGHTS? [LF]11. DO WE MAKE UPDATES TO THIS POLICY?[LF]12. HOW CAN YOU CONTACT US ABOUT THIS POLICY?[LF][LF][LF]1. WHAT INFORMATION DO WE COLLECT?  [LF][LF]Personal information you disclose to us [LF]In Short: We collect personal information that you provide to us such as name, address, contact information, passwords and security data, and payment information.  [LF]We collect personal information that you voluntarily provide to us when registering at the Services expressing an interest in obtaining information about us or our products and services, when participating in activities on the Services or otherwise contacting us.[LF]The personal information that we collect depends on the context of your interactions with us and the Services, the choices you make and the products and features you use. The personal information we collect can include the following:[LF]   [LF]   [LF]Credentials. We collect passwords, password hints, and similar security information used for authentication and account access.   [LF]All personal information that you provide to us must be true, complete and accurate, and you must notify us of any changes to such personal information.   [LF]Information automatically collected [LF]In Short: Some information – such as IP address and/or browser and device characteristics – is collected automatically when you visit our Services.[LF]We automatically collect certain information when you visit, use or navigate the Services. This information does not reveal your specific identity (like your name or contact information) but may include device and usage information, such as your IP address, browser and device characteristics, operating system, language preferences, referring URLs, device name, country, location, information about how and when you use our Services and other technical information. This information is primarily needed to maintain the security and operation of our Services, and for our internal analytics and reporting purposes.[LF]Like many businesses, we also collect information through cookies and similar technologies.   [LF]    [LF][LF]2. HOW DO WE USE YOUR INFORMATION?  [LF]In Short:  We process your information for purposes based on legitimate business interests, the fulfillment of our contract with you, compliance with our legal obligations, and/or your consent.  [LF]We use personal information collected via our Services for a variety of business purposes described below. We process your personal information for these purposes in reliance on our legitimate business interests, in order to enter into or perform a contract with you, with your consent, and/or for compliance with our legal obligations. We indicate the specific processing grounds we rely on next to each purpose listed below. [LF]  [LF]We use the information we collect or receive:   [LF][LF]To send you marketing and promotional communications. We and/or our third party marketing partners may use the personal information you send to us for our marketing purposes, if this is in accordance with your marketing preferences. You can opt-out of our marketing emails at any time (see the \"\" WHAT ARE YOUR PRIVACY RIGHTS  \"\" below).      [LF][LF]To send administrative information to you. We may use your personal information to send you product, service and new feature information and/or information about changes to our terms, conditions, and policies.       [LF][LF]Fulfill and manage your orders. We may use your information to fulfill and manage your orders, payments, returns, and exchanges made through the Services.            [LF][LF]Deliver targeted advertising to you. We may use your information to develop and display content and advertising (and work with third parties who do so) tailored to your interests and/or location and to measure its effectiveness.                 [LF][LF]Request Feedback. We may use your information to request feedback and to contact you about your use of our Services.                                                                                                                                          [LF][LF]For other Business Purposes. We may use your information for other Business Purposes, such as data analysis, identifying usage trends, determining the effectiveness of our promotional campaigns and to evaluate and improve our Services, products, marketing and your experience. We may use and store this information in aggregated and anonymized form so that it is not associated with individual end users and does not include personal information. We will not use identifiable personal information without your consent.            [LF][LF]3. WILL YOUR INFORMATION BE SHARED WITH ANYONE?  [LF]In Short:  We only share information with your consent, to comply with laws, to provide you with services, to protect your rights, or to fulfill business obligations.   [LF][LF]We may process or share data based on the following legal basis:[LF]Consent: We may process your data if you have given us specific consent to use your personal information in a specific purpose.[LF][LF][LF]Legitimate Interests: We may process your data when it is reasonably necessary to achieve our legitimate business interests.[LF][LF][LF]Performance of a Contract: Where we have entered into a contract with you, we may process your personal information to fulfill the terms of our contract.[LF][LF][LF]Legal Obligations: We may disclose your information where we are legally required to do so in order to comply with applicable law, governmental requests, a judicial proceeding, court order, or legal process, such as in response to a court order or a subpoena (including in response to public authorities to meet national security or law enforcement requirements).[LF][LF][LF]Vital Interests: We may disclose your information where we believe it is necessary to investigate, prevent, or take action regarding potential violations of our policies, suspected fraud, situations involving potential threats to the safety of any person and illegal activities, or as evidence in litigation in which we are involved.[LF]More specifically, we may need to process your data or share your personal information in the following situations:   [LF]Vendors, Consultants and Other Third-Party Service Providers. We may share your data with third party vendors, service providers, contractors or agents who perform services for us or on our behalf and require access to such information to do that work. Examples include: payment processing, data analysis, email delivery, hosting services, customer service and marketing efforts. We may allow selected third parties to use tracking technology on the Services, which will enable them to collect data about how you interact with the Services over time. This information may be used to, among other things, analyze and track data, determine the popularity of certain content and better understand online activity. Unless described in this Policy, we do not share, sell, rent or trade any of your information with third parties for their promotional purposes.       [LF][LF][LF]Business Transfers. We may share or transfer your information in connection with, or during negotiations of, any merger, sale of company assets, financing, or acquisition of all or a portion of our business to another company.       [LF][LF][LF]Business Partners. We may share your information with our business partners to offer you certain products, services or promotions.      [LF]     [LF][LF]4. DO WE USE COOKIES AND OTHER TRACKING TECHNOLOGIES?  [LF]In Short:  We may use cookies and other tracking technologies to collect and store your information.  [LF]We may use cookies and similar tracking technologies (like web beacons and pixels) to access or store information. Specific information about how we use such technologies and how you can refuse certain cookies is set out in our Cookie Policy.                  [LF][LF]5. IS YOUR INFORMATION TRANSFERRED INTERNATIONALLY?  [LF]In Short:  We may transfer, store, and process your information in countries other than your own.  [LF]Our servers are located in United States. If you are accessing our Services from outside United States, please be aware that your information may be transferred to, stored, and processed by us in our facilities and by those third parties with whom we may share your personal information (see \"\" WILL YOUR INFORMATION BE SHARED WITH ANYONE?  \"\" above), in United States, and other countries. [LF]If you are a resident in the European Economic Area, then these countries may not have data protection or other laws as comprehensive as those in your country. We will however take all necessary measures to protect your personal information in accordance with this privacy policy and applicable law.              [LF][LF]6. HOW LONG DO WE KEEP YOUR INFORMATION?  [LF]In Short:  We keep your information for as long as necessary to fulfill the purposes outlined in this privacy policy unless otherwise required by law.   [LF]We will only keep your personal information for as long as it is necessary for the purposes set out in this privacy policy, unless a longer retention period is required or permitted by law (such as tax, accounting or other legal requirements). No purpose in this policy will require us keeping your personal information for longer than the period of time in which users have an account with us .  [LF]When we have no ongoing legitimate business need to process your personal information, we will either delete or anonymize it, or, if this is not possible (for example, because your personal information has been stored in backup archives), then we will securely store your personal information and isolate it from any further processing until deletion is possible.    [LF][LF]7. DO WE COLLECT INFORMATION FROM MINORS?  [LF]In Short:  We do not knowingly collect data from or market to children under 18 years of age.  [LF]We do not knowingly solicit data from or market to children under 18 years of age. By using the Services, you represent that you are at least 18 or that you are the parent or guardian of such a minor and consent to such minor dependent’s use of the Services. If we learn that personal information from users less than 18 years of age has been collected, we will deactivate the account and take reasonable measures to promptly delete such data from our records. If you become aware of any data we have collected from children under age 18, please contact us at contact@snapshotgames.com.  [LF][LF][LF]"
 msgstr "POLITIQUE DE CONFIDENTIALITÉ [LF]Dernière mise à jour le 03 juillet 2018 [LF][LF]Merci d'avoir choisi de faire partie de notre communauté chez Snapshot Games Inc. («Société», «nous», «notre» ou «notre»). Nous nous engageons à protéger vos informations personnelles et votre droit à la vie privée. Si vous avez des questions ou des préoccupations concernant notre politique ou nos pratiques en ce qui concerne vos informations personnelles, veuillez nous contacter à contact@snapshotgames.com.[LF] Lorsque vous visitez notre site Web http://phoenixpoint.info et utilisez nos services, vous nous faites confiance avec vos informations personnelles. Nous prenons votre vie privée très au sérieux. Dans cette politique de confidentialité, nous cherchons à vous expliquer de la manière la plus claire possible les informations que nous collectons, comment nous les utilisons et quels droits vous avez à cet égard. Nous espérons que vous prendrez le temps de le lire attentivement, car il est important. Si vous n'êtes pas d'accord avec certaines conditions de cette politique de confidentialité, veuillez cesser d'utiliser nos sites et nos services. Cette politique de confidentialité s'applique à toutes les informations collectées sur notre site Web (tel que http://phoenixpoint.info) et / ou tous services, ventes, marketing ou événements connexes (nous les désignons collectivement dans la présente politique de confidentialité sous le nom de \"\"Services\"\". ). Veuillez lire attentivement cette politique de confidentialité, car elle vous aidera à prendre des décisions éclairées concernant le partage de vos informations personnelles avec nous. [LF][LF]TABLE DES MATIÈRES [LF]1. QUELLES INFORMATIONS RECUEILLONS-NOUS? [LF]2. COMMENT UTILISONS-NOUS VOS INFORMATIONS? [LF]3. VOTRE INFORMATION SERA-T-ELLE PARTAGÉE AVEC QUELQU'UN? [LF]4. UTILISONS-NOUS DES COOKIES ET D'AUTRES TECHNOLOGIES DE SUIVI? [LF]5. VOS INFORMATIONS SONT-ELLES TRANSFÉRÉES À L'INTERNATIONAL? [LF]6. COMBIEN DE TEMPS CONSERVONS-NOUS VOS INFORMATIONS? [LF]7. COLLECTONS-NOUS DES INFORMATIONS DE MINEURS? [LF]8. QUELS SONT VOS DROITS DE CONFIDENTIALITÉ? [LF]9. COMMANDES DES FONCTIONS DE NE PAS SUIVRE [LF]10. Les résidents de la Californie ont-ils des droits spécifiques en matière de confidentialité? [LF]11. FAUT-ON MISE À JOUR DE CETTE POLITIQUE? [LF]12. COMMENT POUVEZ-VOUS NOUS CONTACTER À PROPOS DE CETTE POLITIQUE? [LF][LF]1. QUELLES INFORMATIONS RECUEILLONS-NOUS? [LF]nformations personnelles que vous nous communiquez [LF]En bref: Nous recueillons des informations personnelles que vous nous avez fournies, telles que nom, adresse, coordonnées, mots de passe, données de sécurité et informations de paiement. Nous recueillons des informations personnelles que vous nous avez volontairement fournies lors de votre inscription aux Services, exprimant un intérêt à obtenir des informations sur nous ou sur nos produits et services, lors de votre participation à des activités sur les Services ou de tout autre moyen de nous contacter. Les informations personnelles que nous collectons dépendent du contexte de vos interactions avec nous et des Services, des choix que vous faites et des produits et fonctionnalités que vous utilisez. Les informations personnelles que nous collectons peuvent inclure les éléments suivants: Informations d'identification. Nous recueillons des mots de passe, des astuces de mot de passe et des informations de sécurité similaires utilisées pour l'authentification et l'accès au compte. Toutes les informations personnelles que vous nous fournissez doivent être véridiques, complètes et exactes, et vous devez nous informer de tout changement apporté à ces informations personnelles. Informations automatiquement collectées [LF]En bref: certaines informations, telles que l'adresse IP et / ou les caractéristiques du navigateur et de l'appareil, sont automatiquement collectées lorsque vous visitez nos Services. Nous recueillons automatiquement certaines informations lorsque vous visitez, utilisez ou naviguez dans les services. Ces informations ne révèlent pas votre identité spécifique (comme votre nom ou vos coordonnées), mais peuvent inclure des informations sur le périphérique et l'utilisation, telles que votre adresse IP, les caractéristiques du navigateur et du périphérique, le système d'exploitation, les préférences de langue, les URL de référence, le nom du périphérique, le pays et l'emplacement. , des informations sur comment et quand vous utilisez nos Services et d’autres informations techniques. Ces informations sont principalement nécessaires pour maintenir la sécurité et le fonctionnement de nos services, ainsi que pour nos analyses internes et nos rapports. Comme beaucoup d'entreprises, nous recueillons également des informations par le biais de cookies et de technologies similaires. [LF]2. COMMENT UTILISONS-NOUS VOS INFORMATIONS? [LF]En bref: nous traitons vos informations à des fins basées sur des intérêts commerciaux légitimes, l'exécution de notre contrat avec vous, le respect de nos obligations légales et / ou votre consentement. Nous utilisons les informations personnelles collectées via nos Services à diverses fins commerciales décrites ci-dessous. Nous traitons vos informations personnelles à ces fins en fonction de nos intérêts commerciaux légitimes, afin de conclure ou de conclure un contrat avec vous, avec votre consentement et / ou du respect de nos obligations légales. Nous indiquons les motifs de traitement spécifiques sur lesquels nous nous appuyons à côté de chacun des objectifs énumérés ci-dessous. Nous utilisons les informations que nous recueillons ou recevons: Pour vous envoyer des communications marketing et promotionnelles. Nous et / ou nos partenaires marketing tiers pouvons utiliser les informations personnelles que vous nous avez envoyées à des fins de marketing, si cela est conforme à vos préférences marketing. Vous pouvez vous désinscrire de nos courriels marketing à tout moment (voir \"\"QUELS SONT VOS DROITS À LA PROTECTION DE LA VIE PRIVÉE\"\" ci-dessous). Pour vous envoyer des informations administratives. Nous pouvons utiliser vos informations personnelles pour vous envoyer des informations sur les produits, les services et les nouvelles fonctionnalités et / ou des informations sur les modifications de nos termes, conditions et politiques. Remplissez et gérez vos commandes. Nous pouvons utiliser vos informations pour traiter et gérer vos commandes, paiements, retours et échanges effectués par le biais des Services. Livrer de la publicité ciblée à vous. Nous pouvons utiliser vos informations pour développer et afficher du contenu et de la publicité (et travailler avec des tiers qui le font) en fonction de vos intérêts et / ou de votre localisation et en mesurer l'efficacité. Demander des commentaires. Nous pouvons utiliser vos informations pour demander des commentaires et pour vous contacter à propos de votre utilisation de nos services. À d'autres fins commerciales. Nous pouvons utiliser vos informations à d’autres fins commerciales, telles que l’analyse de données, la détermination des tendances d’utilisation, la détermination de l’efficacité de nos campagnes de promotion, l’évaluation et l’amélioration de nos services, produits, marketing et de votre expérience. Nous pouvons utiliser et stocker ces informations sous forme agrégée et anonymisée afin qu'elles ne soient pas associées à des utilisateurs finaux individuels et n'incluent pas d'informations personnelles. Nous n'utiliserons pas d'informations personnelles identifiables sans votre consentement. [LF]3. VOTRE INFORMATION SERA-T-ELLE PARTAGÉE AVEC QUELQU'UN? [LF]En bref: nous ne partageons les informations qu'avec votre consentement, afin de respecter les lois, de vous fournir des services, de protéger vos droits ou de remplir vos obligations commerciales. Nous pouvons traiter ou partager des données sur la base juridique suivante: Consentement: nous pouvons traiter vos données si vous nous avez donné le consentement spécifique d’utiliser vos informations personnelles à des fins spécifiques. Intérêts légitimes: Nous pouvons traiter vos données lorsque cela est raisonnablement nécessaire pour réaliser nos intérêts commerciaux légitimes. Exécution d'un contrat: Lorsque nous avons conclu un contrat avec vous, nous pouvons traiter vos informations personnelles pour respecter les termes de notre contrat. Obligations légales: nous pouvons divulguer vos informations lorsque nous sommes légalement tenus de le faire pour nous conformer à la loi applicable, aux demandes gouvernementales, à une procédure judiciaire, à une décision de justice ou à une procédure judiciaire, par exemple en réponse à une ordonnance du tribunal ou à une assignation à comparaître ( y compris en réponse aux autorités publiques pour répondre aux exigences de la sécurité nationale ou de l’application de la loi). Intérêts vitaux: nous pouvons divulguer vos informations lorsque nous estimons qu’il est nécessaire d’enquêter, d’empêcher ou de prendre des mesures concernant des violations potentielles de nos politiques, des soupçons de fraude, des situations comportant des menaces potentielles pour la sécurité de toute personne et des activités illégales, ou comme preuve dans litige dans lequel nous sommes impliqués. Plus spécifiquement, il se peut que nous devions traiter vos données ou partager vos informations personnelles dans les situations suivantes: Vendeurs, Consultants et autres prestataires de services tiers. Nous pouvons partager vos données avec des fournisseurs tiers, des prestataires de services, des sous-traitants ou des agents qui exécutent des services pour nous ou en notre nom et qui ont besoin d'accéder à ces informations pour effectuer ce travail. Les exemples incluent: le traitement des paiements, l'analyse des données, la livraison de courrier électronique, les services d'hébergement, le service client et les efforts de marketing. Nous pouvons autoriser des tiers sélectionnés à utiliser une technologie de suivi sur les services, ce qui leur permettra de collecter des données sur la manière dont vous interagissez avec les services au fil du temps. Ces informations peuvent notamment être utilisées pour analyser et suivre des données, déterminer la popularité de certains contenus et mieux comprendre l'activité en ligne. Sauf si cela est décrit dans la présente politique, nous ne partageons, vendons, louons ou échangeons aucune de vos informations avec des tiers à des fins promotionnelles. Transferts commerciaux. Nous pouvons partager ou transférer vos informations dans le cadre de ou lors de négociations en vue d'une fusion, de la vente d'actifs de la société, d'un financement ou de l'acquisition de tout ou partie de nos activités avec une autre société. Partenaires d'affaires. Nous pouvons partager vos informations avec nos partenaires commerciaux pour vous proposer certains produits, services ou promotions. [LF]4. UTILISONS-NOUS DES COOKIES ET D'AUTRES TECHNOLOGIES DE SUIVI? [LF]En bref: nous pouvons utiliser des cookies et d'autres technologies de suivi pour collecter et stocker vos informations. Nous pouvons utiliser des cookies et des technologies de suivi similaires (telles que des balises Web et des pixels) pour accéder à des informations ou les stocker. Des informations spécifiques sur la manière dont nous utilisons ces technologies et sur la manière dont vous pouvez refuser certains cookies sont décrites dans notre politique en matière de cookies. [LF]5. VOS INFORMATIONS SONT-ELLES TRANSFÉRÉES À L'INTERNATIONAL? [LF]En bref: nous pouvons transférer, stocker et traiter vos informations dans des pays autres que le vôtre. Nos serveurs sont situés aux États-Unis. Si vous accédez à nos services de l'extérieur des États-Unis, sachez que vos informations peuvent être transférées, stockées et traitées par nous dans nos installations et par les tiers avec lesquels nous pouvons partager vos informations personnelles (voir \"\"TES INFORMATIONS\"\" ÊTRE PARTAGÉ AVEC QUELQU'UN? \"\"Ci-dessus), aux États-Unis et dans d'autres pays. Si vous êtes résident de l'Espace économique européen, il est possible que ces pays ne disposent pas de lois sur la protection des données ou autres lois aussi complètes que celles en vigueur dans votre pays. Nous prendrons toutefois toutes les mesures nécessaires pour protéger vos informations personnelles conformément à la présente politique de confidentialité et à la législation applicable. [LF]6. COMBIEN DE TEMPS CONSERVONS-NOUS VOS INFORMATIONS? [LF]En bref: Nous conservons vos informations aussi longtemps que nécessaire pour atteindre les objectifs énoncés dans la présente politique de confidentialité, sauf si la loi l'exige. Nous ne conserverons vos informations personnelles que le temps nécessaire aux fins énoncées dans la présente politique de confidentialité, sauf si une période de conservation plus longue est requise ou autorisée par la loi (comme des obligations fiscales, comptables ou autres obligations légales). Dans le cadre de cette politique, aucune finalité ne nous obligera à conserver vos informations personnelles plus longtemps que la période pendant laquelle les utilisateurs ont un compte chez nous. Lorsque nous n'avons plus besoin de traiter vos informations personnelles, nous les supprimons ou les anonymisons, ou, si cela n'est pas possible (par exemple, parce que vos informations personnelles ont été stockées dans des archives de sauvegarde), nous les stockons en toute sécurité. vos informations personnelles et les isoler de tout traitement ultérieur jusqu'à ce que la suppression soit possible. [LF]7. COLLECTONS-NOUS DES INFORMATIONS DE MINEURS? [LF]En bref: nous ne collectons pas sciemment de données auprès des enfants de moins de 18 ans ni ne les commercialisons. Nous ne sollicitons pas sciemment des données auprès des enfants de moins de 18 ans et ne les commercialisons pas. En utilisant les services, vous déclarez que vous avez au moins 18 ans ou que vous êtes le parent ou le tuteur de ce mineur et consentez à l'utilisation des services par une personne à charge mineure. Si nous apprenons que des informations personnelles d'utilisateurs de moins de 18 ans ont été collectées, nous désactiverons le compte et prendrons les mesures raisonnables pour supprimer rapidement ces données de nos archives. Si vous avez connaissance de données recueillies auprès d'enfants de moins de 18 ans, veuillez nous contacter à contact@snapshotgames.com. [LF]"
 
 msgctxt "Opening Screen/KEY_BSNAPSHOT_GAMES_INC_BACKER_BUILD_PP2"
@@ -10627,12 +11695,12 @@ msgid "PANDORAN NEST DESTROYED"
 msgstr "NID PANDORIEN DÉTRUIT"
 
 msgctxt "Missions/KEY_MISSION_ATTACK_PHOENIX_DISCOVERED_DESCRIPTION"
-msgid "You have located a Phoenix base, and brought it back online."
-msgstr "Vous avez localisé une base Phoenix et l'avez réactivée."
+msgid "You have brought an abandoned Phoenix Base back online. Repair the damaged facilities to make it fully operational."
+msgstr "Vous avez remis une base Phoenix abandonnée en fonctionnement. Réparez les installations endommagées pour qu'elle soit complètement opérationnelle."
 
 msgctxt "Missions/KEY_MISSION_ATTACK_PHOENIX_DISCOVERED_NAME"
-msgid "PHOENIX BASE DISCOVERED"
-msgstr "BASE PHOENIX DÉCOUVERTE"
+msgid "PHOENIX BASE ACTIVATED"
+msgstr "BASE PHOENIX ACTIVÉE"
 
 msgctxt "Missions/KEY_MISSION_ATTACK_SCAVENGING_SITE_BRIEFING_DESCRIPTION"
 msgid "Take as many items from the crates as you can safely manage and evacuate your squad"
@@ -10667,7 +11735,7 @@ msgid "Be aware that Pandorans will target and destroy any resource crates they 
 msgstr "Sachez que les Pandoriens cibleront et détruiront autant de caisses de ressources que possible. Vous pouvez quitter le site à tout moment à partir de la zone d'évacuation, même s'il reste encore des ennemis."
 
 msgctxt "Missions/KEY_MISSION_ATTACK_WARNING"
-msgid "Be aware of the Pandoran defence systems. Sentinels will trigger if a soldier is in its sensor range, or attacks them. Eggs will hatch if a soldier gets close."
+msgid "Be aware of the Pandoran defense systems. Sentinels will trigger if a soldier is in its sensor range, or attacks them. Eggs will hatch if a soldier gets close."
 msgstr "Faites attention aux systèmes de défense pandoriens. Les Sentinelles s'activeront si un soldat se trouve à portée de ses capteurs, ou les attaque. Les œufs écloront si un soldat s'en approche suffisamment."
 
 msgctxt "Missions/KEY_MISSION_ATTACKED_BY"
@@ -10778,8 +11846,8 @@ msgctxt "Missions/KEY_MISSION_HAVEN_ATTACK2_WARNING_DESCRIPTION"
 msgid "Intervene to eliminate the threat, protecting as many civilians as possible. If you are successful, you will receive a reward from the haven."
 msgstr "Intervenez et éliminez la menace tout en protégeant un maximum de civils. Si vous réussissez, vous recevrez une récompense de la part du refuge."
 
-msgctxt "Missions/KEY_MISSION_HAVEN_DEFENCE"
-msgid "HAVEN DEFENCE"
+msgctxt "Missions/Be aware of the Pandoran defense systems. Sentinels will trigger if a soldier is in its sensor range or attacks them. Eggs will hatch if a soldier gets close."
+msgid "HAVEN DEFENSE"
 msgstr "DÉFENSE DU REFUGE"
 
 msgctxt "Missions/KEY_MISSION_HAVEN_DEFENDERS"
@@ -10879,7 +11947,7 @@ msgid "Defend your base and eliminate all invaders."
 msgstr "Défendez votre base et éliminez tous les envahisseurs."
 
 msgctxt "Missions/KEY_MISSION_PX_BASE_DEFENCE_START"
-msgid "READY ALL DEFENCES"
+msgid "READY ALL DEFENSES"
 msgstr "PRÉPARER TOUTES LES DÉFENSES"
 
 msgctxt "Missions/KEY_MISSION_PX_BASE_DEFENCE_TITLE"
@@ -10895,12 +11963,12 @@ msgid "PHOENIX BASE DEFENDED"
 msgstr "BASE PHOENIX DÉFENDUE"
 
 msgctxt "Missions/KEY_MISSION_PX_BASE_DESTROYED_DESCRIPTION"
-msgid "Our forces were ovverun by invaders. We have no choice but abandon the base."
-msgstr "Nos forces ont été submergées par les envahisseurs. Nous n'avons pas d'autre choix que d'abandonner la base."
+msgid "Our forces were overun by invaders, and the base has suffered serious damage."
+msgstr "Nos forces ont été submergées par les envahisseurs et la base a subi de sévères dégâts."
 
 msgctxt "Missions/KEY_MISSION_PX_BASE_DESTROYED_TITLE"
-msgid "PHOENIX BASE DESTROYED"
-msgstr "BASE PHOENIX DÉTRUITE"
+msgid "PHOENIX BASE RANSACKED"
+msgstr "BASE PHOENIX SACCAGÉE"
 
 msgctxt "Missions/KEY_MISSION_PX_BASE_WARNING_DESCRIPTION"
 msgid "Base {0} is under attack by {1} forces. Eliminate the threat, protecting the base's crucial structures. Losing will result in the loss of this base."
@@ -11698,6 +12766,10 @@ msgctxt "Missions/KEY_MISSION_UPDATE_RESTART"
 msgid "A recent update has caused an incompatibility with your current saved game. No campaign progress has been lost, and you may restart the mission from the Geoscape."
 msgstr "Une mise à jour récente a causé une incompatibilité avec votre sauvegarde actuelle. La progression de votre campagne n'a pas été perdue et vous pouvez redémarrer la mission depuis le Geoscape."
 
+msgctxt "Missions/KEY_MISSION_HAVEN_DEFENCE"
+msgid "HAVEN DEFENCE"
+msgstr "DÉFENSE DU REFUGE"
+
 msgctxt "Character Names/KEY_CHARACTERNAME_RAVICHAUDRI"
 msgid "Ravi Chaudri"
 msgstr "Ravi Chaudri"
@@ -11927,12 +12999,12 @@ msgid "FIREWORM"
 msgstr "VER DE FEU"
 
 msgctxt "Characters and classes/KEY_FIREWORM_EGG_DESCRIPTION"
-msgid "WORM EGG"
-msgstr "ŒUF DE VER"
+msgid "Gives birth to a Fireworm when triggered"
+msgstr "Fait éclore un Ver de feu lorsqu'il est provoqué"
 
 msgctxt "Characters and classes/KEY_FIREWORM_EGG_NAME"
-msgid "WORM EGG"
-msgstr "ŒUF DE VER"
+msgid "FIREWORM EGG"
+msgstr "ŒUF DE VER DE FEU"
 
 msgctxt "Characters and classes/KEY_FIREWORM_NAME"
 msgid "FIREWORM"
@@ -12126,7 +13198,7 @@ msgctxt "Characters and classes/KEY_INFILTRATOR_DESCRIPTION"
 msgid "A covert specialist, trained in advanced Synedrion technology and tactics. Specialized in stealth and subterfuge."
 msgstr "Ce spécialiste de la dissimulation a été formé aux technologies et aux tactiques les plus avancées du Synédrion. Son style de combat est axé sur la furtivité et les subterfuges."
 
-msgctxt "Characters and classes/KEY_ACIDWORM_EGG_NAME"
+msgctxt "Characters and classes/FIREWORM EGG"
 msgid "ACIDWORM EGG"
 msgstr "ŒUF DE VER CAUSTIQUE"
 
@@ -12171,7 +13243,7 @@ msgid "A fully AI-controlled all-terrain Armored Personnel Carrier that utilizes
 msgstr "Un nouveau véhicule blindé tout terrain utilisant un système hybride de charge électrique et de biocarburants. Il est entièrement contrôlé par une intelligence artificielle. Équipé d'une tourelle Gauss automatique, ce véhicule peut transporter jusqu'à 4 soldats dans des environnements dangereux sans risquer l'infection."
 
 msgctxt "Characters and classes/KEY_GROUNDVEHICLE_SYN_LONG"
-msgid "Based on aircraft technology, the Aspida is a combat ready hovercraft tha powered entirely through fusion cell technology. Capable of transporting a squad of 3, the vehicle is equipped with automated field surgery robotics, allowing it to treat or paralyze biological entities on the battlefield[CR][LF]"
+msgid "Based on aircraft technology, the Aspida is a combat ready hovercraft tha powered entirely through fusion cell technology. Capable of transporting a squad of 3, the vehicle is equipped with automated field surgery robotics, allowing it to treat or paralyze biological entities on the battlefield[LF]"
 msgstr "Adaptant la technologie des vaisseaux, l'Aspida est un aéroglisseur prêt pour le combat propulsé par une technologie de cellules à fusion. Pouvant transporter jusqu'à 3 personnes, ce véhicule est équipé d'unités robotiques dotées de protocoles médicaux automatisés pouvant traiter ou paralyser des entités biologiques partout sur le champ de bataille.[LF]"
 
 msgctxt "Characters and classes/KEY_GROUNDVEHICLE_PP_LONG"
@@ -12210,6 +13282,10 @@ msgctxt "Characters and classes/KEY_GROUNDVEHICLE_ANU_8_LONG"
 msgid "A marvel of bioengineering, the Mutog has been bred to have autonomous thought, while also obeying verbal commands. Model v8 has an increased regeneration factor allowing it to heal its wounds on the battlefield. It has a bashing head and a spiked tail. "
 msgstr "Une merveille de la bioingénierie, le Mutog a été élevé pour développé une réflexion autonome tout en obéissant aux commandes verbales. Le modèle v8 bénéficie d'un facteur de régénération augmenté lui permettant de soigner ses blessures en combat. Il est doté d'une tête écrasante et d'une queue pointue."
 
+msgctxt "Characters and classes/KEY_ACIDWORM_EGG_NAME"
+msgid "ACIDWORM EGG"
+msgstr "ŒUF DE VER CAUSTIQUE"
+
 msgctxt "Loading Tips/KEY_TACTICAL_LOADING_TIP_1"
 msgid "Mindfraggers can take control of your soldiers. A risky way to remove them is to aim at the victim’s head. Handguns work best."
 msgstr "Les Corrupteurs peuvent prendre le contrôle de vos soldats. Un moyen risqué de s'en défaire est de viser la tête de la victime. Les armes de poing sont plus efficaces."
@@ -12223,8 +13299,8 @@ msgid "Carrying a handgun can be life-saving when your arm has been disabled in 
 msgstr "Les armes de poing peuvent faire la différence entre la vie et la mort lorsque votre arme a été désactivée pendant un combat. Vos deux mains doivent être libres pour pouvoir utiliser une arme à deux mains."
 
 msgctxt "Loading Tips/KEY_TACTICAL_LOADING_TIP_4"
-msgid "The Assault Soldier’s Dash ability allows a soldier to move three times the standard movement distance for the cost of Willpower (and 1 AP)."
-msgstr "La compétence Course de l'Unité d'assaut permet au soldat de parcourir trois fois la distance de déplacement normale au coût de sa Volonté (et 1 PA)."
+msgid "The Assault's Dash ability allows a soldier to move up to half its movement range for 1 Action Point."
+msgstr "La compétence Course de l'Unité d'assaut permet à un soldat de se déplacer dans la moitié de son rayon de déplacement normal et coûte 1 point d'action."
 
 msgctxt "Loading Tips/KEY_TACTICAL_LOADING_TIP_5"
 msgid "Heavy weapons weigh more and are held at waist level. Consider this when aiming from behind low cover."
@@ -12267,8 +13343,8 @@ msgid "If your soldier does not have the right class to use a weapon proficientl
 msgstr "Si votre soldat n'appartient à la bonne classe pour la maîtrise d'une arme particulière, sa précision sera plus faible. Dans le cas d'armes de contact, il y a une chance de rater l'attaque."
 
 msgctxt "Loading Tips/KEY_TACTICAL_LOADING_TIP_15"
-msgid "In a scavenging mission, the more crates you prevent from being destroyed, the more resources you will get at the end."
-msgstr "Durant une mission sur un site de ressources, plus vous parvenez à protéger de caisses, plus vous obtiendrez de ressources."
+msgid "In a scavenging mission, your goal is to collect resource packs from crates and escape from the map. Don't take too many risks!"
+msgstr "La compétence Course de l'Unité d'assaut permet à un soldat de se déplacer dans la moitié de son rayon de déplacement normal et coûte 1 point d'action."
 
 msgctxt "Loading Tips/KEY_TACTICAL_LOADING_TIP_16"
 msgid "Mist spread during a mission will conceal Pandorans and restore their Will Points. If one of your soldiers is caught inside mist he will be revealed to the enemy and will lose Will Points."
@@ -12367,8 +13443,8 @@ msgid "You will need to complete a faction's special mission (see DIPLOMACY tab)
 msgstr "Vous devrez terminer la mission spéciale d'une faction (voir l'onglet DIPLOMATIE) afin de pouvoir faire progresser vos relations jusqu'au niveau suivant (favorable, aligné, allié)."
 
 msgctxt "Loading Tips/KEY_GEOSCAPE_LOADING_TIP_11"
-msgid "It is important to find other Phoenix bases as soon as you can. Conduct area scans and explore as much as possible."
-msgstr "Trouver d'autres bases Phoenix au plus vite est primordial. Effectuez des balayages de zone et explorez autant que vous le pouvez."
+msgid "It is important to activate Phoenix Bases near mist growth points to reveal Pandoran colonies when they attack havens."
+msgstr "C'est important d'activer les bases Phoenix proches des points de génération de la brume pour révéler les colonies pandoriennes lorsque celles-ci attaquent les refuges."
 
 msgctxt "Body parts/KEY_ABDOMEN_NAME"
 msgid "ABDOMEN"
@@ -13478,10 +14554,6 @@ msgctxt "Equipment/KEY_NJ_ASSAULT_LEGS_NAME2"
 msgid "Wardog Leg Armor"
 msgstr "Jambières de Wardog"
 
-msgctxt "Equipment/KEY_NJ_ASSAULT_NAME"
-msgid "NEW JERICHO ASSAULT"
-msgstr "UNITÉ D'ASSAUT DE LA NOUVELLE-JÉRICHO"
-
 msgctxt "Equipment/KEY_NJ_ASSAULT_RIFLE_DESCRIPTION"
 msgid "New Jericho Gauss Assault Rifle"
 msgstr "Fusil d'assaut Gauss de la Nouvelle-Jéricho"
@@ -13649,10 +14721,6 @@ msgstr "Jambières de Tireur d'élite de la Nouvelle-Jéricho"
 msgctxt "Equipment/KEY_NJ_SNIPER_LEGS_NAME2"
 msgid "Eidolon Leg Armor"
 msgstr "Jambières Eidolon"
-
-msgctxt "Equipment/KEY_NJ_SNIPER_NAME"
-msgid "NJ SNIPER"
-msgstr "Tireur d'élite de la Nouvelle-Jéricho"
 
 msgctxt "Equipment/KEY_NJ_SNIPER_RIFLE_DESCRIPTION"
 msgid "New Jericho Gauss Sniper Rifle"
@@ -14255,7 +15323,7 @@ msgid "Fire-Res Vest Module"
 msgstr "Gilet anti-flammes"
 
 msgctxt "Equipment/KEY_NJ_FIRE_RES_VEST_ATTACHMENT_DESCRIPTION"
-msgid "New Jericcho Fire-resistant Undersuit Module"
+msgid "New Jericho Fire-resistant Undersuit Module"
 msgstr "Module corporel anti-flammes de la Nouvelle-Jéricho"
 
 msgctxt "Equipment/KEY_PX_GOO_REPEL_ATTACHMENT_NAME"
@@ -14944,5 +16012,5 @@ msgstr "Les Rejetés"
 
 msgctxt "Lore/KEY_LORE_DESC_FORSAKEN"
 msgid "For decades Disciples of Anu had practised the exiling, or outcasting, of their members that were too weak to withstand the mutation gifts they acquired. According to preliminary reports, ninety percent of them would die within a few weeks. With time, tho, the survivors slowly grouped together forming bandit squads that would roam the world looking for food and resources.[LF][LF]Completely mutated, and with no loyalty to the Exalted or anyone else, these outcasts banded together in their mind breaking dreams. They appear to lack any hierarchy or command structure, yet are able to organize themselves to attack small targets. Lately, their attacks have become bolder and better planned, as if they are somehow linked to each other. [LF][LF]At present the outcast’s threat level remains low."
-msgstr "Pendant des dizaines d'années, les Disciples d'Anu ont pratiqué l'exil ou l'exclusion des membres qui étaient trop faibles pour supporter les mutations qu'ils avaient acquises. Selon les premiers rapports, quatre-vingt-dix pour cent d'entre eux seraient morts au bout de quelques semaines. Mais, avec le temps, les survivants ont commencé à se regrouper pour former des groupes de bandits qui parcourent le monde en quête de vivres et de ressources.[LF][LF]Des mutants complets, et sans sentiment de loyauté envers l'Exaltée ou autre, ces parias se sont retrouvés dans leurs fantasmes démentiels. Ils semblent n'avoir ni hiérarchie ni structure de commandes, mais ils sont pourtant capables de s'organiser pour attaquer de petites cibles. Récemment, leurs attaques sont plus téméraires et mieux planifiées, comme s'ils étaient inexplicablement reliés les uns aux autres.[LF] [LF]À l'heure actuelle, la menace des parias reste faible."
+msgstr "Pendant des dizaines d'années, les Disciples d'Anu ont pratiqué l'exil ou l'exclusion des membres qui étaient trop faibles pour supporter les mutations qu'ils avaient acquises. Selon les premiers rapports, quatre-vingt-dix pour cent d'entre eux seraient morts au bout de quelques semaines. Mais, avec le temps, les survivants ont commencé à se regrouper pour former des groupes de bandits qui parcourent le monde en quête de vivres et de ressources.[LF] [LF]Des mutants complets, et sans sentiment de loyauté envers l'Exaltée ou autre, ces parias se sont retrouvés dans leurs fantasmes démentiels. Ils semblent n'avoir ni hiérarchie ni structure de commandes, mais ils sont pourtant capables de s'organiser pour attaquer de petites cibles. Récemment, leurs attaques sont plus téméraires et mieux planifiées, comme s'ils étaient inexplicablement reliés les uns aux autres.[LF] [LF]À l'heure actuelle, la menace des parias reste faible."
 

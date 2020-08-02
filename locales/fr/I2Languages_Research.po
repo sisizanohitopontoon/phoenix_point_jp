@@ -63,6 +63,10 @@ msgid "The Disciples of Anu are a syncretic religion dedicated to the pursuit of
 msgstr "Les Disciples d'Anu forment une religion syncrétiste cherchant à atteindre la perfection biologique. Fortement hiérarchisée, ils sont dirigés par une entité connue sous le nom de l'Exaltée."
 
 msgctxt "Research/ANU_ANUFUNGUSFOOD_RESEARCHDEF_BENEFITS"
+msgid "The food production facility is available for construction in Phoenix bases."
+msgstr "[null]"
+
+msgctxt "Research/ANU_ANUFUNGUSFOOD_RESEARCHDEF_OLDBENEFITS"
 msgid "Food production facilities increase output by 25%."
 msgstr "La production générée par les installations alimentaires est augmentée de 25 %."
 
@@ -311,7 +315,7 @@ msgid "Soldier recruitment cost is decreased by 50%."
 msgstr "Le coût de recrutement des soldats est réduit de 50 %."
 
 msgctxt "Research/NJ_COMMANDFORTRESS_RESEARCHDEF_COMPLETE"
-msgid "The plans for the Fortress incoporate the best of New Jericho command and control systems. Production costs will be high, but once built, the Fortress will become the capital of New Jericho and the central hub of all its military and production systems. From here, Tobias West will be able to fully exercise his strategic genius, planning the campaign to utterly annihilate the Pandoran threat on Earth.[LF]The AI analysis and communications systems in this design will also help us identify and reach out to more potential recruits, reducing our recruitment costs significantly.[LF]"
+msgid "The plans for the Fortress incorporate the best of New Jericho command and control systems. Production costs will be high, but once built, the Fortress will become the capital of New Jericho and the central hub of all its military and production systems. From here, Tobias West will be able to fully exercise his strategic genius, planning the campaign to utterly annihilate the Pandoran threat on Earth.[LF]The AI analysis and communications systems in this design will also help us identify and reach out to more potential recruits, reducing our recruitment costs significantly.[LF]"
 msgstr "Les plans de cette forteresse incorporent les meilleurs systèmes de commandement et de contrôle de la Nouvelle-Jéricho. Les coûts de production seront élevés, mais une fois construite, la forteresse deviendra la capitale de la Nouvelle-Jéricho et sera au cœur de ses systèmes militaires et de production. Ensuite, Tobias West pourra laisser libre cours à son génie stratégique pour planifier sa campagne pour annihiler la menace Pandorienne sur Terre.[LF]L'analyse de l'IA et des systèmes de communication nous aideront à identifier et contacter davantage de recrues potentielles, ce qui en réduira grandement les coûts."
 
 msgctxt "Research/NJ_COMMANDFORTRESS_RESEARCHDEF_NAME"
@@ -395,7 +399,7 @@ msgid "Direct command of weapon systems by thought alone can transform soldiers 
 msgstr "Un commandement direct du système d'armement par la simple pensée peut transformer les soldats en lourdes plateformes d'armement."
 
 msgctxt "Research/NJ_PIERCERTECH_RESEARCHDEF_COMPLETE"
-msgid "The heat problems caused by extreme muzzle velocities have been overcome, allowing gauss weapons to be significantly upgraded. Although the new weapons will have a smaller caliber, the ammunition will penetrate armor much more effectively. The cost of production remains high, but such technological advances are essential if we are to defeat the Pandorans, whose very existence forces us into a neverending arms race.[CR][LF][CR][LF]"
+msgid "The heat problems caused by extreme muzzle velocities have been overcome, allowing gauss weapons to be significantly upgraded. Although the new weapons will have a smaller caliber, the ammunition will penetrate armor much more effectively. The cost of production remains high, but such technological advances are essential if we are to defeat the Pandorans, whose very existence forces us into a neverending arms race.[LF][LF][LF]"
 msgstr "Les problèmes de surchauffe des canons à haute vélocité a été résolu, permettant aux armes Gauss une considérable amélioration. Bien que les nouvelles armes soient d'un calibre inférieur, les munitions pénétreront plus profondément dans les blindages. Le coût de production reste élevé, mais une telle technologie est essentielle si nous voulons pouvoir vaincre les Pandoriens, dont l'existence nous obligent à leur livrer une guerre à l'armement constante."
 
 msgctxt "Research/NJ_PIERCERTECH_RESEARCHDEF_NAME"
@@ -463,8 +467,8 @@ msgid "Tobias West once remarked that purity has no greater ally than a burning 
 msgstr "Tobias West a observé un jour que des flammes incandescentes sont les meilleures alliés de toute purification. Les armes incendiaires pourraient être les meilleurs outils."
 
 msgctxt "Research/NJ_SATELITEUPLINK_RESEARCHDEF_BENEFITS"
-msgid "Scanning radius of all our aircraft is increased by 25%."
-msgstr "L'aire de balayage de tous nos vaisseaux est augmentée de 25 %."
+msgid "Scanning range of Phoenix Bases is increased by 25%"
+msgstr "Le rayon de balayage des bases Phoenix est augmenté de 25 %"
 
 msgctxt "Research/NJ_SATELITEUPLINK_RESEARCHDEF_COMPLETE"
 msgid "New Jericho can now build satellite uplinks in havens, which improve the operational range of havens and actively locate alien structures. The construction of these facilities would likely antagonise other factions, but it would also greatly improve New Jericho’s ability to fight the Pandoran infection. The technology would also be useful for our own operations, improving the range of our satellite scans."
@@ -539,7 +543,7 @@ msgid "A group of New Jericho scientists proposed upgrading older armored vehicl
 msgstr "Un groupe de scientifiques de la Nouvelle-Jéricho a proposé de mettre à niveau les anciens véhicules blindés pour les équiper de la technologie la plus récente et créer un APC mieux adapté aux conditions présentes."
 
 msgctxt "Research/NJ_WALLSOFJERICHO_RESEARCHDEF_BENEFITS"
-msgid "Pandoran attacks on Pheonix bases are reduced by one threat level"
+msgid "Pandoran attacks on Phoenix bases are reduced by one threat level"
 msgstr "Les attaques pandoriennes sur les bases Phoenix baissent d'un niveau de menace."
 
 msgctxt "Research/NJ_WALLSOFJERICHO_RESEARCHDEF_COMPLETE"
@@ -1051,20 +1055,20 @@ msgid "While treating a soldier affected by a Siren attack, the Phoenix medical 
 msgstr "En traitant un soldat infecté par une attaque de Sirène, l'équipe médicale de Phoenix a découvert que ce qu'ils croyaient être du poison était une nouvelle souche de virus. Les tentatives pour traiter cette souche n'ont montré aucun résultat prometteur, mais plus de temps et de ressources sont nécessaires si l'on veut réaliser de réels progrès."
 
 msgctxt "Research/PX_SDI_RESEARCHDEF_BENEFITS"
-msgid "Delirium monitoring system available."
-msgstr "Système de suivi du délire disponible."
+msgid "Human population monitoring available"
+msgstr "Surveillance de la population humaine disponible"
 
 msgctxt "Research/PX_SDI_RESEARCHDEF_COMPLETE"
-msgid "An Oneiric Delirium Index (ODI) algorithm has been developed. This will allow us to keep track of the strength of the unknown mental phenomena caused by the Pandoran presence, which appear to be increasing in severity as they expand their grip on our world. As the ODI increases, more humans will experience nightmares, hallucinations, detachment from reality, and eventually brain seizures and death.[LF][LF]We have estimated a tipping point for ODI, beyond which the human race cannot be saved."
-msgstr "Un algorithme pour l'Indice de délire onirique (IDO) a été élaboré. Celui-ci nous permettra de suivre la puissance des phénomènes mentaux inconnus causés par la présence de Pandoriens, qui semblent être de plus en plus graves à mesure que les Pandoriens élargissent leur emprise sur le monde. Avec l'augmentation de l'IDO, davantage d'humains feront des cauchemars, auront des hallucinations, seront détachés de la réalité et finiront par avoir des convulsions avant de mourir.[LF][LF]Nous avons estimé le seuil critique de l'IDO. Au-delà de ce seuil, la race humaine ne peut plus être sauvée."
+msgid "The total human population gathered in the safety of havens can now be tracked on a daily basis. We have also calculated the survival threshold for human reproduction once the Pandoran threat is eliminated. If the population falls below this threshold, then humanity will not survive in the long term. It is imperative that we do not let this happen."
+msgstr "La population humaine totale à l'abri dans les refuges peut désormais être suivie quotidiennement. Nous avons également calculé le seuil de survie pour la reproduction humaine une fois que la menace pandorienne sera éliminée. Si la population tombe en dessous de ce seuil, l'humanité ne survivra pas à long terme. Il est impératif d'éviter que cela ne se produise."
 
 msgctxt "Research/PX_SDI_RESEARCHDEF_NAME"
-msgid "Oneiric Delirium Index"
-msgstr "Indice de délire onirique"
+msgid "Human Population Census"
+msgstr "Recensement de la population humaine"
 
 msgctxt "Research/PX_SDI_RESEARCHDEF_UNLOCK"
-msgid "We could develop the Oneiric Delirium Index concept proposed by Randolph Symes III into a system for tracking the unusual mental phenomena caused by the Pandoran presence."
-msgstr "Nous pourrions développer le concept d'Indice de délire onirique proposé par Randolph Symes III en un système visant à suivre les phénomènes mentaux inhabituels causés par la présence de Pandoriens."
+msgid "By collecting information from all human havens we can evaluate the Pandoran threat to human survival on our planet."
+msgstr "En recueillant des information auprès de tous les refuges humains, nous pouvons évaluer la menace que les Pandoriens présentent pour la survie humaine sur notre planète."
 
 msgctxt "Research/PX_ATMOSPHERICANALYSIS_RESEARCHDEF_BENEFITS"
 msgid "Global mist monitoring system available."
@@ -1763,7 +1767,7 @@ msgid "Further advances in bionics would provide soldiers with enhanced capabili
 msgstr "Les avancées plus poussées en bionique fournissent aux soldats des capacités optimisées, ainsi que la possibilité d'intégrer leurs corps à la technologie neurale existante."
 
 msgctxt "Blood Titanium/NJ_BIONICS2_RESEARCHDEF_COMPLETE"
-msgid "A new series of equipment and procedures now allow test subjects to have parts of their bodies replaced with more sophisticated mechanical components increasing their efficiency in battle. Thanks to the development of bio-alloys implant rejection rates are less than 0.02%, allowing nearly seamless incorporation of original nervous system and other connecting tissue.[CR][LF][CR][LF]As of yet bionic self-reparation has proven unsuccessful, requiring complete replacement should a malfunction occur. All new implants can now be produced in the Bionics Lab."
+msgid "A new series of equipment and procedures now allow test subjects to have parts of their bodies replaced with more sophisticated mechanical components increasing their efficiency in battle. Thanks to the development of bio-alloys implant rejection rates are less than 0.02%, allowing nearly seamless incorporation of original nervous system and other connecting tissue.[LF][LF][LF]As of yet bionic self-reparation has proven unsuccessful, requiring complete replacement should a malfunction occur. All new implants can now be produced in the Bionics Lab."
 msgstr "Une nouvelle série d'équipements et de procédures permet maintenant aux sujets de test de remplacer des parties de leur corps par des composants mécaniques plus sophistiqués qui améliorent leur efficacité au combat. Grâce au développement d'alliages bioniques, les taux de rejet des implants sont inférieurs à 0,02 %, permettant une incorporation presque parfaite du système nerveux original et d'autres tissus de connexion.[LF][LF] À ce jour, la réparation automatique bionique s'est avérée infructueuse, nécessitant un remplacement complet en cas de dysfonctionnement. Tous les nouveaux implants peuvent désormais être produits dans le Laboratoire bionique."
 
 msgctxt "Blood Titanium/NJ_BIONICS2_RESEARCHDEF_BENEFITS"
@@ -1785,6 +1789,946 @@ msgstr "Après une intégration réussie du développement de nanorobots du Syn�
 msgctxt "Blood Titanium/SYN_BIONICS3_RESEARCHDEF_BENEFITS"
 msgid "Cybernetics Lab facility and additional designs."
 msgstr "Laboratoire de cybernétique et designs supplémentaires."
+
+msgctxt "Pandoran Research/ALN_NEST_RESEARCHDEF_NAME"
+msgid "PANDORAN NEST"
+msgstr "NID PANDORIEN"
+
+msgctxt "Pandoran Research/ALN_NEST_RESEARCHDEF_COMPLETE"
+msgid "The Pandorans have developed the ability to build structures on land capable of breeding and mutating large quantities of biomass."
+msgstr "Les Pandoriens ont développé la capacité de construire des structures sur terre capable de se reproduire et de transformer de grandes quantités de biomasse."
+
+msgctxt "Pandoran Research/ALN_LAIR_RESEARCHDEF_NAME"
+msgid "PANDORAN LAIR"
+msgstr "TANIÈRE PANDORIENNE"
+
+msgctxt "Pandoran Research/ALN_LAIR_RESEARCHDEF_COMPLETE"
+msgid "A new type of Pandoran structure has evolved capable of generating far more powerful mutations, and with far greater reach."
+msgstr "Un nouveau type de structure pandorienne a développé la capacité de générer des mutations bien plus performantes avec une portée beaucoup plus longue."
+
+msgctxt "Pandoran Research/ALN_CITADEL_RESEARCHDEF_NAME"
+msgid "PANDORAN CITADEL"
+msgstr "CITADELLE PANDORIENNE"
+
+msgctxt "Pandoran Research/ALN_CITADEL_RESEARCHDEF_COMPLETE"
+msgid "An Apex mutation is being developed in a huge, cavernous structure. This poses a serious threat to human life on earth."
+msgstr "La pointe de la mutation est en cours de création dans une énorme structure caverneuse. Ceci représente une grave menace pour la vie humaine sur terre."
+
+msgctxt "Pandoran Research/ALN_ACIDTECH_RESEARCHDEF_NAME"
+msgid "PANDORAN ACID TECH"
+msgstr "TECHNOLOGIE CAUSTIQUE PANDORIENNE"
+
+msgctxt "Pandoran Research/ALN_ACIDTECH_RESEARCHDEF_COMPLETE"
+msgid "Pandorans have enhanced their capability with acid based combat systems."
+msgstr "Les Pandoriens ont amélioré leur capacité avec des mécanismes caustiques de combat."
+
+msgctxt "Pandoran Research/ALN_VIRALTECH_RESEARCHDEF_NAME"
+msgid "PANDORAN VIRAL TECH"
+msgstr "TECHNOLOGIE VIRALE PANDORIENNE"
+
+msgctxt "Pandoran Research/ALN_VIRALTECH_RESEARCHDEF_COMPLETE"
+msgid "Pandorans have weaponized a Pandoravirus mutation with instant effects for deployment on the battlefield."
+msgstr "Les Pandoriens ont armé une mutation avec des effets instantanés pour le déploiement sur le site de combat."
+
+msgctxt "Pandoran Research/ALN_CRABMANBASIC_RESEARCHDEF_NAME"
+msgid "ARTHRON"
+msgstr "ARTHRON"
+
+msgctxt "Pandoran Research/ALN_CRABMANBASIC_RESEARCHDEF_COMPLETE"
+msgid "Species classification A-1[LF]A human mutation with sea creature DNA we have named the Arthron. It uses its large claw to attack in close combat."
+msgstr "Classification de l'espèce A-1[LF]Une mutation humaine intégrant l'ADN d'une créature marine que nous avons nommée Arthron. Ce mutant utilise sa grosse griffe pour attaquer en combat rapproché."
+
+msgctxt "Pandoran Research/ALN_CRABMANCHARGER_RESEARCHDEF_NAME"
+msgid "ARTHRON BRUTE"
+msgstr "ARTHRON BRUTE"
+
+msgctxt "Pandoran Research/ALN_CRABMANCHARGER_RESEARCHDEF_COMPLETE"
+msgid "Species classification A-Alpha[LF]A new type of Arthron evolved for close combat. The most noticeable difference is the presence of an organic shield and the ability to spit poison at medium range. The specimen has shown to exhibit increased aggression"
+msgstr "Classification de l'espèce A-Alpha[LF]Un nouveau type d'Arthron qui a évolué pour le combat rapproché. Les différences les plus évidentes sont le bouclier organique et sa capacité à cracher du poison à portée moyenne. Ce spécimen montre une agressivité accrue."
+
+msgctxt "Pandoran Research/ALN_CRABMANADVANCEDCHARGER_RESEARCHDEF_NAME"
+msgid "ARTHRON BRUTE ALPHA"
+msgstr "ATHRON BRUTE ALPHA"
+
+msgctxt "Pandoran Research/ALN_CRABMANADVANCEDCHARGER_RESEARCHDEF_COMPLETE"
+msgid "Species classification A-Alpha-1[LF]An enhanced variation of the Brute mutation with enhanced melee capabilities. Reports state that the creature has an evolved pincer limb capable of considerable damage. "
+msgstr "Classification de l'espèce A-Alpha-1[LF]Une variante optimisée du mutant Brute avec des capacités augmentées en combat rapproché. Selon les rapports, cette créature est dotée d'une pince qui peut infliger des dégâts considérables."
+
+msgctxt "Pandoran Research/ALN_CRABMANADVANCEDCHARGER2_RESEARCHDEF_NAME"
+msgid "ARTHRON BRUTE ALPHA"
+msgstr "ATHRON BRUTE ALPHA"
+
+msgctxt "Pandoran Research/ALN_CRABMANADVANCEDCHARGER2_RESEARCHDEF_COMPLETE"
+msgid "Species classification A-Alpha-2[LF]A mutation of the Brute, this subspecies has evolved internal organs capable of delivering highly toxic poison in combat. While antidotes for the poison are developed, its speed and strength render the creature extremely dangerous."
+msgstr "Classification de l'espèce A-Alpha-2[LF]Une mutation de la Brute, cette sous-espèce a développé des organes internes capables de projeter un poison très toxique en combat. Des antidotes sont en cours de développement, mais sa vitesse et sa force rendent cette créature extrêmement dangereuse."
+
+msgctxt "Pandoran Research/ALN_CRABMANELITECHARGER_RESEARCHDEF_NAME"
+msgid "ARTHRON BRUTE CHAMPION"
+msgstr "ATHRON BRUTE CHAMPION"
+
+msgctxt "Pandoran Research/ALN_CRABMANELITECHARGER_RESEARCHDEF_COMPLETE"
+msgid "Species classification A-Alpha-E1[LF]An enhanced form of the Brute equipped with a strengthened shield and pincer. The observed specimens exhibit increased intelligence and are capable of cunning and tactical thought on the battlefield. To be approached with extreme caution."
+msgstr "Classification de l'espèce A-Alpha-E1[LF]Une forme améliorée de la Brute équipée d'un bouclier et d'une pince renforcés. Les spécimens observés font preuve d'une intelligence supérieure et sont capables de ruses et de pensées tactiques sur le champ de bataille. À approcher avec grande prudence."
+
+msgctxt "Pandoran Research/ALN_CRABMANELITECHARGER2_RESEARCHDEF_NAME"
+msgid "ARTHRON BRUTE CHAMPION"
+msgstr "ATHRON BRUTE CHAMPION"
+
+msgctxt "Pandoran Research/ALN_CRABMANELITECHARGER2_RESEARCHDEF_COMPLETE"
+msgid "Species classification A-Alpha-E2[LF]An evolution of the Brute further suited for close combat. Reports indicate that the creature's chitin has mutated to the point of combat armor allowing it to survive a direct hit in the head. Its legs and torso are believed to present its major weaknesses."
+msgstr "Classification de l'espèce A-Alpha-E2[LF]Une évolution de la Brute mieux adaptée au combat rapproché. Les rapports indiquent que la chitine de cette créature a muté au point de devenir une armure de combat lui permettant de survivre un coup direct dans la tête. Ses jambes et son buste présenteraient apparemment ses plus grandes faiblesses."
+
+msgctxt "Pandoran Research/ALN_CRABMANELITECHARGER3_RESEARCHDEF_NAME"
+msgid "ARTHRON BRUTE CHAMPION"
+msgstr "ATHRON BRUTE CHAMPION"
+
+msgctxt "Pandoran Research/ALN_CRABMANELITECHARGER3_RESEARCHDEF_COMPLETE"
+msgid "Species classification A-Alpha-E3[LF]A nearly fully armored Brute. While its combat capabilities remain similar to other types of Brute, its legs and torso are considerably strengthened, rendering it almost immune to standard weapons."
+msgstr "Classification de l'espèce A-Alpha-E3[LF]Une Brute en armure presque complète. Ses capacités de combat restent similaires aux autres types de Brute, mais ses jambes et son buste sont considérablement renforcés, ce qui le rend presque immunisé aux armes normales."
+
+msgctxt "Pandoran Research/ALN_CRABMANULTRACHARGER_RESEARCHDEF_NAME"
+msgid "ARTHRON BRUTE PRIME"
+msgstr "ATHRON BRUTE ACCOMPLI"
+
+msgctxt "Pandoran Research/ALN_CRABMANULTRACHARGER_RESEARCHDEF_COMPLETE"
+msgid "Species classification A-Alpha-CAS[LF]The specimen is believed to be the peak of Brute evolution. Lacking any known weak spots, the specimen is capable of complex thinking and command capability when on the battlefield. When encountered, it is recommended that it be taken out first."
+msgstr "Classification de l'espèce A-Alpha-CAS[LF]Ce spécimen est considéré comme le summum de l'évolution de la Brute. Sans aucun point faible connu, ce mutant est capable de réflexion complexe et de commandement sur le champ de bataille. Si rencontré, il est recommandé de l'éliminer en premier."
+
+msgctxt "Pandoran Research/ALN_CRABMANSHIELDER_RESEARCHDEF_NAME"
+msgid "ARTHRON SHIELDBEARER"
+msgstr "ARHTRON À BOUCLIER"
+
+msgctxt "Pandoran Research/ALN_CRABMANSHIELDER_RESEARCHDEF_COMPLETE"
+msgid "Species classification A-Beta[LF]A new specimen of Arthorn, mutated to have a large carapace and organic shield additionally protecting it from physical damage. Behavior analysis suggests this might be the Pandoran's attempt to create an equivalent of the Heavy Soldier class."
+msgstr "Classification de l'espèce A-Bêta[LF]Un nouveau spécimen d'Arthron, muté pour posséder une grosse carapace et un bouclier organique pour le protéger des dégâts physiques. L'analyse de son comportement suggère que c'est peut-être une tentative pandorienne visant à créer l'équivalent de la classe de soldat mastodonte."
+
+msgctxt "Pandoran Research/ALN_CRABMANADVANCEDSHIELDER_RESEARCHDEF_NAME"
+msgid "ARTHRON SHIELDBEARER ALPHA"
+msgstr "ARTHRON À BOUCLIER ALPHA"
+
+msgctxt "Pandoran Research/ALN_CRABMANADVANCEDSHIELDER_RESEARCHDEF_COMPLETE"
+msgid "Species classification A-Beta-1[LF]An enhanced form of Shieldbearer with reinforced carapace and shield that could withstand heavy blast damage. No significant behavior changes have been noticed at this point. Use of superior firepower is recommended."
+msgstr "Classification de l'espèce A-Bêta-1[LF]Une forme avancée du porteur de l'Arthron à bouclier avec une carapace renforcée et un bouclier pouvant résister à des dégâts explosifs sévères. Aucun changement de comportement n'a été constaté jusqu'à présent. Arme à feu supérieure recommandée."
+
+msgctxt "Pandoran Research/ALN_CRABMANADVANCEDSHIELDER2_RESEARCHDEF_NAME"
+msgid "ARTHRON SHIELDBEARER ALPHA"
+msgstr "ARTHRON À BOUCLIER ALPHA"
+
+msgctxt "Pandoran Research/ALN_CRABMANADVANCEDSHIELDER2_RESEARCHDEF_COMPLETE"
+msgid "Species classification A-Beta-2[LF]A mutation of the Shieldbearer subspecies evolved for close quarter combat. Reports have confirmed that the creature's limbs have been significantly enhanced, including the creature's pincer. The head remains a known weak spot."
+msgstr "Classification de l'espèce A-Bêta-2[LF]Une mutation de sous-espèce de l'Arthron à bouclier élaboré pour le combat rapproché. Les rapports confirment que les membres de cette créature ont été considérablement optimisés, notamment sa pince. Sa tête reste un point faible connu."
+
+msgctxt "Pandoran Research/ALN_CRABMANELITESHIELDER_RESEARCHDEF_NAME"
+msgid "ARTHRON SHIELDBEARER CHAMPION"
+msgstr "ARTHRON À BOUCLIER CHAMPION"
+
+msgctxt "Pandoran Research/ALN_CRABMANELITESHIELDER_RESEARCHDEF_COMPLETE"
+msgid "Species classification A-Beta-E1[LF]Described as an elite version of the Shieldbearer, the subspecies is nearly entirely armored and capable of tactical thought. Observation has confirmed that specimens have on occasion taken action to protect weaker Pandorans allowing others to advance and attack."
+msgstr "Classification de l'espèce A-Bêta-E1[LF]Décrit comme une version d'élite de l'Arthron à bouclier, cette sous-espèce est presque complètement protégée par une armure et capable de réflexion tactique. L'observation confirme que ces spécimens ont occasionnellement pris des mesures pour protéger des Pandoriens plus faibles permettant aux autres d'avancer et d'attaquer."
+
+msgctxt "Pandoran Research/ALN_CRABMANELITESHIELDER2_RESEARCHDEF_NAME"
+msgid "ARTHRON SHIELDBEARER CHAMPION"
+msgstr "ARTHRON À BOUCLIER CHAMPION"
+
+msgctxt "Pandoran Research/ALN_CRABMANELITESHIELDER2_RESEARCHDEF_COMPLETE"
+msgid "Species classification A-Beta-E2[LF]The creature is a highly evolved Shieldbearer equipped with enhanced pincer and shields arms. Unlike other creatures, it is speculated that its method of combat is to attract attention to itself giving the opportunity of other creatures to flank its attackers."
+msgstr "Classification de l'espèce A-Bêta-E2[LF]La créature est un Arthron à bouclier très évolué et équipé de bras à pince et boucliers optimisés. Contrairement aux autres créatures, on suppose que sa méthode de combat consiste à attirer l'attention sur lui pour donner aux autres créatures la possibilité de flanquer ses adversaires."
+
+msgctxt "Pandoran Research/ALN_CRABMANELITESHIELDER3_RESEARCHDEF_NAME"
+msgid "ARTHRON SHIELDBEARER CHAMPION"
+msgstr "ARTHRON À BOUCLIER CHAMPION"
+
+msgctxt "Pandoran Research/ALN_CRABMANELITESHIELDER3_RESEARCHDEF_COMPLETE"
+msgid "Species classification A-Beta-E2[LF]A subspecies of Shieldbearer evolved specifically to counter machine gun and shotgun damage. Reports indicate that a few of these have been enough to dispatch entire squads of soldiers equipped with standard and substandard weapons. If encountered retreat is strongly recommended. "
+msgstr "Classification de l'espèce A-Bêta-E2[LF]Une sous-espèce de l'Arthron à bouclier qui a évolué essentiellement pour contrer les attaques à la mitrailleuse et au fusil à pompe. Les rapports indiquent qu'une poignée de ces créatures suffit pour neutraliser des escouades entières de soldats équipés d'armes standard et inférieures. En cas de rencontre, le repli est vivement recommandé."
+
+msgctxt "Pandoran Research/ALN_CRABMANULTRASHIELDER_RESEARCHDEF_NAME"
+msgid "ARTHRON SHIELDBEARER PRIME"
+msgstr "ARTHRON À BOUCLIER ACCOMPLI"
+
+msgctxt "Pandoran Research/ALN_CRABMANULTRASHIELDER_RESEARCHDEF_COMPLETE"
+msgid "Species classification A-Beta-CAS[LF]A commander type specimen, this creature is the apex of Shieldbearer evolution. Shielded by thick chitin with no known weak spots, it takes the role of a leader, directing other units on the battlefield. It is estimated that eliminating this Arthron, would decrease overall enemy performance by seventeen percent."
+msgstr "Classification de l'espèce A-Bêta-CAS[LF]Un spécimen de type commandant, cette créature représente la pointe de l'évolution de l'Arthron à bouclier. Protégé par une chitine épaisse sans aucun point faible, il prend le rôle de leader, dirigeant les autres unités sur le champ de bataille. On estime qu'éliminer cet Arthron réduirait la performance globale de l'ennemi de dix-sept pour cent."
+
+msgctxt "Pandoran Research/ALN_CRABMANGUNNER_RESEARCHDEF_NAME"
+msgid "ARTHRON GUNNER"
+msgstr "ARTHRON ARTILLEUR"
+
+msgctxt "Pandoran Research/ALN_CRABMANGUNNER_RESEARCHDEF_COMPLETE"
+msgid "Species classification A-Gamma[LF]The first type of Arthron that has adapted to the use of firearms. The exact method of this process remains unclear, but somehow they managed to transform old human weapons and incorporate them into their bodies."
+msgstr "Classification de l'espèce A-Gamma[LF]Le premier type d'Arthron qui s'est adapté à l'utilisation des armes à feu. La méthode exacte de ce processus reste vague, mais ils parviennent parfois à transformer de vieilles armes humaines et à les incorporer dans leur corps."
+
+msgctxt "Pandoran Research/ALN_COMMANDO_RESEARCHDEF_NAME"
+msgid "ARTHRON SCOURGE"
+msgstr "ARTHRON FLÉAU"
+
+msgctxt "Pandoran Research/ALN_COMMANDO_RESEARCHDEF_COMPLETE"
+msgid "Species classification A-Gamma[LF]The first type of Arthron that has adapted to use grenades and firearms. The exact method of this process remains unclear, but somehow they managed to transform old human weapons and incorporate them into their bodies."
+msgstr "Classification de l'espèce A-Gamma[LF]Le premier type d'Arthron qui s'est adapté à l'utilisation des grenades et des armes à feu. La méthode exacte de ce processus reste vague, mais ils parviennent parfois à transformer de vieilles armes humaines et à les incorporer dans leur corps."
+
+msgctxt "Pandoran Research/ALN_ADVANCEDCOMMANDO_RESEARCHDEF_NAME"
+msgid "ARTHRON SCOURGE ALPHA"
+msgstr "ARTHRON FLÉAU ALPHA"
+
+msgctxt "Pandoran Research/ALN_ADVANCEDCOMMANDO_RESEARCHDEF_COMPLETE"
+msgid "Species classification A-Gamma-1[LF]A variation of Scourge, this subspecies is equipped with a superior machine gun and is better capable of using it. Observation suggests that the weapon has merged with the biological part of the creature's arm."
+msgstr "Classification de l'espèce A-Gamma-1[LF]Une variante du Fléau, cette sous-espèce est équipée d'une mitrailleuse supérieure qu'elle peut mieux utiliser. D'après nos observations, l'arme a fusionné avec la partie biologique du bras de la créature."
+
+msgctxt "Pandoran Research/ALN_ADVANCEDCOMMANDO2_RESEARCHDEF_NAME"
+msgid "ARTHRON SCOURGE ALPHA"
+msgstr "ARTHRON FLÉAU ALPHA"
+
+msgctxt "Pandoran Research/ALN_ADVANCEDCOMMANDO2_RESEARCHDEF_COMPLETE"
+msgid "Species classification A-Gamma-2[LF]A mutation of the Scourge with a biotechnologically superior grenade attachment. It remains unknown whether the Pandorans are producing the weapons or have found a way to biologically enhance them. "
+msgstr "Classification de l'espèce A-Gamma-2[LF]Une mutation du Fléau avec une grenade au niveau biotechnologique supérieur. Nous ne savons toujours pas si les Pandoriens produisent ces armes ou s'ils ont trouvé un moyen de les améliorer de façon biologique."
+
+msgctxt "Pandoran Research/ALN_ELITECOMMANDO_RESEARCHDEF_NAME"
+msgid "ARTHRON SCOURGE CHAMPION"
+msgstr "ARTHRON FLÉAU CHAMPION"
+
+msgctxt "Pandoran Research/ALN_ELITECOMMANDO_RESEARCHDEF_COMPLETE"
+msgid "Species classification A-Gamma-E1[LF]An evolved Scourge with superior firepower capabilities. Observations confirm that the creature is highly intelligent and aggressive, but still has limited perception capabilities. It is recommended to take it out from a distance."
+msgstr "Classification de l'espèce A-Gamma-E1[LF]Un Fléau supérieur avec des capacités de tir améliorées. Nos observations confirment que cette créature est très intelligente et agressive, mais qu'elle a toujours une perception limitée. Il est recommandé de l'éliminer à distance."
+
+msgctxt "Pandoran Research/ALN_ELITECOMMANDO2_RESEARCHDEF_NAME"
+msgid "ARTHRON SCOURGE CHAMPION"
+msgstr "ARTHRON FLÉAU CHAMPION"
+
+msgctxt "Pandoran Research/ALN_ELITECOMMANDO2_RESEARCHDEF_COMPLETE"
+msgid "Species classification A-Gamma-E2[LF]A subspecies of Scourge with hardened head and torso chitin serving as thick armor. Equipped with an enhanced machine gun melded to its arm, the creature shares a lot of behavior similarities with standard Assault soldiers, suggesting that the Pandorans are learning our tactics."
+msgstr "Classification de l'espèce A-Gamma-E2[LF]Une sous-espèce du Fléau avec une tête endurcie et une chitine sur le torse qui lui sert d'armure épaisse. Équipée d'une mitrailleuse optimisée intégrée à son bras, cette créature est très similaire aux soldats d'assaut standard, suggérant que les Pandoriens apprennent nos tactiques."
+
+msgctxt "Pandoran Research/ALN_ELITECOMMANDO3_RESEARCHDEF_NAME"
+msgid "ARTHRON SCOURGE CHAMPION"
+msgstr "ARTHRON FLÉAU CHAMPION"
+
+msgctxt "Pandoran Research/ALN_ELITECOMMANDO3_RESEARCHDEF_COMPLETE"
+msgid "Species classification A-Gamma-E2[LF]Similar to the standard Scourge, this subspecies has evolved to be almost entirely covered with defensive chitin. Reports have confirmed that its grenade arm has also evolved and is capable of throwing more potent grenades at a greater distance."
+msgstr "Classification de l'espèce A-Gamma-E2[LF]Semblable au Fléau standard, cette sous-espèce a évolué pour être presque entièrement couverte de chitine protectrice. Les rapports confirment que son bras-grenade a également évolué et peut désormais lancer des grenades plus puissantes à une plus grande distance."
+
+msgctxt "Pandoran Research/ALN_ULTRACOMMANDO_RESEARCHDEF_NAME"
+msgid "ARTHRON SCOURGE PRIME"
+msgstr "ARTHRON FLÉAU ACCOMPLI"
+
+msgctxt "Pandoran Research/ALN_ULTRACOMMANDO_RESEARCHDEF_COMPLETE"
+msgid "Species classification A-Gamma-CAS[LF]A command type Scourge, the subspecies has every part of its body covered in chitin armor. The specimen is skilled with both grenades and firearms, and is capable of instructing other Pandorans."
+msgstr "Classification de l'espèce A-Gamma-CAS[LF]Un Fléau de type commandant, cette sous-espèce est couverte de toute part d'une armure en chitine. Le spécimen est expert avec les grenades et les armes à feu et peut commander d'autres Pandoriens."
+
+msgctxt "Pandoran Research/ALN_PRETORIAN_RESEARCHDEF_NAME"
+msgid "ARTHRON TYRANT"
+msgstr "ARTHRON TYRAN"
+
+msgctxt "Pandoran Research/ALN_PRETORIAN_RESEARCHDEF_COMPLETE"
+msgid "Species classification A-Delta[LF]A mutated Arthron evolved to counter flash attacks. Equipped with a chitin carapace, shield, and a machine gun implanted in its arm. Analysis suggests the specimen is the Pandoran equivalent of a support unit. The Arthron is further capable of spitting poison at medium range."
+msgstr "Classification de l'espèce A-Delta[LF]Un Arthron mutant évolué pour contrer les attaques rapides. Il est équipé d'une carapace en chitine, d'un bouclier et d'une mitrailleuse implantée dans son bras. L'analyse suggère que ce spécimen est l'équivalent pandorien d'une unité de soutien. L'Arthron est également capable de cracher du poison à distance moyenne."
+
+msgctxt "Pandoran Research/ALN_ADVANCEDPRETORIAN_RESEARCHDEF_NAME"
+msgid "ARTHRON TYRANT ALPHA"
+msgstr "ARTHRON TYRAN ALPHA"
+
+msgctxt "Pandoran Research/ALN_ADVANCEDPRETORIAN_RESEARCHDEF_COMPLETE"
+msgid "Species classification A-Delta-1[LF]An evolved Tyrant with increased poison spitting capabilities. Reports also confirm that it is equipped with superior intelligence and has a reinforced chitin shield."
+msgstr "Classification de l'espèce A-Delta-1[LF]Un Tyran évolué avec des capacités augmentées de projection de poison. Les rapports confirment qu'il est doté d'une intelligence supérieure et dispose d'un bouclier en chitine renforcé."
+
+msgctxt "Pandoran Research/ALN_ADVANCEDPRETORIAN2_RESEARCHDEF_NAME"
+msgid "ARTHRON TYRANT ALPHA"
+msgstr "ARTHRON TYRAN ALPHA"
+
+msgctxt "Pandoran Research/ALN_ADVANCEDPRETORIAN2_RESEARCHDEF_COMPLETE"
+msgid "Species classification A-Delta-2[LF]A mutation of the Tyrant, this subspecies has evolved a thicker carapace capable of withstanding standard weapons. The creature also has a large caliber firearm as well as enhanced perception."
+msgstr "Classification de l'espèce A-Delta-2[LF]Une mutation du Tyran, cette sous-espèce a développé une carapace plus épaisse capable de résister aux armes standard. Cette créature a également une arme de gros calibres et une perception accrue."
+
+msgctxt "Pandoran Research/ALN_ELITEPRETORIAN_RESEARCHDEF_NAME"
+msgid "ARTHRON TYRANT CHAMPION"
+msgstr "ARTHRON TYRAN CHAMPION"
+
+msgctxt "Pandoran Research/ALN_ELITEPRETORIAN_RESEARCHDEF_COMPLETE"
+msgid "Species classification A-Delta-E1[LF]An evolved Tyrant with enhanced defensive and offensive capabilities. Reports have shown that several of these specimens are capable of clearing scavenger strongholds without issue.  To be avoided unless engaged with overwhelming force."
+msgstr "Classification de l'espèce A-Delta-E1[LF]Un Tyran évolué avec des capacités défensives et offensives optimisées. Les rapports indiquent que plusieurs de ces spécimens peuvent neutraliser les forteresses de récupérateurs sans problème. À éviter à moins d'avoir une force importante."
+
+msgctxt "Pandoran Research/ALN_ELITEPRETORIAN2_RESEARCHDEF_NAME"
+msgid "ARTHRON TYRANT CHAMPION"
+msgstr "ARTHRON TYRAN CHAMPION"
+
+msgctxt "Pandoran Research/ALN_ELITEPRETORIAN2_RESEARCHDEF_COMPLETE"
+msgid "Species classification A-Delta-E2[LF]An advanced Tyrant subspecies with a carapace and body covered in chitin armor. The specimen has learned to mimic the tactics of the opponents it faces."
+msgstr "Classification de l'espèce A-Delta-E2[LF]Une sous-espèce de Tyran avancée avec une carapace et recouverte d'une armure en chitine. Ce spécimen a appris à imiter les tactiques des adversaires qu'il affronte."
+
+msgctxt "Pandoran Research/ALN_ELITEPRETORIAN3_RESEARCHDEF_NAME"
+msgid "ARTHRON TYRANT CHAMPION"
+msgstr "ARTHRON TYRAN CHAMPION"
+
+msgctxt "Pandoran Research/ALN_ELITEPRETORIAN3_RESEARCHDEF_COMPLETE"
+msgid "Species classification A-Delta-E2[LF]A superior mutation strain of Tyrant that has evolved to produce an even more toxic type of poison. The specimen's legs and torso are covered with an additional layer of chitin armor allowing it to rush its enemies even when under heavy fire."
+msgstr "Classification de l'espèce A-Delta-E2[LF]Une souche de mutation supérieure du Tyran qui a évolué pour produire un type de poison encore plus toxique. Les jambes et le torse de cette créature sont couverts d'une couche supplémentaire d'armure en chitine lui permettant de foncer sur ses ennemis même en étant la cible d'une violente attaque."
+
+msgctxt "Pandoran Research/ALN_ULTRAPRETORIAN_RESEARCHDEF_NAME"
+msgid "ARTHRON TYRANT PRIME"
+msgstr "ARTHRON TYRAN ACCOMPLI"
+
+msgctxt "Pandoran Research/ALN_ULTRAPRETORIAN_RESEARCHDEF_COMPLETE"
+msgid "Species classification A-Delta-CAS[LF]A command type Tyrant fully covered with thick chitin armor, it is capable of long and medium ranged attacks as well as leading units in battle. Analysis has found that the poison it ejects from its mouth is more potent than that of standard specimen."
+msgstr "Classification de l'espèce A-Delta-CAS[LF]Un Tyran de type commandant entièrement couvert d'une armure en chitine qui est capable d'attaquer à longue et moyenne distances et de commander des unités en combat. L'analyse à découvert que le poison qu'il projette par la bouche est plus toxique que celui du spécimen normal."
+
+msgctxt "Pandoran Research/ALN_ELITERANGER_RESEARCHDEF_NAME"
+msgid "ARTHRON MYRMIDON CHAMPION"
+msgstr "ARTHRON MYRMIDON CHAMPION"
+
+msgctxt "Pandoran Research/ALN_ELITERANGER_RESEARCHDEF_COMPLETE"
+msgid "Species classification A-Epsilon-E1[LF]An evolved form of Arthron, with a heavy carapace that is capable of using grenades and spitting poison. Despite the creature's significant intelligence, it appears to be an evolutionary dead end, since the combination of grenades and close quarter pincer mutations cannot be efficiently used in any combat tactics."
+msgstr "Classification de l'espèce A-Epsilon-E1[LF]Une forme évoluée de l'Arthron, avec une carapace lourde qui est capable d'utiliser des grenades et de cracher du poison. Malgré l'intelligence considérable de cette créature, il semble que l'évolution soit dans une impasse. En effet, la combinaison des mutations de grenades et de la pince pour le combat rapproché s'avère inefficace dans n'importe quelle tactique de combat."
+
+msgctxt "Pandoran Research/ALN_ELITERANGER2_RESEARCHDEF_NAME"
+msgid "ARTHRON MYRMIDON CHAMPION"
+msgstr "ARTHRON MYRMIDON CHAMPION"
+
+msgctxt "Pandoran Research/ALN_ELITERANGER2_RESEARCHDEF_COMPLETE"
+msgid "Species classification A-Epsilon-E2[LF]An Arthron mutation that has evolved to spit extremely potent poison at enemies. Its enhanced pincer and ability to throw grenades make it extremely dangerous in mid and close-range combat. It is recommended to take it out from a distance."
+msgstr "Classification de l'espèce A-Epsilon-E2[LF]Une mutation d'Arthron qui a évolué pour projeter du poison extrêmement toxique sur ses ennemis. Sa pince optimisée et sa capacité à lancer des grenades font de ce spécimen un ennemi redoutable en combat rapproché et à moyenne distance. Il est recommandé de l'éliminer à distance."
+
+msgctxt "Pandoran Research/ALN_ELITERANGER3_RESEARCHDEF_NAME"
+msgid "ARTHRON MYRMIDON CHAMPION"
+msgstr "ARTHRON MYRMIDON CHAMPION"
+
+msgctxt "Pandoran Research/ALN_ELITERANGER3_RESEARCHDEF_COMPLETE"
+msgid "Species classification A-Epsilon-E2[LF]An Arthron subspecies that is believed to have evolved as an attempt to respond to Assault class units. While incapable of using firearms, the specimen can spit poison and throw grenades located in its left arm. "
+msgstr "Classification de l'espèce A-Epsilon-E2[LF]Une sous-espèce d'Arthron qui aurait évolué pour tenter de répondre aux unités d'assaut. Même s'il ne peut pas utiliser d'armes à feu, ce spécimen peut cracher du poison et lancer des grenades placées sur son bras gauche."
+
+msgctxt "Pandoran Research/ALN_ULTRARANGER_RESEARCHDEF_NAME"
+msgid "ARTHRON MYRMIDON  PRIME"
+msgstr "ARTHRON MYRMIDON ACCOMPLI"
+
+msgctxt "Pandoran Research/ALN_ULTRARANGER_RESEARCHDEF_COMPLETE"
+msgid "Species classification A-Epsilon-CAS[LF]A commander type Arthron Myrmidon that has adapted new tactics to do with its melee-grenade style of fighting. The specimen has no weak spots and has the ability to direct other Pandoran troops. Killing it as soon as possible is advised."
+msgstr "Classification de l'espèce A-Epsilon-CAS[LF]Un Arthron Myrmidon de type commandant qui a acquis de nouvelles tactiques avec son style de combat mélangeant mêlée et grenades. Ce spécimen n'a aucun point faible et a la capacité de commander d'autres troupes pandoriennes. Il est recommandé de l'éliminer dès que possible."
+
+msgctxt "Pandoran Research/ALN_ELITEACIDRANGER_RESEARCHDEF_NAME"
+msgid "ARTHRON DRAGON CHAMPION"
+msgstr "ARTHRON DRAGON CHAMPION"
+
+msgctxt "Pandoran Research/ALN_ELITEACIDRANGER_RESEARCHDEF_COMPLETE"
+msgid "Species classification A-Zeta-E1[LF]An Arthron subspecies that has enhanced its grenade throwing capabilities to use acid grenades. Highly intelligent, the specimen has developed a melee-grenade style of fighting. Its legs are perhaps its greatest weak spot."
+msgstr "Classification de l'espèce A-Zeta-E1[LF]Une sous-espèce d'Arthron aux capacités améliorées de lancement de grenades qui lui permettent d'utiliser des grenades caustiques. D'une grande intelligence, ce spécimen a développé un style de combat mélangeant mêlée et grenades. Ses jambes pourraient être son plus grand point faible."
+
+msgctxt "Pandoran Research/ALN_ELITEACIDRANGER2_RESEARCHDEF_NAME"
+msgid "ARTHRON DRAGON CHAMPION"
+msgstr "ARTHRON DRAGON CHAMPION"
+
+msgctxt "Pandoran Research/ALN_ELITEACIDRANGER2_RESEARCHDEF_COMPLETE"
+msgid "Species classification A-Zeta-E2[LF]A variation of Arthron evolved as a response to heavy armored soldiers. Considerably armored and equipped with acid grenades, it has been observed to attack fully armored enemies and occasionally vehicles."
+msgstr "Classification de l'espèce A-Zeta-E2[LF]Une variante de l'Arthron évolué en réponse aux soldats armés. Considérablement blindé et équipé de grenades caustiques, on l'a observé en train d'attaquer des ennemis en armure complète et parfois des véhicules."
+
+msgctxt "Pandoran Research/ALN_ELITEACIDRANGER3_RESEARCHDEF_NAME"
+msgid "ARTHRON DRAGON CHAMPION"
+msgstr "ARTHRON DRAGON CHAMPION"
+
+msgctxt "Pandoran Research/ALN_ELITEACIDRANGER3_RESEARCHDEF_COMPLETE"
+msgid "Species classification A-Zeta-E2[LF]A specialized combat Arthron whose body is covered with an additional layer of chitin armor. The specimen is capable of strong pincer attacks and can throw acid grenades from its mutated appendage."
+msgstr "Classification de l'espèce A-Zeta-E2[LF]Un Arthron spécialisé dans le combat recouvert d'une couche supplémentaire d'armure de chitine. Le spécimen est capable d'initier de violentes attaques avec sa pince et peut lancer des grenades caustiques de son membre mutant."
+
+msgctxt "Pandoran Research/ALN_ULTRAACIDRANGER_RESEARCHDEF_NAME"
+msgid "ARTHRON DRAGON PRIME"
+msgstr "ARTHRON DRAGON ACCOMPLI"
+
+msgctxt "Pandoran Research/ALN_ULTRAACIDRANGER_RESEARCHDEF_COMPLETE"
+msgid "Species classification A-Zeta-CAS[LF]The apex of Arthron Dragon evolution. The specimen is considered a commander type Pandoran, capable of directing enemy units. Entirely protected by chitin armor, the creature throws acid grenades at what it evaluates as high value targets."
+msgstr "Classification de l'espèce A-Zeta-CAS[LF]La pointe de l'évolution de l'Arthron Dragon. Ce spécimen est considéré comme un Pandorien de type commandant, capable de diriger des unités ennemies. Entièrement protégée par une armure de chitine, cette créature lance des grenades caustiques à ce qu'elle évalue comme des cibles de grande valeur."
+
+msgctxt "Pandoran Research/ALN_ELITEVIRALCOMMANDO_RESEARCHDEF_NAME"
+msgid "ARTHRON BANE CHAMPION"
+msgstr "ARTHRON PESTE CHAMPION"
+
+msgctxt "Pandoran Research/ALN_ELITEVIRALCOMMANDO_RESEARCHDEF_COMPLETE"
+msgid "Species classification A-Eta-E1[LF]A subspecies of Arthron that has managed to integrate a strain of the Pandoravirus in its weaponry. Protected by a chitin carapace, the creature is specialized in long range combat. To be avoided whenever possible!"
+msgstr "Classification de l'espèce A-Eta-E1[LF]Une sous-espèce d'Arthron qui a réussi à intégrer une souche du Pandoravirus à son artillerie. Protégée par une carapace de chitine, cette créature est spécialisée dans le combat à longue distance. À éviter dans la mesure du possible !"
+
+msgctxt "Pandoran Research/ALN_ELITEVIRALCOMMANDO2_RESEARCHDEF_NAME"
+msgid "ARTHRON BANE CHAMPION"
+msgstr "ARTHRON PESTE CHAMPION"
+
+msgctxt "Pandoran Research/ALN_ELITEVIRALCOMMANDO2_RESEARCHDEF_COMPLETE"
+msgid "Species classification A-Eta-E2[LF]A mutation of Arthron believed to have evolved in response to the Disciples of Anu Priests. The specimen is equipped with a grenade-launcher appendage and a viral weapon containing a weaponized strain of the Pandoravirus."
+msgstr "Classification de l'espèce A-Eta-E2[LF]Une mutation d'Arthron qui aurait évolué en réponse aux prêtres des Disciples d'Anu. Ce spécimen est équipé d'un membre lance-grenades et d'une arme virale contenant une souche du Pandoravirus qui lui sert d'arme."
+
+msgctxt "Pandoran Research/ALN_ELITEVIRALCOMMANDO3_RESEARCHDEF_NAME"
+msgid "ARTHRON BANE CHAMPION"
+msgstr "ARTHRON PESTE CHAMPION"
+
+msgctxt "Pandoran Research/ALN_ELITEVIRALCOMMANDO3_RESEARCHDEF_COMPLETE"
+msgid "Species classification A-Eta-E2[LF]A highly dangerous Arthron variation, capable of infecting soldiers with a strain of the Pandoravirus by using an evolved bio-organic Viral machine gun. In addition, the specimen has grenade launching capability and a thick chitin carapace."
+msgstr "Classification de l'espèce A-Eta-E2[LF]Une variante de l'Arthron très dangereuse, capable d'infecter des soldats avec une souche du Pandoravirus en utilisant une mitrailleuse virale bio-organique supérieure. Ce spécimen est également doté d'un lance-grenades et d'une épaisse carapace de chitine."
+
+msgctxt "Pandoran Research/ALN_ULTRAVIRALCOMMANDO_RESEARCHDEF_NAME"
+msgid "ARTHRON BANE PRIME"
+msgstr "ARTHRON PESTE ACCOMPLI"
+
+msgctxt "Pandoran Research/ALN_ULTRAVIRALCOMMANDO_RESEARCHDEF_COMPLETE"
+msgid "Species classification A-Eta-CAS[LF]An evolution of the Arthron Bane subspecies, capable of tactical command. The specimen has no known weak spots and makes tactical use of its grenades and viral weapon to target key threats. Killing it will reduce Pandoran combat efficiency on the battlefield."
+msgstr "Classification de l'espèce A-Eta-CAS[LF]Une évolution de la sous-espèce d'Arthron Peste, capable de commandement tactique. Ce spécimen n'a aucun point faible et il utilise ses grenades et son arme virale dans une tactique visant à éliminer les menaces principales. L'éliminer réduit l'efficacité du combat pandorien sur le champ de bataille."
+
+msgctxt "Pandoran Research/ALN_FISHMANBASIC_RESEARCHDEF_NAME"
+msgid "TRITON STRANGLER"
+msgstr "TRITON ÉTRANGLEUR"
+
+msgctxt "Pandoran Research/ALN_FISHMANBASIC_RESEARCHDEF_COMPLETE"
+msgid "Species classification T-Zero[LF]A humanoid Pandoran species with four arms and heightened perception capabilities. Generally weak, the creature can use its upper appendages to drain blood from its opponents at close range."
+msgstr "Classification de l'espèce T-Zero[LF]Un Pandorien humanoïde avec quatre bras et une perception intensifiée. Généralement faible, cette créature peut utiliser ses appendices supérieurs pour drainer le sang de ses adversaires à courte portée."
+
+msgctxt "Pandoran Research/ALN_FISHMANSNEAKER_RESEARCHDEF_NAME"
+msgid "TRITON WRETCH"
+msgstr "TRITON MINABLE"
+
+msgctxt "Pandoran Research/ALN_FISHMANSNEAKER_RESEARCHDEF_COMPLETE"
+msgid "Species classification T-Zero-B[LF]An evolved Triton subspecies with chameleon like skin allowing it to vanish at will on the battlefield. The specimen's appendages have evolved to the point it can use simple human made pistols. The creature is further capable of emitting a cloud of mist to hide itself when threatened."
+msgstr "Classification de l'espèce T-Zero-B[LF]Une sous-espèce évoluée du Triton avec une peau semblable au caméléon lui permettant de disparaître à volonté sur le champ de bataille. Les appendices du spécimen ont évolué au point de lui permettre d'utiliser des pistolets simples fabriqués par l'homme. Cette créature peut également émettre un nuage de brume pour se cacher lorsqu'elle se sent menacée."
+
+msgctxt "Pandoran Research/ALN_FISHMANASSAULT_RESEARCHDEF_NAME"
+msgid "TRITON FOOTPAD"
+msgstr "TRITON VOLEUR"
+
+msgctxt "Pandoran Research/ALN_FISHMANASSAULT_RESEARCHDEF_COMPLETE"
+msgid "Species classification T-Alpha[LF]A subspecies of Triton evolved to use human Assault Rifles. The specimen has enhanced perception and is capable of regenerating wounds. Additionally, reports confirm the existence of a second pair of arms that can drain blood of enemies from close distance."
+msgstr "Classification de l'espèce T-Alpha[LF]Une sous-espèce de Triton qui a évolué pour utiliser des fusils d'assaut humains. Ce spécimen est doté d'une perception accrue et peut régénérer ses blessures. Les rapports confirment également l'existence de deux autres bras qui drainent le sang des ennemis à proximité."
+
+msgctxt "Pandoran Research/ALN_FISHMANSTRIKER_RESEARCHDEF_NAME"
+msgid "TRITON THUG"
+msgstr "TRITON VAURIEN"
+
+msgctxt "Pandoran Research/ALN_FISHMANSTRIKER_RESEARCHDEF_COMPLETE"
+msgid "Species classification T-Gamma[LF]A mutated subspecies of Strangler that has adapted to use human Shotguns. While the creature generally does not present a serious threat, its ability to regenerate and drain opponents' blood to heal make it a nuisance.[LF]"
+msgstr "Classification de l'espèce T-Gamma[LF]Une sous-espèce mutante de l'Étrangleur qui s'est adaptée à l'usage des fusils à pompe humains. La créature ne représente généralement pas de menace sérieuse, mais ses capacités à se régénérer et à drainer le sang de ses ennemis font de lui un adversaire pénible."
+
+msgctxt "Pandoran Research/ALN_FISHMANAGGROASSAULT_RESEARCHDEF_NAME"
+msgid "TRITON MANIAC"
+msgstr "TRITON DÉTRAQUÉ"
+
+msgctxt "Pandoran Research/ALN_FISHMANAGGROASSAULT_RESEARCHDEF_COMPLETE"
+msgid "Species classification T-Alpha-1[LF]A variation of the Footpad. The specimen has been observed to always be equipped with New Jericho gauss rifles. Enhanced perception and bloodsucking capabilities are present, as well as an enhanced regeneration factor."
+msgstr "Classification de l'espèce T-Alpha-1[LF]Une variante du Voleur. Ce spécimen a été observé toujours équipé de fusils Gauss de la Nouvelle-Jéricho. Il a une perception accrue et des capacités de drainage de sang, ainsi qu'une capacité de régénération optimisée."
+
+msgctxt "Pandoran Research/ALN_FISHMANFOCUSASSAULT_RESEARCHDEF_NAME"
+msgid "TRITON FOOTPAD ALPHA"
+msgstr "TRITON VOLEUR ALPHA"
+
+msgctxt "Pandoran Research/ALN_FISHMANFOCUSASSAULT_RESEARCHDEF_COMPLETE"
+msgid "Species classification T-Alpha-2[LF]An evolved Footpad observed to be exclusively equipped with Synedrion technology. Analysis suggests that it is able to use any type of Assault Rifle, but chooses to use only Synedrion tech. The specimen has enhanced perception and regeneration capabilities and a second pair of arms capable of sucking blood from its victims."
+msgstr "Classification de l'espèce T-Alpha-2[LF]Une évolution du Voleur a été observée équipée uniquement de technologie du Synédrion. Notre analyse suggère qu'il peut utiliser tout type de fusil d'assaut, mais choisit essentiellement la technologie du Synédrion. Ce spécimen est doté de capacités accrues de perception et de régénération, ainsi que de deux bras supplémentaires pouvant aspirer le sang de ses victimes."
+
+msgctxt "Pandoran Research/ALN_FISHMANELITESTRIKER_RESEARCHDEF_NAME"
+msgid "TRITON THUG ALPHA"
+msgstr "TRITON VAURIEN ALPHA"
+
+msgctxt "Pandoran Research/ALN_FISHMANELITESTRIKER_RESEARCHDEF_COMPLETE"
+msgid "Species classification T-Gamma-E[LF]An enhanced type of Thug with extremely heightened intelligence and regeneration capabilities. The specimen's weapon of choice is a human Shotgun, which it can occasionally use to create diversions by attracting attention to itself. To be approached with caution."
+msgstr "Classification de l'espèce T-Gamma-E[LF]Un type optimisé de Vaurien avec une intelligence renforcée et des capacités de régénération. L'arme favorite de ce spécimen est un fusil à pompe humain, qu'il utilise occasionnellement pour créer une diversion en attirant l'attention sur lui-même. À approcher avec prudence."
+
+msgctxt "Pandoran Research/ALN_FISHMANPIERCERASSAULT_RESEARCHDEF_NAME"
+msgid "TRITON MANIAC ALPHA"
+msgstr "TRITON DÉTRAQUÉ ALPHA"
+
+msgctxt "Pandoran Research/ALN_FISHMANPIERCERASSAULT_RESEARCHDEF_COMPLETE"
+msgid "Species classification T-Alpha-E[LF]This subspecies is believed to be the most intelligent Maniac, capable of tactical combat analyses and equipped with a piercing Assault Rifle. Reports suggest it has extremely high perception, along with high regeneration capabilities. To be avoided at all costs."
+msgstr "Classification de l'espèce T-Alpha-E[LF]Cette sous-espèce est considérée comme le Détraqué le plus intelligent, capable d'analyses tactiques de combat et équipé d'un fusil d'assaut perforant. Selon les rapports, il aurait une perception extrêmement élevée, et de grandes capacités de régénération. À éviter à tout prix."
+
+msgctxt "Pandoran Research/ALN_FISHMANHUNTER_RESEARCHDEF_NAME"
+msgid "TRITON POACHER"
+msgstr "TRITON TRAQUEUR"
+
+msgctxt "Pandoran Research/ALN_FISHMANHUNTER_RESEARCHDEF_COMPLETE"
+msgid "Species classification T-Delta[LF]Unlike other types of tritons, the primary goal of this subspecies is to hunt down and capture humans. Equipped with a Neural pistol and evolved paralyzing appendages it is to be avoided whenever possible."
+msgstr "Classification de l'espèce T-Delta[LF]Contrairement aux autres types de Triton, le but premier de cette sous-espèce consiste à traquer et à capturer les humains. Il est équipé d'un pistolet neural et son évolution lui a donné des appendices paralysants. À éviter dans la mesure du possible."
+
+msgctxt "Pandoran Research/ALN_FISHMANELITEHUNTER_RESEARCHDEF_NAME"
+msgid "TRITON POACHER ALPHA"
+msgstr "TRITON TRAQUEUR ALPHA"
+
+msgctxt "Pandoran Research/ALN_FISHMANELITEHUNTER_RESEARCHDEF_COMPLETE"
+msgid "Species classification T-Delta-E[LF]A commander type Pandoran, this subspecies represents an evolution of the Poacher that has developed a taste for hunting humans. Reports indicate it is always armed with a neural Sniper Rifle and Pistol and often toys with its opponents before killing them. To be avoided at all costs."
+msgstr "Classification de l'espèce T-Delta-E[LF]Un Pandorien de type commandant, cette sous-espèce représente une évolution du Traqueur qui a acquis un goût pour la chasse à l'homme. Les rapports indiquent qu'il est toujours armé d'un fusil de précision et d'un pistolet neuraux et joue souvent avec ses victimes avant de les tuer. À éviter à tout prix."
+
+msgctxt "Pandoran Research/ALN_FISHMANSNIPER_RESEARCHDEF_NAME"
+msgid "TRITON HITMAN"
+msgstr "TRITON TUEUR"
+
+msgctxt "Pandoran Research/ALN_FISHMANSNIPER_RESEARCHDEF_COMPLETE"
+msgid "Species classification T-Beta[LF]This Triton mutation has developed the ability to use human Sniper Rifles, as well as learned to mimic their actions. Observation has shown that it also has enhanced perception and regeneration capabilities, and can further shroud itself by emitting mist clouds from appendages on its shoulders."
+msgstr "Classification de l'espèce T-Bêta[LF]Cette mutation de Triton a développé la capacité d'utiliser des fusils de précision humains, et a appris à imiter leurs actions. Selon nos observations, il est également doté de capacités renforcées de perception et de régénération, et peut s'envelopper de nuages de brume qu'il émet à l'aide d'appendices situés sur ses épaules."
+
+msgctxt "Pandoran Research/ALN_FISHMANFOCUSSNIPER_RESEARCHDEF_NAME"
+msgid "TRITON MARKSMAN"
+msgstr "TRITON TIREUR D'ÉLITE"
+
+msgctxt "Pandoran Research/ALN_FISHMANFOCUSSNIPER_RESEARCHDEF_COMPLETE"
+msgid "Species classification T-Beta-1[LF]An enhanced type of Hitman that has evolved sound suppression and camouflage making it difficult to spot on the battlefield. Its choice of Synedrion sniper rifles suggest that this is the Pandoran answer to infiltration specialists."
+msgstr "Classification de l'espèce T-Bêta-1[LF]Un type de Tueur amélioré qui a développé des propriétés d'absorption du son et de camouflage qui le rendent difficile à détecter sur le champ de bataille. Son choix de fusil de précision du Synédrion suggère qu'il a évolué pour répondre aux spécialistes de l'infiltration."
+
+msgctxt "Pandoran Research/ALN_FISHMANAGGROSNIPER_RESEARCHDEF_NAME"
+msgid "TRITON HITMAN ALPHA"
+msgstr "TRITON TUEUR ALPHA"
+
+msgctxt "Pandoran Research/ALN_FISHMANAGGROSNIPER_RESEARCHDEF_COMPLETE"
+msgid "Species classification T-Beta-2[LF]A mutation of Hitman equipped with a New Jericho sniper rifle. The creature’s ability to disappear at will and suppress all sound, along with the ability to release mist make it dangerous to deal with. Use of grenades is recommended when dealing with it."
+msgstr "Classification de l'espèce T-Bêta-2[LF]Une mutation du Tueur équipée d'un fusil de précision de la Nouvelle-Jéricho. Les capacités de cette créature à disparaître à volonté sans faire de bruit et à libérer de la brume le rendent dangereux. L'usage de grenades est recommandé pour l'éliminer."
+
+msgctxt "Pandoran Research/ALN_FISHMANPIERCERSNIPER_RESEARCHDEF_NAME"
+msgid "TRITON MARKSMAN ALPHA"
+msgstr "TRITON TIREUR D'ÉLITE ALPHA"
+
+msgctxt "Pandoran Research/ALN_FISHMANPIERCERSNIPER_RESEARCHDEF_COMPLETE"
+msgid "Species classification T-Beta-E[LF]The subspecies is referred to as the Triton Assassin. Evolved to the point it can become almost invisible and unheard in combat, the piercing Sniper Rifle that is its weapon of choice allows it to kill any opponent. Never approach alone."
+msgstr "Classification de l'espèce T-Bêta-E[LF]Cette sous-espèce est appelée le Triton Assassin. Il a évolué au point de devenir pratiquement invisible et de ne pas être entendu en combat. Son fusil de précision perforant de prédilection lui permet d'éliminer n'importe quel adversaire. À ne jamais approcher seul."
+
+msgctxt "Pandoran Research/ALN_FISHMANVIRALASSAULT_RESEARCHDEF_NAME"
+msgid "TRITON GHOUL"
+msgstr "TRITON GOULE"
+
+msgctxt "Pandoran Research/ALN_FISHMANVIRALASSAULT_RESEARCHDEF_COMPLETE"
+msgid "Species classification T-Alpha-V[LF]A subspecies of Footpad that has managed to obtain the viral technology of the Disciples of Anu. While its perception is poorer than other Triton subspecies, it has evolved to suppress sound to an extreme level."
+msgstr "Classification de l'espèce T-Alpha-V[LF]Une sous-espèce du Voleur qui a réussi à obtenir la technologie virale des Disciples d'Anu. Sa perception est plus faible que celle des autres sous-espèces de Triton, mais il a évolué pour supprimer le bruit qu'il fait jusqu'à un niveau extrême."
+
+msgctxt "Pandoran Research/ALN_FISHMANVIRALSNIPER_RESEARCHDEF_NAME"
+msgid "TRITON GHOST"
+msgstr "TRITON FANTÔME"
+
+msgctxt "Pandoran Research/ALN_FISHMANVIRALSNIPER_RESEARCHDEF_COMPLETE"
+msgid "Species classification T-Beta-V[LF]A subspecies of Hitman with heightened perception and regeneration capabilities. Using Disciples of Anu technology, it is capable of infecting opponents from a distance as well as draining their blood in close quarters. Direct confrontation not advised."
+msgstr "Classification de l'espèce T-Beta-V[LF]Une sous-espèce du Tueur avec des capacités accrues de perception et de régénération. Armé de la technologie des Disciples d'Anu, il est capable de contaminer ses adversaires à distance et de drainer leur sang à proximité. La confrontation directe n'est pas recommandée."
+
+msgctxt "Pandoran Research/ALN_FISHMANELITEVIRALASSAULT_RESEARCHDEF_NAME"
+msgid "TRITON GHOUL ALPHA"
+msgstr "TRITON GOULE ALPHA"
+
+msgctxt "Pandoran Research/ALN_FISHMANELITEVIRALASSAULT_RESEARCHDEF_COMPLETE"
+msgid "The enhanced subspecies of Ghoul, capable of paralyzing enemies on touch. The specimen has command level intelligence, often coordinating with other units on the battlefield as it infects enemies with its viral Redemptor weapon. If encountered it is to be taken out as fast as possible."
+msgstr "Cette sous-espèce améliorée de Goule est capable de paralyser ses ennemis simplement en les touchant. Ce spécimen est doté d'une intelligence de type commandant et coordonne souvent les autres unités sur le champ de bataille, tout en contaminant ses ennemis avec son arme Redemptor virale. Si rencontré, il doit être éliminé le plus vite possible."
+
+msgctxt "Pandoran Research/ALN_FISHMANELITEVIRALSNIPER_RESEARCHDEF_NAME"
+msgid "TRITON GHOST ALPHA"
+msgstr "TRITON FANTÔME ALPHA"
+
+msgctxt "Pandoran Research/ALN_FISHMANELITEVIRALSNIPER_RESEARCHDEF_COMPLETE"
+msgid "Species classification T-Beta-VE[LF]A command type Ghost evolved to achieve near complete stealth in combat. While equipped with a viral Sniper Rifle, it can also sneak up to opponents and paralyze them using its second set of appendages."
+msgstr "Classification de l'espèce T-Beta-VE[LF]Un Fantôme de type commandant qui a évolué pour atteindre la furtivité en combat presque totale. Équipé d'un fusil de précision viral, il peut également attaquer ses adversaires par surprise et les paralyser à l'aide de ses deux autres appendices."
+
+msgctxt "Pandoran Research/ALN_SCYLLA1_RESEARCHDEF_NAME"
+msgid "SCYLLA XENAGOS"
+msgstr "SCYLLA XENAGOS"
+
+msgctxt "Pandoran Research/ALN_SCYLLA1_RESEARCHDEF_COMPLETE"
+msgid "Species classification SCY-Alpha-1[LF]Considered to be the apex Pandoran creature, the specimen is believed to have strategic intelligence as well as the capability to psychically control troops on a global scale. The creature is giant in size, capable of destroying buildings with its massive arms or leaping on them. Observations have shown that it is also capable of emitting mist and spawning Mindfraggers."
+msgstr "Classification de l'espèce SCY-Alpha-1[LF]Considéré comme la pointe des créatures pandoriennes, on suspecte que ce spécimen est doté d'une intelligence stratégique ainsi que de la capacité de contrôler psychiquement les troupes à un niveau global. Cette créature est gigantesque, capable de détruire des bâtiments avec ses énormes bras ou en sautant dessus. D'après nos observations, elle peut aussi émettre une brume et générer des Corrupteurs."
+
+msgctxt "Pandoran Research/ALN_SCYLLA2_RESEARCHDEF_NAME"
+msgid "SCYLLA NOCTURNA"
+msgstr "SCYLLA NOCTURNA"
+
+msgctxt "Pandoran Research/ALN_SCYLLA2_RESEARCHDEF_COMPLETE"
+msgid "Species classification SCY-Alpha-2[LF]A subspecies of Scylla evolved to project torrents of organic goo from its head. The substance limits terrain movement and potentially inflicts minor damage on contact. The specimen is also able to release mist through organs on its back, as well as spawn Mindraggers from its abdomen."
+msgstr "Classification de l'espèce SCY-Alpha-2[LF]Une sous-espèce de Scylla évoluée pour projeter des torrents de gelée organique avec sa tête. La substance limite les déplacements sur le terrain et peut infliger des dégâts mineurs à son contact. Ce spécimen est également capable de libérer de la brume à l'aide d'organes dorsaux, et générer des Corrupteurs de son abdomen."
+
+msgctxt "Pandoran Research/ALN_SCYLLA3_RESEARCHDEF_NAME"
+msgid "SCYLLA TENEBRIS"
+msgstr "SCYLLA TENEBRIS"
+
+msgctxt "Pandoran Research/ALN_SCYLLA3_RESEARCHDEF_COMPLETE"
+msgid "Species classification SCY-Alpha-3[LF]A mutation of Scylla that has evolved to inflict a massive sonic stun effect with its specialized head. Reports indicate the creature is less aggressive than standard Scylla's although protective when approached. The specimen is capable of destroying buildings as well as releasing mist and Mindfraggers when feeling threatened."
+msgstr "Classification de l'espèce SCY-Alpha-3[LF]Une mutation de Scylla qui a évolué pour infliger un énorme effet étourdissant sonique avec sa tête spécialisée. Selon les rapports, cette créature est moins agressive qu'une Scylla normale, mais elle est protectrice quand on s'en approche. Ce spécimen peut détruire des bâtiments et libérer de la brume et des Corrupteurs si elle se sent menacée."
+
+msgctxt "Pandoran Research/ALN_SCYLLA4_RESEARCHDEF_NAME"
+msgid "SCYLLA TETRARCH"
+msgstr "SCYLLA TETRARCH"
+
+msgctxt "Pandoran Research/ALN_SCYLLA4_RESEARCHDEF_COMPLETE"
+msgid "Species classification SCY-Alpha-4[LF]An evolved Scylla capable of vast damage using heavy cannons integrated into its arms. The creature is capable of leveling buildings, as well as launching concentrated mist capsules. The abdomen seems to be harboring gestation pods for Mindfraggers."
+msgstr "Classification de l'espèce SCY-Alpha-4[LF]Une Scylla évoluée capable de causer de sévères dégâts à l'aide de cannons lourds intégrés à ses bras. Cette créature peut soulever des bâtiments et lancer des capsules de brume concentrée. Son abdomen semble porter des cellules de gestation pour Corrupteurs."
+
+msgctxt "Pandoran Research/ALN_SCYLLA5_RESEARCHDEF_NAME"
+msgid "SCYLLA TYRANT"
+msgstr "SCYLLA TYRAN"
+
+msgctxt "Pandoran Research/ALN_SCYLLA5_RESEARCHDEF_COMPLETE"
+msgid "Species classification SCY-Alpha-5[LF]An armed Scylla able to cause vast damage with its integrated gun arms. While the specimen doesn't have good close combat capabilities, it is able to inflict sonic damage with its screams. Mist and Mindfraggers may be released from its abdomen even after the creature is killed."
+msgstr "Classification de l'espèce SCY-Alpha-5[LF]Une Scylla armée capable de causer de sévères dégâts avec ses bras aux armes intégrées. Ce spécimen n'est pas très habile en combat rapproché, mais il peut infliger des dégâts soniques en criant. Cette Scylla peut libérer de la brume et des Corrupteurs de son abdomen, même après sa mort."
+
+msgctxt "Pandoran Research/ALN_SCYLLA6_RESEARCHDEF_NAME"
+msgid "SCYLLA THYREOS"
+msgstr "SCYLLA THYREOS"
+
+msgctxt "Pandoran Research/ALN_SCYLLA6_RESEARCHDEF_COMPLETE"
+msgid "Species classification SCY-Alpha-6[LF]A heavily armored Scylla subspecies evolved to be almost entirely covered in layers of thick chitin. Nearly impervious to damage, the specimen has shown it could destroy entire haven districts with its body and massive gun appendages."
+msgstr "Classification de l'espèce SCY-Alpha-6[LF]Une sous-espèce de Scylla en armure lourde évoluée pour être presque entièrement couverte de couches de chitine épaisse. Quasiment insensible aux dégâts, ce spécimen a montré qu'il pouvait détruire des districts de refuge entiers avec son corps et ses énormes armes en guise d'appendices."
+
+msgctxt "Pandoran Research/ALN_SCYLLA7_RESEARCHDEF_NAME"
+msgid "SCYLLA IMPERATOR"
+msgstr "SCYLLA IMPERATOR"
+
+msgctxt "Pandoran Research/ALN_SCYLLA7_RESEARCHDEF_COMPLETE"
+msgid "Species classification SCY-Alpha-7[LF]A Scylla mutation evolved to specialize in long and mid-range combat. The specimen is capable of spitting torrents of goo, as well as leveling entire areas with its \"\"arm guns\"\". A thick layer of chitin covers its carapace and legs, making it resilient to most attacks."
+msgstr "Classification de l'espèce SCY-Alpha-7[LF]Une mutation de Scylla évoluée pour se spécialiser dans le combat de moyenne et longue distances. Ce spécimen est capable de cracher des torrents de gelée et d'aplatir des zones entières avec ses « bras-fusils ». Une épaisse couche de chitine couvre sa carapace et ses jambes, ce qui lui donne une résistance à la plupart des attaques."
+
+msgctxt "Pandoran Research/ALN_SCYLLA8_RESEARCHDEF_NAME"
+msgid "SCYLLA HEGEMON"
+msgstr "SCYLLA HÉGÉMON"
+
+msgctxt "Pandoran Research/ALN_SCYLLA8_RESEARCHDEF_COMPLETE"
+msgid "Species classification SCY-Alpha-8[LF]A devastating Scylla subtype evolved to emit devastating sonic screams. Extremely aggressive, the specimen has power to level buildings with its large body and giant pincer-like appendages. Observations have shown that the creature often releases mist to assist other Pandoran troops."
+msgstr "Classification de l'espèce SCY-Alpha-8[LF]Un sous-type de Scylla destructeur évolué pour émettre des cris soniques dévastateurs. Extrêmement agressif, ce spécimen peut aplatir des bâtiments avec son énorme corps et ses pinces gigantesques. Les observations indiquent que cette créature libère souvent de la brume pour aider les autres troupes pandoriennes."
+
+msgctxt "Pandoran Research/ALN_SCYLLA9_RESEARCHDEF_NAME"
+msgid "SCYLLA REGINA"
+msgstr "SCYLLA RÉGINA"
+
+msgctxt "Pandoran Research/ALN_SCYLLA9_RESEARCHDEF_COMPLETE"
+msgid "Species classification SCY-Alpha-9[LF]Believed to be the most vicious subspecies of Scylla, capable of mid and long-range attacks. The creature has the ability to enhance troops, deal sonic damage, and cause mass destruction using the weapons integrated in its appendages. Thick chitin armor covers its legs and carapace, providing protection from most weapons.[LF]"
+msgstr "Classification de l'espèce SCY-Alpha-9[LF]Considérée comme la sous-espèce de Scylla la plus féroce, capable de porter des attaques à distance moyenne et longue. Cette créature a la capacité d'optimiser les troupes, d'infliger des dégâts soniques et de causer une destruction massive à l'aide des armes intégrées dans ses appendices. Son armure de chitine épaisse couvre ses jambes et sa carapace, ce qui la protège conte la majorité des armes."
+
+msgctxt "Pandoran Research/ALN_SIREN1_RESEARCHDEF_NAME"
+msgid "SIREN INSTIGATOR"
+msgstr "SIRÈNE INSTIGATRICE"
+
+msgctxt "Pandoran Research/ALN_SIREN1_RESEARCHDEF_COMPLETE"
+msgid "Species classification S-Alpha-1[LF]A lethal Pandoran species evolved for close quarters combat. Eighty percent of the creature is covered with evolved chitin armor, making it difficult to injure. Highly intelligent and bloodthirsty, the Siren has been reported to dash to opponents and attack them with her bladed appendages."
+msgstr "Classification de l'espèce S-Alpha-1[LF]Une espèce de Pandorien redoutable qui a évolué pour le combat rapproché. Quatre-vingts pour cent de la créature sont recouverts d'une armure de chitine sophistiquée, il est donc difficile de lui infliger des dégâts. Extrêmement intelligente et sanguinaire, on rapporte que la Sirène fonce sur ses adversaires pour les attaquer avec ses appendices à lames."
+
+msgctxt "Pandoran Research/ALN_SIREN2_RESEARCHDEF_NAME"
+msgid "SIREN HELLION"
+msgstr "SIRÈNE PERTUBATRICE"
+
+msgctxt "Pandoran Research/ALN_SIREN2_RESEARCHDEF_COMPLETE"
+msgid "Species classification S-Alpha-2[LF]A command Siren variation, capable of directing troops as well as mind controlling opponents. Observation has shown that \"\"disabling\"\" the specimen’s head will end its mind control, although not kill it. The creature is also capable of nightmarish shrieks that decrease soldiers' willpower."
+msgstr "Classification de l'espèce S-Alpha-2[LF]Une variante de Sirène aux propriétés de commandement, capables de diriger des troupes et de contrôler l'esprit de ses adversaires. D'après nos observations, « neutraliser » la tête du spécimen met fin à son contrôle mental, mais ne le tue pas. Cette créature est également capable de pousser des cris terrifiants qui font baisser la volonté des soldats."
+
+msgctxt "Pandoran Research/ALN_SIREN3_RESEARCHDEF_NAME"
+msgid "SIREN BANSHEE"
+msgstr "SIRÈNE BANSHEE"
+
+msgctxt "Pandoran Research/ALN_SIREN3_RESEARCHDEF_COMPLETE"
+msgid "Species classification S-Alpha-3[LF]A mutation of a Siren evolved to eject large amounts of acid as well as infect enemies with its sharp injector appendages. Battle reports have confirmed that the specimen is capable of advanced mind control, increasing the capabilities of Pandoran troops or assuming control of enemy soldiers."
+msgstr "Classification de l'espèce S-Alpha-3[LF]Une mutation de Sirène qui a évolué pour projeter de grandes quantités d'acide et infecter ses ennemis à l'aide de ses appendices injecteurs très coupants. Les rapports de bataille confirment que ce spécimen est capable d'exercer un contrôle mental avancé qu'il utilise pour augmenter les capacités des troupes pandoriennes ou prendre le contrôle des soldats ennemis."
+
+msgctxt "Pandoran Research/ALN_SIREN4_RESEARCHDEF_NAME"
+msgid "SIREN HARBINGER"
+msgstr "SIRÈNE MESSAGÈRE"
+
+msgctxt "Pandoran Research/ALN_SIREN4_RESEARCHDEF_COMPLETE"
+msgid "Species classification S-Alpha-4[LF]A subspecies of Siren evolved purely for the sake of massacre. While capable of mind controlling enemies and psychically enhancing its own troops, the creature prefers to engage in close combat, melting away opponents’ armor and slicing them to shreds. To be avoided at all costs."
+msgstr "Classification de l'espèce S-Alpha-4[LF]Une sous-espèce de Sirène qui a évolué uniquement pour le massacre. Capable de contrôler mentalement ses ennemis et d'améliorer physiquement ses propres troupes, cette créature préfère néanmoins le combat rapproché, faisant fondre l'armure de ses adversaires et les découpant en morceaux. À éviter à tout prix."
+
+msgctxt "Pandoran Research/ALN_CHIRON1_RESEARCHDEF_NAME"
+msgid "CHIRON AGNI"
+msgstr "CHIRON AGNI"
+
+msgctxt "Pandoran Research/ALN_CHIRON1_RESEARCHDEF_COMPLETE"
+msgid "Species classification C-Alpha[LF]A large bug-like Pandoran species that has evolved to act as a mobile artillery unit. The specimen has the ability to launch fireworms from long distances, but is defenseless at close range."
+msgstr "Classification de l'espèce C-Alpha[LF]Une grande espèce pandorienne semblable à un insecte qui a évolué pour servir d'unité d'artillerie mobile. Ce spécimen a la capacité de lancer des Vers de feu à de longues distances, mais il est sans défense à courte portée."
+
+msgctxt "Pandoran Research/ALN_CHIRON2_RESEARCHDEF_NAME"
+msgid "CHIRON FUJI"
+msgstr "CHIRON FUJI"
+
+msgctxt "Pandoran Research/ALN_CHIRON2_RESEARCHDEF_COMPLETE"
+msgid "Species classification C-Alpha-H[LF]A variation of the Chiron that has grown chitin armor on its limbs for protection. The specimen's legs have mutated to allow close combat attacks, mostly for defense, in addition to its ability to launch fireworms at long distances."
+msgstr "Classification de l'espèce C-Alpha-H[LF]Une variante du Chiron qui a développé une armure en chitine pour protéger ses membres. Les jambes du spécimen ont muté pour permettre des attaques rapprochées, principalement pour se défendre, en plus de sa capacité à lancer des Vers de feu sur de longues distances."
+
+msgctxt "Pandoran Research/ALN_CHIRON3_RESEARCHDEF_NAME"
+msgid "CHIRON APLU"
+msgstr "CHIRON APLU"
+
+msgctxt "Pandoran Research/ALN_CHIRON3_RESEARCHDEF_COMPLETE"
+msgid "Species classification C-Alpha-P[LF]A mutated subspecies of Chiron that has evolved to launch poison worms at enemies. Reports speculate that the specimen is a response to Synedrion military developments. "
+msgstr "Classification de l'espèce C-Alpha-P[LF]Une sous-espèce mutante de Chiron qui a évolué pour lancer des Vers toxiques sur les ennemis. Les rapports supposent que ce spécimen est une réponse aux améliorations militaires du Synédrion."
+
+msgctxt "Pandoran Research/ALN_CHIRON4_RESEARCHDEF_NAME"
+msgid "CHIRON NERGAL"
+msgstr "CHIRON NERGAL"
+
+msgctxt "Pandoran Research/ALN_CHIRON4_RESEARCHDEF_COMPLETE"
+msgid "Species classification C-Alpha-P2[LF]A Chiron mutation that has developed chitin armored limbs capable of performing close range attacks. The specimen can additionally launch poison worms at targets from a large range."
+msgstr "Classification de l'espèce C-Alpha-P2[LF]Une mutation de Chiron qui a développé des membres recouverts d'une armure de chitine pour effectuer des attaques à courte portée. Ce spécimen peut également lancer des Vers toxiques sur ses cibles à longue portée."
+
+msgctxt "Pandoran Research/ALN_CHIRON5_RESEARCHDEF_NAME"
+msgid "CHIRON ROBIGUS"
+msgstr "CHIRON ROBIGUS"
+
+msgctxt "Pandoran Research/ALN_CHIRON5_RESEARCHDEF_COMPLETE"
+msgid "Species classification C-Alpha-A[LF]A subspecies of Chiron, that seems to be a response to New Jericho's advanced armor units. Observations have shown that the specimen largely targets vehicles and armored vehicles using artillery acid worms."
+msgstr "Classification de l'espèce C-Alpha-A[LF]Une sous-espèce de Chiron qui semble avoir été créée en réponse aux unités blindées avancées de la Nouvelle-Jéricho. Selon nos observations, ce spécimen cible principalement les véhicules et les véhicules blindés à l'aide de vers caustiques d'artillerie."
+
+msgctxt "Pandoran Research/ALN_CHIRON6_RESEARCHDEF_NAME"
+msgid "CHIRON PHTHISIS"
+msgstr "CHIRON PHTISIE"
+
+msgctxt "Pandoran Research/ALN_CHIRON6_RESEARCHDEF_COMPLETE"
+msgid "Species classification C-Alpha-A2[LF]An evolved Chiron that launches acid worms in an artillery fashion, while also capable of dealing close quarter damage with its reinforced limbs. Taking out quickly from a distance is advised."
+msgstr "Classification de l'espèce C-Alpha-A2[LF]Un Chiron évolué qui lance des vers caustiques comme des projectiles d'artillerie, tout en étant capable d'infliger des dégâts à courte portée avec ses membres renforcés. Il est conseillé de l'éliminer rapidement à distance."
+
+msgctxt "Pandoran Research/ALN_CHIRON7_RESEARCHDEF_NAME"
+msgid "CHIRON NINGAL"
+msgstr "CHIRON NINGAL"
+
+msgctxt "Pandoran Research/ALN_CHIRON7_RESEARCHDEF_COMPLETE"
+msgid "Species classification C-Beta[LF]A Chiron variation that is able to launch capsules of organic goo preventing movement in large areas of terrain. The specimen is also able to disrupt soldiers in its vicinity by stomping on the ground with its massive legs."
+msgstr "Classification de l'espèce C-Bêta[LF]Une variante du Chiron qui est capable de lancer des capsules de gelée organique pour empêcher les déplacements sur de larges zones du terrain. Ce spécimen peut également perturber les soldats à proximité en piétinant le sol avec ses énormes jambes."
+
+msgctxt "Pandoran Research/ALN_CHIRON8_RESEARCHDEF_NAME"
+msgid "CHIRON PHASIS"
+msgstr "CHIRON PHASIS"
+
+msgctxt "Pandoran Research/ALN_CHIRON8_RESEARCHDEF_COMPLETE"
+msgid "Species classification C-Beta-H[LF]An evolved Chiron subspecies capable of launching capsules of organic goo that limit terrain movement. The specimen's limbs have further mutated allowing it to perform close quarter combat when threatened."
+msgstr "Classification de l'espèce C-Bêta-H[LF]Une sous-espèce de Chiron évoluée capable de lancer des capsules de gelée organique qui limitent les déplacements sur le terrain. Les membres de ce spécimen ont muté encore plus lui permettant de se battre en combat rapproché lorsqu'il se sent menacé."
+
+msgctxt "Pandoran Research/ALN_CHIRON9_RESEARCHDEF_NAME"
+msgid "CHIRON PERSES"
+msgstr "CHIRON PERSE"
+
+msgctxt "Pandoran Research/ALN_CHIRON9_RESEARCHDEF_COMPLETE"
+msgid "Species classification C-Gamma[LF]An artillery subspecies of Chiron evolved to launch projectiles of biological explosives large distances. The destructive power of the projectiles is comparable to rocket launcher missiles. The specimen also has basic defense capabilities, allowing it to disrupt nearby units by using its large stomping legs."
+msgstr "Classification de l'espèce C-Gamma[LF]Une sous-espèce d'artillerie du Chiron qui a évolué pour lancer des projectiles explosifs biologiques à de longues distances. Le pouvoir destructeur de ces projectiles est comparable aux missiles de lance-roquettes. Ce spécimen a également des capacités élémentaires de défense, lui permettant de perturber les soldats à proximité en piétinant le sol avec ses énormes jambes."
+
+msgctxt "Pandoran Research/ALN_CHIRON10_RESEARCHDEF_NAME"
+msgid "CHIRON ASTERIA"
+msgstr "CHIRON ASTÉRIA"
+
+msgctxt "Pandoran Research/ALN_CHIRON10_RESEARCHDEF_COMPLETE"
+msgid "Species classification C-Gamma-B[LF]An enhanced Chiron subspecies that is capable of burrowing, thus increasing it's artillery range and accuracy. Battlefield reports compare the specimen to a fortified tank."
+msgstr "Classification de l'espèce C-Gamma-B[LF]Une sous-espèce évoluée de Chiron qui peut s'enterrer et ainsi augmenter sa portée d'artillerie et sa précision. Les rapports de bataille comparent ce spécimen à un char fortifié."
+
+msgctxt "Pandoran Research/ALN_CHIRON11_RESEARCHDEF_NAME"
+msgid "CHIRON BASILISK"
+msgstr "CHIRON BASILIC"
+
+msgctxt "Pandoran Research/ALN_CHIRON11_RESEARCHDEF_COMPLETE"
+msgid "Species classification C-Gamma-E1[LF]Considered the deadliest of Chirons, the subspecies has evolved to launch organic acid mortars throughout the battlefield. While weak in close quarter combat, the creature can deal minor damage to surrounding enemies using its large stomping legs."
+msgstr "Classification de l'espèce C-Gamma-E1[LF]Considérée comme la plus redoutable des Chirons, cette sous-espèce a évolué pour projeter des mortiers caustiques organiques sur tout le champ de bataille. Lorsqu'elle est affaiblie en combat rapproché, cette créature peut infliger des dégâts mineurs aux ennemis alentour en utilisant ses grosses jambes pour piétiner."
+
+msgctxt "Pandoran Research/ALN_CHIRON12_RESEARCHDEF_NAME"
+msgid "CHIRON TYPHON"
+msgstr "CHIRON TYPHON"
+
+msgctxt "Pandoran Research/ALN_CHIRON12_RESEARCHDEF_COMPLETE"
+msgid "Species classification C-Gamma-E2[LF]Potentially the apex of Chirons, the subspecies is capable of launching acid mortars that deliver devastating destruction. This creature is also able to burrow and fortify its position for increased fire rate, distance, and accuracy."
+msgstr "Classification de l'espèce C-Gamma-E2[LF]La pointe potentielle des Chirons, cette sous-espèce est capable de lancer des mortiers caustiques qui infligent des dégâts dévastateurs. Cette créature peut également s'enterrer et sécuriser sa position pour augmenter sa cadence de tir, sa distance et sa précision."
+
+msgctxt "Pandoran Research/ALN_FIREWORM_RESEARCHDEF_NAME"
+msgid "FIREWORM"
+msgstr "VER DE FEU"
+
+msgctxt "Pandoran Research/ALN_FIREWORM_RESEARCHDEF_COMPLETE"
+msgid "Species classification W-F[LF]A small worm-like creature whose only purpose is to act as a living mind. Upon identifying its enemies, the creature approaches its target and bursts in a ball of flames."
+msgstr "Classification de l'espèce W-F[LF]Une petite créature semblable à un ver dont le seul but est d'agir comme un être vivant. Lorsqu'elle a identifié ses ennemis, cette créature s'approche de sa cible et explose dans une boule de feu."
+
+msgctxt "Pandoran Research/ALN_POISONWORM_RESEARCHDEF_NAME"
+msgid "POISONWORM"
+msgstr "VER TOXIQUE"
+
+msgctxt "Pandoran Research/ALN_POISONWORM_RESEARCHDEF_COMPLETE"
+msgid "Species classification W-P[LF]An evolved type of worm mutated to release highly poisonous gasses upon death. The specimen acts as a living drone, targeting any threat in vicinity. "
+msgstr "Classification de l'espèce W-P[LF]Un type de ver évolué mutant qui libère des gaz très toxiques à sa mort. Ce spécimen agit comme un drone vivant, ciblant tout ennemi à proximité."
+
+msgctxt "Pandoran Research/ALN_ACIDWORM_RESEARCHDEF_NAME"
+msgid "ACIDWORM"
+msgstr "VER CAUSTIQUE"
+
+msgctxt "Pandoran Research/ALN_ACIDWORM_RESEARCHDEF_COMPLETE"
+msgid "Species classification W-A[LF]A subspecies of worm that has mutated to release a highly corrosive substance upon death. As other worm subtypes, it focuses on anything it regards hostile, including the occasional vehicle."
+msgstr "Classification de l'espèce W-A[LF]Une sous-espèce de ver qui a muté pour libérer une substance extrêmement corrosive à sa mort. Tout comme les autres sous-types de vers, il se concentre sur tout ce qu'il considère comme hostile, ce qui inclut parfois des véhicules."
+
+msgctxt "Pandoran Research/ALN_FIREWORM_EGG_RESEARCHDEF_NAME"
+msgid "FIREWORM EGG"
+msgstr "ŒUF DE VER DE FEU"
+
+msgctxt "Pandoran Research/ALN_FIREWORM_EGG_RESEARCHDEF_COMPLETE"
+msgid "Species classification W-F-POD[LF]A worm egg containing the Fireworm species. Reports claim that if disturbed the pod will break, releasing the creature inside."
+msgstr "Classification de l'espèce W-F-POD[LF]Un œuf de ver contenant l'espèce Ver de feu. D'après les rapports, s'il est perturbé, l'œuf se casse pour libérer la créature qu'il contient."
+
+msgctxt "Pandoran Research/ALN_POISONWORM_EGG_RESEARCHDEF_NAME"
+msgid "POISONWORM EGG"
+msgstr "ŒUF DE VER TOXIQUE"
+
+msgctxt "Pandoran Research/ALN_POISONWORM_EGG_RESEARCHDEF_COMPLETE"
+msgid "Species classification W-P-POD[LF]A worm egg containing the Poisonworm species. Reports claim that if disturbed the pod will break, releasing the creature inside."
+msgstr "Classification de l'espèce W-P-POD[LF]Un œuf de ver contenant l'espèce Ver toxique. D'après les rapports, s'il est perturbé, l'œuf se casse pour libérer la créature qu'il contient."
+
+msgctxt "Pandoran Research/ALN_ACIDWORM_EGG_RESEARCHDEF_NAME"
+msgid "ACIDWORM EGG"
+msgstr "ŒUF DE VER CAUSTIQUE"
+
+msgctxt "Pandoran Research/ALN_ACIDWORM_EGG_RESEARCHDEF_COMPLETE"
+msgid "Species classification W-A-POD[LF]A worm egg containing the Acidworm species. Reports claim that if disturbed the pod will break, releasing the creature inside."
+msgstr "Classification de l'espèce W-A-POD[LF]Un œuf de ver contenant l'espèce Ver caustique. D'après les rapports, s'il est perturbé, l'œuf se casse pour libérer la créature qu'il contient."
+
+msgctxt "Pandoran Research/ALN_FACEHUGGER_RESEARCHDEF_NAME"
+msgid "MINDFRAGGER"
+msgstr "CORRUPTEUR"
+
+msgctxt "Pandoran Research/ALN_FACEHUGGER_RESEARCHDEF_COMPLETE"
+msgid "Species classification M[LF]A parasitic Pandoran specimen capable of assuming control of a person. Combat observations have shown that the creature is able to leap great distances in order to attach itself to the head of its target and take control."
+msgstr "Classification de l'espèce M[LF]Un spécimen de parasite pandorien capable de prendre le contrôle mental d'une personne. Les observations en combat indiquent que la créature est capable de parcourir de grandes distances en sautant pour se fixer à la tête de sa cible et en prendre le contrôle."
+
+msgctxt "Pandoran Research/ALN_FACEHUGGER_EGG_RESEARCHDEF_NAME"
+msgid "MINDFRAGGER EGG"
+msgstr "ŒUF DE CORRUPTEUR"
+
+msgctxt "Pandoran Research/ALN_FACEHUGGER_EGG_RESEARCHDEF_COMPLETE"
+msgid "Species classification M[LF]A worm egg containing the Mindfragger species. Reports claim that if disturbed the pod will break, releasing the creature inside."
+msgstr "Classification de l'espèce M[LF]Un œuf de ver contenant l'espèce Corrupteur. D'après les rapports, s'il est perturbé, l'œuf se casse pour libérer la créature qu'il contient."
+
+msgctxt "Pandoran Research/ALN_SPAWNINGPOOLCRABMAN_RESEARCHDEF_NAME"
+msgid "SPAWNERY"
+msgstr "ÉCLOSERIE"
+
+msgctxt "Pandoran Research/ALN_SPAWNINGPOOLCRABMAN_RESEARCHDEF_COMPLETE"
+msgid "Species classification SP-1[LF]An immobile organic structure found in Pandoran Lairs. The structure is effectively a mutation laboratory, intelligently evolving new Pandoran forms. It is speculated that destroying it could cripple the Lair, causing it to be abandoned."
+msgstr "Classification de l'espèce SP-1[LF]Une structure organique immobile qui se trouve dans les Tanières pandoriennes. Cette structure est en fait un laboratoire de mutation, qui crée intelligemment de nouvelles formes de Pandoriens. On suppose que la détruire pourrait paralyser la Tanière et entraîner son abandon."
+
+msgctxt "Pandoran Research/ALN_SENTINELTERROR_RESEARCHDEF_NAME"
+msgid "TERROR SENTINEL"
+msgstr "SENTINELLE DE L'EFFROI"
+
+msgctxt "Pandoran Research/ALN_SENTINELTERROR_RESEARCHDEF_COMPLETE"
+msgid "Species classification STL-T[LF]An immobile Pandoran specimen that serves as a “guardian” of a specific area. Mostly found in Pandoran colonies, the specimen is rumored to have psychic abilities that hinder human troops. Approach with caution."
+msgstr "Classification de l'espèce STL-T[LF]Un spécimen pandorien immobile qui sert de « gardien » dans une zone particulière. Trouvé principalement dans les colonies de Pandoriens, ce spécimen aurait des capacités psychiques qui entraveraient les troupes humaines. À approcher avec prudence."
+
+msgctxt "Pandoran Research/ALN_SENTINELHATCHING_RESEARCHDEF_NAME"
+msgid "HATCHING SENTINEL"
+msgstr "SENTINELLE COUVEUSE"
+
+msgctxt "Pandoran Research/ALN_SENTINELHATCHING_RESEARCHDEF_COMPLETE"
+msgid "Species classification STL-H[LF]A Pandoran creature-structure hybrid found exclusively in Pandoran Nests. The specimen is linked to the spawning of Pandoran creatures. Reports claim it has the ability to detect invaders and trigger the hatching of Pandoran eggs nearby. We surmise that killing all Hatching Sentinels could neutralize the Pandoran colony permanently."
+msgstr "Classification de l'espèce STL-H[LF]Un hybride pandorien entre créature et structure trouvé exclusivement dans les Nids pandoriens. Ce spécimen est lié à la création des créatures pandoriennes. D'après les rapports, il a la capacité de détecter les intrus et de provoquer l'éclosion d'œufs pandoriens à proximité. Nous supposons qu'éliminer toutes les sentinelles couveuses permettrait de neutraliser la colonie pandorienne définitivement."
+
+msgctxt "Pandoran Research/ALN_MISTSENTINEL_RESEARCHDEF_NAME"
+msgid "MIST SENTINEL"
+msgstr "SENTINELLE DE BRUME"
+
+msgctxt "Pandoran Research/ALN_MISTSENTINEL_RESEARCHDEF_COMPLETE"
+msgid "Species classification STL-M[LF]A large colonizing structure that is found wherever sea mist spreads over land. The creature releases a concentrated microbial mist which may cover large parts of the battlefield."
+msgstr "Classification de l'espèce STL-M[LF]Une énorme structure colonisatrice qui se trouve partout où la brume marine se répand sur la terre. Cette créature libère une brume microbienne concentrée qui peut couvrir de grandes zones du champ de bataille."
+
+msgctxt "DLC2 Necronomicon/ALN_SIRENORICHALCUM_RESEARCHDEF_NAME"
+msgid "Orichalcum Plated Siren"
+msgstr "[null]"
+
+msgctxt "DLC2 Necronomicon/ALN_SIRENORICHALCUM_RESEARCHDEF_COMPLETE"
+msgid "Species classification S-X73-1[LF]An unusual Siren mutation evolved thorough contact to orichalcum. While sharing most characteristics of the species, the specimen is extremely strong and well shielded. Observations suggest that its command and control capabilities are also considerably improved making it extremely dangerous when accompanied by other Pandorans."
+msgstr "[null]"
+
+msgctxt "DLC2 Necronomicon/ALN_TRITONTARSHADOW_RESEARCHDEF_NAME"
+msgid "Tar Shadow Triton"
+msgstr "[null]"
+
+msgctxt "DLC2 Necronomicon/ALN_TRITONTARSHADOW_RESEARCHDEF_COMPLETE"
+msgid "Species classification T-X74-1[LF]An unnatural Triton hybrid subspecies mutated through proximity to protean mutane gas. The exact nature and capabilities of the creature remain largely unknown. The only thing that is confirmed is that it only reveals itself when its life is threatened. Reports claim the creature looks like a tar shadow, extremely deadly at close proximity. "
+msgstr "[null]"
+
+msgctxt "DLC2 Necronomicon/ALN_ARTHRONTARSHADOW_RESEARCHDEF_NAME"
+msgid "Tar Shadow Arthron"
+msgstr "[null]"
+
+msgctxt "DLC2 Necronomicon/ALN_ARTHRONTARSHADOW_RESEARCHDEF_COMPLETE"
+msgid "Species classification A-X74-1[LF]An unknown Arthron hybrid created through the creature's contact to large amounts of protean mutane gas. According to observations the creature reveals itself when threatened and instantly engages in melee combat without concern of its life. Contact is to be avoided at all costs!"
+msgstr "[null]"
+
+msgctxt "DLC2 Necronomicon/ALN_SCYLLACRYSTAL_RESEARCHDEF_NAME"
+msgid "Living Crystal Scylla"
+msgstr "[null]"
+
+msgctxt "DLC2 Necronomicon/ALN_SCYLLACRYSTAL_RESEARCHDEF_COMPLETE"
+msgid "Species classification SCY-X75-1[LF]An unnatural Scylla mutation that ha occurred due to contact with ancient living crystals. Covered with a layer of crystal armor, the specimen is capable of increased defense and damage output. There is speculation that the crystals covering its body grant it increased intelligence and psychic powers allowing it to predict troop movements. Do not engage!"
+msgstr "[null]"
+
+msgctxt "DLC2 Necronomicon/ALN_CHIRONCRYSTAL_RESEARCHDEF_NAME"
+msgid "Living Crystal Chiron"
+msgstr "[null]"
+
+msgctxt "DLC2 Necronomicon/ALN_CHIRONCRYSTAL_RESEARCHDEF_COMPLETE"
+msgid "Species classification C-X75-1[LF]An unusual Chiron species mutation due to contact with living crystals. The specimen is considerably stronger that the other creatures of its type and is capable of dealing increased damage with its artillery-like projectiles. A crystal mass covers its body granting it additional armor and damage output. To be avoided when possible."
+msgstr "[null]"
+
+msgctxt "DLC2 Necronomicon/PX_ANTEDILUVIANARCHAEOLOGY_RESEARCHDEF_UNLOCK"
+msgid "The scientific field of Antediluvian Archaeology studies the unmistakable evidence of a civilization predating mankind by millennia. For centuries, detractors doubted the once-existence of such a civilization, but eventually the scientific community had to accept the mounting evidence. [LF][LF]The Pandoravirus disturbed ongoing Antediluvian research around the world. With this research, we prepare to get back on track and discover the secrets of the Ancients once and for all."
+msgstr "[null]"
+
+msgctxt "DLC2 Necronomicon/PX_ANTEDILUVIANARCHAEOLOGY_RESEARCHDEF_NAME"
+msgid "Antediluvian Archaeology"
+msgstr "[null]"
+
+msgctxt "DLC2 Necronomicon/PX_ANTEDILUVIANARCHAEOLOGY_RESEARCHDEF_COMPLETE"
+msgid "To achieve the breakthrough progress that has so far eluded everyone dabbling in Antediluvian Archaeology, we will have to provide our scientists with a constant stream of precursor artifacts. For this purpose, we have to discover the sites the Ancients used to inhabit.[LF][LF]Our scientists have devised a scanner probe. Produced in the Archaeology Facility and launched from a Manticore, it can detect Antediluvian sites. Then, the laborious process of excavating a pathway to the heart of the ancient ruins can begin."
+msgstr "[null]"
+
+msgctxt "DLC2 Necronomicon/PX_MATTOCKOFTHEANCIENTS_RESEARCHDEF_UNLOCK"
+msgid "Our scientists study the collection of Antediluvian schemata and texts we obtained. The results guide the development a new weapon for our tactical operatives."
+msgstr "[null]"
+
+msgctxt "DLC2 Necronomicon/PX_MATTOCKOFTHEANCIENTS_RESEARCHDEF_NAME"
+msgid "Mattock of the Ancients"
+msgstr "[null]"
+
+msgctxt "DLC2 Necronomicon/PX_MATTOCKOFTHEANCIENTS_RESEARCHDEF_COMPLETE"
+msgid "The epitome of genius in simplicity, the Mattock of the Ancients is a melee weapon of pure Orichalcum - a mysterious metal alloy of Antediluvian origin that exhibits properties contradicting classical understanding of Physics."
+msgstr "[null]"
+
+msgctxt "DLC2 Necronomicon/PX_SHARDGUN_RESEARCHDEF_UNLOCK"
+msgid "Our scientists study the collection of Antediluvian schemata and texts we obtained. The results guide the development a new weapon for our tactical operatives."
+msgstr "[null]"
+
+msgctxt "DLC2 Necronomicon/PX_SHARDGUN_RESEARCHDEF_NAME"
+msgid "Shard Gun"
+msgstr "[null]"
+
+msgctxt "DLC2 Necronomicon/PX_SHARDGUN_RESEARCHDEF_COMPLETE"
+msgid "The alloys the Ancients used allow the production of flechettes, or shards, that revolutionize the concept of closed-quarters combat. Using an Antediluvian power source, the Shard Gun eclipses any shotgun-class weapon in existence."
+msgstr "[null]"
+
+msgctxt "DLC2 Necronomicon/PX_REBUKE_RESEARCHDEF_UNLOCK"
+msgid "Our scientists study the collection of Antediluvian schemata and texts we obtained. The results guide the development a new weapon for our tactical operatives."
+msgstr "[null]"
+
+msgctxt "DLC2 Necronomicon/PX_REBUKE_RESEARCHDEF_NAME"
+msgid "Rebuke"
+msgstr "[null]"
+
+msgctxt "DLC2 Necronomicon/PX_REBUKE_RESEARCHDEF_COMPLETE"
+msgid "The Rebuke grenade launcher is the logical next step in utilizing the favorite power sources of the Ancients: a non-Newtonian fluid known as Protean Mutane gas. "
+msgstr "[null]"
+
+msgctxt "DLC2 Necronomicon/PX_CRYSTALCROSSBOW_RESEARCHDEF_UNLOCK"
+msgid "Our scientists study the collection of Antediluvian schemata and texts we obtained. The results guide the development a new weapon for our tactical operatives."
+msgstr "[null]"
+
+msgctxt "DLC2 Necronomicon/PX_CRYSTALCROSSBOW_RESEARCHDEF_NAME"
+msgid "Crystal Crossbow"
+msgstr "[null]"
+
+msgctxt "DLC2 Necronomicon/PX_CRYSTALCROSSBOW_RESEARCHDEF_COMPLETE"
+msgid "Using bolts of Living Crystal, this silent weapon, dubbed the Crystal Crossbow by our tactical operatives, exceeds the capability of any competitor."
+msgstr "[null]"
+
+msgctxt "DLC2 Necronomicon/PX_SCORPION_RESEARCHDEF_UNLOCK"
+msgid "Our scientists study the collection of Antediluvian schemata and texts we obtained. The results guide the development a new weapon for our tactical operatives."
+msgstr "[null]"
+
+msgctxt "DLC2 Necronomicon/PX_SCORPION_RESEARCHDEF_NAME"
+msgid "Scorpion"
+msgstr "[null]"
+
+msgctxt "DLC2 Necronomicon/PX_SCORPION_RESEARCHDEF_COMPLETE"
+msgid "The Scorpion sniper is the pinnacle of our Antediluvian research so far. Combines all three of the Antediluvian materials."
+msgstr "[null]"
+
+msgctxt "DLC2 Necronomicon/PX_SCYTHER_RESEARCHDEF_UNLOCK"
+msgid "Our scientists study the collection of Antediluvian schemata and texts we obtained. The results guide the development a new weapon for our tactical operatives."
+msgstr "[null]"
+
+msgctxt "DLC2 Necronomicon/PX_SCYTHER_RESEARCHDEF_NAME"
+msgid "Scyther"
+msgstr "[null]"
+
+msgctxt "DLC2 Necronomicon/PX_SCYTHER_RESEARCHDEF_COMPLETE"
+msgid "It is difficult to describe the workings of the Scyther weapon in words. Best observed in practicality. Caution: do not point towards friendlies!"
+msgstr "[null]"
 
 msgctxt "Key progression summary/Yuggothian Entity"
 msgid "[null]"
