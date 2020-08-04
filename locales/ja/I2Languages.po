@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2020-08-04 12:44+0000\n"
+"PO-Revision-Date: 2020-08-04 12:48+0000\n"
 "Last-Translator: higema <ltdhyndsh@yahoo.co.jp>\n"
 "Language-Team: \n"
 "Language: ja\n"
@@ -2424,12 +2424,11 @@ msgctxt "Cthulhu/KEY_SKILLPOINTS_RESET"
 msgid "RESET SKILL POINTS"
 msgstr "スキルポイントをリセットする"
 
-#, fuzzy
 #| msgctxt "Tutorial/KEY_TUTORIAL_SATELLITE_NAME"
 #| msgid "Satellite Uplink"
 msgctxt "Cthulhu/KEY_TUTORIAL_SATELLITE_SCANNING_ORGANIC_NAME"
 msgid "Satellite Scanning"
-msgstr "衛星アップリンク"
+msgstr "衛星スキャン"
 
 msgctxt "Cthulhu/KEY_TUTORIAL_SATELLITE_SCANNING_ORGANIC_DESCRIPTION"
 msgid ""
@@ -2442,12 +2441,11 @@ msgctxt "Cthulhu/KEY_GEOSCAPE_SCAN_AREA_COL"
 msgid "Scan Range:"
 msgstr ""
 
-#, fuzzy
 #| msgctxt "Geoscape/KEY_GEOSCAPE_BASE_INFO"
 #| msgid "BASE INFO"
 msgctxt "Cthulhu/KEY_GEOSCAPE_BASE_INFESTED"
 msgid "BASE INFESTED"
-msgstr "基地情報"
+msgstr "基地が侵襲された"
 
 msgctxt "Cthulhu/KEY_GEOSCAPE_BASE_FACILITIES_BUILT"
 msgid "Facilities built"
@@ -2486,23 +2484,21 @@ msgctxt "Cthulhu/KEY_MISSION_PX_BASE_ACTIVATED_INFESTED_DESCRIPTION"
 msgid "The activation sequence has revealed intruders within the base! Send a squad to clear out the infestation so the base can be used."
 msgstr ""
 
-#, fuzzy
 #| msgctxt "Tutorial/KEY_TUTORIAL_BASE_NAME"
 #| msgid "Phoenix Bases"
 msgctxt "Cthulhu/KEY_MISSION_PX_BASE_ACTIVATED_STANDARD_NAME"
 msgid "Phoenix Base Activated"
-msgstr "フェニックス基地"
+msgstr "フェニックス基地がアクティベートされた"
 
 msgctxt "Cthulhu/KEY_MISSION_PX_BASE_ACTIVATED_STANDARD_DESCRIPTION"
 msgid "A Phoenix Base has been brought online. All systems are nominal, no threats detected. Damaged base facilities need to be repaired in order for them to be fully operational."
 msgstr ""
 
-#, fuzzy
 #| msgctxt "Objectives/KEY_OBJECTIVE_KILL_AN0"
 #| msgid "DESTROY THE SOURCE OF THE INFESTATION"
 msgctxt "Cthulhu/KEY_MISSION_PX_BASE_INFESTED_BRIEFING_NAME"
 msgid "CLEAR OUT THE INFESTATION"
-msgstr "出没の元になっているものを撃破する"
+msgstr "侵襲の一掃"
 
 msgctxt "Cthulhu/KEY_MISSION_PX_BASE_INFESTED_BRIEFING_DESCRIPTION"
 msgid "Eliminate any Pandoran entities within the base and protect as many key structures as possible."
