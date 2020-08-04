@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2020-08-04 12:40+0000\n"
+"PO-Revision-Date: 2020-08-04 12:44+0000\n"
 "Last-Translator: higema <ltdhyndsh@yahoo.co.jp>\n"
 "Language-Team: \n"
 "Language: ja\n"
@@ -2249,12 +2249,11 @@ msgctxt "Cthulhu/KEY_BASE_PROMPT_KILL_CAPTURED_ALIEN"
 msgid "Are you sure you want to kill the Pandoran {0}?"
 msgstr "本当にこのパンドラン・{0}を殺処分しますか？"
 
-#, fuzzy
 #| msgctxt "Cthulhu/KEY_BASE_PROMPT_KILL_CAPTURED_ALIEN_RESULT"
 #| msgid "{0} has been killed."
 msgctxt "Cthulhu/KEY_BASE_PROMPT_HARVEST_ALIEN_FOR_FOOD_RESULT"
 msgid "{0} has been killed for {1} food"
-msgstr "{0}は殺処分された。"
+msgstr "{0}は殺処分され、食料{1}が回収された。"
 
 #| msgctxt "Cthulhu/KEY_BASE_PROMPT_KILL_CAPTURED_ALIEN_RESULT"
 #| msgid "{0} has been killed."
@@ -2270,7 +2269,7 @@ msgstr "{0}は殺処分された。"
 #| msgid "ACTIVATE"
 msgctxt "Cthulhu/KEY_TUTORIAL_BASE_ACTIVATION_NAME"
 msgid "BASE ACTIVATION"
-msgstr "既知のアクティベート"
+msgstr "基地のアクティベート"
 
 msgctxt "Cthulhu/KEY_TUTORIAL_BASE_ACTIVATION_DESCRIPTION"
 msgid ""
@@ -2293,12 +2292,11 @@ msgctxt "Cthulhu/KEY_FACILITY_LIMIT_WARNING"
 msgid "Cannot construct more than {0} {1} per base"
 msgstr ""
 
-#, fuzzy
 #| msgctxt "Geoscape/KEY_GEO_SCANNER_NAME"
 #| msgid "AREA SCAN"
 msgctxt "Cthulhu/KEY_AREA_SCAN_LOADING"
 msgid "LOADING AREA SCAN..."
-msgstr "エリアスキャン"
+msgstr "エリアスキャンをロード中…"
 
 msgctxt "Cthulhu/KEY_POP_METER_TT"
 msgid "Surviving human population in havens. If this falls below {0}% you will lose the game."
@@ -2312,7 +2310,6 @@ msgctxt "Cthulhu/KEY_PANDORAN_RESEARCH_REPORT_DESC"
 msgid "Haven reports and scientific observations have identified new Pandoran mutations. The following analysis is available:"
 msgstr ""
 
-#, fuzzy
 #| msgctxt "Missions/KEY_MISSION_SUMMARY_SUMMARY"
 #| msgid "SUMMARY"
 msgctxt "Cthulhu/KEY_PANDORAN_RESEARCH_REPORT_SUMMARY"
@@ -2337,23 +2334,21 @@ msgctxt "Cthulhu/KEY_CLOSE_INTELLIGENCE_REPORT"
 msgid "CLOSE INTELLIGENCE REPORT"
 msgstr ""
 
-#, fuzzy
 #| msgctxt "PH_Localization/KEY_MANUFACTURE_REMOVE_BUTTON_TT"
 #| msgid "Remove item from queue"
 msgctxt "Cthulhu/KEY_SCV_STANDARD_TT"
 msgid "Recover items from crates and escape"
-msgstr "キューからアイテムを削除"
+msgstr "箱からアイテムを回収して撤退する"
 
 msgctxt "Cthulhu/KEY_SCV_RESCUE_VEHICLE_TT"
 msgid "Recover an abandoned vehicle"
 msgstr ""
 
-#, fuzzy
 #| msgctxt "Achievements/ACHIEVEMENT_15_DESC"
 #| msgid "Recruit a soldier"
 msgctxt "Cthulhu/KEY_SCV_RESCUE_SOLDIERS_TT"
 msgid "Rescue independent soldiers"
-msgstr "兵士を雇用する"
+msgstr "独立兵達を救助する"
 
 msgctxt "Cthulhu/KEY_SCV_OVG_STANDARD_TT"
 msgid "Rich site - recover items from crates and escape"
@@ -2379,26 +2374,23 @@ msgctxt "Cthulhu/KEY_INFESTESTATION_THREAT_DESC"
 msgid "After activation, an infested base will need to be cleared out by a squad before it can be used.[CR]"
 msgstr ""
 
-#, fuzzy
 #| msgctxt "Danforth/KEY_RESOURCE_MATERIALS_DESCRIPTION"
 #| msgid "Construction materials"
 msgctxt "Cthulhu/KEY_CONSTRUCTED_FACILITIES"
 msgid "Constructed facilities"
-msgstr "製造用資材"
+msgstr "建造済みの施設"
 
-#, fuzzy
 #| msgctxt "Geoscape/KEY_GEO_SCANS"
 #| msgid "Available Scans"
 msgctxt "Cthulhu/KEY_AVAILABLE_SLOTS"
 msgid "Available Slots"
-msgstr "利用可能スキャン"
+msgstr "利用可能スロット"
 
-#, fuzzy
 #| msgctxt "Blood Titanium/KEY_DISPLAY_ACTION_COST"
 #| msgid "ACTION COST:"
 msgctxt "Cthulhu/KEY_ACTIVATION_COST"
 msgid "ACTIVATION COST"
-msgstr "アクションコスト:"
+msgstr "アクティベートコスト"
 
 msgctxt "Cthulhu/KEY_TUTORIAL_PANDORAN_BASE_REVEALED_NAME"
 msgid "REVEALING PANDORAN COLONIES"
@@ -2410,12 +2402,11 @@ msgid ""
 "colony attacks from within the scanning range of a Phoenix base, it will be revealed immediately.[LF]"
 msgstr ""
 
-#, fuzzy
 #| msgctxt "Tactical/KEY_TURNS_ALIEN_ACTIVITY"
 #| msgid "PANDORAN ACTIVITY"
 msgctxt "Cthulhu/KEY_BASE_PANDORAN_BASE_REVEALED_NAME"
 msgid "PANDORAN ATTACK ANALYSIS"
-msgstr "パンドランの行動"
+msgstr "パンドランの襲撃分析"
 
 msgctxt "Cthulhu/KEY_BASE_PANDORAN_BASE_REVEALED_DESCRIPTION"
 msgid "Analysis of the Pandorans' behavior has revealed the location of their colony. A new {0} site is visible in the geoscape view and may now be targeted for attack."
@@ -2427,12 +2418,11 @@ msgid ""
 "within Phoenix Base scanning range, it would be detected immediately."
 msgstr ""
 
-#, fuzzy
 #| msgctxt "Tactical/KEY_WILL_POINTS_CLEAN"
 #| msgid "WILL POINTS"
 msgctxt "Cthulhu/KEY_SKILLPOINTS_RESET"
 msgid "RESET SKILL POINTS"
-msgstr "ウィルポイント"
+msgstr "スキルポイントをリセットする"
 
 #, fuzzy
 #| msgctxt "Tutorial/KEY_TUTORIAL_SATELLITE_NAME"
