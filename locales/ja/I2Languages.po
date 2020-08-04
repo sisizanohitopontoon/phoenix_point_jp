@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2020-08-04 13:14+0000\n"
+"PO-Revision-Date: 2020-08-04 13:18+0000\n"
 "Last-Translator: higema <ltdhyndsh@yahoo.co.jp>\n"
 "Language-Team: \n"
 "Language: ja\n"
@@ -12496,7 +12496,6 @@ msgctxt "Missions/KEY_MISSION_HAVEN_ATTACK2_WARNING_DESCRIPTION"
 msgid "Intervene to eliminate the threat, protecting as many civilians as possible. If you are successful, you will receive a reward from the haven."
 msgstr "脅威の排除に参入し、可能な限り民間人を守れ。成功した場合、ヘイヴンから報酬を受け取れる。"
 
-#, fuzzy
 #| msgctxt "Missions/KEY_MISSION_HAVEN_DEFENCE"
 #| msgid "HAVEN DEFENCE"
 msgctxt "Missions/Be aware of the Pandoran defense systems. Sentinels will trigger if a soldier is in its sensor range or attacks them. Eggs will hatch if a soldier gets close."
@@ -12599,7 +12598,6 @@ msgctxt "Missions/KEY_MISSION_PX_BASE_DEFENCE_DESCRIPTION"
 msgid "Defend your base and eliminate all invaders."
 msgstr "基地を守り、侵入者をすべて排除する。"
 
-#, fuzzy
 #| msgctxt "Missions/KEY_MISSION_PX_BASE_DEFENCE_START"
 #| msgid "READY ALL DEFENCES"
 msgctxt "Missions/KEY_MISSION_PX_BASE_DEFENCE_START"
@@ -12618,19 +12616,17 @@ msgctxt "Missions/KEY_MISSION_PX_BASE_DEFENDED_TITLE"
 msgid "PHOENIX BASE DEFENDED"
 msgstr "フェニックス基地は守られた"
 
-#, fuzzy
 #| msgctxt "Missions/KEY_MISSION_PX_BASE_DESTROYED_DESCRIPTION"
 #| msgid "Our forces were ovverun by invaders. We have no choice but abandon the base."
 msgctxt "Missions/KEY_MISSION_PX_BASE_DESTROYED_DESCRIPTION"
 msgid "Our forces were overun by invaders, and the base has suffered serious damage."
-msgstr "私達の部隊は侵略者達によって蹂躙された。 基地は放棄するしかない。"
+msgstr "私達の部隊は侵略者達によって蹂躙され、基地は深刻なダメージを受けてしまった。"
 
-#, fuzzy
 #| msgctxt "Missions/KEY_MISSION_ATTACK_PHOENIX_DISCOVERED_NAME"
 #| msgid "PHOENIX BASE DISCOVERED"
 msgctxt "Missions/KEY_MISSION_PX_BASE_DESTROYED_TITLE"
 msgid "PHOENIX BASE RANSACKED"
-msgstr "フェニックス基地発見"
+msgstr "フェニックス基地は荒らされた"
 
 msgctxt "Missions/KEY_MISSION_PX_BASE_WARNING_DESCRIPTION"
 msgid "Base {0} is under attack by {1} forces. Eliminate the threat, protecting the base's crucial structures. Losing will result in the loss of this base."
@@ -13660,19 +13656,17 @@ msgctxt "Characters and classes/KEY_FIREWORM_DESCRIPTION"
 msgid "FIREWORM"
 msgstr "ファイアワーム"
 
-#, fuzzy
 #| msgctxt "Characters and classes/KEY_ACIDWORM_EGG_DESC"
 #| msgid "Gives birth to an Acidworm when triggered"
 msgctxt "Characters and classes/KEY_FIREWORM_EGG_DESCRIPTION"
 msgid "Gives birth to a Fireworm when triggered"
-msgstr "惹起された時にアシッドワームを生みだす"
+msgstr "惹起された際にファイアワームを生みだす"
 
-#, fuzzy
 #| msgctxt "Characters and classes/KEY_FIREWORM_EGG_NAME"
 #| msgid "WORM EGG"
 msgctxt "Characters and classes/KEY_FIREWORM_EGG_NAME"
 msgid "FIREWORM EGG"
-msgstr "ワームエッグ"
+msgstr "ファイアワーム エッグ"
 
 msgctxt "Characters and classes/KEY_FIREWORM_NAME"
 msgid "FIREWORM"
@@ -13866,12 +13860,11 @@ msgctxt "Characters and classes/KEY_INFILTRATOR_DESCRIPTION"
 msgid "A covert specialist, trained in advanced Synedrion technology and tactics. Specialized in stealth and subterfuge."
 msgstr "高度なシネドリオンのテクノロジーとトレーニングを習った 隠密のスペシャリスト。ステルスと謀略に特化している。"
 
-#, fuzzy
 #| msgctxt "Characters and classes/KEY_ACIDWORM_EGG_NAME"
 #| msgid "ACIDWORM EGG"
 msgctxt "Characters and classes/FIREWORM EGG"
 msgid "ACIDWORM EGG"
-msgstr "アシッドワームエッグ"
+msgstr "アシッドワーム エッグ"
 
 msgctxt "Characters and classes/KEY_ACIDWORM_EGG_DESC"
 msgid "Gives birth to an Acidworm when triggered"
@@ -13923,7 +13916,6 @@ msgid ""
 "to 4 soldiers through hazardous environments without the risk of infection."
 msgstr "ハイブリッド充電とバイオ燃料を使用する、完全AI制御の全地形装甲兵員輸送車。自動式ガウスガンタレットを備えたこの車両は、最大4名の兵士を乗せて感染の危険を負わせることなく有害な環境を通過することができる。"
 
-#, fuzzy
 #| msgctxt "Characters and classes/KEY_GROUNDVEHICLE_SYN_LONG"
 #| msgid ""
 #| "Based on aircraft technology, the Aspida is a combat ready hovercraft tha powered entirely through fusion cell technology. Capable of transporting a squad of 3, the vehicle is equipped with "
@@ -13932,7 +13924,7 @@ msgctxt "Characters and classes/KEY_GROUNDVEHICLE_SYN_LONG"
 msgid ""
 "Based on aircraft technology, the Aspida is a combat ready hovercraft tha powered entirely through fusion cell technology. Capable of transporting a squad of 3, the vehicle is equipped with "
 "automated field surgery robotics, allowing it to treat or paralyze biological entities on the battlefield[LF]"
-msgstr "航空機技術を基にしたこのアスピーダは、完全に核融合電池技術だけで動力を得る戦闘対応ホバークラフトだ。1名を輸送可能なこの車両は自動屋外手術ロボットを備えており、戦場で生物学的存在を治療または麻痺させることができる。[CR][LF]"
+msgstr "航空機技術を基にしたこのアスピーダは、完全に核融合電池技術だけで動力を得る戦闘対応ホバークラフトだ。1名を輸送可能なこの車両は自動屋外手術ロボットを備えており、戦場で生物学的存在を治療または麻痺させることができる。[LF]"
 
 msgctxt "Characters and classes/KEY_GROUNDVEHICLE_PP_LONG"
 msgid ""
