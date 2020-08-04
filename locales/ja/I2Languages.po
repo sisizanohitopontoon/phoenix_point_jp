@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2020-08-04 13:00+0000\n"
+"PO-Revision-Date: 2020-08-04 13:05+0000\n"
 "Last-Translator: higema <ltdhyndsh@yahoo.co.jp>\n"
 "Language-Team: \n"
 "Language: ja\n"
@@ -2722,12 +2722,11 @@ msgctxt "Abilities/KEY_ACID_RESISTANCE_NAME"
 msgid "ACID RESISTANT"
 msgstr "酸耐性"
 
-#, fuzzy
 #| msgctxt "Abilities/KEY_ARMOUR_BREAK_DESCRIPTION"
 #| msgid "The next attack deals 50 additional Shred Damage"
 msgctxt "Abilities/KEY_ARMOUR_BREAK_DESCRIPTION"
 msgid "The next attack deals 30 additional Shred Damage"
-msgstr "次に行う攻撃が追加で50の破砕ダメージを与える"
+msgstr "次に行う攻撃が追加で30の破砕ダメージを与える"
 
 msgctxt "Abilities/KEY_ARMOUR_BREAK_NAME"
 msgid "ARMOR BREAK"
@@ -2773,12 +2772,11 @@ msgctxt "Abilities/KEY_BODY_SLAM_NAME"
 msgid "BODY SLAM"
 msgstr "ボディスラム"
 
-#, fuzzy
 #| msgctxt "Abilities/KEY_ADRENALINE_RUSH_DESCRIPTION"
 #| msgid "All abilities cost a maximum of 1 Action Point until the end of the turn with 50% accuracy penalty, but you cannot do anything that costs Will Points[LF]"
 msgctxt "Abilities/KEY_ADRENALINE_RUSH_DESCRIPTION"
 msgid "All abilities cost a maximum of 1 Action Point until the end of the turn and you become dazed next turn."
-msgstr "ターン終了まで全てのアビリティのAPコストが1になり、 -50％の命中精度ペナルティを負う。 ただしその間、WPを消費するアビリティは使用できない。"
+msgstr "ターン終了まで全てのアビリティのAPコストが1になるが、 次のターンで放心状態になってしまう。"
 
 msgctxt "Abilities/KEY_ADRENALINE_RUSH_NAME"
 msgid "ADRENALINE RUSH"
@@ -3472,34 +3470,31 @@ msgctxt "Abilities/KEY_PSYCHIC_WARD_NAME"
 msgid "PSYCHIC WARD"
 msgstr "サイキックワード"
 
-#, fuzzy
 #| msgctxt "Abilities/KEY_RAGE_BURST_DESCRIPTION"
 #| msgid "Shoot 5 times with 50% accuracy using a proficient, direct-fire weapon"
 msgctxt "Abilities/KEY_RAGE_BURST_DESCRIPTION"
 msgid "Shoot 5 times spread across an arc with a direct-fire weapon"
-msgstr "武器技能に対応している直線射撃武器を用いて、 50%の命中精度で5回の射撃を行う"
+msgstr "直線射撃武器を用いて扇状の範囲に5回の射撃を行う"
 
 msgctxt "Abilities/KEY_RAGE_BURST_NAME"
 msgid "RAGE BURST"
 msgstr "レイジバースト"
 
-#, fuzzy
 #| msgctxt "Abilities/KEY_PRIEST_RADIANT_HOPE_DESCRIPTION"
 #| msgid "Living allied units within 7 tiles recover 2 Will Points at the start of turn"
 msgctxt "Abilities/KEY_ONSLAUGHT_DESCRIPTION"
 msgid "An ally within 10 tiles recovers 2 Action Points"
-msgstr "ターン開始時、7タイル以内にいる 全ての味方生物ユニットは ウィルポイントが2回復する。"
+msgstr "10タイル以内にいる味方のアクションポイントが2回復する。"
 
 msgctxt "Abilities/KEY_ONSLAUGHT_NAME"
 msgid "ONSLAUGHT"
 msgstr ""
 
-#, fuzzy
 #| msgctxt "Abilities/KEY_RALLY_DESCRIPTION"
 #| msgid "Each ally recovers 1 Action Point. Limited to one use per turn."
 msgctxt "Abilities/KEY_RALLY_DESCRIPTION"
 msgid "Each ally within 10 tiles recovers 1 Action Point. Limited to one use per turn."
-msgstr "各味方のアクションポイントが1回復する。 1ターンにつき1度しか使用できない。"
+msgstr "10タイル以内にいる味方のアクションポイントが1回復する。1ターンにつき一度しか使用できない。"
 
 msgctxt "Abilities/KEY_RALLY_NAME"
 msgid "RALLY THE TROOPS"
