@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2020-08-04 12:55+0000\n"
+"PO-Revision-Date: 2020-08-04 13:00+0000\n"
 "Last-Translator: higema <ltdhyndsh@yahoo.co.jp>\n"
 "Language-Team: \n"
 "Language: ja\n"
@@ -2578,132 +2578,115 @@ msgctxt "Cthulhu/KEY_AN_BERSERKER_NAME"
 msgid "DISCIPLES OF ANU BERSERKER"
 msgstr "ディサイプルズ・オブ・アヌ バーサーカー"
 
-#, fuzzy
 #| msgctxt "Missions/KEY_MISSION_DISCIPLES_OF_ANU"
 #| msgid "DISCIPLES OF ANU"
 msgctxt "Cthulhu/KEY_AN_PRIEST_NAME"
 msgid "DISCIPLES OF ANU PRIEST"
-msgstr "ディサイプルズ・オブ・アヌ"
+msgstr "ディサイプルズ・オブ・アヌ プリースト"
 
-#, fuzzy
 #| msgctxt "Characters and classes/KEY_CLASS_ASSAULT_NAME"
 #| msgid "ASSAULT"
 msgctxt "Cthulhu/KEY_BAN_ASSAULT_NAME"
 msgid "BANDIT ASSAULT"
-msgstr "アサルト"
+msgstr "バンディット アサルト"
 
 msgctxt "Cthulhu/KEY_BAN_HEAVY_NAME"
 msgid "BANDIT HEAVY"
 msgstr ""
 
-#, fuzzy
 #| msgctxt "Equipment/KEY_NJ_SNIPER_NAME"
 #| msgid "NJ SNIPER"
 msgctxt "Cthulhu/KEY_BAN_SNIPER_NAME"
 msgid "BANDIT SNIPER"
-msgstr "NJスナイパー"
+msgstr "バンディット スナイパー"
 
-#, fuzzy
 #| msgctxt "Characters and classes/KEY_CLASS_ASSAULT_NAME"
 #| msgid "ASSAULT"
 msgctxt "Cthulhu/KEY_PU_ASSAULT_NAME"
 msgid "PURE ASSAULT"
-msgstr "アサルト"
+msgstr "ピュア アサルト"
 
-#, fuzzy
 #| msgctxt "Equipping Screen/KEY_ITEM_TYPE_HEAVY"
 #| msgid "HEAVY"
 msgctxt "Cthulhu/KEY_PU_HEAVY_NAME"
 msgid "PURE HEAVY"
-msgstr "ヘビー"
+msgstr "ピュア ヘビー"
 
-#, fuzzy
 #| msgctxt "Characters and classes/KEY_CLASS_SNIPER_NAME"
 #| msgid "SNIPER"
 msgctxt "Cthulhu/KEY_PU_SNIPER_NAME"
 msgid "PURE SNIPER"
-msgstr "スナイパー"
+msgstr "ピュア スナイパー"
 
-#, fuzzy
 #| msgctxt "Characters and classes/KEY_CLASS_TECHNICIAN_NAME"
 #| msgid "TECHNICIAN"
 msgctxt "Cthulhu/KEY_PU_TECHNICIAN_NAME"
 msgid "PURE TECHNICIAN"
-msgstr "テクニシャン"
+msgstr "ピュア テクニシャン"
 
-#, fuzzy
 #| msgctxt "Characters and classes/KEY_CLASS_INFILTRATOR_NAME"
 #| msgid "INFILTRATOR"
 msgctxt "Cthulhu/KEY_PU_INFILTRATOR_NAME"
 msgid "PURE INFILTRATOR"
-msgstr "インフィルトレイター"
+msgstr "ピュア インフィルトレイター"
 
-#, fuzzy
 #| msgctxt "Characters and classes/KEY_CLASS_ASSAULT_NAME"
 #| msgid "ASSAULT"
 msgctxt "Cthulhu/KEY_FK_ASSAULT_NAME"
 msgid "FORSAKEN ASSAULT"
-msgstr "アサルト"
+msgstr "フォセイクン アサルト"
 
-#, fuzzy
 #| msgctxt "Characters and classes/KEY_CLASS_BERSERKER_NAME"
 #| msgid "BERSERKER"
 msgctxt "Cthulhu/KEY_FK_BERSERKER_NAME"
 msgid "FORSAKEN BERSERKER"
-msgstr "バーサーカー"
+msgstr "フォセイクン バーサーカー"
 
 msgctxt "Cthulhu/KEY_FK_PRIEST_NAME"
 msgid "FORSAKEN PRIEST"
 msgstr ""
 
-#, fuzzy
 #| msgctxt "Characters and classes/KEY_CLASS_ASSAULT_DESCRIPTION"
 #| msgid "Assault Class Soldier"
 msgctxt "Cthulhu/KEY_ASSAULT_FILTER_TT"
 msgid "Assault class filter"
-msgstr "アサルトクラス兵"
+msgstr "アサルト兵科 フィルター"
 
-#, fuzzy
 #| msgctxt "Characters and classes/KEY_CLASS_SNIPER_DESCRIPTION"
 #| msgid "Sniper Class Soldier"
 msgctxt "Cthulhu/KEY_SNIPER_FILTER_TT"
 msgid "Sniper class filter"
-msgstr "スナイパー クラス兵"
+msgstr "スナイパー兵科 フィルター"
 
-#, fuzzy
 #| msgctxt "Characters and classes/KEY_CLASS_HEAVY_DESCRIPTION"
 #| msgid "Heavy Class Soldier"
 msgctxt "Cthulhu/KEY_HEAVY_FILTER_TT"
 msgid "Heavy class filter"
-msgstr "ヘビークラス兵"
+msgstr "ヘビー兵科 フィルター"
 
-#, fuzzy
 #| msgctxt "Characters and classes/KEY_CLASS_BERSERKER_DESCRIPTION"
 #| msgid "Berserker Class Soldier"
 msgctxt "Cthulhu/KEY_BERSERKER_FILTER_TT"
 msgid "Berserker class filter"
-msgstr "バーサーカークラス兵"
+msgstr "バーサーカー兵科 フィルター"
 
-#, fuzzy
 #| msgctxt "Characters and classes/KEY_CLASS_PRIEST_DESCRIPTION"
 #| msgid "Priest Class Soldier"
 msgctxt "Cthulhu/KEY_PRIEST_FILTER_TT"
 msgid "Priest class filter"
-msgstr "プリースト クラス兵"
+msgstr "プリースト兵科 フィルター"
 
-#, fuzzy
 #| msgctxt "Characters and classes/KEY_CLASS_INFILTRATOR_DESCRIPTION"
 #| msgid "Infiltrator Class Soldier"
 msgctxt "Cthulhu/KEY_INFILTRATOR_FILTER_TT"
 msgid "Infiltrator class filter"
-msgstr "インフィルトレイター クラス兵"
+msgstr "インフィルトレイター兵科 フィルター"
 
-#, fuzzy
 #| msgctxt "Characters and classes/KEY_CLASS_TECHNICIAN_DESCRIPTION"
 #| msgid "Technician Class Soldier"
 msgctxt "Cthulhu/KEY_TECHNICIAN_FILTER_TT"
 msgid "Technician class filter"
-msgstr "テクニシャン クラス兵"
+msgstr "テクニシャン兵科 フィルター"
 
 msgctxt "Cthulhu/KEY_OPTIONS_CUSTOMISABLE_SOLDIERS"
 msgid "RANDOM SOLDIER OUTFITS"
@@ -2725,12 +2708,11 @@ msgctxt "Cthulhu/KEY_GEOSCAPE_MESSAGE_HAVEN_ZONE_ATTRITION"
 msgid "Zone {0} in haven {2} ({1}) has fallen into disrepair"
 msgstr ""
 
-#, fuzzy
 #| msgctxt "Danforth/KEY_BASE_RECRUITS_AVAILABLE"
 #| msgid "RECRUITS AVAILABLE IN {0} DAYS"
 msgctxt "Cthulhu/KEY_BASE_RECRUITS_AVAILABLE_1DAY"
 msgid "RECRUITS AVAILABLE IN 1 DAY"
-msgstr "{0}日後に補充兵を雇用可能"
+msgstr "1日後に補充兵を雇用可能"
 
 msgctxt "Abilities/KEY_ACID_RESISTANCE_DESCRIPTION"
 msgid "Reduces effect of Acid Damage by half"
