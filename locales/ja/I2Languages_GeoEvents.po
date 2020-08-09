@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2020-08-09 06:35+0000\n"
+"PO-Revision-Date: 2020-08-09 06:40+0000\n"
 "Last-Translator: higema <ltdhyndsh@yahoo.co.jp>\n"
 "Language-Team: \n"
 "Language: ja\n"
@@ -4686,7 +4686,6 @@ msgid ""
 "potentially its security defences. Such an action, however, is likely to worsen our relations with New Jericho.[LF]"
 msgstr "メッセージ[LF][LF]サブジェクト24は、私達がニュージェリコの施設襲撃を実行することを依頼してきた。仮に承諾した場合、その施設の具体的な場所や存在しうる警備防衛の情報を含む具体的な詳細が送られてくるだろう。しかしなからこういった行いは、私達のニュージェリコとの関係を悪化させる可能性が高い。[LF]"
 
-#, fuzzy
 #| msgctxt "GeoEvents/PROG_PU2_CHOICE_0_TEXT"
 #| msgid "Agree to help Subject 24."
 msgctxt "DLC1/PROG_PU2_CHOICE_0_TEXT"
@@ -4703,14 +4702,12 @@ msgid ""
 "West’s head! [LF][LF]We'll find a way to obtain the research data, but the chance of alliance between the Pure and the Phoenix Project is gone forever.[LF]"
 msgstr "メッセージ[LF][LF]コンタクトを取った時点では、私はお前達のことを、利害をわきまえた賢明な相手だと思っていた。だが実際は、トビアス・ウェストの頭の中のモジュール並みに虚栄に満ちた信念を持つだけの、意気地のない臆病者だったとはな![LF][LF]我々はいずれ研究データを入手するための方法を見つけだすだろう。だがピュアとフェニックスポイントの同盟の機会は永久に失われた。[LF]"
 
-#, fuzzy
 #| msgctxt "GeoEvents/PROG_PU2_CHOICE_1_TEXT"
 #| msgid "Refuse to help Subject 24."
 msgctxt "DLC1/PROG_PU2_CHOICE_1_TEXT"
 msgid "Refuse to help Subject 24."
 msgstr "サブジェクト24に協力することを断る。"
 
-#, fuzzy
 #| msgctxt "GeoEvents/PROG_PU2_TEXT_GENERAL_0"
 #| msgid ""
 #| "MESSAGE[LF][LF]Subject 24 has requested that we perform the raid on a New Jericho facility. Should we agree, he will send us specific details, including the exact location of the facility and "
@@ -4719,9 +4716,8 @@ msgctxt "DLC1/PROG_PU2_TEXT_GENERAL_0"
 msgid ""
 "MESSAGE[LF][LF]Subject 24 has requested that we perform the raid on a New Jericho facility. Should we agree, he will send us specific details, including the exact location of the facility and "
 "potentially its security defences. Such an action, however, is likely to worsen our relations with New Jericho.[LF]"
-msgstr "メッセージ[LF][LF]サブジェクト24は、私達がニュージェリコの施設襲撃を実行することを依頼してきた。仮に承諾した場合、その施設の具体的な場所や存在しうる警備防衛の情報を含む具体的な詳細が送られてくるだろう。しかしなからこういった行いは、私達のニュージェリコとの関係を悪化させる可能性が高い。"
+msgstr "メッセージ[LF][LF]サブジェクト24は、私達がニュージェリコの施設襲撃を実行することを依頼してきた。仮に承諾した場合、その施設の具体的な場所や存在しうる警備防衛の情報を含む具体的な詳細が送られてくるだろう。しかしなからこういった行いは、私達のニュージェリコとの関係を悪化させる可能性が高い。[LF]"
 
-#, fuzzy
 #| msgctxt "GeoEvents/PROG_PU2_TITLE"
 #| msgid "A Humble Request"
 msgctxt "DLC1/PROG_PU2_TITLE"
@@ -4742,28 +4738,24 @@ msgid ""
 "been unsuccessful, suggesting that our temporary arrangement may be at an end."
 msgstr "メッセージ[LF][LF]私達はその協調的な取り組みにもかかわらず研究データの入手に失敗し、ニュージェリコ軍を警戒態勢にしてしまった。サブジェクト24や他のピュアのメンバーを押さえようとする試みは全て失敗しており、私達の暫定協定が終わったであろうことを示唆している。"
 
-#, fuzzy
 #| msgctxt "GeoEvents/PROG_PU4_FAIL_TITLE"
 #| msgid "An Unexpected Setback"
 msgctxt "DLC1/PROG_PU4_FAIL_TITLE"
 msgid "An Unexpected Setback"
 msgstr "予期せぬ挫折"
 
-#, fuzzy
 #| msgctxt "Progression/PROG_AN0_MISS_CHOICE_0_TEXT"
 #| msgid "START MISSION"
 msgctxt "DLC1/PROG_PU4_MISS_CHOICE_0_TEXT"
 msgid "START MISSION"
 msgstr "ミッション開始"
 
-#, fuzzy
 #| msgctxt "Progression/PROG_AN0_MISS_CHOICE_1_TEXT"
 #| msgid "CANCEL"
 msgctxt "DLC1/PROG_PU4_MISS_CHOICE_1_TEXT"
 msgid "CANCEL"
 msgstr "キャンセル"
 
-#, fuzzy
 #| msgctxt "GeoEvents/PROG_PU4_MISS_TEXT_GENERAL_0"
 #| msgid ""
 #| "MISSION BRIEFING[LF][LF]Subject 24 has provided us with the location of the New Jericho research facility conducting experiments in human augmentation. Due to the secret nature of the facility, "
@@ -4772,16 +4764,14 @@ msgctxt "DLC1/PROG_PU4_MISS_TEXT_GENERAL_0"
 msgid ""
 "MISSION BRIEFING[LF][LF]Subject 24 has provided us with the location of the New Jericho research facility conducting experiments in human augmentation. Due to the secret nature of the facility, "
 "security is likely to be light.[LF]The goal is to get the research data located within the facility. There is no need to eliminate all the defending security personnel.[LF]"
-msgstr "ブリーフィング[LF][LF]サブジェクト24は、人間のオーグメンテーションの実験を行っているニュージェリコの研究施設の場所を私たちに教えた。施設のその機密の性質上、警備は軽度である可能性が高い。[LF]目的は、施設内部に存在する研究データの入手である。施設を守る警備兵全員を排除する必要はない。"
+msgstr "ブリーフィング[LF][LF]サブジェクト24は、人間のオーグメンテーションの実験を行っているニュージェリコの研究施設の場所を私たちに教えた。施設のその機密の性質上、警備は軽度である可能性が高い。[LF]目的は、施設内部に存在する研究データの入手である。施設を守る警備兵全員を排除する必要はない。[LF]"
 
-#, fuzzy
 #| msgctxt "GeoEvents/PROG_PU4_MISS_TITLE"
 #| msgid "Undefendable"
 msgctxt "DLC1/PROG_PU4_MISS_TITLE"
 msgid "Undefendable"
 msgstr "防衛不全"
 
-#, fuzzy
 #| msgctxt "GeoEvents/PROG_PU12_WIN_CHOICE_0_TEXT"
 #| msgid "OK.[LF]NEW RESEARCH AVAILABLE"
 msgctxt "DLC1/PROG_PU4_WIN_CHOICE_0_TEXT"
@@ -4798,7 +4788,6 @@ msgid ""
 "step in reclaiming the planet. Humanity will be born again and this time the Pure will show the path."
 msgstr "メッセージ[LF][LF]ファス・エスト・アブ・ホステ・ダケリ。敵からであっても教わることが望ましい-たとえ奴らが臆病者で裏切り者であるとしてもだ。我々が入手した研究は一連のアップグレードというだけでなく、この星を取り戻すうえでの第一歩でもある。人類は再誕し、今度こそザピュアが道を示すだろう。"
 
-#, fuzzy
 #| msgctxt "GeoEvents/PROG_PU4_WIN_TITLE"
 #| msgid "Hoste Doceri"
 msgctxt "DLC1/PROG_PU4_WIN_TITLE"
@@ -4819,7 +4808,6 @@ msgid ""
 " and technology that will help us defeat the Pandoran threat. [LF]A word of warning: don’t get in our way! We will show no mercy, we will allow no bargaining. [LF]We are The Pure![LF]"
 msgstr "メッセージ[LF][LF]これは世界に向けた発信である。[LF]我々はピュア。暗がりに身を潜める時は終わった!既に選ばれし戦士たちの部隊が、パンドランの脅威の打倒に役立つであろう資源とテクノロジーを求め、世界をしらみつぶしに探し回っている。[LF]ひとつ警告しておく。我々の邪魔をするな!我々は一切の慈悲を示すことはない、交渉にも応じない。[LF]我々はピュアだ![LF]"
 
-#, fuzzy
 #| msgctxt "GeoEvents/PROG_PU5_TITLE"
 #| msgid "The Warning"
 msgctxt "DLC1/PROG_PU5_TITLE"
@@ -4840,7 +4828,6 @@ msgid ""
 "already ambushed several New Jericho and Disciples of Anu patrols. [LF]Extreme caution is advised when visiting Exploration sites. [LF]"
 msgstr "メッセージ[LF][LF]世界じゅうでパトロールを襲撃している、重度に変異した人間達についての報告が数を増し続けている。「フォセイクン」と呼ばれるこの者達は飽くことを知らぬ貪欲さを持ち、すでにニュージェリコやディサイプルズ・オブ・アヌのパトロールのいくつかが奇襲を受けている。[LF]探索地点を訪れる際は、細心の注意が必要とされる。[LF]"
 
-#, fuzzy
 #| msgctxt "GeoEvents/PROG_PU6_TITLE"
 #| msgid "Old Enemy, New Enemy"
 msgctxt "DLC1/PROG_PU6_TITLE"
@@ -4851,7 +4838,6 @@ msgctxt "DLC1/PROG_PU7_CHOICE_0_TEXT"
 msgid "OK."
 msgstr ""
 
-#, fuzzy
 #| msgctxt "GeoEvents/PROG_PU7_TEXT_GENERAL_0"
 #| msgid ""
 #| "MESSAGE[LF][LF]We’ve received an automated emergency transmission from a New Jericho science facility. The message is composed of the word “Overrun” repeated in loop. Tracking down the location of "
@@ -4862,7 +4848,6 @@ msgid ""
 "the transmission has revealed some security footage."
 msgstr "メッセージ[LF][LF]ニュージェリコの科学施設から自動緊急送信が届いた。メッセージは“蹂躙されている” という言葉のループで構成されている。送信場所の追跡により、あるセキュリティ映像が明らかになった。"
 
-#, fuzzy
 #| msgctxt "GeoEvents/PROG_PU7_TITLE"
 #| msgid "Forbidden Frequency"
 msgctxt "DLC1/PROG_PU7_TITLE"
@@ -4880,21 +4865,18 @@ msgctxt "DLC1/PROG_PU8_FAIL_TEXT_GENERAL_0"
 msgid "MESSAGE[LF][LF]The strength of the Forsaken proved greater than anticipated. While there is evidence that some scientists might still remain, retrieving them remains just as difficult."
 msgstr "メッセージ[LF][LF]フォセイクンの戦力は予測を上回るものだった。一部の科学者達がいまだ残っているかもしれない形跡はあったが、彼らを回収することも困難なままだった。"
 
-#, fuzzy
 #| msgctxt "GeoEvents/PROG_PU8_FAIL_TITLE"
 #| msgid "The Blunt End"
 msgctxt "DLC1/PROG_PU8_FAIL_TITLE"
 msgid "The Blunt End"
 msgstr "ブラントエンド"
 
-#, fuzzy
 #| msgctxt "Progression/PROG_AN0_MISS_CHOICE_0_TEXT"
 #| msgid "START MISSION"
 msgctxt "DLC1/PROG_PU8_MISS_CHOICE_0_TEXT"
 msgid "START MISSION"
 msgstr "ミッション開始"
 
-#, fuzzy
 #| msgctxt "Progression/PROG_AN0_MISS_CHOICE_1_TEXT"
 #| msgid "CANCEL"
 msgctxt "DLC1/PROG_PU8_MISS_CHOICE_1_TEXT"
@@ -4914,21 +4896,18 @@ msgid ""
 msgstr ""
 "ブリーフィング[LF][LF]例の送信はニュージェリコのザヤツ研究施設からのものと確認された。一次報告によれば、フォセイクンによってエリア全体が蹂躙されたようだ。この施設で一体どんな研究が行われていたのかは今なお不明だが、衛星写真によればニュージェリコの新たなバイオニックプログラムと関連している形跡がある。[LF]分析は、ニュージェリコの科学者達5名が施設に立てこもってどうにか生き延びたことを示している。[LF]"
 
-#, fuzzy
 #| msgctxt "GeoEvents/PROG_PU8_MISS_TITLE"
 #| msgid "Overrun"
 msgctxt "DLC1/PROG_PU8_MISS_TITLE"
 msgid "Overrun"
 msgstr "オーバーラン"
 
-#, fuzzy
 #| msgctxt "GeoEvents/PROG_PU12_WIN_CHOICE_0_TEXT"
 #| msgid "OK.[LF]NEW RESEARCH AVAILABLE"
 msgctxt "DLC1/PROG_PU8_WIN_CHOICE_0_TEXT"
 msgid "OK.[LF]NEW RESEARCH AVAILABLE"
 msgstr "OK.[LF]新たな研究が実行可能"
 
-#, fuzzy
 #| msgctxt "GeoEvents/PROG_PU8_WIN_TEXT_GENERAL_0"
 #| msgid ""
 #| "MESSAGE[LF][LF]The operation has been a success. Not only did we manage to rescue the scientists, but also managed to gather invaluable research data. All information has been successfully decrypted"
@@ -4939,7 +4918,6 @@ msgid ""
 " and available for further research and analysis."
 msgstr "メッセージ[LF][LF]作戦は成功した。科学者達をどうにか救出できたのみならず、貴重な研究データまでも回収できた。全ての情報が無事に解読され、さらなる研究と分析に利用可能となっている。"
 
-#, fuzzy
 #| msgctxt "GeoEvents/PROG_PU8_WIN_TITLE"
 #| msgid "In The Nick Of Time"
 msgctxt "DLC1/PROG_PU8_WIN_TITLE"
@@ -4960,7 +4938,6 @@ msgid ""
 "the world of all impurities. No haven is safe, whatever treacherous leader or hopeless beliefs they follow.[LF]You have only two choices: cast off your flesh or have it stripped for you.[LF]"
 msgstr "[LF]救済の潮時は始まった。お前達皆が自身の汚れと逸脱に怖気づく一方、ピュアは全ての不純なるものからこの世界を解放するため浄化の波を開始する。安全なヘイヴンなど存在しない。信用ならぬ指導者や見込みのない信仰に従おうと無意味。[LF]お前達には二つだけ選択肢がある。その肉体を自ら捨て去るか、または剥ぎ取ってもらうかだ。[LF]"
 
-#, fuzzy
 #| msgctxt "GeoEvents/PROG_PU9_TITLE"
 #| msgid "Cast Off All Weakness"
 msgctxt "DLC1/PROG_PU9_TITLE"
@@ -4987,13 +4964,12 @@ msgctxt "HavenBackers/BCR10_FAIL_CHOICE_0_TEXT"
 msgid "OK."
 msgstr ""
 
-#, fuzzy
 #| msgctxt "HavenBackers/BCR10_FAIL_TEXT_GENERAL_0"
 #| msgid ""
 #| "Unfortunately, our attempt to retrieve the sword has failed, and the Disciples have proceeded to melt it down as a symbol of the old world passing away. Hikari Towa will not be pleased."
 msgctxt "HavenBackers/BCR10_FAIL_TEXT_GENERAL_0"
 msgid "Unfortunately, our attempt to retrieve the sword has failed, and the Disciples have proceeded to melt it down as a symbol of the old world passing away. Hikari Towa will not be pleased.[LF]"
-msgstr "残念ながら草薙の剣を回収する試みは失敗し、ディサイプルズは消えゆく古き世界の象徴として剣を溶解処理してしまった。東和光は快く思わないだろう。"
+msgstr "残念ながら草薙の剣を回収する試みは失敗し、ディサイプルズは消えゆく古き世界の象徴として剣を溶解処理してしまった。東和光は快く思わないだろう。[LF]"
 
 msgctxt "HavenBackers/BCR10_FAIL_TITLE"
 msgid "Loss of Valor"
@@ -5280,12 +5256,11 @@ msgctxt "HavenBackers/BCR12_WIN_TEXT_GENERAL_0"
 msgid "We have successfully liberated the Synedrion research data. The data is heavily encrypted, so we can only hope that New Sydney has a means to make use of it."
 msgstr "シネドリオンの研究データを無事に盗み出した。データは高度に暗号化されているため、ニューシドニーが利用する手段を持ちあわせていることを願うしかない。"
 
-#, fuzzy
 #| msgctxt "HavenBackers/BCR12_WIN_TITLE"
 #| msgid "It's All About Information"
 msgctxt "HavenBackers/BCR12_WIN_TITLE"
 msgid "It's All About Information[LF]"
-msgstr "全ては情報次第"
+msgstr "全ては情報次第[LF]"
 
 msgctxt "HavenBackers/BCR13_CHOICE_0_OUTCOME_GENERAL"
 msgid "\"\"As the Dead God foresaw,\"\" Saxton says, and though his face is hidden by the mask, he is clearly smiling."
@@ -5303,7 +5278,6 @@ msgctxt "HavenBackers/BCR13_CHOICE_1_TEXT"
 msgid "Reject mission."
 msgstr "ミッションを断る。"
 
-#, fuzzy
 #| msgctxt "HavenBackers/BCR13_CHOICE_2_OUTCOME_GENERAL"
 #| msgid ""
 #| "A message from the Shadowed Hierarch thanks us for the information, and assures us that the Father of Reformation will \"\"feel the wrath of the Dead God, or experience its military equivalent.\"\""
@@ -5311,7 +5285,7 @@ msgctxt "HavenBackers/BCR13_CHOICE_2_OUTCOME_GENERAL"
 msgid ""
 "A message from the Shadowed Hierarch thanks us for the information, and assures us that the Father of Reformation will \"\"feel the wrath of the Dead God, or experience its military "
 "equivalent.\"\"[LF]"
-msgstr "シャドウド・ハイアラークからのメッセージは情報への礼を述べている。さらに、ファザー・オブ・ザ・リフォームドが\"\"死せる神の怒りに触れるか、それに相当する軍事的な怒りを受ける\"\"ことを約束していた。"
+msgstr "シャドウド・ハイアラークからのメッセージは情報への礼を述べている。さらに、ファザー・オブ・ザ・リフォームドが\"\"死せる神の怒りに触れるか、それに相当する軍事的な怒りを受ける\"\"ことを約束していた。[LF]"
 
 msgctxt "HavenBackers/BCR13_CHOICE_2_TEXT"
 msgid "Warn the Disciples."
@@ -5321,12 +5295,11 @@ msgctxt "HavenBackers/BCR13_FAIL_CHOICE_0_TEXT"
 msgid "OK."
 msgstr ""
 
-#, fuzzy
 #| msgctxt "HavenBackers/BCR13_FAIL_TEXT_GENERAL_0"
 #| msgid "We have disappointed the Father of the Reformed with our weakness and stupidity. He will not want to hear from us again."
 msgctxt "HavenBackers/BCR13_FAIL_TEXT_GENERAL_0"
 msgid "We have disappointed the Father of the Reformed with our weakness and stupidity. He will not want to hear from us again.[LF]"
-msgstr "私達の弱さと間抜けさはファザー・オブ・ザ・リフォームドを失望させた。彼は二度と私達に耳を貸さないだろう。"
+msgstr "私達の弱さと間抜けさはファザー・オブ・ザ・リフォームドを失望させた。彼は二度と私達に耳を貸さないだろう。[LF]"
 
 msgctxt "HavenBackers/BCR13_FAIL_TITLE"
 msgid "Failsons and Daughters"
@@ -5356,12 +5329,11 @@ msgctxt "HavenBackers/BCR13_OUT_CHOICE_0_OUTCOME_GENERAL"
 msgid "The Reformed hand over the reward, but it's clear that unless we have further business, our operatives should stay away from their leader and only come to the haven in an emergency."
 msgstr "リフォームドは報酬を引き渡した。だが私達にこれ以上の用件がない限りは、リフォームドのリーダーを避けて緊急時以外このヘイヴンに来ないようにすべきことは明白である。"
 
-#, fuzzy
 #| msgctxt "HavenBackers/BCR13_OUT_CHOICE_0_TEXT"
 #| msgid "Continue."
 msgctxt "HavenBackers/BCR13_OUT_CHOICE_0_TEXT"
 msgid "Continue.[LF]"
-msgstr "続ける。"
+msgstr "続ける。[LF]"
 
 msgctxt "HavenBackers/BCR13_OUT_TEXT_GENERAL_0"
 msgid ""
@@ -5408,12 +5380,11 @@ msgctxt "HavenBackers/BCR14_CHOICE_0_OUTCOME_GENERAL"
 msgid "\"\"Excellent. This matches all my information about the Phoenix Project. My people will send you all the information we have immediately. Good luck, and thank you.\"\""
 msgstr "「そうこなくっちゃな。その反応は、俺が持つフェニックスプロジェクトの情報と一致するものだ。すぐにうちの奴らが、こちらが所持している情報全てをそっちに送る。頑張ってくれ。そしてありがとう。」"
 
-#, fuzzy
 #| msgctxt "HavenBackers/BCR14_CHOICE_0_TEXT"
 #| msgid "Accept mission."
 msgctxt "HavenBackers/BCR14_CHOICE_0_TEXT"
 msgid "Accept mission.[LF]"
-msgstr "ミッションを受諾する。"
+msgstr "ミッションを受諾する。[LF]"
 
 msgctxt "HavenBackers/BCR14_CHOICE_1_OUTCOME_GENERAL"
 msgid "\"\"Hmm. Unexpected, and disappointing. I had such high hopes... but I suppose principles are an easy thing to lose along the way.\"\""
@@ -5548,12 +5519,11 @@ msgctxt "HavenBackers/BCR1_FAIL_TEXT_GENERAL_0"
 msgid "We have failed to secure the genetic scientist. This botched attempt may have negative repercussions."
 msgstr "私たちは遺伝学者の確保に失敗した。この失敗した試みは悪い影響をもたらすかもしれない。"
 
-#, fuzzy
 #| msgctxt "HavenBackers/BCR1_FAIL_TITLE"
 #| msgid "Gold to Lead"
 msgctxt "HavenBackers/BCR1_FAIL_TITLE"
 msgid "Gold to Lead[LF]"
-msgstr "金を鉛に"
+msgstr "金を鉛に[LF]"
 
 msgctxt "HavenBackers/BCR1_MISS_CHOICE_0_TEXT"
 msgid "START MISSION"
@@ -5754,12 +5724,11 @@ msgctxt "HavenBackers/BCR3_CHOICE_1_TEXT"
 msgid "Refuse mission."
 msgstr "ミッションを断る。"
 
-#, fuzzy
 #| msgctxt "HavenBackers/BCR3_CHOICE_2_OUTCOME_GENERAL"
 #| msgid "Clinging to the purity of the old world is meaningless. Those species are gone now, and it's better this way. The new, adapted species will be closer to biological perfection."
 msgctxt "HavenBackers/BCR3_CHOICE_2_OUTCOME_GENERAL"
 msgid "Clinging to the purity of the old world is meaningless. Those species are gone now, and it's better this way. The new, adapted species will be closer to biological perfection.[LF]"
-msgstr "旧世界の純粋さにしがみつくのは無意味だ。それらの生物種は現在消えてしまっているが、その方が良い。新たに適応した生物種こそが、生物学的完全さに近づくのだ。"
+msgstr "旧世界の純粋さにしがみつくのは無意味だ。それらの生物種は現在消えてしまっているが、その方が良い。新たに適応した生物種こそが、生物学的完全さに近づくのだ。[LF]"
 
 msgctxt "HavenBackers/BCR3_CHOICE_2_TEXT"
 msgid "Denounce the concept of saving the seeds of the old world."
@@ -5803,12 +5772,11 @@ msgid ""
 "accomplished something truly remarkable. I'm only sorry that we don't have a better reward for this treasure you have unearthed.\"\""
 msgstr "「そしてもしも私達がこの戦いに勝利することがあれば」イスブロークは話を続ける。「これらの種子は、地球の生態系を復元するのに役立ってくれるだろう。あるいは、より優れた生態系をデザインするにおいても!この貴重な物を発見してくれたことに対して、もっと礼を用意できなかったのは残念だ。」"
 
-#, fuzzy
 #| msgctxt "HavenBackers/BCR3_OUT_CHOICE_0_TEXT"
 #| msgid "Continue."
 msgctxt "HavenBackers/BCR3_OUT_CHOICE_0_TEXT"
 msgid "Continue.[LF]"
-msgstr "続ける。"
+msgstr "続ける。[LF]"
 
 msgctxt "HavenBackers/BCR3_OUT_TEXT_GENERAL_0"
 msgid ""
@@ -5820,7 +5788,6 @@ msgctxt "HavenBackers/BCR3_OUT_TITLE"
 msgid "Seeds of the Future"
 msgstr "未来の種"
 
-#, fuzzy
 #| msgctxt "HavenBackers/BCR3_TEXT_GENERAL_0"
 #| msgid ""
 #| "Dokkum is an anarcho-syndicalist haven closely associated with Synedrion, but not entirely part of it. Representative Boris Eysbroek has contacted our operatives on behalf of Dokkum to request the "
@@ -5829,7 +5796,7 @@ msgctxt "HavenBackers/BCR3_TEXT_GENERAL_0"
 msgid ""
 "Dokkum is an anarcho-syndicalist haven closely associated with Synedrion, but not entirely part of it. Representative Boris Eysbroek has contacted our operatives on behalf of Dokkum to request the "
 "assistance of the Phoenix Project. [LF]"
-msgstr "ドックムは無政府主義のヘイヴンだ。シネドリオンと密接な関係にありながらも、完全にはその一部になっていない。ボリス・イスブロークがドックムを代表して、フェニックスプロジェクトの協力を求めて職員達に接触してくる。"
+msgstr "ドックムは無政府主義のヘイヴンだ。シネドリオンと密接な関係にありながらも、完全にはその一部になっていない。ボリス・イスブロークがドックムを代表して、フェニックスプロジェクトの協力を求めて職員達に接触してくる。[LF]"
 
 msgctxt "HavenBackers/BCR3_TEXT_GENERAL_1"
 msgid ""
@@ -5917,14 +5884,12 @@ msgid ""
 "the bud, but they were all asleep at the wheel. Glad to see the Phoenix Project's different. Here's your payment - hard work should always be rewarded.\"\""
 msgstr "「まあそんな感じで始まった訳さ。」ジャックは言う。「権力を持った思いあがった連中ってのは、自分達のことしか考えていない。俺に言わせれば、パンドラウィルスなんてもんは芽のうちに摘み取れた筈なんだ。なのに連中ときたら、舵を握ったまま居眠りしてやがった。フェニックスプロジェクトはそうじゃないのが分かって良かったぜ。こいつは礼だ。懸命な仕事は常に報われるべきだからな。」"
 
-#, fuzzy
 #| msgctxt "HavenBackers/BCR4_OUT_CHOICE_0_TEXT"
 #| msgid "Continue."
 msgctxt "HavenBackers/BCR4_OUT_CHOICE_0_TEXT"
 msgid "Continue.[LF]"
-msgstr "続ける。"
+msgstr "続ける。[LF]"
 
-#, fuzzy
 #| msgctxt "HavenBackers/BCR4_OUT_TEXT_GENERAL_0"
 #| msgid ""
 #| "Jachlan Wisopp (\"\"Call me Jack, for Chrisssake\"\") is glad to hear the mine is accessible again. Work, as he sees it, is the only way to get out of the mess humanity's in. We have to keep digging"
@@ -5933,7 +5898,7 @@ msgctxt "HavenBackers/BCR4_OUT_TEXT_GENERAL_0"
 msgid ""
 "Jachlan Wisopp (\"\"Call me Jack, for Chrisssake\"\") is glad to hear the mine is accessible again. Work, as he sees it, is the only way to get out of the mess humanity's in. We have to keep digging"
 " away at the problem until it's fixed.[LF]"
-msgstr "ジャクラン・ウィソップ(ジャックと呼んでくれ、頼むから)は、採掘場が再び利用可能になったと聞いて喜んだ。彼がみなすところでは労働こそが、人類が陥ってるこの混迷から抜け出すための唯一の方法である。問題があるのなら、そこで解決するまで掘り探り続けなければならない。"
+msgstr "ジャクラン・ウィソップ(ジャックと呼んでくれ、頼むから)は、採掘場が再び利用可能になったと聞いて喜んだ。彼がみなすところでは労働こそが、人類が陥ってるこの混迷から抜け出すための唯一の方法である。問題があるのなら、そこで解決するまで掘り探り続けなければならない。[LF]"
 
 msgctxt "HavenBackers/BCR4_OUT_TITLE"
 msgid "Hard Work"
@@ -5963,12 +5928,11 @@ msgctxt "HavenBackers/BCR4_WIN_CHOICE_0_TEXT"
 msgid "OK."
 msgstr ""
 
-#, fuzzy
 #| msgctxt "HavenBackers/BCR4_WIN_TEXT_GENERAL_0"
 #| msgid "Our operatives have successfully destroyed the colony before it could fully develop. The threat has been averted, at least for now. The people of R.E.M.E. will be pleased."
 msgctxt "HavenBackers/BCR4_WIN_TEXT_GENERAL_0"
 msgid "Our operatives have successfully destroyed the colony before it could fully develop. The threat has been averted, at least for now. The people of R.E.M.E. will be pleased.[LF]"
-msgstr "職員達は、コロニーが完全な発達を遂げてしまう前にそれを無事破壊した。少なくとも、今のところは脅威は回避された。R.E.M.E.の人々も喜ぶだろう。"
+msgstr "職員達は、コロニーが完全な発達を遂げてしまう前にそれを無事破壊した。少なくとも、今のところは脅威は回避された。R.E.M.E.の人々も喜ぶだろう。[LF]"
 
 msgctxt "HavenBackers/BCR4_WIN_TITLE"
 msgid "Victory is Mine"
@@ -6030,12 +5994,11 @@ msgctxt "HavenBackers/BCR5_MISS_TEXT_GENERAL_0"
 msgid "MISSION BRIEFING[LF][LF]We must free Mason Spark, high-ranking member of the Cedar Ark Executive Council, from the Disciples of Anu haven."
 msgstr "ブリーフィング[LF][LF]シダーアーク評議会の高位メンバーであるメイソン・スパークを、ディサイプルズ・オブ・アヌのヘイヴンから解放せねばならない。"
 
-#, fuzzy
 #| msgctxt "HavenBackers/BCR5_MISS_TITLE"
 #| msgid "O Brother, Where Anu Thou?"
 msgctxt "HavenBackers/BCR5_MISS_TITLE"
 msgid "O Brother, Where Anu Thou?[LF]"
-msgstr "おお兄弟よ、汝はアヌぞ"
+msgstr "おお兄弟よ、汝はアヌぞ[LF]"
 
 msgctxt "HavenBackers/BCR5_OUT_CHOICE_0_OUTCOME_GENERAL"
 msgid ""
@@ -6043,12 +6006,11 @@ msgid ""
 "this battle, but all our predictions break down when it comes to the war that truly matters. Soon, we will need to learn to think and plan on a much larger scale.\"\""
 msgstr "約束の報酬に加えて、スパークは謎めいたヒントを職員達に提示した。「パンドラウィルスとの戦争は、それよりもはるかに大きな長期に渡る争いのうちの、ほんの小さな一戦でしかない。私は人類がこの一戦に勝つと確信しているが、真に重要なもっと大きな争いのこととなると、いかなる予測も意味を成さないのだ。いずれ私達は、もっとずっと大きな規模で考え計画することを学ばねばならなくなるだろう。」"
 
-#, fuzzy
 #| msgctxt "HavenBackers/BCR5_OUT_CHOICE_0_TEXT"
 #| msgid "Continue."
 msgctxt "HavenBackers/BCR5_OUT_CHOICE_0_TEXT"
 msgid "Continue.[LF]"
-msgstr "続ける"
+msgstr "続ける[LF]"
 
 msgctxt "HavenBackers/BCR5_OUT_TEXT_GENERAL_0"
 msgid "Mason Spark is safely back at Cedar Ark, and his brother, though unsurprised by our success, is very pleased with the Phoenix Project."
@@ -6203,7 +6165,6 @@ msgctxt "HavenBackers/BCR7_CHOICE_0_TEXT"
 msgid "Agree to extract Felipe."
 msgstr "フェリペを連れ出すことを承諾する。"
 
-#, fuzzy
 #| msgctxt "HavenBackers/BCR7_CHOICE_1_OUTCOME_GENERAL"
 #| msgid ""
 #| "As it turns out, the problem can be solved diplomatically: Felipe, whose mutations are quite extensive, has willingly joined the Monastic Order of Silent Contemplation, and Fabio's messages were not"
@@ -6216,7 +6177,7 @@ msgid ""
 "and Felipe have chosen paths that are not compatible with each other; but they are brothers, and they will find a way of dealing with it. Family, as a wise man once said, should not end in "
 "blood.[LF]"
 msgstr ""
-"結局のところ、この問題は外交的に解決可能なものだった。かなりの変異を遂げていたフェリペは\"沈黙の瞑想の修道会\"に自ら進んで加入していた。ファビオのメッセージが伝えられていなかったのは、彼の瞑想を妨げないようにするためだったのだ。しかしながらこの場合においては、イグザルティドの賛同を得て例外が認められ、二人の兄弟は一時的な再会を果たすだろう。[LF][LF]ファビオとフェリペは互いに交じり合うことのない道を選んだ。だが二人は兄弟であり、いずれ折り合いをつける方法を見出すだろう。かつて賢人が言った通り、家族が暴力で終わるようなことはあるべきではない。"
+"結局のところ、この問題は外交的に解決可能なものだった。かなりの変異を遂げていたフェリペは\"沈黙の瞑想の修道会\"に自ら進んで加入していた。ファビオのメッセージが伝えられていなかったのは、彼の瞑想を妨げないようにするためだったのだ。しかしながらこの場合においては、イグザルティドの賛同を得て例外が認められ、二人の兄弟は一時的な再会を果たすだろう。[LF][LF]ファビオとフェリペは互いに交じり合うことのない道を選んだ。だが二人は兄弟であり、いずれ折り合いをつける方法を見出すだろう。かつて賢人が言った通り、家族が暴力で終わるようなことはあるべきではない。[LF]"
 
 msgctxt "HavenBackers/BCR7_CHOICE_1_TEXT"
 msgid "Contact the Disciples of Anu to inquire about Felipe."
@@ -6260,12 +6221,11 @@ msgid ""
 "will have to find a way to do what we believe in without hurting each other. That's what family is all about, right? Whatever else happens, we'll always be brothers.\"\""
 msgstr "ファビオは職員達に礼を述べたが、次に何をすべきかの決断が重くのしかかっていることは明らかだ。[LF][LF]「それでも、たとえ俺達兄弟の道が非常に異なったものだとしても。あんた達が兄貴を見つけてくれて良かった。俺達で、傷付けあわずにお互いが信じることをやる術を見つけて見せるさ。家族ってのはそういうもんだろ？何が起こったとしても、俺達は常に兄弟だ。」"
 
-#, fuzzy
 #| msgctxt "HavenBackers/BCR7_OUT_CHOICE_0_TEXT"
 #| msgid "Continue."
 msgctxt "HavenBackers/BCR7_OUT_CHOICE_0_TEXT"
 msgid "Continue.[LF]"
-msgstr "続ける。"
+msgstr "続ける。[LF]"
 
 msgctxt "HavenBackers/BCR7_OUT_TEXT_GENERAL_0"
 msgid ""
@@ -6316,12 +6276,11 @@ msgctxt "HavenBackers/BCR8_CHOICE_0_OUTCOME_GENERAL"
 msgid "\"\"Good, good,\"\" he says with a smile, and something inside him seem to produce a whirring sound. Our operatives choose not to discover what it was."
 msgstr "「結構、結構。」彼が笑みを浮かべて言うと、彼の体の内側にある何かがブーンという音を立てる。職員達は、それが何なのかを突き止めないことにした。"
 
-#, fuzzy
 #| msgctxt "HavenBackers/BCR8_CHOICE_0_TEXT"
 #| msgid "Accept mission."
 msgctxt "HavenBackers/BCR8_CHOICE_0_TEXT"
 msgid "Accept mission.[LF]"
-msgstr "ミッションを受諾する。"
+msgstr "ミッションを受諾する。[LF]"
 
 msgctxt "HavenBackers/BCR8_CHOICE_1_TEXT"
 msgid "Refuse mission."
@@ -6336,12 +6295,11 @@ msgid ""
 "The mission was a failure, and New Jericho will have moved the blueprints to another location. Perhaps it would be best to simply ignore Phantom's Forge from now on, so as not to incur their wrath."
 msgstr "ミッションが失敗したことで、ニュージェリコは設計図を別の場所に移すだろう。ファントムズ・フォージの怒りを被らなくて済むよう、今後は彼らのことを単純に無視しておくのが最善かもしれない。"
 
-#, fuzzy
 #| msgctxt "HavenBackers/BCR8_FAIL_TITLE"
 #| msgid "Cyberfail"
 msgctxt "HavenBackers/BCR8_FAIL_TITLE"
 msgid "Cyberfail[LF]"
-msgstr "サイバーフェイル"
+msgstr "サイバーフェイル[LF]"
 
 msgctxt "HavenBackers/BCR8_MISS_CHOICE_0_TEXT"
 msgid "START MISSION"
@@ -6450,12 +6408,11 @@ msgctxt "HavenBackers/BCR9_FAIL_TEXT_GENERAL_0"
 msgid "The mission has ended in failure."
 msgstr "ミッションは失敗に終わった。"
 
-#, fuzzy
 #| msgctxt "HavenBackers/BCR9_FAIL_TITLE"
 #| msgid "Entombed"
 msgctxt "HavenBackers/BCR9_FAIL_TITLE"
 msgid "Entombed[LF]"
-msgstr "埋葬"
+msgstr "埋葬[LF]"
 
 msgctxt "HavenBackers/BCR9_MISS_CHOICE_0_TEXT"
 msgid "START MISSION"
@@ -6517,12 +6474,11 @@ msgstr ""
 "「フェニックスプロジェクトに手を貸して欲しい事がある。浅はかな事かもしれないが…。だけど最近、私はずっと家族のことを考えている。私は戦争中に自分の家族をほとんど失ってしまった。家族のことを調べるのに何年もかかったよ-"
 "分かったのはほんの数か月前だ。それ以来過去との、旧世界と私達の繋がりについて考えずにはいられない。過去に戻りたいわけじゃない。それが無理なのは分かっている。だけどこの繋がりを忘れるべきではない筈なんだ。過去との繋がりは、どのようにして今の私達が在るかについての物語なのだから。」[LF][LF]トーソーは、かつて彼の一族の遺体安置所だった場所から、古い家系図書を回収することを私達に願っている。"
 
-#, fuzzy
 #| msgctxt "HavenBackers/BCR9_TITLE"
 #| msgid "Links to the Past"
 msgctxt "HavenBackers/BCR9_TITLE"
 msgid "Links to the Past[LF]"
-msgstr "過去へのリンク"
+msgstr "過去へのリンク[LF]"
 
 msgctxt "HavenBackers/BCR9_WIN_CHOICE_0_TEXT"
 msgid "OK."
@@ -7371,7 +7327,6 @@ msgctxt "NewJericho/NJ27_CHOICE_1_TEXT"
 msgid "Argue that West is wrong for thinking a voluntary community needs a leader."
 msgstr "自主的なコミュニティはリーダーを必要とするというウェストの考えは、間違っていると主張する。"
 
-#, fuzzy
 #| msgctxt "NewJericho/NJ27_CHOICE_2_OUTCOME_GENERAL"
 #| msgid ""
 #| "Everyone nods - this is indeed one of West's best speeches. [LF][LF]West concludes with the following words: \"\"As long as we are driven by that loyalty, a loyalty born of the Ego, of that "
@@ -7380,7 +7335,7 @@ msgctxt "NewJericho/NJ27_CHOICE_2_OUTCOME_GENERAL"
 msgid ""
 "Everyone nods - this is indeed one of West's best speeches. [LF][LF]West concludes with the following words: \"\"As long as we are driven by that loyalty, a loyalty born of the Ego, of that "
 "unalienable core that makes each of us unique, not even the most powerful abomination will be able to stand in our way.\"\"[LF]"
-msgstr "皆がうなずく。これはまさにウェストの最高の演説の一つだ。「「我々一人一人をユニークたらしめる、けっして奪うことのできない自我より生じる忠誠。その忠誠に突き動かされている限りは、最も強大な怪物であろうとも我々の道を阻むことはできない。」"
+msgstr "皆がうなずく。これはまさにウェストの最高の演説の一つだ。「「我々一人一人をユニークたらしめる、けっして奪うことのできない自我より生じる忠誠。その忠誠に突き動かされている限りは、最も強大な怪物であろうとも我々の道を阻むことはできない。」[LF]"
 
 msgctxt "NewJericho/NJ27_CHOICE_2_TEXT"
 msgid "Praise the speech."
@@ -7821,7 +7776,6 @@ msgctxt "NewJericho/NJ7_CHOICE_3_TEXT"
 msgid "Do not help."
 msgstr "手を貸さない。"
 
-#, fuzzy
 #| msgctxt "NewJericho/NJ7_TEXT_GENERAL_0"
 #| msgid ""
 #| "[HavenName] is in crisis. There has been ongoing starvation for some time now, and to top it all off, the haven's overstrained food production facilities are breaking down. It looks like something "
@@ -7830,7 +7784,7 @@ msgctxt "NewJericho/NJ7_TEXT_GENERAL_0"
 msgid ""
 "[HavenName] is in crisis. There has been ongoing starvation for some time now, and to top it all off, the haven's overstrained food production facilities are breaking down. It looks like something "
 "may have gotten into the water, but the haven lacks a better filtration system. Could the Phoenix Project use some of its advanced tech to help track down the exact nature of the problem?[LF]"
-msgstr "[HavenName]は危機に瀕している。だいぶ以前から食料不足が続いており、揚げ句の果てには酷使された食料生産施設が不調になってしまっている。水に何かが入り込んだ可能性がありそうだが、このヘイヴンには今以上のろ過システムは無い。フェニックスプロジェクトがその先進的な技術を用いて、この問題の正確な本質を突き止める手助けをするのもいいのではないだろうか？"
+msgstr "[HavenName]は危機に瀕している。だいぶ以前から食料不足が続いており、揚げ句の果てには酷使された食料生産施設が不調になってしまっている。水に何かが入り込んだ可能性がありそうだが、このヘイヴンには今以上のろ過システムは無い。フェニックスプロジェクトがその先進的な技術を用いて、この問題の正確な本質を突き止める手助けをするのもいいのではないだろうか？[LF]"
 
 msgctxt "NewJericho/NJ7_TITLE"
 msgid "Ex Aqua"
@@ -7997,7 +7951,6 @@ msgctxt "Progression/NJ_WAR_ANU_CHOICE_0_TEXT"
 msgid "OK."
 msgstr ""
 
-#, fuzzy
 #| msgctxt "Progression/NJ_WAR_ANU_TEXT_GENERAL_0"
 #| msgid ""
 #| "MESSAGE[LF]FROM: Tobias West (New Jericho)[LF]TO: Public[LF][LF]John Stuart Mill wrote: \"\"Bad men need nothing more to compass their ends, than that good men should look on and do nothing.\"\" New"
@@ -8007,7 +7960,7 @@ msgid ""
 "MESSAGE[LF]FROM: Tobias West (New Jericho)[LF]TO: Public[LF][LF]John Stuart Mill wrote: \"\"Bad men need nothing more to compass their ends, than that good men should look on and do nothing.\"\" New"
 " Jericho will no longer stand by and allow the Disciples of Anu to mislead people in the name of their rotten superstition. As of this moment, we are at war.[LF]"
 msgstr ""
-"メッセージ[LF]FROM:トビアス・ウェスト（ニュージェリコ）[LF]TO:パブリック[LF][LF]ジョン・スチュアート・ミル曰く、「悪人が自分の目的を遂げるのに、善人が袖手傍観していてくれるほど好都合なことはない」。ニュージェリコは、ディサイプルズ・オブ・アヌがその腐った迷信の名の下に人々を誤った方向に導くのを、もはやこれ以上傍観し見過ごしはしない。この時点より、我々は戦争状態に入る。"
+"メッセージ[LF]FROM:トビアス・ウェスト（ニュージェリコ）[LF]TO:パブリック[LF][LF]ジョン・スチュアート・ミル曰く、「悪人が自分の目的を遂げるのに、善人が袖手傍観していてくれるほど好都合なことはない」。ニュージェリコは、ディサイプルズ・オブ・アヌがその腐った迷信の名の下に人々を誤った方向に導くのを、もはやこれ以上傍観し見過ごしはしない。この時点より、我々は戦争状態に入る。[LF]"
 
 msgctxt "Progression/NJ_WAR_ANU_TITLE"
 msgid "The Imperative to Act"
@@ -8105,7 +8058,6 @@ msgctxt "Progression/PROG_AN0_WIN_CHOICE_1_TEXT"
 msgid "We are not ready to put our faith in your dogma."
 msgstr "あなた方の教義を信じる用意がまだできていない。"
 
-#, fuzzy
 #| msgctxt "Progression/PROG_AN0_WIN_TEXT_GENERAL_0"
 #| msgid ""
 #| "MESSAGE[LF]FROM: Taxiarch Nergal (Anu)[LF]TO: Phoenix Project[LF][LF]Normally, when we encounter a potential ally, we first send the Apostle to the Once-Born to check them out. But I'm gonna break "
@@ -8117,7 +8069,7 @@ msgid ""
 "protocol to say thanks.[LF][LF]Now listen, I'll be honest with you. The Exalted is the only one who has any real answers. Tobias West may be clever, and Synedrion may sound great, but only the "
 "Exalted is dealing with the world as it actually is. She can lead us out of this mess. Give us lives worth living.[LF]"
 msgstr ""
-"メッセージ[LF]FROM:タクシアーク・ネルガル(アヌ)[LF]TO:フェニックスプロジェクト[LF][LF]我々が味方になる可能性のある者と遭遇した時には、まずは確認のためにアポストル・トゥ・ザ・ワンスボーンを派遣するのが通常だ。だが今はその手順を破って礼を言わせてもらう。[LF][LF]さて、率直に言おう。イグザルティドこそが本当の答えを知る者だ。トビアス・ウェストは利口かもしれん。シネドリオンは素晴らしく思えるだろう。だが実際のこの世界に対応しているのはイグザルティドだけだ。彼女ならば、我々をこの混迷から抜け出させてくれる。生き甲斐のある人生を与えてくれる。"
+"メッセージ[LF]FROM:タクシアーク・ネルガル(アヌ)[LF]TO:フェニックスプロジェクト[LF][LF]我々が味方になる可能性のある者と遭遇した時には、まずは確認のためにアポストル・トゥ・ザ・ワンスボーンを派遣するのが通常だ。だが今はその手順を破って礼を言わせてもらう。[LF][LF]さて、率直に言おう。イグザルティドこそが本当の答えを知る者だ。トビアス・ウェストは利口かもしれん。シネドリオンは素晴らしく思えるだろう。だが実際のこの世界に対応しているのはイグザルティドだけだ。彼女ならば、我々をこの混迷から抜け出させてくれる。生き甲斐のある人生を与えてくれる。[LF]"
 
 msgctxt "Progression/PROG_AN0_WIN_TITLE"
 msgid "In Fire"
