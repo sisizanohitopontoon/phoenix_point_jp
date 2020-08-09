@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2020-08-09 06:29+0000\n"
+"PO-Revision-Date: 2020-08-09 06:35+0000\n"
 "Last-Translator: higema <ltdhyndsh@yahoo.co.jp>\n"
 "Language-Team: \n"
 "Language: ja\n"
@@ -4470,7 +4470,7 @@ msgstr "ならず者のシネドリオンの傭兵が、興味深い提案を持
 #| msgid "Whispers"
 msgctxt "DLC1/PROG_PU10_TITLE"
 msgid "Whispers"
-msgstr "ウィスパーズ"
+msgstr "ささやき"
 
 msgctxt "DLC1/PROG_PU121_CHOICE_0_TEXT"
 msgid "OK."
@@ -4519,7 +4519,6 @@ msgctxt "DLC1/PROG_PU12_MISS_CHOICE_0_TEXT"
 msgid "START MISSION"
 msgstr "ミッション開始"
 
-#, fuzzy
 #| msgctxt "Progression/PROG_AN0_MISS_CHOICE_1_TEXT"
 #| msgid "CANCEL"
 msgctxt "DLC1/PROG_PU12_MISS_CHOICE_1_TEXT"
@@ -4536,14 +4535,12 @@ msgid ""
 "of the Pure will increase significantly.[LF]We should attack the facility as soon as possible and take the tech for ourselves. We may need to engage both Synedrion forces and The Pure.[LF]"
 msgstr "ブリーフィング[LF][LF]ピュアが自分達のバイオニック兵の能力強化のため、シネドリオンの研究施設を襲撃するつもりなのは明らかだ。万が一ピュアが成功を収めた場合、彼らの脅威は著しく増すだろう。[LF]私達も出来るだけ早くこの施設を襲撃し、自分達のためにテクノロジーを奪うべきである。シネドリオンとピュアの部隊の双方と交戦しなければならなくなるかもしれない。[LF]"
 
-#, fuzzy
 #| msgctxt "GeoEvents/PROG_PU12_MISS_TITLE"
 #| msgid "Guided By Whispers"
 msgctxt "DLC1/PROG_PU12_MISS_TITLE"
 msgid "Guided By Whispers"
 msgstr "ささやきに導かれて"
 
-#, fuzzy
 #| msgctxt "GeoEvents/PROG_PU12_WIN_CHOICE_0_TEXT"
 #| msgid "OK.[LF]NEW RESEARCH AVAILABLE"
 msgctxt "DLC1/PROG_PU12_WIN_CHOICE_0_TEXT"
@@ -4560,7 +4557,6 @@ msgid ""
 "received official communications from Tobias West, suggesting it’s in our interest to share the recently obtained knowledge."
 msgstr "メッセージ[LF][LF]成功裡に終わった研究データの回収はピュアの進歩を遅らせたものの、フェニックスプロジェクトとシネドリオンの関係を緊張させることとなった。加えて、トビアス・ウェストからの公式通信が我々の下に入った。彼は、最近得た知識をシェアすることが私達のためになると仄めかしていた。"
 
-#, fuzzy
 #| msgctxt "GeoEvents/PROG_PU12_WIN_TITLE"
 #| msgid "Another Secret Obtained"
 msgctxt "DLC1/PROG_PU12_WIN_TITLE"
@@ -4571,7 +4567,6 @@ msgctxt "DLC1/PROG_PU13_CHOICE_0_TEXT"
 msgid "OK."
 msgstr ""
 
-#, fuzzy
 #| msgctxt "GeoEvents/PROG_PU13_TEXT_GENERAL_0"
 #| msgid ""
 #| "MESSAGE[LF][LF]We have received a message from Subject 24 via an encrypted channel. Satellite triangulation has discovered an electromagnetic anomaly at the source. It appears to be a man-made "
@@ -4580,9 +4575,8 @@ msgctxt "DLC1/PROG_PU13_TEXT_GENERAL_0"
 msgid ""
 "MESSAGE[LF][LF]We have received a message from Subject 24 via an encrypted channel. Satellite triangulation has discovered an electromagnetic anomaly at the source. It appears to be a man-made "
 "structure.[LF]"
-msgstr "メッセージ[LF][LF]暗号化されたチャンネル経由によるサブジェクト24からのメッセージを受信した。人工衛星による三点観測が、発信源の電磁異常を見つけだしている。これはどうやら人工構造物のようだ。"
+msgstr "メッセージ[LF][LF]暗号化されたチャンネル経由によるサブジェクト24からのメッセージを受信した。人工衛星による三点観測が、発信源の電磁異常を見つけだしている。これはどうやら人工構造物のようだ。[LF]"
 
-#, fuzzy
 #| msgctxt "GeoEvents/PROG_PU13_TITLE"
 #| msgid "Triangulated"
 msgctxt "DLC1/PROG_PU13_TITLE"
@@ -4603,21 +4597,18 @@ msgid ""
 " place. While their leader remains they will continue their attacks throughout the globe."
 msgstr "メッセージ[LF][LF]サブジェクト24が敷いた罠は私達を倒しそこねたが、私達の力を弱めることはできた。ピュアのメンバーをどれだけ倒そうがさらに多くが補充される以上、この機会は無駄となった。リーダーが在り続けるうちは、ピュアは世界じゅうで襲撃を続けるだろう。"
 
-#, fuzzy
 #| msgctxt "GeoEvents/PROG_PU14_FAIL_TITLE"
 #| msgid "Impure"
 msgctxt "DLC1/PROG_PU14_FAIL_TITLE"
 msgid "Impure"
 msgstr "不純"
 
-#, fuzzy
 #| msgctxt "Progression/PROG_AN0_MISS_CHOICE_0_TEXT"
 #| msgid "START MISSION"
 msgctxt "DLC1/PROG_PU14_MISS_CHOICE_0_TEXT"
 msgid "START MISSION"
 msgstr "ミッション開始"
 
-#, fuzzy
 #| msgctxt "Progression/PROG_AN0_MISS_CHOICE_1_TEXT"
 #| msgid "CANCEL"
 msgctxt "DLC1/PROG_PU14_MISS_CHOICE_1_TEXT"
@@ -4634,7 +4625,6 @@ msgid ""
 "himself. Should we succeed in killing him, there’s a high likelihood that the rest of the Pure will fall in disarray."
 msgstr "ブリーフィング[LF][LF]メッセージの発信場所はピュアの中枢基地だと思われる。当初の分析は、サブジェクト24のみならず完全に機械化された多数の兵士の存在も示唆している。サブジェクト24の殺害に成功すれば、ピュアの残りのメンバーが混乱状態に陥る可能性は高い。"
 
-#, fuzzy
 #| msgctxt "GeoEvents/PROG_PU14_MISS_TITLE"
 #| msgid "The Bionic Fortress"
 msgctxt "DLC1/PROG_PU14_MISS_TITLE"
@@ -4658,21 +4648,18 @@ msgid ""
 msgstr ""
 "メッセージ[LF][LF]サブジェクト24はもういない。ピュアの拠点で残ったものは完全に破壊され、そのテクノロジーも剥奪された。私達のチームはなんとかして、テラバイト単位のデータが入った保存ドライブの大量回収に成功した。残念ながら、それは高度に暗号化されていたせいで解読は不可能だった。サブジェクト24が所持していた秘密は、彼が自身の墓へと持ち去ってしまったのだ。私達に出来るのは、ピュアの脅威がもはや存在しなくなったことを知ったぐらいであった。"
 
-#, fuzzy
 #| msgctxt "GeoEvents/PROG_PU14_WIN_TITLE"
 #| msgid "Triumph Of The Flesh"
 msgctxt "DLC1/PROG_PU14_WIN_TITLE"
 msgid "Triumph Of The Flesh"
 msgstr "肉体の勝利"
 
-#, fuzzy
 #| msgctxt "GeoEvents/PROG_PU1_CHOICE_0_TEXT"
 #| msgid "Phoenix Point receiving..."
 msgctxt "DLC1/PROG_PU1_CHOICE_0_TEXT"
 msgid "Phoenix Point receiving..."
 msgstr "フェニックスポイント受信中…"
 
-#, fuzzy
 #| msgctxt "GeoEvents/PROG_PU1_TEXT_GENERAL_0"
 #| msgid ""
 #| "MESSAGE[LF][LF]We’re receiving a transmission from an unidentified source. [LF]The transmission is from someone identifying himself as \"\"Subject 24\"\". While details are lacking, Subject 24 "
@@ -4683,14 +4670,12 @@ msgid ""
 "claims to be contacting us with a warning and a promise of mutual benefits.[LF]All attempts to pinpoint the location of the transmission’s origin have been unsuccessful."
 msgstr "メッセージ[LF][LF]私達は未確認の発信源からの送信を受けている。[LF]\"サブジェクト24\"を名乗る何者かからのものだ。詳細は不足しているがサブジェクト24曰く、警告と相互利益の提案をするため私達にコンタクトを取っているのだそうだ。送信元の所在を突き止めようとする試みは、いずれも失敗に終わっている。"
 
-#, fuzzy
 #| msgctxt "GeoEvents/PROG_PU1_TITLE"
 #| msgid "Attempting Contact"
 msgctxt "DLC1/PROG_PU1_TITLE"
 msgid "Attempting Contact"
 msgstr "接触の試み"
 
-#, fuzzy
 #| msgctxt "GeoEvents/PROG_PU2_TEXT_GENERAL_0"
 #| msgid ""
 #| "MESSAGE[LF][LF]Subject 24 has requested that we perform the raid on a New Jericho facility. Should we agree, he will send us specific details, including the exact location of the facility and "
@@ -4699,7 +4684,7 @@ msgctxt "DLC1/PROG_PU2_CHOICE_0_OUTCOME_GENERAL"
 msgid ""
 "MESSAGE[LF][LF]Subject 24 has requested that we perform the raid on a New Jericho facility. Should we agree, he will send us specific details, including the exact location of the facility and "
 "potentially its security defences. Such an action, however, is likely to worsen our relations with New Jericho.[LF]"
-msgstr "メッセージ[LF][LF]サブジェクト24は、私達がニュージェリコの施設襲撃を実行することを依頼してきた。仮に承諾した場合、その施設の具体的な場所や存在しうる警備防衛の情報を含む具体的な詳細が送られてくるだろう。しかしなからこういった行いは、私達のニュージェリコとの関係を悪化させる可能性が高い。"
+msgstr "メッセージ[LF][LF]サブジェクト24は、私達がニュージェリコの施設襲撃を実行することを依頼してきた。仮に承諾した場合、その施設の具体的な場所や存在しうる警備防衛の情報を含む具体的な詳細が送られてくるだろう。しかしなからこういった行いは、私達のニュージェリコとの関係を悪化させる可能性が高い。[LF]"
 
 #, fuzzy
 #| msgctxt "GeoEvents/PROG_PU2_CHOICE_0_TEXT"
