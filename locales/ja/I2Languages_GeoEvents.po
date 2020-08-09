@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2020-08-09 06:45+0000\n"
+"PO-Revision-Date: 2020-08-09 06:46+0000\n"
 "Last-Translator: higema <ltdhyndsh@yahoo.co.jp>\n"
 "Language-Team: \n"
 "Language: ja\n"
@@ -4512,7 +4512,6 @@ msgctxt "DLC1/PROG_PU12_FAIL_TITLE"
 msgid "Misguided"
 msgstr "誤った導き"
 
-#, fuzzy
 #| msgctxt "Progression/PROG_AN0_MISS_CHOICE_0_TEXT"
 #| msgid "START MISSION"
 msgctxt "DLC1/PROG_PU12_MISS_CHOICE_0_TEXT"
@@ -11415,28 +11414,24 @@ msgctxt "Research/RE31_TITLE"
 msgid "ALLIED"
 msgstr "同盟"
 
-#, fuzzy
 #| msgctxt "GeoEvents/MISC_01_CHOICE_0_OUTCOME_GENERAL"
 #| msgid "Check for new unexplored sites in the geoscape display."
 msgctxt "MISC/MISC_01_CHOICE_0_OUTCOME_GENERAL"
 msgid "Check for new unexplored sites in the geoscape display."
 msgstr "ジオスケープ画面で新しい未探索地点を確認しよう。"
 
-#, fuzzy
 #| msgctxt "GeoEvents/MISC_01_CHOICE_0_TEXT"
 #| msgid "This is good news"
 msgctxt "MISC/MISC_01_CHOICE_0_TEXT"
 msgid "This is good news"
 msgstr "これは良いニュースだ。"
 
-#, fuzzy
 #| msgctxt "GeoEvents/MISC_01_TEXT_GENERAL_0"
 #| msgid "Atmospheric analysis improvements have revealed overgrown sites which may be more rewarding than anything we have encountered so far."
 msgctxt "MISC/MISC_01_TEXT_GENERAL_0"
 msgid "Atmospheric analysis improvements have revealed overgrown sites which may be more rewarding than anything we have encountered so far."
 msgstr "大気分析の改良により、植物繁茂地点が明らかになった。これまで遭遇してきたどの場所よりも実入りが多い可能性がある。"
 
-#, fuzzy
 #| msgctxt "GeoEvents/MISC_01_TITLE"
 #| msgid "New Scavenging Sites Uncovered"
 msgctxt "MISC/MISC_01_TITLE"
@@ -11467,7 +11462,6 @@ msgctxt "SDI/SDI_02_CHOICE_0_TEXT"
 msgid "Continue."
 msgstr "続ける。"
 
-#, fuzzy
 #| msgctxt "SDI/SDI_02_TEXT_GENERAL_0"
 #| msgid ""
 #| "One of our operatives has reported experiencing repeated lucid nightmares of floating up into the sky, helplessly twisting and turning in a nausea-inducing spiral motion that seems to defy the "
@@ -11476,7 +11470,7 @@ msgctxt "SDI/SDI_02_TEXT_GENERAL_0"
 msgid ""
 "One of our operatives has reported experiencing repeated lucid nightmares of floating up into the sky, helplessly twisting and turning in a nausea-inducing spiral motion that seems to defy the "
 "principles of Euclidian space. They always woke up before they could see where they were going, but sensed a frightening presence waiting for them there. [LF]"
-msgstr "職員達の一人が、度重なる明晰な悪夢の体験を報告した。ユークリッド空間の定理に反抗するような吐き気を催すらせん運動で、捩じれるように回転しながら、自分ではどうすることもできずに空へと浮かんでいく悪夢だ。いつもどこに向かっているのか分かる前に目が覚めてしまうのだが、向かった先に恐ろしい存在が待ち受けているのは感じられるのだそうだ。"
+msgstr "職員達の一人が、度重なる明晰な悪夢の体験を報告した。ユークリッド空間の定理に反抗するような吐き気を催すらせん運動で、捩じれるように回転しながら、自分ではどうすることもできずに空へと浮かんでいく悪夢だ。いつもどこに向かっているのか分かる前に目が覚めてしまうのだが、向かった先に恐ろしい存在が待ち受けているのは感じられるのだそうだ。[LF]"
 
 msgctxt "SDI/SDI_02_TITLE"
 msgid "Turning and Turning"
@@ -11624,7 +11618,6 @@ msgctxt "SDI/SDI_12_CHOICE_0_TEXT"
 msgid "These results cannot be ignored."
 msgstr "この結果は無視できない。"
 
-#, fuzzy
 #| msgctxt "SDI/SDI_12_TEXT_GENERAL_0"
 #| msgid ""
 #| "A recent internal survey has revealed that an alarming 45% of Phoenix Project personnel have reported symptoms resembling night terrors in the last month. These symptoms include disorientation, "
@@ -11633,7 +11626,7 @@ msgctxt "SDI/SDI_12_TEXT_GENERAL_0"
 msgid ""
 "A recent internal survey has revealed that an alarming 45% of Phoenix Project personnel have reported symptoms resembling night terrors in the last month. These symptoms include disorientation, "
 "terror, tachycardia, and intense mydriasis, often accompanied by screaming.[LF]"
-msgstr "最近の内部調査で、フェニックスプロジェクトの人員の実に45%が、夜驚症に似た症状を先月中に報告していたことが明らかになった。これらの症状には、見当識障害、恐怖、頻脈、強い散瞳が含まれ、叫び声が伴われることが多い。"
+msgstr "最近の内部調査で、フェニックスプロジェクトの人員の実に45%が、夜驚症に似た症状を先月中に報告していたことが明らかになった。これらの症状には、見当識障害、恐怖、頻脈、強い散瞳が含まれ、叫び声が伴われることが多い。[LF]"
 
 msgctxt "SDI/SDI_12_TITLE"
 msgid "Revelation Is At Hand"
@@ -11683,7 +11676,6 @@ msgctxt "SDI/SDI_15_CHOICE_0_TEXT"
 msgid "We need to help our people."
 msgstr "フェニックスプロジェクトの人員を助けなければならない。"
 
-#, fuzzy
 #| msgctxt "SDI/SDI_15_TEXT_GENERAL_0"
 #| msgid ""
 #| "As the Oneiric Delirium Index increases, night terrors are becoming extremely frequent, often accompanied by sleepwalking and a strange babbling that resembles glossolalia. Many of the sufferers "
@@ -11694,7 +11686,7 @@ msgid ""
 "As the Oneiric Delirium Index increases, night terrors are becoming extremely frequent, often accompanied by sleepwalking and a strange babbling that resembles glossolalia. Many of the sufferers "
 "describe visions of a monstrous being with inhuman features that defy proper description. This being, slowly emerging from a colossal tomb in a ruined city, commands them to obey in a terrible, "
 "mind-annihilating voice.[LF]"
-msgstr "夢性精神錯乱指数が増加するにつれて、異言に似た奇妙な呟きや夢遊病をしばしば伴う夜驚症が、極めて頻繁になっている。多くの患者が、筆説に尽くしがたい程に人ならぬ姿をした恐ろしい存在のビジョンを述べている。廃都の巨大な墳墓からゆっくりと現れてくるこの存在は、恐ろしくも心を停止させる声で、彼らに従うことを命じるのだ。"
+msgstr "夢性精神錯乱指数が増加するにつれて、異言に似た奇妙な呟きや夢遊病をしばしば伴う夜驚症が、極めて頻繁になっている。多くの患者が、筆説に尽くしがたい程に人ならぬ姿をした恐ろしい存在のビジョンを述べている。廃都の巨大な墳墓からゆっくりと現れてくるこの存在は、恐ろしくも心を停止させる声で、彼らに従うことを命じるのだ。[LF]"
 
 msgctxt "SDI/SDI_15_TITLE"
 msgid "With Lion Body and the Head of a Man"
@@ -11708,7 +11700,6 @@ msgctxt "SDI/SDI_16_CHOICE_0_TEXT"
 msgid "Increase medication doses."
 msgstr "薬の投与を増やす。"
 
-#, fuzzy
 #| msgctxt "SDI/SDI_16_TEXT_GENERAL_0"
 #| msgid ""
 #| "A sudden mass hallucination, in which our operatives suddenly believed they were trapped in the ruins of an ancient city, has led to multiple injuries as the affected individuals desperately tried "
@@ -11719,7 +11710,7 @@ msgid ""
 "A sudden mass hallucination, in which our operatives suddenly believed they were trapped in the ruins of an ancient city, has led to multiple injuries as the affected individuals desperately tried "
 "to escape. \"\"The terror we felt was like a wall,\"\" one of our operatives says. \"\"It was absolute. It was perfect. There was nothing you could do except run, get away at any cost. I've never "
 "felt anything like it, even on the battlefield. The thing that lives in that city... it's not like us. Fighting it is like trying to fight the tides.\"\"[LF]"
-msgstr "突然の集団幻覚により、古代都市の遺跡に閉じ込められたと思い込んだ職員達は、必死で脱出しようとした結果多くの傷を負うこととなってしまった。「私達が感じた恐怖は壁のようだった。」職員の一人が述べる。「それは絶対だった。完全だった。あのような恐怖は戦場でさえ感じたことがない。あの都市に住まうあれは…私達とは異なっている。あれと戦うことは潮の流れと戦うようなものだ。」"
+msgstr "突然の集団幻覚により、古代都市の遺跡に閉じ込められたと思い込んだ職員達は、必死で脱出しようとした結果多くの傷を負うこととなってしまった。「私達が感じた恐怖は壁のようだった。」職員の一人が述べる。「それは絶対だった。完全だった。あのような恐怖は戦場でさえ感じたことがない。あの都市に住まうあれは…私達とは異なっている。あれと戦うことは潮の流れと戦うようなものだ。」[LF]"
 
 msgctxt "SDI/SDI_16_TITLE"
 msgid "Blank and Pitiless As the Sun"
@@ -12125,7 +12116,6 @@ msgctxt "Synedrion/SY1_CHOICE_0_TEXT"
 msgid "Accept."
 msgstr "申し出を受け入れる。"
 
-#, fuzzy
 #| msgctxt "Synedrion/SY1_TEXT_GENERAL_0"
 #| msgid ""
 #| "The inhabitants of [HavenName] are greatly pleased to see the Phoenix Project back in action after such a long absence. The world, they agree, could have used our help. Who knows how this whole war "
@@ -12139,7 +12129,7 @@ msgid ""
 "the day prevented from happening.[LF][LF]But they don't blame us - as underfunded and understaffed as we were, how were we supposed to deal with a global crisis? It's a miracle any vestige of the "
 "Phoenix Project has survived at all. To make up a little bit for just how much we were neglected by the world, they offer to share some of their resources.[LF]"
 msgstr ""
-"[HavenName]の住民達は、フェニックスプロジェクトの長きに渡る不在の後の活動再開にまみえたことを非常に喜んでいる。世界が私達の力を必要としていたことは、彼らも同意するところだ。仮に当初からフェニックスプロジェクトがパンドラウィルスに応戦出来ていたとすれば、この戦い全てがまるで違うものになっていただろう。国際的な科学的対応は、まさに当時の政府と企業が抑え込んでしまったものだった。[LF][LF]だが住民達が私達を責めることはない。資金と人員不足だった私達が、どうやって世界的な危機に対処できたというのか？そもそもフェニックスプロジェクトの名残が残っただけでも奇跡なのだ。私達が世界からなおざりにされてきたことに対してわずかでも埋め合わせをするため、住民達は資源の一部を提供することを申し出てくれた。"
+"[HavenName]の住民達は、フェニックスプロジェクトの長きに渡る不在の後の活動再開にまみえたことを非常に喜んでいる。世界が私達の力を必要としていたことは、彼らも同意するところだ。仮に当初からフェニックスプロジェクトがパンドラウィルスに応戦出来ていたとすれば、この戦い全てがまるで違うものになっていただろう。国際的な科学的対応は、まさに当時の政府と企業が抑え込んでしまったものだった。[LF][LF]だが住民達が私達を責めることはない。資金と人員不足だった私達が、どうやって世界的な危機に対処できたというのか？そもそもフェニックスプロジェクトの名残が残っただけでも奇跡なのだ。私達が世界からなおざりにされてきたことに対してわずかでも埋め合わせをするため、住民達は資源の一部を提供することを申し出てくれた。[LF]"
 
 msgctxt "Synedrion/SY1_TITLE"
 msgid "What Could Have Been"
@@ -12547,7 +12537,6 @@ msgctxt "Synedrion/SY28_CHOICE_2_TEXT"
 msgid "We can't afford to help."
 msgstr "私達に力を貸す余裕はない。"
 
-#, fuzzy
 #| msgctxt "Synedrion/SY28_TEXT_GENERAL_0"
 #| msgid ""
 #| "There are dozens of seriously injured people at [HavenName], all of them missing long stretches of skin. \"\"We were drilling,\"\" an injured engineer tells our operatives. \"\"We'd detected a "
