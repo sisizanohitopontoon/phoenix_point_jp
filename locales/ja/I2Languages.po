@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2020-08-12 13:32+0000\n"
+"PO-Revision-Date: 2020-08-12 13:39+0000\n"
 "Last-Translator: higema <ltdhyndsh@yahoo.co.jp>\n"
 "Language-Team: \n"
 "Language: ja\n"
@@ -2473,7 +2473,7 @@ msgstr "フェニックス基地がアクティベートされた"
 
 msgctxt "Cthulhu/KEY_MISSION_PX_BASE_ACTIVATED_STANDARD_DESCRIPTION"
 msgid "A Phoenix Base has been brought online. All systems are nominal, no threats detected. Damaged base facilities need to be repaired in order for them to be fully operational."
-msgstr ""
+msgstr "フェニックス基地がオンラインに復帰した。全システム平常、脅威は一切検知されず。損傷した基地施設を完全稼働させるには、それらを修理する必要がある。"
 
 #| msgctxt "Objectives/KEY_OBJECTIVE_KILL_AN0"
 #| msgid "DESTROY THE SOURCE OF THE INFESTATION"
@@ -2483,11 +2483,11 @@ msgstr "侵襲の排除"
 
 msgctxt "Cthulhu/KEY_MISSION_PX_BASE_INFESTED_BRIEFING_DESCRIPTION"
 msgid "Eliminate any Pandoran entities within the base and protect as many key structures as possible."
-msgstr ""
+msgstr "基地内のパンドランを全て排除し、できるだけ多くの重要構造物を守る。"
 
 msgctxt "Cthulhu/KEY_MISSION_PX_BASE_ACTIVATED_INFESTED_VICTORY_NAME"
 msgid "BASE INFESTATION CLEARED"
-msgstr ""
+msgstr "基地占拠者を一掃した"
 
 #| msgctxt "Missions/KEY_MISSION_PX_BASE_DEFENDED_DESCRIPTION"
 #| msgid "Our forces successfully repelled the invaders. The base has been saved for now."
@@ -2503,7 +2503,7 @@ msgstr "侵襲排除失敗"
 
 msgctxt "Cthulhu/KEY_MISSION_PX_BASE_ACTIVATED_INFESTED_DEFEAT_DESCRIPTION"
 msgid "Our forces failed to secure the base and the infestation remains. We can make another attempt at a later time."
-msgstr ""
+msgstr "私達の部隊は基地の確保に失敗し、占拠者達は依然として居残った。後に再挑戦するのがいいだろう。"
 
 #| msgctxt "Equipment/KEY_NJ_ASSAULT_NAME"
 #| msgid "NEW JERICHO ASSAULT"
@@ -2687,7 +2687,7 @@ msgstr "ケイロン アステリア"
 
 msgctxt "Cthulhu/KEY_GEOSCAPE_MESSAGE_HAVEN_ZONE_ATTRITION"
 msgid "Zone {0} in haven {2} ({1}) has fallen into disrepair"
-msgstr ""
+msgstr "ヘイヴン・{2}({1})の{0}区画が損傷した"
 
 #| msgctxt "Danforth/KEY_BASE_RECRUITS_AVAILABLE"
 #| msgid "RECRUITS AVAILABLE IN {0} DAYS"
@@ -5046,6 +5046,7 @@ msgid ""
 "with the \"\"?\"\" symbol, use your aircraft to EXPLORE them and find out what they are. [LF][LF]HAVEN CONTACT[LF][LF]When site exploration reveals a haven, a number of other sites nearby will be "
 "located. The number of sites revealed this way depends on how large and important the haven is, and will tend to locate other havens belonging to the same faction."
 msgstr ""
+"衛星スキャン[LF][LF]基地内で稼働している衛星アップリンクはその周辺にある探索地点をスキャンし始め、その探査領域は時間の経過と共に広がっていきます。[LF][LF]各地点は?のシンボルが付いた状態で明らかになりますので、航空機を使って探索し何であるかを突き止めましょう。[LF][LF]ヘイヴンとの接触[LF][LF]探索でヘイヴンが明らかになった際は、その付近にある地点の所在地がいくつか判明します。このようにして明らかになる地点の数はそのヘイヴンの大きさと重要性に依存しており、またそれらの地点は同じ派閥に所属する別のヘイヴンである傾向があります。通常の探索地点もこの方法で判明します。"
 
 msgctxt "Tutorial/KEY_TUTORIAL_MIST_NAME"
 msgid "The Mist"
@@ -5059,13 +5060,13 @@ msgstr "ミストは、世界に広がり続けるパンドラウィルスの進
 
 msgctxt "Tutorial/KEY_TUTORIAL_DOOMCLOCK_NAME"
 msgid "Human Population"
-msgstr ""
+msgstr "人口"
 
 msgctxt "Tutorial/KEY_TUTORIAL_DOOMCLOCK_DESCRIPTION"
 msgid ""
 "The population meter shows the surviving human population since the start of the game.[LF][LF]The population will decline through starvation and attacks on havens. If it falls below a critical "
 "level, humanity cannot survive and you lose the game."
-msgstr ""
+msgstr "人口メーターはゲーム開始から生き残っている人口を示しています。[LF][LF]人口は飢餓やヘイヴンへの襲撃などで減少します。人口が危険レベルを下回った場合、人類が存続できなくなりゲーム失敗となります。"
 
 msgctxt "Tutorial/KEY_TUTORIAL_CAPTURE_NAME"
 msgid "Capture and Containment"
@@ -10464,7 +10465,7 @@ msgstr "ミスト・リペラー"
 
 msgctxt "Base Screen/KEY_BASE_FACILITY_SATELLITE_UPLINK_DESCRIPTION"
 msgid "Scans an area around the base, locating sites of interest. Pandoran colonies attacking havens from within scanning range will be instantly detected."
-msgstr ""
+msgstr "基地の周辺エリアをスキャンして興味を引く地点を探しだす。 スキャン範囲内にあるパンドランコロニーがヘイヴンを襲撃すると、 そのコロニーが即座に明らかにされる。"
 
 msgctxt "Base Screen/KEY_BASE_FACILITY_SATELLITE_UPLINK_NAME"
 msgid "SATELLITE UPLINK"
