@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2020-08-30 12:54+0000\n"
+"PO-Revision-Date: 2020-08-30 12:59+0000\n"
 "Last-Translator: higema <ltdhyndsh@yahoo.co.jp>\n"
 "Language-Team: \n"
 "Language: ja\n"
@@ -1880,19 +1880,17 @@ msgctxt "DLC2 Necronomicon/KEY_AC_DEATHBELCH_DESCRIPTION"
 msgid "Release a corrupted Protean Mutane shade on death"
 msgstr ""
 
-#, fuzzy
 #| msgctxt "Characters and classes/KEY_ALN_CRABMAN_NAME"
 #| msgid "ARTHRON"
 msgctxt "DLC2 Necronomicon/KEY_AC_ARTHRONUMBRA"
 msgid "ARTHRON UMBRA"
-msgstr "アースロン"
+msgstr "アースロン ウンブラ"
 
-#, fuzzy
 #| msgctxt "Abilities/KEY_FISHMAN_CLASS_ABILITY_NAME"
 #| msgid "TRITON CLASS"
 msgctxt "DLC2 Necronomicon/KEY_AC_TRITONUMBRA"
 msgid "TRITON UMBRA"
-msgstr "トリトン・クラス"
+msgstr "トリトン ウンブラ"
 
 msgctxt "DLC2 Necronomicon/KEY_AC_AURA_LIVINGCRYSTAL_NAME"
 msgid "GUARDIAN AURA: LIVING CRYSTAL"
@@ -1942,12 +1940,11 @@ msgctxt "DLC2 Necronomicon/KEY_AC_AFFECTED_PROTEANMUTANE_DESCRIPTION"
 msgid "Ranged attacks apply Burning"
 msgstr ""
 
-#, fuzzy
 #| msgctxt "Danforth/KEY_ASPIDA_SHIELDING_NAME"
 #| msgid "SHIELDING"
 msgctxt "DLC2 Necronomicon/KEY_AC_ARMORSTACK_NAME"
 msgid "ORICHALCUM SHIELDING"
-msgstr "シールディング"
+msgstr "オリハルコン シールディング"
 
 msgctxt "DLC2 Necronomicon/KEY_AC_ARMORSTACK_DESCRIPTION"
 msgid "Reduce next damage instance by 90%"
@@ -1957,37 +1954,33 @@ msgctxt "DLC2 Necronomicon/KEY_BASE_TRADE_EXCHANGE_WORTH"
 msgid "IS WORTH"
 msgstr ""
 
-#, fuzzy
 #| msgctxt "Missions/KEY_MISSION_ATTACK_PHOENIX_DISCOVERED_NAME"
 #| msgid "PHOENIX BASE ACTIVATED"
 msgctxt "DLC2 Necronomicon/KEY_AC_PROBELAUNCHINGACTIVATED"
 msgid "PROBE LAUNCH ACTIVATED"
-msgstr "フェニックス基地がアクティベートされた"
+msgstr ""
 
-#, fuzzy
 #| msgctxt "Abilities/KEY_CHIRON_JUMP_DESCRIPTION"
 #| msgid "Leap to target location"
 msgctxt "DLC2 Necronomicon/KEY_AC_SELECT"
 msgid "Select target location"
-msgstr "目標位置に跳躍する"
+msgstr "目標地点を選択"
 
 msgctxt "DLC2 Necronomicon/KEY_AC_OUTOFRANGE"
 msgid "Out of probe launch range"
 msgstr ""
 
-#, fuzzy
 #| msgctxt "Manufacture Screen/KEY_MANUFACTURE_NOT_ITEMS_ARMOR_TT"
 #| msgid "No armor available"
 msgctxt "DLC2 Necronomicon/KEY_AC_LAB_UNAVAILABLE"
 msgid "lab unavailable"
-msgstr "利用可能なアイテムがありません"
+msgstr "ラボが利用できない"
 
-#, fuzzy
 #| msgctxt "Manufacture Screen/KEY_MANUFACTURE_NOT_ITEMS_WARNING_TT"
 #| msgid "No items available"
 msgctxt "DLC2 Necronomicon/KEY_AC_SITE_UNAVAILABLE"
 msgid "site unavailable"
-msgstr "利用可能なアイテムがありません"
+msgstr "利用可能な地点がない"
 
 msgctxt "DLC2 Necronomicon/KEY_MENU_PATCHNOTES_BUTTON"
 msgid "PATCH NOTES"
@@ -1997,19 +1990,17 @@ msgctxt "DLC2 Necronomicon/KEY_MENU_PATCHNOTES_TITLE"
 msgid "Patch Notes"
 msgstr ""
 
-#, fuzzy
 #| msgctxt "Diplomacy and Factions/KEY_DIPLOMACY_FACTION_NAME_TT"
 #| msgid "This name of the faction"
 msgctxt "DLC2 Necronomicon/KEY_CHARACTERNAME_THESOURCEOFTHEINFESTATION"
 msgid "The source of the infestation"
-msgstr "派閥名"
+msgstr "占拠の発生元"
 
-#, fuzzy
 #| msgctxt "Character Progression/KEY_PROGRESSION_COST"
 #| msgid "SP COST"
 msgctxt "DLC2 Necronomicon/KEY_AC_USE_COST"
 msgid "USE COST:"
-msgstr "SPコスト"
+msgstr "使用コスト:"
 
 msgctxt "DLC2 Necronomicon/KEY_AC_METAINFO_HARVEST"
 msgid "RESOURCE SITE: Send a manned aircraft to obtain exotic material"
@@ -2019,19 +2010,17 @@ msgctxt "DLC2 Necronomicon/KEY_AC_METAINFO_REFINERY"
 msgid "PROCESSING SITE: Control enables manufacture from exotic material"
 msgstr ""
 
-#, fuzzy
 #| msgctxt "Abilities/KEY_FIRE_RESISTANCE_NAME"
 #| msgid "FIRE RESISTANT"
 msgctxt "DLC2 Necronomicon/KEY_EMP_RESISTANCE_NAME"
 msgid "EMP RESISTANT"
-msgstr "火炎耐性"
+msgstr "EMP耐性"
 
-#, fuzzy
 #| msgctxt "Abilities/KEY_ACID_RESISTANCE_DESCRIPTION"
 #| msgid "Reduces effect of Acid Damage by half"
 msgctxt "DLC2 Necronomicon/KEY_EMP_RESISTANCE_DESCRIPTION"
 msgid "Reduces effect of EMP damage by half"
-msgstr "酸ダメージの効果を半分に減少させる"
+msgstr "EMPダメージの効果を半分に減少させる"
 
 msgctxt "Darleth/KEY_TRADE_HAVEN"
 msgid "TRADE RESOURCES WITH {0}"
