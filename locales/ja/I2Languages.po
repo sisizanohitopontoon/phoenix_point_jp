@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2020-08-30 12:59+0000\n"
+"PO-Revision-Date: 2020-08-30 13:03+0000\n"
 "Last-Translator: higema <ltdhyndsh@yahoo.co.jp>\n"
 "Language-Team: \n"
 "Language: ja\n"
@@ -1874,7 +1874,7 @@ msgstr "隣接する敵に対して近接攻撃を行う"
 #| msgid "SHADOWS"
 msgctxt "DLC2 Necronomicon/KEY_AC_DEATHBELCH_NAME"
 msgid "TAR SHADOW"
-msgstr ""
+msgstr "タール シャドウ"
 
 msgctxt "DLC2 Necronomicon/KEY_AC_DEATHBELCH_DESCRIPTION"
 msgid "Release a corrupted Protean Mutane shade on death"
@@ -2841,12 +2841,11 @@ msgctxt "Abilities/KEY_BODY_SLAM_NAME"
 msgid "BODY SLAM"
 msgstr "ボディスラム"
 
-#, fuzzy
 #| msgctxt "Abilities/KEY_ADRENALINE_RUSH_DESCRIPTION"
 #| msgid "All abilities cost a maximum of 1 Action Point until the end of the turn and you become dazed next turn."
 msgctxt "Abilities/KEY_ADRENALINE_RUSH_DESCRIPTION"
 msgid "All abilities cost a maximum of 1 Action Point until the end of the turn. Next turn, you will be dazed. Will Point abilities cannot be used until the end of your turn."
-msgstr "ターン終了まで全てのアビリティのAPコストが1になるが、 次のターンで放心状態になってしまう。"
+msgstr "ターン終了まで全てのアビリティのAPコストが1になるが、 次のターンで放心状態になってしまう。ターン終了まではWPを消費するアビリティを使用できない。"
 
 msgctxt "Abilities/KEY_ADRENALINE_RUSH_NAME"
 msgid "ADRENALINE RUSH"
@@ -4548,12 +4547,11 @@ msgctxt "Abilities/KEY_STRONGMAN_PERSONALTRACK_NAME"
 msgid "STRONGMAN"
 msgstr "ストロングマン"
 
-#, fuzzy
 #| msgctxt "Abilities/KEY_STRONGMAN_PERSONALTRACK_DESC"
 #| msgid "Gain Heavy Weapons proficiency with +30% bonus damage, +30% accuracy and -10 perception"
 msgctxt "Abilities/KEY_STRONGMAN_PERSONALTRACK_DESC"
 msgid "Gain Heavy Weapons proficiency with +20% bonus damage, +20% accuracy and -20 perception"
-msgstr "ヘビーウェポン技能を獲得。 該当武器で与えるダメージと命中精度+30%、 知覚力-10"
+msgstr "ヘビーウェポン技能を獲得。 該当武器で与えるダメージと命中精度+20%、 知覚力-20"
 
 msgctxt "Abilities/KEY_THIEF_PERSONALTRACK_NAME"
 msgid "THIEF"
@@ -14058,7 +14056,6 @@ msgctxt "Loading Tips/KEY_TACTICAL_LOADING_TIP_15"
 msgid "In a scavenging mission, your goal is to collect resource packs from crates and escape from the map. Don't take too many risks!"
 msgstr "スカベンジミッションでの目的は、箱から資源パックを回収して そのマップから離脱することです。過度の危険は冒さないように!"
 
-#, fuzzy
 #| msgctxt "Loading Tips/KEY_TACTICAL_LOADING_TIP_16"
 #| msgid ""
 #| "Mist spread during a mission will conceal Pandorans and restore their Will Points. If one of your soldiers is caught inside mist he will be revealed to the enemy and will lose Will Points."
@@ -14540,14 +14537,12 @@ msgctxt "Body parts/KEY_CHIRON_TORSO_ACIDWORM_NAME"
 msgid "ACIDWORM ABDOMEN"
 msgstr "アシッドワーム アブドメン"
 
-#, fuzzy
 #| msgctxt "Body parts/KEY_QUEEN_SONIC_HEAD_DESCRIPTION"
 #| msgid "SONIC HEAD"
 msgctxt "Body parts/KEY_QUEEN_SONIC_HEAD_NAME"
 msgid "SONIC HEAD"
 msgstr "ソニック ヘッド"
 
-#, fuzzy
 #| msgctxt "Body parts/KEY_QUEEN_SONIC_HEAD_NAME"
 #| msgid "Sonic scream can daze"
 msgctxt "Body parts/KEY_QUEEN_SONIC_HEAD_DESCRIPTION"
