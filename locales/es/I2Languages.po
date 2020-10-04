@@ -267,7 +267,7 @@ msgid "Equipped armour"
 msgstr "Armadura equipada"
 
 msgctxt "PH_Localization/KEY_TRAINING_SUBSTRACT_POINTS_BUTTON_TT"
-msgid "Substract Skill Points"
+msgid "Subtract Skill Points"
 msgstr "Restar puntos de habilidad"
 
 msgctxt "PH_Localization/KEY_TRAINING_ADD_POINTS_BUTTON_TT"
@@ -357,6 +357,10 @@ msgstr "VOLVER A INTENTAR"
 msgctxt "PH_Localization/KEY_OK"
 msgid "OK"
 msgstr "VALE"
+
+msgctxt "Platforms/KEY_TUTORIAL_TACTICAL1_MOVEMENT_DESCRIPTION_PLATFORMS_BIND"
+msgid "TRY THE CAMERA CONTROLS[LF]Camera movement: :LMB: + drag or use gamepad :RTS:[LF]Camera rotation: [<color=#ECBA62>{[Rotate Left]}</color>] and [<color=#ECBA62>{[Rotate Right]}</color>] or use gamepad :DLEFT: and :DRIGHT:[LF]Camera zoom: [<color=#ECBA62>{[Discrete Zoom In]}</color>] and [<color=#ECBA62>{[Discrete Zoom Out]}</color>], hold :MW:, or use gamepad :LT:[LF]Floor level focus: scroll :MW: up or down, or use gamepad :DUP: and :DDOWN:[LF][LF]MOVE YOUR SOLDIER TO THE HIGHLIGHTED TILE[LF]:LMB: on the destination tile or move the Selection Marker with gamepad :RTS: and press :A:"
+msgstr "[null]"
 
 msgctxt "Blood Titanium/KEY_ARTHRON_ACID_GRENADE_ARM_DESCRIPTION"
 msgid "Organic Grenade Launcher"
@@ -1949,6 +1953,110 @@ msgstr "RESISTENCIA A LOS PEM"
 msgctxt "DLC2 Necronomicon/KEY_EMP_RESISTANCE_DESCRIPTION"
 msgid "Reduces effect of EMP damage by half"
 msgstr "Reduce a la mitad el efecto del daño de PEM."
+
+msgctxt "DLC2 Necronomicon/KEY_GEOSCAPE_MESSAGE_EXCAVATION"
+msgid "Phoenix Point will excavate the ancient ruins in {0} hours"
+msgstr "Punto Fénix hará una excavación en las ruinas antiguas dentro de {0} horas"
+
+msgctxt "DLC2 Necronomicon/KEY_TRITON_PRAETORIAN"
+msgid "TRITON PRAETORIAN"
+msgstr "TRITÓN PRETORIANO"
+
+msgctxt "Polaris - New Weapons/KEY_FS_SHIELD_NAME"
+msgid "Riot Shield"
+msgstr "[null]"
+
+msgctxt "Polaris - New Weapons/KEY_FS_SNIPER_NAME"
+msgid "Hawk-41K"
+msgstr "[null]"
+
+msgctxt "Polaris - New Weapons/KEY_FS_SHOTGUN_NAME"
+msgid "Slamstrike Shotgun"
+msgstr "[null]"
+
+msgctxt "Polaris - New Weapons/KEY_FS_HEAVY_NAME"
+msgid "Autocannon"
+msgstr "[null]"
+
+msgctxt "Polaris - New Weapons/KEY_FS_AGL_NAME"
+msgid "Assault Grenade Launcher"
+msgstr "[null]"
+
+msgctxt "Polaris - New Weapons/KEY_FS_GRENADE_NAME"
+msgid "Biogas Grenade"
+msgstr "[null]"
+
+msgctxt "Polaris - New Weapons/KEY_FS_LAUNCHER_NAME"
+msgid "Biogas Launcher"
+msgstr "[null]"
+
+msgctxt "Polaris - New Weapons/KEY_FS_SHIELD_DESCRIPTION"
+msgid "Riot Shield"
+msgstr "[null]"
+
+msgctxt "Polaris - New Weapons/KEY_FS_SNIPER_DESCRIPTION"
+msgid "Hawk-41K"
+msgstr "[null]"
+
+msgctxt "Polaris - New Weapons/KEY_FS_SHOTGUN_DESCRIPTION"
+msgid "Slamstrike Shotgun"
+msgstr "[null]"
+
+msgctxt "Polaris - New Weapons/KEY_FS_HEAVY_DESCRIPTION"
+msgid "Autocannon"
+msgstr "[null]"
+
+msgctxt "Polaris - New Weapons/KEY_FS_AGL_DESCRIPTION"
+msgid "Assault Grenade Launcher"
+msgstr "[null]"
+
+msgctxt "Polaris - New Weapons/KEY_FS_GRENADE_DESCRIPTION"
+msgid "Biogas Grenade"
+msgstr "[null]"
+
+msgctxt "Polaris - New Weapons/KEY_FS_LAUNCHER_DESCRIPTION"
+msgid "Biogas Launcher"
+msgstr "[null]"
+
+msgctxt "Polaris - New Weapons/KEY_FS_AMMO_SNIPER_NAME"
+msgid "Hawk-41K Magazine"
+msgstr "[null]"
+
+msgctxt "Polaris - New Weapons/KEY_FS_AMMO_SHOTGUN_NAME"
+msgid "Slamstrike Shotgun Magazine"
+msgstr "[null]"
+
+msgctxt "Polaris - New Weapons/KEY_FS_AMMO_HEAVY_NAME"
+msgid "Autocannon Magazine"
+msgstr "[null]"
+
+msgctxt "Polaris - New Weapons/KEY_FS_AMMO_AGL_NAME"
+msgid "Assault Grenade Launcher Magazine"
+msgstr "[null]"
+
+msgctxt "Polaris - New Weapons/KEY_FS_AMMO_LAUNCHER_NAME"
+msgid "Biogas Launcher Magazine"
+msgstr "[null]"
+
+msgctxt "Polaris - New Weapons/KEY_FS_AMMO_SNIPER_DESCRIPTION"
+msgid "Hawk-41K Magazine"
+msgstr "[null]"
+
+msgctxt "Polaris - New Weapons/KEY_FS_AMMO_SHOTGUN_DESCRIPTION"
+msgid "Slamstrike Shotgun Magazine"
+msgstr "[null]"
+
+msgctxt "Polaris - New Weapons/KEY_FS_AMMO_HEAVY_DESCRIPTION"
+msgid "Autocannon Magazine"
+msgstr "[null]"
+
+msgctxt "Polaris - New Weapons/KEY_FS_AMMO_AGL_DESCRIPTION"
+msgid "Assault Grenade Launcher Magazine"
+msgstr "[null]"
+
+msgctxt "Polaris - New Weapons/KEY_FS_AMMO_LAUNCHER_DESCRIPTION"
+msgid "Biogas Launcher Magazine"
+msgstr "[null]"
 
 msgctxt "Darleth/KEY_TRADE_HAVEN"
 msgid "TRADE RESOURCES WITH {0}"
@@ -4530,6 +4638,134 @@ msgctxt "Abilities/KEY_QUEEN_LEAP_DESCRIPTION"
 msgid "Leap to target location, destroying everything along the path"
 msgstr "Salta a la casilla señalada, destruyendo todo lo que se encuentre por tu camino."
 
+msgctxt "Arkham/KEY_OWNED_AIRCRAFTS"
+msgid "OWNED AIRCRAFT"
+msgstr "[null]"
+
+msgctxt "Arkham/KEY_SOLDIER_DISMISS"
+msgid "DISMISS"
+msgstr "[null]"
+
+msgctxt "Arkham/KEY_ROSTER_STATISTICS"
+msgid "#STATISTICS"
+msgstr "[null]"
+
+msgctxt "Arkham/KEY_ROSTER_STAT_STEALTH"
+msgid "#STEALTH"
+msgstr "[null]"
+
+msgctxt "Arkham/KEY_ROSTER_SERVICE_RECORD"
+msgid "#SERVICE_RECORD"
+msgstr "[null]"
+
+msgctxt "Arkham/KEY_ROSTER_BIRTH_DATE"
+msgid "#DATE_OF_BIRTH"
+msgstr "[null]"
+
+msgctxt "Arkham/KEY_ROSTER_SERVICE_START"
+msgid "#SERVICE_START"
+msgstr "[null]"
+
+msgctxt "Arkham/KEY_ROSTER_NUMBER_OF_MISSIONS"
+msgid "#NUMBER_OF_MISSIONS"
+msgstr "[null]"
+
+msgctxt "Arkham/KEY_ROSTER_MOST_SKILLS_USED"
+msgid "#SKILLS_USED_MORE_OFTEN"
+msgstr "[null]"
+
+msgctxt "Arkham/KEY_ROSTER_FAVOURITE_WEAPONS"
+msgid "#FAVOURITE_WEAPONS"
+msgstr "[null]"
+
+msgctxt "Arkham/KEY_ROSTER_TOP_KILLED_ENEMIES"
+msgid "#TOP_KILL_ENEMEIS"
+msgstr "[null]"
+
+msgctxt "Arkham/KEY_ROSTER_ADDITIONAL_STATS"
+msgid "#ADDITIONAL_STATUSES"
+msgstr "[null]"
+
+msgctxt "Arkham/KEY_ROSTER_TIMES_WOUNDED"
+msgid "#TIMES_WOUNDED"
+msgstr "[null]"
+
+msgctxt "Arkham/KEY_ROSTER_DEATH_DATE"
+msgid "#DATE_OF_DEATH"
+msgstr "[null]"
+
+msgctxt "Arkham/KEY_ROSTER_DEATH_REASON"
+msgid "#CAUSE_OF_DEATH"
+msgstr "[null]"
+
+msgctxt "Arkham/KEY_ROSTER_MEMORIAL"
+msgid "#MEMORIAL"
+msgstr "[null]"
+
+msgctxt "Arkham/KEY_SOLDIER_STATUSES"
+msgid "STATUSES"
+msgstr "[null]"
+
+msgctxt "Arkham/KEY_ROSTER_TOTAL_KILLS"
+msgid "#TOTAL_KILLS"
+msgstr "[null]"
+
+msgctxt "Arkham/KEY_ROSTER_ORIGINAL_FACTION"
+msgid "#ORIGINAL_FACTION"
+msgstr "[null]"
+
+msgctxt "Arkham/KEY_ROSTER_MEMORIAL_RECORD"
+msgid "#MEMORIAL_RECORD"
+msgstr "[null]"
+
+msgctxt "Arkham/KEY_ROSTER_SERIVCE_END"
+msgid "#SERVICE_END"
+msgstr "[null]"
+
+msgctxt "Arkham/KEY_ROSTER_DEATH_BLED_OUT"
+msgid "#BLED_OUT"
+msgstr "[null]"
+
+msgctxt "Arkham/KEY_ROSTER_DEATH_ACID_BURNED"
+msgid "#ACID_BURNED"
+msgstr "[null]"
+
+msgctxt "Arkham/KEY_ROSTER_DEATH_POISONED"
+msgid "#POISONED"
+msgstr "[null]"
+
+msgctxt "Arkham/KEY_ROSTER_DEATH_IMMOLATED"
+msgid "#IMMOLATED"
+msgstr "[null]"
+
+msgctxt "Arkham/KEY_ROSTER_DEATH_STARVED"
+msgid "#STARVED"
+msgstr "[null]"
+
+msgctxt "Arkham/KEY_ROSTER_DEATH_FELL"
+msgid "#FELL"
+msgstr "[null]"
+
+msgctxt "Arkham/KEY_ROSTER_DEATH_GEOSCAPE_EVENT"
+msgid "#ACCIDENT"
+msgstr "[null]"
+
+msgctxt "Arkham/KEY_ROSTER_DEATH_FRIENDLY_FIRE"
+msgid "#FRIENDLY_FIRE"
+msgstr "[null]"
+
+msgctxt "Arkham/KEY_ROSTER_READY_ITEMS"
+msgid "#READY_ITEMS"
+msgstr "[null]"
+
+msgctxt "Arkham/KEY_ROSTER_MEMORIAL_TAB_DESCRIPTION"
+msgid "#DED_DUDES"
+msgstr "[null]"
+
+msgctxt "Arkham/KEY_ROSTER_ITEM_SLOT_EMPTY"
+msgid "#EMPTY"
+msgstr "[null]"
+
 msgctxt "Damage types/KEY_DAMAGE_TYPE_ACID"
 msgid "ACID"
 msgstr "ÁCIDO"
@@ -5035,7 +5271,7 @@ msgid "Spotting Enemies"
 msgstr "Avistar enemigos"
 
 msgctxt "Tutorial/KEY_TUTORIAL_TACTICAL1_SPOTTING_DESCRIPTION"
-msgid "ENEMY ICONS above your action bar show all spotted enemies.[LF][LF]A RED ICON shows an enemy in direct line of sight for the selected soldier."
+msgid "ENEMY ICONS above your action bar show all spotted enemies.[LF][LF]А <color=#E51919>RED ICON</color> (<color=#E51919>:CRABMAN:</color>) shows an enemy in direct line of sight for the selected soldier."
 msgstr "Los ICONOS ENEMIGOS encima de tu barra de acciones muestran los enemigos avistados.[LF][LF]El ICONO ROJO indica que hay un enemigo a la vista para el soldado seleccionado."
 
 msgctxt "Tutorial/KEY_TUTORIAL_TACTICAL1_SELECTION_NAME"
@@ -5203,7 +5439,7 @@ msgid "Medkits and Healing"
 msgstr "Botiquines y sanación"
 
 msgctxt "Tutorial/KEY_TUTORIAL_TACTICAL2_HEALING_DESCRIPTION"
-msgid "Medkits restore Hit Points and remove Bleeding and Poison status effects.[LF][LF]A soldier must be next to the injured soldier in order to heal him.[LF][LF]SELECT THE MEDKIT[LF]Then select the USE MEDKIT icon from the Action Bar to heal your soldier.[LF]"
+msgid "Medkits restore Hit Points and remove Bleeding and Poison status effects.[LF][LF]A soldier must be next to the injured soldier in order to heal her.[LF][LF]SELECT THE MEDKIT[LF]Then select the USE MEDKIT icon from the Action Bar to heal your soldier.[LF]"
 msgstr "Los botiquines restauran puntos de salud y eliminan los efectos de los estados Sangrando y Envenenado.[LF][LF]Un soldado debe estar al lado del soldado herido para poder sanarlo.[LF][LF]SELECCIONA EL BOTIQUÍN[LF]Después, selecciona el icono de USAR BOTIQUÍN de la barra de acciones para sanar al soldado."
 
 msgctxt "Tutorial/KEY_TUTORIAL_TACTICAL2_RESCUE_NAME"
@@ -5211,7 +5447,7 @@ msgid "Rescuing Allies"
 msgstr "Rescatar aliados"
 
 msgctxt "Tutorial/KEY_TUTORIAL_TACTICAL2_RESCUE_DESCRIPTION"
-msgid "Allied characters are rescued by moving a soldier next to them. After they are rescued, the character can be given orders along with the rest of your squad.[LF][LF]SELECT THE HEALED SOLDIER[LF]AND MOVE HIM NEXT TO YOUR ALLY[LF]"
+msgid "Allied characters are rescued by moving a soldier next to them. After they are rescued, the character can be given orders along with the rest of your squad.[LF][LF]SELECT THE HEALED SOLDIER[LF]AND MOVE HER NEXT TO YOUR ALLY[LF]"
 msgstr "Para rescatar a un personaje, tienes que mover a un soldado a su lado. Puedes darle órdenes a un personaje que hayas rescatado junto a tu pelotón.[LF][LF]SELECCIONA AL SOLDADO SANADO[LF]Y MUÉVELO HACIA EL ALIADO"
 
 msgctxt "Tutorial/KEY_TUTORIAL_TACTICAL2_CLASSES_NAME"
@@ -5235,7 +5471,7 @@ msgid "Status Effects"
 msgstr "Efectos de estado"
 
 msgctxt "Tutorial/KEY_TUTORIAL_TACTICAL2_STATUS_DESCRIPTION"
-msgid "Status Effects are bonuses or penalties that affect a unit for a certain amount of time. Positive effects are usually acquired through abilities, while negative effects come from enemy weapons and abilites.[LF][LF]Bleeding is one of the most common Status Effects. Soldiers suffering from Bleeding are dealt a set amount of damage at the start of their turn equal to their Bleed level.[LF][LF]Bleeding can be cured by using a Medkit. After a mission ends, bleeding and disable limbs are cured, but Hit Points need to be restored at a base with a Medical Facility."
+msgid "Status Effects are bonuses or penalties that affect a unit for a certain amount of time. Positive effects are usually acquired through abilities, while negative effects come from enemy weapons and abilites.[LF][LF]Bleeding is one of the most common Status Effects. Soldiers suffering from Bleeding are dealt a set amount of damage at the start of their turn equal to their Bleed level.[LF][LF]Bleeding can be cured by using a Medkit. After a mission ends, bleeding and disabled limbs are cured, but Hit Points need to be restored at a base with a Medical Facility."
 msgstr "Los efectos de estado son bonificaciones y penalizaciones que afectan a una unidad durante un tiempo. Los efectos positivos se suelen conseguir de habilidades, mientras que los negativos surgen de las armas o habilidades enemigas.[LF][LF]Sangrando es uno de los efectos de estado más comunes. Los soldados que tengan este estado reciben daño al principio del turno igual al nivel de sangrado.[LF][LF]El efecto de Sangrando se puede curar con un botiquín. Cuando termina una misión, el sangrado y las extremidades inhabilitadas se curan, pero los puntos de salud se recuperan en las bases con enfermerías."
 
 msgctxt "Tutorial/KEY_TUTORIAL_TACTICAL2_OVERWATCH_NAME"
@@ -5293,6 +5529,102 @@ msgstr "Parálisis y Captura"
 msgctxt "Tutorial/KEY_TUTORIAL_CAPTURE_PARALYZE_DESCRIPTION"
 msgid "In order to capture a Pandoran you need to equip a Neurazer, move next to it and melee attack until it is paralyzed.[LF]When the PARALYSIS value is greater than the target’s Strength, the enemy is PARALYZED and will be captured at the end of the mission. Targets will lose 1 paralysis point per turn, so do not let them recover if possible.[LF]Disabling enemy body parts decreases the enemy’s overall Strength, making it easier to capture.[LF]You will need to manufacture Neurazers to equip your squad and build a containment facility to capture Pandorans."
 msgstr "Para capturar a un Pandoriano, deberás equiparte con un Neurotáser, moverte a su lado y atacar cuerpo a cuerpo hasta que esté paralizado.[LF]Cuando el valor de PARÁLISIS es mayor que la Fuerza del objetivo, el enemigo está PARALIZADO y será capturado al final de la misión.[LF]Los objetivos pierden 1 punto de parálisis por turno, así que no les dejes recuperarse.[LF]Deshabilitar las partes del cuerpo de los enemigos hace que se reduzca su Fuerza, haciendo que sean más fáciles de capturar.[LF]Necesitarás producir Neurotásers para que tus soldados las equipen, y un centro de contención para los Pandorianos capturados."
+
+msgctxt "TutorialRoom8/KEY_TUTORIAL_TACTICAL1_MOVEMENT_DESCRIPTION_BIND_K"
+msgid "TRY THE CAMERA CONTROLS[LF]Camera movement: :LMB: + drag[LF]Camera rotation: [<color=#ECBA62>{[Rotate Left]}</color>] and [<color=#ECBA62>{[Rotate Right]}</color>][LF]Camera zoom: [<color=#ECBA62>{[Discrete Zoom In]}</color>] and [<color=#ECBA62>{[Discrete Zoom Out]}</color>], hold :MW:[LF]Floor level focus: scroll :MW: up or down[LF][LF]MOVE YOUR SOLDIER TO THE HIGHLIGHTED TILE[LF]:LMB: on the destination tile"
+msgstr "PRUEBA LOS CONTROLES DE LA CÁMARA[LF]Movimiento de la cámara: :LMB: y arrastrar[LF]Rotación de la cámara: [<color=#ECBA62>{[Rotate Left]}</color>] y [<color=#ECBA62>{[Rotate Right]}</color>][LF]Acercar/alejar la cámara: [<color=#ECBA62>{[Discrete Zoom In]}</color>] y [<color=#ECBA62>{[Discrete Zoom Out]}</color>], mantener :MW:[LF]Cambiar nivel de suelo: mover :MW: hacia arriba o abajo[LF][LF]MUEVE AL SOLDADO A LA CASILLA RESALTADA[LF]:LMB: en la casilla de destino"
+
+msgctxt "TutorialRoom8/KEY_TUTORIAL_TACTICAL1_SELECTION_DESCRIPTION_K"
+msgid "SELECT YOUR SOLDIER[LF]:LMB: on the soldier"
+msgstr "SELECCIONA UN SOLDADO[LF]:LMB: en el soldado"
+
+msgctxt "TutorialRoom8/KEY_TUTORIAL_TACTICAL1_AP_PART2_DESCRIPTION_K"
+msgid "Action controls[LF][LF]Select Action: :LMB: on the action icon[LF]Perform Action: :LMB: on the action button or icon[LF][LF]Movement: :LMB: then select MOVE to go to the Selection Marker location[LF]Direct Movement: :RMB: to go directly to the Selection Marker location"
+msgstr "Controles de acción[LF][LF]Seleccionar acción: :LMB: en el icono de la acción[LF]Realizar acción: :LMB: en el botón o icono de acción[LF][LF]Movimiento: :LMB: y después seleccionar MOVER para ir a la ubicación del marcador de selección[LF]Movimiento directo: :RMB: para ir directamente a la ubicación del marcador de selección"
+
+msgctxt "TutorialRoom8/KEY_TUTORIAL_TACTICAL1_SHOOTING_DESCRIPTION_K"
+msgid "The Health Bar indicates the current Hit Points. The Armor pips to the right show the amount of damage prevented for each shot.[LF][LF]When targeting an enemy, the amount of damage from an attack is shown on the health bar. The whiter the damage prediction, the more likely it is.[LF][LF]SELECT \"\"FIRE WEAPON\"\"[LF]:LMB: on the \"\"Fire Weapon\"\" icon[LF][LF]FIRE AT THE ENEMY[LF]:LMB: on the \"\"FIRE WEAPON\"\" button[LF]"
+msgstr "La barra de salud muestra la cantidad de puntos de salud actuales. El marcador de armadura a la derecha indica la cantidad de daño que se previene con cada disparo.[LF][LF]Cuando apuntas a un enemigo, la cantidad de daño del ataque se muestra en la barra de salud. Cuanto más blanca sea la predicción de daño, más acertada será.[LF][LF]SELECCIONA “DISPARO DE ARMA”[LF]:LMB: en el icono de “Disparo de arma”[LF][LF]DISPARA AL ENEMIGO[LF]:LMB: en el botón de “DISPARO DE ARMA”"
+
+msgctxt "TutorialRoom8/KEY_TUTORIAL_TACTICAL1_STANDBY_DESCRIPTION_BIND_K"
+msgid "Once a soldier is out of APs he enters Standby Mode and the next soldier is selected. If there are no soldiers with APs remaining your turn ends. [LF][LF]You can order a soldier to enter Standby Mode by using the [<color=#ECBA62>{[SetEndTurnAbility]}</color>] or selecting the icon from the Action Bar[LF][LF]SELECT STANDBY MODE[LF]"
+msgstr "Cuando un soldado se queda sin puntos de acción, entra en modo reposo y se selecciona al siguiente soldado. Si no hay soldados con puntos de acción, termina tu turno.[LF][LF]Puedes ordenar a un soldado a que entre en modo reposo si le das a [<color=#ECBA62>{[SetEndTurnAbility]}</color>] o si seleccionas el icono en la barra de acciones[LF][LF]SELECCIONA EL MODO REPOSO"
+
+msgctxt "TutorialRoom8/KEY_TUTORIAL_TACTICAL1_TURNS_DESCRIPTION_BIND_K"
+msgid "You can end your turn at any time by pressing the END TURN button on the screen or the [<color=#ECBA62>{[EndTurn]}</color>] key"
+msgstr "Puedes terminar tu turno en cualquier momento si pulsas el botón de “TERMINA EL TURNO” en la pantalla o si pulsas la tecla [<color=#ECBA62>{[EndTurn]}</color>]."
+
+msgctxt "TutorialRoom8/KEY_TUTORIAL_TACTICAL1_FREE_AIM_DESCRIPTION_K"
+msgid "Free Aim allows you to target a body part and see the effects of disabling the body part.[LF][LF]Each body part has its own Hit Points and Armor value. Damage prediction is also shown for the targeted body part.[LF][LF]The outer blue circle shows you where all your shots will land. The more accurate the weapon, the smaller the circle.[LF][LF]FREE AIM CONTROLS[LF]Enter Free Aim: Press the Free Aim icon or scroll :MW:[LF]Move Crosshair: move the Mouse[LF]Zoom in/Out: scroll :MW:[LF]Exit Free Aim: ESC[LF][LF]ENTER FREE AIM MODE AND SHOOT THE ENEMY"
+msgstr "El apuntado libre te permite apuntar a una parte del cuerpo y ver los efectos que produce la inhabilitación ahí.[LF][LF]Las partes del cuerpo tienen puntos de salud y armadura independientes. La predicción de daño se muestra en la parte del cuerpo seleccionada.[LF][LF]El círculo externo azul te indica dónde impactarán los disparos. Cuanto más precisa sea el arma, más pequeños serán los círculos.[LF][LF]CONTROLES DEL APUNTADO LIBRE[LF]Entrar en apuntado libre: pulsar el icono de apuntado libre o mover :MW:[LF]Mover puntero: mover el ratón[LF]Acercarse/alejarse: mover :MW:[LF]Salir de apuntado libre: ESC[LF][LF]ENTRA EN EL MODO DE APUNTADO LIBRE Y DISPARA AL ENEMIGO"
+
+msgctxt "TutorialRoom8/KEY_TUTORIAL_TACTICAL2_INVENTORY_DESCRIPTION_BIND_K"
+msgid "The Inventory shows everything carried by a soldier, and items on the ground or in adjacent crates.[LF][LF]ENCUMBRANCE[LF]If the weight of all carried items and armor is greater than the soldier's Strength then the soldier suffers a movement penalty.[LF][LF]ACCESS THE INVENTORY[LF]Press the inventory icon or the [<color=#ECBA62>{[SetInventoryAbility]}</color>] key"
+msgstr "El inventario muestra lo que el soldado lleva encima y los objetos en el suelo o en cajas adyacentes.[LF][LF]CARGA[LF]Si el peso de los objetos y de la armadura es superior a la fuerza del soldado, este recibe una penalización a la velocidad.[LF][LF]ACCEDE AL INVENTARIO[LF]Pulsa el icono del inventario o la tecla [<color=#ECBA62>{[SetInventoryAbility]}</color>]."
+
+msgctxt "TutorialRoom8/KEY_TUTORIAL_TACTICAL2_READY_ITEMS_DESCRIPTION_BIND_K"
+msgid "Items in the ready section of the inventory are shown in the Ready Items Bar. They can be selected for use without an AP cost.[LF][LF]READY ITEMS BAR CONTROLS[LF]Select item: Use :LMB: on the item's icon or keys <color=#ECBA62>[{[TacSelectItem1]}], [{[TacSelectItem2]}], [{[TacSelectItem3]}] or [{[TacSelectItem4]}]</color>[LF]Select next item: <color=#ECBA62>[{[CycleWeapons]}]</color> key[LF][LF]SELECT THE GRENADE"
+msgstr "Los objetos en la sección de objetos listos del inventario se muestran en la barra de objetos listos. Puedes seleccionarlos para su uso sin coste de puntos de acción.[LF][LF]CONTROLES DE LA BARRA DE OBJETOS LISTOS[LF]Seleccionar objeto: usar :LMB: sobre el icono del objeto o las teclas <color=#ECBA62>[{[TacSelectItem1]}], [{[TacSelectItem2]}], [{[TacSelectItem3]}] o [{[TacSelectItem4]}]</color>[LF]Seleccionar siguiente objeto: pulsar la tecla <color=#ECBA62>[{[CycleWeapons]}]</color>[LF][LF]SELECCIONA LA GRANADA"
+
+msgctxt "TutorialRoom8/KEY_TUTORIAL_TACTICAL2_GRENADE_DESCRIPTION_K"
+msgid "Grenades do area damage around the spot where they land. An orange sphere shows the area of effect. The distance at which a grenade can be thrown depends on the soldier's Strength and abilities.[LF][LF]SELECT THE \"\"THROW GRENADE\"\" ACTION[LF]Then target the space between the two enemies.[LF][LF]Throw the grenade with :LMB:"
+msgstr "Las granadas causan daño en área alrededor del punto de impacto. Una esfera naranja indica el zona afectada. La distancia a la que se puede lanzar una granada depende de la fuerza y de las habilidades del soldado.[LF][LF]SELECCIONA LA ACCIÓN DE “LANZA LA GRANADA”[LF]Después, selecciona el espacio entre los dos enemigos.[LF][LF]Lanza la granada con :LMB:"
+
+msgctxt "TutorialRoom8/KEY_TUTORIAL_TACTICAL2_OVERWATCH_DESCRIPTION_BIND_K"
+msgid "The Overwatch ability allows soldiers to guard an area during the enemy’s turn. If an enemy enters the Overwatch cone, it is attacked automatically.[LF][LF]OVERWATCH CONTROLS[LF]Enter Overwatch mode: Select the Overwatch icon from the Action Bar or press [<color=#ECBA62>{[SetOverwatchAbility]}</color>][LF]Select target position: Move Mouse[LF]Change width of overwatch zone: CTRL + :MW:[LF]Confirm Overwatch: :LMB:[LF][LF]MOVE YOUR SOLDIER AND SET OVERWATCH[LF]:LMB: on the highlighted target position towards the two approaching enemies."
+msgstr "La habilidad de Supervisión permite a los soldados defender una zona durante el turno del enemigo. Si un enemigo entra en el cono de Supervisión, el soldado ataca.[LF][LF]CONTROLES DE SUPERVISIÓN[LF]Entrar en modo Supervisión: seleccionar el icono de Supervisión en la barra de acciones o pulsar [<color=#ECBA62>{[SetOverwatchAbility]}</color>][LF]Seleccionar la zona: mover el ratón[LF]Cambiar el tamaño de la zona de Supervisión: CTRL + :MW:[LF]Confirmar Supervisión: :LMB:[LF][LF]MUEVE A LOS SOLDADOS Y USA SUPERVISIÓN[LF]:LMB: en la zona resaltada cerca de los enemigos que se acercan."
+
+msgctxt "TutorialRoom8/KEY_TUTORIAL_TACTICAL1_MOVEMENT_DESCRIPTION_BIND_C"
+msgid "TRY THE CAMERA CONTROLS[LF]Camera movement: :RTS:[LF]Camera rotation: :DLEFT: and :DRIGHT:[LF]Camera zoom: :LT:[LF]Floor level focus: :DUP: and :DDOWN:[LF][LF]MOVE YOUR SOLDIER TO THE HIGHLIGHTED TILE[LF]:RTS: on the destination tile and press :A:"
+msgstr "PRUEBA LOS CONTROLES DE LA CÁMARA[LF]Movimiento de la cámara: :RTS:[LF]Rotación de la cámara: :DLEFT: y :DRIGHT:[LF]Acercar/alejar la cámara: :LT:[LF]Cambiar nivel de suelo: :DUP: y :DDOWN:[LF][LF]MUEVE AL SOLDADO A LA CASILLA RESALTADA[LF]:RTS: en la casilla de destino y pulsa :A:"
+
+msgctxt "TutorialRoom8/KEY_TUTORIAL_TACTICAL1_SELECTION_DESCRIPTION_BIND_C"
+msgid "SELECT YOUR SOLDIER[LF]Move the Selection Marker with the gamepad onto the soldier and press :A:"
+msgstr "SELECCIONA UN SOLDADO[LF]Mueve el marcador de selección con el mando hacia el soldado y pulsa :A:"
+
+msgctxt "TutorialRoom8/KEY_TUTORIAL_TACTICAL1_AP_PART2_DESCRIPTION_C"
+msgid "Action controls[LF][LF]Select Action: Use :RT: to enter the Action Bar and :DLEFT: and :DRIGHT: to select, and :A: to perform action.[LF][LF]Movement: :A: then select MOVE to go to the Selection Marker location"
+msgstr "Controles de acción[LF][LF]Seleccionar acción::RT: para acceder a la barra de acciones y :DLEFT: y :DRIGHT: para seleccionar. Luego, pulsa :A: para realizar la acción[LF][LF]Movimiento: :A: y después seleccionar MOVER para ir a la ubicación del marcador de selección"
+
+msgctxt "TutorialRoom8/KEY_TUTORIAL_TACTICAL1_SHOOTING_DESCRIPTION_C"
+msgid "The Health Bar indicates the current Hit Points. The Armor pips to the right show the amount of damage prevented for each shot.[LF][LF]When targeting an enemy, the amount of damage from an attack is shown on the health bar. The whiter the damage prediction, the more likely it is.[LF][LF]SELECT \"\"FIRE WEAPON\"\"[LF]:RT:[LF][LF]FIRE AT THE ENEMY[LF]:RT:[LF]"
+msgstr "La barra de salud muestra la cantidad de puntos de salud actuales. El marcador de armadura a la derecha indica la cantidad de daño que se previene con cada disparo.[LF][LF]Cuando apuntas a un enemigo, la cantidad de daño del ataque se muestra en la barra de salud. Cuanto más blanca sea la predicción de daño, más acertada será.[LF][LF]SELECCIONA “DISPARO DE ARMA”[LF]:RT:[LF][LF]DISPARA AL ENEMIGO[LF]:RT:"
+
+msgctxt "TutorialRoom8/KEY_TUTORIAL_TACTICAL1_STANDBY_DESCRIPTION_BIND_C"
+msgid "Once a soldier is out of APs he enters Standby Mode and the next soldier is selected. If there are no soldiers with APs remaining your turn ends. [LF][LF]You can order a soldier to enter Standby Mode by selecting the icon from the Action Bar or using :B:[LF][LF]SELECT STANDBY MODE[LF]"
+msgstr "Cuando un soldado se queda sin puntos de acción, entra en modo reposo y se selecciona al siguiente soldado. Si no hay soldados con puntos de acción, termina tu turno.[LF][LF]Puedes ordenar a un soldado que entre en modo reposo seleccionando el icono en la barra de acciones o usando :B:[LF][LF]SELECCIONA EL MODO REPOSO"
+
+msgctxt "TutorialRoom8/KEY_TUTORIAL_TACTICAL1_TURNS_DESCRIPTION_BIND_C"
+msgid "You can end your turn at any time by pressing :BACK:. "
+msgstr "Puedes terminar tu turno en cualquier momento pulsando :BACK:."
+
+msgctxt "TutorialRoom8/KEY_TUTORIAL_TACTICAL1_FREE_AIM_DESCRIPTION_C"
+msgid "Free Aim allows you to target a body part and see the effects of disabling the body part.[LF][LF]Each body part has its own Hit Points and Armor value. Damage prediction is also shown for the targeted body part.[LF][LF]The outer blue circle shows you where all your shots will land. The more accurate the weapon, the smaller the circle.[LF][LF]FREE AIM CONTROLS[LF]Enter Free Aim: :RTS:[LF]Move Crosshair: :LTS:[LF]Zoom in/Out: :RTS:[LF]Exit Free Aim: :B:[LF][LF]ENTER FREE AIM MODE AND SHOOT THE ENEMY"
+msgstr "El apuntado libre te permite apuntar a una parte del cuerpo y ver los efectos que produce la inhabilitación ahí.[LF][LF]Las partes del cuerpo tienen puntos de salud y armadura independientes. La predicción de daño se muestra en la parte del cuerpo seleccionada.[LF][LF]El círculo externo azul te indica dónde impactarán los disparos. Cuanto más precisa sea el arma, más pequeños serán los círculos.[LF][LF]CONTROLES DEL APUNTADO LIBRE[LF]Entrar en apuntado libre: :RTS:[LF]Mover puntero: :LTS:[LF]Acercarse/alejarse: :RTS:[LF]Salir de apuntado libre: :B:[LF][LF]ENTRA EN EL MODO DE APUNTADO LIBRE Y DISPARA AL ENEMIGO"
+
+msgctxt "TutorialRoom8/KEY_TUTORIAL_TACTICAL2_INVENTORY_DESCRIPTION_BIND_C"
+msgid "The Inventory shows everything carried by a soldier, and items on the ground or in adjacent crates.[LF][LF]ENCUMBRANCE[LF]If the weight of all carried items and armor is greater than the soldier's Strength then the soldier suffers a movement penalty.[LF][LF]ACCESS THE INVENTORY[LF]Press :R3:"
+msgstr "El inventario muestra lo que el soldado lleva encima y los objetos en el suelo o en cajas adyacentes.[LF][LF]CARGA[LF]Si el peso de los objetos y de la armadura es superior a la fuerza del soldado, este recibe una penalización a la velocidad.[LF][LF]ACCEDE AL INVENTARIO[LF]Pulsa :R3:."
+
+msgctxt "TutorialRoom8/KEY_TUTORIAL_TACTICAL2_READY_ITEMS_DESCRIPTION_BIND_C"
+msgid "Items in the ready section of the inventory are shown in the Ready Items Bar. They can be selected for use without an AP cost.[LF][LF]READY ITEMS BAR CONTROLS[LF][LF]Select next item: :X:[LF][LF]SELECT THE GRENADE"
+msgstr "Los objetos en la sección de objetos listos del inventario se muestran en la barra de objetos listos. Puedes seleccionarlos para su uso sin coste de puntos de acción.[LF][LF]CONTROLES DE LA BARRA DE OBJETOS LISTOS[LF][LF]Seleccionar siguiente objeto: :X:[LF][LF]SELECCIONA LA GRANADA"
+
+msgctxt "TutorialRoom8/KEY_TUTORIAL_TACTICAL2_GRENADE_DESCRIPTION_C"
+msgid "Grenades do area damage around the spot where they land. An orange sphere shows the area of effect. The distance at which a grenade can be thrown depends on the soldier's Strength and abilities.[LF][LF]SELECT THE \"\"THROW GRENADE\"\" ACTION[LF]Then target the space between the two enemies.[LF][LF]Throw grenade :A:"
+msgstr "Las granadas causan daño en área alrededor del punto de impacto. Una esfera naranja indica el zona afectada. La distancia a la que se puede lanzar una granada depende de la fuerza y de las habilidades del soldado.[LF][LF]SELECCIONA LA ACCIÓN DE LANZAR LA GRANADA[LF]Después, selecciona el espacio entre los dos enemigos.[LF][LF]Lanza la granada :A:"
+
+msgctxt "TutorialRoom8/KEY_TUTORIAL_TACTICAL2_OVERWATCH_DESCRIPTION_BIND_C"
+msgid "The Overwatch ability allows soldiers to guard an area during the enemy’s turn. If an enemy enters the Overwatch cone, it is attacked automatically.[LF][LF]OVERWATCH CONTROLS[LF]Enter Overwatch mode: Select the Overwatch icon from the Action Bar, or press :Y:[LF]Select target position: :LTS:[LF]Change width of overwatch zone: :LB: and :RB:[LF]Confirm Overwatch: :A:[LF][LF]MOVE YOUR SOLDIER AND SET OVERWATCH[LF]:A: on the highlighted target position towards the two approaching enemies."
+msgstr "La habilidad de Supervisión permite a los soldados defender una zona durante el turno del enemigo. Si un enemigo entra en el cono de Supervisión, el soldado ataca automáticamente.[LF][LF]CONTROLES DE SUPERVISIÓN[LF]Entrar en modo Supervisión: seleccionar el icono de Supervisión en la barra de acciones o pulsar :Y:[LF]Seleccionar la zona: :LTS:[LF]Cambiar el grosor de la zona de Supervisión: :LB: y :RB:[LF]Confirmar Supervisión: :A:[LF][LF]MUEVE A LOS SOLDADOS Y USA SUPERVISIÓN[LF]:A: en la zona resaltada cerca de los enemigos que se acercan."
+
+msgctxt "Tutorial 2 to 4/KEY_TUT_TUT2_START_NAME"
+msgid "TUTORIAL 2"
+msgstr "[null]"
+
+msgctxt "Tutorial 2 to 4/KEY_TUT_TUT2_START_DESC"
+msgid "Welcome to the start of tutorial 2"
+msgstr "[null]"
 
 msgctxt "Phoenixpedia/KEY_PHOENIXPEDIA_SECTION_GUIDE"
 msgid "GUIDE"
@@ -7891,12 +8223,12 @@ msgid "OVERWRITE"
 msgstr "SOBRESCRIBIR"
 
 msgctxt "Options Screen/KEY_OPTIONS_QUIT_DESCRIPTION"
-msgid "Quit to Desktop"
-msgstr "Salir al escritorio"
+msgid "Quit Game"
+msgstr "Salir del juego"
 
 msgctxt "Options Screen/KEY_OPTIONS_QUIT_NAME"
-msgid "QUIT TO DESKTOP"
-msgstr "SALIR AL ESCRITORIO"
+msgid "QUIT GAME"
+msgstr "SALIR DEL JUEGO"
 
 msgctxt "Options Screen/KEY_OPTIONS_RESTORE"
 msgid "RESTORE DEFAULTS"
@@ -11211,8 +11543,8 @@ msgid "SELECT"
 msgstr "SELECCIONAR"
 
 msgctxt "Geoscape/KEY_GEOSCAPE_EXIT"
-msgid "EXIT"
-msgstr "SALIR"
+msgid "QUIT GAME"
+msgstr "SALIR DEL JUEGO"
 
 msgctxt "Geoscape/KEY_GEOSCAPE_SITES_REVEALED"
 msgid "Sites added to geoscape: {0} {1}"
@@ -13063,7 +13395,7 @@ msgid "SPAWNERY"
 msgstr "ENGENDRADORA"
 
 msgctxt "Characters and classes/KEY_ARMADILLO_DESCRIPTION"
-msgid "New Jericho Armadillo Ground Vehiclle"
+msgid "New Jericho Armadillo Ground Vehicle"
 msgstr "Vehículo de tierra armadillo de Nueva Jericó.."
 
 msgctxt "Characters and classes/KEY_ARMADILLO_NAME"

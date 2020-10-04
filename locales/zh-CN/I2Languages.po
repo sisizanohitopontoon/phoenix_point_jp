@@ -267,7 +267,7 @@ msgid "Equipped armour"
 msgstr "已装备护甲"
 
 msgctxt "PH_Localization/KEY_TRAINING_SUBSTRACT_POINTS_BUTTON_TT"
-msgid "Substract Skill Points"
+msgid "Subtract Skill Points"
 msgstr "减去技能点"
 
 msgctxt "PH_Localization/KEY_TRAINING_ADD_POINTS_BUTTON_TT"
@@ -357,6 +357,10 @@ msgstr "重试"
 msgctxt "PH_Localization/KEY_OK"
 msgid "OK"
 msgstr "好的"
+
+msgctxt "Platforms/KEY_TUTORIAL_TACTICAL1_MOVEMENT_DESCRIPTION_PLATFORMS_BIND"
+msgid "TRY THE CAMERA CONTROLS[LF]Camera movement: :LMB: + drag or use gamepad :RTS:[LF]Camera rotation: [<color=#ECBA62>{[Rotate Left]}</color>] and [<color=#ECBA62>{[Rotate Right]}</color>] or use gamepad :DLEFT: and :DRIGHT:[LF]Camera zoom: [<color=#ECBA62>{[Discrete Zoom In]}</color>] and [<color=#ECBA62>{[Discrete Zoom Out]}</color>], hold :MW:, or use gamepad :LT:[LF]Floor level focus: scroll :MW: up or down, or use gamepad :DUP: and :DDOWN:[LF][LF]MOVE YOUR SOLDIER TO THE HIGHLIGHTED TILE[LF]:LMB: on the destination tile or move the Selection Marker with gamepad :RTS: and press :A:"
+msgstr "[null]"
 
 msgctxt "Blood Titanium/KEY_ARTHRON_ACID_GRENADE_ARM_DESCRIPTION"
 msgid "Organic Grenade Launcher"
@@ -1949,6 +1953,110 @@ msgstr "抗电磁脉冲"
 msgctxt "DLC2 Necronomicon/KEY_EMP_RESISTANCE_DESCRIPTION"
 msgid "Reduces effect of EMP damage by half"
 msgstr "将受到的电磁脉冲伤害减半"
+
+msgctxt "DLC2 Necronomicon/KEY_GEOSCAPE_MESSAGE_EXCAVATION"
+msgid "Phoenix Point will excavate the ancient ruins in {0} hours"
+msgstr "凤凰点将于 {0} 小时后挖掘古代遗迹"
+
+msgctxt "DLC2 Necronomicon/KEY_TRITON_PRAETORIAN"
+msgid "TRITON PRAETORIAN"
+msgstr "触手鱼人执政官"
+
+msgctxt "Polaris - New Weapons/KEY_FS_SHIELD_NAME"
+msgid "Riot Shield"
+msgstr "[null]"
+
+msgctxt "Polaris - New Weapons/KEY_FS_SNIPER_NAME"
+msgid "Hawk-41K"
+msgstr "[null]"
+
+msgctxt "Polaris - New Weapons/KEY_FS_SHOTGUN_NAME"
+msgid "Slamstrike Shotgun"
+msgstr "[null]"
+
+msgctxt "Polaris - New Weapons/KEY_FS_HEAVY_NAME"
+msgid "Autocannon"
+msgstr "[null]"
+
+msgctxt "Polaris - New Weapons/KEY_FS_AGL_NAME"
+msgid "Assault Grenade Launcher"
+msgstr "[null]"
+
+msgctxt "Polaris - New Weapons/KEY_FS_GRENADE_NAME"
+msgid "Biogas Grenade"
+msgstr "[null]"
+
+msgctxt "Polaris - New Weapons/KEY_FS_LAUNCHER_NAME"
+msgid "Biogas Launcher"
+msgstr "[null]"
+
+msgctxt "Polaris - New Weapons/KEY_FS_SHIELD_DESCRIPTION"
+msgid "Riot Shield"
+msgstr "[null]"
+
+msgctxt "Polaris - New Weapons/KEY_FS_SNIPER_DESCRIPTION"
+msgid "Hawk-41K"
+msgstr "[null]"
+
+msgctxt "Polaris - New Weapons/KEY_FS_SHOTGUN_DESCRIPTION"
+msgid "Slamstrike Shotgun"
+msgstr "[null]"
+
+msgctxt "Polaris - New Weapons/KEY_FS_HEAVY_DESCRIPTION"
+msgid "Autocannon"
+msgstr "[null]"
+
+msgctxt "Polaris - New Weapons/KEY_FS_AGL_DESCRIPTION"
+msgid "Assault Grenade Launcher"
+msgstr "[null]"
+
+msgctxt "Polaris - New Weapons/KEY_FS_GRENADE_DESCRIPTION"
+msgid "Biogas Grenade"
+msgstr "[null]"
+
+msgctxt "Polaris - New Weapons/KEY_FS_LAUNCHER_DESCRIPTION"
+msgid "Biogas Launcher"
+msgstr "[null]"
+
+msgctxt "Polaris - New Weapons/KEY_FS_AMMO_SNIPER_NAME"
+msgid "Hawk-41K Magazine"
+msgstr "[null]"
+
+msgctxt "Polaris - New Weapons/KEY_FS_AMMO_SHOTGUN_NAME"
+msgid "Slamstrike Shotgun Magazine"
+msgstr "[null]"
+
+msgctxt "Polaris - New Weapons/KEY_FS_AMMO_HEAVY_NAME"
+msgid "Autocannon Magazine"
+msgstr "[null]"
+
+msgctxt "Polaris - New Weapons/KEY_FS_AMMO_AGL_NAME"
+msgid "Assault Grenade Launcher Magazine"
+msgstr "[null]"
+
+msgctxt "Polaris - New Weapons/KEY_FS_AMMO_LAUNCHER_NAME"
+msgid "Biogas Launcher Magazine"
+msgstr "[null]"
+
+msgctxt "Polaris - New Weapons/KEY_FS_AMMO_SNIPER_DESCRIPTION"
+msgid "Hawk-41K Magazine"
+msgstr "[null]"
+
+msgctxt "Polaris - New Weapons/KEY_FS_AMMO_SHOTGUN_DESCRIPTION"
+msgid "Slamstrike Shotgun Magazine"
+msgstr "[null]"
+
+msgctxt "Polaris - New Weapons/KEY_FS_AMMO_HEAVY_DESCRIPTION"
+msgid "Autocannon Magazine"
+msgstr "[null]"
+
+msgctxt "Polaris - New Weapons/KEY_FS_AMMO_AGL_DESCRIPTION"
+msgid "Assault Grenade Launcher Magazine"
+msgstr "[null]"
+
+msgctxt "Polaris - New Weapons/KEY_FS_AMMO_LAUNCHER_DESCRIPTION"
+msgid "Biogas Launcher Magazine"
+msgstr "[null]"
 
 msgctxt "Darleth/KEY_TRADE_HAVEN"
 msgid "TRADE RESOURCES WITH {0}"
@@ -4530,6 +4638,134 @@ msgctxt "Abilities/KEY_QUEEN_LEAP_DESCRIPTION"
 msgid "Leap to target location, destroying everything along the path"
 msgstr "跳到目标地点并摧毁沿途所有物体"
 
+msgctxt "Arkham/KEY_OWNED_AIRCRAFTS"
+msgid "OWNED AIRCRAFT"
+msgstr "[null]"
+
+msgctxt "Arkham/KEY_SOLDIER_DISMISS"
+msgid "DISMISS"
+msgstr "[null]"
+
+msgctxt "Arkham/KEY_ROSTER_STATISTICS"
+msgid "#STATISTICS"
+msgstr "[null]"
+
+msgctxt "Arkham/KEY_ROSTER_STAT_STEALTH"
+msgid "#STEALTH"
+msgstr "[null]"
+
+msgctxt "Arkham/KEY_ROSTER_SERVICE_RECORD"
+msgid "#SERVICE_RECORD"
+msgstr "[null]"
+
+msgctxt "Arkham/KEY_ROSTER_BIRTH_DATE"
+msgid "#DATE_OF_BIRTH"
+msgstr "[null]"
+
+msgctxt "Arkham/KEY_ROSTER_SERVICE_START"
+msgid "#SERVICE_START"
+msgstr "[null]"
+
+msgctxt "Arkham/KEY_ROSTER_NUMBER_OF_MISSIONS"
+msgid "#NUMBER_OF_MISSIONS"
+msgstr "[null]"
+
+msgctxt "Arkham/KEY_ROSTER_MOST_SKILLS_USED"
+msgid "#SKILLS_USED_MORE_OFTEN"
+msgstr "[null]"
+
+msgctxt "Arkham/KEY_ROSTER_FAVOURITE_WEAPONS"
+msgid "#FAVOURITE_WEAPONS"
+msgstr "[null]"
+
+msgctxt "Arkham/KEY_ROSTER_TOP_KILLED_ENEMIES"
+msgid "#TOP_KILL_ENEMEIS"
+msgstr "[null]"
+
+msgctxt "Arkham/KEY_ROSTER_ADDITIONAL_STATS"
+msgid "#ADDITIONAL_STATUSES"
+msgstr "[null]"
+
+msgctxt "Arkham/KEY_ROSTER_TIMES_WOUNDED"
+msgid "#TIMES_WOUNDED"
+msgstr "[null]"
+
+msgctxt "Arkham/KEY_ROSTER_DEATH_DATE"
+msgid "#DATE_OF_DEATH"
+msgstr "[null]"
+
+msgctxt "Arkham/KEY_ROSTER_DEATH_REASON"
+msgid "#CAUSE_OF_DEATH"
+msgstr "[null]"
+
+msgctxt "Arkham/KEY_ROSTER_MEMORIAL"
+msgid "#MEMORIAL"
+msgstr "[null]"
+
+msgctxt "Arkham/KEY_SOLDIER_STATUSES"
+msgid "STATUSES"
+msgstr "[null]"
+
+msgctxt "Arkham/KEY_ROSTER_TOTAL_KILLS"
+msgid "#TOTAL_KILLS"
+msgstr "[null]"
+
+msgctxt "Arkham/KEY_ROSTER_ORIGINAL_FACTION"
+msgid "#ORIGINAL_FACTION"
+msgstr "[null]"
+
+msgctxt "Arkham/KEY_ROSTER_MEMORIAL_RECORD"
+msgid "#MEMORIAL_RECORD"
+msgstr "[null]"
+
+msgctxt "Arkham/KEY_ROSTER_SERIVCE_END"
+msgid "#SERVICE_END"
+msgstr "[null]"
+
+msgctxt "Arkham/KEY_ROSTER_DEATH_BLED_OUT"
+msgid "#BLED_OUT"
+msgstr "[null]"
+
+msgctxt "Arkham/KEY_ROSTER_DEATH_ACID_BURNED"
+msgid "#ACID_BURNED"
+msgstr "[null]"
+
+msgctxt "Arkham/KEY_ROSTER_DEATH_POISONED"
+msgid "#POISONED"
+msgstr "[null]"
+
+msgctxt "Arkham/KEY_ROSTER_DEATH_IMMOLATED"
+msgid "#IMMOLATED"
+msgstr "[null]"
+
+msgctxt "Arkham/KEY_ROSTER_DEATH_STARVED"
+msgid "#STARVED"
+msgstr "[null]"
+
+msgctxt "Arkham/KEY_ROSTER_DEATH_FELL"
+msgid "#FELL"
+msgstr "[null]"
+
+msgctxt "Arkham/KEY_ROSTER_DEATH_GEOSCAPE_EVENT"
+msgid "#ACCIDENT"
+msgstr "[null]"
+
+msgctxt "Arkham/KEY_ROSTER_DEATH_FRIENDLY_FIRE"
+msgid "#FRIENDLY_FIRE"
+msgstr "[null]"
+
+msgctxt "Arkham/KEY_ROSTER_READY_ITEMS"
+msgid "#READY_ITEMS"
+msgstr "[null]"
+
+msgctxt "Arkham/KEY_ROSTER_MEMORIAL_TAB_DESCRIPTION"
+msgid "#DED_DUDES"
+msgstr "[null]"
+
+msgctxt "Arkham/KEY_ROSTER_ITEM_SLOT_EMPTY"
+msgid "#EMPTY"
+msgstr "[null]"
+
 msgctxt "Damage types/KEY_DAMAGE_TYPE_ACID"
 msgid "ACID"
 msgstr "酸蚀"
@@ -5035,7 +5271,7 @@ msgid "Spotting Enemies"
 msgstr "发现敌人"
 
 msgctxt "Tutorial/KEY_TUTORIAL_TACTICAL1_SPOTTING_DESCRIPTION"
-msgid "ENEMY ICONS above your action bar show all spotted enemies.[LF][LF]A RED ICON shows an enemy in direct line of sight for the selected soldier."
+msgid "ENEMY ICONS above your action bar show all spotted enemies.[LF][LF]А <color=#E51919>RED ICON</color> (<color=#E51919>:CRABMAN:</color>) shows an enemy in direct line of sight for the selected soldier."
 msgstr "位于你行动条上方的敌人图标将显示所有已经发现了的敌人。[LF][LF]红色图标表示位于所选士兵直接视线内的敌人。"
 
 msgctxt "Tutorial/KEY_TUTORIAL_TACTICAL1_SELECTION_NAME"
@@ -5203,7 +5439,7 @@ msgid "Medkits and Healing"
 msgstr "医疗包与治疗"
 
 msgctxt "Tutorial/KEY_TUTORIAL_TACTICAL2_HEALING_DESCRIPTION"
-msgid "Medkits restore Hit Points and remove Bleeding and Poison status effects.[LF][LF]A soldier must be next to the injured soldier in order to heal him.[LF][LF]SELECT THE MEDKIT[LF]Then select the USE MEDKIT icon from the Action Bar to heal your soldier.[LF]"
+msgid "Medkits restore Hit Points and remove Bleeding and Poison status effects.[LF][LF]A soldier must be next to the injured soldier in order to heal her.[LF][LF]SELECT THE MEDKIT[LF]Then select the USE MEDKIT icon from the Action Bar to heal your soldier.[LF]"
 msgstr "医疗包可以恢复生命值并移除“流血”和“中毒”状态效果。[LF][LF]使用一名士兵治疗另一名士兵时，两名士兵必须相互靠近。[LF][LF]选择医疗包[LF]然后选择行动条中的“使用医疗包”图标来治疗你的士兵。[LF]"
 
 msgctxt "Tutorial/KEY_TUTORIAL_TACTICAL2_RESCUE_NAME"
@@ -5211,7 +5447,7 @@ msgid "Rescuing Allies"
 msgstr "营救盟友"
 
 msgctxt "Tutorial/KEY_TUTORIAL_TACTICAL2_RESCUE_DESCRIPTION"
-msgid "Allied characters are rescued by moving a soldier next to them. After they are rescued, the character can be given orders along with the rest of your squad.[LF][LF]SELECT THE HEALED SOLDIER[LF]AND MOVE HIM NEXT TO YOUR ALLY[LF]"
+msgid "Allied characters are rescued by moving a soldier next to them. After they are rescued, the character can be given orders along with the rest of your squad.[LF][LF]SELECT THE HEALED SOLDIER[LF]AND MOVE HER NEXT TO YOUR ALLY[LF]"
 msgstr "将士兵移动至盟友角色旁可将其解救。盟友角色得到解救后，能够与小队其他成员一起服从命令。[LF][LF]选择已受治疗的士兵[LF]并将其移动至盟友身旁[LF]"
 
 msgctxt "Tutorial/KEY_TUTORIAL_TACTICAL2_CLASSES_NAME"
@@ -5235,7 +5471,7 @@ msgid "Status Effects"
 msgstr "状态效果"
 
 msgctxt "Tutorial/KEY_TUTORIAL_TACTICAL2_STATUS_DESCRIPTION"
-msgid "Status Effects are bonuses or penalties that affect a unit for a certain amount of time. Positive effects are usually acquired through abilities, while negative effects come from enemy weapons and abilites.[LF][LF]Bleeding is one of the most common Status Effects. Soldiers suffering from Bleeding are dealt a set amount of damage at the start of their turn equal to their Bleed level.[LF][LF]Bleeding can be cured by using a Medkit. After a mission ends, bleeding and disable limbs are cured, but Hit Points need to be restored at a base with a Medical Facility."
+msgid "Status Effects are bonuses or penalties that affect a unit for a certain amount of time. Positive effects are usually acquired through abilities, while negative effects come from enemy weapons and abilites.[LF][LF]Bleeding is one of the most common Status Effects. Soldiers suffering from Bleeding are dealt a set amount of damage at the start of their turn equal to their Bleed level.[LF][LF]Bleeding can be cured by using a Medkit. After a mission ends, bleeding and disabled limbs are cured, but Hit Points need to be restored at a base with a Medical Facility."
 msgstr "状态效果是指在一定时间内影响单位的增益或惩罚。正面效果通常通过技能获得，而负面效果则来自敌人的武器和技能。[LF][LF]“流血”是最常见的状态效果之一。受到“流血”效果影响的士兵在其回合开始时会受到其流血等级相应的固定伤害。[LF][LF]使用医疗包可以治愈流血状态。任务结束后，流血状态和损坏的身体部位均会被治愈，但生命值需要在基地的医疗设施中恢复。"
 
 msgctxt "Tutorial/KEY_TUTORIAL_TACTICAL2_OVERWATCH_NAME"
@@ -5293,6 +5529,102 @@ msgstr "麻痹和抓捕"
 msgctxt "Tutorial/KEY_TUTORIAL_CAPTURE_PARALYZE_DESCRIPTION"
 msgid "In order to capture a Pandoran you need to equip a Neurazer, move next to it and melee attack until it is paralyzed.[LF]When the PARALYSIS value is greater than the target’s Strength, the enemy is PARALYZED and will be captured at the end of the mission. Targets will lose 1 paralysis point per turn, so do not let them recover if possible.[LF]Disabling enemy body parts decreases the enemy’s overall Strength, making it easier to capture.[LF]You will need to manufacture Neurazers to equip your squad and build a containment facility to capture Pandorans."
 msgstr "在抓捕潘多拉体时，你需要装备神经剃刀，移动到其附近位置发起近战攻击，直至使之麻痹。[LF]当麻痹值高于目标力量值时，目标会被麻痹且当任务结束时会被捕捉。[LF]目标每回合会失去 1 点麻痹值，因此，需尽量阻止目标恢复麻痹值。[LF]损坏敌人身体部位会降低敌人的总力量值，从而降低捕捉难度。[LF]为抓捕潘多拉体，你需要制造神经剃刀，为你的小队装备和建造一个控制设施。"
+
+msgctxt "TutorialRoom8/KEY_TUTORIAL_TACTICAL1_MOVEMENT_DESCRIPTION_BIND_K"
+msgid "TRY THE CAMERA CONTROLS[LF]Camera movement: :LMB: + drag[LF]Camera rotation: [<color=#ECBA62>{[Rotate Left]}</color>] and [<color=#ECBA62>{[Rotate Right]}</color>][LF]Camera zoom: [<color=#ECBA62>{[Discrete Zoom In]}</color>] and [<color=#ECBA62>{[Discrete Zoom Out]}</color>], hold :MW:[LF]Floor level focus: scroll :MW: up or down[LF][LF]MOVE YOUR SOLDIER TO THE HIGHLIGHTED TILE[LF]:LMB: on the destination tile"
+msgstr "尝试视角控制[LF]视角移动：:LMB: + 拖拽[LF]视角旋转：[<color=#ECBA62>{[Rotate Left]}</color>] 和 [<color=#ECBA62>{[Rotate Right]}</color>][LF]视角缩放：[<color=#ECBA62>{[Discrete Zoom In]}</color>] 和 [<color=#ECBA62>{[Discrete Zoom Out]}</color>]，按住 :MW:[LF]楼层聚焦：向上或向下滚动 :MW: [LF][LF]将你的士兵移动至高亮显示的方格处[LF]:LMB: 点击目标方格"
+
+msgctxt "TutorialRoom8/KEY_TUTORIAL_TACTICAL1_SELECTION_DESCRIPTION_K"
+msgid "SELECT YOUR SOLDIER[LF]:LMB: on the soldier"
+msgstr "选择你的士兵[LF]:LMB: 点击士兵"
+
+msgctxt "TutorialRoom8/KEY_TUTORIAL_TACTICAL1_AP_PART2_DESCRIPTION_K"
+msgid "Action controls[LF][LF]Select Action: :LMB: on the action icon[LF]Perform Action: :LMB: on the action button or icon[LF][LF]Movement: :LMB: then select MOVE to go to the Selection Marker location[LF]Direct Movement: :RMB: to go directly to the Selection Marker location"
+msgstr "行动控制[LF][LF]选择行动：:LMB: 点击行动图标[LF]执行行动：:LMB: 点击行动按钮或图标[LF][LF]移动：:LMB: 然后选择“移动”即可前往选择标记位置[LF]直接移动：:RMB: 直接前往选择标记位置"
+
+msgctxt "TutorialRoom8/KEY_TUTORIAL_TACTICAL1_SHOOTING_DESCRIPTION_K"
+msgid "The Health Bar indicates the current Hit Points. The Armor pips to the right show the amount of damage prevented for each shot.[LF][LF]When targeting an enemy, the amount of damage from an attack is shown on the health bar. The whiter the damage prediction, the more likely it is.[LF][LF]SELECT \"\"FIRE WEAPON\"\"[LF]:LMB: on the \"\"Fire Weapon\"\" icon[LF][LF]FIRE AT THE ENEMY[LF]:LMB: on the \"\"FIRE WEAPON\"\" button[LF]"
+msgstr "健康条代表当前生命值。健康条右侧的护甲表示每次受到射击时可减免的伤害。[LF][LF]瞄准敌人时，攻击的伤害数值将显示在健康条上。伤害预测颜色越白，造成该数值伤害的可能性就越大。[LF][LF]选择“发射武器”[LF]:LMB: 点击“发射武器”图标[LF][LF]向敌人开火[LF]:LMB: 点击“发射武器”按钮"
+
+msgctxt "TutorialRoom8/KEY_TUTORIAL_TACTICAL1_STANDBY_DESCRIPTION_BIND_K"
+msgid "Once a soldier is out of APs he enters Standby Mode and the next soldier is selected. If there are no soldiers with APs remaining your turn ends. [LF][LF]You can order a soldier to enter Standby Mode by using the [<color=#ECBA62>{[SetEndTurnAbility]}</color>] or selecting the icon from the Action Bar[LF][LF]SELECT STANDBY MODE[LF]"
+msgstr "一名士兵用完行动点数之后便会进入预备模式，并且会选中下一名士兵。所有士兵都没有剩余行动点数时，你的回合结束。[LF][LF]你可以按 [<color=#ECBA62>{[SetEndTurnAbility]}</color>] 键，或在行动条中选择相应图标来命令士兵进入预备模式。[LF][LF]选择预备模式"
+
+msgctxt "TutorialRoom8/KEY_TUTORIAL_TACTICAL1_TURNS_DESCRIPTION_BIND_K"
+msgid "You can end your turn at any time by pressing the END TURN button on the screen or the [<color=#ECBA62>{[EndTurn]}</color>] key"
+msgstr "你可以随时点击屏幕上的“结束回合”按钮，或按 [<color=#ECBA62>{[EndTurn]}</color>] 键来结束你的回合"
+
+msgctxt "TutorialRoom8/KEY_TUTORIAL_TACTICAL1_FREE_AIM_DESCRIPTION_K"
+msgid "Free Aim allows you to target a body part and see the effects of disabling the body part.[LF][LF]Each body part has its own Hit Points and Armor value. Damage prediction is also shown for the targeted body part.[LF][LF]The outer blue circle shows you where all your shots will land. The more accurate the weapon, the smaller the circle.[LF][LF]FREE AIM CONTROLS[LF]Enter Free Aim: Press the Free Aim icon or scroll :MW:[LF]Move Crosshair: move the Mouse[LF]Zoom in/Out: scroll :MW:[LF]Exit Free Aim: ESC[LF][LF]ENTER FREE AIM MODE AND SHOOT THE ENEMY"
+msgstr "自由瞄准能够使你以某个身体部位为目标，并且可以看到该部位损坏后的影响。[LF][LF]每一个身体部位都拥有各自的生命值和护甲值。目标身体部位还会显示伤害预测。[LF][LF]外侧蓝圈表示所有子弹的最终落点。武器准度越高，圆圈就越小。[LF][LF]自由瞄准控制[LF]进入自由瞄准：点击“自由瞄准”图标或滚动 :MW:[LF]移动准星：移动鼠标[LF]放大/缩进：滚动 :MW:[LF]退出自由瞄准：ESC[LF][LF]进入自由瞄准模式并射击敌人"
+
+msgctxt "TutorialRoom8/KEY_TUTORIAL_TACTICAL2_INVENTORY_DESCRIPTION_BIND_K"
+msgid "The Inventory shows everything carried by a soldier, and items on the ground or in adjacent crates.[LF][LF]ENCUMBRANCE[LF]If the weight of all carried items and armor is greater than the soldier's Strength then the soldier suffers a movement penalty.[LF][LF]ACCESS THE INVENTORY[LF]Press the inventory icon or the [<color=#ECBA62>{[SetInventoryAbility]}</color>] key"
+msgstr "物品栏显示士兵携带的所有物品，以及地上和相邻箱子中的物品。[LF][LF]负重[LF]如果所有携带的物品和护甲的重量之和大于士兵的力量，则士兵将受到移动惩罚。[LF][LF]打开物品栏[LF]点击物品栏图标或按 [<color=#ECBA62>{[SetInventoryAbility]}</color>] 键"
+
+msgctxt "TutorialRoom8/KEY_TUTORIAL_TACTICAL2_READY_ITEMS_DESCRIPTION_BIND_K"
+msgid "Items in the ready section of the inventory are shown in the Ready Items Bar. They can be selected for use without an AP cost.[LF][LF]READY ITEMS BAR CONTROLS[LF]Select item: Use :LMB: on the item's icon or keys <color=#ECBA62>[{[TacSelectItem1]}], [{[TacSelectItem2]}], [{[TacSelectItem3]}] or [{[TacSelectItem4]}]</color>[LF]Select next item: <color=#ECBA62>[{[CycleWeapons]}]</color> key[LF][LF]SELECT THE GRENADE"
+msgstr "位于物品栏就绪区域的物品将显示在就绪物品条中。选择并使用这些物品不会消耗行动点数。[LF][LF]就绪物品条控制[LF]选择物品：:LMB: 点击物品图标或按 <color=#ECBA62>[{[TacSelectItem1]}]、[{[TacSelectItem2]}]、[{[TacSelectItem3]}] 或 [{[TacSelectItem4]}]</color> 键[LF]选择下一物品：按 <color=#ECBA62>[{[CycleWeapons]}]</color> 键[LF][LF]选择手雷"
+
+msgctxt "TutorialRoom8/KEY_TUTORIAL_TACTICAL2_GRENADE_DESCRIPTION_K"
+msgid "Grenades do area damage around the spot where they land. An orange sphere shows the area of effect. The distance at which a grenade can be thrown depends on the soldier's Strength and abilities.[LF][LF]SELECT THE \"\"THROW GRENADE\"\" ACTION[LF]Then target the space between the two enemies.[LF][LF]Throw the grenade with :LMB:"
+msgstr "手雷可对落点周围造成范围伤害。有效范围将以橙色球体显示。手雷的投掷距离取决于士兵的力量和技能。[LF][LF]选择“投掷手雷”行动[LF]然后瞄准两个敌人之间的空隙。[LF][LF]按 :LMB: 投掷手雷"
+
+msgctxt "TutorialRoom8/KEY_TUTORIAL_TACTICAL2_OVERWATCH_DESCRIPTION_BIND_K"
+msgid "The Overwatch ability allows soldiers to guard an area during the enemy’s turn. If an enemy enters the Overwatch cone, it is attacked automatically.[LF][LF]OVERWATCH CONTROLS[LF]Enter Overwatch mode: Select the Overwatch icon from the Action Bar or press [<color=#ECBA62>{[SetOverwatchAbility]}</color>][LF]Select target position: Move Mouse[LF]Change width of overwatch zone: CTRL + :MW:[LF]Confirm Overwatch: :LMB:[LF][LF]MOVE YOUR SOLDIER AND SET OVERWATCH[LF]:LMB: on the highlighted target position towards the two approaching enemies."
+msgstr "警戒技能可以让士兵在敌人的回合中守卫某片区域。如果敌人进入了锥形警戒区，士兵将会自动发起攻击。[LF][LF]警戒控制[LF]进入警戒模式：选择行动条中的“警戒”图标，或按 [<color=#ECBA62>{[SetOverwatchAbility]}</color>] 键[LF]选择目标位置：移动鼠标[LF]变更警戒区范围：Ctrl + :MW: [LF]确认警戒：:LMB:[LF][LF]移动士兵并设置警戒[LF]面朝正在接近的两名敌人，:LMB: 点击高亮显示的目标位置。"
+
+msgctxt "TutorialRoom8/KEY_TUTORIAL_TACTICAL1_MOVEMENT_DESCRIPTION_BIND_C"
+msgid "TRY THE CAMERA CONTROLS[LF]Camera movement: :RTS:[LF]Camera rotation: :DLEFT: and :DRIGHT:[LF]Camera zoom: :LT:[LF]Floor level focus: :DUP: and :DDOWN:[LF][LF]MOVE YOUR SOLDIER TO THE HIGHLIGHTED TILE[LF]:RTS: on the destination tile and press :A:"
+msgstr "尝试视角控制[LF]视角移动：:RTS:[LF]视角旋转：:DLEFT: 和 :DRIGHT:[LF]视角缩放：:LT:[LF]楼层聚焦： :DUP: 和 :DDOWN:[LF][LF]将你的士兵移动至高亮显示的方格处[LF]:RTS: 至目标方格并按 :A:"
+
+msgctxt "TutorialRoom8/KEY_TUTORIAL_TACTICAL1_SELECTION_DESCRIPTION_BIND_C"
+msgid "SELECT YOUR SOLDIER[LF]Move the Selection Marker with the gamepad onto the soldier and press :A:"
+msgstr "选择你的士兵[LF]使用手柄移动选择标记至士兵身上并按 :A:"
+
+msgctxt "TutorialRoom8/KEY_TUTORIAL_TACTICAL1_AP_PART2_DESCRIPTION_C"
+msgid "Action controls[LF][LF]Select Action: Use :RT: to enter the Action Bar and :DLEFT: and :DRIGHT: to select, and :A: to perform action.[LF][LF]Movement: :A: then select MOVE to go to the Selection Marker location"
+msgstr "行动控制[LF][LF]选择行动：使用 :RT: 进入行动条，用 :DLEFT: 和 :DRIGHT: 进行选择，并按 :A: 执行。[LF][LF]移动：按 :A: 然后选择“移动”即可前往选择标记位置"
+
+msgctxt "TutorialRoom8/KEY_TUTORIAL_TACTICAL1_SHOOTING_DESCRIPTION_C"
+msgid "The Health Bar indicates the current Hit Points. The Armor pips to the right show the amount of damage prevented for each shot.[LF][LF]When targeting an enemy, the amount of damage from an attack is shown on the health bar. The whiter the damage prediction, the more likely it is.[LF][LF]SELECT \"\"FIRE WEAPON\"\"[LF]:RT:[LF][LF]FIRE AT THE ENEMY[LF]:RT:[LF]"
+msgstr "健康条代表当前生命值。健康条右侧的护甲表示每次受到射击时可减免的伤害。[LF][LF]瞄准敌人时，攻击的伤害数值将显示在健康条上。伤害预测颜色越白，造成该数值伤害的可能性就越大。[LF][LF]选择“发射武器”[LF]:RT:[LF][LF]向敌人开火[LF]:RT:"
+
+msgctxt "TutorialRoom8/KEY_TUTORIAL_TACTICAL1_STANDBY_DESCRIPTION_BIND_C"
+msgid "Once a soldier is out of APs he enters Standby Mode and the next soldier is selected. If there are no soldiers with APs remaining your turn ends. [LF][LF]You can order a soldier to enter Standby Mode by selecting the icon from the Action Bar or using :B:[LF][LF]SELECT STANDBY MODE[LF]"
+msgstr "一名士兵用完行动点数之后便会进入预备模式，并且会选中下一名士兵。所有士兵都没有剩余行动点数时，你的回合结束。[LF][LF]你可以在行动条中选择相应图标，或是按 :B: 来命令士兵进入预备模式。[LF][LF]选择预备模式"
+
+msgctxt "TutorialRoom8/KEY_TUTORIAL_TACTICAL1_TURNS_DESCRIPTION_BIND_C"
+msgid "You can end your turn at any time by pressing :BACK:. "
+msgstr "你可以在任何时候按 :BACK: 结束你的回合。"
+
+msgctxt "TutorialRoom8/KEY_TUTORIAL_TACTICAL1_FREE_AIM_DESCRIPTION_C"
+msgid "Free Aim allows you to target a body part and see the effects of disabling the body part.[LF][LF]Each body part has its own Hit Points and Armor value. Damage prediction is also shown for the targeted body part.[LF][LF]The outer blue circle shows you where all your shots will land. The more accurate the weapon, the smaller the circle.[LF][LF]FREE AIM CONTROLS[LF]Enter Free Aim: :RTS:[LF]Move Crosshair: :LTS:[LF]Zoom in/Out: :RTS:[LF]Exit Free Aim: :B:[LF][LF]ENTER FREE AIM MODE AND SHOOT THE ENEMY"
+msgstr "自由瞄准能够使你以某个身体部位为目标，并且可以看到该部位损坏后的影响。[LF][LF]每一个身体部位都拥有各自的生命值和护甲值。目标身体部位还会显示伤害预测。[LF][LF]外侧蓝圈表示所有子弹的最终落点。武器准度越高，圆圈就越小。[LF][LF]自由瞄准控制[LF]进入自由瞄准： :RTS:[LF]移动准星： :LTS:[LF]放大/缩进：:RTS:[LF]退出自由瞄准：:B:[LF][LF]进入自由瞄准模式并射击敌人"
+
+msgctxt "TutorialRoom8/KEY_TUTORIAL_TACTICAL2_INVENTORY_DESCRIPTION_BIND_C"
+msgid "The Inventory shows everything carried by a soldier, and items on the ground or in adjacent crates.[LF][LF]ENCUMBRANCE[LF]If the weight of all carried items and armor is greater than the soldier's Strength then the soldier suffers a movement penalty.[LF][LF]ACCESS THE INVENTORY[LF]Press :R3:"
+msgstr "物品栏显示士兵携带的所有物品，以及地上和相邻箱子中的物品。[LF][LF]负重[LF]如果所有携带的物品和护甲的重量之和大于士兵的力量，则士兵将受到移动惩罚。[LF][LF]打开物品栏[LF]按 :R3: 。"
+
+msgctxt "TutorialRoom8/KEY_TUTORIAL_TACTICAL2_READY_ITEMS_DESCRIPTION_BIND_C"
+msgid "Items in the ready section of the inventory are shown in the Ready Items Bar. They can be selected for use without an AP cost.[LF][LF]READY ITEMS BAR CONTROLS[LF][LF]Select next item: :X:[LF][LF]SELECT THE GRENADE"
+msgstr "物品栏中准备就绪的物品将显示在“就绪”物品条中。选中并使用这些物品不会消耗行动点数。[LF][LF]就绪物品条控制[LF][LF]选择下一物品： :X:[LF][LF]选择手雷"
+
+msgctxt "TutorialRoom8/KEY_TUTORIAL_TACTICAL2_GRENADE_DESCRIPTION_C"
+msgid "Grenades do area damage around the spot where they land. An orange sphere shows the area of effect. The distance at which a grenade can be thrown depends on the soldier's Strength and abilities.[LF][LF]SELECT THE \"\"THROW GRENADE\"\" ACTION[LF]Then target the space between the two enemies.[LF][LF]Throw grenade :A:"
+msgstr "手雷可对落点周围造成范围伤害。有效范围将以橙色球体显示。手雷的投掷距离取决于士兵的力量和技能。[LF][LF]选择“投掷手雷”行动[LF]然后瞄准两个敌人之间的空隙。[LF][LF]投掷手雷 :A:"
+
+msgctxt "TutorialRoom8/KEY_TUTORIAL_TACTICAL2_OVERWATCH_DESCRIPTION_BIND_C"
+msgid "The Overwatch ability allows soldiers to guard an area during the enemy’s turn. If an enemy enters the Overwatch cone, it is attacked automatically.[LF][LF]OVERWATCH CONTROLS[LF]Enter Overwatch mode: Select the Overwatch icon from the Action Bar, or press :Y:[LF]Select target position: :LTS:[LF]Change width of overwatch zone: :LB: and :RB:[LF]Confirm Overwatch: :A:[LF][LF]MOVE YOUR SOLDIER AND SET OVERWATCH[LF]:A: on the highlighted target position towards the two approaching enemies."
+msgstr "警戒技能可以让士兵在敌人的回合中守卫某片区域。如果敌人进入了锥形警戒区，士兵将会自动发起攻击。[LF][LF]警戒控制[LF]进入警戒模式：选择行动条中的“警戒”图标，或按 :Y: [LF]选择目标位置： :LTS:[LF]变更警戒区范围 :LB: 和 :RB:[LF]确认警戒： :A:[LF][LF]移动士兵并设置警戒[LF]面朝正在接近的两名敌人，在高亮目标位置按 :A:。"
+
+msgctxt "Tutorial 2 to 4/KEY_TUT_TUT2_START_NAME"
+msgid "TUTORIAL 2"
+msgstr "[null]"
+
+msgctxt "Tutorial 2 to 4/KEY_TUT_TUT2_START_DESC"
+msgid "Welcome to the start of tutorial 2"
+msgstr "[null]"
 
 msgctxt "Phoenixpedia/KEY_PHOENIXPEDIA_SECTION_GUIDE"
 msgid "GUIDE"
@@ -7891,12 +8223,12 @@ msgid "OVERWRITE"
 msgstr "覆盖"
 
 msgctxt "Options Screen/KEY_OPTIONS_QUIT_DESCRIPTION"
-msgid "Quit to Desktop"
-msgstr "退至桌面"
+msgid "Quit Game"
+msgstr "退出游戏"
 
 msgctxt "Options Screen/KEY_OPTIONS_QUIT_NAME"
-msgid "QUIT TO DESKTOP"
-msgstr "退至桌面"
+msgid "QUIT GAME"
+msgstr "退出游戏"
 
 msgctxt "Options Screen/KEY_OPTIONS_RESTORE"
 msgid "RESTORE DEFAULTS"
@@ -11211,8 +11543,8 @@ msgid "SELECT"
 msgstr "选择"
 
 msgctxt "Geoscape/KEY_GEOSCAPE_EXIT"
-msgid "EXIT"
-msgstr "退出"
+msgid "QUIT GAME"
+msgstr "退出游戏"
 
 msgctxt "Geoscape/KEY_GEOSCAPE_SITES_REVEALED"
 msgid "Sites added to geoscape: {0} {1}"
@@ -13063,7 +13395,7 @@ msgid "SPAWNERY"
 msgstr "产卵腔"
 
 msgctxt "Characters and classes/KEY_ARMADILLO_DESCRIPTION"
-msgid "New Jericho Armadillo Ground Vehiclle"
+msgid "New Jericho Armadillo Ground Vehicle"
 msgstr "新耶利哥犰狳陆地载具"
 
 msgctxt "Characters and classes/KEY_ARMADILLO_NAME"
