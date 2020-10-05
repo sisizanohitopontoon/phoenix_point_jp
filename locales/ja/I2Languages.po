@@ -3,8 +3,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2020-10-04 12:26+0000\n"
-"Last-Translator: sisizanohito <sisizanohito@gmail.com>\n"
+"PO-Revision-Date: 2020-10-05 12:23+0000\n"
+"Last-Translator: higema <ltdhyndsh@yahoo.co.jp>\n"
 "Language-Team: \n"
 "Language: ja\n"
 "MIME-Version: 1.0\n"
@@ -375,7 +375,6 @@ msgctxt "PH_Localization/KEY_OK"
 msgid "OK"
 msgstr "OK"
 
-#, fuzzy
 #| msgctxt "Tutorial/KEY_TUTORIAL_TACTICAL1_MOVEMENT_DESCRIPTION_BIND"
 #| msgid ""
 #| "TRY THE CAMERA CONTROLS[LF]Camera movement: :LMB: + drag or use gamepad :RTS:[LF]Camera rotation: [<color=#ECBA62>{[Rotate Left]}</color>] and [<color=#ECBA62>{[Rotate Right]}</color>] or use "
@@ -2002,12 +2001,11 @@ msgctxt "DLC2 Necronomicon/KEY_GEOSCAPE_MESSAGE_EXCAVATION"
 msgid "Phoenix Point will excavate the ancient ruins in {0} hours"
 msgstr ""
 
-#, fuzzy
 #| msgctxt "Cthulhu/KEY_CHARACTERNAME_SIRENPRAETORIAN"
 #| msgid "SIREN PRAETORIAN"
 msgctxt "DLC2 Necronomicon/KEY_TRITON_PRAETORIAN"
 msgid "TRITON PRAETORIAN"
-msgstr "サイレン プラエトリアン"
+msgstr "トリトン プラエトリアン"
 
 msgctxt "Polaris - New Weapons/KEY_FS_SHIELD_NAME"
 msgid "Riot Shield"
@@ -2025,19 +2023,17 @@ msgctxt "Polaris - New Weapons/KEY_FS_HEAVY_NAME"
 msgid "Autocannon"
 msgstr ""
 
-#, fuzzy
 #| msgctxt "Blood Titanium/KEY_ARTHRON_ACID_GRENADE_ARM_DESCRIPTION"
 #| msgid "Organic Grenade Launcher"
 msgctxt "Polaris - New Weapons/KEY_FS_AGL_NAME"
 msgid "Assault Grenade Launcher"
-msgstr "オーガニックグレネードランチャー"
+msgstr "アサルト グレネードランチャー"
 
-#, fuzzy
 #| msgctxt "Equipment/KEY_SY_SONIC_GRENADE_NAME"
 #| msgid "Kydoimos Grenade"
 msgctxt "Polaris - New Weapons/KEY_FS_GRENADE_NAME"
 msgid "Biogas Grenade"
-msgstr "キディモウス グレネード"
+msgstr "バイオガス グレネード"
 
 msgctxt "Polaris - New Weapons/KEY_FS_LAUNCHER_NAME"
 msgid "Biogas Launcher"
@@ -2059,93 +2055,81 @@ msgctxt "Polaris - New Weapons/KEY_FS_HEAVY_DESCRIPTION"
 msgid "Autocannon"
 msgstr ""
 
-#, fuzzy
 #| msgctxt "Blood Titanium/KEY_ARTHRON_ACID_GRENADE_ARM_DESCRIPTION"
 #| msgid "Organic Grenade Launcher"
 msgctxt "Polaris - New Weapons/KEY_FS_AGL_DESCRIPTION"
 msgid "Assault Grenade Launcher"
-msgstr "オーガニックグレネードランチャー"
+msgstr "アサルト グレネードランチャー"
 
-#, fuzzy
 #| msgctxt "Equipment/KEY_SY_SONIC_GRENADE_NAME"
 #| msgid "Kydoimos Grenade"
 msgctxt "Polaris - New Weapons/KEY_FS_GRENADE_DESCRIPTION"
 msgid "Biogas Grenade"
-msgstr "キディモウス グレネード"
+msgstr "バイオガス グレネード"
 
 msgctxt "Polaris - New Weapons/KEY_FS_LAUNCHER_DESCRIPTION"
 msgid "Biogas Launcher"
 msgstr ""
 
-#, fuzzy
 #| msgctxt "Equipment/KEY_AMMO_SY_NEURAL_PISTOL_NAME"
 #| msgid "Hera NP-1 Magazine"
 msgctxt "Polaris - New Weapons/KEY_FS_AMMO_SNIPER_NAME"
 msgid "Hawk-41K Magazine"
-msgstr "ヘラNP-1 マガジン"
+msgstr "ホーク-4 1K マガジン"
 
-#, fuzzy
 #| msgctxt "Equipment/KEY_AMMO_SHOTGUN_DESCRIPTION"
 #| msgid "Phoenix Shotgun Magazine"
 msgctxt "Polaris - New Weapons/KEY_FS_AMMO_SHOTGUN_NAME"
 msgid "Slamstrike Shotgun Magazine"
-msgstr "フェニックス ショットガン マガジン"
+msgstr "スラムストライク ショットガン マガジン"
 
-#, fuzzy
 #| msgctxt "Equipment/KEY_PX_AMMO_HEAVY_CANNON_NAME"
 #| msgid "Hel II Cannon Magazine"
 msgctxt "Polaris - New Weapons/KEY_FS_AMMO_HEAVY_NAME"
 msgid "Autocannon Magazine"
-msgstr "ヘルIIキャノン マガジン"
+msgstr "オートキャノン マガジン"
 
-#, fuzzy
 #| msgctxt "Equipment/KEY_AMMO_GRENADE_LAUNCHER_DESCRIPTION"
 #| msgid "Phoenix Grenade Launcher Magazine"
 msgctxt "Polaris - New Weapons/KEY_FS_AMMO_AGL_NAME"
 msgid "Assault Grenade Launcher Magazine"
-msgstr "フェニックス グレネードランチャー マガジン"
+msgstr "アサルト グレネードランチャー マガジン"
 
-#, fuzzy
 #| msgctxt "Equipment/KEY_AMMO_GRENADE_LAUNCHER_DESCRIPTION"
 #| msgid "Phoenix Grenade Launcher Magazine"
 msgctxt "Polaris - New Weapons/KEY_FS_AMMO_LAUNCHER_NAME"
 msgid "Biogas Launcher Magazine"
-msgstr "フェニックス グレネードランチャー マガジン"
+msgstr "バイオガス ランチャー マガジン"
 
-#, fuzzy
 #| msgctxt "Equipment/KEY_AMMO_SY_NEURAL_PISTOL_NAME"
 #| msgid "Hera NP-1 Magazine"
 msgctxt "Polaris - New Weapons/KEY_FS_AMMO_SNIPER_DESCRIPTION"
 msgid "Hawk-41K Magazine"
-msgstr "ヘラNP-1 マガジン"
+msgstr "ホーク-4 1K マガジン"
 
-#, fuzzy
 #| msgctxt "Equipment/KEY_AMMO_SHOTGUN_DESCRIPTION"
 #| msgid "Phoenix Shotgun Magazine"
 msgctxt "Polaris - New Weapons/KEY_FS_AMMO_SHOTGUN_DESCRIPTION"
 msgid "Slamstrike Shotgun Magazine"
-msgstr "フェニックス ショットガン マガジン"
+msgstr "スラムストライク ショットガン マガジン"
 
-#, fuzzy
 #| msgctxt "Equipment/KEY_PX_AMMO_HEAVY_CANNON_NAME"
 #| msgid "Hel II Cannon Magazine"
 msgctxt "Polaris - New Weapons/KEY_FS_AMMO_HEAVY_DESCRIPTION"
 msgid "Autocannon Magazine"
-msgstr "ヘルIIキャノン マガジン"
+msgstr "オートキャノン マガジン"
 
-#, fuzzy
 #| msgctxt "Equipment/KEY_AMMO_GRENADE_LAUNCHER_DESCRIPTION"
 #| msgid "Phoenix Grenade Launcher Magazine"
 msgctxt "Polaris - New Weapons/KEY_FS_AMMO_AGL_DESCRIPTION"
 msgid "Assault Grenade Launcher Magazine"
-msgstr "フェニックス グレネードランチャー マガジン"
+msgstr "アサルト グレネードランチャー マガジン"
 
-#, fuzzy
 #| msgctxt "Equipment/KEY_AMMO_GRENADE_LAUNCHER_DESCRIPTION"
 #| msgid "Phoenix Grenade Launcher Magazine"
 msgctxt "Polaris - New Weapons/KEY_FS_AMMO_LAUNCHER_DESCRIPTION"
 msgid "Biogas Launcher Magazine"
-msgstr "フェニックス グレネードランチャー マガジン"
+msgstr "バイオガス ランチャー マガジン"
 
 msgctxt "Darleth/KEY_TRADE_HAVEN"
 msgid "TRADE RESOURCES WITH {0}"
@@ -4738,12 +4722,11 @@ msgctxt "Abilities/KEY_QUEEN_LEAP_DESCRIPTION"
 msgid "Leap to target location, destroying everything along the path"
 msgstr "途中にあるもの全てを破壊しながら 目標位置に跳躍する"
 
-#, fuzzy
 #| msgctxt "Controls/KEY_CONTROLS_GEOSCAPE_LB"
 #| msgid "NEXT AIRCRAFT"
 msgctxt "Arkham/KEY_OWNED_AIRCRAFTS"
 msgid "OWNED AIRCRAFT"
-msgstr "次の航空機へ"
+msgstr "所有している航空機"
 
 msgctxt "Arkham/KEY_SOLDIER_DISMISS"
 msgid "DISMISS"
@@ -4753,12 +4736,11 @@ msgctxt "Arkham/KEY_ROSTER_STATISTICS"
 msgid "#STATISTICS"
 msgstr ""
 
-#, fuzzy
 #| msgctxt "Abilities/KEY_INFILTRATOR_STEALTH_NAME"
 #| msgid "STEALTH"
 msgctxt "Arkham/KEY_ROSTER_STAT_STEALTH"
 msgid "#STEALTH"
-msgstr "ステルス"
+msgstr "#ステルス"
 
 msgctxt "Arkham/KEY_ROSTER_SERVICE_RECORD"
 msgid "#SERVICE_RECORD"
@@ -4783,12 +4765,11 @@ msgctxt "Arkham/KEY_ROSTER_MOST_SKILLS_USED"
 msgid "#SKILLS_USED_MORE_OFTEN"
 msgstr ""
 
-#, fuzzy
 #| msgctxt "Equipping Screen/KEY_ITEM_TYPE_MOUNTED"
 #| msgid "MOUNTED WEAPON"
 msgctxt "Arkham/KEY_ROSTER_FAVOURITE_WEAPONS"
 msgid "#FAVOURITE_WEAPONS"
-msgstr "マウント式ウェポン"
+msgstr "#よく使う武器"
 
 #, fuzzy
 #| msgctxt "Objectives/KEY_OBJECTIVE_KILL_ENEMIES"
