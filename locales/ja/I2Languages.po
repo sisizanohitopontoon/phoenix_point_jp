@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2020-10-05 12:23+0000\n"
+"PO-Revision-Date: 2020-10-05 12:28+0000\n"
 "Last-Translator: higema <ltdhyndsh@yahoo.co.jp>\n"
 "Language-Team: \n"
 "Language: ja\n"
@@ -4797,19 +4797,17 @@ msgctxt "Arkham/KEY_ROSTER_DEATH_REASON"
 msgid "#CAUSE_OF_DEATH"
 msgstr ""
 
-#, fuzzy
 #| msgctxt "Geoscape/KEY_GEOSCAPE_MATERIALS"
 #| msgid "MATERIALS"
 msgctxt "Arkham/KEY_ROSTER_MEMORIAL"
 msgid "#MEMORIAL"
-msgstr "マテリアル"
+msgstr "#メモリアル"
 
-#, fuzzy
 #| msgctxt "Geoscape/KEY_STATUS_SOLO"
 #| msgid "STATUS"
 msgctxt "Arkham/KEY_SOLDIER_STATUSES"
 msgid "STATUSES"
-msgstr "ステータス"
+msgstr "#ステータス"
 
 msgctxt "Arkham/KEY_ROSTER_TOTAL_KILLS"
 msgid "#TOTAL_KILLS"
@@ -4819,12 +4817,11 @@ msgctxt "Arkham/KEY_ROSTER_ORIGINAL_FACTION"
 msgid "#ORIGINAL_FACTION"
 msgstr ""
 
-#, fuzzy
 #| msgctxt "Missions/KEY_MISSION_STEAL_MATERIALS_VICTORY_NAME"
 #| msgid "MATERIALS SECURED"
 msgctxt "Arkham/KEY_ROSTER_MEMORIAL_RECORD"
 msgid "#MEMORIAL_RECORD"
-msgstr "マテリアルは確保された"
+msgstr "#メモリアルレコード"
 
 msgctxt "Arkham/KEY_ROSTER_SERIVCE_END"
 msgid "#SERVICE_END"
@@ -4834,19 +4831,17 @@ msgctxt "Arkham/KEY_ROSTER_DEATH_BLED_OUT"
 msgid "#BLED_OUT"
 msgstr ""
 
-#, fuzzy
 #| msgctxt "Abilities/KEY_WORM_ACID_EXPLODE_NAME"
 #| msgid "ACID BURST"
 msgctxt "Arkham/KEY_ROSTER_DEATH_ACID_BURNED"
 msgid "#ACID_BURNED"
-msgstr "アシッドバースト"
+msgstr "#酸で灼かれた"
 
-#, fuzzy
 #| msgctxt "Character Status/KEY_POISON_STATUS_NAME"
 #| msgid "POISONED"
 msgctxt "Arkham/KEY_ROSTER_DEATH_POISONED"
 msgid "#POISONED"
-msgstr "毒"
+msgstr "#毒を受けた"
 
 msgctxt "Arkham/KEY_ROSTER_DEATH_IMMOLATED"
 msgid "#IMMOLATED"
@@ -4868,12 +4863,11 @@ msgctxt "Arkham/KEY_ROSTER_DEATH_FRIENDLY_FIRE"
 msgid "#FRIENDLY_FIRE"
 msgstr ""
 
-#, fuzzy
 #| msgctxt "Equipment/KEY_INVENTORY_IN_READY_ITEMS"
 #| msgid "IN READY ITEMS"
 msgctxt "Arkham/KEY_ROSTER_READY_ITEMS"
 msgid "#READY_ITEMS"
-msgstr "レディアイテム内"
+msgstr "#レディアイテム"
 
 msgctxt "Arkham/KEY_ROSTER_MEMORIAL_TAB_DESCRIPTION"
 msgid "#DED_DUDES"
