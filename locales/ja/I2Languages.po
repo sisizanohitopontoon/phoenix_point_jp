@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2020-10-05 13:34+0000\n"
+"PO-Revision-Date: 2020-10-05 13:37+0000\n"
 "Last-Translator: higema <ltdhyndsh@yahoo.co.jp>\n"
 "Language-Team: \n"
 "Language: ja\n"
@@ -219,7 +219,7 @@ msgstr "兵士"
 
 msgctxt "PH_Localization/KEY_ROSTER_TAB_VEHICLES_TT"
 msgid "Ground vehicles"
-msgstr "地上車両"
+msgstr "陸上車両"
 
 msgctxt "PH_Localization/KEY_ROSTER_TAB_ALIENS_TT"
 msgid "Captured Pandorans"
@@ -5310,7 +5310,7 @@ msgid ""
 "The personnel roster shows all your soldiers and ground vehicles, wherever they are located.[LF][LF]You can transfer soldiers by selecting the location button on the right side of each soldier's "
 "list entry.[LF][LF]You can customize your soldiers' appearance and voice by selecting the customizarion icon to the right of the soldier's name.[LF][LF]SELECT THE \"\"PERSONNEL\"\" BUTTON AND GO TO "
 "THE \"\"EQUIPMENT\"\" SECTION"
-msgstr "人材リストでは、その所在地に関わらず全ての兵士と地上車両が表示されます。[LF][LF]各兵士のエントリーの右側にある場所ボタンを選択すると、兵士を転送できます。[LF][LF]兵士の名前の右側にあるカスタマイズアイコンを選択すると、兵士の外見と声をカスタマイズできます。[LF][LF]\"\"人材\"\"ボタンを選択し、\"装備\"セクションに移動してください。"
+msgstr "人材リストでは、その所在地に関わらず全ての兵士と陸上車両が表示されます。[LF][LF]各兵士のエントリーの右側にある場所ボタンを選択すると、兵士を転送できます。[LF][LF]兵士の名前の右側にあるカスタマイズアイコンを選択すると、兵士の外見と声をカスタマイズできます。[LF][LF]\"\"人材\"\"ボタンを選択し、\"装備\"セクションに移動してください。"
 
 msgctxt "Tutorial/KEY_TUTORIAL_EQUIPMENT_NAME"
 msgid "Equipping your soldiers"
@@ -6073,12 +6073,11 @@ msgctxt "Tutorial 2 to 4/KEY_TUT_TUT2_START_NAME"
 msgid "TUTORIAL 2"
 msgstr "チュートリアル 2"
 
-#, fuzzy
 #| msgctxt "Achievements/ACHIEVEMENT_48_DESC"
 #| msgid "Complete the tutorial "
 msgctxt "Tutorial 2 to 4/KEY_TUT_TUT2_START_DESC"
 msgid "Welcome to the start of tutorial 2"
-msgstr "チュートリアルを完了する"
+msgstr "チュートリアル2の開始へようこそ"
 
 msgctxt "Phoenixpedia/KEY_PHOENIXPEDIA_SECTION_GUIDE"
 msgid "GUIDE"
@@ -8768,12 +8767,11 @@ msgctxt "Options Screen/KEY_OPTIONS_OVERWRITE_NAME"
 msgid "OVERWRITE"
 msgstr "上書き"
 
-#, fuzzy
 #| msgctxt "Options Screen/KEY_OPTIONS_RESUME_DESCRIPTION"
 #| msgid "Return to Game"
 msgctxt "Options Screen/KEY_OPTIONS_QUIT_DESCRIPTION"
 msgid "Quit Game"
-msgstr "ゲームに戻る"
+msgstr "ゲームを終了する"
 
 #| msgctxt "Opening Screen/KEY_START_GAME"
 #| msgid "START GAME"
@@ -10413,7 +10411,7 @@ msgstr "新たなミュートッグが利用可能"
 
 msgctxt "Manufacture Screen/KEY_MANUFACTURE_NEW_VEHICLE"
 msgid "NEW GROUND VEHICLE AVAILABLE"
-msgstr "新たな地上車両が利用可能"
+msgstr "新たな陸上車両が利用可能"
 
 msgctxt "Manufacture Screen/KEY_RECYCLING_NAME"
 msgid "RECYCLING"
@@ -11097,7 +11095,7 @@ msgstr "トンネル"
 
 msgctxt "Base Screen/KEY_BASE_FACILITY_VEHICLE_BAY_DESCRIPTION"
 msgid "Vehicles and aircraft at the base recover 20 Hit Points per hour. Allows maintenance of 2 ground vehicles and 2 aircraft."
-msgstr "基地にある車両と航空機のヒットポイントが1時間あたり20回復する。 地上車両2台と航空機2機の維持管理を可能にする。"
+msgstr "基地にある車両と航空機のヒットポイントが1時間あたり20回復する。 陸上車両2台と航空機2機の維持管理を可能にする。"
 
 msgctxt "Base Screen/KEY_BASE_FACILITY_VEHICLE_BAY_NAME"
 msgid "VEHICLE BAY"
@@ -11979,7 +11977,7 @@ msgstr "パンドラン・パレス"
 
 msgctxt "Geoscape/KEY_BUILD_ARMADILLO_DESCRIPTION"
 msgid "Build a Ground Vehicle using Material and Tech resources"
-msgstr "マテリアルおよびテック資源を使用して地上車両を作る"
+msgstr "マテリアルおよびテック資源を使用して陸上車両を建造する"
 
 msgctxt "Geoscape/KEY_BUILD_ARMADILLO_NAME"
 msgid "BUILD ARMADILLO"
@@ -12215,7 +12213,7 @@ msgstr "航空機にミュートッグを乗せるための十分なスペース
 
 msgctxt "Geoscape/KEY_SQUAD_ROSTER_DESCRIPTION"
 msgid "View a list of soldiers and ground vehicles, and access equipping functions"
-msgstr "兵士と地上車両のリストを表示し、装備機能にアクセスする"
+msgstr "兵士と陸上車両のリストを表示し、装備機能にアクセスする"
 
 msgctxt "Geoscape/KEY_SQUAD_ROSTER_NAME"
 msgid "SQUAD ROSTER"
@@ -12529,7 +12527,7 @@ msgstr "イベントログ"
 
 msgctxt "Geoscape/KEY_GEOSCAPE_VEHICLE_TRANSFER_ERROR_TT"
 msgid "You can only assign one ground vehicle per aircraft"
-msgstr "航空機1機につき地上車両は1台しか割り当てることができません"
+msgstr "航空機1機につき陸上車両は1台しか割り当てることができません"
 
 msgctxt "Geoscape/KEY_GEOSCAPE_EXPLORE_ERROR_TT"
 msgid "You cannot explore a site without soldiers or vehicles"
@@ -14107,12 +14105,11 @@ msgctxt "Characters and classes/KEY_ALN_SPAWNING_POOL_NAME"
 msgid "SPAWNERY"
 msgstr "スポーンリィ"
 
-#, fuzzy
 #| msgctxt "Characters and classes/KEY_ARMADILLO_DESCRIPTION"
 #| msgid "New Jericho Armadillo Ground Vehiclle"
 msgctxt "Characters and classes/KEY_ARMADILLO_DESCRIPTION"
 msgid "New Jericho Armadillo Ground Vehicle"
-msgstr "ニュージェリコ アルマジロ 地上車両"
+msgstr "ニュージェリコ アルマジロ 陸上車両"
 
 msgctxt "Characters and classes/KEY_ARMADILLO_NAME"
 msgid "ARMADILLO"
