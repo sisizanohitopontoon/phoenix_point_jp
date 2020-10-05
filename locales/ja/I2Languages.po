@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2020-10-05 12:28+0000\n"
+"PO-Revision-Date: 2020-10-05 12:33+0000\n"
 "Last-Translator: higema <ltdhyndsh@yahoo.co.jp>\n"
 "Language-Team: \n"
 "Language: ja\n"
@@ -5448,14 +5448,13 @@ msgctxt "Tutorial/KEY_TUTORIAL_TACTICAL1_SPOTTING_NAME"
 msgid "Spotting Enemies"
 msgstr "敵の発見"
 
-#, fuzzy
 #| msgctxt "Tutorial/KEY_TUTORIAL_TACTICAL1_SPOTTING_DESCRIPTION"
 #| msgid "ENEMY ICONS above your action bar show all spotted enemies.[LF][LF]A RED ICON shows an enemy in direct line of sight for the selected soldier."
 msgctxt "Tutorial/KEY_TUTORIAL_TACTICAL1_SPOTTING_DESCRIPTION"
 msgid ""
 "ENEMY ICONS above your action bar show all spotted enemies.[LF][LF]А <color=#E51919>RED ICON</color> (<color=#E51919>:CRABMAN:</color>) shows an enemy in direct line of sight for the selected "
 "soldier."
-msgstr "アクションバー上に表示される敵アイコンは、発見した全ての敵を表します。[LF][LF]赤いアイコンは、選択した兵士の視界内にある敵を表しています。"
+msgstr "アクションバー上に表示される敵アイコンは、発見した全ての敵を表します。[LF][LF]А <color=#E51919>赤いアイコン</color> (<color=#E51919>:CRABMAN:</color>)は、選択した兵士の視界内にある敵を表しています。"
 
 msgctxt "Tutorial/KEY_TUTORIAL_TACTICAL1_SELECTION_NAME"
 msgid "Selecting Soldiers"
@@ -5682,7 +5681,6 @@ msgctxt "Tutorial/KEY_TUTORIAL_TACTICAL2_HEALING_NAME"
 msgid "Medkits and Healing"
 msgstr "メディキットと回復"
 
-#, fuzzy
 #| msgctxt "Tutorial/KEY_TUTORIAL_TACTICAL2_HEALING_DESCRIPTION"
 #| msgid ""
 #| "Medkits restore Hit Points and remove Bleeding and Poison status effects.[LF][LF]A soldier must be next to the injured soldier in order to heal him.[LF][LF]SELECT THE MEDKIT[LF]Then select the USE "
@@ -5697,7 +5695,6 @@ msgctxt "Tutorial/KEY_TUTORIAL_TACTICAL2_RESCUE_NAME"
 msgid "Rescuing Allies"
 msgstr "味方の救出"
 
-#, fuzzy
 #| msgctxt "Tutorial/KEY_TUTORIAL_TACTICAL2_RESCUE_DESCRIPTION"
 #| msgid ""
 #| "Allied characters are rescued by moving a soldier next to them. After they are rescued, the character can be given orders along with the rest of your squad.[LF][LF]SELECT THE HEALED SOLDIER[LF]AND "
@@ -5736,7 +5733,6 @@ msgctxt "Tutorial/KEY_TUTORIAL_TACTICAL2_STATUS_NAME"
 msgid "Status Effects"
 msgstr "ステータス効果"
 
-#, fuzzy
 #| msgctxt "Tutorial/KEY_TUTORIAL_TACTICAL2_STATUS_DESCRIPTION"
 #| msgid ""
 #| "Status Effects are bonuses or penalties that affect a unit for a certain amount of time. Positive effects are usually acquired through abilities, while negative effects come from enemy weapons and "
