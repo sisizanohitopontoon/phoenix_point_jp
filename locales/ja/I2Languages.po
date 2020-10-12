@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2020-10-06 13:46+0000\n"
+"PO-Revision-Date: 2020-10-12 13:02+0000\n"
 "Last-Translator: higema <ltdhyndsh@yahoo.co.jp>\n"
 "Language-Team: \n"
 "Language: ja\n"
@@ -1999,7 +1999,7 @@ msgstr "EMPダメージの効果を半分に減少させる"
 
 msgctxt "DLC2 Necronomicon/KEY_GEOSCAPE_MESSAGE_EXCAVATION"
 msgid "Phoenix Point will excavate the ancient ruins in {0} hours"
-msgstr ""
+msgstr "フェニックスポイントが{0}時間で古代遺跡を発掘"
 
 #| msgctxt "Cthulhu/KEY_CHARACTERNAME_SIRENPRAETORIAN"
 #| msgid "SIREN PRAETORIAN"
@@ -4750,12 +4750,11 @@ msgctxt "Arkham/KEY_ROSTER_BIRTH_DATE"
 msgid "#DATE_OF_BIRTH"
 msgstr ""
 
-#, fuzzy
 #| msgctxt "Options Screen/KEY_RESTART"
 #| msgid "RESTART"
 msgctxt "Arkham/KEY_ROSTER_SERVICE_START"
 msgid "#SERVICE_START"
-msgstr "リスタート"
+msgstr "#就役開始"
 
 msgctxt "Arkham/KEY_ROSTER_NUMBER_OF_MISSIONS"
 msgid "#NUMBER_OF_MISSIONS"
@@ -4771,19 +4770,17 @@ msgctxt "Arkham/KEY_ROSTER_FAVOURITE_WEAPONS"
 msgid "#FAVOURITE_WEAPONS"
 msgstr "#よく使う武器"
 
-#, fuzzy
 #| msgctxt "Objectives/KEY_OBJECTIVE_KILL_ENEMIES"
 #| msgid "KILL ALL ENEMIES"
 msgctxt "Arkham/KEY_ROSTER_TOP_KILLED_ENEMIES"
 msgid "#TOP_KILL_ENEMEIS"
-msgstr "すべての敵を倒す"
+msgstr ""
 
-#, fuzzy
 #| msgctxt "Blood Titanium/KEY_DEMOLITION_MAN_NAME"
 #| msgid "DEMOLITION STATE"
 msgctxt "Arkham/KEY_ROSTER_ADDITIONAL_STATS"
 msgid "#ADDITIONAL_STATUSES"
-msgstr "デモリション・ステート"
+msgstr ""
 
 msgctxt "Arkham/KEY_ROSTER_TIMES_WOUNDED"
 msgid "#TIMES_WOUNDED"
