@@ -6,6 +6,70 @@ msgctxt "Ambush/EXPSITE_02_TITLE"
 msgid "NOTHING FOUND"
 msgstr "НИЧЕГО НЕ НАЙДЕНО"
 
+msgctxt "DLC3/PROG_FS2_FAIL_CHOICE_0_TEXT"
+msgid "Yes."
+msgstr "[null]"
+
+msgctxt "DLC3/PROG_FS2_FAIL_TEXT_GENERAL_0"
+msgid "placeh"
+msgstr "[null]"
+
+msgctxt "DLC3/PROG_FS2_FAIL_TITLE"
+msgid "Beh Loss"
+msgstr "[null]"
+
+msgctxt "DLC3/PROG_FS2_MISS_CHOICE_0_TEXT"
+msgid "START MISSION"
+msgstr "[null]"
+
+msgctxt "DLC3/PROG_FS2_MISS_CHOICE_1_TEXT"
+msgid "CANCEL"
+msgstr "[null]"
+
+msgctxt "DLC3/PROG_FS2_MISS_TEXT_GENERAL_0"
+msgid "MISSION BRIEFING[LF][LF]It appears[LF]"
+msgstr "[null]"
+
+msgctxt "DLC3/PROG_FS2_MISS_TITLE"
+msgid "Behemoth"
+msgstr "[null]"
+
+msgctxt "DLC3/PROG_FS2_WIN_CHOICE_0_TEXT"
+msgid "OK."
+msgstr "[null]"
+
+msgctxt "DLC3/PROG_FS2_WIN_TEXT_GENERAL_0"
+msgid "placeh"
+msgstr "[null]"
+
+msgctxt "DLC3/PROG_FS2_WIN_TITLE"
+msgid "Beh Win"
+msgstr "[null]"
+
+msgctxt "DLC3/PROG_FS0_CHOICE_0_TEXT"
+msgid "OK."
+msgstr "[null]"
+
+msgctxt "DLC3/PROG_FS0_TEXT_GENERAL_0"
+msgid "placeh"
+msgstr "[null]"
+
+msgctxt "DLC3/PROG_FS0_TITLE"
+msgid "Beh Zero"
+msgstr "[null]"
+
+msgctxt "DLC3/PROG_FS2_CHOICE_0_TEXT"
+msgid "OK."
+msgstr "[null]"
+
+msgctxt "DLC3/PROG_FS2_TEXT_GENERAL_0"
+msgid "placeh"
+msgstr "[null]"
+
+msgctxt "DLC3/PROG_FS2_TITLE"
+msgid "Beh Zero"
+msgstr "[null]"
+
 msgctxt "DLC2/PROG_LE0_CHOICE_0_TEXT"
 msgid "Perhaps she will join us when free."
 msgstr "Возможно, она присоединится к нам, когда мы ее освободим."
@@ -5585,6 +5649,182 @@ msgstr "Мы успешно раздобыли том из старого скл
 msgctxt "HavenBackers/BCR9_WIN_TITLE"
 msgid "Decrypted"
 msgstr "Расшифрованный"
+
+msgctxt "HavenBackers/BCR151_FAIL_CHOICE_0_TEXT"
+msgid "OK"
+msgstr "ОК"
+
+msgctxt "HavenBackers/BCR151_FAIL_TEXT_GENERAL_0"
+msgid "This was a disaster. With little hope remaining that the brain implant can be retrieved intact in a future attempt, we have to abandon this mission."
+msgstr "Это была катастрофа. Почти нет надежды, что получится достать мозговой имплант в целости и сохранности, поэтому мы должны прервать эту миссию."
+
+msgctxt "HavenBackers/BCR151_FAIL_TITLE"
+msgid "Enemies On All Sides"
+msgstr "Враги со всех сторон"
+
+msgctxt "HavenBackers/BCR151_MISS_CHOICE_0_TEXT"
+msgid "START MISSION"
+msgstr "НАЧАТЬ МИССИЮ"
+
+msgctxt "HavenBackers/BCR151_MISS_CHOICE_1_TEXT"
+msgid "CANCEL"
+msgstr "ОТМЕНА"
+
+msgctxt "HavenBackers/BCR151_MISS_TEXT_GENERAL_0"
+msgid "MISSION BRIEFING[LF][LF]The blighted ruins of The Great Endeavour are overrun by Pandoravirus victims. Deployment of overwhelming force is advised."
+msgstr "ДЕТАЛИ МИССИИ[LF][LF] Руины Великого Устремления кишат жертвами пандоранского вируса. Рекомендуется отправить превосходящие по количеству силы."
+
+msgctxt "HavenBackers/BCR151_MISS_TITLE"
+msgid "The Good, The Bad, And The Ugly"
+msgstr "Хороший, плохой, злой"
+
+msgctxt "HavenBackers/BCR151_WIN_CHOICE_0_TEXT"
+msgid "OK"
+msgstr "ОК"
+
+msgctxt "HavenBackers/BCR151_WIN_TEXT_GENERAL_0"
+msgid "After securing the area, our team conducted a thorough search. An intact brain implant was successfully retrieved. Time to head back to New Warsaw."
+msgstr "Оцепив зону, наша команда прочесала местность. Был найден неповрежденный мозговой имплант. Пора возвращаться в Нью-Варшаву."
+
+msgctxt "HavenBackers/BCR151_WIN_TITLE"
+msgid "Favorable Odds"
+msgstr "Благоприятный расклад"
+
+msgctxt "HavenBackers/BCR15_CHOICE_0_OUTCOME_GENERAL"
+msgid "\"\"Once, I led a haven named The Great Endeavour. Only a wasteland remains there now. An item of great value to me was lost there.\"\""
+msgstr "Когда-то я был главой убежища под названием Великое Устремление. Теперь на его месте пустырь. Там осталась очень дорогая для меня вещь."
+
+msgctxt "HavenBackers/BCR15_CHOICE_0_TEXT"
+msgid "Continue."
+msgstr "Продолжить."
+
+msgctxt "HavenBackers/BCR15_E_CHOICE_0_OUTCOME_GENERAL"
+msgid "\"\"Splendid! Be warned, though, New Jericho may oppose your involvement in this matter. They do not consider you a friend.\"\""
+msgstr "Прекрасно! Но имей в виду, Новый Иерихон может быть против твоего вмешательства. Они не считают тебя другом."
+
+msgctxt "HavenBackers/BCR15_E_CHOICE_0_TEXT"
+msgid "Accept mission."
+msgstr "Принять миссию."
+
+msgctxt "HavenBackers/BCR15_E_CHOICE_1_OUTCOME_GENERAL"
+msgid "Tomasz Lu Baer squints. \"\"Perhaps I misjudged you. You are not the friend New Warsaw needs.\"\""
+msgstr "Томаш Лу Бар щурится. \"\"Возможно, я неверно тебя оценил. Ты не тот друг, что нужен Нью-Варшаве\"\"."
+
+msgctxt "HavenBackers/BCR15_E_CHOICE_1_TEXT"
+msgid "Refuse mission."
+msgstr "Отказаться от миссии."
+
+msgctxt "HavenBackers/BCR15_E_TEXT_GENERAL_0"
+msgid "\"\"This item - a brain implant - can you to retrieve it for me? I will compensate you well for your effort.\"\""
+msgstr "Эта вещь... Мозговой имплант... Можешь достать его для меня? Я хорошо вознагражу тебя за работу."
+
+msgctxt "HavenBackers/BCR15_E_TITLE"
+msgid "Enemies In High Places"
+msgstr "Враги в высших эшелонах"
+
+msgctxt "HavenBackers/BCR15_FAIL_CHOICE_0_TEXT"
+msgid "OK"
+msgstr "ОК"
+
+msgctxt "HavenBackers/BCR15_FAIL_TEXT_GENERAL_0"
+msgid "This was a disaster. With little hope remaining that the brain implant can be retrieved intact in a future attempt, we have to abandon this mission."
+msgstr "Это была катастрофа. Почти нет надежды, что получится достать мозговой имплант в целости и сохранности, поэтому мы должны прервать эту миссию."
+
+msgctxt "HavenBackers/BCR15_FAIL_TITLE"
+msgid "Blighted"
+msgstr "Войска разбиты"
+
+msgctxt "HavenBackers/BCR15_F_CHOICE_0_OUTCOME_GENERAL"
+msgid "\"\"Splendid! I should add that my connections in New Jericho can of help in this matter. As far as I understand, Tobias West holds you in respect.\"\""
+msgstr "Прекрасно! Должен добавить, что мои связи в Новом Иерихоне могут помочь. Насколько я понимаю, Тобиас Уэст тебя уважает."
+
+msgctxt "HavenBackers/BCR15_F_CHOICE_0_TEXT"
+msgid "Accept mission."
+msgstr "Принять миссию."
+
+msgctxt "HavenBackers/BCR15_F_CHOICE_1_OUTCOME_GENERAL"
+msgid "Tomasz Lu Baer squints. \"\"Perhaps I misjudged you. You are not the friend New Warsaw needs.\"\""
+msgstr "Томаш Лу Бар щурится. \"\"Возможно, я неверно тебя оценил. Ты не тот друг, что нужен Нью-Варшаве\"\"."
+
+msgctxt "HavenBackers/BCR15_F_CHOICE_1_TEXT"
+msgid "Refuse mission."
+msgstr "Отказаться от миссии."
+
+msgctxt "HavenBackers/BCR15_F_TEXT_GENERAL_0"
+msgid "\"\"This item - a brain implant - can you to retrieve it for me? I will compensate you well for your effort.\"\""
+msgstr "Эта вещь... Мозговой имплант... Можешь достать его для меня? Я хорошо вознагражу тебя за работу."
+
+msgctxt "HavenBackers/BCR15_F_TITLE"
+msgid "Friends In High Places"
+msgstr "Друзья в высших эшелонах"
+
+msgctxt "HavenBackers/BCR15_MISS_CHOICE_0_TEXT"
+msgid "START MISSION"
+msgstr "НАЧАТЬ МИССИЮ"
+
+msgctxt "HavenBackers/BCR15_MISS_CHOICE_1_TEXT"
+msgid "CANCEL"
+msgstr "ОТМЕНА"
+
+msgctxt "HavenBackers/BCR15_MISS_TEXT_GENERAL_0"
+msgid "MISSION BRIEFING[LF][LF]The blighted ruins of The Great Endeavour are overrun by Pandoravirus victims. Deployment of overwhelming force is advised."
+msgstr "ДЕТАЛИ МИССИИ[LF][LF] Руины Великого Устремления кишат жертвами пандоранского вируса. Рекомендуется отправить превосходящие по количеству силы."
+
+msgctxt "HavenBackers/BCR15_MISS_TITLE"
+msgid "Deep Thoughts Recollection"
+msgstr "Давние воспоминания"
+
+msgctxt "HavenBackers/BCR15_OUT_CHOICE_0_OUTCOME_GENERAL"
+msgid "Tomasz Lu Baer's face darkens. \"\"So be it. Leave New Warsaw.\"\""
+msgstr "Лицо Томаша Лу Бара темнеет. \"\"Так тому и быть. Покинь Нью-Варшаву\"\"."
+
+msgctxt "HavenBackers/BCR15_OUT_CHOICE_0_TEXT"
+msgid "\"\"No. We never found it.\"\" [Keep the brain implant]"
+msgstr "Нет. Мы его не нашли. [Оставить мозговой имплант себе]"
+
+msgctxt "HavenBackers/BCR15_OUT_TEXT_GENERAL_0"
+msgid "Tomasz Lu Baer hastily meets you. \"\"Do you have it? Is it intact?\"\""
+msgstr "Томаш Лу Бар торопливо приветствует вас. \"\"Он у тебя? \"\"Он цел?\"\""
+
+msgctxt "HavenBackers/BCR15_OUT_TITLE"
+msgid "An Ending Of Sorts"
+msgstr "Своего рода конец"
+
+msgctxt "HavenBackers/BCR15_TEXT_GENERAL_0"
+msgid "New Warsaw is a well-organized and prosperous haven. You are introduced to Tomasz Lu Baer, who is in charge of the settlement. \"\"Do not let appearances fool you,\"\" Lu Baer muses. \"\"Running a haven is not an easy job, but I do have prior experience. Which brings us to our fortuitous meeting.\"\""
+msgstr "Нью-Варшава — хорошо организованное и процветающее убежище. Вас представляют Томашу Лу Бару, главе поселения. \"\"Пусть внешность тебя не смущает\"\", говорит Лу Бар. \"\"Управлять убежищем нелегко, но у меня уже был подобный опыт. Кстати, ты здесь как нельзя вовремя\"\"."
+
+msgctxt "HavenBackers/BCR15_TITLE"
+msgid "The Great Endeavour"
+msgstr "Великое Устремление"
+
+msgctxt "HavenBackers/BCR15_WIN_CHOICE_0_TEXT"
+msgid "OK"
+msgstr "ОК"
+
+msgctxt "HavenBackers/BCR15_WIN_TEXT_GENERAL_0"
+msgid "After securing the area, our team conducted a thorough search. An intact brain implant was successfully retrieved. Time to head back to New Warsaw."
+msgstr "Оцепив зону, наша команда прочесала местность. Был найден неповрежденный мозговой имплант. Пора возвращаться в Нью-Варшаву."
+
+msgctxt "HavenBackers/BCR15_WIN_TITLE"
+msgid "What's In A Box"
+msgstr "Что в коробке"
+
+msgctxt "HavenBackers/BCR15_OUT_CHOICE_1_OUTCOME_GENERAL"
+msgid "Tomasz smiles. \"\"I knew I could count on you! Let this be the start of an unbreakable friendship.\"\""
+msgstr "Томаш улыбается. \"\"Я знал, что могу на тебя рассчитывать! Пусть это станет началом нерушимой дружбы\"\"."
+
+msgctxt "HavenBackers/BCR15_OUT_CHOICE_1_TEXT"
+msgid "Give the brain implant to Tomasz Lu Baer."
+msgstr "Отдать мозговой имплант Томашу Лу Бару."
+
+msgctxt "HavenBackers/BCR15_OUT_CHOICE_2_OUTCOME_GENERAL"
+msgid "Tomasz Lu Baer's face darkens. \"\"So be it. Leave New Warsaw.\"\""
+msgstr "Лицо Томаша Лу Бара темнеет. \"\"Так тому и быть. Покинь Нью-Варшаву\"\"."
+
+msgctxt "HavenBackers/BCR15_OUT_CHOICE_2_TEXT"
+msgid "\"\"No. We never found it.\"\" [Give the brain implant to New Jericho]"
+msgstr "Нет. Мы его не нашли. [Отдать мозговой имплант Новому Иерихону]"
 
 msgctxt "LivingWeapons/PROG_LW1_CHOICE_0_OUTCOME_GENERAL"
 msgid "We managed to pinpoint a location, and we should send a squad to investigate. It's a longshot, but given what we now know about Pandoran mutations, Danchev might have been on to something."

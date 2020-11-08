@@ -1027,8 +1027,8 @@ msgid "The times mission {0} has expired. No further actions regarding it are po
 msgstr "The times mission {0} has expired. No further actions regarding it are possible."
 
 msgctxt "Blood Titanium/KEY_TUTORIAL_TIMED_MISSIONS_DESCRIPTION"
-msgid "Timed limited events are time sensitive objectives that disappear after a set amount of time. If not completed within the time limit, the mission disappears and will not reappear for the remaining game."
-msgstr "Timed limited events are time sensitive objectives that disappear after a set amount of time. If not completed within the time limit, the mission disappears and will not reappear for the remaining game."
+msgid "Time limited events are TIME SENSITIVE OBJECTIVES  that disappear after a set amount of time. If not completed within the time limit, the mission disappears and will not reappear for the remaining game."
+msgstr "Time limited events are TIME SENSITIVE OBJECTIVES  that disappear after a set amount of time. If not completed within the time limit, the mission disappears and will not reappear for the remaining game."
 
 msgctxt "Blood Titanium/KEY_TUTORIAL_TIMED_MISSIONS_NAME"
 msgid "Time Limited Events"
@@ -1339,8 +1339,8 @@ msgid "ANCIENT GUARDIANS"
 msgstr "ANCIENT GUARDIANS"
 
 msgctxt "DLC2 Necronomicon/KEY_OBJECTIVE_BLUEPRINT"
-msgid "Retrieve the Antediluvian collection"
-msgstr "Retrieve the Antediluvian collection"
+msgid "RETRIEVE THE ANTEDILUVIAN COLLECTION"
+msgstr "RETRIEVE THE ANTEDILUVIAN COLLECTION"
 
 msgctxt "DLC2 Necronomicon/KEY_DEPLOYGUARDIAN_POPUP_NAME"
 msgid "DEPLOY GUARDIAN"
@@ -1791,16 +1791,16 @@ msgid "It’s a desperate solution, but a proven one. Good luck, Phoenix. See yo
 msgstr "It’s a desperate solution, but a proven one. Good luck, Phoenix. See you on the other side."
 
 msgctxt "DLC2 Necronomicon/KEY_AC_TOP_ORICHALCUM"
-msgid "ORICHALCUM - the golden-hued alloy of the Ancients"
-msgstr "ORICHALCUM - the golden-hued alloy of the Ancients"
+msgid "ORICHALCUM - the golden-hued alloy of the Ancients. Extracted in Mines and processed in The Forge"
+msgstr "ORICHALCUM - the golden-hued alloy of the Ancients. Extracted in Mines and processed in The Forge"
 
 msgctxt "DLC2 Necronomicon/KEY_AC_TOP_LIVINGCRYSTAL"
-msgid "LIVING CRYSTAL - crystalline formations possessing enigmatic life-like properties"
-msgstr "LIVING CRYSTAL - crystalline formations possessing enigmatic life-like properties"
+msgid "LIVING CRYSTAL - crystalline formations possessing enigmatic life-like properties. Extracted in Quarries and processed in The Lapidary"
+msgstr "LIVING CRYSTAL - crystalline formations possessing enigmatic life-like properties. Extracted in Quarries and processed in The Lapidary"
 
 msgctxt "DLC2 Necronomicon/KEY_AC_TOP_PROTEANMUTANE"
-msgid "PROTEAN MUTANE - a powerful mutagenic gas agent"
-msgstr "PROTEAN MUTANE - a powerful mutagenic gas agent"
+msgid "PROTEAN MUTANE - a powerful mutagenic gas agent. Extracted in Fields and processed in The Refinery"
+msgstr "PROTEAN MUTANE - a powerful mutagenic gas agent. Extracted in Fields and processed in The Refinery"
 
 msgctxt "DLC2 Necronomicon/KEY_CHARACTERNAME_HELENALEWANDOWSKI"
 msgid "Dr. Helena Lewandowski"
@@ -1962,101 +1962,21 @@ msgctxt "DLC2 Necronomicon/KEY_TRITON_PRAETORIAN"
 msgid "TRITON PRAETORIAN"
 msgstr "TRITON PRAETORIAN"
 
-msgctxt "Polaris - New Weapons/KEY_FS_SHIELD_NAME"
-msgid "Riot Shield"
-msgstr "Riot Shield"
+msgctxt "DLC2 Necronomicon/KEY_LATE_PROTEANMUTANE"
+msgid "Protean Mutane"
+msgstr "Protean Mutane"
 
-msgctxt "Polaris - New Weapons/KEY_FS_SNIPER_NAME"
-msgid "Hawk-41K"
-msgstr "Hawk-41K"
+msgctxt "DLC2 Necronomicon/KEY_LATE_ORICHALCUM"
+msgid "Orichalcum"
+msgstr "Orichalcum"
 
-msgctxt "Polaris - New Weapons/KEY_FS_SHOTGUN_NAME"
-msgid "Slamstrike Shotgun"
-msgstr "Slamstrike Shotgun"
+msgctxt "DLC2 Necronomicon/KEY_LATE_LIVINGCRYSTAL"
+msgid "Living Crystal"
+msgstr "Living Crystal"
 
-msgctxt "Polaris - New Weapons/KEY_FS_HEAVY_NAME"
-msgid "Autocannon"
-msgstr "Autocannon"
-
-msgctxt "Polaris - New Weapons/KEY_FS_AGL_NAME"
-msgid "Assault Grenade Launcher"
-msgstr "Assault Grenade Launcher"
-
-msgctxt "Polaris - New Weapons/KEY_FS_GRENADE_NAME"
-msgid "Biogas Grenade"
-msgstr "Biogas Grenade"
-
-msgctxt "Polaris - New Weapons/KEY_FS_LAUNCHER_NAME"
-msgid "Biogas Launcher"
-msgstr "Biogas Launcher"
-
-msgctxt "Polaris - New Weapons/KEY_FS_SHIELD_DESCRIPTION"
-msgid "Riot Shield"
-msgstr "Riot Shield"
-
-msgctxt "Polaris - New Weapons/KEY_FS_SNIPER_DESCRIPTION"
-msgid "Hawk-41K"
-msgstr "Hawk-41K"
-
-msgctxt "Polaris - New Weapons/KEY_FS_SHOTGUN_DESCRIPTION"
-msgid "Slamstrike Shotgun"
-msgstr "Slamstrike Shotgun"
-
-msgctxt "Polaris - New Weapons/KEY_FS_HEAVY_DESCRIPTION"
-msgid "Autocannon"
-msgstr "Autocannon"
-
-msgctxt "Polaris - New Weapons/KEY_FS_AGL_DESCRIPTION"
-msgid "Assault Grenade Launcher"
-msgstr "Assault Grenade Launcher"
-
-msgctxt "Polaris - New Weapons/KEY_FS_GRENADE_DESCRIPTION"
-msgid "Biogas Grenade"
-msgstr "Biogas Grenade"
-
-msgctxt "Polaris - New Weapons/KEY_FS_LAUNCHER_DESCRIPTION"
-msgid "Biogas Launcher"
-msgstr "Biogas Launcher"
-
-msgctxt "Polaris - New Weapons/KEY_FS_AMMO_SNIPER_NAME"
-msgid "Hawk-41K Magazine"
-msgstr "Hawk-41K Magazine"
-
-msgctxt "Polaris - New Weapons/KEY_FS_AMMO_SHOTGUN_NAME"
-msgid "Slamstrike Shotgun Magazine"
-msgstr "Slamstrike Shotgun Magazine"
-
-msgctxt "Polaris - New Weapons/KEY_FS_AMMO_HEAVY_NAME"
-msgid "Autocannon Magazine"
-msgstr "Autocannon Magazine"
-
-msgctxt "Polaris - New Weapons/KEY_FS_AMMO_AGL_NAME"
-msgid "Assault Grenade Launcher Magazine"
-msgstr "Assault Grenade Launcher Magazine"
-
-msgctxt "Polaris - New Weapons/KEY_FS_AMMO_LAUNCHER_NAME"
-msgid "Biogas Launcher Magazine"
-msgstr "Biogas Launcher Magazine"
-
-msgctxt "Polaris - New Weapons/KEY_FS_AMMO_SNIPER_DESCRIPTION"
-msgid "Hawk-41K Magazine"
-msgstr "Hawk-41K Magazine"
-
-msgctxt "Polaris - New Weapons/KEY_FS_AMMO_SHOTGUN_DESCRIPTION"
-msgid "Slamstrike Shotgun Magazine"
-msgstr "Slamstrike Shotgun Magazine"
-
-msgctxt "Polaris - New Weapons/KEY_FS_AMMO_HEAVY_DESCRIPTION"
-msgid "Autocannon Magazine"
-msgstr "Autocannon Magazine"
-
-msgctxt "Polaris - New Weapons/KEY_FS_AMMO_AGL_DESCRIPTION"
-msgid "Assault Grenade Launcher Magazine"
-msgstr "Assault Grenade Launcher Magazine"
-
-msgctxt "Polaris - New Weapons/KEY_FS_AMMO_LAUNCHER_DESCRIPTION"
-msgid "Biogas Launcher Magazine"
-msgstr "Biogas Launcher Magazine"
+msgctxt "DLC2 Necronomicon/KEY_OBJECTIVE_ATLEASTONESCIENTIST"
+msgid "AT LEAST ONE SCIENTIST MUST SURVIVE"
+msgstr "AT LEAST ONE SCIENTIST MUST SURVIVE"
 
 msgctxt "Darleth/KEY_TRADE_HAVEN"
 msgid "TRADE RESOURCES WITH {0}"
@@ -2487,8 +2407,8 @@ msgid "Cannot construct more than {0} {1} per base"
 msgstr "Cannot construct more than {0} {1} per base"
 
 msgctxt "Cthulhu/KEY_AREA_SCAN_LOADING"
-msgid "LOADING AREA SCAN..."
-msgstr "LOADING AREA SCAN..."
+msgid "AREA SCAN"
+msgstr "AREA SCAN"
 
 msgctxt "Cthulhu/KEY_POP_METER_TT"
 msgid "Surviving human population in havens. If this falls below {0}% you will lose the game."
@@ -2575,8 +2495,8 @@ msgid "REVEALING PANDORAN COLONIES"
 msgstr "REVEALING PANDORAN COLONIES"
 
 msgctxt "Cthulhu/KEY_TUTORIAL_PANDORAN_BASE_REVEALED_DESCRIPTION"
-msgid "Pandoran colonies have a chance to be revealed after a successful haven defense mission. The more times that a colony attacks, the greater the chance of it being revealed.[LF][LF]If a Pandoran colony attacks from within the scanning range of a Phoenix base, it will be revealed immediately.[LF]"
-msgstr "Pandoran colonies have a chance to be revealed after a successful haven defense mission. The more times that a colony attacks, the greater the chance of it being revealed.[LF][LF]If a Pandoran colony attacks from within the scanning range of a Phoenix base, it will be revealed immediately.[LF]"
+msgid "Pandoran colonies have a chance to be revealed after a successful HAVEN DEFENSE MISSION. The more times that a colony attacks, the greater the chance of it being revealed.[LF][LF]If a Pandoran colony attacks from within the scanning range of a Phoenix base, it will be revealed immediately.[LF]"
+msgstr "Pandoran colonies have a chance to be revealed after a successful HAVEN DEFENSE MISSION. The more times that a colony attacks, the greater the chance of it being revealed.[LF][LF]If a Pandoran colony attacks from within the scanning range of a Phoenix base, it will be revealed immediately.[LF]"
 
 msgctxt "Cthulhu/KEY_BASE_PANDORAN_BASE_REVEALED_NAME"
 msgid "PANDORAN ATTACK ANALYSIS"
@@ -2810,6 +2730,102 @@ msgctxt "Cthulhu/KEY_BASE_RECRUITS_AVAILABLE_1DAY"
 msgid "RECRUITS AVAILABLE IN 1 DAY"
 msgstr "RECRUITS AVAILABLE IN 1 DAY"
 
+msgctxt "Polaris - New Weapons/KEY_FS_SHIELD_NAME"
+msgid "Riot Shield"
+msgstr "Riot Shield"
+
+msgctxt "Polaris - New Weapons/KEY_FS_SNIPER_NAME"
+msgid "Hawk-41K"
+msgstr "Hawk-41K"
+
+msgctxt "Polaris - New Weapons/KEY_FS_SHOTGUN_NAME"
+msgid "Slamstrike Shotgun"
+msgstr "Slamstrike Shotgun"
+
+msgctxt "Polaris - New Weapons/KEY_FS_HEAVY_NAME"
+msgid "Autocannon"
+msgstr "Autocannon"
+
+msgctxt "Polaris - New Weapons/KEY_FS_AGL_NAME"
+msgid "Assault Grenade Launcher"
+msgstr "Assault Grenade Launcher"
+
+msgctxt "Polaris - New Weapons/KEY_FS_GRENADE_NAME"
+msgid "Biogas Grenade"
+msgstr "Biogas Grenade"
+
+msgctxt "Polaris - New Weapons/KEY_FS_LAUNCHER_NAME"
+msgid "Biogas Launcher"
+msgstr "Biogas Launcher"
+
+msgctxt "Polaris - New Weapons/KEY_FS_SHIELD_DESCRIPTION"
+msgid "Riot Shield"
+msgstr "Riot Shield"
+
+msgctxt "Polaris - New Weapons/KEY_FS_SNIPER_DESCRIPTION"
+msgid "Hawk-41K"
+msgstr "Hawk-41K"
+
+msgctxt "Polaris - New Weapons/KEY_FS_SHOTGUN_DESCRIPTION"
+msgid "Slamstrike Shotgun"
+msgstr "Slamstrike Shotgun"
+
+msgctxt "Polaris - New Weapons/KEY_FS_HEAVY_DESCRIPTION"
+msgid "Autocannon"
+msgstr "Autocannon"
+
+msgctxt "Polaris - New Weapons/KEY_FS_AGL_DESCRIPTION"
+msgid "Assault Grenade Launcher"
+msgstr "Assault Grenade Launcher"
+
+msgctxt "Polaris - New Weapons/KEY_FS_GRENADE_DESCRIPTION"
+msgid "Biogas Grenade"
+msgstr "Biogas Grenade"
+
+msgctxt "Polaris - New Weapons/KEY_FS_LAUNCHER_DESCRIPTION"
+msgid "Biogas Launcher"
+msgstr "Biogas Launcher"
+
+msgctxt "Polaris - New Weapons/KEY_FS_AMMO_SNIPER_NAME"
+msgid "Hawk-41K Magazine"
+msgstr "Hawk-41K Magazine"
+
+msgctxt "Polaris - New Weapons/KEY_FS_AMMO_SHOTGUN_NAME"
+msgid "Slamstrike Shotgun Magazine"
+msgstr "Slamstrike Shotgun Magazine"
+
+msgctxt "Polaris - New Weapons/KEY_FS_AMMO_HEAVY_NAME"
+msgid "Autocannon Magazine"
+msgstr "Autocannon Magazine"
+
+msgctxt "Polaris - New Weapons/KEY_FS_AMMO_AGL_NAME"
+msgid "Assault Grenade Launcher Magazine"
+msgstr "Assault Grenade Launcher Magazine"
+
+msgctxt "Polaris - New Weapons/KEY_FS_AMMO_LAUNCHER_NAME"
+msgid "Biogas Launcher Magazine"
+msgstr "Biogas Launcher Magazine"
+
+msgctxt "Polaris - New Weapons/KEY_FS_AMMO_SNIPER_DESCRIPTION"
+msgid "Hawk-41K Magazine"
+msgstr "Hawk-41K Magazine"
+
+msgctxt "Polaris - New Weapons/KEY_FS_AMMO_SHOTGUN_DESCRIPTION"
+msgid "Slamstrike Shotgun Magazine"
+msgstr "Slamstrike Shotgun Magazine"
+
+msgctxt "Polaris - New Weapons/KEY_FS_AMMO_HEAVY_DESCRIPTION"
+msgid "Autocannon Magazine"
+msgstr "Autocannon Magazine"
+
+msgctxt "Polaris - New Weapons/KEY_FS_AMMO_AGL_DESCRIPTION"
+msgid "Assault Grenade Launcher Magazine"
+msgstr "Assault Grenade Launcher Magazine"
+
+msgctxt "Polaris - New Weapons/KEY_FS_AMMO_LAUNCHER_DESCRIPTION"
+msgid "Biogas Launcher Magazine"
+msgstr "Biogas Launcher Magazine"
+
 msgctxt "Abilities/KEY_ACID_RESISTANCE_DESCRIPTION"
 msgid "Reduces effect of Acid Damage by half"
 msgstr "Reduces effect of Acid Damage by half"
@@ -2899,8 +2915,8 @@ msgid "DEPLOY SHIELD"
 msgstr "DEPLOY SHIELD"
 
 msgctxt "Abilities/KEY_DEPLOY_SPIDER_DESCRIPTION"
-msgid "Deploy Spider Drone that autoexplores the area. The Drone automatically advances towards any enemy it detects and explodes when in range."
-msgstr "Deploy Spider Drone that autoexplores the area. The Drone automatically advances towards any enemy it detects and explodes when in range."
+msgid "Deploy Spider Drone to explore the area. If no Infiltrators are present the Drone automatically advances towards any enemy it detects and explodes when in range."
+msgstr "Deploy Spider Drone to explore the area. If no Infiltrators are present the Drone automatically advances towards any enemy it detects and explodes when in range."
 
 msgctxt "Abilities/KEY_DEPLOY_SPIDER_NAME"
 msgid "DEPLOY SPIDER DRONE"
@@ -4647,124 +4663,644 @@ msgid "DISMISS"
 msgstr "DISMISS"
 
 msgctxt "Arkham/KEY_ROSTER_STATISTICS"
-msgid "#STATISTICS"
-msgstr "#STATISTICS"
+msgid "ATTRIBUTES"
+msgstr "ATTRIBUTES"
 
 msgctxt "Arkham/KEY_ROSTER_STAT_STEALTH"
-msgid "#STEALTH"
-msgstr "#STEALTH"
+msgid "STEALTH"
+msgstr "STEALTH"
 
 msgctxt "Arkham/KEY_ROSTER_SERVICE_RECORD"
-msgid "#SERVICE_RECORD"
-msgstr "#SERVICE_RECORD"
+msgid "SERVICE RECORD"
+msgstr "SERVICE RECORD"
 
 msgctxt "Arkham/KEY_ROSTER_BIRTH_DATE"
-msgid "#DATE_OF_BIRTH"
-msgstr "#DATE_OF_BIRTH"
+msgid "DATE OF BIRTH"
+msgstr "DATE OF BIRTH"
 
 msgctxt "Arkham/KEY_ROSTER_SERVICE_START"
-msgid "#SERVICE_START"
-msgstr "#SERVICE_START"
+msgid "SERVICE START"
+msgstr "SERVICE START"
 
 msgctxt "Arkham/KEY_ROSTER_NUMBER_OF_MISSIONS"
-msgid "#NUMBER_OF_MISSIONS"
-msgstr "#NUMBER_OF_MISSIONS"
+msgid "NUMBER OF MISSIONS"
+msgstr "NUMBER OF MISSIONS"
 
 msgctxt "Arkham/KEY_ROSTER_MOST_SKILLS_USED"
-msgid "#SKILLS_USED_MORE_OFTEN"
-msgstr "#SKILLS_USED_MORE_OFTEN"
+msgid "MOST USED SKILLS"
+msgstr "MOST USED SKILLS"
 
 msgctxt "Arkham/KEY_ROSTER_FAVOURITE_WEAPONS"
-msgid "#FAVOURITE_WEAPONS"
-msgstr "#FAVOURITE_WEAPONS"
+msgid "FAVOURITE EQUIPMENT"
+msgstr "FAVOURITE EQUIPMENT"
 
 msgctxt "Arkham/KEY_ROSTER_TOP_KILLED_ENEMIES"
-msgid "#TOP_KILL_ENEMEIS"
-msgstr "#TOP_KILL_ENEMEIS"
-
-msgctxt "Arkham/KEY_ROSTER_ADDITIONAL_STATS"
-msgid "#ADDITIONAL_STATUSES"
-msgstr "#ADDITIONAL_STATUSES"
+msgid "ENEMY KILLS"
+msgstr "ENEMY KILLS"
 
 msgctxt "Arkham/KEY_ROSTER_TIMES_WOUNDED"
-msgid "#TIMES_WOUNDED"
-msgstr "#TIMES_WOUNDED"
+msgid "TIMES WOUNDED"
+msgstr "TIMES WOUNDED"
 
 msgctxt "Arkham/KEY_ROSTER_DEATH_DATE"
-msgid "#DATE_OF_DEATH"
-msgstr "#DATE_OF_DEATH"
+msgid "DATE OF DEATH"
+msgstr "DATE OF DEATH"
 
 msgctxt "Arkham/KEY_ROSTER_DEATH_REASON"
-msgid "#CAUSE_OF_DEATH"
-msgstr "#CAUSE_OF_DEATH"
+msgid "CAUSE OF DEATH"
+msgstr "CAUSE OF DEATH"
 
 msgctxt "Arkham/KEY_ROSTER_MEMORIAL"
-msgid "#MEMORIAL"
-msgstr "#MEMORIAL"
+msgid "MEMORIAL"
+msgstr "MEMORIAL"
 
 msgctxt "Arkham/KEY_SOLDIER_STATUSES"
 msgid "STATUSES"
 msgstr "STATUSES"
 
 msgctxt "Arkham/KEY_ROSTER_TOTAL_KILLS"
-msgid "#TOTAL_KILLS"
-msgstr "#TOTAL_KILLS"
+msgid "TOTAL KILLS"
+msgstr "TOTAL KILLS"
 
 msgctxt "Arkham/KEY_ROSTER_ORIGINAL_FACTION"
-msgid "#ORIGINAL_FACTION"
-msgstr "#ORIGINAL_FACTION"
+msgid "ORIGINAL FACTION"
+msgstr "ORIGINAL FACTION"
 
 msgctxt "Arkham/KEY_ROSTER_MEMORIAL_RECORD"
-msgid "#MEMORIAL_RECORD"
-msgstr "#MEMORIAL_RECORD"
+msgid "MEMORIAL RECORD"
+msgstr "MEMORIAL RECORD"
 
 msgctxt "Arkham/KEY_ROSTER_SERIVCE_END"
-msgid "#SERVICE_END"
-msgstr "#SERVICE_END"
+msgid "SERVICE END"
+msgstr "SERVICE END"
 
 msgctxt "Arkham/KEY_ROSTER_DEATH_BLED_OUT"
-msgid "#BLED_OUT"
-msgstr "#BLED_OUT"
+msgid "BLEEDING"
+msgstr "BLEEDING"
 
 msgctxt "Arkham/KEY_ROSTER_DEATH_ACID_BURNED"
-msgid "#ACID_BURNED"
-msgstr "#ACID_BURNED"
+msgid "ACID"
+msgstr "ACID"
 
 msgctxt "Arkham/KEY_ROSTER_DEATH_POISONED"
-msgid "#POISONED"
-msgstr "#POISONED"
+msgid "POISON"
+msgstr "POISON"
 
 msgctxt "Arkham/KEY_ROSTER_DEATH_IMMOLATED"
-msgid "#IMMOLATED"
-msgstr "#IMMOLATED"
+msgid "FIRE"
+msgstr "FIRE"
 
 msgctxt "Arkham/KEY_ROSTER_DEATH_STARVED"
-msgid "#STARVED"
-msgstr "#STARVED"
+msgid "STARVATION"
+msgstr "STARVATION"
 
 msgctxt "Arkham/KEY_ROSTER_DEATH_FELL"
-msgid "#FELL"
-msgstr "#FELL"
+msgid "FALLING"
+msgstr "FALLING"
 
 msgctxt "Arkham/KEY_ROSTER_DEATH_GEOSCAPE_EVENT"
-msgid "#ACCIDENT"
-msgstr "#ACCIDENT"
+msgid "ACCIDENT"
+msgstr "ACCIDENT"
 
 msgctxt "Arkham/KEY_ROSTER_DEATH_FRIENDLY_FIRE"
-msgid "#FRIENDLY_FIRE"
-msgstr "#FRIENDLY_FIRE"
+msgid "FRIENDLY FIRE"
+msgstr "FRIENDLY FIRE"
 
 msgctxt "Arkham/KEY_ROSTER_READY_ITEMS"
-msgid "#READY_ITEMS"
-msgstr "#READY_ITEMS"
+msgid "READY ITEMS"
+msgstr "READY ITEMS"
 
 msgctxt "Arkham/KEY_ROSTER_MEMORIAL_TAB_DESCRIPTION"
-msgid "#DED_DUDES"
-msgstr "#DED_DUDES"
+msgid "Comrades fallen in the line of duty"
+msgstr "Comrades fallen in the line of duty"
 
 msgctxt "Arkham/KEY_ROSTER_ITEM_SLOT_EMPTY"
-msgid "#EMPTY"
-msgstr "#EMPTY"
+msgid "EMPTY"
+msgstr "EMPTY"
+
+msgctxt "Arkham/KEY_SOLDIER_EDIT"
+msgid "EDIT UNIT"
+msgstr "EDIT UNIT"
+
+msgctxt "Arkham/KEY_VEHICLE_EDIT"
+msgid "EDIT VEHICLE"
+msgstr "EDIT VEHICLE"
+
+msgctxt "Arkham/KEY_MUTOG_EDIT"
+msgid "EDIT MUTOG"
+msgstr "EDIT MUTOG"
+
+msgctxt "Arkham/KEY_VEHICLE_SCRAP"
+msgid "SCRAP VEHICLE"
+msgstr "SCRAP VEHICLE"
+
+msgctxt "Arkham/KEY_MUTOG_SCRAP"
+msgid "HARVEST MUTOG"
+msgstr "HARVEST MUTOG"
+
+msgctxt "Arkham/KEY_SCRAP_MATERIALS"
+msgid "<size=55><color=#FFA268>[materials]  {0}</color></size>  "
+msgstr "<size=55><color=#FFA268>[materials]  {0}</color></size>  "
+
+msgctxt "Arkham/KEY_SCRAP_TECH"
+msgid "<size=55><color=#1DA4FA>[tech] {0}</color></size>  "
+msgstr "<size=55><color=#1DA4FA>[tech] {0}</color></size>  "
+
+msgctxt "Arkham/KEY_SCRAP_SUPPLIES"
+msgid "<size=55><color=#42FF1D>[food] {0}</color></size>  "
+msgstr "<size=55><color=#42FF1D>[food] {0}</color></size>  "
+
+msgctxt "Arkham/KEY_SCRAP_MUTAGEN"
+msgid "<size=55><color=#CF3BFF>[mutagen] {0}</color></size>  "
+msgstr "<size=55><color=#CF3BFF>[mutagen] {0}</color></size>  "
+
+msgctxt "Arkham/KEY_SCRAP_TEXT"
+msgid "You will recover:"
+msgstr "You will recover:"
+
+msgctxt "Arkham/KEY_ENTER_VEHICLE_PROMPT"
+msgid "Enter vehicle?"
+msgstr "Enter vehicle?"
+
+msgctxt "Arkham/KEY_EXIT_MISSION_PROMPT"
+msgid "Evacuate?"
+msgstr "Evacuate?"
+
+msgctxt "Arkham/KEY_ACTIVATE_OBJECTIVE_PROMPT"
+msgid "Activate objective?"
+msgstr "Activate objective?"
+
+msgctxt "Arkham/KEY_WEAPON_SELECTION_MAGAZINE"
+msgid "MAGAZINES"
+msgstr "MAGAZINES"
+
+msgctxt "Arkham/KEY_ABILITY_CONFIRMATION_COST"
+msgid "COST"
+msgstr "COST"
+
+msgctxt "Arkham/KEY_OPTIONS_DETAILED_TACTICAL_INFO"
+msgid "SHOW DETAILED EQUIPMENT INFO IN BATTLE"
+msgstr "SHOW DETAILED EQUIPMENT INFO IN BATTLE"
+
+msgctxt "Arkham/KEY_WEAPON_SELECTION_MAGAZINE_TOOLTIP"
+msgid "Number of Ammo magazines carried"
+msgstr "Number of Ammo magazines carried"
+
+msgctxt "Arkham/KEY_WEAPON_SELECTION_AMMO_TOOLTIP"
+msgid "Rounds remaining in weapon"
+msgstr "Rounds remaining in weapon"
+
+msgctxt "Arkham/KEY_ITEM_STAT_SINGLE_SHOT_TOOLTIP"
+msgid "Fires a single shot with each attack"
+msgstr "Fires a single shot with each attack"
+
+msgctxt "Arkham/KEY_ITEM_STAT_ROUND_BURST_TOOLTIP"
+msgid "Fires a burst of multiple shots with each attack"
+msgstr "Fires a burst of multiple shots with each attack"
+
+msgctxt "Arkham/KEY_ITEM_STAT_HEAL"
+msgid "HEAL"
+msgstr "HEAL"
+
+msgctxt "Arkham/KEY_ITEM_STAT_HEAL_TOOLTIP"
+msgid "Hit Points restored to target soldier"
+msgstr "Hit Points restored to target soldier"
+
+msgctxt "Arkham/KEY_SOLDIER_HP"
+msgid "HP"
+msgstr "HP"
+
+msgctxt "Arkham/KEY_SOLDIER_AP"
+msgid "AP"
+msgstr "AP"
+
+msgctxt "Arkham/KEY_ROSTER_DEATH_MIND_CONTROLLED"
+msgid "MIND CONTROLLED"
+msgstr "MIND CONTROLLED"
+
+msgctxt "Game Over/KEY_GAME_SUMMARY_WORLD_STATE"
+msgid "WORLD STATE"
+msgstr "WORLD STATE"
+
+msgctxt "Game Over/KEY_GAME_SUMMARY_ENEMIES"
+msgid "ENEMIES"
+msgstr "ENEMIES"
+
+msgctxt "Game Over/KEY_GAME_SUMMARY_PHOENIX_FORCES"
+msgid "PHOENIX FORCES"
+msgstr "PHOENIX FORCES"
+
+msgctxt "Game Over/KEY_GAME_SUMMARY_BATTLES"
+msgid "BATTLES FOUGHT"
+msgstr "BATTLES FOUGHT"
+
+msgctxt "Game Over/KEY_GAME_SUMMARY_RESEARCH"
+msgid "RESEARCH & DEVELOPMENT"
+msgstr "RESEARCH & DEVELOPMENT"
+
+msgctxt "Game Over/KEY_GAME_SUMMARY_CONTINUE"
+msgid "CONTINUE"
+msgstr "CONTINUE"
+
+msgctxt "Game Over/KEY_GAME_SUMMARY_GAME_DIFFICULTY"
+msgid "GAME DIFFICULTY :"
+msgstr "GAME DIFFICULTY :"
+
+msgctxt "Game Over/KEY_GAME_SUMMARY_PLAYED_TIME"
+msgid "TIME PLAYED :"
+msgstr "TIME PLAYED :"
+
+msgctxt "Game Over/KEY_GAME_SUMMARY_GAME_TIME"
+msgid "GAME TIME :"
+msgstr "GAME TIME :"
+
+msgctxt "Game Over/KEY_GAME_SUMMARY_HAVENS"
+msgid "HAVENS"
+msgstr "HAVENS"
+
+msgctxt "Game Over/KEY_GAME_SUMMARY_SURVIVING_HAVENS"
+msgid "SURVIVING HAVENS"
+msgstr "SURVIVING HAVENS"
+
+msgctxt "Game Over/KEY_GAME_SUMMARY_DESTROYED_HAVENS"
+msgid "DESTROYED HAVENS"
+msgstr "DESTROYED HAVENS"
+
+msgctxt "Game Over/KEY_GAME_SUMMARY_POPULATION"
+msgid "POPULATION"
+msgstr "POPULATION"
+
+msgctxt "Game Over/KEY_GAME_SUMMARY_SURVIVING_POPULATION"
+msgid "SURVIVING POPULATION"
+msgstr "SURVIVING POPULATION"
+
+msgctxt "Game Over/KEY_GAME_SUMMARY_DEAD_POPULATION"
+msgid "FATALITIES"
+msgstr "FATALITIES"
+
+msgctxt "Game Over/KEY_GAME_SUMMARY_PX_BASES"
+msgid "PHOENIX BASES"
+msgstr "PHOENIX BASES"
+
+msgctxt "Game Over/KEY_GAME_SUMMARY_PX_BASES_ACTIVATED"
+msgid "ACTIVATED BASES"
+msgstr "ACTIVATED BASES"
+
+msgctxt "Game Over/KEY_GAME_SUMMARY_PX_BASES_UNACTIVATED"
+msgid "UNACTIVATED BASES"
+msgstr "UNACTIVATED BASES"
+
+msgctxt "Game Over/KEY_GAME_SUMMARY_EXPLORATION"
+msgid "EXPLORATION"
+msgstr "EXPLORATION"
+
+msgctxt "Game Over/KEY_GAME_SUMMARY_EXPL_SITES_REVEALED"
+msgid "EXPLORATION SITES REVEALED"
+msgstr "EXPLORATION SITES REVEALED"
+
+msgctxt "Game Over/KEY_GAME_SUMMARY_EXPL_SITES_HIDDEN"
+msgid "EXPLORATION SITES HIDDEN"
+msgstr "EXPLORATION SITES HIDDEN"
+
+msgctxt "Game Over/KEY_GAME_SUMMARY_DIPLOMATIC_RELATIONS"
+msgid "DIPLOMATIC RELATIONS"
+msgstr "DIPLOMATIC RELATIONS"
+
+msgctxt "Game Over/KEY_GAME_SUMMARY_SURVIVING_COLONIES"
+msgid "SURVIVING PANDORAN COLONIES"
+msgstr "SURVIVING PANDORAN COLONIES"
+
+msgctxt "Game Over/KEY_GAME_SUMMARY_SURVIVING_CITADELS"
+msgid "SURVIVING CITADELS"
+msgstr "SURVIVING CITADELS"
+
+msgctxt "Game Over/KEY_GAME_SUMMARY_SURVIVING_LAIRS"
+msgid "SURVIVING LAIRS"
+msgstr "SURVIVING LAIRS"
+
+msgctxt "Game Over/KEY_GAME_SUMMARY_SURVIVING_NESTS"
+msgid "SURVIVING NESTS"
+msgstr "SURVIVING NESTS"
+
+msgctxt "Game Over/KEY_GAME_SUMMARY_DESTROYED_COLONIES"
+msgid "DESTROYED PANDORAN COLONIES"
+msgstr "DESTROYED PANDORAN COLONIES"
+
+msgctxt "Game Over/KEY_GAME_SUMMARY_DESTROYED_CITADELS"
+msgid "DESTROYED CITADELS"
+msgstr "DESTROYED CITADELS"
+
+msgctxt "Game Over/KEY_GAME_SUMMARY_DESTROYED_LAIRS"
+msgid "DESTROYED LAIRS"
+msgstr "DESTROYED LAIRS"
+
+msgctxt "Game Over/KEY_GAME_SUMMARY_DESTROYED_NESTS"
+msgid "DESTROYED NESTS"
+msgstr "DESTROYED NESTS"
+
+msgctxt "Game Over/KEY_UNIT_TYPE_ARMADILLOS"
+msgid "ARMADILLOS"
+msgstr "ARMADILLOS"
+
+msgctxt "Game Over/KEY_UNIT_TYPE_SCARABS"
+msgid "SCARABS"
+msgstr "SCARABS"
+
+msgctxt "Game Over/KEY_UNIT_TYPE_ASPIDAS"
+msgid "ASPIDAS"
+msgstr "ASPIDAS"
+
+msgctxt "Game Over/KEY_UNIT_TYPE_MUTOGS"
+msgid "MUTOGS"
+msgstr "MUTOGS"
+
+msgctxt "Game Over/KEY_UNIT_TYPE_MANTICORES"
+msgid "MANTICORES"
+msgstr "MANTICORES"
+
+msgctxt "Game Over/KEY_UNIT_TYPE_THUNDERBIRDS"
+msgid "THUNDERBIRDS"
+msgstr "THUNDERBIRDS"
+
+msgctxt "Game Over/KEY_UNIT_TYPE_TIAMATS"
+msgid "TIAMATS"
+msgstr "TIAMATS"
+
+msgctxt "Game Over/KEY_UNIT_TYPE_HELIOSES"
+msgid "HELIOSES"
+msgstr "HELIOSES"
+
+msgctxt "Game Over/KEY_UNIT_TYPE_ARTHRONS"
+msgid "ARTHRONS"
+msgstr "ARTHRONS"
+
+msgctxt "Game Over/KEY_UNIT_TYPE_TRITONS"
+msgid "TRITONS"
+msgstr "TRITONS"
+
+msgctxt "Game Over/KEY_UNIT_TYPE_SIRENS"
+msgid "SIRENS"
+msgstr "SIRENS"
+
+msgctxt "Game Over/KEY_UNIT_TYPE_CHIRONS"
+msgid "CHIRONS"
+msgstr "CHIRONS"
+
+msgctxt "Game Over/KEY_UNIT_TYPE_SCYLLAS"
+msgid "SCYLLAS"
+msgstr "SCYLLAS"
+
+msgctxt "Game Over/KEY_UNIT_TYPE_EGGS"
+msgid "EGGS"
+msgstr "EGGS"
+
+msgctxt "Game Over/KEY_UNIT_TYPE_WORMS"
+msgid "WORMS"
+msgstr "WORMS"
+
+msgctxt "Game Over/KEY_UNIT_TYPE_MINDFRAGGERS"
+msgid "MINDFRAGGERS"
+msgstr "MINDFRAGGERS"
+
+msgctxt "Game Over/KEY_UNIT_TYPE_SENTINELS"
+msgid "SENTINELS"
+msgstr "SENTINELS"
+
+msgctxt "Game Over/KEY_UNIT_TYPE_HOPLITES"
+msgid "HOPLITES"
+msgstr "HOPLITES"
+
+msgctxt "Game Over/KEY_UNIT_TYPE_SWARMERS"
+msgid "SWARMERS"
+msgstr "SWARMERS"
+
+msgctxt "Game Over/KEY_UNIT_TYPE_CYCLOPES"
+msgid "CYCLOPES"
+msgstr "CYCLOPES"
+
+msgctxt "Game Over/KEY_MISSION_TYPE_HAVEN_DEFENSE"
+msgid "HAVEN DEFENSE MISSIONS"
+msgstr "HAVEN DEFENSE MISSIONS"
+
+msgctxt "Game Over/KEY_MISSION_TYPE_BAS_DEFENSE"
+msgid "PHOENIX BASE MISSIONS"
+msgstr "PHOENIX BASE MISSIONS"
+
+msgctxt "Game Over/KEY_MISSION_TYPE_SCAVENGING"
+msgid "SCAVENGING MISSIONS"
+msgstr "SCAVENGING MISSIONS"
+
+msgctxt "Game Over/KEY_MISSION_TYPE_AMBUSH"
+msgid "AMBUSHES"
+msgstr "AMBUSHES"
+
+msgctxt "Game Over/KEY_MISSION_TYPE_NEW_JERICHO"
+msgid "NEW JERICHO MISSIONS"
+msgstr "NEW JERICHO MISSIONS"
+
+msgctxt "Game Over/KEY_MISSION_TYPE_ANU"
+msgid "DISCIPLES OF ANU MISSIONS"
+msgstr "DISCIPLES OF ANU MISSIONS"
+
+msgctxt "Game Over/KEY_MISSION_TYPE_SYNEDRION"
+msgid "SYNEDRION MISSIONS"
+msgstr "SYNEDRION MISSIONS"
+
+msgctxt "Game Over/KEY_MISSION_TYPE_INDEPENDENT"
+msgid "INDEPENDENT HAVEN MISSIONS"
+msgstr "INDEPENDENT HAVEN MISSIONS"
+
+msgctxt "Game Over/KEY_MISSION_TYPE_NEST"
+msgid "PANDORAN NEST MISSIONS"
+msgstr "PANDORAN NEST MISSIONS"
+
+msgctxt "Game Over/KEY_MISSION_TYPE_LAIR"
+msgid "PANDORAN LAIR MISSIONS"
+msgstr "PANDORAN LAIR MISSIONS"
+
+msgctxt "Game Over/KEY_MISSION_TYPE_CITADEL"
+msgid "PANDORAN CITADEL MISSIONS"
+msgstr "PANDORAN CITADEL MISSIONS"
+
+msgctxt "Game Over/KEY_MISSION_TYPE_PHOENIX"
+msgid "PHOENIX QUEST MISSIONS"
+msgstr "PHOENIX QUEST MISSIONS"
+
+msgctxt "Game Over/KEY_MISSION_TYPE_THE_PURE"
+msgid "THE PURE MISSIONS"
+msgstr "THE PURE MISSIONS"
+
+msgctxt "Game Over/KEY_MISSION_TYPE_ANCIENT_ASSAULT"
+msgid "ANCIENT SITE ASSAULT MISSIONS"
+msgstr "ANCIENT SITE ASSAULT MISSIONS"
+
+msgctxt "Game Over/KEY_MISSION_TYPE_ANCIENT_DEFENSE"
+msgid "ANCIENT SITE DEFENSE MISSIONS"
+msgstr "ANCIENT SITE DEFENSE MISSIONS"
+
+msgctxt "Game Over/KEY_MISSION_TYPE_ANCIENT_STORY"
+msgid "ANCIENT SITE SPECIAL OPERATIONS"
+msgstr "ANCIENT SITE SPECIAL OPERATIONS"
+
+msgctxt "Game Over/KEY_MISSION_TYPE_STEAL_RESOURCES"
+msgid "STEAL RESOURCES MISSIONS"
+msgstr "STEAL RESOURCES MISSIONS"
+
+msgctxt "Game Over/KEY_MISSION_TYPE_STEAL_AIRCRAFT"
+msgid "STEAL AIRCRAFT MISSIONS"
+msgstr "STEAL AIRCRAFT MISSIONS"
+
+msgctxt "Game Over/KEY_MISSION_TYPE_STEAL_RESEARCH"
+msgid "STEAL RESEARCH MISSIONS"
+msgstr "STEAL RESEARCH MISSIONS"
+
+msgctxt "Game Over/KEY_GAME_SUMMARY_FACTION_KILLS"
+msgid "FACTION FORCES KILLED"
+msgstr "FACTION FORCES KILLED"
+
+msgctxt "Game Over/KEY_GAME_SUMMARY_PANDORANS_BREAKDOWN"
+msgid "KILLED / CAPTURED"
+msgstr "KILLED / CAPTURED"
+
+msgctxt "Game Over/KEY_GAME_SUMMARY_PHOENIX_SOLDIERS"
+msgid "PHOENIX SOLDIERS"
+msgstr "PHOENIX SOLDIERS"
+
+msgctxt "Game Over/KEY_GAME_SUMMARY_SOLDIERS_RECRUITED"
+msgid "SOLDIERS RECRUITED"
+msgstr "SOLDIERS RECRUITED"
+
+msgctxt "Game Over/KEY_GAME_SUMMARY_SOLDIERS_KILLED"
+msgid "SOLDIERS KILLED"
+msgstr "SOLDIERS KILLED"
+
+msgctxt "Game Over/KEY_GAME_SUMMARY_SOLDIERS_MAX_LVL"
+msgid "SOLDIERS REACHED LEVEL 7"
+msgstr "SOLDIERS REACHED LEVEL 7"
+
+msgctxt "Game Over/KEY_GAME_SUMMARY_AIRCRAFTS_VEHICLES"
+msgid "GROUND AND AIR VEHICLES"
+msgstr "GROUND AND AIR VEHICLES"
+
+msgctxt "Game Over/KEY_GAME_SUMMARY_VEHICLES_BREAKDOWN"
+msgid "BUILT | ACQUIRED | DESTROYED"
+msgstr "BUILT | ACQUIRED | DESTROYED"
+
+msgctxt "Game Over/KEY_GAME_SUMMARY_GENERAL_MISSIONS"
+msgid "GENERAL MISSIONS"
+msgstr "GENERAL MISSIONS"
+
+msgctxt "Game Over/KEY_GAME_SUMMARY_FACTION_MISSIONS"
+msgid "FACTION / DIPLOMACY MISSIONS"
+msgstr "FACTION / DIPLOMACY MISSIONS"
+
+msgctxt "Game Over/KEY_GAME_SUMMARY_TOTAL"
+msgid "TOTAL"
+msgstr "TOTAL"
+
+msgctxt "Game Over/KEY_GAME_SUMMARY_COMPLETED_RESEARCHES"
+msgid "RESEARCH PROJECTS COMPLETED"
+msgstr "RESEARCH PROJECTS COMPLETED"
+
+msgctxt "Game Over/KEY_GAME_SUMMARY_RESOURCES_GAINED"
+msgid "RESOURCES GAINED"
+msgstr "RESOURCES GAINED"
+
+msgctxt "Game Over/KEY_GAME_SUMMARY_PRODUCED"
+msgid "PRODUCTION"
+msgstr "PRODUCTION"
+
+msgctxt "Game Over/KEY_GAME_SUMMARY_PROD_WEAPONS"
+msgid "WEAPONS"
+msgstr "WEAPONS"
+
+msgctxt "Game Over/KEY_GAME_SUMMARY_PROD_EQUIPMENT"
+msgid "EQUIPMENT"
+msgstr "EQUIPMENT"
+
+msgctxt "Game Over/KEY_GAME_SUMMARY_PROD_AMMO"
+msgid "AMMO"
+msgstr "AMMO"
+
+msgctxt "Game Over/KEY_GAME_SUMMARY_PROD_ARMOR"
+msgid "ARMOR"
+msgstr "ARMOR"
+
+msgctxt "Game Over/KEY_GAME_SUMMARY_PROD_ATTACHMENTS"
+msgid "ATTACHMENTS"
+msgstr "ATTACHMENTS"
+
+msgctxt "Game Over/KEY_GAME_SUMMARY_PROD_VEHICLES"
+msgid "VEHICLES"
+msgstr "VEHICLES"
+
+msgctxt "Game Over/KEY_GAME_SUMMARY_PROD_AIRCRAFTS"
+msgid "AIRCRAFT"
+msgstr "AIRCRAFT"
+
+msgctxt "Game Over/KEY_GAME_SUMMARY_PROD_FACILITIES"
+msgid "BASE FACILITIES"
+msgstr "BASE FACILITIES"
+
+msgctxt "Game Over/KEY_GAME_SUMMARY_AUGMENTATIONS"
+msgid "AUGMENTATIONS"
+msgstr "AUGMENTATIONS"
+
+msgctxt "Game Over/KEY_GAME_SUMMARY_MUTATIONS_DEVELOPED"
+msgid "MUTATIONS DEVELOPED"
+msgstr "MUTATIONS DEVELOPED"
+
+msgctxt "Game Over/KEY_GAME_SUMMARY_HEAD_MUTATIONS"
+msgid "HEAD MUTATIONS"
+msgstr "HEAD MUTATIONS"
+
+msgctxt "Game Over/KEY_GAME_SUMMARY_TORSO_MUTATIONS"
+msgid "TORSO MUTATIONS"
+msgstr "TORSO MUTATIONS"
+
+msgctxt "Game Over/KEY_GAME_SUMMARY_LEGS_MUTATIONS"
+msgid "LEG MUTATIONS"
+msgstr "LEG MUTATIONS"
+
+msgctxt "Game Over/KEY_GAME_SUMMARY_BIONICS_DEVELOPED"
+msgid "BIONICS DEVELOPED"
+msgstr "BIONICS DEVELOPED"
+
+msgctxt "Game Over/KEY_GAME_SUMMARY_HEAD_BIONICS"
+msgid "HEAD BIONICS"
+msgstr "HEAD BIONICS"
+
+msgctxt "Game Over/KEY_GAME_SUMMARY_TORSO_BIONICS"
+msgid "TORSO BIONICS"
+msgstr "TORSO BIONICS"
+
+msgctxt "Game Over/KEY_GAME_SUMMARY_LEGS_BIONICS"
+msgid "LEG BIONICS"
+msgstr "LEG BIONICS"
+
+msgctxt "Game Over/KEY_GAME_SUMMARY_TIME_PLAYED_FORMAT"
+msgid "{0}h {1}min"
+msgstr "{0}h {1}min"
+
+msgctxt "Game Over/KEY_GAME_SUMMARY_GAMETIME_FORMAT"
+msgid "{0}y {1}m {2}d"
+msgstr "{0}y {1}m {2}d"
+
+msgctxt "Game Over/KEY_GAME_SUMMARY_VICTORY_DESCRIPTION"
+msgid "You have vanquished the Pandorans"
+msgstr "You have vanquished the Pandorans"
+
+msgctxt "Game Over/KEY_GAME_SUMMARY_DEFEAT_DESCRIPTION"
+msgid "The world is colonised by Pandorans"
+msgstr "The world is colonised by Pandorans"
+
+msgctxt "Game Over/KEY_GAME_SUMMARY_VICTORY"
+msgid "VICTORY"
+msgstr "VICTORY"
+
+msgctxt "Game Over/KEY_GAME_SUMMARY_DEFEAT"
+msgid "DEFEAT"
+msgstr "DEFEAT"
 
 msgctxt "Damage types/KEY_DAMAGE_TYPE_ACID"
 msgid "ACID"
@@ -5123,8 +5659,8 @@ msgid "Thank you for playing Phoenix Point! As part of our effort to make the be
 msgstr "Thank you for playing Phoenix Point! As part of our effort to make the best game we can, we're hoping you will allow us to track some of your activities in the game. This information is anonymous, and consists of gameplay data that we use to improve Phoenix Point along with anonymous identifiers like your IP address and country location.[LF]If you'd like to help us make Phoenix Point even better, please agree to the anonymous telemetry tracking by clicking the checkbox below. You can opt out anytime by unchecking it in the Settings menu.[LF]Thank you and enjoy Phoenix Point!"
 
 msgctxt "Analytics/KEY_ANALYTICS_SETTING"
-msgid "Collect Anonymous Telemetry"
-msgstr "Collect Anonymous Telemetry"
+msgid "COLLECT ANONYMOUS TELEMETRY"
+msgstr "COLLECT ANONYMOUS TELEMETRY"
 
 msgctxt "Tutorial/KEY_TUTORIAL_GEOSCAPE_NAME"
 msgid "The Geoscape"
@@ -5139,64 +5675,64 @@ msgid "Phoenix Bases"
 msgstr "Phoenix Bases"
 
 msgctxt "Tutorial/KEY_TUTORIAL_BASE_DESCRIPTION"
-msgid "Your Base is your stronghold containing all facilities, as well as vital resources such as Food, Materials, and Tech.[LF][LF]Phoenix Point is in bad shape. You need to repair your vehicle bay before you can launch your Manticore aircraft - and it will take some time.[LF][LF]START REPAIR OF YOUR VEHICLE BAY[LF]:LMB: on the REPAIR FACILITY button, or move the gamepad cursor there and press :A:[LF][LF]THEN RETURN TO GEOSCAPE AND ADVANCE TIME"
-msgstr "Your Base is your stronghold containing all facilities, as well as vital resources such as Food, Materials, and Tech.[LF][LF]Phoenix Point is in bad shape. You need to repair your vehicle bay before you can launch your Manticore aircraft - and it will take some time.[LF][LF]START REPAIR OF YOUR VEHICLE BAY[LF]:LMB: on the REPAIR FACILITY button, or move the gamepad cursor there and press :A:[LF][LF]THEN RETURN TO GEOSCAPE AND ADVANCE TIME"
+msgid "Your BASE is your stronghold containing all facilities, as well as vital resources such as Food, Materials, and Tech.[LF][LF]Phoenix Point is in bad shape. You need to repair your vehicle bay before you can launch your Manticore aircraft - and it will take some time.[LF][LF]START REPAIR OF YOUR VEHICLE BAY[LF]:LMB: on the REPAIR FACILITY button, or move the gamepad cursor there and press :A:[LF][LF]THEN RETURN TO GEOSCAPE AND ADVANCE TIME"
+msgstr "Your BASE is your stronghold containing all facilities, as well as vital resources such as Food, Materials, and Tech.[LF][LF]Phoenix Point is in bad shape. You need to repair your vehicle bay before you can launch your Manticore aircraft - and it will take some time.[LF][LF]START REPAIR OF YOUR VEHICLE BAY[LF]:LMB: on the REPAIR FACILITY button, or move the gamepad cursor there and press :A:[LF][LF]THEN RETURN TO GEOSCAPE AND ADVANCE TIME"
 
 msgctxt "Tutorial/KEY_TUTORIAL_MANTICORE_NAME"
 msgid "The Manticore"
 msgstr "The Manticore"
 
 msgctxt "Tutorial/KEY_TUTORIAL_MANTICORE_DESCRIPTION"
-msgid "The Manticore is your aircraft for transporting soldiers and exploring the world. The aircraft’s crew is shown in the Aircraft bar in the bottom of the screen, using their soldier class icons.[LF][LF]SEND YOUR MANTICORE TO THE UNEXPLORED SITE[LF]:LMB: on the location, or move gamepad cursor to the location with :LTS: and press :A:[LF]Then select \"\"MOVE\"\" from the action menu."
-msgstr "The Manticore is your aircraft for transporting soldiers and exploring the world. The aircraft’s crew is shown in the Aircraft bar in the bottom of the screen, using their soldier class icons.[LF][LF]SEND YOUR MANTICORE TO THE UNEXPLORED SITE[LF]:LMB: on the location, or move gamepad cursor to the location with :LTS: and press :A:[LF]Then select \"\"MOVE\"\" from the action menu."
+msgid "The Manticore is YOUR AIRCRAFT for transporting soldiers and exploring the world. The aircraft’s crew is shown in the Aircraft bar in the bottom of the screen, using their soldier class icons.[LF][LF]SEND YOUR MANTICORE TO THE UNEXPLORED SITE[LF]:LMB: on the location, or move gamepad cursor to the location with :LTS: and press :A:[LF]Then select \"\"MOVE\"\" from the action menu."
+msgstr "The Manticore is YOUR AIRCRAFT for transporting soldiers and exploring the world. The aircraft’s crew is shown in the Aircraft bar in the bottom of the screen, using their soldier class icons.[LF][LF]SEND YOUR MANTICORE TO THE UNEXPLORED SITE[LF]:LMB: on the location, or move gamepad cursor to the location with :LTS: and press :A:[LF]Then select \"\"MOVE\"\" from the action menu."
 
 msgctxt "Tutorial/KEY_TUTORIAL_EXPLORATION_NAME"
 msgid "Exploring a Site"
 msgstr "Exploring a Site"
 
 msgctxt "Tutorial/KEY_TUTORIAL_EXPLORATION_DESCRIPTION"
-msgid "Initially, all sites on the Geoscape are unexplored (marked with a question mark).[LF][LF]You need at least one soldier onboard an aircraft in order to explore. Exploration takes time and you may get ambushed, so be on your guard.[LF][LF]EXPLORE THE SITE[LF]:LMB: or :A: on the site to show the site menu, and select \"\"EXPLORE\"\"[LF]"
-msgstr "Initially, all sites on the Geoscape are unexplored (marked with a question mark).[LF][LF]You need at least one soldier onboard an aircraft in order to explore. Exploration takes time and you may get ambushed, so be on your guard.[LF][LF]EXPLORE THE SITE[LF]:LMB: or :A: on the site to show the site menu, and select \"\"EXPLORE\"\"[LF]"
+msgid "Initially, all sites on the Geoscape are UNEXPLORED (marked with a question mark).[LF][LF]You need at least one soldier onboard an aircraft in order to explore. Exploration takes time and you may get ambushed, so be on your guard.[LF][LF]EXPLORE THE SITE[LF]:LMB: or :A: on the site to show the site menu, and select \"\"EXPLORE\"\""
+msgstr "Initially, all sites on the Geoscape are UNEXPLORED (marked with a question mark).[LF][LF]You need at least one soldier onboard an aircraft in order to explore. Exploration takes time and you may get ambushed, so be on your guard.[LF][LF]EXPLORE THE SITE[LF]:LMB: or :A: on the site to show the site menu, and select \"\"EXPLORE\"\""
 
 msgctxt "Tutorial/KEY_TUTORIAL_RESOURCES_NAME"
 msgid "Mission Rewards and Fatigue"
 msgstr "Mission Rewards and Fatigue"
 
 msgctxt "Tutorial/KEY_TUTORIAL_RESOURCES_DESCRIPTION"
-msgid "On completing a mission, all gathered items and resources are added to your overall supplies. [LF][LF]Soldiers get fatigued during battle, losing 1 stamina point per turn (max 10 per battle). When stamina falls below 20%, a soldier will suffer an Action Point penalty in the next battle.[LF][LF]Your soldiers will recover stamina and hit points while resting at base, as long as the base has a functioning Living Quarters and Medical Bay.[LF][LF]RETURN TO YOUR BASE SO YOUR SOLDIERS CAN RECOVER"
-msgstr "On completing a mission, all gathered items and resources are added to your overall supplies. [LF][LF]Soldiers get fatigued during battle, losing 1 stamina point per turn (max 10 per battle). When stamina falls below 20%, a soldier will suffer an Action Point penalty in the next battle.[LF][LF]Your soldiers will recover stamina and hit points while resting at base, as long as the base has a functioning Living Quarters and Medical Bay.[LF][LF]RETURN TO YOUR BASE SO YOUR SOLDIERS CAN RECOVER"
+msgid "On completing a mission, all gathered items and resources are added to your overall SUPPLIES. [LF][LF]Soldiers get fatigued during battle, LOSING 1 STAMINA POINT PER TURN (max 10 per battle). When stamina falls below 20%, a soldier will suffer an Action Point penalty in the next battle.[LF][LF]Your soldiers will recover stamina and hit points while resting at base, as long as the base has a functioning Living Quarters and Medical Bay.[LF][LF]RETURN TO YOUR BASE SO YOUR SOLDIERS CAN RECOVER"
+msgstr "On completing a mission, all gathered items and resources are added to your overall SUPPLIES. [LF][LF]Soldiers get fatigued during battle, LOSING 1 STAMINA POINT PER TURN (max 10 per battle). When stamina falls below 20%, a soldier will suffer an Action Point penalty in the next battle.[LF][LF]Your soldiers will recover stamina and hit points while resting at base, as long as the base has a functioning Living Quarters and Medical Bay.[LF][LF]RETURN TO YOUR BASE SO YOUR SOLDIERS CAN RECOVER"
 
 msgctxt "Tutorial/KEY_TUTORIAL_PERSONNEL_NAME"
 msgid "Personnel"
 msgstr "Personnel"
 
 msgctxt "Tutorial/KEY_TUTORIAL_PERSONNEL_DESCRIPTION"
-msgid "The personnel roster shows all your soldiers and ground vehicles, wherever they are located.[LF][LF]You can transfer soldiers by selecting the location button on the right side of each soldier's list entry.[LF][LF]You can customize your soldiers' appearance and voice by selecting the customizarion icon to the right of the soldier's name.[LF][LF]SELECT THE \"\"PERSONNEL\"\" BUTTON AND GO TO THE \"\"EQUIPMENT\"\" SECTION"
-msgstr "The personnel roster shows all your soldiers and ground vehicles, wherever they are located.[LF][LF]You can transfer soldiers by selecting the location button on the right side of each soldier's list entry.[LF][LF]You can customize your soldiers' appearance and voice by selecting the customizarion icon to the right of the soldier's name.[LF][LF]SELECT THE \"\"PERSONNEL\"\" BUTTON AND GO TO THE \"\"EQUIPMENT\"\" SECTION"
+msgid "The personnel roster shows ALL YOUR SOLDIERS AND GROWND VEHICLES, wherever they are located.[LF][LF]You can transfer soldiers by selecting the location button on the right side of each soldier's list entry.[LF][LF]You can customize your soldiers' appearance and voice by selecting EDIT UNIT.[LF][LF]SELECT THE \"\"PERSONNEL\"\" BUTTON"
+msgstr "The personnel roster shows ALL YOUR SOLDIERS AND GROWND VEHICLES, wherever they are located.[LF][LF]You can transfer soldiers by selecting the location button on the right side of each soldier's list entry.[LF][LF]You can customize your soldiers' appearance and voice by selecting EDIT UNIT.[LF][LF]SELECT THE \"\"PERSONNEL\"\" BUTTON"
 
 msgctxt "Tutorial/KEY_TUTORIAL_EQUIPMENT_NAME"
 msgid "Equipping your soldiers"
 msgstr "Equipping your soldiers"
 
 msgctxt "Tutorial/KEY_TUTORIAL_EQUIPMENT_DESCRIPTION"
-msgid "You can equip your soldiers with new weapons, armor and other items by dragging available equipment from the stores onto the appropriate slots in the inventory section.[LF][LF]You can instantly equip or produce items in READY slots by using the +AMMO and +ITEM buttons.[LF][LF]The ARMOR section shows the armor the soldier is wearing for legs, body and head.[LF][LF]The MOUNTS section is used for special equipment that can only be attached to the corresponding piece of armor.[LF][LF]GO TO THE TRAINING SECTION"
-msgstr "You can equip your soldiers with new weapons, armor and other items by dragging available equipment from the stores onto the appropriate slots in the inventory section.[LF][LF]You can instantly equip or produce items in READY slots by using the +AMMO and +ITEM buttons.[LF][LF]The ARMOR section shows the armor the soldier is wearing for legs, body and head.[LF][LF]The MOUNTS section is used for special equipment that can only be attached to the corresponding piece of armor.[LF][LF]GO TO THE TRAINING SECTION"
+msgid "You can EQUIP YOUR SOLDIERS with new weapons, armor and other items by dragging available equipment from the stores onto the appropriate slots in the inventory section.[LF][LF]You can instantly equip or produce items in READY slots by using the +AMMO and +ITEM buttons.[LF][LF]The ARMOR section shows the armor the soldier is wearing for legs, body and head.[LF][LF]The MOUNTS section is used for special equipment that can only be attached to the corresponding piece of armor."
+msgstr "You can EQUIP YOUR SOLDIERS with new weapons, armor and other items by dragging available equipment from the stores onto the appropriate slots in the inventory section.[LF][LF]You can instantly equip or produce items in READY slots by using the +AMMO and +ITEM buttons.[LF][LF]The ARMOR section shows the armor the soldier is wearing for legs, body and head.[LF][LF]The MOUNTS section is used for special equipment that can only be attached to the corresponding piece of armor."
 
 msgctxt "Tutorial/KEY_TUTORIAL_TRAINING_NAME"
 msgid "Training soldiers"
 msgstr "Training soldiers"
 
 msgctxt "Tutorial/KEY_TUTORIAL_TRAINING_DESCRIPTION"
-msgid "Soldiers can increase Strength, Willpower, and Speed, as well as acquire new abilities by spending Skill Points (SPs). If a soldier has used all personal SPs they can use the Phoenix SPs which are common for everybody.[LF][LF]Soldiers can only acquire abilities for their current level or lower. Upon reaching level four, each soldier has the option to specialize in an additional class. The last row of abilities represent personal aptitudes the Soldier is born with.[LF][LF]Once you’ve adjusted your soldiers’ stats and abilities, go to the RESEARCH section."
-msgstr "Soldiers can increase Strength, Willpower, and Speed, as well as acquire new abilities by spending Skill Points (SPs). If a soldier has used all personal SPs they can use the Phoenix SPs which are common for everybody.[LF][LF]Soldiers can only acquire abilities for their current level or lower. Upon reaching level four, each soldier has the option to specialize in an additional class. The last row of abilities represent personal aptitudes the Soldier is born with.[LF][LF]Once you’ve adjusted your soldiers’ stats and abilities, go to the RESEARCH section."
+msgid "Soldiers can increase Strength, Willpower, and Speed, as well as acquire new abilities by spending Skill Points (SPs). If a soldier has used all personal SPs they can use the Phoenix SPs which are common for everybody.[LF][LF]Soldiers can only acquire abilities for their current level or lower. Upon reaching level four, each soldier has the option to specialize in an additional class. The second row of abilities represent personal aptitudes the Soldier is born with.[LF][LF]Once you’ve adjusted your soldiers’ stats and abilities, go to the RESEARCH section."
+msgstr "Soldiers can increase Strength, Willpower, and Speed, as well as acquire new abilities by spending Skill Points (SPs). If a soldier has used all personal SPs they can use the Phoenix SPs which are common for everybody.[LF][LF]Soldiers can only acquire abilities for their current level or lower. Upon reaching level four, each soldier has the option to specialize in an additional class. The second row of abilities represent personal aptitudes the Soldier is born with.[LF][LF]Once you’ve adjusted your soldiers’ stats and abilities, go to the RESEARCH section."
 
 msgctxt "Tutorial/KEY_TUTORIAL_RESEARCH_NAME"
 msgid "Research"
 msgstr "Research"
 
 msgctxt "Tutorial/KEY_TUTORIAL_RESEARCH_DESCRIPTION"
-msgid "Research projects are critical for improving your capabilities and winning the game. To speed up research, build more Research Labs.[LF][LF]Research requires time, so make sure time is advancing in the Geoscape.[LF][LF]RESEARCH \"\"ATMOSPHERIC ANALYSIS\"\""
-msgstr "Research projects are critical for improving your capabilities and winning the game. To speed up research, build more Research Labs.[LF][LF]Research requires time, so make sure time is advancing in the Geoscape.[LF][LF]RESEARCH \"\"ATMOSPHERIC ANALYSIS\"\""
+msgid "Research projects are critical for improving your capabilities and winning the game. To speed up research, build more Research Labs.[LF][LF]Research requires time, so make sure TIME IS ADVANCING in the Geoscape.[LF][LF]RESEARCH \"\"ATMOSPHERIC ANALYSIS\"\""
+msgstr "Research projects are critical for improving your capabilities and winning the game. To speed up research, build more Research Labs.[LF][LF]Research requires time, so make sure TIME IS ADVANCING in the Geoscape.[LF][LF]RESEARCH \"\"ATMOSPHERIC ANALYSIS\"\""
 
 msgctxt "Tutorial/KEY_TUTORIAL_RESTORING_NAME"
 msgid "Tutorial Complete"
@@ -5211,8 +5747,8 @@ msgid "Manufacturing"
 msgstr "Manufacturing"
 
 msgctxt "Tutorial/KEY_TUTORIAL_MANUFACTURING_DESCRIPTION"
-msgid "Weapons, vehicles, and armor are manufactured by Fabrication Plants, provided the required research has been developed and there are enough resources available.[LF][LF]Items take varying amounts of time to produce. To speed up the process build more Fabrication Plants.[LF][LF]MANUFACTURE A \"\"MEDKIT\"\""
-msgstr "Weapons, vehicles, and armor are manufactured by Fabrication Plants, provided the required research has been developed and there are enough resources available.[LF][LF]Items take varying amounts of time to produce. To speed up the process build more Fabrication Plants.[LF][LF]MANUFACTURE A \"\"MEDKIT\"\""
+msgid "Weapons, vehicles, and armor are manufactured by FABRICATION PLANTS, provided the required research has been developed and there are enough resources available.[LF][LF]Items take varying amounts of time to produce. To speed up the process build more Fabrication Plants.[LF][LF]MANUFACTURE A \"\"MEDKIT\"\""
+msgstr "Weapons, vehicles, and armor are manufactured by FABRICATION PLANTS, provided the required research has been developed and there are enough resources available.[LF][LF]Items take varying amounts of time to produce. To speed up the process build more Fabrication Plants.[LF][LF]MANUFACTURE A \"\"MEDKIT\"\""
 
 msgctxt "Tutorial/KEY_TUTORIAL_SATELLITE_NAME"
 msgid "Satellite Uplink"
@@ -5227,8 +5763,8 @@ msgid "The Mist"
 msgstr "The Mist"
 
 msgctxt "Tutorial/KEY_TUTORIAL_MIST_DESCRIPTION"
-msgid "The mist represents the progression of the Pandoravirus as it spreads throughout the globe. The Pandoran mutations will attempt to build colonies on areas of land covered by the mist, which will then attack nearby havens.[LF][LF]To meet this threat you will need to produce equipment.[LF][LF]SELECT THE \"\"MANUFACTURING\"\" BUTTON[LF]"
-msgstr "The mist represents the progression of the Pandoravirus as it spreads throughout the globe. The Pandoran mutations will attempt to build colonies on areas of land covered by the mist, which will then attack nearby havens.[LF][LF]To meet this threat you will need to produce equipment.[LF][LF]SELECT THE \"\"MANUFACTURING\"\" BUTTON[LF]"
+msgid "The mist represents THE PROGRESSION OF THE PANDORAVIRUS as it spreads throughout the globe. The Pandoran mutations will attempt to build colonies on areas of land covered by the mist, which will then attack nearby havens.[LF][LF]To meet this threat you will need to produce equipment.[LF][LF]SELECT THE \"\"MANUFACTURING\"\" BUTTON[LF]"
+msgstr "The mist represents THE PROGRESSION OF THE PANDORAVIRUS as it spreads throughout the globe. The Pandoran mutations will attempt to build colonies on areas of land covered by the mist, which will then attack nearby havens.[LF][LF]To meet this threat you will need to produce equipment.[LF][LF]SELECT THE \"\"MANUFACTURING\"\" BUTTON[LF]"
 
 msgctxt "Tutorial/KEY_TUTORIAL_DOOMCLOCK_NAME"
 msgid "Human Population"
@@ -5243,124 +5779,68 @@ msgid "Capture and Containment"
 msgstr "Capture and Containment"
 
 msgctxt "Tutorial/KEY_TUTORIAL_CAPTURE_DESCRIPTION"
-msgid "Thanks to the Containment facility you can capture Pandorans for further research and analysis.[LF]Note! To capture a Pandoran you must ensure that you have paralyzed it by the end of a combat mission, and have enough containment slots available in your base.[LF]For additional slots you need to build more Containment facilities."
-msgstr "Thanks to the Containment facility you can capture Pandorans for further research and analysis.[LF]Note! To capture a Pandoran you must ensure that you have paralyzed it by the end of a combat mission, and have enough containment slots available in your base.[LF]For additional slots you need to build more Containment facilities."
+msgid "Thanks to the Containment facility you can capture Pandorans for further RESEARCH AND ANALYSIS.[LF][LF]Note! To capture a Pandoran you must ensure that you have paralyzed it by the end of a combat mission, and have enough containment slots available in your base.[LF]For additional slots you need to build more Containment facilities."
+msgstr "Thanks to the Containment facility you can capture Pandorans for further RESEARCH AND ANALYSIS.[LF][LF]Note! To capture a Pandoran you must ensure that you have paralyzed it by the end of a combat mission, and have enough containment slots available in your base.[LF]For additional slots you need to build more Containment facilities."
 
 msgctxt "Tutorial/KEY_TUTORIAL_MUTATION_NAME"
 msgid "Mutation and Mutagens"
 msgstr "Mutation and Mutagens"
 
 msgctxt "Tutorial/KEY_TUTORIAL_MUTATION_DESCRIPTION"
-msgid "The Mutation Lab allows you to use mutagens to mutate part of your soldiers allowing them to acquire new abilities. [LF]Mutagens are obtained with time from the Mutation lab, or can be harvested from captured Pandorans.[LF]Mutated body parts CANNOT be equipped with armor. "
-msgstr "The Mutation Lab allows you to use mutagens to mutate part of your soldiers allowing them to acquire new abilities. [LF]Mutagens are obtained with time from the Mutation lab, or can be harvested from captured Pandorans.[LF]Mutated body parts CANNOT be equipped with armor. "
+msgid "The Mutation Lab allows you to use mutagens to MUTATE PART OF YOUR SOLDIERS allowing them to acquire new abilities. [LF]Mutagens are obtained with time from the Mutation lab, or can be harvested from captured Pandorans.[LF][LF]Mutated body parts CANNOT be equipped with armor. "
+msgstr "The Mutation Lab allows you to use mutagens to MUTATE PART OF YOUR SOLDIERS allowing them to acquire new abilities. [LF]Mutagens are obtained with time from the Mutation lab, or can be harvested from captured Pandorans.[LF][LF]Mutated body parts CANNOT be equipped with armor. "
+
+msgctxt "Tutorial/KEY_TUTORIAL_TACTICAL1_STANDBY_NAME"
+msgid "Standby Mode"
+msgstr "Standby Mode"
 
 msgctxt "Tutorial/KEY_TUTORIAL_TACTICAL1_MOVEMENT_NAME"
 msgid "Camera and Movement"
 msgstr "Camera and Movement"
-
-msgctxt "Tutorial/KEY_TUTORIAL_TACTICAL1_MOVEMENT_DESCRIPTION"
-msgid "TRY THE CAMERA CONTROLS[LF]Camera movement: :LMB: + drag or use gamepad :RTS:[LF]Camera rotation: Q and E or use gamepad :DLEFT: and :DRIGHT:[LF]Camera zoom: T and G, hold :MW:, or use gamepad :LT:[LF]Floor level focus: scroll :MW: up or down, or use gamepad :DUP: and :DDOWN:[LF][LF]MOVE YOUR SOLDIER TO THE HIGHLIGHTED TILE[LF]:LMB: on the destination tile or move the Selection Marker with gamepad :RTS: and press :A:"
-msgstr "TRY THE CAMERA CONTROLS[LF]Camera movement: :LMB: + drag or use gamepad :RTS:[LF]Camera rotation: Q and E or use gamepad :DLEFT: and :DRIGHT:[LF]Camera zoom: T and G, hold :MW:, or use gamepad :LT:[LF]Floor level focus: scroll :MW: up or down, or use gamepad :DUP: and :DDOWN:[LF][LF]MOVE YOUR SOLDIER TO THE HIGHLIGHTED TILE[LF]:LMB: on the destination tile or move the Selection Marker with gamepad :RTS: and press :A:"
-
-msgctxt "Tutorial/KEY_TUTORIAL_TACTICAL1_MOVEMENT_DESCRIPTION_BIND"
-msgid "TRY THE CAMERA CONTROLS[LF]Camera movement: :LMB: + drag or use gamepad :RTS:[LF]Camera rotation: [<color=#ECBA62>{[Rotate Left]}</color>] and [<color=#ECBA62>{[Rotate Right]}</color>] or use gamepad :DLEFT: and :DRIGHT:[LF]Camera zoom: [<color=#ECBA62>{[Discrete Zoom In]}</color>] and [<color=#ECBA62>{[Discrete Zoom Out]}</color>], hold :MW:, or use gamepad :LT:[LF]Floor level focus: scroll :MW: up or down, or use gamepad :DUP: and :DDOWN:[LF][LF]MOVE YOUR SOLDIER TO THE HIGHLIGHTED TILE[LF]:LMB: on the destination tile or move the Selection Marker with gamepad :RTS: and press :A:"
-msgstr "TRY THE CAMERA CONTROLS[LF]Camera movement: :LMB: + drag or use gamepad :RTS:[LF]Camera rotation: [<color=#ECBA62>{[Rotate Left]}</color>] and [<color=#ECBA62>{[Rotate Right]}</color>] or use gamepad :DLEFT: and :DRIGHT:[LF]Camera zoom: [<color=#ECBA62>{[Discrete Zoom In]}</color>] and [<color=#ECBA62>{[Discrete Zoom Out]}</color>], hold :MW:, or use gamepad :LT:[LF]Floor level focus: scroll :MW: up or down, or use gamepad :DUP: and :DDOWN:[LF][LF]MOVE YOUR SOLDIER TO THE HIGHLIGHTED TILE[LF]:LMB: on the destination tile or move the Selection Marker with gamepad :RTS: and press :A:"
 
 msgctxt "Tutorial/KEY_TUTORIAL_TACTICAL1_SPOTTING_NAME"
 msgid "Spotting Enemies"
 msgstr "Spotting Enemies"
 
 msgctxt "Tutorial/KEY_TUTORIAL_TACTICAL1_SPOTTING_DESCRIPTION"
-msgid "ENEMY ICONS above your action bar show all spotted enemies.[LF][LF]А <color=#E51919>RED ICON</color> (<color=#E51919>:CRABMAN:</color>) shows an enemy in direct line of sight for the selected soldier."
-msgstr "ENEMY ICONS above your action bar show all spotted enemies.[LF][LF]А <color=#E51919>RED ICON</color> (<color=#E51919>:CRABMAN:</color>) shows an enemy in direct line of sight for the selected soldier."
+msgid "ENEMY ICONS above your Action Bar show all spotted enemies.[LF][LF]А RED ICON (<color=#E51919>:CRABMAN:</color>) shows an enemy in direct line of sight of the selected soldier."
+msgstr "ENEMY ICONS above your Action Bar show all spotted enemies.[LF][LF]А RED ICON (<color=#E51919>:CRABMAN:</color>) shows an enemy in direct line of sight of the selected soldier."
 
 msgctxt "Tutorial/KEY_TUTORIAL_TACTICAL1_SELECTION_NAME"
 msgid "Selecting Soldiers"
 msgstr "Selecting Soldiers"
-
-msgctxt "Tutorial/KEY_TUTORIAL_TACTICAL1_SELECTION_DESCRIPTION"
-msgid "SELECT YOUR SOLDIER[LF]:LMB: on the soldier, or move the Selection Marker with the gamepad onto the soldier and press :A:"
-msgstr "SELECT YOUR SOLDIER[LF]:LMB: on the soldier, or move the Selection Marker with the gamepad onto the soldier and press :A:"
 
 msgctxt "Tutorial/KEY_TUTORIAL_TACTICAL1_AP_NAME"
 msgid "Action Points and Movement"
 msgstr "Action Points and Movement"
 
 msgctxt "Tutorial/KEY_TUTORIAL_TACTICAL1_AP_DESCRIPTION"
-msgid "Soldiers have 4 Action Points (APs) to use for shooting and movement each turn. A soldier can move a number of tiles for each Action Point, depending on his speed.[LF][LF]Areas marked with a blue outline show tiles which the soldier can shoot from.[LF][LF]A blue shooting line will be shown at the Selection Marker position if an enemy can be shot from there.[LF][LF]MOVE TO THE HIGHLIGHTED TILE"
-msgstr "Soldiers have 4 Action Points (APs) to use for shooting and movement each turn. A soldier can move a number of tiles for each Action Point, depending on his speed.[LF][LF]Areas marked with a blue outline show tiles which the soldier can shoot from.[LF][LF]A blue shooting line will be shown at the Selection Marker position if an enemy can be shot from there.[LF][LF]MOVE TO THE HIGHLIGHTED TILE"
+msgid "Soldiers have 4 Action Points (APs) to use for shooting, actions, and movement each turn. A soldier can move a number of tiles for each AP, depending on his speed.[LF][LF]Tiles inside BLUE AREA  allow soldiers to move and shoot in the same turn.[LF][LF]A blue SHOOTING LINE will be drawn from the selected tile if an enemy can be shot from it.[LF][LF]MOVE TO THE HIGHLIGHTED TILE"
+msgstr "Soldiers have 4 Action Points (APs) to use for shooting, actions, and movement each turn. A soldier can move a number of tiles for each AP, depending on his speed.[LF][LF]Tiles inside BLUE AREA  allow soldiers to move and shoot in the same turn.[LF][LF]A blue SHOOTING LINE will be drawn from the selected tile if an enemy can be shot from it.[LF][LF]MOVE TO THE HIGHLIGHTED TILE"
 
 msgctxt "Tutorial/KEY_TUTORIAL_TACTICAL1_AP_PART2_NAME"
 msgid "Action Points and Actions"
 msgstr "Action Points and Actions"
 
-msgctxt "Tutorial/KEY_TUTORIAL_TACTICAL1_AP_PART2_DESCRIPTION"
-msgid "Action controls[LF]Select Action: :LMB: on the action icon, or use :RT: to enter the Action Bar and :DLEFT: and :DRIGHT: to select.[LF]Perform Action: :LMB: on the action button or icon, or use :A: (when in Action bar)[LF]Movement: :LMB: or :A: then select MOVE to go to the Selection Marker location[LF]Direct Movement: :RMB: to go directly to the Selection Marker location"
-msgstr "Action controls[LF]Select Action: :LMB: on the action icon, or use :RT: to enter the Action Bar and :DLEFT: and :DRIGHT: to select.[LF]Perform Action: :LMB: on the action button or icon, or use :A: (when in Action bar)[LF]Movement: :LMB: or :A: then select MOVE to go to the Selection Marker location[LF]Direct Movement: :RMB: to go directly to the Selection Marker location"
-
 msgctxt "Tutorial/KEY_TUTORIAL_TACTICAL1_SHOOTING_NAME"
-msgid "Shooting"
-msgstr "Shooting"
-
-msgctxt "Tutorial/KEY_TUTORIAL_TACTICAL1_SHOOTING_DESCRIPTION"
-msgid "The Health Bar indicates the current Hit Points. The Armor pips to the right show the amount of damage prevented for each shot.[LF][LF]When targeting an enemy, the amount of damage from an attack is shown on the health bar. The whiter the damage prediction, the more likely it is.[LF][LF]SELECT \"\"FIRE WEAPON\"\"[LF]:LMB: on the \"\"Fire Weapon\"\" icon, or gamepad :RT:[LF][LF]FIRE AT THE ENEMY[LF]:LMB: on the \"\"FIRE WEAPON\"\" button, or gamepad :RT:[LF]"
-msgstr "The Health Bar indicates the current Hit Points. The Armor pips to the right show the amount of damage prevented for each shot.[LF][LF]When targeting an enemy, the amount of damage from an attack is shown on the health bar. The whiter the damage prediction, the more likely it is.[LF][LF]SELECT \"\"FIRE WEAPON\"\"[LF]:LMB: on the \"\"Fire Weapon\"\" icon, or gamepad :RT:[LF][LF]FIRE AT THE ENEMY[LF]:LMB: on the \"\"FIRE WEAPON\"\" button, or gamepad :RT:[LF]"
-
-msgctxt "Tutorial/KEY_TUTORIAL_TACTICAL1_STANDBY_NAME"
-msgid "Standby Mode"
-msgstr "Standby Mode"
-
-msgctxt "Tutorial/KEY_TUTORIAL_TACTICAL1_STANDBY_DESCRIPTION"
-msgid "Once a soldier is out of APs he enters Standby Mode and the next soldier is selected. If there are no soldiers with APs remaining your turn ends. [LF][LF]You can order a soldier to enter Standby Mode by using the SPACEBAR, selecting the icon from the Action Bar, or using gamepad :B:[LF][LF]SELECT STANDBY MODE[LF]"
-msgstr "Once a soldier is out of APs he enters Standby Mode and the next soldier is selected. If there are no soldiers with APs remaining your turn ends. [LF][LF]You can order a soldier to enter Standby Mode by using the SPACEBAR, selecting the icon from the Action Bar, or using gamepad :B:[LF][LF]SELECT STANDBY MODE[LF]"
-
-msgctxt "Tutorial/KEY_TUTORIAL_TACTICAL1_STANDBY_DESCRIPTION_BIND"
-msgid "Once a soldier is out of APs he enters Standby Mode and the next soldier is selected. If there are no soldiers with APs remaining your turn ends. [LF][LF]You can order a soldier to enter Standby Mode by using the [<color=#ECBA62>{[SetEndTurnAbility]}</color>], selecting the icon from the Action Bar, or using gamepad :B:[LF][LF]SELECT STANDBY MODE[LF]"
-msgstr "Once a soldier is out of APs he enters Standby Mode and the next soldier is selected. If there are no soldiers with APs remaining your turn ends. [LF][LF]You can order a soldier to enter Standby Mode by using the [<color=#ECBA62>{[SetEndTurnAbility]}</color>], selecting the icon from the Action Bar, or using gamepad :B:[LF][LF]SELECT STANDBY MODE[LF]"
+msgid "Shooting and Health"
+msgstr "Shooting and Health"
 
 msgctxt "Tutorial/KEY_TUTORIAL_TACTICAL1_TURNS_NAME"
 msgid "End Turn"
 msgstr "End Turn"
 
-msgctxt "Tutorial/KEY_TUTORIAL_TACTICAL1_TURNS_DESCRIPTION"
-msgid "You can end your turn at any time by pressing the END TURN button on the screen, the BACKSPACE key, or using gamepad :BACK:. "
-msgstr "You can end your turn at any time by pressing the END TURN button on the screen, the BACKSPACE key, or using gamepad :BACK:. "
-
-msgctxt "Tutorial/KEY_TUTORIAL_TACTICAL1_TURNS_DESCRIPTION_BIND"
-msgid "You can end your turn at any time by pressing the END TURN button on the screen, the [<color=#ECBA62>{[EndTurn]}</color>] key, or using gamepad :BACK:. "
-msgstr "You can end your turn at any time by pressing the END TURN button on the screen, the [<color=#ECBA62>{[EndTurn]}</color>] key, or using gamepad :BACK:. "
-
-msgctxt "Tutorial/KEY_TUTORIAL_TACTICAL1_HEALTH_NAME"
-msgid "Damage and Body Parts"
-msgstr "Damage and Body Parts"
-
-msgctxt "Tutorial/KEY_TUTORIAL_TACTICAL1_HEALTH_DESCRIPTION"
-msgid "When a character is attacked, damage is done to the body part that was hit as well as reducing general Hit Points. Wounded body parts are marked in yellow on the Damage Display, left of the Health Bar. Disabled body parts are marked in red.[LF][LF]Disabled body parts will usually cause bleeding, and the loss of Strength and possibly Willpower. Any special ability given by the body part will be lost.[LF]"
-msgstr "When a character is attacked, damage is done to the body part that was hit as well as reducing general Hit Points. Wounded body parts are marked in yellow on the Damage Display, left of the Health Bar. Disabled body parts are marked in red.[LF][LF]Disabled body parts will usually cause bleeding, and the loss of Strength and possibly Willpower. Any special ability given by the body part will be lost.[LF]"
-
-msgctxt "Tutorial/KEY_TUTORIAL_TACTICAL1_COVER_NAME"
-msgid "Cover and Environment"
-msgstr "Cover and Environment"
-
-msgctxt "Tutorial/KEY_TUTORIAL_TACTICAL1_COVER_DESCRIPTION"
-msgid "Any object in the environment can provide cover by blocking the path of a projectile. However, soldiers will make use of cover in two different ways.[LF][LF]When next to a low obstacle or low wall, soldiers will crouch to reduce exposure.[LF][LF]When next to a high obstacle or high wall, soldiers will remain standing, but can step to the side to shoot.[LF][LF]NOW MOVE TO THE HIGHLIGHTED TILE"
-msgstr "Any object in the environment can provide cover by blocking the path of a projectile. However, soldiers will make use of cover in two different ways.[LF][LF]When next to a low obstacle or low wall, soldiers will crouch to reduce exposure.[LF][LF]When next to a high obstacle or high wall, soldiers will remain standing, but can step to the side to shoot.[LF][LF]NOW MOVE TO THE HIGHLIGHTED TILE"
-
 msgctxt "Tutorial/KEY_TUTORIAL_TACTICAL1_FREE_AIM_NAME"
 msgid "Free Aim Shooting"
 msgstr "Free Aim Shooting"
-
-msgctxt "Tutorial/KEY_TUTORIAL_TACTICAL1_FREE_AIM_DESCRIPTION"
-msgid "Free Aim allows you to target a body part and see the effects of disabling the body part.[LF][LF]Each body part has its own Hit Points and Armor value. Damage prediction is also shown for the targeted body part.[LF][LF]The outer blue circle shows you where all your shots will land. The more accurate the weapon, the smaller the circle.[LF][LF]FREE AIM CONTROLS[LF]Enter Free Aim: Press the Free Aim icon, scroll :MW: or use :RTS:[LF]Move Crosshair: move the Mouse or use :LTS:[LF]Zoom in/Out: scroll :MW: or use :RTS:[LF]Exit Free Aim: ESC or use :B:[LF][LF]ENTER FREE AIM MODE AND SHOOT THE ENEMY"
-msgstr "Free Aim allows you to target a body part and see the effects of disabling the body part.[LF][LF]Each body part has its own Hit Points and Armor value. Damage prediction is also shown for the targeted body part.[LF][LF]The outer blue circle shows you where all your shots will land. The more accurate the weapon, the smaller the circle.[LF][LF]FREE AIM CONTROLS[LF]Enter Free Aim: Press the Free Aim icon, scroll :MW: or use :RTS:[LF]Move Crosshair: move the Mouse or use :LTS:[LF]Zoom in/Out: scroll :MW: or use :RTS:[LF]Exit Free Aim: ESC or use :B:[LF][LF]ENTER FREE AIM MODE AND SHOOT THE ENEMY"
 
 msgctxt "Tutorial/KEY_TUTORIAL_TACTICAL1_VEHICLES_NAME"
 msgid "Vehicles"
 msgstr "Vehicles"
 
 msgctxt "Tutorial/KEY_TUTORIAL_TACTICAL1_VEHICLES_DESCRIPTION"
-msgid "Vehicles are armored personnel carriers with a mounted weapon.[LF][LF]Soldiers can enter the vehicle by moving on the Entry Marker next to the vehicle, and then pressing Enter Vehicle on the Action Bar.  [LF][LF]ENTER THE VEHICLE WITH BOTH SOLDIERS[LF]"
-msgstr "Vehicles are armored personnel carriers with a mounted weapon.[LF][LF]Soldiers can enter the vehicle by moving on the Entry Marker next to the vehicle, and then pressing Enter Vehicle on the Action Bar.  [LF][LF]ENTER THE VEHICLE WITH BOTH SOLDIERS[LF]"
+msgid "VEHICLES are a special type of unit that can transport Phoenix operatives.[LF][LF][LF]To enter the vehicle, move a soldier to the Entry Marker next to it, and select Enter Vehicle on the Action Bar.[LF][LF][LF]ENTER THE VEHICLE WITH BOTH SOLDIERS[LF]"
+msgstr "VEHICLES are a special type of unit that can transport Phoenix operatives.[LF][LF][LF]To enter the vehicle, move a soldier to the Entry Marker next to it, and select Enter Vehicle on the Action Bar.[LF][LF][LF]ENTER THE VEHICLE WITH BOTH SOLDIERS[LF]"
 
 msgctxt "Tutorial/KEY_TUTORIAL_TACTICAL2_INVENTORY_NAME"
 msgid "Inventory"
@@ -5519,44 +5999,52 @@ msgid "Recruiting Soldiers"
 msgstr "Recruiting Soldiers"
 
 msgctxt "Tutorial/KEY_TUTORIAL_RECRUITMENT_DESCRIPTION"
-msgid "Recruiting is vital in order to achieve victory.[LF]In order to recruit, send your aircraft to a haven with a \"\"Recruit Soldier\"\" icon next to it (you will need to zoom in to see them).[LF]Then select HAVEN INFO from the site menu, and press the recruitment button on the training zone of the haven.[LF]You can only recruit if you have enough resources and the Haven Leader has a positive attitude to Phoenix.[LF]"
-msgstr "Recruiting is vital in order to achieve victory.[LF]In order to recruit, send your aircraft to a haven with a \"\"Recruit Soldier\"\" icon next to it (you will need to zoom in to see them).[LF]Then select HAVEN INFO from the site menu, and press the recruitment button on the training zone of the haven.[LF]You can only recruit if you have enough resources and the Haven Leader has a positive attitude to Phoenix.[LF]"
+msgid "Recruiting is vital in order to achieve victory.[LF][LF]In order to recruit, send your aircraft to a haven with a \"\"Recruit Soldier\"\" icon next to it (zoom in to see them).[LF][LF]Then select HAVEN INFO from the site menu, and press the recruitment button on the training zone of the haven.[LF][LF]You can only recruit if you have enough resources and the Haven Leader has a positive attitude to Phoenix.[LF]"
+msgstr "Recruiting is vital in order to achieve victory.[LF][LF]In order to recruit, send your aircraft to a haven with a \"\"Recruit Soldier\"\" icon next to it (zoom in to see them).[LF][LF]Then select HAVEN INFO from the site menu, and press the recruitment button on the training zone of the haven.[LF][LF]You can only recruit if you have enough resources and the Haven Leader has a positive attitude to Phoenix.[LF]"
 
 msgctxt "Tutorial/KEY_TUTORIAL_CAPTURE_PARALYZE_NAME"
 msgid "Paralysis and Capture"
 msgstr "Paralysis and Capture"
 
 msgctxt "Tutorial/KEY_TUTORIAL_CAPTURE_PARALYZE_DESCRIPTION"
-msgid "In order to capture a Pandoran you need to equip a Neurazer, move next to it and melee attack until it is paralyzed.[LF]When the PARALYSIS value is greater than the target’s Strength, the enemy is PARALYZED and will be captured at the end of the mission. Targets will lose 1 paralysis point per turn, so do not let them recover if possible.[LF]Disabling enemy body parts decreases the enemy’s overall Strength, making it easier to capture.[LF]You will need to manufacture Neurazers to equip your squad and build a containment facility to capture Pandorans."
-msgstr "In order to capture a Pandoran you need to equip a Neurazer, move next to it and melee attack until it is paralyzed.[LF]When the PARALYSIS value is greater than the target’s Strength, the enemy is PARALYZED and will be captured at the end of the mission. Targets will lose 1 paralysis point per turn, so do not let them recover if possible.[LF]Disabling enemy body parts decreases the enemy’s overall Strength, making it easier to capture.[LF]You will need to manufacture Neurazers to equip your squad and build a containment facility to capture Pandorans."
+msgid "In order to capture a Pandoran you need to EQUIP A NEURAZER, move next to it and melee attack until it is paralyzed.[LF][LF]When the PARALYSIS value is greater than the target’s Strength, the enemy is PARALYZED and will be captured at the end of the mission. Targets will lose 1 paralysis point per turn, so do not let them recover if possible.[LF]Disabling enemy body parts decreases the enemy’s overall Strength, making it easier to capture.[LF][LF]You will need to manufacture Neurazers for your squad and build a containment facility in a base to capture Pandorans."
+msgstr "In order to capture a Pandoran you need to EQUIP A NEURAZER, move next to it and melee attack until it is paralyzed.[LF][LF]When the PARALYSIS value is greater than the target’s Strength, the enemy is PARALYZED and will be captured at the end of the mission. Targets will lose 1 paralysis point per turn, so do not let them recover if possible.[LF]Disabling enemy body parts decreases the enemy’s overall Strength, making it easier to capture.[LF][LF]You will need to manufacture Neurazers for your squad and build a containment facility in a base to capture Pandorans."
+
+msgctxt "Tutorial/KEY_TUTORIAL_TACTICAL1_HEALTH_NAME"
+msgid "Damage and Body Parts"
+msgstr "Damage and Body Parts"
+
+msgctxt "Tutorial/KEY_TUTORIAL_TACTICAL1_HEALTH_DESCRIPTION"
+msgid "When a character is attacked, damage is done to the body part that was hit as well as reducing general Hit Points. Wounded body parts are marked in yellow on the Damage Display, left of the Health Bar. Disabled body parts are marked in red.[LF][LF]Disabled body parts will usually cause bleeding, and the loss of Strength and possibly Willpower. Any special ability given by the body part will be lost.[LF]"
+msgstr "When a character is attacked, damage is done to the body part that was hit as well as reducing general Hit Points. Wounded body parts are marked in yellow on the Damage Display, left of the Health Bar. Disabled body parts are marked in red.[LF][LF]Disabled body parts will usually cause bleeding, and the loss of Strength and possibly Willpower. Any special ability given by the body part will be lost.[LF]"
+
+msgctxt "Tutorial/KEY_TUTORIAL_TACTICAL1_COVER_NAME"
+msgid "Cover and Environment"
+msgstr "Cover and Environment"
+
+msgctxt "Tutorial/KEY_TUTORIAL_TACTICAL1_COVER_DESCRIPTION"
+msgid "Any object in the environment can provide cover by blocking the path of a projectile. However, soldiers will make use of cover in two different ways.[LF][LF]When next to a low obstacle or low wall, soldiers will crouch to reduce exposure.[LF][LF]When next to a high obstacle or high wall, soldiers will remain standing, but can step to the side to shoot.[LF][LF]NOW MOVE TO THE HIGHLIGHTED TILE"
+msgstr "Any object in the environment can provide cover by blocking the path of a projectile. However, soldiers will make use of cover in two different ways.[LF][LF]When next to a low obstacle or low wall, soldiers will crouch to reduce exposure.[LF][LF]When next to a high obstacle or high wall, soldiers will remain standing, but can step to the side to shoot.[LF][LF]NOW MOVE TO THE HIGHLIGHTED TILE"
 
 msgctxt "TutorialRoom8/KEY_TUTORIAL_TACTICAL1_MOVEMENT_DESCRIPTION_BIND_K"
-msgid "TRY THE CAMERA CONTROLS[LF]Camera movement: :LMB: + drag[LF]Camera rotation: [<color=#ECBA62>{[Rotate Left]}</color>] and [<color=#ECBA62>{[Rotate Right]}</color>][LF]Camera zoom: [<color=#ECBA62>{[Discrete Zoom In]}</color>] and [<color=#ECBA62>{[Discrete Zoom Out]}</color>], hold :MW:[LF]Floor level focus: scroll :MW: up or down[LF][LF]MOVE YOUR SOLDIER TO THE HIGHLIGHTED TILE[LF]:LMB: on the destination tile"
-msgstr "TRY THE CAMERA CONTROLS[LF]Camera movement: :LMB: + drag[LF]Camera rotation: [<color=#ECBA62>{[Rotate Left]}</color>] and [<color=#ECBA62>{[Rotate Right]}</color>][LF]Camera zoom: [<color=#ECBA62>{[Discrete Zoom In]}</color>] and [<color=#ECBA62>{[Discrete Zoom Out]}</color>], hold :MW:[LF]Floor level focus: scroll :MW: up or down[LF][LF]MOVE YOUR SOLDIER TO THE HIGHLIGHTED TILE[LF]:LMB: on the destination tile"
+msgid "TRY THE CAMERA CONTROLS[LF][LF]Camera movement: :LMB: + drag[LF]Camera rotation: [<color=#ECBA62>{[Rotate Left]}</color>] and [<color=#ECBA62>{[Rotate Right]}</color>][LF]Camera zoom: [<color=#ECBA62>{[Discrete Zoom In]}</color>] and [<color=#ECBA62>{[Discrete Zoom Out]}</color>][LF]Floor level focus: scroll :MW: up or down[LF][LF]MOVE YOUR SOLDIER TO THE HIGHLIGHTED TILE[LF]:LMB: on the destination tile"
+msgstr "TRY THE CAMERA CONTROLS[LF][LF]Camera movement: :LMB: + drag[LF]Camera rotation: [<color=#ECBA62>{[Rotate Left]}</color>] and [<color=#ECBA62>{[Rotate Right]}</color>][LF]Camera zoom: [<color=#ECBA62>{[Discrete Zoom In]}</color>] and [<color=#ECBA62>{[Discrete Zoom Out]}</color>][LF]Floor level focus: scroll :MW: up or down[LF][LF]MOVE YOUR SOLDIER TO THE HIGHLIGHTED TILE[LF]:LMB: on the destination tile"
 
 msgctxt "TutorialRoom8/KEY_TUTORIAL_TACTICAL1_SELECTION_DESCRIPTION_K"
-msgid "SELECT YOUR SOLDIER[LF]:LMB: on the soldier"
-msgstr "SELECT YOUR SOLDIER[LF]:LMB: on the soldier"
-
-msgctxt "TutorialRoom8/KEY_TUTORIAL_TACTICAL1_AP_PART2_DESCRIPTION_K"
-msgid "Action controls[LF][LF]Select Action: :LMB: on the action icon[LF]Perform Action: :LMB: on the action button or icon[LF][LF]Movement: :LMB: then select MOVE to go to the Selection Marker location[LF]Direct Movement: :RMB: to go directly to the Selection Marker location"
-msgstr "Action controls[LF][LF]Select Action: :LMB: on the action icon[LF]Perform Action: :LMB: on the action button or icon[LF][LF]Movement: :LMB: then select MOVE to go to the Selection Marker location[LF]Direct Movement: :RMB: to go directly to the Selection Marker location"
+msgid "SELECT YOUR SOLDIER[LF][LF]:LMB: on the soldier"
+msgstr "SELECT YOUR SOLDIER[LF][LF]:LMB: on the soldier"
 
 msgctxt "TutorialRoom8/KEY_TUTORIAL_TACTICAL1_SHOOTING_DESCRIPTION_K"
-msgid "The Health Bar indicates the current Hit Points. The Armor pips to the right show the amount of damage prevented for each shot.[LF][LF]When targeting an enemy, the amount of damage from an attack is shown on the health bar. The whiter the damage prediction, the more likely it is.[LF][LF]SELECT \"\"FIRE WEAPON\"\"[LF]:LMB: on the \"\"Fire Weapon\"\" icon[LF][LF]FIRE AT THE ENEMY[LF]:LMB: on the \"\"FIRE WEAPON\"\" button[LF]"
-msgstr "The Health Bar indicates the current Hit Points. The Armor pips to the right show the amount of damage prevented for each shot.[LF][LF]When targeting an enemy, the amount of damage from an attack is shown on the health bar. The whiter the damage prediction, the more likely it is.[LF][LF]SELECT \"\"FIRE WEAPON\"\"[LF]:LMB: on the \"\"Fire Weapon\"\" icon[LF][LF]FIRE AT THE ENEMY[LF]:LMB: on the \"\"FIRE WEAPON\"\" button[LF]"
-
-msgctxt "TutorialRoom8/KEY_TUTORIAL_TACTICAL1_STANDBY_DESCRIPTION_BIND_K"
-msgid "Once a soldier is out of APs he enters Standby Mode and the next soldier is selected. If there are no soldiers with APs remaining your turn ends. [LF][LF]You can order a soldier to enter Standby Mode by using the [<color=#ECBA62>{[SetEndTurnAbility]}</color>] or selecting the icon from the Action Bar[LF][LF]SELECT STANDBY MODE[LF]"
-msgstr "Once a soldier is out of APs he enters Standby Mode and the next soldier is selected. If there are no soldiers with APs remaining your turn ends. [LF][LF]You can order a soldier to enter Standby Mode by using the [<color=#ECBA62>{[SetEndTurnAbility]}</color>] or selecting the icon from the Action Bar[LF][LF]SELECT STANDBY MODE[LF]"
+msgid "A soldier's movement is interrupted if an enemy is SPOTTED. This doesn't end the soldier's turn.[LF][LF]The HEALTH BAR  indicates the current Hit Points.[CR][LF][CR][LF]When targeting an enemy, the AMOUNT OF DAMAGE from an attack is shown on the Health Bar.[CR][LF][CR][LF]The brighter the color, the higher the DAMAGE POTENTIAL.[CR][LF][CR][LF]This shot is marked in white. It’s almost guaranteed to kill the Arthron.[LF][LF]SELECT \"\"FIRE WEAPON\"\"[LF]:LMB: on the \"\"Fire Weapon\"\" icon[LF][LF]FIRE AT THE ENEMY[LF]:LMB: on the \"\"FIRE WEAPON\"\" button[LF]"
+msgstr "A soldier's movement is interrupted if an enemy is SPOTTED. This doesn't end the soldier's turn.[LF][LF]The HEALTH BAR  indicates the current Hit Points.[CR][LF][CR][LF]When targeting an enemy, the AMOUNT OF DAMAGE from an attack is shown on the Health Bar.[CR][LF][CR][LF]The brighter the color, the higher the DAMAGE POTENTIAL.[CR][LF][CR][LF]This shot is marked in white. It’s almost guaranteed to kill the Arthron.[LF][LF]SELECT \"\"FIRE WEAPON\"\"[LF]:LMB: on the \"\"Fire Weapon\"\" icon[LF][LF]FIRE AT THE ENEMY[LF]:LMB: on the \"\"FIRE WEAPON\"\" button[LF]"
 
 msgctxt "TutorialRoom8/KEY_TUTORIAL_TACTICAL1_TURNS_DESCRIPTION_BIND_K"
 msgid "You can end your turn at any time by pressing the END TURN button on the screen or the [<color=#ECBA62>{[EndTurn]}</color>] key"
 msgstr "You can end your turn at any time by pressing the END TURN button on the screen or the [<color=#ECBA62>{[EndTurn]}</color>] key"
 
 msgctxt "TutorialRoom8/KEY_TUTORIAL_TACTICAL1_FREE_AIM_DESCRIPTION_K"
-msgid "Free Aim allows you to target a body part and see the effects of disabling the body part.[LF][LF]Each body part has its own Hit Points and Armor value. Damage prediction is also shown for the targeted body part.[LF][LF]The outer blue circle shows you where all your shots will land. The more accurate the weapon, the smaller the circle.[LF][LF]FREE AIM CONTROLS[LF]Enter Free Aim: Press the Free Aim icon or scroll :MW:[LF]Move Crosshair: move the Mouse[LF]Zoom in/Out: scroll :MW:[LF]Exit Free Aim: ESC[LF][LF]ENTER FREE AIM MODE AND SHOOT THE ENEMY"
-msgstr "Free Aim allows you to target a body part and see the effects of disabling the body part.[LF][LF]Each body part has its own Hit Points and Armor value. Damage prediction is also shown for the targeted body part.[LF][LF]The outer blue circle shows you where all your shots will land. The more accurate the weapon, the smaller the circle.[LF][LF]FREE AIM CONTROLS[LF]Enter Free Aim: Press the Free Aim icon or scroll :MW:[LF]Move Crosshair: move the Mouse[LF]Zoom in/Out: scroll :MW:[LF]Exit Free Aim: ESC[LF][LF]ENTER FREE AIM MODE AND SHOOT THE ENEMY"
+msgid "When shooting, you  can enter Free Aim mode for PRECISE TARGETING of body parts.[LF][LF]Each body part has its own Hit Points and Armor value. Damage prediction is also shown for the targeted body part.[LF][LF]The outer BLUE CIRCLE shows you where all shots will land. The more accurate the weapon, the smaller the circle.[LF][LF]FREE AIM CONTROLS[LF]Enter Free Aim: Press the Free Aim icon or scroll :MW:[LF]Move Crosshair: move the mouse[LF]Zoom in/Out: scroll :MW:[LF]Exit Free Aim: ESC[LF][LF]ENTER FREE AIM MODE AND SHOOT THE ENEMY"
+msgstr "When shooting, you  can enter Free Aim mode for PRECISE TARGETING of body parts.[LF][LF]Each body part has its own Hit Points and Armor value. Damage prediction is also shown for the targeted body part.[LF][LF]The outer BLUE CIRCLE shows you where all shots will land. The more accurate the weapon, the smaller the circle.[LF][LF]FREE AIM CONTROLS[LF]Enter Free Aim: Press the Free Aim icon or scroll :MW:[LF]Move Crosshair: move the mouse[LF]Zoom in/Out: scroll :MW:[LF]Exit Free Aim: ESC[LF][LF]ENTER FREE AIM MODE AND SHOOT THE ENEMY"
 
 msgctxt "TutorialRoom8/KEY_TUTORIAL_TACTICAL2_INVENTORY_DESCRIPTION_BIND_K"
 msgid "The Inventory shows everything carried by a soldier, and items on the ground or in adjacent crates.[LF][LF]ENCUMBRANCE[LF]If the weight of all carried items and armor is greater than the soldier's Strength then the soldier suffers a movement penalty.[LF][LF]ACCESS THE INVENTORY[LF]Press the inventory icon or the [<color=#ECBA62>{[SetInventoryAbility]}</color>] key"
@@ -5574,57 +6062,821 @@ msgctxt "TutorialRoom8/KEY_TUTORIAL_TACTICAL2_OVERWATCH_DESCRIPTION_BIND_K"
 msgid "The Overwatch ability allows soldiers to guard an area during the enemy’s turn. If an enemy enters the Overwatch cone, it is attacked automatically.[LF][LF]OVERWATCH CONTROLS[LF]Enter Overwatch mode: Select the Overwatch icon from the Action Bar or press [<color=#ECBA62>{[SetOverwatchAbility]}</color>][LF]Select target position: Move Mouse[LF]Change width of overwatch zone: CTRL + :MW:[LF]Confirm Overwatch: :LMB:[LF][LF]MOVE YOUR SOLDIER AND SET OVERWATCH[LF]:LMB: on the highlighted target position towards the two approaching enemies."
 msgstr "The Overwatch ability allows soldiers to guard an area during the enemy’s turn. If an enemy enters the Overwatch cone, it is attacked automatically.[LF][LF]OVERWATCH CONTROLS[LF]Enter Overwatch mode: Select the Overwatch icon from the Action Bar or press [<color=#ECBA62>{[SetOverwatchAbility]}</color>][LF]Select target position: Move Mouse[LF]Change width of overwatch zone: CTRL + :MW:[LF]Confirm Overwatch: :LMB:[LF][LF]MOVE YOUR SOLDIER AND SET OVERWATCH[LF]:LMB: on the highlighted target position towards the two approaching enemies."
 
+msgctxt "TutorialRoom8/KEY_TUTORIAL_TACTICAL1_STANDBY_DESCRIPTION_BIND_K"
+msgid "Once a soldier is out of APs he enters Standby Mode and the next soldier is selected. If there are no soldiers with APs remaining your turn ends. [LF][LF]You can order a soldier to enter Standby Mode by using the [<color=#ECBA62>{[SetEndTurnAbility]}</color>], or selecting the icon from the Action Bar.[LF][LF]SELECT STANDBY MODE[LF]"
+msgstr "Once a soldier is out of APs he enters Standby Mode and the next soldier is selected. If there are no soldiers with APs remaining your turn ends. [LF][LF]You can order a soldier to enter Standby Mode by using the [<color=#ECBA62>{[SetEndTurnAbility]}</color>], or selecting the icon from the Action Bar.[LF][LF]SELECT STANDBY MODE[LF]"
+
+msgctxt "TutorialRoom8/KEY_TUTORIAL_TACTICAL1_AP_PART2_DESCRIPTION_K"
+msgid "Action controls[LF][LF]Select Action: :LMB: on the action icon[LF]Perform Action: :LMB: on the action button or icon[LF][LF]Movement: :LMB: then select MOVE to go to the Selection Marker location[LF][LF]Direct Movement: :RMB: to go directly to the Selection Marker location"
+msgstr "Action controls[LF][LF]Select Action: :LMB: on the action icon[LF]Perform Action: :LMB: on the action button or icon[LF][LF]Movement: :LMB: then select MOVE to go to the Selection Marker location[LF][LF]Direct Movement: :RMB: to go directly to the Selection Marker location"
+
 msgctxt "TutorialRoom8/KEY_TUTORIAL_TACTICAL1_MOVEMENT_DESCRIPTION_BIND_C"
-msgid "TRY THE CAMERA CONTROLS[LF]Camera movement: :RTS:[LF]Camera rotation: :DLEFT: and :DRIGHT:[LF]Camera zoom: :LT:[LF]Floor level focus: :DUP: and :DDOWN:[LF][LF]MOVE YOUR SOLDIER TO THE HIGHLIGHTED TILE[LF]:RTS: on the destination tile and press :A:"
-msgstr "TRY THE CAMERA CONTROLS[LF]Camera movement: :RTS:[LF]Camera rotation: :DLEFT: and :DRIGHT:[LF]Camera zoom: :LT:[LF]Floor level focus: :DUP: and :DDOWN:[LF][LF]MOVE YOUR SOLDIER TO THE HIGHLIGHTED TILE[LF]:RTS: on the destination tile and press :A:"
+msgid "TRY THE CAMERA CONTROLS[LF][LF]Camera movement: <size=60>:LTS:</size>[LF]Camera rotation: <size=60>:RTSLEFT:</size> and <size=60>:RTSRIGHT:</size>[LF]Camera zoom: <size=60>:DUP:</size> and <size=60>:DDOWN:</size>[LF]Floor level focus: <size=60>:RTSUP:</size> and <size=60>:RTSDOWN:</size>[LF][LF]MOVE YOUR SOLDIER TO THE HIGHLIGHTED TILE[LF]Мove the Selection Marker with <size=60>:LTS:</size> and press <size=60>:A:</size>"
+msgstr "TRY THE CAMERA CONTROLS[LF][LF]Camera movement: <size=60>:LTS:</size>[LF]Camera rotation: <size=60>:RTSLEFT:</size> and <size=60>:RTSRIGHT:</size>[LF]Camera zoom: <size=60>:DUP:</size> and <size=60>:DDOWN:</size>[LF]Floor level focus: <size=60>:RTSUP:</size> and <size=60>:RTSDOWN:</size>[LF][LF]MOVE YOUR SOLDIER TO THE HIGHLIGHTED TILE[LF]Мove the Selection Marker with <size=60>:LTS:</size> and press <size=60>:A:</size>"
 
 msgctxt "TutorialRoom8/KEY_TUTORIAL_TACTICAL1_SELECTION_DESCRIPTION_BIND_C"
+msgid "SELECT YOUR SOLDIER[LF]Move the Selection Marker with the gamepad onto the soldier and press <size=60>:A:</size>"
+msgstr "SELECT YOUR SOLDIER[LF]Move the Selection Marker with the gamepad onto the soldier and press <size=60>:A:</size>"
+
+msgctxt "TutorialRoom8/KEY_TUTORIAL_TACTICAL1_SHOOTING_DESCRIPTION_C"
+msgid "A soldier's movement is interrupted if an enemy is SPOTTED. This doesn't end the soldier's turn.[LF][LF]The HEALTH BAR  indicates the current Hit Points.[LF][LF]When targeting an enemy, the AMOUNT OF DAMAGE from an attack is shown on the Health Bar.[LF][LF]The brighter the color, the higher the DAMAGE POTENTIAL.[LF][LF]This shot is marked in white. It’s almost guaranteed to kill the Arthron.[LF][LF]SELECT \"\"FIRE WEAPON\"\"[LF]<size=60>:RT:</size>[LF][LF]FIRE AT THE ENEMY[LF]<size=60>:A:</size>"
+msgstr "A soldier's movement is interrupted if an enemy is SPOTTED. This doesn't end the soldier's turn.[LF][LF]The HEALTH BAR  indicates the current Hit Points.[LF][LF]When targeting an enemy, the AMOUNT OF DAMAGE from an attack is shown on the Health Bar.[LF][LF]The brighter the color, the higher the DAMAGE POTENTIAL.[LF][LF]This shot is marked in white. It’s almost guaranteed to kill the Arthron.[LF][LF]SELECT \"\"FIRE WEAPON\"\"[LF]<size=60>:RT:</size>[LF][LF]FIRE AT THE ENEMY[LF]<size=60>:A:</size>"
+
+msgctxt "TutorialRoom8/KEY_TUTORIAL_TACTICAL1_TURNS_DESCRIPTION_BIND_C"
+msgid "You can end your turn at any time by pressing <size=60>:BACK:</size>"
+msgstr "You can end your turn at any time by pressing <size=60>:BACK:</size>"
+
+msgctxt "TutorialRoom8/KEY_TUTORIAL_TACTICAL1_FREE_AIM_DESCRIPTION_C"
+msgid "When shooting, you  can enter Free Aim mode for PRECISE TARGETING of body parts.[LF][LF]Each body part has its own Hit Points and Armor value. Damage prediction is also shown for the targeted body part.[LF][LF]The outer BLUE CIRCLE shows you where all shots will land. The more accurate the weapon, the smaller the circle.[LF][LF]FREE AIM CONTROLS[LF]Enter Free Aim: <size=60>:RTS:</size>[LF]Move Crosshair: <size=60>:LTS:</size>[LF]Zoom in/Out: <size=60>:RTS:</size>[LF]Exit Free Aim: <size=60>:B:</size>[LF][LF]ENTER FREE AIM MODE AND SHOOT THE ENEMY"
+msgstr "When shooting, you  can enter Free Aim mode for PRECISE TARGETING of body parts.[LF][LF]Each body part has its own Hit Points and Armor value. Damage prediction is also shown for the targeted body part.[LF][LF]The outer BLUE CIRCLE shows you where all shots will land. The more accurate the weapon, the smaller the circle.[LF][LF]FREE AIM CONTROLS[LF]Enter Free Aim: <size=60>:RTS:</size>[LF]Move Crosshair: <size=60>:LTS:</size>[LF]Zoom in/Out: <size=60>:RTS:</size>[LF]Exit Free Aim: <size=60>:B:</size>[LF][LF]ENTER FREE AIM MODE AND SHOOT THE ENEMY"
+
+msgctxt "TutorialRoom8/KEY_TUTORIAL_TACTICAL2_INVENTORY_DESCRIPTION_BIND_C"
+msgid "The Inventory shows everything carried by a soldier, and items on the ground or in adjacent crates.[LF][LF]ENCUMBRANCE[LF]If the weight of all carried items and armor is greater than the soldier's Strength then the soldier suffers a movement penalty.[LF][LF]ACCESS THE INVENTORY[LF]Press <size=60>:DLEFT:</size>"
+msgstr "The Inventory shows everything carried by a soldier, and items on the ground or in adjacent crates.[LF][LF]ENCUMBRANCE[LF]If the weight of all carried items and armor is greater than the soldier's Strength then the soldier suffers a movement penalty.[LF][LF]ACCESS THE INVENTORY[LF]Press <size=60>:DLEFT:</size>"
+
+msgctxt "TutorialRoom8/KEY_TUTORIAL_TACTICAL2_READY_ITEMS_DESCRIPTION_BIND_C"
+msgid "Items in the ready section of the inventory are shown in the Ready Items Bar. They can be selected for use without an AP cost.[LF][LF]READY ITEMS BAR CONTROLS[LF][LF]Select next item: <size=60>:X:</size>[LF][LF]SELECT THE GRENADE"
+msgstr "Items in the ready section of the inventory are shown in the Ready Items Bar. They can be selected for use without an AP cost.[LF][LF]READY ITEMS BAR CONTROLS[LF][LF]Select next item: <size=60>:X:</size>[LF][LF]SELECT THE GRENADE"
+
+msgctxt "TutorialRoom8/KEY_TUTORIAL_TACTICAL2_GRENADE_DESCRIPTION_C"
+msgid "Grenades do area damage around the spot where they land. An orange sphere shows the area of effect. The distance at which a grenade can be thrown depends on the soldier's Strength and abilities.[LF][LF]SELECT THE \"\"THROW GRENADE\"\" ACTION[LF]Then target the space between the two enemies.[LF][LF]Throw grenade <size=60>:A:</size>"
+msgstr "Grenades do area damage around the spot where they land. An orange sphere shows the area of effect. The distance at which a grenade can be thrown depends on the soldier's Strength and abilities.[LF][LF]SELECT THE \"\"THROW GRENADE\"\" ACTION[LF]Then target the space between the two enemies.[LF][LF]Throw grenade <size=60>:A:</size>"
+
+msgctxt "TutorialRoom8/KEY_TUTORIAL_TACTICAL2_OVERWATCH_DESCRIPTION_BIND_C"
+msgid "The Overwatch ability allows soldiers to guard an area during the enemy’s turn. If an enemy enters the Overwatch cone, it is attacked automatically.[LF][LF]OVERWATCH CONTROLS[LF]Enter Overwatch mode: Select the Overwatch icon from the Action Bar, or press <size=60>:Y:</size>[LF]Select target position: <size=60>:LTS:</size>[LF]Change width of overwatch zone: <size=60>:LB:</size> and <size=60>:RB:</size>[LF]Confirm Overwatch: <size=60>:A:</size>[LF][LF]MOVE YOUR SOLDIER AND SET OVERWATCH[LF]<size=60>:A:</size> on the highlighted target position towards the two approaching enemies."
+msgstr "The Overwatch ability allows soldiers to guard an area during the enemy’s turn. If an enemy enters the Overwatch cone, it is attacked automatically.[LF][LF]OVERWATCH CONTROLS[LF]Enter Overwatch mode: Select the Overwatch icon from the Action Bar, or press <size=60>:Y:</size>[LF]Select target position: <size=60>:LTS:</size>[LF]Change width of overwatch zone: <size=60>:LB:</size> and <size=60>:RB:</size>[LF]Confirm Overwatch: <size=60>:A:</size>[LF][LF]MOVE YOUR SOLDIER AND SET OVERWATCH[LF]<size=60>:A:</size> on the highlighted target position towards the two approaching enemies."
+
+msgctxt "TutorialRoom8/KEY_TUTORIAL_TACTICAL1_STANDBY_DESCRIPTION_BIND_C"
+msgid "Once a soldier is out of APs he enters Standby Mode and the next soldier is selected. If there are no soldiers with APs remaining your turn ends. [LF][LF]You can order a soldier to enter Standby Mode by selecting the icon from the Action Bar, or using gamepad <size=60>:B:</size>[LF][LF]SELECT STANDBY MODE[LF]"
+msgstr "Once a soldier is out of APs he enters Standby Mode and the next soldier is selected. If there are no soldiers with APs remaining your turn ends. [LF][LF]You can order a soldier to enter Standby Mode by selecting the icon from the Action Bar, or using gamepad <size=60>:B:</size>[LF][LF]SELECT STANDBY MODE[LF]"
+
+msgctxt "TutorialRoom8/KEY_TUTORIAL_TACTICAL1_AP_PART2_DESCRIPTION_C"
+msgid "Action controls[LF][LF]Select Action: Use <size=60>:RT:</size> to enter the Action Bar and <size=60>:DLEFT:</size> and <size=60>:DRIGHT:</size> to select, and <size=60>:A:</size> to perform action.[LF][LF]Movement: <size=60>:A:</size> then select MOVE to go to the Selection Marker location"
+msgstr "Action controls[LF][LF]Select Action: Use <size=60>:RT:</size> to enter the Action Bar and <size=60>:DLEFT:</size> and <size=60>:DRIGHT:</size> to select, and <size=60>:A:</size> to perform action.[LF][LF]Movement: <size=60>:A:</size> then select MOVE to go to the Selection Marker location"
+
+msgctxt "TutorialRoom8/KEY_TUTORIAL_BASE_DESCRIPTION_K"
+msgid "Your Base is your stronghold containing ALL FACILITIES, as well as vital resources such as Food, Materials, and Tech.[LF][LF]Phoenix Point is in bad shape. You need to repair your vehicle bay before you can launch your Manticore aircraft - and it will take some time.[LF][LF]START REPAIR OF YOUR VEHICLE BAY[LF]:LMB: on the REPAIR FACILITY button.[LF][LF]THEN RETURN TO GEOSCAPE AND ADVANCE TIME"
+msgstr "Your Base is your stronghold containing ALL FACILITIES, as well as vital resources such as Food, Materials, and Tech.[LF][LF]Phoenix Point is in bad shape. You need to repair your vehicle bay before you can launch your Manticore aircraft - and it will take some time.[LF][LF]START REPAIR OF YOUR VEHICLE BAY[LF]:LMB: on the REPAIR FACILITY button.[LF][LF]THEN RETURN TO GEOSCAPE AND ADVANCE TIME"
+
+msgctxt "TutorialRoom8/KEY_TUTORIAL_MANTICORE_DESCRIPTION_K"
+msgid "The Manticore is YOUR AIRCRAFT for transporting soldiers and exploring the world. The aircraft’s crew is shown in the Aircraft bar in the bottom of the screen, using their soldier class icons.[LF][LF]SEND YOUR MANTICORE TO THE UNEXPLORED SITE[LF]:LMB: on the location, then select \"\"MOVE\"\" from the action menu."
+msgstr "The Manticore is YOUR AIRCRAFT for transporting soldiers and exploring the world. The aircraft’s crew is shown in the Aircraft bar in the bottom of the screen, using their soldier class icons.[LF][LF]SEND YOUR MANTICORE TO THE UNEXPLORED SITE[LF]:LMB: on the location, then select \"\"MOVE\"\" from the action menu."
+
+msgctxt "TutorialRoom8/KEY_TUTORIAL_EXPLORATION_DESCRIPTION_K"
+msgid "Initially, all sites on the Geoscape are unexplored (marked with a question mark).[LF][LF]You need at least one soldier onboard an aircraft in order to explore. Exploration takes time and you may get ambushed, so be on your guard.[LF][LF]EXPLORE THE SITE[LF]:LMB: on the site to show the site menu, and select \"\"EXPLORE\"\"[LF]"
+msgstr "Initially, all sites on the Geoscape are unexplored (marked with a question mark).[LF][LF]You need at least one soldier onboard an aircraft in order to explore. Exploration takes time and you may get ambushed, so be on your guard.[LF][LF]EXPLORE THE SITE[LF]:LMB: on the site to show the site menu, and select \"\"EXPLORE\"\"[LF]"
+
+msgctxt "TutorialRoom8/KEY_TUTORIAL_GEOSCAPE_DESCRIPTION_K"
+msgid "The GEOSCAPE shows the world and all locations and sites of interest.[LF][LF]In the beginning, all you know about is your base, Phoenix Point.[LF][LF]GEOSCAPE CONTROLS[LF]Move globe: Hold down :LMB: and drag[LF]Zoom in/out: :MW:[LF][LF]SELECT THE \"\"BASES\"\" BUTTON with :LMB:"
+msgstr "The GEOSCAPE shows the world and all locations and sites of interest.[LF][LF]In the beginning, all you know about is your base, Phoenix Point.[LF][LF]GEOSCAPE CONTROLS[LF]Move globe: Hold down :LMB: and drag[LF]Zoom in/out: :MW:[LF][LF]SELECT THE \"\"BASES\"\" BUTTON with :LMB:"
+
+msgctxt "TutorialRoom8/KEY_TUTORIAL_BASE_DESCRIPTION_C"
+msgid "Your Base is your stronghold containing ALL FACILITIES, as well as vital resources such as Food, Materials, and Tech.[LF][LF]Phoenix Point is in bad shape. You need to repair your vehicle bay before you can launch your Manticore aircraft - and it will take some time.[LF][LF]START REPAIR OF YOUR VEHICLE BAY[LF]Move the cursor to the REPAIR FACILITY button and press <size=60>:A:</size>[LF][LF]THEN RETURN TO GEOSCAPE WITH :LT: AND ADVANCE TIME WITH <size=60>:X:</size>"
+msgstr "Your Base is your stronghold containing ALL FACILITIES, as well as vital resources such as Food, Materials, and Tech.[LF][LF]Phoenix Point is in bad shape. You need to repair your vehicle bay before you can launch your Manticore aircraft - and it will take some time.[LF][LF]START REPAIR OF YOUR VEHICLE BAY[LF]Move the cursor to the REPAIR FACILITY button and press <size=60>:A:</size>[LF][LF]THEN RETURN TO GEOSCAPE WITH :LT: AND ADVANCE TIME WITH <size=60>:X:</size>"
+
+msgctxt "TutorialRoom8/KEY_TUTORIAL_MANTICORE_DESCRIPTION_C"
+msgid "The Manticore is YOUR AIRCRAFT for transporting soldiers and exploring the world. The aircraft’s crew is shown in the Aircraft bar in the bottom of the screen, using their soldier class icons.[LF][LF]SEND YOUR MANTICORE TO THE UNEXPLORED SITE[LF]Move the cursor to the location with <size=60>:LTS:</size> and press :A:, then select \"\"MOVE\"\" with <size=60>:A:</size>"
+msgstr "The Manticore is YOUR AIRCRAFT for transporting soldiers and exploring the world. The aircraft’s crew is shown in the Aircraft bar in the bottom of the screen, using their soldier class icons.[LF][LF]SEND YOUR MANTICORE TO THE UNEXPLORED SITE[LF]Move the cursor to the location with <size=60>:LTS:</size> and press :A:, then select \"\"MOVE\"\" with <size=60>:A:</size>"
+
+msgctxt "TutorialRoom8/KEY_TUTORIAL_EXPLORATION_DESCRIPTION_C"
+msgid "Initially, all sites on the Geoscape are unexplored (marked with a question mark).[LF][LF]You need at least one soldier onboard an aircraft in order to explore. Exploration takes time and you may get ambushed, so be on your guard.[LF][LF]EXPLORE THE SITE[LF]Press <size=60>:A:</size> on the site to show the site menu, and select \"\"EXPLORE\"\"[LF]"
+msgstr "Initially, all sites on the Geoscape are unexplored (marked with a question mark).[LF][LF]You need at least one soldier onboard an aircraft in order to explore. Exploration takes time and you may get ambushed, so be on your guard.[LF][LF]EXPLORE THE SITE[LF]Press <size=60>:A:</size> on the site to show the site menu, and select \"\"EXPLORE\"\"[LF]"
+
+msgctxt "TutorialRoom8/KEY_TUTORIAL_GEOSCAPE_DESCRIPTION_C"
+msgid "The GEOSCAPE shows the world and all locations and sites of interest.[LF][LF]In the beginning, all you know about is your base, Phoenix Point.[LF][LF]GEOSCAPE CONTROLS[LF]Move globe: <size=60>:LTS:</size>[LF]Zoom in/out: <size=60>:R3UP:</size> and <size=60>:R3DOWN:</size>[LF]Use directional buttons to navigate menus and :B: to return[LF][LF]GO TO THE \"\"BASES\"\" MENU WITH :RT:"
+msgstr "The GEOSCAPE shows the world and all locations and sites of interest.[LF][LF]In the beginning, all you know about is your base, Phoenix Point.[LF][LF]GEOSCAPE CONTROLS[LF]Move globe: <size=60>:LTS:</size>[LF]Zoom in/out: <size=60>:R3UP:</size> and <size=60>:R3DOWN:</size>[LF]Use directional buttons to navigate menus and :B: to return[LF][LF]GO TO THE \"\"BASES\"\" MENU WITH :RT:"
+
+msgctxt "TutorialRoom8/KEY_TUT1_MOVEMENT_DESCRIPTION_BIND_K"
+msgid "TRY THE CAMERA CONTROLS[LF][LF]Camera movement: :LMB: + drag[LF]Camera rotation: [<color=#ECBA62>{[Rotate Left]}</color>] and [<color=#ECBA62>{[Rotate Right]}</color>][LF]Camera zoom: [<color=#ECBA62>{[Discrete Zoom In]}</color>] and [<color=#ECBA62>{[Discrete Zoom Out]}</color>][LF]"
+msgstr "TRY THE CAMERA CONTROLS[LF][LF]Camera movement: :LMB: + drag[LF]Camera rotation: [<color=#ECBA62>{[Rotate Left]}</color>] and [<color=#ECBA62>{[Rotate Right]}</color>][LF]Camera zoom: [<color=#ECBA62>{[Discrete Zoom In]}</color>] and [<color=#ECBA62>{[Discrete Zoom Out]}</color>][LF]"
+
+msgctxt "TutorialRoom8/KEY_TUT1_MOVEMENT_PART2_DESCRIPTION_BIND_K"
+msgid "MOVE YOUR SOLDIER TO THE HIGHLIGHTED TILE[LF][LF]:RMB: on the destination tile or :LMB:, then select MOVE[LF]"
+msgstr "MOVE YOUR SOLDIER TO THE HIGHLIGHTED TILE[LF][LF]:RMB: on the destination tile or :LMB:, then select MOVE[LF]"
+
+msgctxt "TutorialRoom8/KEY_TUT1_SELECTION_DESCRIPTION_BIND_K"
+msgid "SELECT YOUR SOLDIER[LF][LF]:LMB: on the soldier"
+msgstr "SELECT YOUR SOLDIER[LF][LF]:LMB: on the soldier"
+
+msgctxt "TutorialRoom8/KEY_TUT1_SHOOTING_DESCRIPTION_K"
+msgid "A soldier's movement is interrupted if an enemy is SPOTTED. This doesn't end the soldier's turn.[LF][LF]SELECT \"\"FIRE WEAPON\"\"[LF]:LMB: on the \"\"Fire Weapon\"\" icon[LF]"
+msgstr "A soldier's movement is interrupted if an enemy is SPOTTED. This doesn't end the soldier's turn.[LF][LF]SELECT \"\"FIRE WEAPON\"\"[LF]:LMB: on the \"\"Fire Weapon\"\" icon[LF]"
+
+msgctxt "TutorialRoom8/KEY_TUT1_SHOOTING_PART2_DESCRIPTION_K"
+msgid "The HEALTH BAR  indicates the current Hit Points.[LF][LF]When targeting an enemy, the AMOUNT OF DAMAGE from an attack is shown on the Health Bar.[LF][LF]The brighter the color, the higher the DAMAGE POTENTIAL.[LF][LF]This shot is marked in white. It’s almost guaranteed to kill the Arthron.[LF][LF][LF]FIRE AT THE ENEMY[LF]:LMB: on the \"\"FIRE WEAPON\"\" button[LF][LF]"
+msgstr "The HEALTH BAR  indicates the current Hit Points.[LF][LF]When targeting an enemy, the AMOUNT OF DAMAGE from an attack is shown on the Health Bar.[LF][LF]The brighter the color, the higher the DAMAGE POTENTIAL.[LF][LF]This shot is marked in white. It’s almost guaranteed to kill the Arthron.[LF][LF][LF]FIRE AT THE ENEMY[LF]:LMB: on the \"\"FIRE WEAPON\"\" button[LF][LF]"
+
+msgctxt "TutorialRoom8/KEY_TUT1_TURNS_DESCRIPTION_BIND_K"
+msgid "You can end your turn at any time by pressing the END TURN button on the screen or the [<color=#ECBA62>{[EndTurn]}</color>] key"
+msgstr "You can end your turn at any time by pressing the END TURN button on the screen or the [<color=#ECBA62>{[EndTurn]}</color>] key"
+
+msgctxt "TutorialRoom8/KEY_TUT1_FREE_AIM_DESCRIPTION_K"
+msgid "When shooting, you  can enter Free Aim mode for PRECISE TARGETING.[LF][LF]ENTER FREE AIM MODE[LF]Press the Free Aim icon or scroll :MW:"
+msgstr "When shooting, you  can enter Free Aim mode for PRECISE TARGETING.[LF][LF]ENTER FREE AIM MODE[LF]Press the Free Aim icon or scroll :MW:"
+
+msgctxt "TutorialRoom8/KEY_TUT1_FREE_AIM_DESCRIPTION_PART2_K"
+msgid "In Free Aim mode, you shoot from the soldier's point of view.[LF][LF]The outer BLUE CIRCLE shows you where all shots will land. The more accurate the weapon, the smaller the circle.[LF][LF]Shooting at different BODY PARTS can disable them, denying the enemy some abilities..[LF][LF]FREE AIM CONTROLS[LF]Move Crosshair: move the Mouse[LF]Zoom in/Out: scroll [MW][LF]Exit Free Aim: [RMB] or [ESC][LF][LF]SHOOT THE ENEMY"
+msgstr "In Free Aim mode, you shoot from the soldier's point of view.[LF][LF]The outer BLUE CIRCLE shows you where all shots will land. The more accurate the weapon, the smaller the circle.[LF][LF]Shooting at different BODY PARTS can disable them, denying the enemy some abilities..[LF][LF]FREE AIM CONTROLS[LF]Move Crosshair: move the Mouse[LF]Zoom in/Out: scroll [MW][LF]Exit Free Aim: [RMB] or [ESC][LF][LF]SHOOT THE ENEMY"
+
+msgctxt "TutorialRoom8/KEY_TUT1_MOVEMENT_DESCRIPTION_BIND_C"
+msgid "TRY THE CAMERA CONTROLS[LF][LF]Camera movement: :RTS:[LF]Camera rotation: :DLEFT: and :DRIGHT:[LF]Camera zoom: :LT:"
+msgstr "TRY THE CAMERA CONTROLS[LF][LF]Camera movement: :RTS:[LF]Camera rotation: :DLEFT: and :DRIGHT:[LF]Camera zoom: :LT:"
+
+msgctxt "TutorialRoom8/KEY_TUT1_MOVEMENT_PART2_DESCRIPTION_BIND_C"
+msgid "MOVE YOUR SOLDIER TO THE HIGHLIGHTED TILE[LF][LF][LF]Move the Selection Marker with :RTS: and press :A:[LF]"
+msgstr "MOVE YOUR SOLDIER TO THE HIGHLIGHTED TILE[LF][LF][LF]Move the Selection Marker with :RTS: and press :A:[LF]"
+
+msgctxt "TutorialRoom8/KEY_TUT1_MOVEMENT_DESCRIPTION_PART2_C"
+msgid "MOVE YOUR SOLDIER TO THE HIGHLIGHTED TILE[LF][LF]Move the Selection Marker with :RTS: and press :A:"
+msgstr "MOVE YOUR SOLDIER TO THE HIGHLIGHTED TILE[LF][LF]Move the Selection Marker with :RTS: and press :A:"
+
+msgctxt "TutorialRoom8/KEY_TUT1_SELECTION_DESCRIPTION_BIND_C"
 msgid "SELECT YOUR SOLDIER[LF]Move the Selection Marker with the gamepad onto the soldier and press :A:"
 msgstr "SELECT YOUR SOLDIER[LF]Move the Selection Marker with the gamepad onto the soldier and press :A:"
 
-msgctxt "TutorialRoom8/KEY_TUTORIAL_TACTICAL1_AP_PART2_DESCRIPTION_C"
-msgid "Action controls[LF][LF]Select Action: Use :RT: to enter the Action Bar and :DLEFT: and :DRIGHT: to select, and :A: to perform action.[LF][LF]Movement: :A: then select MOVE to go to the Selection Marker location"
-msgstr "Action controls[LF][LF]Select Action: Use :RT: to enter the Action Bar and :DLEFT: and :DRIGHT: to select, and :A: to perform action.[LF][LF]Movement: :A: then select MOVE to go to the Selection Marker location"
+msgctxt "TutorialRoom8/KEY_TUT1_SHOOTING_DESCRIPTION_C"
+msgid "A soldier's movement is interrupted if an enemy is SPOTTED. This doesn't end the soldier's turn.[LF][LF]SELECT \"\"FIRE WEAPON\"\"[LF]:RT:[LF]"
+msgstr "A soldier's movement is interrupted if an enemy is SPOTTED. This doesn't end the soldier's turn.[LF][LF]SELECT \"\"FIRE WEAPON\"\"[LF]:RT:[LF]"
 
-msgctxt "TutorialRoom8/KEY_TUTORIAL_TACTICAL1_SHOOTING_DESCRIPTION_C"
-msgid "The Health Bar indicates the current Hit Points. The Armor pips to the right show the amount of damage prevented for each shot.[LF][LF]When targeting an enemy, the amount of damage from an attack is shown on the health bar. The whiter the damage prediction, the more likely it is.[LF][LF]SELECT \"\"FIRE WEAPON\"\"[LF]:RT:[LF][LF]FIRE AT THE ENEMY[LF]:RT:[LF]"
-msgstr "The Health Bar indicates the current Hit Points. The Armor pips to the right show the amount of damage prevented for each shot.[LF][LF]When targeting an enemy, the amount of damage from an attack is shown on the health bar. The whiter the damage prediction, the more likely it is.[LF][LF]SELECT \"\"FIRE WEAPON\"\"[LF]:RT:[LF][LF]FIRE AT THE ENEMY[LF]:RT:[LF]"
+msgctxt "TutorialRoom8/KEY_TUT1_SHOOTING_PART2_DESCRIPTION_C"
+msgid "When targeting an enemy, the AMOUNT OF DAMAGE from an attack is shown on the Health Bar.[LF][LF]The brighter the color, the higher the DAMAGE POTENTIAL.[LF][LF]This shot is marked in white. It’s almost guaranteed to kill the Arthron.[LF][LF]FIRE AT THE ENEMY[LF]:RT:[LF]"
+msgstr "When targeting an enemy, the AMOUNT OF DAMAGE from an attack is shown on the Health Bar.[LF][LF]The brighter the color, the higher the DAMAGE POTENTIAL.[LF][LF]This shot is marked in white. It’s almost guaranteed to kill the Arthron.[LF][LF]FIRE AT THE ENEMY[LF]:RT:[LF]"
 
-msgctxt "TutorialRoom8/KEY_TUTORIAL_TACTICAL1_STANDBY_DESCRIPTION_BIND_C"
-msgid "Once a soldier is out of APs he enters Standby Mode and the next soldier is selected. If there are no soldiers with APs remaining your turn ends. [LF][LF]You can order a soldier to enter Standby Mode by selecting the icon from the Action Bar or using :B:[LF][LF]SELECT STANDBY MODE[LF]"
-msgstr "Once a soldier is out of APs he enters Standby Mode and the next soldier is selected. If there are no soldiers with APs remaining your turn ends. [LF][LF]You can order a soldier to enter Standby Mode by selecting the icon from the Action Bar or using :B:[LF][LF]SELECT STANDBY MODE[LF]"
-
-msgctxt "TutorialRoom8/KEY_TUTORIAL_TACTICAL1_TURNS_DESCRIPTION_BIND_C"
+msgctxt "TutorialRoom8/KEY_TUT1_TURNS_DESCRIPTION_BIND_C"
 msgid "You can end your turn at any time by pressing :BACK:. "
 msgstr "You can end your turn at any time by pressing :BACK:. "
 
-msgctxt "TutorialRoom8/KEY_TUTORIAL_TACTICAL1_FREE_AIM_DESCRIPTION_C"
-msgid "Free Aim allows you to target a body part and see the effects of disabling the body part.[LF][LF]Each body part has its own Hit Points and Armor value. Damage prediction is also shown for the targeted body part.[LF][LF]The outer blue circle shows you where all your shots will land. The more accurate the weapon, the smaller the circle.[LF][LF]FREE AIM CONTROLS[LF]Enter Free Aim: :RTS:[LF]Move Crosshair: :LTS:[LF]Zoom in/Out: :RTS:[LF]Exit Free Aim: :B:[LF][LF]ENTER FREE AIM MODE AND SHOOT THE ENEMY"
-msgstr "Free Aim allows you to target a body part and see the effects of disabling the body part.[LF][LF]Each body part has its own Hit Points and Armor value. Damage prediction is also shown for the targeted body part.[LF][LF]The outer blue circle shows you where all your shots will land. The more accurate the weapon, the smaller the circle.[LF][LF]FREE AIM CONTROLS[LF]Enter Free Aim: :RTS:[LF]Move Crosshair: :LTS:[LF]Zoom in/Out: :RTS:[LF]Exit Free Aim: :B:[LF][LF]ENTER FREE AIM MODE AND SHOOT THE ENEMY"
+msgctxt "TutorialRoom8/KEY_TUT1_FREE_AIM_DESCRIPTION_C"
+msgid "When shooting, you  can enter Free Aim mode for PRECISE TARGETING.[LF][LF]ENTER FREE AIM MODE[LF]:RTS:"
+msgstr "When shooting, you  can enter Free Aim mode for PRECISE TARGETING.[LF][LF]ENTER FREE AIM MODE[LF]:RTS:"
 
-msgctxt "TutorialRoom8/KEY_TUTORIAL_TACTICAL2_INVENTORY_DESCRIPTION_BIND_C"
-msgid "The Inventory shows everything carried by a soldier, and items on the ground or in adjacent crates.[LF][LF]ENCUMBRANCE[LF]If the weight of all carried items and armor is greater than the soldier's Strength then the soldier suffers a movement penalty.[LF][LF]ACCESS THE INVENTORY[LF]Press :R3:"
-msgstr "The Inventory shows everything carried by a soldier, and items on the ground or in adjacent crates.[LF][LF]ENCUMBRANCE[LF]If the weight of all carried items and armor is greater than the soldier's Strength then the soldier suffers a movement penalty.[LF][LF]ACCESS THE INVENTORY[LF]Press :R3:"
+msgctxt "TutorialRoom8/KEY_TUT1_FREE_AIM_DESCRIPTION_PART2_C"
+msgid "In Free Aim mode, you shoot from the soldier's point of view.[LF][LF]The outer BLUE CIRCLE shows you where all shots will land. The more accurate the weapon, the smaller the circle.[LF][LF]Shooting at different BODY PARTS can disable them, denying the enemy some abilities..[LF][LF]FREE AIM CONTROLS[LF]Move Crosshair: :LTS:[LF]Zoom in/Out: :RTS:[LF]Exit Free Aim: :B:[LF][LF]SHOOT THE ENEMY"
+msgstr "In Free Aim mode, you shoot from the soldier's point of view.[LF][LF]The outer BLUE CIRCLE shows you where all shots will land. The more accurate the weapon, the smaller the circle.[LF][LF]Shooting at different BODY PARTS can disable them, denying the enemy some abilities..[LF][LF]FREE AIM CONTROLS[LF]Move Crosshair: :LTS:[LF]Zoom in/Out: :RTS:[LF]Exit Free Aim: :B:[LF][LF]SHOOT THE ENEMY"
 
-msgctxt "TutorialRoom8/KEY_TUTORIAL_TACTICAL2_READY_ITEMS_DESCRIPTION_BIND_C"
-msgid "Items in the ready section of the inventory are shown in the Ready Items Bar. They can be selected for use without an AP cost.[LF][LF]READY ITEMS BAR CONTROLS[LF][LF]Select next item: :X:[LF][LF]SELECT THE GRENADE"
-msgstr "Items in the ready section of the inventory are shown in the Ready Items Bar. They can be selected for use without an AP cost.[LF][LF]READY ITEMS BAR CONTROLS[LF][LF]Select next item: :X:[LF][LF]SELECT THE GRENADE"
+msgctxt "TutorialRoom8/KEY_TUT1_STANDBY_NAME"
+msgid "Standby Mode"
+msgstr "Standby Mode"
 
-msgctxt "TutorialRoom8/KEY_TUTORIAL_TACTICAL2_GRENADE_DESCRIPTION_C"
-msgid "Grenades do area damage around the spot where they land. An orange sphere shows the area of effect. The distance at which a grenade can be thrown depends on the soldier's Strength and abilities.[LF][LF]SELECT THE \"\"THROW GRENADE\"\" ACTION[LF]Then target the space between the two enemies.[LF][LF]Throw grenade :A:"
-msgstr "Grenades do area damage around the spot where they land. An orange sphere shows the area of effect. The distance at which a grenade can be thrown depends on the soldier's Strength and abilities.[LF][LF]SELECT THE \"\"THROW GRENADE\"\" ACTION[LF]Then target the space between the two enemies.[LF][LF]Throw grenade :A:"
+msgctxt "TutorialRoom8/KEY_TUT1_STANDBY_DESCRIPTION_BIND_К"
+msgid "Once a soldier is out of APs he enters Standby Mode and the next soldier is selected. If there are no soldiers with APs remaining your turn ends. [LF][LF]You can order a soldier to enter Standby Mode by using the [<color=#ECBA62>{[SetEndTurnAbility]}</color>], or selecting the icon from the Action Bar.[LF][LF]SELECT STANDBY MODE[LF]"
+msgstr "Once a soldier is out of APs he enters Standby Mode and the next soldier is selected. If there are no soldiers with APs remaining your turn ends. [LF][LF]You can order a soldier to enter Standby Mode by using the [<color=#ECBA62>{[SetEndTurnAbility]}</color>], or selecting the icon from the Action Bar.[LF][LF]SELECT STANDBY MODE[LF]"
 
-msgctxt "TutorialRoom8/KEY_TUTORIAL_TACTICAL2_OVERWATCH_DESCRIPTION_BIND_C"
-msgid "The Overwatch ability allows soldiers to guard an area during the enemy’s turn. If an enemy enters the Overwatch cone, it is attacked automatically.[LF][LF]OVERWATCH CONTROLS[LF]Enter Overwatch mode: Select the Overwatch icon from the Action Bar, or press :Y:[LF]Select target position: :LTS:[LF]Change width of overwatch zone: :LB: and :RB:[LF]Confirm Overwatch: :A:[LF][LF]MOVE YOUR SOLDIER AND SET OVERWATCH[LF]:A: on the highlighted target position towards the two approaching enemies."
-msgstr "The Overwatch ability allows soldiers to guard an area during the enemy’s turn. If an enemy enters the Overwatch cone, it is attacked automatically.[LF][LF]OVERWATCH CONTROLS[LF]Enter Overwatch mode: Select the Overwatch icon from the Action Bar, or press :Y:[LF]Select target position: :LTS:[LF]Change width of overwatch zone: :LB: and :RB:[LF]Confirm Overwatch: :A:[LF][LF]MOVE YOUR SOLDIER AND SET OVERWATCH[LF]:A: on the highlighted target position towards the two approaching enemies."
+msgctxt "TutorialRoom8/KEY_TUT1_STANDBY_DESCRIPTION_BIND_C"
+msgid "Once a soldier is out of APs he enters Standby Mode and the next soldier is selected. If there are no soldiers with APs remaining your turn ends. [LF][LF]You can order a soldier to enter Standby Mode by selecting the icon from the Action Bar, or using gamepad :B:[LF][LF]SELECT STANDBY MODE[LF]"
+msgstr "Once a soldier is out of APs he enters Standby Mode and the next soldier is selected. If there are no soldiers with APs remaining your turn ends. [LF][LF]You can order a soldier to enter Standby Mode by selecting the icon from the Action Bar, or using gamepad :B:[LF][LF]SELECT STANDBY MODE[LF]"
 
-msgctxt "Tutorial 2 to 4/KEY_TUT_TUT2_START_NAME"
-msgid "TUTORIAL 2"
-msgstr "TUTORIAL 2"
+msgctxt "TutorialRoom8/KEY_TUT1_AP_PART2_DESCRIPTION_K"
+msgid "Action controls[LF][LF]Select Action: :LMB: on the action icon[LF]Perform Action: :LMB: on the action button or icon[LF][LF]Movement: :LMB: then select MOVE to go to the Selection Marker location[LF][LF]Direct Movement: :RMB: to go directly to the Selection Marker location"
+msgstr "Action controls[LF][LF]Select Action: :LMB: on the action icon[LF]Perform Action: :LMB: on the action button or icon[LF][LF]Movement: :LMB: then select MOVE to go to the Selection Marker location[LF][LF]Direct Movement: :RMB: to go directly to the Selection Marker location"
 
-msgctxt "Tutorial 2 to 4/KEY_TUT_TUT2_START_DESC"
-msgid "Welcome to the start of tutorial 2"
-msgstr "Welcome to the start of tutorial 2"
+msgctxt "TutorialRoom8/KEY_TUT1_AP_PART2_DESCRIPTION_C"
+msgid "Action controls[LF][LF][LF]Select Action: Use :RT: to enter the Action Bar and :DLEFT: and :DRIGHT: to select, and :A: to perform action.[LF][LF][LF]Movement: :A: then select MOVE to go to the Selection Marker location"
+msgstr "Action controls[LF][LF][LF]Select Action: Use :RT: to enter the Action Bar and :DLEFT: and :DRIGHT: to select, and :A: to perform action.[LF][LF][LF]Movement: :A: then select MOVE to go to the Selection Marker location"
+
+msgctxt "Tutorial 1 (Polaris)/KEY_TUT1_MOVEMENT_NAME"
+msgid "Camera and Movement"
+msgstr "Camera and Movement"
+
+msgctxt "Tutorial 1 (Polaris)/KEY_TUT1_MOVEMENT_PART2_NAME"
+msgid "Camera and Movement"
+msgstr "Camera and Movement"
+
+msgctxt "Tutorial 1 (Polaris)/KEY_TUT1_SPOTTING_NAME"
+msgid "Spotting Enemies"
+msgstr "Spotting Enemies"
+
+msgctxt "Tutorial 1 (Polaris)/KEY_TUT1_SPOTTING_DESCRIPTION"
+msgid "ENEMY ICONS above your Action Bar show all spotted enemies.[LF][LF]А RED ICON (<color=#E51919>:CRABMAN:</color>) shows an enemy in direct line of sight of the selected soldier."
+msgstr "ENEMY ICONS above your Action Bar show all spotted enemies.[LF][LF]А RED ICON (<color=#E51919>:CRABMAN:</color>) shows an enemy in direct line of sight of the selected soldier."
+
+msgctxt "Tutorial 1 (Polaris)/KEY_TUT1_SELECTION_NAME"
+msgid "Selecting Soldiers"
+msgstr "Selecting Soldiers"
+
+msgctxt "Tutorial 1 (Polaris)/KEY_TUT1_AP_NAME"
+msgid "Movement"
+msgstr "Movement"
+
+msgctxt "Tutorial 1 (Polaris)/KEY_TUT1_AP_DESCRIPTION"
+msgid "On their turn, soldiers can move and take various actions.[LF][LF]Tiles inside BLUE AREA  allow soldiers to move and shoot in the same turn.[LF][LF]A blue SHOOTING LINE will be drawn from the selected tile if an enemy can be shot from it.[LF][LF]MOVE TO THE HIGHLIGHTED TILE[LF]"
+msgstr "On their turn, soldiers can move and take various actions.[LF][LF]Tiles inside BLUE AREA  allow soldiers to move and shoot in the same turn.[LF][LF]A blue SHOOTING LINE will be drawn from the selected tile if an enemy can be shot from it.[LF][LF]MOVE TO THE HIGHLIGHTED TILE[LF]"
+
+msgctxt "Tutorial 1 (Polaris)/KEY_TUT1_AP_PART2_NAME"
+msgid "Actions"
+msgstr "Actions"
+
+msgctxt "Tutorial 1 (Polaris)/KEY_TUT1_SHOOTING_NAME"
+msgid "Shooting and Health"
+msgstr "Shooting and Health"
+
+msgctxt "Tutorial 1 (Polaris)/KEY_TUT1_TURNS_NAME"
+msgid "End Turn"
+msgstr "End Turn"
+
+msgctxt "Tutorial 1 (Polaris)/KEY_TUT1_FREE_AIM_NAME"
+msgid "Free Aim Shooting"
+msgstr "Free Aim Shooting"
+
+msgctxt "Tutorial 1 (Polaris)/KEY_TUT1_FREE_AIM_DESCRIPTION"
+msgid "When shooting, you  can enter Free Aim mode for PRECISE TARGETING.[LF][LF]ENTER FREE AIM MODE[LF]Press the Free Aim icon or scroll :MW:"
+msgstr "When shooting, you  can enter Free Aim mode for PRECISE TARGETING.[LF][LF]ENTER FREE AIM MODE[LF]Press the Free Aim icon or scroll :MW:"
+
+msgctxt "Tutorial 1 (Polaris)/KEY_TUT1_OBJECTIVE_NAME"
+msgid "Objective"
+msgstr "Objective"
+
+msgctxt "Tutorial 1 (Polaris)/KEY_TUT1_OBJECTIVE_DESCRIPTION"
+msgid "Now that you know the basics of movement and shooting, it's time to finish the mission![LF][LF]COMPLETE THE OBJECTIVE"
+msgstr "Now that you know the basics of movement and shooting, it's time to finish the mission![LF][LF]COMPLETE THE OBJECTIVE"
+
+msgctxt "Tutorial 1 (Polaris)/KEY_TUT1_VEHICLES_NAME"
+msgid "Vehicles"
+msgstr "Vehicles"
+
+msgctxt "Tutorial 1 (Polaris)/KEY_TUT1_VEHICLES_DESCRIPTION"
+msgid "VEHICLES are a special type of unit that can transport Phoenix operatives.[LF][LF][LF]To enter the vehicle, move a soldier to the Entry Marker next to it, and select Enter Vehicle on the Action Bar.[LF][LF][LF]ENTER THE VEHICLE WITH BOTH SOLDIERS[LF]"
+msgstr "VEHICLES are a special type of unit that can transport Phoenix operatives.[LF][LF][LF]To enter the vehicle, move a soldier to the Entry Marker next to it, and select Enter Vehicle on the Action Bar.[LF][LF][LF]ENTER THE VEHICLE WITH BOTH SOLDIERS[LF]"
+
+msgctxt "Tutorial 1 (Polaris)/KEY_TUT1_HEALTH_NAME"
+msgid "Damage and Body Parts"
+msgstr "Damage and Body Parts"
+
+msgctxt "Tutorial 1 (Polaris)/KEY_TUT1_HEALTH_DESCRIPTION"
+msgid "When a character is attacked, damage is done to the body part that was hit as well as reducing general Hit Points. Wounded body parts are marked in yellow on the Damage Display, left of the Health Bar. Disabled body parts are marked in red.[LF][LF]Disabled body parts will usually cause bleeding, and the loss of Strength and possibly Willpower. Any special ability given by the body part will be lost.[LF]"
+msgstr "When a character is attacked, damage is done to the body part that was hit as well as reducing general Hit Points. Wounded body parts are marked in yellow on the Damage Display, left of the Health Bar. Disabled body parts are marked in red.[LF][LF]Disabled body parts will usually cause bleeding, and the loss of Strength and possibly Willpower. Any special ability given by the body part will be lost.[LF]"
+
+msgctxt "Tutorial 1 (Polaris)/KEY_TUT1_COVER_NAME"
+msgid "Cover and Environment"
+msgstr "Cover and Environment"
+
+msgctxt "Tutorial 1 (Polaris)/KEY_TUT1_COVER_DESCRIPTION"
+msgid "Any object in the environment can provide cover by blocking the path of a projectile. However, soldiers will make use of cover in two different ways.[LF][LF]When next to a low obstacle or low wall, soldiers will crouch to reduce exposure.[LF][LF]When next to a high obstacle or high wall, soldiers will remain standing, but can step to the side to shoot.[LF][LF]NOW MOVE TO THE HIGHLIGHTED TILE"
+msgstr "Any object in the environment can provide cover by blocking the path of a projectile. However, soldiers will make use of cover in two different ways.[LF][LF]When next to a low obstacle or low wall, soldiers will crouch to reduce exposure.[LF][LF]When next to a high obstacle or high wall, soldiers will remain standing, but can step to the side to shoot.[LF][LF]NOW MOVE TO THE HIGHLIGHTED TILE"
+
+msgctxt "Tutorial 1 (Polaris)/KEY_TUT_ASSAULT_FEMALE"
+msgid "Sophia Brown"
+msgstr "Sophia Brown"
+
+msgctxt "Tutorial 1 (Polaris)/KEY_TUT_ASSAULT_MALE"
+msgid "Jacob Eber"
+msgstr "Jacob Eber"
+
+msgctxt "Tutorial 1 (Polaris)/KEY_TUT_HEAVY_MALE"
+msgid "Omar Ashur"
+msgstr "Omar Ashur"
+
+msgctxt "Tutorial 1 (Polaris)/KEY_TUT_LOWCOVER_NAME"
+msgid "Low Cover"
+msgstr "Low Cover"
+
+msgctxt "Tutorial 1 (Polaris)/KEY_TUT_LOWCOVER_DESCRIPTION"
+msgid "An operative will always kneel behind low terrain to assume LOW COVER. This obscures parts of the soldier, potentially blocking some of the incoming shots.[LF][LF][LF]A soldier in low cover will STAND UP to shoot."
+msgstr "An operative will always kneel behind low terrain to assume LOW COVER. This obscures parts of the soldier, potentially blocking some of the incoming shots.[LF][LF][LF]A soldier in low cover will STAND UP to shoot."
+
+msgctxt "Tutorial 1 (Polaris)/KEY_TUT_HIGHCOVER_NAME"
+msgid "High Cover"
+msgstr "High Cover"
+
+msgctxt "Tutorial 1 (Polaris)/KEY_TUT_HIGHCOVER_DESCRIPTION"
+msgid "An operative will always hide behind walls and other obstacles to assume HIGH COVER. This obscures the soldier, potentially blocking some of the incoming shots.[LF][LF][LF]A soldier in high cover will SIDE STEP to shoot and go back to cover."
+msgstr "An operative will always hide behind walls and other obstacles to assume HIGH COVER. This obscures the soldier, potentially blocking some of the incoming shots.[LF][LF][LF]A soldier in high cover will SIDE STEP to shoot and go back to cover."
+
+msgctxt "Tutorial 1 (Polaris)/KEY_TUT_SCARAB_NAME"
+msgid "PX Scarab"
+msgstr "PX Scarab"
+
+msgctxt "Tutorial 1 (Polaris)/KEY_TUT_SCARAB_DESCRIPTION"
+msgid "The Scarab is a heavily armored TRANSPORT UNIT armed with devastating missle launchers.[LF][LF]Use it to transport your operatives faster and blast enemies from a distance."
+msgstr "The Scarab is a heavily armored TRANSPORT UNIT armed with devastating missle launchers.[LF][LF]Use it to transport your operatives faster and blast enemies from a distance."
+
+msgctxt "Tutorial 1 (Polaris)/KEY_TUT_JETJUMP_NAME"
+msgid "Jet Jump "
+msgstr "Jet Jump "
+
+msgctxt "Tutorial 1 (Polaris)/KEY_TUT_JETJUMP_DESCRIPTION"
+msgid "The Heavy's emblematic jetpack suit allows him to FLY OVER OBSTACLES or reach high points with ease. [CR][LF]"
+msgstr "The Heavy's emblematic jetpack suit allows him to FLY OVER OBSTACLES or reach high points with ease. [CR][LF]"
+
+msgctxt "Tutorial 1 (Polaris)/KEY_TUT_INVENTORYACTION_NAME"
+msgid "Inventory"
+msgstr "Inventory"
+
+msgctxt "Tutorial 1 (Polaris)/KEY_TUT_INVENTORYACTION_DESCRIPTION"
+msgid "The Inventory shows everything carried by a soldier, and items on the ground or in adjacent crates.[CR][LF][CR][LF]ENCUMBRANCE[CR][LF]If the weight of all carried items and armor is greater than the soldier's Strength then the soldier suffers a movement penalty.[CR][LF]The tactical inventory display is divided into three sections.[CR][LF][CR][LF]READY: Contains items that are currently equipped and ready for immediate use.[CR][LF]BACKPACK: Holds all items carried, but not equipped.[CR][LF]GROUND: Items on the soldier’s tile, or in surrounding tiles."
+msgstr "The Inventory shows everything carried by a soldier, and items on the ground or in adjacent crates.[CR][LF][CR][LF]ENCUMBRANCE[CR][LF]If the weight of all carried items and armor is greater than the soldier's Strength then the soldier suffers a movement penalty.[CR][LF]The tactical inventory display is divided into three sections.[CR][LF][CR][LF]READY: Contains items that are currently equipped and ready for immediate use.[CR][LF]BACKPACK: Holds all items carried, but not equipped.[CR][LF]GROUND: Items on the soldier’s tile, or in surrounding tiles."
+
+msgctxt "Tutorial 1 (Polaris)/KEY_TUT_INVENTORYNOAP_NAME"
+msgid "Not Enough AP"
+msgstr "Not Enough AP"
+
+msgctxt "Tutorial 1 (Polaris)/KEY_TUT_INVENTORYNOAP_DESCRIPTION_BIND_K"
+msgid "Moving items from and to the inventory REQUIRES 1 AP. [LF]You can browse the items at all times by pressing [<color=#ECBA62>{[SetInventoryAbility]}</color>] key, and move them next time when you have more AP."
+msgstr "Moving items from and to the inventory REQUIRES 1 AP. [LF]You can browse the items at all times by pressing [<color=#ECBA62>{[SetInventoryAbility]}</color>] key, and move them next time when you have more AP."
+
+msgctxt "Tutorial 1 (Polaris)/KEY_TUT_INVENTORYNOAP_DESCRIPTION_BIND_C"
+msgid "Moving items from and to the inventory REQUIRES 1 AP. [LF]You can browse the items at all times by pressing <size=60>:DLEFT:</size> key, and move them next time when you have more AP."
+msgstr "Moving items from and to the inventory REQUIRES 1 AP. [LF]You can browse the items at all times by pressing <size=60>:DLEFT:</size> key, and move them next time when you have more AP."
+
+msgctxt "Tutorial 1 (Polaris)/KEY_TUT_OVERWATCH_NAME"
+msgid "Overwatch"
+msgstr "Overwatch"
+
+msgctxt "Tutorial 1 (Polaris)/KEY_TUT_OVERWATCH_DESCRIPTION"
+msgid "The Overwatch ability allows soldiers to guard an area during the enemy’s turn. If an enemy enters the Overwatch cone, it is attacked automatically.[CR][LF][CR][LF]OVERWATCH CONTROLS[CR][LF]Select target position: Move Mouse[CR][LF]Change width of overwatch zone: CTRL + :MW:[CR][LF]Confirm Overwatch: :LMB:"
+msgstr "The Overwatch ability allows soldiers to guard an area during the enemy’s turn. If an enemy enters the Overwatch cone, it is attacked automatically.[CR][LF][CR][LF]OVERWATCH CONTROLS[CR][LF]Select target position: Move Mouse[CR][LF]Change width of overwatch zone: CTRL + :MW:[CR][LF]Confirm Overwatch: :LMB:"
+
+msgctxt "Tutorial 1 (Polaris)/KEY_TUT_BASH_NAME"
+msgid "Bash"
+msgstr "Bash"
+
+msgctxt "Tutorial 1 (Polaris)/KEY_TUT_BASH_DESCRIPTION"
+msgid "When your soldier is next to an enemy, you can perform the BASH melee attack. [CR][LF][CR][LF]It only costs 1 Action Point, so you can usually Bash an enemy MULTIPLE TIMES."
+msgstr "When your soldier is next to an enemy, you can perform the BASH melee attack. [CR][LF][CR][LF]It only costs 1 Action Point, so you can usually Bash an enemy MULTIPLE TIMES."
+
+msgctxt "Tutorial 1 (Polaris)/KEY_TUT_SCARABMISSLE_NAME"
+msgid "Scarab Blast"
+msgstr "Scarab Blast"
+
+msgctxt "Tutorial 1 (Polaris)/KEY_TUT_SCARABMISSLE_DESCRIPTION"
+msgid "The Scarab's powerful weapon launches TWO MISSLES тхат deal damage in an area. [LF][LF]It's perfect for clearing out groups of weak enemies, or damaging high-armor targets."
+msgstr "The Scarab's powerful weapon launches TWO MISSLES тхат deal damage in an area. [LF][LF]It's perfect for clearing out groups of weak enemies, or damaging high-armor targets."
+
+msgctxt "Tutorial 1 (Polaris)/KEY_TUT_BLEEDSTATUS_NAME"
+msgid "Status Effect: Bleed"
+msgstr "Status Effect: Bleed"
+
+msgctxt "Tutorial 1 (Polaris)/KEY_TUT_BLEEDSTATUS_DESCRIPTION"
+msgid "You were hurt and got he BLEEDING status effect. [LF][LF]Bleeding soldiers will keep losing Hit Points every turn until healed or evacuated."
+msgstr "You were hurt and got he BLEEDING status effect. [LF][LF]Bleeding soldiers will keep losing Hit Points every turn until healed or evacuated."
+
+msgctxt "Tutorial 1 (Polaris)/KEY_TUT_BLEEDEFFECT_NAME"
+msgid "Status Effect: Bleed"
+msgstr "Status Effect: Bleed"
+
+msgctxt "Tutorial 1 (Polaris)/KEY_TUT_BLEEDEFFECT_DESCRIPTION"
+msgid "This unit was hurt and got the BLEEDING status effect. It will lose Hit Points every turn until healed or evacuated.[LF][LF]There are various other status effects. Some abilities provide positive effects, while special weapons could inflict negative ones.[LF]"
+msgstr "This unit was hurt and got the BLEEDING status effect. It will lose Hit Points every turn until healed or evacuated.[LF][LF]There are various other status effects. Some abilities provide positive effects, while special weapons could inflict negative ones.[LF]"
+
+msgctxt "Tutorial 1 (Polaris)/KEY_TUT_INVENTORY_NAME"
+msgid "Inventory"
+msgstr "Inventory"
+
+msgctxt "Tutorial 1 (Polaris)/KEY_TUT_INVENTORY_DESCRIPTION"
+msgid "The Inventory shows everything carried by a soldier, and items on the ground or in adjacent crates.[CR][LF][CR][LF]ENCUMBRANCE[CR][LF]If the weight of all carried items and armor is greater than the soldier's Strength then the soldier suffers a movement penalty.[CR][LF]The tactical inventory display is divided into three sections.[CR][LF][CR][LF]READY: Contains items that are currently equipped and ready for immediate use.[CR][LF]BACKPACK: Holds all items carried, but not equipped.[CR][LF]GROUND: Items on the soldier’s tile, or in surrounding tiles."
+msgstr "The Inventory shows everything carried by a soldier, and items on the ground or in adjacent crates.[CR][LF][CR][LF]ENCUMBRANCE[CR][LF]If the weight of all carried items and armor is greater than the soldier's Strength then the soldier suffers a movement penalty.[CR][LF]The tactical inventory display is divided into three sections.[CR][LF][CR][LF]READY: Contains items that are currently equipped and ready for immediate use.[CR][LF]BACKPACK: Holds all items carried, but not equipped.[CR][LF]GROUND: Items on the soldier’s tile, or in surrounding tiles."
+
+msgctxt "Tutorial 1 (Polaris)/KEY_TUT_STANDBY_NAME"
+msgid "Stand By"
+msgstr "Stand By"
+
+msgctxt "Tutorial 1 (Polaris)/KEY_TUT_STANDBY_DESCRIPTION"
+msgid "You can choose to end a soldier's turn by selecting STAND BY from the Action Bar. [CR][LF][CR][LF]If a soldier is OUT OF ACTION POINTS, they will Stand By automatically."
+msgstr "You can choose to end a soldier's turn by selecting STAND BY from the Action Bar. [CR][LF][CR][LF]If a soldier is OUT OF ACTION POINTS, they will Stand By automatically."
+
+msgctxt "Tutorial 1 (Polaris)/KEY_TUT_MEDKIT_NAME"
+msgid "MedKit"
+msgstr "MedKit"
+
+msgctxt "Tutorial 1 (Polaris)/KEY_TUT_MEDKIT_DESCRIPTION"
+msgid "MEDKITS are powerful tools that can RESTORE HIT POINTS, disabled Limbs and remove Status effects such as Bleeding. [CR][LF][CR][LF]A soldier can use a Medkit on themselves, or an ALLY."
+msgstr "MEDKITS are powerful tools that can RESTORE HIT POINTS, disabled Limbs and remove Status effects such as Bleeding. [CR][LF][CR][LF]A soldier can use a Medkit on themselves, or an ALLY."
+
+msgctxt "Tutorial 1 (Polaris)/KEY_TUT_PXHEAVYCANNON_NAME"
+msgid "Hel II Cannon"
+msgstr "Hel II Cannon"
+
+msgctxt "Tutorial 1 (Polaris)/KEY_TUT_PXHEAVYCANNON_DESCRIPTION"
+msgid "The HEL II CANNON is a powerful heavy weapon with LOW ACCURACY and HIGH DAMAGE. [CR][LF][CR][LF]Firing it costs 3 Action Points. Use it to deal with nearby enemies!"
+msgstr "The HEL II CANNON is a powerful heavy weapon with LOW ACCURACY and HIGH DAMAGE. [CR][LF][CR][LF]Firing it costs 3 Action Points. Use it to deal with nearby enemies!"
+
+msgctxt "Tutorial 1 (Polaris)/KEY_TUT_RECOVER_NAME"
+msgid "Recover"
+msgstr "Recover"
+
+msgctxt "Tutorial 1 (Polaris)/KEY_TUT_RECOVER_DESCRIPTION"
+msgid "A soldier can recover half of their Will Points by spending all 4 Action Points on the RECOVER ability. Timing is key!"
+msgstr "A soldier can recover half of their Will Points by spending all 4 Action Points on the RECOVER ability. Timing is key!"
+
+msgctxt "Tutorial 1 (Polaris)/KEY_TUT_PANIC_NAME"
+msgid "Panic"
+msgstr "Panic"
+
+msgctxt "Tutorial 1 (Polaris)/KEY_TUT_PANIC_DESCRIPTION"
+msgid "When a unit's Will Points drop to 0, it becomes PANICKED. Panicked units will automatically move to find cover."
+msgstr "When a unit's Will Points drop to 0, it becomes PANICKED. Panicked units will automatically move to find cover."
+
+msgctxt "Tutorial 1 (Polaris)/KEY_TUT_HANDGUNS_NAME"
+msgid "Handguns"
+msgstr "Handguns"
+
+msgctxt "Tutorial 1 (Polaris)/KEY_TUT_HANDGUNS_DESCRIPTION"
+msgid "HANDGUNS are light weapon helds in ONE HAND. They are the ideal BACKUP if your soldier's main weapon on one of their arms get disabled.[LF][LF]Handguns require only 1 Action Point to shoot and usually can be used multiple times per turn."
+msgstr "HANDGUNS are light weapon helds in ONE HAND. They are the ideal BACKUP if your soldier's main weapon on one of their arms get disabled.[LF][LF]Handguns require only 1 Action Point to shoot and usually can be used multiple times per turn."
+
+msgctxt "Tutorial 1 (Polaris)/KEY_TUT_ASSAULTRIFLES_NAME"
+msgid "Assault Rifles"
+msgstr "Assault Rifles"
+
+msgctxt "Tutorial 1 (Polaris)/KEY_TUT_ASSAULTRIFLES_DESCRIPTION"
+msgid "The ASSAULT RIFLE is a versatile two-handed weapon.[LF][LF]It requires 2 APs to use, and fires multiple shots that SHRED armor."
+msgstr "The ASSAULT RIFLE is a versatile two-handed weapon.[LF][LF]It requires 2 APs to use, and fires multiple shots that SHRED armor."
+
+msgctxt "Tutorial 1 (Polaris)/KEY_TUT_ENEMYEXITMAP_NAME"
+msgid "Fleeing Enemies"
+msgstr "Fleeing Enemies"
+
+msgctxt "Tutorial 1 (Polaris)/KEY_TUT_ENEMYEXITMAP_DESCRIPTION"
+msgid "Enemies that are too injured to fight will FLEE the battlefield."
+msgstr "Enemies that are too injured to fight will FLEE the battlefield."
+
+msgctxt "Tutorial 1 (Polaris)/KEY_TUT_RELOAD_NAME"
+msgid "Out of Ammo"
+msgstr "Out of Ammo"
+
+msgctxt "Tutorial 1 (Polaris)/KEY_TUT_RELOAD_DESCRIPTION"
+msgid "Your weapon is OUT OF AMMO. You'll need to use the RELOAD action to fire it again. [LF][LF]Reloading is only possilbe if you are carrying an AMMO MAGAZINE of the correct type."
+msgstr "Your weapon is OUT OF AMMO. You'll need to use the RELOAD action to fire it again. [LF][LF]Reloading is only possilbe if you are carrying an AMMO MAGAZINE of the correct type."
+
+msgctxt "Tutorial 1 (Polaris)/KEY_TUT_VEHICLEAUTOFAMMO_NAME"
+msgid "Vehicle Out of Ammo"
+msgstr "Vehicle Out of Ammo"
+
+msgctxt "Tutorial 1 (Polaris)/KEY_TUT_VEHICLEAUTOFAMMO_DESCRIPTION"
+msgid "Your vehicle is OUT OF AMMO. [LF]Unlike firearms, vehicles don't have the Reload action. [LF][LF]Your vehicle's weapon will be recharged AFTER THE MISSION."
+msgstr "Your vehicle is OUT OF AMMO. [LF]Unlike firearms, vehicles don't have the Reload action. [LF][LF]Your vehicle's weapon will be recharged AFTER THE MISSION."
+
+msgctxt "Tutorial 2 to 4/KEY_TUT2_STORY1_NAME"
+msgid "Sophia"
+msgstr "Sophia"
+
+msgctxt "Tutorial 2 to 4/KEY_TUT2_STORY1_DECRIPTION"
+msgid "We've got visual with the building. The Phoenix operative should be close-by. There are hostiles up ahead, so stay vigilant!"
+msgstr "We've got visual with the building. The Phoenix operative should be close-by. There are hostiles up ahead, so stay vigilant!"
+
+msgctxt "Tutorial 2 to 4/KEY_TUT2_4AP_NAME"
+msgid "4 Action Point System"
+msgstr "4 Action Point System"
+
+msgctxt "Tutorial 2 to 4/KEY_TUT2_4AP_DESCRIPTION"
+msgid "Soldiers have 4 ACTION POINTS (APs) to use for shooting, other actions, and movement each turn. [LF][LF]A soldier can move a number of tiles for each Action Point, depending on their speed."
+msgstr "Soldiers have 4 ACTION POINTS (APs) to use for shooting, other actions, and movement each turn. [LF][LF]A soldier can move a number of tiles for each Action Point, depending on their speed."
+
+msgctxt "Tutorial 2 to 4/TUT2_REALISTICBALLISTICS_NAME"
+msgid "Realistic Ballistics"
+msgstr "Realistic Ballistics"
+
+msgctxt "Tutorial 2 to 4/TUT2_REALISTICBALLISTICS_DESCRIPTION"
+msgid "Firefights in Phoenix Point use REALISTIC BULLET PHYSICS.[LF][LF]Taking cover behind terrain will obscure parts of your soldiers, making them less exposed to enemy gunfire. [LF][LF]Plan your positioning carefully - most terrain is distructable!"
+msgstr "Firefights in Phoenix Point use REALISTIC BULLET PHYSICS.[LF][LF]Taking cover behind terrain will obscure parts of your soldiers, making them less exposed to enemy gunfire. [LF][LF]Plan your positioning carefully - most terrain is distructable!"
+
+msgctxt "Tutorial 2 to 4/KEY_TUT2_LOW_COVER_NAME"
+msgid "Low Cover"
+msgstr "Low Cover"
+
+msgctxt "Tutorial 2 to 4/KEY_TUT2_LOW_COVER_DESCRIPTION"
+msgid "Your operatives always kneel behind low terrain to assume LOW COVER. This obscures parts of their bodies, potentially blocking some of the incoming shots.[LF][LF]A soldier in low cover will STAND UP to shoot."
+msgstr "Your operatives always kneel behind low terrain to assume LOW COVER. This obscures parts of their bodies, potentially blocking some of the incoming shots.[LF][LF]A soldier in low cover will STAND UP to shoot."
+
+msgctxt "Tutorial 2 to 4/KEY_TUT2_HIGH_COVER_NAME"
+msgid "High Cover"
+msgstr "High Cover"
+
+msgctxt "Tutorial 2 to 4/KEY_TUT2_HIGH_COVER_DESCRIPTION"
+msgid "Soldiers always hide behind walls and other obstacles to assume HIGH COVER. This obscures them, potentially blocking some of the incoming shots.[LF][LF]A soldier in high cover will SIDE STEP to shoot and go back to cover."
+msgstr "Soldiers always hide behind walls and other obstacles to assume HIGH COVER. This obscures them, potentially blocking some of the incoming shots.[LF][LF]A soldier in high cover will SIDE STEP to shoot and go back to cover."
+
+msgctxt "Tutorial 2 to 4/KEY_TUT2_RECRUITMENT_NAME"
+msgid "Independent Unit Recruitment"
+msgstr "Independent Unit Recruitment"
+
+msgctxt "Tutorial 2 to 4/KEY_TUT2_RECRUITMENT_DESCRIPTION"
+msgid "Independant characters are marked with a WHITE CIRCLE.[LF][LF]Moving a Phoenix operative inside that circle will RECRUIT the independent character, granting you control over them."
+msgstr "Independant characters are marked with a WHITE CIRCLE.[LF][LF]Moving a Phoenix operative inside that circle will RECRUIT the independent character, granting you control over them."
+
+msgctxt "Tutorial 2 to 4/KEY_TUT2_CLASSES_NAME"
+msgid "Soldier Classes"
+msgstr "Soldier Classes"
+
+msgctxt "Tutorial 2 to 4/KEY_TUT2_CLASSES_DESCRIPTION"
+msgid "There are different SOLDIER CLASSES, each with unique skills and equipment proficiencies. [LF][LF]This is a HEAVY CLASS soldier. His heavy armor and heavy weapon proficiency make him the perfect front line soldier."
+msgstr "There are different SOLDIER CLASSES, each with unique skills and equipment proficiencies. [LF][LF]This is a HEAVY CLASS soldier. His heavy armor and heavy weapon proficiency make him the perfect front line soldier."
+
+msgctxt "Tutorial 2 to 4/KEY_TUT2_OMARSELECTED_NAME"
+msgid "Omar Ashur Recruited"
+msgstr "Omar Ashur Recruited"
+
+msgctxt "Tutorial 2 to 4/KEY_TUT2_OMARSELECTED_DESCRIPTION"
+msgid "Your squad has a new member. Use his unique abilites to defeat the bandits!"
+msgstr "Your squad has a new member. Use his unique abilites to defeat the bandits!"
+
+msgctxt "Tutorial 2 to 4/KEY_TUT2_JETPACKJUMP_NAME"
+msgid "Tactical Tip: Jet Jump "
+msgstr "Tactical Tip: Jet Jump "
+
+msgctxt "Tutorial 2 to 4/KEY_TUT2_JETPACKJUMP_DESCRIPTION_К"
+msgid "The Heavy's emblematic jetpack suit allows him to FLY OVER OBSTACLES and reach high points with ease. [LF][LF]Use scroll :MW: to move the camera to reveal the HIGHEST LEVEL of the tower.[LF][LF]USE THE JETPACK TO REACH THE CHEST ON TOP OF THE TOWER"
+msgstr "The Heavy's emblematic jetpack suit allows him to FLY OVER OBSTACLES and reach high points with ease. [LF][LF]Use scroll :MW: to move the camera to reveal the HIGHEST LEVEL of the tower.[LF][LF]USE THE JETPACK TO REACH THE CHEST ON TOP OF THE TOWER"
+
+msgctxt "Tutorial 2 to 4/KEY_TUT2_JETPACKJUMP_DESCRIPTION_C"
+msgid "The Heavy's emblematic jetpack suit allows him to FLY OVER OBSTACLES or reach high points with ease. [LF][LF]Use :DUP: and :DDOWN: to move the camera to reveal the HIGHEST LEVEL of the tower.[LF][LF]USE THE JETPACK TO REACH THE CHEST ON TOP OF THE TOWER"
+msgstr "The Heavy's emblematic jetpack suit allows him to FLY OVER OBSTACLES or reach high points with ease. [LF][LF]Use :DUP: and :DDOWN: to move the camera to reveal the HIGHEST LEVEL of the tower.[LF][LF]USE THE JETPACK TO REACH THE CHEST ON TOP OF THE TOWER"
+
+msgctxt "Tutorial 2 to 4/KEY_TUT2_LEVEL_VIEW_NAME"
+msgid "Level View"
+msgstr "Level View"
+
+msgctxt "Tutorial 2 to 4/KEY_TUT2_LEVELVIEW_DESCRIPTION_BIND_K"
+msgid "Use scroll :MW: up or down to move the camera to reveal DIFFERENT LEVELS of the map."
+msgstr "Use scroll :MW: up or down to move the camera to reveal DIFFERENT LEVELS of the map."
+
+msgctxt "Tutorial 2 to 4/KEY_TUT2_LEVELVIEW_DESCRIPTION_BIND_C"
+msgid "Use :DUP: and :DDOWN: to move the camera to reveal DIFFERENT LEVELS of the map."
+msgstr "Use :DUP: and :DDOWN: to move the camera to reveal DIFFERENT LEVELS of the map."
+
+msgctxt "Tutorial 2 to 4/KEY_TUT2_WILLPOINTS_NAME"
+msgid "Will Points"
+msgstr "Will Points"
+
+msgctxt "Tutorial 2 to 4/KEY_TUT2_WILLPOINTS_DESCRIPTION"
+msgid "WILLPOWER determines a soldier's will to fight and ability to perform advanced class abilities. An operative begins battle with Will Points (WPs) equal to their Willpower. They are displayed in the bottom left corner of the screen.[LF][LF]WPs can be gained by killing enemies, opening crates or reaching objective zones. They can be lost when allies die. If a unit’s WPs fall to zero, it panics and loses a turn. WPs can be partially restored by using the Recovery ability."
+msgstr "WILLPOWER determines a soldier's will to fight and ability to perform advanced class abilities. An operative begins battle with Will Points (WPs) equal to their Willpower. They are displayed in the bottom left corner of the screen.[LF][LF]WPs can be gained by killing enemies, opening crates or reaching objective zones. They can be lost when allies die. If a unit’s WPs fall to zero, it panics and loses a turn. WPs can be partially restored by using the Recovery ability."
+
+msgctxt "Tutorial 2 to 4/KEY_TUT2_OVERWATCH_NAME"
+msgid "Overwatch"
+msgstr "Overwatch"
+
+msgctxt "Tutorial 2 to 4/KEY_TUT2_OVERWATCH_DESCRIPTION"
+msgid "The Overwatch ability allows you to guard an area during the enemy’s turn. If an enemy enters the Overwatch cone, your soldier automatically attack.[LF][LF]OVERWATCH CONTROLS[LF]Select target position: Move Mouse[LF]Change width of overwatch zone: CTRL + :MW:[LF]Confirm Overwatch: :LMB:"
+msgstr "The Overwatch ability allows you to guard an area during the enemy’s turn. If an enemy enters the Overwatch cone, your soldier automatically attack.[LF][LF]OVERWATCH CONTROLS[LF]Select target position: Move Mouse[LF]Change width of overwatch zone: CTRL + :MW:[LF]Confirm Overwatch: :LMB:"
+
+msgctxt "Tutorial 2 to 4/KEY_TUT2_COVER_NAME"
+msgid "Tactical Tip: Cover"
+msgstr "Tactical Tip: Cover"
+
+msgctxt "Tutorial 2 to 4/KEY_TUT2_COVER_DESCRIPTION"
+msgid "Your soldiers are vulnerable in the open. Taking cover next to obscuring terrain will make enemy shots less likely to hit."
+msgstr "Your soldiers are vulnerable in the open. Taking cover next to obscuring terrain will make enemy shots less likely to hit."
+
+msgctxt "Tutorial 2 to 4/KEY_TUT2_REINFORCEMENT_NAME"
+msgid "Reinforcement Zones"
+msgstr "Reinforcement Zones"
+
+msgctxt "Tutorial 2 to 4/KEY_TUT2_REINFORCEMENT_DESCRIPTION"
+msgid "Some maps feature REINFORCEMENT POINTS (ICON). [LF][LF]Enemies will keep arriving from them. Complete the objective before you get overrun! "
+msgstr "Some maps feature REINFORCEMENT POINTS (ICON). [LF][LF]Enemies will keep arriving from them. Complete the objective before you get overrun! "
+
+msgctxt "Tutorial 2 to 4/KEY_TUT2_BASH_NAME"
+msgid "Tactical Tip: Bash"
+msgstr "Tactical Tip: Bash"
+
+msgctxt "Tutorial 2 to 4/KEY_TUT2_BASH_DESCRIPTION"
+msgid "When your soldier is next to an enemy, you can perform the BASH melee attack. [LF][LF]It only costs 1 Action Point, so you can usually Bash an enemy MULTIPLE TIMES in the same turn."
+msgstr "When your soldier is next to an enemy, you can perform the BASH melee attack. [LF][LF]It only costs 1 Action Point, so you can usually Bash an enemy MULTIPLE TIMES in the same turn."
+
+msgctxt "Tutorial 2 to 4/KEY_TUT2_SCARABBLAST_NAME"
+msgid "Tactical Tip: Scarab Blast"
+msgstr "Tactical Tip: Scarab Blast"
+
+msgctxt "Tutorial 2 to 4/KEY_TUT2_SCARABBLAST_DESCRIPTION"
+msgid "The Scarab's powerful weapon launches TWO MISSLES that deal damage in an area. [LF][LF]It's perfect for clearing out groups of weak enemies, or damaging high-armor targets."
+msgstr "The Scarab's powerful weapon launches TWO MISSLES that deal damage in an area. [LF][LF]It's perfect for clearing out groups of weak enemies, or damaging high-armor targets."
+
+msgctxt "Tutorial 2 to 4/KEY_TUT2_BLEEDINGSTATUS_NAME"
+msgid "Status Effect: Bleed"
+msgstr "Status Effect: Bleed"
+
+msgctxt "Tutorial 2 to 4/KEY_TUT2_BLEEDING_STATUS_DESCRIPTION"
+msgid "Your soldier was hurt and got he BLEEDING status effect. [LF][LF]Take care of your bleeding soldiers - will keep losing Hit Points every turn until HEALED with a Medkit or EVACUATED."
+msgstr "Your soldier was hurt and got he BLEEDING status effect. [LF][LF]Take care of your bleeding soldiers - will keep losing Hit Points every turn until HEALED with a Medkit or EVACUATED."
+
+msgctxt "Tutorial 2 to 4/KEY_TUT2_BLEEDING_EFFECT_NAME"
+msgid "Status Effect: Bleed"
+msgstr "Status Effect: Bleed"
+
+msgctxt "Tutorial 2 to 4/KEY_TUT2_BLEEDING_EFFE_DESCRIPTION"
+msgid "When a unit's limb is disabled, they get the BLEEDING status effect. Bleeding units lose Hit Points every turn until healed or evacuated.[LF][LF]There are various other status effects. Some abilities provide positive effects, while special weapons could inflict negative ones.[LF]"
+msgstr "When a unit's limb is disabled, they get the BLEEDING status effect. Bleeding units lose Hit Points every turn until healed or evacuated.[LF][LF]There are various other status effects. Some abilities provide positive effects, while special weapons could inflict negative ones.[LF]"
+
+msgctxt "Tutorial 2 to 4/KEY_TUT2_INVENTORYSKILL_NAME"
+msgid "Inventory"
+msgstr "Inventory"
+
+msgctxt "Tutorial 2 to 4/KEY_TUT2_INVENTORYSKILL_DESCRIPTION"
+msgid "The Inventory shows everything carried by a soldier, and items on the ground or in adjacent crates.[LF][LF]ENCUMBRANCE[LF]If the weight of all carried items and armor is greater than the soldier's Strength then the soldier suffers a movement penalty.[LF]The tactical inventory display is divided into three sections.[LF][LF]READY: Contains items that are currently equipped and ready for immediate use.[LF]BACKPACK: Holds all items carried, but not equipped.[LF]GROUND: Items on the soldier’s tile, or in surrounding tiles."
+msgstr "The Inventory shows everything carried by a soldier, and items on the ground or in adjacent crates.[LF][LF]ENCUMBRANCE[LF]If the weight of all carried items and armor is greater than the soldier's Strength then the soldier suffers a movement penalty.[LF]The tactical inventory display is divided into three sections.[LF][LF]READY: Contains items that are currently equipped and ready for immediate use.[LF]BACKPACK: Holds all items carried, but not equipped.[LF]GROUND: Items on the soldier’s tile, or in surrounding tiles."
+
+msgctxt "Tutorial 2 to 4/KEY_TUT2_CHEST_NAME"
+msgid "Opening Chests"
+msgstr "Opening Chests"
+
+msgctxt "Tutorial 2 to 4/KEY_TUT2_CHEST_DESCRIPTION"
+msgid "Chests usually contain VALUABLE ITEMS.[LF][LF]The Inventory shows everything carried by a soldier, and items on the ground or in adjacent crates.[LF][LF]Entering the inventory display has no AP cost. Moving any number of items from one section to another has a fixed cost of 1 AP, except for moving items to ground, which does not cost any APs."
+msgstr "Chests usually contain VALUABLE ITEMS.[LF][LF]The Inventory shows everything carried by a soldier, and items on the ground or in adjacent crates.[LF][LF]Entering the inventory display has no AP cost. Moving any number of items from one section to another has a fixed cost of 1 AP, except for moving items to ground, which does not cost any APs."
+
+msgctxt "Tutorial 2 to 4/KEY_TUT2_STANDBY_NAME"
+msgid "Tactical Tip: Stand By"
+msgstr "Tactical Tip: Stand By"
+
+msgctxt "Tutorial 2 to 4/KEY_TUT2_STANDBY_DESCRIPTION"
+msgid "You can choose to end a soldier's turn by selecting STAND BY from the Action Bar. [LF][LF]If a soldier is OUT OF ACTION POINTS, they will Stand By automatically."
+msgstr "You can choose to end a soldier's turn by selecting STAND BY from the Action Bar. [LF][LF]If a soldier is OUT OF ACTION POINTS, they will Stand By automatically."
+
+msgctxt "Tutorial 2 to 4/KEY_TUT2_MEDKIT_NAME"
+msgid "MedKit"
+msgstr "MedKit"
+
+msgctxt "Tutorial 2 to 4/KEY_TUT2_MEDKIT_DESCRIPTION"
+msgid "MEDKITS are powerful tools that can RESTORE HIT POINTS, disabled Limbs and remove Status effects such as Bleeding. [LF][LF]A soldier can use a Medkit on themselves, or an ALLY."
+msgstr "MEDKITS are powerful tools that can RESTORE HIT POINTS, disabled Limbs and remove Status effects such as Bleeding. [LF][LF]A soldier can use a Medkit on themselves, or an ALLY."
+
+msgctxt "Tutorial 2 to 4/KEY_TUT2_HEL_CANNON_NAME"
+msgid "Tactical Tip: Hel II Cannon"
+msgstr "Tactical Tip: Hel II Cannon"
+
+msgctxt "Tutorial 2 to 4/KEY_TUT2_HEL_CANNON_DESCRIPTION"
+msgid "The HEL II CANNON is a powerful heavy weapon with LOW ACCURACY and HIGH DAMAGE. [LF][LF]Firing it costs 3 Action Points. Use it to deal with nearby enemies!"
+msgstr "The HEL II CANNON is a powerful heavy weapon with LOW ACCURACY and HIGH DAMAGE. [LF][LF]Firing it costs 3 Action Points. Use it to deal with nearby enemies!"
+
+msgctxt "Tutorial 2 to 4/KEY_TUT2_RECOVER_NAME"
+msgid "Tactical Tip: Recover"
+msgstr "Tactical Tip: Recover"
+
+msgctxt "Tutorial 2 to 4/KEY_TUT2_RECOVER_DESCRIPTION"
+msgid "A soldier can recover half of their Will Points by spending all 4 Action Points on the RECOVER ability. Timing is key!"
+msgstr "A soldier can recover half of their Will Points by spending all 4 Action Points on the RECOVER ability. Timing is key!"
+
+msgctxt "Tutorial 2 to 4/KEY_TUT2_PANIC_NAME"
+msgid "Tactical Tip: Panic"
+msgstr "Tactical Tip: Panic"
+
+msgctxt "Tutorial 2 to 4/KEY_TUT2_PANIC_DESCRIPTION"
+msgid "When a unit's Will Points drop to 0, it becomes PANICKED. [LF][LF]Panicked units will automatically move to find cover."
+msgstr "When a unit's Will Points drop to 0, it becomes PANICKED. [LF][LF]Panicked units will automatically move to find cover."
+
+msgctxt "Tutorial 2 to 4/KEY_TUT2_UDAR_HG_NAME"
+msgid "Tactical Tip: Handguns"
+msgstr "Tactical Tip: Handguns"
+
+msgctxt "Tutorial 2 to 4/KEY_TUT2_UDAR_HG_DESCRIPTION"
+msgid "This enemy is armed with a HANDGUN - a light weapon held in ONE HAND. [LF][LF]Handguns require only 1 Action Point to shoot and usually can be used multiple times per turn."
+msgstr "This enemy is armed with a HANDGUN - a light weapon held in ONE HAND. [LF][LF]Handguns require only 1 Action Point to shoot and usually can be used multiple times per turn."
+
+msgctxt "Tutorial 2 to 4/KEY_TUT2_YAT_AR_NAME"
+msgid "Tactical Tip: Assault Rifles"
+msgstr "Tactical Tip: Assault Rifles"
+
+msgctxt "Tutorial 2 to 4/KEY_TUT2_YAT_AR_DESCRIPTION"
+msgid "This enemy has an ASSAULT RIFLE - a versatile two-handed weapon. [LF][LF]Assault Rifles require 2 APs to use, and fire multiple shots that SHRED armor."
+msgstr "This enemy has an ASSAULT RIFLE - a versatile two-handed weapon. [LF][LF]Assault Rifles require 2 APs to use, and fire multiple shots that SHRED armor."
+
+msgctxt "Tutorial 2 to 4/KEY_TUT2_ENEMY_FLEES_NAME"
+msgid "Fleeing Enemies"
+msgstr "Fleeing Enemies"
+
+msgctxt "Tutorial 2 to 4/KEY_TUT2_ENEMY_FLEES_DESCRIPTION"
+msgid "Enemies that are too injured to fight will FLEE the battlefield."
+msgstr "Enemies that are too injured to fight will FLEE the battlefield."
+
+msgctxt "Tutorial 2 to 4/KEY_TUT2_AMMO_OUT_NAME"
+msgid "Tactical Tip: Reload"
+msgstr "Tactical Tip: Reload"
+
+msgctxt "Tutorial 2 to 4/KEY_TUT2_AMMO_OUT_DESCRIPTION"
+msgid "Your weapon is OUT OF AMMO. You'll need to use the RELOAD action to fire it again. [LF][LF]Reloading is only possilbe if you are carrying an AMMO MAGAZINE of the correct type.[LF][LF]RELOAD YOUR WEAPON"
+msgstr "Your weapon is OUT OF AMMO. You'll need to use the RELOAD action to fire it again. [LF][LF]Reloading is only possilbe if you are carrying an AMMO MAGAZINE of the correct type.[LF][LF]RELOAD YOUR WEAPON"
+
+msgctxt "Tutorial 2 to 4/KEY_TUT2_VEHIVLE_AMMO_NAME"
+msgid "Scarab Out of Ammo"
+msgstr "Scarab Out of Ammo"
+
+msgctxt "Tutorial 2 to 4/KEY_TUT2_VEHIVLE_AMMO_DESCRIPTION"
+msgid "Your Scarab is OUT OF AMMO. Unlike firearms, vehicles don't have the Reload action. Your vehicle's weapon will be recharged AFTER THE MISSION."
+msgstr "Your Scarab is OUT OF AMMO. Unlike firearms, vehicles don't have the Reload action. Your vehicle's weapon will be recharged AFTER THE MISSION."
+
+msgctxt "Tutorial 2 to 4/KEY_TUT3_STORY1_NAME"
+msgid "Sophia Brown"
+msgstr "Sophia Brown"
+
+msgctxt "Tutorial 2 to 4/KEY_TUT3_STORY1_DECRIPTION"
+msgid "Tread lightly! There are hostiles up ahead. Let's get rid of them and clean up this mess!"
+msgstr "Tread lightly! There are hostiles up ahead. Let's get rid of them and clean up this mess!"
+
+msgctxt "Tutorial 2 to 4/KEY_TUT2_AP_NEEDED_NAME"
+msgid "Not Enough Action Points (APs)"
+msgstr "Not Enough Action Points (APs)"
+
+msgctxt "Tutorial 2 to 4/KEY_TUT2_AP_NEEDED_DESCRIPTION"
+msgid "This soldier doesn't have enough AP to do this. You'll be able to complete this action NEXT TURN. To end the soldier's trun now, select Stand By."
+msgstr "This soldier doesn't have enough AP to do this. You'll be able to complete this action NEXT TURN. To end the soldier's trun now, select Stand By."
+
+msgctxt "Tutorial 2 to 4/KEY_TUT2_SCARABSELECTED_NAME"
+msgid "Tactical Tip: PX Scarab"
+msgstr "Tactical Tip: PX Scarab"
+
+msgctxt "Tutorial 2 to 4/KEY_TUT2_SCARABSELECTED_DESCRIPTON"
+msgid "The Scarab is a heavily armored TRANSPORT UNIT armed with devastating missle launchers.[LF][LF]Use it to transport your operatives faster and blast enemies from a distance."
+msgstr "The Scarab is a heavily armored TRANSPORT UNIT armed with devastating missle launchers.[LF][LF]Use it to transport your operatives faster and blast enemies from a distance."
+
+msgctxt "Tutorial 2 to 4/KEY_TUT2_SCARABSELECTEDAGAIN_NAME"
+msgid "Tactical Tip: Scarab's Missles"
+msgstr "Tactical Tip: Scarab's Missles"
+
+msgctxt "Tutorial 2 to 4/KEY_TUT2_SCARABSELECTEDAGAIN_DESCRIPTION"
+msgid "The Scarab's missle launcher is effective from a great distance and strikes in an area of effect, but is relatively anccurate. [LF]Keep this in mind when targeting multiple enemies! "
+msgstr "The Scarab's missle launcher is effective from a great distance and strikes in an area of effect, but is relatively anccurate. [LF]Keep this in mind when targeting multiple enemies! "
+
+msgctxt "Tutorial 2 to 4/KEY_TUT2_DAZED_NAME"
+msgid "Daze"
+msgstr "Daze"
+
+msgctxt "Tutorial 2 to 4/KEY_TUT2_DAZED_DESCRIPTION"
+msgid "This unit has the DAZED status effect. [LF]It will have only 1 AP to use in its next trun, then it will go back to normal.[LF][LF]Units get dazed when they take a lot of SHOCK DAMAGE from melee attacks or heavy weapons."
+msgstr "This unit has the DAZED status effect. [LF]It will have only 1 AP to use in its next trun, then it will go back to normal.[LF][LF]Units get dazed when they take a lot of SHOCK DAMAGE from melee attacks or heavy weapons."
+
+msgctxt "Tutorial 2 to 4/KEY_TUT3_STORY1_DESCRIPTION"
+msgid "Tread lightly! There are hostiles up ahead. Let's get rid of them and clean up this mess!"
+msgstr "Tread lightly! There are hostiles up ahead. Let's get rid of them and clean up this mess!"
+
+msgctxt "Tutorial 2 to 4/KEY_TUT3_MINDFRAGGER_NAME"
+msgid "Tactical Tip: Mindfraggers"
+msgstr "Tactical Tip: Mindfraggers"
+
+msgctxt "Tutorial 2 to 4/KEY_TUT3_MINDFRAGGER_DESCRIPTION"
+msgid "Mindfraggers are dangerous creatures that will latch on a soldier's head, MIND CONTROLLING them.[LF][LF]The best way to deal with a Mindfragger is to take an OVERWATCH position and shoot it down as it approaches."
+msgstr "Mindfraggers are dangerous creatures that will latch on a soldier's head, MIND CONTROLLING them.[LF][LF]The best way to deal with a Mindfragger is to take an OVERWATCH position and shoot it down as it approaches."
+
+msgctxt "Tutorial 2 to 4/KEY_TUT3_BEACON_NAME"
+msgid "Tactical Tip: Location Beacons"
+msgstr "Tactical Tip: Location Beacons"
+
+msgctxt "Tutorial 2 to 4/KEY_TUT3_BEACON_DESCRIPTION"
+msgid "Location Beacons indicate ACTIVITY in obscured parts of the map. [LF][LF]Hostiles detected! The SOUNDS OF GUNSHOTS suugest a Phoenix operative is under attack. [LF]You should hurry up and investigate!"
+msgstr "Location Beacons indicate ACTIVITY in obscured parts of the map. [LF][LF]Hostiles detected! The SOUNDS OF GUNSHOTS suugest a Phoenix operative is under attack. [LF]You should hurry up and investigate!"
+
+msgctxt "Tutorial 2 to 4/KEY_TUT3_POISONSTATUS_NAME"
+msgid "Status Effect: Poison"
+msgstr "Status Effect: Poison"
+
+msgctxt "Tutorial 2 to 4/KEY_TUT3_POISONSTATUS_DESCRIPTION"
+msgid "Units with the POISON status effect will keep losing Hit Points every turn equal to the Poison value. [LF][LF]Poison effects are GRADUALLY REDUCED each turn."
+msgstr "Units with the POISON status effect will keep losing Hit Points every turn equal to the Poison value. [LF][LF]Poison effects are GRADUALLY REDUCED each turn."
+
+msgctxt "Tutorial 2 to 4/KEY_TUT3_POISONEFFECT_NAME"
+msgid "Poison"
+msgstr "Poison"
+
+msgctxt "Tutorial 2 to 4/KEY_TUT3_POISONEFFECT_DESCRIPTION"
+msgid "This operative is Poisoned. It will LOSE HIT POINTS equal to the Poison value. [LF][LF]Poison is applied only if the operative has taken damage, and gradually reduces EVERY TURN."
+msgstr "This operative is Poisoned. It will LOSE HIT POINTS equal to the Poison value. [LF][LF]Poison is applied only if the operative has taken damage, and gradually reduces EVERY TURN."
+
+msgctxt "Tutorial 2 to 4/KEY_TUT3_SNIPERCLASS_NAME"
+msgid "Sniper Class"
+msgstr "Sniper Class"
+
+msgctxt "Tutorial 2 to 4/KEY_TUT3_SNIPERCLASS_DESCRIPTION"
+msgid "This operative is a Sniper - a soldier proficient with VERY ACCURATE, long-range weapons.[LF][LF]Snipers are perfect for thaking down specific enemies and providing support from the back line.[LF][LF]They are also proficient with HANDGUNS, their complimentary sidearms."
+msgstr "This operative is a Sniper - a soldier proficient with VERY ACCURATE, long-range weapons.[LF][LF]Snipers are perfect for thaking down specific enemies and providing support from the back line.[LF][LF]They are also proficient with HANDGUNS, their complimentary sidearms."
+
+msgctxt "Tutorial 2 to 4/KEY_TUT3_POISONWORM_NAME"
+msgid "Tactical Tip: Posion Wormс"
+msgstr "Tactical Tip: Posion Wormс"
+
+msgctxt "Tutorial 2 to 4/KEY_TUT3_POISONWORM_DESCRIPTION"
+msgid "Poison worms are small, but don't let their size deceive you - when close enough, they will burst in a POISON EXPLOSION, affecting nearby soldiers. [LF][LF]It's best to deal with them from a distance, or taking OVERWATCH position and shooting them down as they approach."
+msgstr "Poison worms are small, but don't let their size deceive you - when close enough, they will burst in a POISON EXPLOSION, affecting nearby soldiers. [LF][LF]It's best to deal with them from a distance, or taking OVERWATCH position and shooting them down as they approach."
+
+msgctxt "Tutorial 2 to 4/KEY_TUT3_HANDGRENADE_NAME"
+msgid "Hand Grenades "
+msgstr "Hand Grenades "
+
+msgctxt "Tutorial 2 to 4/KEY_TUT3_HANDGRENADE_DESCRIPTION"
+msgid "Hand Grenades can be equiped in a Ready slot and used just like the other weapons to  DEAL DAMAGE IN AN AREA. [LF][LF]Positioning is key - be careful not to hurt your own soldiers!"
+msgstr "Hand Grenades can be equiped in a Ready slot and used just like the other weapons to  DEAL DAMAGE IN AN AREA. [LF][LF]Positioning is key - be careful not to hurt your own soldiers!"
+
+msgctxt "Tutorial 2 to 4/KEY_TUT3_MINDFRAGGEDSOLDIER_NAME"
+msgid "Mindfragged Soldier"
+msgstr "Mindfragged Soldier"
+
+msgctxt "Tutorial 2 to 4/KEY_TUT3_MINDFRAGGEDSOLDIER_DESCRIPTION"
+msgid "Your soldier is MIND CONTROLLED by a Mindfragger and will be forced to attack your other operatives.[LF][LF]It's best to TARGET THE CREATURE with a single-shot weapon, or kill it in melee with a BASH.[LF][LF]Make sure you don't select YOUR OWN SOLDIER as the target!"
+msgstr "Your soldier is MIND CONTROLLED by a Mindfragger and will be forced to attack your other operatives.[LF][LF]It's best to TARGET THE CREATURE with a single-shot weapon, or kill it in melee with a BASH.[LF][LF]Make sure you don't select YOUR OWN SOLDIER as the target!"
+
+msgctxt "Tutorial 2 to 4/KEY_TUT3_SYPHERHG_NAME"
+msgid "Tactical TIp: Cypher HG"
+msgstr "Tactical TIp: Cypher HG"
+
+msgctxt "Tutorial 2 to 4/KEY_TUT3_SYPHERHG_DESCRIPTION"
+msgid "You've looted a CYPHER HANDGUN - an effective BACKUP WEAPON if your main weapon or one of your arms gets disabled.[LF][LF]Handguns are useful against worms and Mindfraggers. They use up 1 AP so you can fire the multiple times per turn."
+msgstr "You've looted a CYPHER HANDGUN - an effective BACKUP WEAPON if your main weapon or one of your arms gets disabled.[LF][LF]Handguns are useful against worms and Mindfraggers. They use up 1 AP so you can fire the multiple times per turn."
+
+msgctxt "Tutorial 2 to 4/KEY_TUT3_SAVEASSAULT_NAME"
+msgid "Phoenix soldier in danger!"
+msgstr "Phoenix soldier in danger!"
+
+msgctxt "Tutorial 2 to 4/KEY_TUT3_SAVEASSAULT_DESCRIPTION"
+msgid "This fellow Phoenix operative has been mind controlled by a Mindfragger. [LF][LF]Save him before it's too late!"
+msgstr "This fellow Phoenix operative has been mind controlled by a Mindfragger. [LF][LF]Save him before it's too late!"
 
 msgctxt "Phoenixpedia/KEY_PHOENIXPEDIA_SECTION_GUIDE"
 msgid "GUIDE"
@@ -5671,8 +6923,8 @@ msgid "Experience and Skill Points"
 msgstr "Experience and Skill Points"
 
 msgctxt "Phoenixpedia/KEY_PHOENIXPEDIA_GUIDE_XP_DESCRIPTION"
-msgid "Experince Points (XPs) are earned by achieving objectives in missions. XPs are then distributed between surviving soldiers depending on their contribution to the battle.[LF][LF]Soldiers will automatically level up when they reach the XP threshold for the next level. On leveling up a soldier is awarded Skill Points (SPs) for spending on new abilities or on increasing the core stats - Strength, Willpower and Speed. After soldiers reach level 7 they cannot earn any more SPs, but you can still spend Phoenix SPs on these soldiers.[LF][LF]Some Phoenix SPs will be earned for each battle, depending on completed objectives.[LF][LF]On reaching level 4, soldiers can be trained in another class. Abilities of a class which require weapon proficiency can be used with weapons that the other class is proficient with."
-msgstr "Experince Points (XPs) are earned by achieving objectives in missions. XPs are then distributed between surviving soldiers depending on their contribution to the battle.[LF][LF]Soldiers will automatically level up when they reach the XP threshold for the next level. On leveling up a soldier is awarded Skill Points (SPs) for spending on new abilities or on increasing the core stats - Strength, Willpower and Speed. After soldiers reach level 7 they cannot earn any more SPs, but you can still spend Phoenix SPs on these soldiers.[LF][LF]Some Phoenix SPs will be earned for each battle, depending on completed objectives.[LF][LF]On reaching level 4, soldiers can be trained in another class. Abilities of a class which require weapon proficiency can be used with weapons that the other class is proficient with."
+msgid "Experience Points (XPs) are earned by achieving objectives in missions. XPs are then distributed between surviving soldiers depending on their contribution to the battle.[LF][LF]Soldiers will automatically level up when they reach the XP threshold for the next level. On leveling up a soldier is awarded Skill Points (SPs) for spending on new abilities or on increasing the core stats - Strength, Willpower and Speed.[LF][LF]Some Phoenix SPs will be earned for each battle, depending on completed objectives.[LF][LF]On reaching level 4, soldiers can be trained in another class. Abilities of a class which require weapon proficiency can be used with weapons that the other class is proficient with."
+msgstr "Experience Points (XPs) are earned by achieving objectives in missions. XPs are then distributed between surviving soldiers depending on their contribution to the battle.[LF][LF]Soldiers will automatically level up when they reach the XP threshold for the next level. On leveling up a soldier is awarded Skill Points (SPs) for spending on new abilities or on increasing the core stats - Strength, Willpower and Speed.[LF][LF]Some Phoenix SPs will be earned for each battle, depending on completed objectives.[LF][LF]On reaching level 4, soldiers can be trained in another class. Abilities of a class which require weapon proficiency can be used with weapons that the other class is proficient with."
 
 msgctxt "Phoenixpedia/KEY_PHOENIXPEDIA_GUIDE_DAMAGE_SYSTEM_NAME"
 msgid "Standard Damage"
@@ -6315,8 +7567,8 @@ msgid "DOWNLOADING MISSION"
 msgstr "DOWNLOADING MISSION"
 
 msgctxt "Xbox/KEY_STREAMING_INSTALL_TEXT_DESCRIPTION"
-msgid "The selected mission is currently being downloaded to your device. Please, wait until the download is complete before launching."
-msgstr "The selected mission is currently being downloaded to your device. Please, wait until the download is complete before launching."
+msgid "The selected mission is currently being downloaded. Please, wait until the download is complete before launching."
+msgstr "The selected mission is currently being downloaded. Please, wait until the download is complete before launching."
 
 msgctxt "Xbox/KEY_CONSOLE_CONTINUE"
 msgid "PRESS :A: TO CONTINUE"
@@ -6359,8 +7611,8 @@ msgid "KILL ALL ENEMIES"
 msgstr "KILL ALL ENEMIES"
 
 msgctxt "Objectives/KEY_OBJECTIVE_KILL_QUEEN"
-msgid "KILL THE SCYLLA"
-msgstr "KILL THE SCYLLA"
+msgid "DEFEAT THE SCYLLA"
+msgstr "DEFEAT THE SCYLLA"
 
 msgctxt "Objectives/KEY_OBJECTIVE_KILL_SPAWNERY"
 msgid "DESTROY THE SPAWNERY"
@@ -6761,6 +8013,186 @@ msgstr "Virophage Injector"
 msgctxt "Objectives/KEY_OBJECTIVE_BEACONITEM"
 msgid "Beacon"
 msgstr "Beacon"
+
+msgctxt "Backer Info/KEY_BCR1_HAVEN"
+msgid "Longinus Point"
+msgstr "Longinus Point"
+
+msgctxt "Backer Info/KEY_BCR1_MOTTO"
+msgid "---"
+msgstr "---"
+
+msgctxt "Backer Info/KEY_BCR1_LEADER"
+msgid "Justinian Cyneweard"
+msgstr "Justinian Cyneweard"
+
+msgctxt "Backer Info/KEY_BCR2_HAVEN"
+msgid "Aatxe"
+msgstr "Aatxe"
+
+msgctxt "Backer Info/KEY_BCR2_MOTTO"
+msgid "Nola bizi, hala hil"
+msgstr "Nola bizi, hala hil"
+
+msgctxt "Backer Info/KEY_BCR2_LEADER"
+msgid "Erik-Logan Hughes"
+msgstr "Erik-Logan Hughes"
+
+msgctxt "Backer Info/KEY_BCR3_HAVEN"
+msgid "Dokkum"
+msgstr "Dokkum"
+
+msgctxt "Backer Info/KEY_BCR3_MOTTO"
+msgid "---"
+msgstr "---"
+
+msgctxt "Backer Info/KEY_BCR3_LEADER"
+msgid "Boris Eysbroek"
+msgstr "Boris Eysbroek"
+
+msgctxt "Backer Info/KEY_BCR4_HAVEN"
+msgid "R.E.M.E. Corporation"
+msgstr "R.E.M.E. Corporation"
+
+msgctxt "Backer Info/KEY_BCR4_MOTTO"
+msgid "Work Today To Get Fed Tomorrow"
+msgstr "Work Today To Get Fed Tomorrow"
+
+msgctxt "Backer Info/KEY_BCR4_LEADER"
+msgid "Jachlan Wisopp"
+msgstr "Jachlan Wisopp"
+
+msgctxt "Backer Info/KEY_BCR5_HAVEN"
+msgid "Cedar Ark"
+msgstr "Cedar Ark"
+
+msgctxt "Backer Info/KEY_BCR5_MOTTO"
+msgid "---"
+msgstr "---"
+
+msgctxt "Backer Info/KEY_BCR5_LEADER"
+msgid "Mike Spark"
+msgstr "Mike Spark"
+
+msgctxt "Backer Info/KEY_BCR6_HAVEN"
+msgid "Scheria"
+msgstr "Scheria"
+
+msgctxt "Backer Info/KEY_BCR6_MOTTO"
+msgid "Faber est Suae Quisque Fortunae"
+msgstr "Faber est Suae Quisque Fortunae"
+
+msgctxt "Backer Info/KEY_BCR6_LEADER"
+msgid "Ulysses J. Black"
+msgstr "Ulysses J. Black"
+
+msgctxt "Backer Info/KEY_BCR7_HAVEN"
+msgid "Bastion Irazu"
+msgstr "Bastion Irazu"
+
+msgctxt "Backer Info/KEY_BCR7_MOTTO"
+msgid "Presidium Prepetua Aeternum Quaerere"
+msgstr "Presidium Prepetua Aeternum Quaerere"
+
+msgctxt "Backer Info/KEY_BCR7_LEADER"
+msgid "Fabio Mena"
+msgstr "Fabio Mena"
+
+msgctxt "Backer Info/KEY_BCR8_HAVEN"
+msgid "Dustwood"
+msgstr "Dustwood"
+
+msgctxt "Backer Info/KEY_BCR8_MOTTO"
+msgid "---"
+msgstr "---"
+
+msgctxt "Backer Info/KEY_BCR8_LEADER"
+msgid "Ryan Dustin Wood"
+msgstr "Ryan Dustin Wood"
+
+msgctxt "Backer Info/KEY_BCR9_HAVEN"
+msgid "Genova"
+msgstr "Genova"
+
+msgctxt "Backer Info/KEY_BCR9_MOTTO"
+msgid "Inter Nos Nostra Lex"
+msgstr "Inter Nos Nostra Lex"
+
+msgctxt "Backer Info/KEY_BCR9_LEADER"
+msgid "Walter Ivan Toso"
+msgstr "Walter Ivan Toso"
+
+msgctxt "Backer Info/KEY_BCR10_HAVEN"
+msgid "Towa"
+msgstr "Towa"
+
+msgctxt "Backer Info/KEY_BCR10_MOTTO"
+msgid "---"
+msgstr "---"
+
+msgctxt "Backer Info/KEY_BCR10_LEADER"
+msgid "Hikari Towa"
+msgstr "Hikari Towa"
+
+msgctxt "Backer Info/KEY_BCR11_HAVEN"
+msgid "Harmony"
+msgstr "Harmony"
+
+msgctxt "Backer Info/KEY_BCR11_MOTTO"
+msgid "With Music, Rise"
+msgstr "With Music, Rise"
+
+msgctxt "Backer Info/KEY_BCR11_LEADER"
+msgid "James O'Hearn"
+msgstr "James O'Hearn"
+
+msgctxt "Backer Info/KEY_BCR12_HAVEN"
+msgid "New Sydney"
+msgstr "New Sydney"
+
+msgctxt "Backer Info/KEY_BCR12_MOTTO"
+msgid "On Their Behalf"
+msgstr "On Their Behalf"
+
+msgctxt "Backer Info/KEY_BCR12_LEADER"
+msgid "Harry Brown-Beresford"
+msgstr "Harry Brown-Beresford"
+
+msgctxt "Backer Info/KEY_BCR13_HAVEN"
+msgid "The Reformed"
+msgstr "The Reformed"
+
+msgctxt "Backer Info/KEY_BCR13_MOTTO"
+msgid "Cursed Be All Who Follow The Weak, For We Are The True Disciples"
+msgstr "Cursed Be All Who Follow The Weak, For We Are The True Disciples"
+
+msgctxt "Backer Info/KEY_BCR13_LEADER"
+msgid "Joseph Saxton"
+msgstr "Joseph Saxton"
+
+msgctxt "Backer Info/KEY_BCR14_HAVEN"
+msgid "Emrys"
+msgstr "Emrys"
+
+msgctxt "Backer Info/KEY_BCR14_MOTTO"
+msgid "What Does Not Kill You Makes You Stronger"
+msgstr "What Does Not Kill You Makes You Stronger"
+
+msgctxt "Backer Info/KEY_BCR14_LEADER"
+msgid "John \"\"Merlin\"\" Smith"
+msgstr "John \"\"Merlin\"\" Smith"
+
+msgctxt "Backer Info/KEY_BCR15_HAVEN"
+msgid "New Warsaw"
+msgstr "New Warsaw"
+
+msgctxt "Backer Info/KEY_BCR15_MOTTO"
+msgid "---"
+msgstr "---"
+
+msgctxt "Backer Info/KEY_BCR15_LEADER"
+msgid "Tomasz Lu Baer"
+msgstr "Tomasz Lu Baer"
 
 msgctxt "Cinematic Subtitles/KEY_INTROVOICE1_01"
 msgid "In what may be the hottest year in history"
@@ -7970,174 +9402,6 @@ msgctxt "Cinematic Subtitles/KEY_SYMES_ANTARCTICA_8"
 msgid "maybe we are all children of the Pandoravirus. But... the sphere... my God, the sphere..."
 msgstr "maybe we are all children of the Pandoravirus. But... the sphere... my God, the sphere..."
 
-msgctxt "Backer Info/KEY_BCR1_HAVEN"
-msgid "Longinus Point"
-msgstr "Longinus Point"
-
-msgctxt "Backer Info/KEY_BCR1_MOTTO"
-msgid "---"
-msgstr "---"
-
-msgctxt "Backer Info/KEY_BCR1_LEADER"
-msgid "Justinian Cyneweard"
-msgstr "Justinian Cyneweard"
-
-msgctxt "Backer Info/KEY_BCR2_HAVEN"
-msgid "Aatxe"
-msgstr "Aatxe"
-
-msgctxt "Backer Info/KEY_BCR2_MOTTO"
-msgid "Nola bizi, hala hil"
-msgstr "Nola bizi, hala hil"
-
-msgctxt "Backer Info/KEY_BCR2_LEADER"
-msgid "Erik-Logan Hughes"
-msgstr "Erik-Logan Hughes"
-
-msgctxt "Backer Info/KEY_BCR3_HAVEN"
-msgid "Dokkum"
-msgstr "Dokkum"
-
-msgctxt "Backer Info/KEY_BCR3_MOTTO"
-msgid "---"
-msgstr "---"
-
-msgctxt "Backer Info/KEY_BCR3_LEADER"
-msgid "Boris Eysbroek"
-msgstr "Boris Eysbroek"
-
-msgctxt "Backer Info/KEY_BCR4_HAVEN"
-msgid "R.E.M.E. Corporation"
-msgstr "R.E.M.E. Corporation"
-
-msgctxt "Backer Info/KEY_BCR4_MOTTO"
-msgid "Work Today To Get Fed Tomorrow"
-msgstr "Work Today To Get Fed Tomorrow"
-
-msgctxt "Backer Info/KEY_BCR4_LEADER"
-msgid "Jachlan Wisopp"
-msgstr "Jachlan Wisopp"
-
-msgctxt "Backer Info/KEY_BCR5_HAVEN"
-msgid "Cedar Ark"
-msgstr "Cedar Ark"
-
-msgctxt "Backer Info/KEY_BCR5_MOTTO"
-msgid "---"
-msgstr "---"
-
-msgctxt "Backer Info/KEY_BCR5_LEADER"
-msgid "Mike Spark"
-msgstr "Mike Spark"
-
-msgctxt "Backer Info/KEY_BCR6_HAVEN"
-msgid "Scheria"
-msgstr "Scheria"
-
-msgctxt "Backer Info/KEY_BCR6_MOTTO"
-msgid "Faber est Suae Quisque Fortunae"
-msgstr "Faber est Suae Quisque Fortunae"
-
-msgctxt "Backer Info/KEY_BCR6_LEADER"
-msgid "Ulysses J. Black"
-msgstr "Ulysses J. Black"
-
-msgctxt "Backer Info/KEY_BCR7_HAVEN"
-msgid "Bastion Irazu"
-msgstr "Bastion Irazu"
-
-msgctxt "Backer Info/KEY_BCR7_MOTTO"
-msgid "Presidium Prepetua Aeternum Quaerere"
-msgstr "Presidium Prepetua Aeternum Quaerere"
-
-msgctxt "Backer Info/KEY_BCR7_LEADER"
-msgid "Fabio Mena"
-msgstr "Fabio Mena"
-
-msgctxt "Backer Info/KEY_BCR8_HAVEN"
-msgid "Dustwood"
-msgstr "Dustwood"
-
-msgctxt "Backer Info/KEY_BCR8_MOTTO"
-msgid "---"
-msgstr "---"
-
-msgctxt "Backer Info/KEY_BCR8_LEADER"
-msgid "Ryan Dustin Wood"
-msgstr "Ryan Dustin Wood"
-
-msgctxt "Backer Info/KEY_BCR9_HAVEN"
-msgid "Genova"
-msgstr "Genova"
-
-msgctxt "Backer Info/KEY_BCR9_MOTTO"
-msgid "Inter Nos Nostra Lex"
-msgstr "Inter Nos Nostra Lex"
-
-msgctxt "Backer Info/KEY_BCR9_LEADER"
-msgid "Walter Ivan Toso"
-msgstr "Walter Ivan Toso"
-
-msgctxt "Backer Info/KEY_BCR10_HAVEN"
-msgid "Towa"
-msgstr "Towa"
-
-msgctxt "Backer Info/KEY_BCR10_MOTTO"
-msgid "---"
-msgstr "---"
-
-msgctxt "Backer Info/KEY_BCR10_LEADER"
-msgid "Hikari Towa"
-msgstr "Hikari Towa"
-
-msgctxt "Backer Info/KEY_BCR11_HAVEN"
-msgid "Harmony"
-msgstr "Harmony"
-
-msgctxt "Backer Info/KEY_BCR11_MOTTO"
-msgid "With Music, Rise"
-msgstr "With Music, Rise"
-
-msgctxt "Backer Info/KEY_BCR11_LEADER"
-msgid "James O'Hearn"
-msgstr "James O'Hearn"
-
-msgctxt "Backer Info/KEY_BCR12_HAVEN"
-msgid "New Sydney"
-msgstr "New Sydney"
-
-msgctxt "Backer Info/KEY_BCR12_MOTTO"
-msgid "On Their Behalf"
-msgstr "On Their Behalf"
-
-msgctxt "Backer Info/KEY_BCR12_LEADER"
-msgid "Harry Brown-Beresford"
-msgstr "Harry Brown-Beresford"
-
-msgctxt "Backer Info/KEY_BCR13_HAVEN"
-msgid "The Reformed"
-msgstr "The Reformed"
-
-msgctxt "Backer Info/KEY_BCR13_MOTTO"
-msgid "Cursed Be All Who Follow The Weak, For We Are The True Disciples"
-msgstr "Cursed Be All Who Follow The Weak, For We Are The True Disciples"
-
-msgctxt "Backer Info/KEY_BCR13_LEADER"
-msgid "Joseph Saxton"
-msgstr "Joseph Saxton"
-
-msgctxt "Backer Info/KEY_BCR14_HAVEN"
-msgid "Emrys"
-msgstr "Emrys"
-
-msgctxt "Backer Info/KEY_BCR14_MOTTO"
-msgid "What Does Not Kill You Makes You Stronger"
-msgstr "What Does Not Kill You Makes You Stronger"
-
-msgctxt "Backer Info/KEY_BCR14_LEADER"
-msgid "John \"\"Merlin\"\" Smith"
-msgstr "John \"\"Merlin\"\" Smith"
-
 msgctxt "Options Screen/KEY_OPTIONS_DELETE_DESCRIPTION"
 msgid "Delete"
 msgstr "Delete"
@@ -8598,6 +9862,18 @@ msgctxt "Options Screen/KEY_OPTIONS_QUIT_CONFIRM"
 msgid "All unsaved game progress will be lost. Are you sure?"
 msgstr "All unsaved game progress will be lost. Are you sure?"
 
+msgctxt "Options Screen/KEY_OPTIONS_DISCLAIMER_STADIA_CONTROLLER"
+msgid "No endorsement or affiliation is intended between Stadia and the manufacturers of non-Stadia controllers or consoles. STADIA, the Stadia beacon, Google, and related marks and logos are trademarks of Google LLC. All other trademarks are the property of their respective owners."
+msgstr "No endorsement or affiliation is intended between Stadia and the manufacturers of non-Stadia controllers or consoles. STADIA, the Stadia beacon, Google, and related marks and logos are trademarks of Google LLC. All other trademarks are the property of their respective owners."
+
+msgctxt "Controls/KEY_CONTROLS_GEOSCAPE_SCHEME"
+msgid "GEOSCAPE SCHEME"
+msgstr "GEOSCAPE SCHEME"
+
+msgctxt "Controls/KEY_CONTROLS_TACTICAL_SCHEME"
+msgid "TACTICAL SCHEME"
+msgstr "TACTICAL SCHEME"
+
 msgctxt "Controls/KEY_CONTROLS_GEOSCAPE_A"
 msgid "SELECT[LF]ACCEPT"
 msgstr "SELECT[LF]ACCEPT"
@@ -8611,64 +9887,76 @@ msgid "START TIME[LF]STOP TIME"
 msgstr "START TIME[LF]STOP TIME"
 
 msgctxt "Controls/KEY_CONTROLS_GEOSCAPE_Y"
-msgid "---"
-msgstr "---"
+msgid "OPEN BASES MENU"
+msgstr "OPEN BASES MENU"
 
 msgctxt "Controls/KEY_CONTROLS_GEOSCAPE_DPAD_UP"
-msgid "INCREASE TIME SPEED"
-msgstr "INCREASE TIME SPEED"
+msgid "RESOURCES SECTION"
+msgstr "RESOURCES SECTION"
 
 msgctxt "Controls/KEY_CONTROLS_GEOSCAPE_DPAD_DOWN"
-msgid "DECREASE TIME SPEED"
-msgstr "DECREASE TIME SPEED"
+msgid "AIRCRAFT SECTION"
+msgstr "AIRCRAFT SECTION"
 
 msgctxt "Controls/KEY_CONTROLS_GEOSCAPE_DPAD_LEFT"
-msgid "---"
-msgstr "---"
+msgid "OBJECTIVES SECTION"
+msgstr "OBJECTIVES SECTION"
 
 msgctxt "Controls/KEY_CONTROLS_GEOSCAPE_DPAD_RIGHT"
-msgid "---"
-msgstr "---"
+msgid "TIMER SECTION"
+msgstr "TIMER SECTION"
 
 msgctxt "Controls/KEY_CONTROLS_GEOSCAPE_BACK"
 msgid "OPEN GAME MENU"
 msgstr "OPEN GAME MENU"
 
 msgctxt "Controls/KEY_CONTROLS_GEOSCAPE_START"
-msgid "---"
-msgstr "---"
+msgid "SHOW LOG"
+msgstr "SHOW LOG"
 
 msgctxt "Controls/KEY_CONTROLS_GEOSCAPE_LTHUMB_PRESS"
-msgid "AIRCRAFT INFO"
-msgstr "AIRCRAFT INFO"
+msgid "FOCUS ON ACTIVE AIRCRAFT"
+msgstr "FOCUS ON ACTIVE AIRCRAFT"
 
 msgctxt "Controls/KEY_CONTROLS_GEOSCAPE_LTHUMB"
-msgid "MOVE SELECTION CURSOR"
-msgstr "MOVE SELECTION CURSOR"
+msgid "MOVE GLOBE"
+msgstr "MOVE GLOBE"
 
 msgctxt "Controls/KEY_CONTROLS_GEOSCAPE_RTHUMB_PRESS"
-msgid "CENTER ON SELECTED"
-msgstr "CENTER ON SELECTED"
+msgid "OPEN AIRCRAFT MENU"
+msgstr "OPEN AIRCRAFT MENU"
 
-msgctxt "Controls/KEY_CONTROLS_GEOSCAPE_RTHUMB"
-msgid "ROTATE GLOBE"
-msgstr "ROTATE GLOBE"
-
-msgctxt "Controls/KEY_CONTROLS_GEOSCAPE_LT"
-msgid "ZOOM OUT"
-msgstr "ZOOM OUT"
-
-msgctxt "Controls/KEY_CONTROLS_GEOSCAPE_RT"
+msgctxt "Controls/KEY_CONTROLS_GEOSCAPE_RTHUMB_UP"
 msgid "ZOOM IN"
 msgstr "ZOOM IN"
 
+msgctxt "Controls/KEY_CONTROLS_GEOSCAPE_RTHUMB_DOWN"
+msgid "ZOOM OUT"
+msgstr "ZOOM OUT"
+
+msgctxt "Controls/KEY_CONTROLS_GEOSCAPE_RTHUMB_LEFT"
+msgid "SELECT SECTIONS TO THE LEFT"
+msgstr "SELECT SECTIONS TO THE LEFT"
+
+msgctxt "Controls/KEY_CONTROLS_GEOSCAPE_RTHUMB_RIGHT"
+msgid "SELECT SECTIONS TO THE RIGHT"
+msgstr "SELECT SECTIONS TO THE RIGHT"
+
+msgctxt "Controls/KEY_CONTROLS_GEOSCAPE_LT"
+msgid "MAIN TAB LEFT"
+msgstr "MAIN TAB LEFT"
+
+msgctxt "Controls/KEY_CONTROLS_GEOSCAPE_RT"
+msgid "MAIN TAB RIGHT"
+msgstr "MAIN TAB RIGHT"
+
 msgctxt "Controls/KEY_CONTROLS_GEOSCAPE_LB"
-msgid "NEXT AIRCRAFT"
-msgstr "NEXT AIRCRAFT"
+msgid "PREVIOUS UNIT/[LF]FILTER TO THE LEFT"
+msgstr "PREVIOUS UNIT/[LF]FILTER TO THE LEFT"
 
 msgctxt "Controls/KEY_CONTROLS_GEOSCAPE_RB"
-msgid "PREVIOUS AIRCRAFT"
-msgstr "PREVIOUS AIRCRAFT"
+msgid "NEXT UNIT/[LF]FILTER TO THE RIGHT"
+msgstr "NEXT UNIT/[LF]FILTER TO THE RIGHT"
 
 msgctxt "Controls/KEY_CONTROLS_TACTICAL_A"
 msgid "SELECT[LF]ACCEPT"
@@ -8687,20 +9975,20 @@ msgid "ENTER OVERWATCH"
 msgstr "ENTER OVERWATCH"
 
 msgctxt "Controls/KEY_CONTROLS_TACTICAL_DPAD_UP"
-msgid "FLOOR LEVEL FOCUS UP"
-msgstr "FLOOR LEVEL FOCUS UP"
+msgid "ZOOM IN"
+msgstr "ZOOM IN"
 
 msgctxt "Controls/KEY_CONTROLS_TACTICAL_DPAD_DOWN"
-msgid "FLOOR LEVEL FOCUS DOWN"
-msgstr "FLOOR LEVEL FOCUS DOWN"
+msgid "ZOOM OUT"
+msgstr "ZOOM OUT"
 
 msgctxt "Controls/KEY_CONTROLS_TACTICAL_DPAD_LEFT"
-msgid "ROTATE CAMERA LEFT[LF]SELECT ACTION LEFT"
-msgstr "ROTATE CAMERA LEFT[LF]SELECT ACTION LEFT"
+msgid "UNIT INFO[LF]SELECT ACTION LEFT"
+msgstr "UNIT INFO[LF]SELECT ACTION LEFT"
 
 msgctxt "Controls/KEY_CONTROLS_TACTICAL_DPAD_RIGHT"
-msgid "RORATE CAMERA RIGHT[LF]SELECT ACTION RIGHT"
-msgstr "RORATE CAMERA RIGHT[LF]SELECT ACTION RIGHT"
+msgid "INVENTORY[LF]SELECT ACTION RIGHT"
+msgstr "INVENTORY[LF]SELECT ACTION RIGHT"
 
 msgctxt "Controls/KEY_CONTROLS_TACTICAL_BACK"
 msgid "OPEN GAME MENU"
@@ -8711,36 +9999,48 @@ msgid "END TURN"
 msgstr "END TURN"
 
 msgctxt "Controls/KEY_CONTROLS_TACTICAL_LTHUMB_PRESS"
-msgid "CHARACTER INFO"
-msgstr "CHARACTER INFO"
+msgid "MOVE CAMERA TOGGLE"
+msgstr "MOVE CAMERA TOGGLE"
 
 msgctxt "Controls/KEY_CONTROLS_TACTICAL_LTHUMB"
-msgid "MOVE MOVEMENT MARKER[LF]MOVE FREE AIM CROSHAIR[LF](CLICK) CHARACHER STATUS SCREEN"
-msgstr "MOVE MOVEMENT MARKER[LF]MOVE FREE AIM CROSHAIR[LF](CLICK) CHARACHER STATUS SCREEN"
+msgid "MOVE MOVEMENT MARKER[LF]FREE AIM CROSHAIR"
+msgstr "MOVE MOVEMENT MARKER[LF]FREE AIM CROSHAIR"
 
 msgctxt "Controls/KEY_CONTROLS_TACTICAL_RTHUMB_PRESS"
-msgid "INVENTORY"
-msgstr "INVENTORY"
+msgid "AERIAL ZOOM OUT"
+msgstr "AERIAL ZOOM OUT"
 
-msgctxt "Controls/KEY_CONTROLS_TACTICAL_RTHUMB"
-msgid "MOVE CAMERA"
-msgstr "MOVE CAMERA"
+msgctxt "Controls/KEY_CONTROLS_TACTICAL_RTHUMB_UP"
+msgid "FOCUS LEVEL UP"
+msgstr "FOCUS LEVEL UP"
+
+msgctxt "Controls/KEY_CONTROLS_TACTICAL_RTHUMB_DOWN"
+msgid "FOCUS LEVEL DOWN"
+msgstr "FOCUS LEVEL DOWN"
+
+msgctxt "Controls/KEY_CONTROLS_TACTICAL_RTHUMB_LEFT"
+msgid "ROTATE CAMERA LEFT"
+msgstr "ROTATE CAMERA LEFT"
+
+msgctxt "Controls/KEY_CONTROLS_TACTICAL_RTHUMB_RIGHT"
+msgid "ROTATE COMERA RIGHT"
+msgstr "ROTATE COMERA RIGHT"
 
 msgctxt "Controls/KEY_CONTROLS_TACTICAL_LT"
-msgid "ZOOM OUT"
-msgstr "ZOOM OUT"
+msgid "FIRST ABILITY TO THE LEFT"
+msgstr "FIRST ABILITY TO THE LEFT"
 
 msgctxt "Controls/KEY_CONTROLS_TACTICAL_RT"
-msgid "ENTER ACTION SELECTION [LF]SHOOT"
-msgstr "ENTER ACTION SELECTION [LF]SHOOT"
+msgid "FIRST ABILITY TO THE RIGHT"
+msgstr "FIRST ABILITY TO THE RIGHT"
 
 msgctxt "Controls/KEY_CONTROLS_TACTICAL_LB"
-msgid "NEXT SOLDIER[LF]NEXT TARGET"
-msgstr "NEXT SOLDIER[LF]NEXT TARGET"
-
-msgctxt "Controls/KEY_CONTROLS_TACTICAL_RB"
 msgid "PREVIOUS SOLDIER [LF]PREVIOUS TARGET"
 msgstr "PREVIOUS SOLDIER [LF]PREVIOUS TARGET"
+
+msgctxt "Controls/KEY_CONTROLS_TACTICAL_RB"
+msgid "NEXT SOLDIER[LF]NEXT TARGET"
+msgstr "NEXT SOLDIER[LF]NEXT TARGET"
 
 msgctxt "Controls/KEY_CONTROLS_TACTICAL_PC_W_NAME"
 msgid "W"
@@ -9422,6 +10722,10 @@ msgctxt "Controls/KEY_CONTROLS_INPUT_PC_ESCAPE"
 msgid "ESCAPE"
 msgstr "ESCAPE"
 
+msgctxt "Controls/KEY_CONTROLS_INPUT_PC_ESCAPE_SHORT"
+msgid "ESC"
+msgstr "ESC"
+
 msgctxt "Controls/KEY_CONTROLS_INPUT_PC_BACKSPACE"
 msgid "BACKSPACE"
 msgstr "BACKSPACE"
@@ -9499,8 +10803,8 @@ msgid ";"
 msgstr ";"
 
 msgctxt "Controls/KEY_CONTROLS_INPUT_PC_APOSTROPHE"
-msgid "[null]"
-msgstr "[null]"
+msgid "'"
+msgstr "'"
 
 msgctxt "Controls/KEY_CONTROLS_INPUT_PC_OPEN_BRACKET"
 msgid "["
@@ -10831,12 +12135,12 @@ msgid "Some of your soldiers are tired or exhausted. They will have reduced Acti
 msgstr "Some of your soldiers are tired or exhausted. They will have reduced Action Points for the battle. Do you wish to proceed?"
 
 msgctxt "Roster Screen/KEY_GEOSCAPE_SOLDIERS_TT"
-msgid "All soldiers that are in Phoenix Base Living Quarters"
-msgstr "All soldiers that are in Phoenix Base Living Quarters"
+msgid "Phoenix soldiers on active duty"
+msgstr "Phoenix soldiers on active duty"
 
 msgctxt "Roster Screen/KEY_GEOSCAPE_VEHICLES_TT"
-msgid "All vehicles in possession of the Phoenix project"
-msgstr "All vehicles in possession of the Phoenix project"
+msgid "All ground vehicles under Phoenix command"
+msgstr "All ground vehicles under Phoenix command"
 
 msgctxt "Roster Screen/KEY_GEOSCAPE_PANDORANS_TT"
 msgid "All captured Pandorans held in the Containment facilities"
@@ -12114,6 +13418,10 @@ msgctxt "Haven Screen/KEY_TRADE_LEADER_NEGATIVE_DIPLOMACY_TT"
 msgid "The haven leader is not friendly towards the Phoenix Project. Improve diplomatic relations to enable trading."
 msgstr "The haven leader is not friendly towards the Phoenix Project. Improve diplomatic relations to enable trading."
 
+msgctxt "Haven Screen/KEY_HAVEN_NEARBY_HAVENS"
+msgid "NEARBY HAVENS"
+msgstr "NEARBY HAVENS"
+
 msgctxt "Missions/KEY_MISSION_ALIEN_LAIR"
 msgid "PANDORAN LAIR"
 msgstr "PANDORAN LAIR"
@@ -12498,7 +13806,7 @@ msgctxt "Missions/KEY_MISSION_RESIDENT_MUTATIONS"
 msgid "RESIDENT MUTATIONS"
 msgstr "RESIDENT MUTATIONS"
 
-msgctxt "Missions/#Kill the Scylla USE OBJECTIVE STRING"
+msgctxt "Missions/#Defeat the Scylla USE OBJECTIVE STRING"
 msgid "PANDORAN BASES REVEALED"
 msgstr "PANDORAN BASES REVEALED"
 
