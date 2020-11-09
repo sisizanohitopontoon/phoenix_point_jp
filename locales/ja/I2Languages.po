@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2020-11-09 13:39+0000\n"
+"PO-Revision-Date: 2020-11-09 13:40+0000\n"
 "Last-Translator: higema <ltdhyndsh@yahoo.co.jp>\n"
 "Language-Team: \n"
 "Language: ja\n"
@@ -6083,7 +6083,6 @@ msgctxt "Tutorial/KEY_TUTORIAL_TRAINING_NAME"
 msgid "Training soldiers"
 msgstr "兵士をトレーニングする"
 
-#, fuzzy
 #| msgctxt "Tutorial/KEY_TUTORIAL_TRAINING_DESCRIPTION"
 #| msgid ""
 #| "Soldiers can increase Strength, Willpower, and Speed, as well as acquire new abilities by spending Skill Points (SPs). If a soldier has used all personal SPs they can use the Phoenix SPs which are "
@@ -6095,13 +6094,12 @@ msgid ""
 "common for everybody.[LF][LF]Soldiers can only acquire abilities for their current level or lower. Upon reaching level four, each soldier has the option to specialize in an additional class. The "
 "second row of abilities represent personal aptitudes the Soldier is born with.[LF][LF]Once you’ve adjusted your soldiers’ stats and abilities, go to the RESEARCH section."
 msgstr ""
-"兵士達はスキルポイント(SP)を消費する事によって、ストレングスやウィルパワー、スピードを増加させたり、新たなアビリティを獲得する事が可能です。兵士が個人としてのSPをすべて使ってしまった場合は、全員共有のフェニックスSPを使用できます。[LF][LF]兵士達は、その現在レベル以下のアビリティしか取得できません。レベル4に到達した兵士は、追加のクラスを専攻する選択権を獲得します。アビリティの最後の列は、その兵士に生まれつき備わっている個人の特質を表しています。[LF][LF]兵士達のステータスとアビリティの調整が終わったら、\"\"研究\"\"セクションに移動してください。"
+"兵士達はスキルポイント(SP)を消費する事によって、ストレングスやウィルパワー、スピードを増加させたり、新たなアビリティを獲得する事が可能です。兵士が個人としてのSPをすべて使ってしまった場合は、全員共有のフェニックスSPを使用できます。[LF][LF]兵士達は、その現在レベル以下のアビリティしか取得できません。レベル4に到達した兵士は、追加のクラスを専攻する選択権を獲得します。アビリティの最後の列は、その兵士が生来備えている個人の特質を表しています。[LF][LF]兵士達のステータスとアビリティの調整が終わったら、\"\"研究\"\"セクションに移動してください。"
 
 msgctxt "Tutorial/KEY_TUTORIAL_RESEARCH_NAME"
 msgid "Research"
 msgstr "研究"
 
-#, fuzzy
 #| msgctxt "Tutorial/KEY_TUTORIAL_RESEARCH_DESCRIPTION"
 #| msgid ""
 #| "Research projects are critical for improving your capabilities and winning the game. To speed up research, build more Research Labs.[LF][LF]Research requires time, so make sure time is advancing in "
@@ -6127,7 +6125,6 @@ msgctxt "Tutorial/KEY_TUTORIAL_MANUFACTURING_NAME"
 msgid "Manufacturing"
 msgstr "製造"
 
-#, fuzzy
 #| msgctxt "Tutorial/KEY_TUTORIAL_MANUFACTURING_DESCRIPTION"
 #| msgid ""
 #| "Weapons, vehicles, and armor are manufactured by Fabrication Plants, provided the required research has been developed and there are enough resources available.[LF][LF]Items take varying amounts of "
@@ -6154,7 +6151,6 @@ msgctxt "Tutorial/KEY_TUTORIAL_MIST_NAME"
 msgid "The Mist"
 msgstr "ミスト"
 
-#, fuzzy
 #| msgctxt "Tutorial/KEY_TUTORIAL_MIST_DESCRIPTION"
 #| msgid ""
 #| "The mist represents the progression of the Pandoravirus as it spreads throughout the globe. The Pandoran mutations will attempt to build colonies on areas of land covered by the mist, which will "
@@ -6179,7 +6175,6 @@ msgctxt "Tutorial/KEY_TUTORIAL_CAPTURE_NAME"
 msgid "Capture and Containment"
 msgstr "捕獲と収容"
 
-#, fuzzy
 #| msgctxt "Tutorial/KEY_TUTORIAL_CAPTURE_DESCRIPTION"
 #| msgid ""
 #| "Thanks to the Containment facility you can capture Pandorans for further research and analysis.[LF]Note! To capture a Pandoran you must ensure that you have paralyzed it by the end of a combat "
