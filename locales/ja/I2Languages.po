@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2020-11-09 12:59+0000\n"
+"PO-Revision-Date: 2020-11-09 13:05+0000\n"
 "Last-Translator: higema <ltdhyndsh@yahoo.co.jp>\n"
 "Language-Team: \n"
 "Language: ja\n"
@@ -5123,26 +5123,23 @@ msgctxt "Game Over/KEY_GAME_SUMMARY_EXPL_SITES_REVEALED"
 msgid "EXPLORATION SITES REVEALED"
 msgstr "明らかになった探索地点"
 
-#, fuzzy
 #| msgctxt "Missions/KEY_MISSION_EXPLORATION_SITE"
 #| msgid "EXPLORATION SITE"
 msgctxt "Game Over/KEY_GAME_SUMMARY_EXPL_SITES_HIDDEN"
 msgid "EXPLORATION SITES HIDDEN"
-msgstr "調査地点"
+msgstr "明らかでない探索地点"
 
-#, fuzzy
 #| msgctxt "Options Screen/KEY_OPTIONS_CHROMATIC_ABERRATION"
 #| msgid "CHROMATIC ABERRATION"
 msgctxt "Game Over/KEY_GAME_SUMMARY_DIPLOMATIC_RELATIONS"
 msgid "DIPLOMATIC RELATIONS"
-msgstr "色収差"
+msgstr "外交関係"
 
-#, fuzzy
 #| msgctxt "Cthulhu/KEY_TUTORIAL_PANDORAN_BASE_REVEALED_NAME"
 #| msgid "REVEALING PANDORAN COLONIES"
 msgctxt "Game Over/KEY_GAME_SUMMARY_SURVIVING_COLONIES"
 msgid "SURVIVING PANDORAN COLONIES"
-msgstr "パンドランのコロニーを明らかにする"
+msgstr "残存しているパンドランコロニー"
 
 msgctxt "Game Over/KEY_GAME_SUMMARY_SURVIVING_CITADELS"
 msgid "SURVIVING CITADELS"
@@ -5156,119 +5153,102 @@ msgctxt "Game Over/KEY_GAME_SUMMARY_SURVIVING_NESTS"
 msgid "SURVIVING NESTS"
 msgstr ""
 
-#, fuzzy
 #| msgctxt "Geoscape/KEY_ALIEN_BASE_DESTROYED_NEST"
 #| msgid "DESTROYED PANDORAN NEST"
 msgctxt "Game Over/KEY_GAME_SUMMARY_DESTROYED_COLONIES"
 msgid "DESTROYED PANDORAN COLONIES"
-msgstr "破壊されたパンドラン・ネスト"
+msgstr "破壊されたパンドランコロニー"
 
-#, fuzzy
 #| msgctxt "Geoscape/KEY_ALIEN_BASE_DESTROYED_CITADEL"
 #| msgid "DESTROYED PANDORAN CITADEL"
 msgctxt "Game Over/KEY_GAME_SUMMARY_DESTROYED_CITADELS"
 msgid "DESTROYED CITADELS"
-msgstr "破壊されたパンドラン・シタデル"
+msgstr "破壊されたパンドランシタデル"
 
-#, fuzzy
 #| msgctxt "Missions/KEY_MISSION_SUMMARY_STATUS_DESTROYED"
 #| msgid "DESTROYED"
 msgctxt "Game Over/KEY_GAME_SUMMARY_DESTROYED_LAIRS"
 msgid "DESTROYED LAIRS"
-msgstr "破壊された"
+msgstr "破壊されたレア"
 
-#, fuzzy
 #| msgctxt "Missions/KEY_MISSION_SUMMARY_STATUS_DESTROYED"
 #| msgid "DESTROYED"
 msgctxt "Game Over/KEY_GAME_SUMMARY_DESTROYED_NESTS"
 msgid "DESTROYED NESTS"
-msgstr "破壊された"
+msgstr "破壊されたネスト"
 
-#, fuzzy
 #| msgctxt "Characters and classes/KEY_ARMADILLO_NAME"
 #| msgid "ARMADILLO"
 msgctxt "Game Over/KEY_UNIT_TYPE_ARMADILLOS"
 msgid "ARMADILLOS"
 msgstr "アルマジロ"
 
-#, fuzzy
 #| msgctxt "Characters and classes/KEY_SCARAB_NAME"
 #| msgid "PX SCARAB"
 msgctxt "Game Over/KEY_UNIT_TYPE_SCARABS"
 msgid "SCARABS"
-msgstr "PXスカラベ"
+msgstr "スカラベ"
 
-#, fuzzy
 #| msgctxt "Characters and classes/KEY_ASPIDA_NAME"
 #| msgid "ASPIDA"
 msgctxt "Game Over/KEY_UNIT_TYPE_ASPIDAS"
 msgid "ASPIDAS"
 msgstr "アスピーダ"
 
-#, fuzzy
 #| msgctxt "Characters and classes/KEY_MUTOG_NAME"
 #| msgid "MUTOG"
 msgctxt "Game Over/KEY_UNIT_TYPE_MUTOGS"
 msgid "MUTOGS"
 msgstr "ミュートッグ"
 
-#, fuzzy
 #| msgctxt "Geoscape/KEY_PX_AIRSHIP_NAME"
 #| msgid "MANTICORE"
 msgctxt "Game Over/KEY_UNIT_TYPE_MANTICORES"
 msgid "MANTICORES"
 msgstr "マンティコア"
 
-#, fuzzy
 #| msgctxt "Geoscape/KEY_GEOSCAPE_NJ_AIRCRAFT_NAME"
 #| msgid "THUNDERBIRD"
 msgctxt "Game Over/KEY_UNIT_TYPE_THUNDERBIRDS"
 msgid "THUNDERBIRDS"
 msgstr "サンダーバード"
 
-#, fuzzy
 #| msgctxt "Geoscape/KEY_GEOSCAPE_ANU_AIRCRAFT_NAME"
 #| msgid "TIAMAT"
 msgctxt "Game Over/KEY_UNIT_TYPE_TIAMATS"
 msgid "TIAMATS"
 msgstr "ティアマット"
 
-#, fuzzy
 #| msgctxt "Characters and classes/KEY_GEOSCAPE_SY_AIRCRAFT_NAME"
 #| msgid "HELIOS"
 msgctxt "Game Over/KEY_UNIT_TYPE_HELIOSES"
 msgid "HELIOSES"
 msgstr "ヘリオス"
 
-#, fuzzy
 #| msgctxt "Characters and classes/KEY_ALN_CRABMAN_NAME"
 #| msgid "ARTHRON"
 msgctxt "Game Over/KEY_UNIT_TYPE_ARTHRONS"
 msgid "ARTHRONS"
 msgstr "アースロン"
 
-#, fuzzy
 #| msgctxt "Characters and classes/KEY_ALN_FISHMAN_NAME"
 #| msgid "TRITON"
 msgctxt "Game Over/KEY_UNIT_TYPE_TRITONS"
 msgid "TRITONS"
 msgstr "トリトン"
 
-#, fuzzy
 #| msgctxt "Characters and classes/KEY_ALN_SIREN_NAME"
 #| msgid "SIREN"
 msgctxt "Game Over/KEY_UNIT_TYPE_SIRENS"
 msgid "SIRENS"
 msgstr "サイレン"
 
-#, fuzzy
 #| msgctxt "Characters and classes/KEY_ALN_CHIRON_NAME"
 #| msgid "CHIRON"
 msgctxt "Game Over/KEY_UNIT_TYPE_CHIRONS"
 msgid "CHIRONS"
 msgstr "ケイロン"
 
-#, fuzzy
 #| msgctxt "Characters and classes/KEY_ALN_QUEEN_NAME"
 #| msgid "SCYLLA"
 msgctxt "Game Over/KEY_UNIT_TYPE_SCYLLAS"
@@ -5279,121 +5259,105 @@ msgctxt "Game Over/KEY_UNIT_TYPE_EGGS"
 msgid "EGGS"
 msgstr ""
 
-#, fuzzy
 #| msgctxt "Characters and classes/KEY_FIREWORM_DESCRIPTION"
 #| msgid "FIREWORM"
 msgctxt "Game Over/KEY_UNIT_TYPE_WORMS"
 msgid "WORMS"
-msgstr "ファイアワーム"
+msgstr "ワーム"
 
-#, fuzzy
 #| msgctxt "Characters and classes/KEY_ALN_MINDFRAGGER_NAME"
 #| msgid "MINDFRAGGER"
 msgctxt "Game Over/KEY_UNIT_TYPE_MINDFRAGGERS"
 msgid "MINDFRAGGERS"
 msgstr "マインドフラッガー"
 
-#, fuzzy
 #| msgctxt "Characters and classes/KEY_ALN_SENTINEL_MIST_NAME"
 #| msgid "MIST SENTINEL"
 msgctxt "Game Over/KEY_UNIT_TYPE_SENTINELS"
 msgid "SENTINELS"
-msgstr "ミスト センチネル"
+msgstr "センチネル"
 
-#, fuzzy
 #| msgctxt "DLC2 Necronomicon/KEY_AC_HOPLITE1_NAME"
 #| msgid "HOPLITE"
 msgctxt "Game Over/KEY_UNIT_TYPE_HOPLITES"
 msgid "HOPLITES"
 msgstr "ホプライト"
 
-#, fuzzy
 #| msgctxt "Characters and classes/KEY_ALIEN_SWARMER_NAME"
 #| msgid "SWARMER"
 msgctxt "Game Over/KEY_UNIT_TYPE_SWARMERS"
 msgid "SWARMERS"
 msgstr "スウォーマー"
 
-#, fuzzy
 #| msgctxt "DLC2 Necronomicon/KEY_AC_CYCLOPS1_NAME"
 #| msgid "CYCLOPS"
 msgctxt "Game Over/KEY_UNIT_TYPE_CYCLOPES"
 msgid "CYCLOPES"
 msgstr "サイクロプス"
 
-#, fuzzy
 #| msgctxt "Missions/Be aware of the Pandoran defense systems. Sentinels will trigger if a soldier is in its sensor range or attacks them. Eggs will hatch if a soldier gets close."
 #| msgid "HAVEN DEFENSE"
 msgctxt "Game Over/KEY_MISSION_TYPE_HAVEN_DEFENSE"
 msgid "HAVEN DEFENSE MISSIONS"
-msgstr "ヘイヴン防衛"
+msgstr "ヘイヴン防衛 ミッション"
 
-#, fuzzy
 #| msgctxt "Base Screen/KEY_GEOSCAPE_BASES"
 #| msgid "PHOENIX BASES"
 msgctxt "Game Over/KEY_MISSION_TYPE_BAS_DEFENSE"
 msgid "PHOENIX BASE MISSIONS"
-msgstr "フェニックス基地"
+msgstr "フェニックス基地 ミッション"
 
-#, fuzzy
 #| msgctxt "Missions/KEY_MISSION_ATTACK_SCAVENGING_SITE_BRIEFING_NAME"
 #| msgid "SCAVENGING SITE"
 msgctxt "Game Over/KEY_MISSION_TYPE_SCAVENGING"
 msgid "SCAVENGING MISSIONS"
-msgstr "スカベンジ地点"
+msgstr "スカベンジ ミッション"
 
-#, fuzzy
 #| msgctxt "Missions/KEY_MISSION_AMBUSH_BRIEFING_NAME"
 #| msgid "AMBUSH"
 msgctxt "Game Over/KEY_MISSION_TYPE_AMBUSH"
 msgid "AMBUSHES"
 msgstr "奇襲"
 
-#, fuzzy
 #| msgctxt "Cthulhu/KEY_NJ_SNIPER_NAME"
 #| msgid "NEW JERICHO SNIPER"
 msgctxt "Game Over/KEY_MISSION_TYPE_NEW_JERICHO"
 msgid "NEW JERICHO MISSIONS"
-msgstr "ニュージェリコ スナイパー"
+msgstr "ニュージェリコ ミッション"
 
-#, fuzzy
 #| msgctxt "Cthulhu/KEY_AN_PRIEST_NAME"
 #| msgid "DISCIPLES OF ANU PRIEST"
 msgctxt "Game Over/KEY_MISSION_TYPE_ANU"
 msgid "DISCIPLES OF ANU MISSIONS"
-msgstr "ディサイプルズ・オブ・アヌ プリースト"
+msgstr "ディサイプルズ・オブ・アヌ ミッション"
 
-#, fuzzy
 #| msgctxt "Cthulhu/KEY_SY_SNIPER_NAME"
 #| msgid "SYNEDRION SNIPER"
 msgctxt "Game Over/KEY_MISSION_TYPE_SYNEDRION"
 msgid "SYNEDRION MISSIONS"
-msgstr "シネドリオン スナイパー"
+msgstr "シネドリオン ミッション"
 
 msgctxt "Game Over/KEY_MISSION_TYPE_INDEPENDENT"
 msgid "INDEPENDENT HAVEN MISSIONS"
 msgstr ""
 
-#, fuzzy
 #| msgctxt "Missions/KEY_MISSION_ATTACK_NEST_DEFEAT_NAME"
 #| msgid "PANDORAN NEST SURVIVES"
 msgctxt "Game Over/KEY_MISSION_TYPE_NEST"
 msgid "PANDORAN NEST MISSIONS"
-msgstr "パンドラン・ネストは生き残った"
+msgstr "パンドランネスト ミッション"
 
-#, fuzzy
 #| msgctxt "Missions/KEY_MISSION_ATTACK_LAIR_DEFEAT_NAME"
 #| msgid "PANDORAN LAIR SURVIVES"
 msgctxt "Game Over/KEY_MISSION_TYPE_LAIR"
 msgid "PANDORAN LAIR MISSIONS"
-msgstr "パンドラン・レアは生き残った"
+msgstr "パンドランレア ミッション"
 
-#, fuzzy
 #| msgctxt "Missions/KEY_MISSION_ATTACK_CITADEL_DEFEAT_NAME"
 #| msgid "PANDORAN CITADEL SURVIVES"
 msgctxt "Game Over/KEY_MISSION_TYPE_CITADEL"
 msgid "PANDORAN CITADEL MISSIONS"
-msgstr "パンドラン・シタデルは生き残った"
+msgstr "パンドランシタデル ミッション"
 
 msgctxt "Game Over/KEY_MISSION_TYPE_PHOENIX"
 msgid "PHOENIX QUEST MISSIONS"
