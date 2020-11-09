@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2020-11-09 13:05+0000\n"
+"PO-Revision-Date: 2020-11-09 13:10+0000\n"
 "Last-Translator: higema <ltdhyndsh@yahoo.co.jp>\n"
 "Language-Team: \n"
 "Language: ja\n"
@@ -5058,7 +5058,6 @@ msgctxt "Game Over/KEY_GAME_SUMMARY_GAME_TIME"
 msgid "GAME TIME :"
 msgstr "ゲーム時間:"
 
-#, fuzzy
 #| msgctxt "Missions/KEY_MISSION_HAVEN"
 #| msgid "HAVEN"
 msgctxt "Game Over/KEY_GAME_SUMMARY_HAVENS"
@@ -5363,12 +5362,11 @@ msgctxt "Game Over/KEY_MISSION_TYPE_PHOENIX"
 msgid "PHOENIX QUEST MISSIONS"
 msgstr ""
 
-#, fuzzy
 #| msgctxt "Missions/KEY_MISSION_START_MISSION"
 #| msgid "START MISSION"
 msgctxt "Game Over/KEY_MISSION_TYPE_THE_PURE"
 msgid "THE PURE MISSIONS"
-msgstr "ミッション開始"
+msgstr "ピュア ミッション"
 
 msgctxt "Game Over/KEY_MISSION_TYPE_ANCIENT_ASSAULT"
 msgid "ANCIENT SITE ASSAULT MISSIONS"
@@ -5382,61 +5380,53 @@ msgctxt "Game Over/KEY_MISSION_TYPE_ANCIENT_STORY"
 msgid "ANCIENT SITE SPECIAL OPERATIONS"
 msgstr ""
 
-#, fuzzy
 #| msgctxt "Missions/KEY_MISSION_START_MISSION"
 #| msgid "START MISSION"
 msgctxt "Game Over/KEY_MISSION_TYPE_STEAL_RESOURCES"
 msgid "STEAL RESOURCES MISSIONS"
-msgstr "ミッション開始"
+msgstr "資源強奪 ミッション"
 
-#, fuzzy
 #| msgctxt "Missions/KEY_MISSION_STEAL_AIRCRAFT"
 #| msgid "STEAL AIRCRAFT"
 msgctxt "Game Over/KEY_MISSION_TYPE_STEAL_AIRCRAFT"
 msgid "STEAL AIRCRAFT MISSIONS"
-msgstr "航空機を盗む"
+msgstr "航空機鹵獲 ミッション"
 
-#, fuzzy
 #| msgctxt "Missions/KEY_MISSION_STEAL_RESEARCH_BRIEFING_NAME"
 #| msgid "STEAL RESEARCH"
 msgctxt "Game Over/KEY_MISSION_TYPE_STEAL_RESEARCH"
 msgid "STEAL RESEARCH MISSIONS"
-msgstr "研究を盗む"
+msgstr "研究強奪 ミッション "
 
-#, fuzzy
 #| msgctxt "Missions/KEY_MISSION_DEPLOYED"
 #| msgid "PANDORAN FORCES DEPLOYED"
 msgctxt "Game Over/KEY_GAME_SUMMARY_FACTION_KILLS"
 msgid "FACTION FORCES KILLED"
-msgstr "パンドラン部隊が展開された"
+msgstr "殺された派閥兵"
 
-#, fuzzy
 #| msgctxt "Missions/KEY_MISSION_STEAL_AIRCRAFT_DEFEAT_NAME"
 #| msgid "FAILED TO CAPTURE AIRCRAFT"
 msgctxt "Game Over/KEY_GAME_SUMMARY_PANDORANS_BREAKDOWN"
 msgid "KILLED / CAPTURED"
-msgstr "航空機の鹵獲に失敗した"
+msgstr "殺害 / 捕獲"
 
-#, fuzzy
 #| msgctxt "Base Screen/KEY_GEOSCAPE_BASES"
 #| msgid "PHOENIX BASES"
 msgctxt "Game Over/KEY_GAME_SUMMARY_PHOENIX_SOLDIERS"
 msgid "PHOENIX SOLDIERS"
-msgstr "フェニックス基地"
+msgstr "フェニックス兵"
 
-#, fuzzy
 #| msgctxt "Missions/KEY_MISSION_RECRUIT_SOLDIER"
 #| msgid "SOLDIER AVAILABLE FOR RECRUITMENT"
 msgctxt "Game Over/KEY_GAME_SUMMARY_SOLDIERS_RECRUITED"
 msgid "SOLDIERS RECRUITED"
-msgstr "兵士が雇用可能"
+msgstr "雇用した兵士"
 
-#, fuzzy
 #| msgctxt "Roster Screen/KEY_GEOROSTER_NAME"
 #| msgid "SOLDIER NAME"
 msgctxt "Game Over/KEY_GAME_SUMMARY_SOLDIERS_KILLED"
 msgid "SOLDIERS KILLED"
-msgstr "兵士名"
+msgstr "殺された兵士"
 
 msgctxt "Game Over/KEY_GAME_SUMMARY_SOLDIERS_MAX_LVL"
 msgid "SOLDIERS REACHED LEVEL 7"
