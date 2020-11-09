@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2020-11-09 13:10+0000\n"
+"PO-Revision-Date: 2020-11-09 13:14+0000\n"
 "Last-Translator: higema <ltdhyndsh@yahoo.co.jp>\n"
 "Language-Team: \n"
 "Language: ja\n"
@@ -5402,7 +5402,7 @@ msgstr "研究強奪 ミッション "
 #| msgid "PANDORAN FORCES DEPLOYED"
 msgctxt "Game Over/KEY_GAME_SUMMARY_FACTION_KILLS"
 msgid "FACTION FORCES KILLED"
-msgstr "殺された派閥兵"
+msgstr "殺害された派閥兵"
 
 #| msgctxt "Missions/KEY_MISSION_STEAL_AIRCRAFT_DEFEAT_NAME"
 #| msgid "FAILED TO CAPTURE AIRCRAFT"
@@ -5426,7 +5426,7 @@ msgstr "雇用した兵士"
 #| msgid "SOLDIER NAME"
 msgctxt "Game Over/KEY_GAME_SUMMARY_SOLDIERS_KILLED"
 msgid "SOLDIERS KILLED"
-msgstr "殺された兵士"
+msgstr "殺害された兵士"
 
 msgctxt "Game Over/KEY_GAME_SUMMARY_SOLDIERS_MAX_LVL"
 msgid "SOLDIERS REACHED LEVEL 7"
@@ -5440,130 +5440,112 @@ msgctxt "Game Over/KEY_GAME_SUMMARY_VEHICLES_BREAKDOWN"
 msgid "BUILT | ACQUIRED | DESTROYED"
 msgstr ""
 
-#, fuzzy
 #| msgctxt "Missions/KEY_MISSION_SUMMARY_GENERAL_XP"
 #| msgid "GENERAL MISSION EXPERIENCE"
 msgctxt "Game Over/KEY_GAME_SUMMARY_GENERAL_MISSIONS"
 msgid "GENERAL MISSIONS"
-msgstr "通常ミッション経験値"
+msgstr "通常 ミッション"
 
 msgctxt "Game Over/KEY_GAME_SUMMARY_FACTION_MISSIONS"
 msgid "FACTION / DIPLOMACY MISSIONS"
 msgstr ""
 
-#, fuzzy
 #| msgctxt "Missions/KEY_MISSION_SUMMARY_XP_TOTAL"
 #| msgid "TOTAL"
 msgctxt "Game Over/KEY_GAME_SUMMARY_TOTAL"
 msgid "TOTAL"
 msgstr "合計"
 
-#, fuzzy
 #| msgctxt "Research Screen/KEY_RESEARCH_COMPLETE_HEAD"
 #| msgid "RESEARCH COMPLETED"
 msgctxt "Game Over/KEY_GAME_SUMMARY_COMPLETED_RESEARCHES"
 msgid "RESEARCH PROJECTS COMPLETED"
-msgstr "研究完了"
+msgstr "完了した研究プロジェクト"
 
-#, fuzzy
 #| msgctxt "Danforth/KEY_MISSION_RAID_RESOURCES_SITE_BRIEFING_NAME"
 #| msgid "RESOURCE RAID"
 msgctxt "Game Over/KEY_GAME_SUMMARY_RESOURCES_GAINED"
 msgid "RESOURCES GAINED"
-msgstr "資源レイド"
+msgstr "獲得した資源"
 
-#, fuzzy
 #| msgctxt "Base Screen/KEY_BASE_FACILITY_FOOD_PRODUCTION_NAME"
 #| msgid "FOOD PRODUCTION"
 msgctxt "Game Over/KEY_GAME_SUMMARY_PRODUCED"
 msgid "PRODUCTION"
-msgstr "食料生産施設"
+msgstr "生産"
 
-#, fuzzy
 #| msgctxt "Phoenixpedia/KEY_PHOENIXPEDIA_SECTION_WEAPONS"
 #| msgid "WEAPONS"
 msgctxt "Game Over/KEY_GAME_SUMMARY_PROD_WEAPONS"
 msgid "WEAPONS"
 msgstr "兵器"
 
-#, fuzzy
 #| msgctxt "Phoenixpedia/KEY_PHOENIXPEDIA_SECTION_EQUIPMENT"
 #| msgid "EQUIPMENT"
 msgctxt "Game Over/KEY_GAME_SUMMARY_PROD_EQUIPMENT"
 msgid "EQUIPMENT"
 msgstr "装備"
 
-#, fuzzy
 #| msgctxt "Equipping Screen/KEY_ITEM_TYPE_AMMO"
 #| msgid "AMMO"
 msgctxt "Game Over/KEY_GAME_SUMMARY_PROD_AMMO"
 msgid "AMMO"
 msgstr "弾薬"
 
-#, fuzzy
 #| msgctxt "Phoenixpedia/KEY_PHOENIXPEDIA_SECTION_ARMOR"
 #| msgid "ARMOR"
 msgctxt "Game Over/KEY_GAME_SUMMARY_PROD_ARMOR"
 msgid "ARMOR"
 msgstr "アーマー"
 
-#, fuzzy
 #| msgctxt "Equipping Screen/KEY_GEOSCAPE_ATTACHMENTS"
 #| msgid "ATTACHMENTS"
 msgctxt "Game Over/KEY_GAME_SUMMARY_PROD_ATTACHMENTS"
 msgid "ATTACHMENTS"
 msgstr "アタッチメント"
 
-#, fuzzy
 #| msgctxt "PH_Localization/KEY_VEHICLES_NAME"
 #| msgid "VEHICLES"
 msgctxt "Game Over/KEY_GAME_SUMMARY_PROD_VEHICLES"
 msgid "VEHICLES"
 msgstr "車両"
 
-#, fuzzy
 #| msgctxt "Controls/KEY_CONTROLS_GEOSCAPE_LTHUMB_PRESS"
 #| msgid "AIRCRAFT INFO"
 msgctxt "Game Over/KEY_GAME_SUMMARY_PROD_AIRCRAFTS"
 msgid "AIRCRAFT"
-msgstr "航空機情報"
+msgstr "航空機"
 
-#, fuzzy
 #| msgctxt "Research Screen/KEY_RESEARCH_FACILITY"
 #| msgid "NEW BASE FACILITY AVAILABLE"
 msgctxt "Game Over/KEY_GAME_SUMMARY_PROD_FACILITIES"
 msgid "BASE FACILITIES"
-msgstr "新たな基地施設が利用可能"
+msgstr "基地施設"
 
-#, fuzzy
 #| msgctxt "Blood Titanium/KEY_AUGMENTATIONS"
 #| msgid "AUGMENTATIONS"
 msgctxt "Game Over/KEY_GAME_SUMMARY_AUGMENTATIONS"
 msgid "AUGMENTATIONS"
 msgstr "オーグメンテーション"
 
-#, fuzzy
 #| msgctxt "Base Screen/KEY_BASE_FACILITY_MUTATION_LAB_NAME"
 #| msgid "MUTATION LAB"
 msgctxt "Game Over/KEY_GAME_SUMMARY_MUTATIONS_DEVELOPED"
 msgid "MUTATIONS DEVELOPED"
-msgstr "ミューテーション・ラボ"
+msgstr "発達させた変異"
 
-#, fuzzy
 #| msgctxt "Mutation Screen/KEY_MUTATION_LOCATION_HEAD"
 #| msgid "HEAD MUTATION"
 msgctxt "Game Over/KEY_GAME_SUMMARY_HEAD_MUTATIONS"
 msgid "HEAD MUTATIONS"
 msgstr "ヘッド ミューテーション"
 
-#, fuzzy
 #| msgctxt "Missions/KEY_MISSION_RESIDENT_MUTATIONS"
 #| msgid "RESIDENT MUTATIONS"
 msgctxt "Game Over/KEY_GAME_SUMMARY_TORSO_MUTATIONS"
 msgid "TORSO MUTATIONS"
-msgstr "住民の変異"
+msgstr "トルソー ミューテーション"
 
-#, fuzzy
 #| msgctxt "Mutation Screen/KEY_MUTATION_LOCATION_LEGS"
 #| msgid "LEG MUTATION"
 msgctxt "Game Over/KEY_GAME_SUMMARY_LEGS_MUTATIONS"
@@ -5574,12 +5556,11 @@ msgctxt "Game Over/KEY_GAME_SUMMARY_BIONICS_DEVELOPED"
 msgid "BIONICS DEVELOPED"
 msgstr ""
 
-#, fuzzy
 #| msgctxt "Blood Titanium/KEY_BIONICS"
 #| msgid "BIONICS"
 msgctxt "Game Over/KEY_GAME_SUMMARY_HEAD_BIONICS"
 msgid "HEAD BIONICS"
-msgstr "バイオニクス"
+msgstr "ヘッド バイオニクス"
 
 #, fuzzy
 #| msgctxt "Blood Titanium/KEY_BIONICS"
