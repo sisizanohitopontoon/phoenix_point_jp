@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2020-11-09 12:45+0000\n"
+"PO-Revision-Date: 2020-11-09 12:50+0000\n"
 "Last-Translator: higema <ltdhyndsh@yahoo.co.jp>\n"
 "Language-Team: \n"
 "Language: ja\n"
@@ -4754,12 +4754,11 @@ msgctxt "Arkham/KEY_ROSTER_BIRTH_DATE"
 msgid "DATE OF BIRTH"
 msgstr ""
 
-#, fuzzy
 #| msgctxt "Arkham/KEY_ROSTER_SERVICE_START"
 #| msgid "#SERVICE_START"
 msgctxt "Arkham/KEY_ROSTER_SERVICE_START"
 msgid "SERVICE START"
-msgstr "#就役開始"
+msgstr "就役開始"
 
 msgctxt "Arkham/KEY_ROSTER_NUMBER_OF_MISSIONS"
 msgid "NUMBER OF MISSIONS"
@@ -4769,108 +4768,95 @@ msgctxt "Arkham/KEY_ROSTER_MOST_SKILLS_USED"
 msgid "MOST USED SKILLS"
 msgstr ""
 
-#, fuzzy
 #| msgctxt "Arkham/KEY_ROSTER_FAVOURITE_WEAPONS"
 #| msgid "#FAVOURITE_WEAPONS"
 msgctxt "Arkham/KEY_ROSTER_FAVOURITE_WEAPONS"
 msgid "FAVOURITE EQUIPMENT"
-msgstr "#よく使う武器"
+msgstr "よく使う武器"
 
-#, fuzzy
 #| msgctxt "Missions/KEY_MISSION_ENEMY"
 #| msgid "ENEMY"
 msgctxt "Arkham/KEY_ROSTER_TOP_KILLED_ENEMIES"
 msgid "ENEMY KILLS"
-msgstr "敵"
+msgstr "倒した敵"
 
 msgctxt "Arkham/KEY_ROSTER_TIMES_WOUNDED"
 msgid "TIMES WOUNDED"
 msgstr ""
 
-#, fuzzy
 #| msgctxt "Abilities/KEY_SNIPER_MARK_FOR_DEATH_NAME"
 #| msgid "MARKED FOR DEATH"
 msgctxt "Arkham/KEY_ROSTER_DEATH_DATE"
 msgid "DATE OF DEATH"
-msgstr "マークド・フォー・デス"
+msgstr "死亡日時"
 
-#, fuzzy
 #| msgctxt "Abilities/KEY_SNIPER_MARK_FOR_DEATH_NAME"
 #| msgid "MARKED FOR DEATH"
 msgctxt "Arkham/KEY_ROSTER_DEATH_REASON"
 msgid "CAUSE OF DEATH"
-msgstr "マークド・フォー・デス"
+msgstr "死因"
 
-#, fuzzy
 #| msgctxt "Arkham/KEY_ROSTER_MEMORIAL"
 #| msgid "#MEMORIAL"
 msgctxt "Arkham/KEY_ROSTER_MEMORIAL"
 msgid "MEMORIAL"
-msgstr "#メモリアル"
+msgstr "戦没者"
 
 msgctxt "Arkham/KEY_SOLDIER_STATUSES"
 msgid "STATUSES"
 msgstr "#ステータス"
 
-#, fuzzy
 #| msgctxt "Missions/KEY_MISSION_SUMMARY_XP_TOTAL"
 #| msgid "TOTAL"
 msgctxt "Arkham/KEY_ROSTER_TOTAL_KILLS"
 msgid "TOTAL KILLS"
-msgstr "合計"
+msgstr "総殺害数"
 
-#, fuzzy
 #| msgctxt "Abilities/KEY_READY_FOR_ACTION_NAME"
 #| msgid "READY FOR ACTION"
 msgctxt "Arkham/KEY_ROSTER_ORIGINAL_FACTION"
 msgid "ORIGINAL FACTION"
-msgstr "レディーフォー・アクション"
+msgstr "出身派閥"
 
-#, fuzzy
 #| msgctxt "Arkham/KEY_ROSTER_MEMORIAL_RECORD"
 #| msgid "#MEMORIAL_RECORD"
 msgctxt "Arkham/KEY_ROSTER_MEMORIAL_RECORD"
 msgid "MEMORIAL RECORD"
-msgstr "#メモリアルレコード"
+msgstr "戦没者記録"
 
 msgctxt "Arkham/KEY_ROSTER_SERIVCE_END"
 msgid "SERVICE END"
 msgstr ""
 
-#, fuzzy
 #| msgctxt "Character Status/KEY_BLEED_STATUS_NAME"
 #| msgid "BLEEDING"
 msgctxt "Arkham/KEY_ROSTER_DEATH_BLED_OUT"
 msgid "BLEEDING"
 msgstr "出血"
 
-#, fuzzy
 #| msgctxt "Damage types/KEY_DAMAGE_TYPE_ACID"
 #| msgid "ACID"
 msgctxt "Arkham/KEY_ROSTER_DEATH_ACID_BURNED"
 msgid "ACID"
 msgstr "酸"
 
-#, fuzzy
 #| msgctxt "Damage types/KEY_DAMAGE_TYPE_POISON"
 #| msgid "POISON"
 msgctxt "Arkham/KEY_ROSTER_DEATH_POISONED"
 msgid "POISON"
 msgstr "毒"
 
-#, fuzzy
 #| msgctxt "Damage types/KEY_DAMAGE_TYPE_FIRE"
 #| msgid "FIRE"
 msgctxt "Arkham/KEY_ROSTER_DEATH_IMMOLATED"
 msgid "FIRE"
 msgstr "火炎"
 
-#, fuzzy
 #| msgctxt "Missions/KEY_MISSION_START_MISSION"
 #| msgid "START MISSION"
 msgctxt "Arkham/KEY_ROSTER_DEATH_STARVED"
 msgid "STARVATION"
-msgstr "ミッション開始"
+msgstr "餓死"
 
 msgctxt "Arkham/KEY_ROSTER_DEATH_FELL"
 msgid "FALLING"
@@ -4880,19 +4866,17 @@ msgctxt "Arkham/KEY_ROSTER_DEATH_GEOSCAPE_EVENT"
 msgid "ACCIDENT"
 msgstr ""
 
-#, fuzzy
 #| msgctxt "Abilities/KEY_RETURNFIRE_NAME"
 #| msgid "RETURN FIRE"
 msgctxt "Arkham/KEY_ROSTER_DEATH_FRIENDLY_FIRE"
 msgid "FRIENDLY FIRE"
-msgstr "リターンファイア"
+msgstr "フレンドリーファイア"
 
-#, fuzzy
 #| msgctxt "Equipment/KEY_INVENTORY_IN_READY_ITEMS"
 #| msgid "IN READY ITEMS"
 msgctxt "Arkham/KEY_ROSTER_READY_ITEMS"
 msgid "READY ITEMS"
-msgstr "レディアイテム内"
+msgstr "レディアイテム"
 
 msgctxt "Arkham/KEY_ROSTER_MEMORIAL_TAB_DESCRIPTION"
 msgid "Comrades fallen in the line of duty"
@@ -4902,12 +4886,11 @@ msgctxt "Arkham/KEY_ROSTER_ITEM_SLOT_EMPTY"
 msgid "EMPTY"
 msgstr ""
 
-#, fuzzy
 #| msgctxt "Objectives/KEY_OBJECTIVE_TUTORIAL1_SELECT"
 #| msgid "SELECT UNIT"
 msgctxt "Arkham/KEY_SOLDIER_EDIT"
 msgid "EDIT UNIT"
-msgstr "ユニットを選択"
+msgstr "ユニットの編集"
 
 #, fuzzy
 #| msgctxt "Abilities/KEY_EXIT_VEHICLE_NAME"
