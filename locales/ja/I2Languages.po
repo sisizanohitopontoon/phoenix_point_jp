@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2020-11-09 12:55+0000\n"
+"PO-Revision-Date: 2020-11-09 12:59+0000\n"
 "Last-Translator: higema <ltdhyndsh@yahoo.co.jp>\n"
 "Language-Team: \n"
 "Language: ja\n"
@@ -5069,68 +5069,59 @@ msgctxt "Game Over/KEY_GAME_SUMMARY_SURVIVING_HAVENS"
 msgid "SURVIVING HAVENS"
 msgstr ""
 
-#, fuzzy
 #| msgctxt "Missions/KEY_MISSION_SUMMARY_STATUS_DESTROYED"
 #| msgid "DESTROYED"
 msgctxt "Game Over/KEY_GAME_SUMMARY_DESTROYED_HAVENS"
 msgid "DESTROYED HAVENS"
-msgstr "破壊された"
+msgstr "破壊されたヘイヴン"
 
-#, fuzzy
 #| msgctxt "Missions/KEY_MISSION_POPULATION"
 #| msgid "POPULATION"
 msgctxt "Game Over/KEY_GAME_SUMMARY_POPULATION"
 msgid "POPULATION"
 msgstr "人口"
 
-#, fuzzy
 #| msgctxt "Missions/KEY_MISSION_POPULATION"
 #| msgid "POPULATION"
 msgctxt "Game Over/KEY_GAME_SUMMARY_SURVIVING_POPULATION"
 msgid "SURVIVING POPULATION"
-msgstr "人口"
+msgstr "残存人口"
 
-#, fuzzy
 #| msgctxt "Danforth/KEY_BASE_RECRUITS_ABILITIES"
 #| msgid "ABILITIES"
 msgctxt "Game Over/KEY_GAME_SUMMARY_DEAD_POPULATION"
 msgid "FATALITIES"
-msgstr "アビリティ"
+msgstr "死亡者数"
 
-#, fuzzy
 #| msgctxt "Base Screen/KEY_GEOSCAPE_BASES"
 #| msgid "PHOENIX BASES"
 msgctxt "Game Over/KEY_GAME_SUMMARY_PX_BASES"
 msgid "PHOENIX BASES"
 msgstr "フェニックス基地"
 
-#, fuzzy
 #| msgctxt "Danforth/KEY_BASE_ACTIVATE_NAME"
 #| msgid "ACTIVATE BASE"
 msgctxt "Game Over/KEY_GAME_SUMMARY_PX_BASES_ACTIVATED"
 msgid "ACTIVATED BASES"
-msgstr "基地を稼働させる"
+msgstr "稼働中の基地"
 
-#, fuzzy
 #| msgctxt "Danforth/KEY_BASE_ACTIVATE_NAME"
 #| msgid "ACTIVATE BASE"
 msgctxt "Game Over/KEY_GAME_SUMMARY_PX_BASES_UNACTIVATED"
 msgid "UNACTIVATED BASES"
-msgstr "基地を稼働させる"
+msgstr "非稼働基地"
 
-#, fuzzy
 #| msgctxt "Missions/KEY_MISSION_EXPLORATION_SITE"
 #| msgid "EXPLORATION SITE"
 msgctxt "Game Over/KEY_GAME_SUMMARY_EXPLORATION"
 msgid "EXPLORATION"
-msgstr "調査地点"
+msgstr "探索"
 
-#, fuzzy
 #| msgctxt "Missions/KEY_MISSION_EXPLORATION_SITE"
 #| msgid "EXPLORATION SITE"
 msgctxt "Game Over/KEY_GAME_SUMMARY_EXPL_SITES_REVEALED"
 msgid "EXPLORATION SITES REVEALED"
-msgstr "調査地点"
+msgstr "明らかになった探索地点"
 
 #, fuzzy
 #| msgctxt "Missions/KEY_MISSION_EXPLORATION_SITE"
