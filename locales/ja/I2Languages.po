@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2020-11-09 12:37+0000\n"
+"PO-Revision-Date: 2020-11-09 12:45+0000\n"
 "Last-Translator: higema <ltdhyndsh@yahoo.co.jp>\n"
 "Language-Team: \n"
 "Language: ja\n"
@@ -1843,12 +1843,11 @@ msgctxt "DLC2 Necronomicon/KEY_AC_TOP_LIVINGCRYSTAL"
 msgid "LIVING CRYSTAL - crystalline formations possessing enigmatic life-like properties. Extracted in Quarries and processed in The Lapidary"
 msgstr "リビングクリスタル- 生命体のような不思議な 特性を有する結晶構造体。 採石場で採掘され細工地で精製される。"
 
-#, fuzzy
 #| msgctxt "DLC2 Necronomicon/KEY_AC_TOP_PROTEANMUTANE"
 #| msgid "PROTEAN MUTANE - a powerful mutagenic gas agent"
 msgctxt "DLC2 Necronomicon/KEY_AC_TOP_PROTEANMUTANE"
 msgid "PROTEAN MUTANE - a powerful mutagenic gas agent. Extracted in Fields and processed in The Refinery"
-msgstr "プロティアンミューテーン- 強力な変異原性のガス状物質"
+msgstr "プロティアンミューテーン- 強力な変異原性のガス状物質。ガス田で採集され精製所で精製される。"
 
 msgctxt "DLC2 Necronomicon/KEY_CHARACTERNAME_HELENALEWANDOWSKI"
 msgid "Dr. Helena Lewandowski"
@@ -2010,26 +2009,23 @@ msgctxt "DLC2 Necronomicon/KEY_TRITON_PRAETORIAN"
 msgid "TRITON PRAETORIAN"
 msgstr "トリトン プラエトリアン"
 
-#, fuzzy
 #| msgctxt "DLC2 Necronomicon/KEY_AC_PROTEAN_HARVEST"
 #| msgid "Protean Mutane Field"
 msgctxt "DLC2 Necronomicon/KEY_LATE_PROTEANMUTANE"
 msgid "Protean Mutane"
-msgstr "プロティアンミューテーンガス田"
+msgstr "プロティアンミューテーン"
 
-#, fuzzy
 #| msgctxt "DLC2 Necronomicon/KEY_AC_ORICHALCUM_HARVEST"
 #| msgid "Orichalcum Mine"
 msgctxt "DLC2 Necronomicon/KEY_LATE_ORICHALCUM"
 msgid "Orichalcum"
-msgstr "オリハルコン採鉱場"
+msgstr "オリハルコン"
 
-#, fuzzy
 #| msgctxt "DLC2 Necronomicon/KEY_AC_CRYSTAL_HARVEST"
 #| msgid "Living Crystal Quarry"
 msgctxt "DLC2 Necronomicon/KEY_LATE_LIVINGCRYSTAL"
 msgid "Living Crystal"
-msgstr "リビングクリスタル採石場"
+msgstr "リビングクリスタル"
 
 msgctxt "DLC2 Necronomicon/KEY_OBJECTIVE_ATLEASTONESCIENTIST"
 msgid "AT LEAST ONE SCIENTIST MUST SURVIVE"
@@ -2466,7 +2462,6 @@ msgctxt "Cthulhu/KEY_FACILITY_LIMIT_WARNING"
 msgid "Cannot construct more than {0} {1} per base"
 msgstr "基地{1}つにつき{0}つまでしか建造できません"
 
-#, fuzzy
 #| msgctxt "Geoscape/KEY_GEO_SCANNER_NAME"
 #| msgid "AREA SCAN"
 msgctxt "Cthulhu/KEY_AREA_SCAN_LOADING"
@@ -2557,7 +2552,6 @@ msgctxt "Cthulhu/KEY_TUTORIAL_PANDORAN_BASE_REVEALED_NAME"
 msgid "REVEALING PANDORAN COLONIES"
 msgstr "パンドランのコロニーを明らかにする"
 
-#, fuzzy
 #| msgctxt "Cthulhu/KEY_TUTORIAL_PANDORAN_BASE_REVEALED_DESCRIPTION"
 #| msgid ""
 #| "Pandoran colonies have a chance to be revealed after a successful haven defense mission. The more times that a colony attacks, the greater the chance of it being revealed.[LF][LF]If a Pandoran "
@@ -2566,7 +2560,7 @@ msgctxt "Cthulhu/KEY_TUTORIAL_PANDORAN_BASE_REVEALED_DESCRIPTION"
 msgid ""
 "Pandoran colonies have a chance to be revealed after a successful HAVEN DEFENSE MISSION. The more times that a colony attacks, the greater the chance of it being revealed.[LF][LF]If a Pandoran "
 "colony attacks from within the scanning range of a Phoenix base, it will be revealed immediately.[LF]"
-msgstr "パンドランのコロニーは、ヘイヴン防衛ミッションの成功後に明らかになる可能性を有しています。コロニーが襲撃を繰り返せば繰り返すほど、明らかになる可能性は大きくなっていきます。コロニーがフェニックス基地のスキャン範囲内から襲撃を行った場合、そのコロニーは即座に明らかになります。[LF]"
+msgstr "パンドランのコロニーは、ヘイヴン防衛ミッションの成功後に明らかになる可能性を有しています。コロニーが襲撃を繰り返せば繰り返すほど、明らかになる可能性は大きくなっていきます。[LF][LF]コロニーがフェニックス基地のスキャン範囲内から襲撃を行った場合、そのコロニーは即座に明らかになります。[LF]"
 
 msgctxt "Cthulhu/KEY_BASE_PANDORAN_BASE_REVEALED_NAME"
 msgid "PANDORAN ATTACK ANALYSIS"
@@ -2990,12 +2984,11 @@ msgctxt "Abilities/KEY_DEPLOY_SHIELD_NAME"
 msgid "DEPLOY SHIELD"
 msgstr "シールド展開"
 
-#, fuzzy
 #| msgctxt "Abilities/KEY_DEPLOY_SPIDER_DESCRIPTION"
 #| msgid "Deploy Spider Drone that autoexplores the area. The Drone automatically advances towards any enemy it detects and explodes when in range."
 msgctxt "Abilities/KEY_DEPLOY_SPIDER_DESCRIPTION"
 msgid "Deploy Spider Drone to explore the area. If no Infiltrators are present the Drone automatically advances towards any enemy it detects and explodes when in range."
-msgstr "エリアを自動探索するスパイダードローンを展開する。 ドローンは探知した敵に対し自動で向かっていき、 範囲内に到達すると爆発する。"
+msgstr "エリアを探索するスパイダードローンを展開する。 インフィルトレイターがいない場合のドローンは 探知した敵に対して自動で向かっていき、 範囲内に到達すると爆発する。"
 
 msgctxt "Abilities/KEY_DEPLOY_SPIDER_NAME"
 msgid "DEPLOY SPIDER DRONE"
@@ -4745,19 +4738,17 @@ msgctxt "Arkham/KEY_ROSTER_STATISTICS"
 msgid "ATTRIBUTES"
 msgstr ""
 
-#, fuzzy
 #| msgctxt "Abilities/KEY_INFILTRATOR_STEALTH_NAME"
 #| msgid "STEALTH"
 msgctxt "Arkham/KEY_ROSTER_STAT_STEALTH"
 msgid "STEALTH"
 msgstr "ステルス"
 
-#, fuzzy
 #| msgctxt "Missions/KEY_MISSION_RESOURCES_RECOVERED"
 #| msgid "RESOURCES RECOVERED"
 msgctxt "Arkham/KEY_ROSTER_SERVICE_RECORD"
 msgid "SERVICE RECORD"
-msgstr "回収した資源"
+msgstr "就役記録"
 
 msgctxt "Arkham/KEY_ROSTER_BIRTH_DATE"
 msgid "DATE OF BIRTH"
