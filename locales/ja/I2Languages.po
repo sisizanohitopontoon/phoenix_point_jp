@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2020-11-09 12:50+0000\n"
+"PO-Revision-Date: 2020-11-09 12:55+0000\n"
 "Last-Translator: higema <ltdhyndsh@yahoo.co.jp>\n"
 "Language-Team: \n"
 "Language: ja\n"
@@ -4890,35 +4890,31 @@ msgstr ""
 #| msgid "SELECT UNIT"
 msgctxt "Arkham/KEY_SOLDIER_EDIT"
 msgid "EDIT UNIT"
-msgstr "ユニットの編集"
+msgstr "ユニットを編集する"
 
-#, fuzzy
 #| msgctxt "Abilities/KEY_EXIT_VEHICLE_NAME"
 #| msgid "EXIT VEHICLE"
 msgctxt "Arkham/KEY_VEHICLE_EDIT"
 msgid "EDIT VEHICLE"
-msgstr "降車"
+msgstr "車両を編集する"
 
-#, fuzzy
 #| msgctxt "Characters and classes/KEY_MUTOG_NAME"
 #| msgid "MUTOG"
 msgctxt "Arkham/KEY_MUTOG_EDIT"
 msgid "EDIT MUTOG"
-msgstr "ミュートッグ"
+msgstr "ミュートッグを編集する"
 
-#, fuzzy
 #| msgctxt "Objectives/KEY_OBJECTIVE_TUTORIAL1_VEHICLE"
 #| msgid "LOCATE VEHICLE"
 msgctxt "Arkham/KEY_VEHICLE_SCRAP"
 msgid "SCRAP VEHICLE"
-msgstr "車両を見つける"
+msgstr "車両を解体"
 
-#, fuzzy
 #| msgctxt "Roster Screen/KEY_HARVEST"
 #| msgid "HARVEST"
 msgctxt "Arkham/KEY_MUTOG_SCRAP"
 msgid "HARVEST MUTOG"
-msgstr "採取"
+msgstr "ミュートッグを解体"
 
 msgctxt "Arkham/KEY_SCRAP_MATERIALS"
 msgid "<size=55><color=#FFA268>[materials]  {0}</color></size>  "
@@ -4940,29 +4936,26 @@ msgctxt "Arkham/KEY_SCRAP_TEXT"
 msgid "You will recover:"
 msgstr ""
 
-#, fuzzy
 #| msgctxt "Abilities/KEY_ENTER_VEHICLE_DESCRIPTION"
 #| msgid "Enter the vehicle"
 msgctxt "Arkham/KEY_ENTER_VEHICLE_PROMPT"
 msgid "Enter vehicle?"
-msgstr "車両に乗り込む"
+msgstr "車両に乗り込みますか？"
 
 msgctxt "Arkham/KEY_EXIT_MISSION_PROMPT"
 msgid "Evacuate?"
 msgstr ""
 
-#, fuzzy
 #| msgctxt "Tactical/KEY_INTERACT_ACTIVATE_DESCRIPTION"
 #| msgid "Activate device"
 msgctxt "Arkham/KEY_ACTIVATE_OBJECTIVE_PROMPT"
 msgid "Activate objective?"
-msgstr "デバイスをアクティベートする"
+msgstr "目標をアクティベートしますか？"
 
 msgctxt "Arkham/KEY_WEAPON_SELECTION_MAGAZINE"
 msgid "MAGAZINES"
 msgstr ""
 
-#, fuzzy
 #| msgctxt "Geoscape/KEY_GEOSCAPE_COST"
 #| msgid "COST"
 msgctxt "Arkham/KEY_ABILITY_CONFIRMATION_COST"
@@ -4989,32 +4982,28 @@ msgctxt "Arkham/KEY_ITEM_STAT_ROUND_BURST_TOOLTIP"
 msgid "Fires a burst of multiple shots with each attack"
 msgstr ""
 
-#, fuzzy
 #| msgctxt "Abilities/KEY_HELPFUL_PERSONALTRACK_NAME"
 #| msgid "HEALER"
 msgctxt "Arkham/KEY_ITEM_STAT_HEAL"
 msgid "HEAL"
-msgstr "ヒーラー"
+msgstr "回復"
 
 msgctxt "Arkham/KEY_ITEM_STAT_HEAL_TOOLTIP"
 msgid "Hit Points restored to target soldier"
 msgstr ""
 
-#, fuzzy
 #| msgctxt "Controls/KEY_CONTROLS_INPUT_PC_H"
 #| msgid "H"
 msgctxt "Arkham/KEY_SOLDIER_HP"
 msgid "HP"
-msgstr "H"
+msgstr "HP"
 
-#, fuzzy
 #| msgctxt "Controls/KEY_CONTROLS_TACTICAL_PC_A_NAME"
 #| msgid "A"
 msgctxt "Arkham/KEY_SOLDIER_AP"
 msgid "AP"
-msgstr "A"
+msgstr "AP"
 
-#, fuzzy
 #| msgctxt "Character Status/KEY_STATUS_UNDER_CONTROL_NAME"
 #| msgid "MIND CONTROLLED"
 msgctxt "Arkham/KEY_ROSTER_DEATH_MIND_CONTROLLED"
@@ -5025,14 +5014,12 @@ msgctxt "Game Over/KEY_GAME_SUMMARY_WORLD_STATE"
 msgid "WORLD STATE"
 msgstr ""
 
-#, fuzzy
 #| msgctxt "Missions/KEY_MISSION_ENEMY"
 #| msgid "ENEMY"
 msgctxt "Game Over/KEY_GAME_SUMMARY_ENEMIES"
 msgid "ENEMIES"
 msgstr "敵"
 
-#, fuzzy
 #| msgctxt "Tactical/KEY_TURNS_PHOENIX_FORCES"
 #| msgid "PHOENIX FORCES"
 msgctxt "Game Over/KEY_GAME_SUMMARY_PHOENIX_FORCES"
@@ -5043,37 +5030,33 @@ msgctxt "Game Over/KEY_GAME_SUMMARY_BATTLES"
 msgid "BATTLES FOUGHT"
 msgstr ""
 
-#, fuzzy
 #| msgctxt "Research Screen/KEY_RESEARCH_COMPLETE_HEAD"
 #| msgid "RESEARCH COMPLETED"
 msgctxt "Game Over/KEY_GAME_SUMMARY_RESEARCH"
 msgid "RESEARCH & DEVELOPMENT"
-msgstr "研究完了"
+msgstr "研究開発"
 
-#, fuzzy
 #| msgctxt "Opening Screen/KEY_CONTINUE_GAME"
 #| msgid "CONTINUE"
 msgctxt "Game Over/KEY_GAME_SUMMARY_CONTINUE"
 msgid "CONTINUE"
 msgstr "続ける"
 
-#, fuzzy
 #| msgctxt "Options Screen/KEY_SELECT_DIFFICULTY"
 #| msgid "SELECT DIFFICULTY"
 msgctxt "Game Over/KEY_GAME_SUMMARY_GAME_DIFFICULTY"
 msgid "GAME DIFFICULTY :"
-msgstr "難易度を選択"
+msgstr "ゲーム難易度"
 
 msgctxt "Game Over/KEY_GAME_SUMMARY_PLAYED_TIME"
 msgid "TIME PLAYED :"
 msgstr ""
 
-#, fuzzy
 #| msgctxt "Opening Screen/KEY_GAME_GUIDE"
 #| msgid "GAME GUIDE"
 msgctxt "Game Over/KEY_GAME_SUMMARY_GAME_TIME"
 msgid "GAME TIME :"
-msgstr "ゲームガイド"
+msgstr "ゲーム時間:"
 
 #, fuzzy
 #| msgctxt "Missions/KEY_MISSION_HAVEN"
