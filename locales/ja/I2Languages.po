@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2020-11-10 13:07+0000\n"
+"PO-Revision-Date: 2020-11-10 13:14+0000\n"
 "Last-Translator: higema <ltdhyndsh@yahoo.co.jp>\n"
 "Language-Team: \n"
 "Language: ja\n"
@@ -7513,7 +7513,6 @@ msgctxt "Tutorial 2 to 4/KEY_TUT2_WILLPOINTS_NAME"
 msgid "Will Points"
 msgstr "ウィルポイント"
 
-#, fuzzy
 #| msgctxt "Tutorial/KEY_TUTORIAL_TACTICAL2_WP_DESCRIPTION"
 #| msgid ""
 #| "Willpower determines a soldier's will to fight and ability to perform advanced class abilities. A soldier begins battle with Will Points (WPs) equal to his Willpower. They are displayed in the "
@@ -7525,16 +7524,14 @@ msgid ""
 "bottom left corner of the screen.[LF][LF]WPs can be gained by killing enemies, opening crates or reaching objective zones. They can be lost when allies die. If a unit’s WPs fall to zero, it panics "
 "and loses a turn. WPs can be partially restored by using the Recovery ability."
 msgstr ""
-"ウィルパワーは、兵士の戦意及び高度なクラスアビリティを実行する能力を定めます。戦闘開始時の兵士は、ウィルパワーと同値のウィルポイント(WPs)を所持しています。ウィルパワー及びウィルポイントは画面左下に表示されます。[LF][LF]WPsは敵を倒したり、箱を開けたり目標ゾーンに到達する事で得られます。WPsは味方が死亡すると失われます。ユニットのWPsがゼロまで落ちると、そのユニットはパニックになり1ターンを失います。WPsはリカバーアビリティを使用することで、ある程度回復できます。[LF][LF]ヘビークラス兵のジェットジャンプアビリティを使用してください。[LF]航空機の翼を飛び越え、敵の近くに着地しましょう。"
+"ウィルパワーは、兵士の戦意及び高度なクラスアビリティを実行する能力を定めます。戦闘開始時の職員は、ウィルパワーと同値のウィルポイント(WPs)を所持しています。ウィルパワー及びウィルポイントは画面左下に表示されます。[LF][LF]WPsは敵を倒したり、箱を開けたり目標ゾーンに到達する事で得られます。WPsは味方が死亡すると失われます。ユニットのWPsがゼロまで落ちると、そのユニットはパニックになり1ターンを失います。WPsはリカバーアビリティを使用することで、ある程度回復できます。"
 
-#, fuzzy
 #| msgctxt "Tutorial/KEY_TUTORIAL_TACTICAL2_OVERWATCH_NAME"
 #| msgid "Overwatch"
 msgctxt "Tutorial 2 to 4/KEY_TUT2_OVERWATCH_NAME"
 msgid "Overwatch"
 msgstr "監視"
 
-#, fuzzy
 #| msgctxt "TutorialRoom8/KEY_TUTORIAL_TACTICAL2_OVERWATCH_DESCRIPTION_BIND_K"
 #| msgid ""
 #| "The Overwatch ability allows soldiers to guard an area during the enemy’s turn. If an enemy enters the Overwatch cone, it is attacked automatically.[LF][LF]OVERWATCH CONTROLS[LF]Enter Overwatch "
@@ -7544,9 +7541,7 @@ msgctxt "Tutorial 2 to 4/KEY_TUT2_OVERWATCH_DESCRIPTION"
 msgid ""
 "The Overwatch ability allows you to guard an area during the enemy’s turn. If an enemy enters the Overwatch cone, your soldier automatically attack.[LF][LF]OVERWATCH CONTROLS[LF]Select target "
 "position: Move Mouse[LF]Change width of overwatch zone: CTRL + :MW:[LF]Confirm Overwatch: :LMB:"
-msgstr ""
-"監視のアビリティは、兵士が敵のターン中にエリア を監視することを可能にします。敵が監視範囲に 入ると、その敵は自動的に攻撃を受けます。[LF][LF]監視の操作[LF]監視モードに移行: アクションバーの監視アイコンを選択 または[<color=#ECBA62>{[SetOverwatchAbility]}</color>]キー "
-"[LF]目標位置を選択:マウスを動かす[LF]監視範囲の広さを変更: CTRL + :MW: [LF]監視を確定する: :LMB:[LF][LF]兵士を移動させ監視をセットしてください。[LF]接近してくる2体の敵に向けてハイライトされている目標位置上で :LMB: "
+msgstr "監視のアビリティは、敵のターン中にエリア を監視することを可能にします。敵が監視範囲に 入ると、兵士は自動的に攻撃を行います。[LF][LF]監視の操作[LF]目標位置を選択:マウスを動かす[LF]監視範囲の広さを変更: CTRL + :MW: [LF]監視を確定する: :LMB:"
 
 msgctxt "Tutorial 2 to 4/KEY_TUT2_COVER_NAME"
 msgid "Tactical Tip: Cover"
@@ -7556,23 +7551,21 @@ msgctxt "Tutorial 2 to 4/KEY_TUT2_COVER_DESCRIPTION"
 msgid "Your soldiers are vulnerable in the open. Taking cover next to obscuring terrain will make enemy shots less likely to hit."
 msgstr ""
 
-#, fuzzy
 #| msgctxt "Research Screen/KEY_RESEARCH_REQUIREMENTS_NOT_MET_TT"
 #| msgid "Requirements not met"
 msgctxt "Tutorial 2 to 4/KEY_TUT2_REINFORCEMENT_NAME"
 msgid "Reinforcement Zones"
-msgstr "必要条件が満たされていません"
+msgstr "増援ゾーン"
 
 msgctxt "Tutorial 2 to 4/KEY_TUT2_REINFORCEMENT_DESCRIPTION"
 msgid "Some maps feature REINFORCEMENT POINTS (ICON). [LF][LF]Enemies will keep arriving from them. Complete the objective before you get overrun! "
 msgstr ""
 
-#, fuzzy
 #| msgctxt "Opening Screen/KEY_SAVE_TACTICAL"
 #| msgid "Tactical"
 msgctxt "Tutorial 2 to 4/KEY_TUT2_BASH_NAME"
 msgid "Tactical Tip: Bash"
-msgstr "戦術"
+msgstr "戦闘ヒント: バッシュ"
 
 msgctxt "Tutorial 2 to 4/KEY_TUT2_BASH_DESCRIPTION"
 msgid "When your soldier is next to an enemy, you can perform the BASH melee attack. [LF][LF]It only costs 1 Action Point, so you can usually Bash an enemy MULTIPLE TIMES in the same turn."
@@ -7586,23 +7579,21 @@ msgctxt "Tutorial 2 to 4/KEY_TUT2_SCARABBLAST_DESCRIPTION"
 msgid "The Scarab's powerful weapon launches TWO MISSLES that deal damage in an area. [LF][LF]It's perfect for clearing out groups of weak enemies, or damaging high-armor targets."
 msgstr ""
 
-#, fuzzy
 #| msgctxt "Tutorial/KEY_TUTORIAL_TACTICAL2_STATUS_NAME"
 #| msgid "Status Effects"
 msgctxt "Tutorial 2 to 4/KEY_TUT2_BLEEDINGSTATUS_NAME"
 msgid "Status Effect: Bleed"
-msgstr "ステータス効果"
+msgstr "ステータス効果: 出血"
 
 msgctxt "Tutorial 2 to 4/KEY_TUT2_BLEEDING_STATUS_DESCRIPTION"
 msgid "Your soldier was hurt and got he BLEEDING status effect. [LF][LF]Take care of your bleeding soldiers - will keep losing Hit Points every turn until HEALED with a Medkit or EVACUATED."
 msgstr ""
 
-#, fuzzy
 #| msgctxt "Tutorial/KEY_TUTORIAL_TACTICAL2_STATUS_NAME"
 #| msgid "Status Effects"
 msgctxt "Tutorial 2 to 4/KEY_TUT2_BLEEDING_EFFECT_NAME"
 msgid "Status Effect: Bleed"
-msgstr "ステータス効果"
+msgstr "ステータス効果: 出血"
 
 msgctxt "Tutorial 2 to 4/KEY_TUT2_BLEEDING_EFFE_DESCRIPTION"
 msgid ""
@@ -7610,7 +7601,6 @@ msgid ""
 "abilities provide positive effects, while special weapons could inflict negative ones.[LF]"
 msgstr ""
 
-#, fuzzy
 #| msgctxt "Tutorial/KEY_TUTORIAL_TACTICAL2_INVENTORY_NAME"
 #| msgid "Inventory"
 msgctxt "Tutorial 2 to 4/KEY_TUT2_INVENTORYSKILL_NAME"
