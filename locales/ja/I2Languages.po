@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2020-11-10 13:35+0000\n"
+"PO-Revision-Date: 2020-11-10 13:37+0000\n"
 "Last-Translator: higema <ltdhyndsh@yahoo.co.jp>\n"
 "Language-Team: \n"
 "Language: ja\n"
@@ -11006,90 +11006,79 @@ msgctxt "Controls/KEY_CONTROLS_GEOSCAPE_DPAD_UP"
 msgid "RESOURCES SECTION"
 msgstr "資源セクション"
 
-#, fuzzy
 #| msgctxt "Controls/KEY_CONTROLS_GEOSCAPE_LTHUMB_PRESS"
 #| msgid "AIRCRAFT INFO"
 msgctxt "Controls/KEY_CONTROLS_GEOSCAPE_DPAD_DOWN"
 msgid "AIRCRAFT SECTION"
-msgstr "航空機情報"
+msgstr "航空機セクション"
 
-#, fuzzy
 #| msgctxt "Objectives/KEY_OBJECTIVES"
 #| msgid "OBJECTIVES"
 msgctxt "Controls/KEY_CONTROLS_GEOSCAPE_DPAD_LEFT"
 msgid "OBJECTIVES SECTION"
-msgstr "目的"
+msgstr "目的セクション"
 
-#, fuzzy
 #| msgctxt "Characters and classes/KEY_ALN_SENTINEL_TERROR_NAME"
 #| msgid "TERROR SENTINEL"
 msgctxt "Controls/KEY_CONTROLS_GEOSCAPE_DPAD_RIGHT"
 msgid "TIMER SECTION"
-msgstr "テラー センチネル"
+msgstr "タイマーセクション"
 
 msgctxt "Controls/KEY_CONTROLS_GEOSCAPE_BACK"
 msgid "OPEN GAME MENU"
 msgstr "ゲームメニューを開く"
 
-#, fuzzy
 #| msgctxt "Controls/KEY_CONTROLS_ACTION_GEOSCAPE_SHOW_LOG"
 #| msgid "SHOW LOG"
 msgctxt "Controls/KEY_CONTROLS_GEOSCAPE_START"
 msgid "SHOW LOG"
 msgstr "ログを表示"
 
-#, fuzzy
 #| msgctxt "Missions/KEY_MISSION_STEAL_AIRCRAFT_BRIEFING_NAME"
 #| msgid "CAPTURE AIRCRAFT"
 msgctxt "Controls/KEY_CONTROLS_GEOSCAPE_LTHUMB_PRESS"
 msgid "FOCUS ON ACTIVE AIRCRAFT"
-msgstr "航空機を鹵獲する"
+msgstr "アクティブな航空機にフォーカスする"
 
-#, fuzzy
 #| msgctxt "Controls/KEY_CONTROLS_GEOSCAPE_PC_W_DESCRIPTION"
 #| msgid "MOVE GLOBE UP"
 msgctxt "Controls/KEY_CONTROLS_GEOSCAPE_LTHUMB"
 msgid "MOVE GLOBE"
-msgstr "地球儀を上に動かす"
+msgstr "地球儀を動かす"
 
-#, fuzzy
 #| msgctxt "Base Screen/KEY_GEOSCAPE_AIRCRAFTS"
 #| msgid "PHOENIX AIRCRAFT"
 msgctxt "Controls/KEY_CONTROLS_GEOSCAPE_RTHUMB_PRESS"
 msgid "OPEN AIRCRAFT MENU"
-msgstr "フェニックス航空機"
+msgstr "航空機メニューを開く"
 
-#, fuzzy
 #| msgctxt "Controls/KEY_CONTROLS_GEOSCAPE_RT"
 #| msgid "ZOOM IN"
 msgctxt "Controls/KEY_CONTROLS_GEOSCAPE_RTHUMB_UP"
 msgid "ZOOM IN"
 msgstr "ズームイン"
 
-#, fuzzy
 #| msgctxt "Controls/KEY_CONTROLS_GEOSCAPE_LT"
 #| msgid "ZOOM OUT"
 msgctxt "Controls/KEY_CONTROLS_GEOSCAPE_RTHUMB_DOWN"
 msgid "ZOOM OUT"
 msgstr "ズームアウト"
 
-#, fuzzy
 #| msgctxt "Base Screen/KEY_BASE_SELECT_BASE"
 #| msgid "SELECT ANOTHER BASE"
 msgctxt "Controls/KEY_CONTROLS_GEOSCAPE_RTHUMB_LEFT"
 msgid "SELECT SECTIONS TO THE LEFT"
-msgstr "他の基地を選択"
+msgstr ""
 
 msgctxt "Controls/KEY_CONTROLS_GEOSCAPE_RTHUMB_RIGHT"
 msgid "SELECT SECTIONS TO THE RIGHT"
 msgstr ""
 
-#, fuzzy
 #| msgctxt "Tactical/KEY_ACTION_LEFT"
 #| msgid "ACTION LEFT"
 msgctxt "Controls/KEY_CONTROLS_GEOSCAPE_LT"
 msgid "MAIN TAB LEFT"
-msgstr "行動が残っている"
+msgstr ""
 
 msgctxt "Controls/KEY_CONTROLS_GEOSCAPE_RT"
 msgid "MAIN TAB RIGHT"
@@ -11119,33 +11108,29 @@ msgctxt "Controls/KEY_CONTROLS_TACTICAL_Y"
 msgid "ENTER OVERWATCH"
 msgstr "監視に移行"
 
-#, fuzzy
 #| msgctxt "Controls/KEY_CONTROLS_GEOSCAPE_RT"
 #| msgid "ZOOM IN"
 msgctxt "Controls/KEY_CONTROLS_TACTICAL_DPAD_UP"
 msgid "ZOOM IN"
 msgstr "ズームイン"
 
-#, fuzzy
 #| msgctxt "Controls/KEY_CONTROLS_GEOSCAPE_LT"
 #| msgid "ZOOM OUT"
 msgctxt "Controls/KEY_CONTROLS_TACTICAL_DPAD_DOWN"
 msgid "ZOOM OUT"
 msgstr "ズームアウト"
 
-#, fuzzy
 #| msgctxt "Controls/KEY_CONTROLS_TACTICAL_DPAD_LEFT"
 #| msgid "ROTATE CAMERA LEFT[LF]SELECT ACTION LEFT"
 msgctxt "Controls/KEY_CONTROLS_TACTICAL_DPAD_LEFT"
 msgid "UNIT INFO[LF]SELECT ACTION LEFT"
-msgstr "カメラを左に回転[LF]左のアクションを選択"
+msgstr ""
 
-#, fuzzy
 #| msgctxt "Controls/KEY_CONTROLS_TACTICAL_DPAD_RIGHT"
 #| msgid "RORATE CAMERA RIGHT[LF]SELECT ACTION RIGHT"
 msgctxt "Controls/KEY_CONTROLS_TACTICAL_DPAD_RIGHT"
 msgid "INVENTORY[LF]SELECT ACTION RIGHT"
-msgstr "右カメラ右[LF]右のアクションを選択"
+msgstr ""
 
 msgctxt "Controls/KEY_CONTROLS_TACTICAL_BACK"
 msgid "OPEN GAME MENU"
@@ -11155,12 +11140,11 @@ msgctxt "Controls/KEY_CONTROLS_TACTICAL_START"
 msgid "END TURN"
 msgstr "ターンを終了する"
 
-#, fuzzy
 #| msgctxt "Controls/KEY_CONTROLS_ACTION_MOVE_CAMERA_LEFT"
 #| msgid "MOVE CAMERA LEFT"
 msgctxt "Controls/KEY_CONTROLS_TACTICAL_LTHUMB_PRESS"
 msgid "MOVE CAMERA TOGGLE"
-msgstr "カメラ-左移動"
+msgstr ""
 
 #, fuzzy
 #| msgctxt "Controls/KEY_CONTROLS_TACTICAL_LTHUMB"
