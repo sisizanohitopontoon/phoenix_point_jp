@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2020-11-10 13:37+0000\n"
+"PO-Revision-Date: 2020-11-10 13:44+0000\n"
 "Last-Translator: higema <ltdhyndsh@yahoo.co.jp>\n"
 "Language-Team: \n"
 "Language: ja\n"
@@ -11146,47 +11146,41 @@ msgctxt "Controls/KEY_CONTROLS_TACTICAL_LTHUMB_PRESS"
 msgid "MOVE CAMERA TOGGLE"
 msgstr ""
 
-#, fuzzy
 #| msgctxt "Controls/KEY_CONTROLS_TACTICAL_LTHUMB"
 #| msgid "MOVE MOVEMENT MARKER[LF]MOVE FREE AIM CROSHAIR[LF](CLICK) CHARACHER STATUS SCREEN"
 msgctxt "Controls/KEY_CONTROLS_TACTICAL_LTHUMB"
 msgid "MOVE MOVEMENT MARKER[LF]FREE AIM CROSHAIR"
-msgstr "移動マーカーを動かす[LF]移動フリーエイム照準を動かす[LF](押し込む)キャラクターステータス画面"
+msgstr "移動マーカーを動かす[LF]移動フリーエイム照準"
 
-#, fuzzy
 #| msgctxt "Controls/KEY_CONTROLS_GEOSCAPE_LT"
 #| msgid "ZOOM OUT"
 msgctxt "Controls/KEY_CONTROLS_TACTICAL_RTHUMB_PRESS"
 msgid "AERIAL ZOOM OUT"
-msgstr "ズームアウト"
+msgstr ""
 
-#, fuzzy
 #| msgctxt "Missions/KEY_MISSION_SUMMARY_STATUS_LEVEL_UP"
 #| msgid "LEVEL UP"
 msgctxt "Controls/KEY_CONTROLS_TACTICAL_RTHUMB_UP"
 msgid "FOCUS LEVEL UP"
-msgstr "レベルアップ"
+msgstr "フォーカスする床の高さを上げる"
 
-#, fuzzy
 #| msgctxt "Controls/KEY_CONTROLS_TACTICAL_DPAD_DOWN"
 #| msgid "FLOOR LEVEL FOCUS DOWN"
 msgctxt "Controls/KEY_CONTROLS_TACTICAL_RTHUMB_DOWN"
 msgid "FOCUS LEVEL DOWN"
 msgstr "フォーカスする床の高さを下げる"
 
-#, fuzzy
 #| msgctxt "Objectives/KEY_OBJECTIVE_TUTORIAL1_CAMERA"
 #| msgid "ROTATE CAMERA"
 msgctxt "Controls/KEY_CONTROLS_TACTICAL_RTHUMB_LEFT"
 msgid "ROTATE CAMERA LEFT"
-msgstr "カメラを回転させる"
+msgstr "カメラ左回転"
 
-#, fuzzy
 #| msgctxt "Controls/KEY_CONTROLS_ACTION_MOVE_CAMERA_RIGHT"
 #| msgid "MOVE CAMERA RIGHT"
 msgctxt "Controls/KEY_CONTROLS_TACTICAL_RTHUMB_RIGHT"
 msgid "ROTATE COMERA RIGHT"
-msgstr "カメラ-右移動"
+msgstr "カメラ右回転"
 
 msgctxt "Controls/KEY_CONTROLS_TACTICAL_LT"
 msgid "FIRST ABILITY TO THE LEFT"
@@ -11196,14 +11190,12 @@ msgctxt "Controls/KEY_CONTROLS_TACTICAL_RT"
 msgid "FIRST ABILITY TO THE RIGHT"
 msgstr ""
 
-#, fuzzy
 #| msgctxt "Controls/KEY_CONTROLS_TACTICAL_RB"
 #| msgid "PREVIOUS SOLDIER [LF]PREVIOUS TARGET"
 msgctxt "Controls/KEY_CONTROLS_TACTICAL_LB"
 msgid "PREVIOUS SOLDIER [LF]PREVIOUS TARGET"
 msgstr "前の兵士へ移行[LF]前のターゲットへ移行"
 
-#, fuzzy
 #| msgctxt "Controls/KEY_CONTROLS_TACTICAL_LB"
 #| msgid "NEXT SOLDIER[LF]NEXT TARGET"
 msgctxt "Controls/KEY_CONTROLS_TACTICAL_RB"
@@ -11890,7 +11882,6 @@ msgctxt "Controls/KEY_CONTROLS_INPUT_PC_ESCAPE"
 msgid "ESCAPE"
 msgstr "ESC"
 
-#, fuzzy
 #| msgctxt "Controls/KEY_CONTROLS_TACTICAL_PC_ESC_NAME"
 #| msgid "ESC"
 msgctxt "Controls/KEY_CONTROLS_INPUT_PC_ESCAPE_SHORT"
@@ -13311,12 +13302,11 @@ msgctxt "Roster Screen/KEY_FATIGUE_CONFIRMATION"
 msgid "Some of your soldiers are tired or exhausted. They will have reduced Action Points for the battle. Do you wish to proceed?"
 msgstr "兵士の中に疲労または消耗している者がいます。彼らはこの戦闘でアクションポイントにペナルティを負います。続行しますか？"
 
-#, fuzzy
 #| msgctxt "Cthulhu/KEY_MISSION_PX_BASE_ACTIVATED_STANDARD_NAME"
 #| msgid "Phoenix Base Activated"
 msgctxt "Roster Screen/KEY_GEOSCAPE_SOLDIERS_TT"
 msgid "Phoenix soldiers on active duty"
-msgstr "フェニックス基地がアクティベートされた"
+msgstr "服務中のフェニックス兵"
 
 msgctxt "Roster Screen/KEY_GEOSCAPE_VEHICLES_TT"
 msgid "All ground vehicles under Phoenix command"
