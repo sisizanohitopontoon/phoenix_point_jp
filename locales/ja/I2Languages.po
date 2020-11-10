@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2020-11-10 12:43+0000\n"
+"PO-Revision-Date: 2020-11-10 12:49+0000\n"
 "Last-Translator: higema <ltdhyndsh@yahoo.co.jp>\n"
 "Language-Team: \n"
 "Language: ja\n"
@@ -6990,7 +6990,6 @@ msgstr ""
 "アクションポイント(APs)が尽きた兵士は 待機モードに移行し、次の兵士が選択されます。 アクションポイント(APs)が残っている兵士が "
 "いない場合、あなたのターンは終了します。[LF][LF][<color=#ECBA62>{[SetEndTurnAbility]}</color>]を使用するか、アクションバーの待機アイコンを選択すると兵士に待機モードへ移行するよう指示できます。[LF][LF]待機モードを選択してください。[LF]"
 
-#, fuzzy
 #| msgctxt "TutorialRoom8/KEY_TUTORIAL_TACTICAL1_STANDBY_DESCRIPTION_BIND_C"
 #| msgid ""
 #| "Once a soldier is out of APs he enters Standby Mode and the next soldier is selected. If there are no soldiers with APs remaining your turn ends. [LF][LF]You can order a soldier to enter Standby "
@@ -6999,9 +6998,8 @@ msgctxt "TutorialRoom8/KEY_TUT1_STANDBY_DESCRIPTION_BIND_C"
 msgid ""
 "Once a soldier is out of APs he enters Standby Mode and the next soldier is selected. If there are no soldiers with APs remaining your turn ends. [LF][LF]You can order a soldier to enter Standby "
 "Mode by selecting the icon from the Action Bar, or using gamepad :B:[LF][LF]SELECT STANDBY MODE[LF]"
-msgstr "アクションポイント(APs)が尽きた兵士は待機モードに移行し、次の兵士 が選択されます。アクションポイント(APs)が残っている兵士がいない 場合、あなたのターンは終了します。[LF][LF]アクションバーの待機 アイコンを選択する、または:B:を押すなどして、兵士に待機モードへ移行するよう指示できます。[LF][LF]待機モードを選択してください。[LF]"
+msgstr "アクションポイント(APs)が尽きた兵士は 待機モードに移行し、次の兵士が選択されます。 アクションポイント(APs)が残っている兵士が いない場合、あなたのターンは終了します。[LF][LF]アクションバーの待機アイコンを選択するか、またはゲームパッドの:B:を押せば兵士に待機モードへ移行するよう指示できます。[LF][LF]待機モードを選択してください。[LF]"
 
-#, fuzzy
 #| msgctxt "TutorialRoom8/KEY_TUTORIAL_TACTICAL1_AP_PART2_DESCRIPTION_K"
 #| msgid ""
 #| "Action controls[LF][LF]Select Action: :LMB: on the action icon[LF]Perform Action: :LMB: on the action button or icon[LF][LF]Movement: :LMB: then select MOVE to go to the Selection Marker "
@@ -7010,9 +7008,8 @@ msgctxt "TutorialRoom8/KEY_TUT1_AP_PART2_DESCRIPTION_K"
 msgid ""
 "Action controls[LF][LF]Select Action: :LMB: on the action icon[LF]Perform Action: :LMB: on the action button or icon[LF][LF]Movement: :LMB: then select MOVE to go to the Selection Marker "
 "location[LF][LF]Direct Movement: :RMB: to go directly to the Selection Marker location"
-msgstr "アクション操作[LF]アクションを選択: 選択したいアクションアイコン上で :LMB:[LF]アクションを行う: アクションボタンまたはアイコンの上で :LMB: [LF]移動: :LMB:で移動する位置を選択指定し、その後\"\"移動\"\"を選択[LF]直接移動: :RMB: でマーカーの位置に直接移動する"
+msgstr "アクション操作[LF]アクションを選択: 選択したいアクションアイコン上で :LMB:[LF]アクションを行う: アクションボタンまたはアイコンの上で :LMB: [LF]移動: :LMB:で移動する位置を選択指定し、その後\"\"移動\"\"を選択[LF][LF]直接移動: :RMB: でマーカーの位置に直接移動する"
 
-#, fuzzy
 #| msgctxt "TutorialRoom8/KEY_TUTORIAL_TACTICAL1_AP_PART2_DESCRIPTION_C"
 #| msgid ""
 #| "Action controls[LF][LF]Select Action: Use :RT: to enter the Action Bar and :DLEFT: and :DRIGHT: to select, and :A: to perform action.[LF][LF]Movement: :A: then select MOVE to go to the Selection "
@@ -7021,39 +7018,34 @@ msgctxt "TutorialRoom8/KEY_TUT1_AP_PART2_DESCRIPTION_C"
 msgid ""
 "Action controls[LF][LF][LF]Select Action: Use :RT: to enter the Action Bar and :DLEFT: and :DRIGHT: to select, and :A: to perform action.[LF][LF][LF]Movement: :A: then select MOVE to go to the "
 "Selection Marker location"
-msgstr "アクション操作[LF]アクションを選択:  アクションバーへの移行 :RT: アクションの選択:DLEFT: と :DRIGHT: アクションの実行:A:[LF]移動: 移動させたい位置にマーカーを動かして :A: を押し、その後に\"\"移動\"\"を選択"
+msgstr "アクション操作[LF][LF][LF]アクションを選択:  アクションバーへの移行 :RT: アクションの選択:DLEFT: と :DRIGHT: アクションの実行:A:[LF][LF][LF]移動: 移動させたい位置にマーカーを動かして :A: を押し、その後に\"\"移動\"\"を選択"
 
-#, fuzzy
 #| msgctxt "Tutorial/KEY_TUTORIAL_TACTICAL1_MOVEMENT_NAME"
 #| msgid "Camera and Movement"
 msgctxt "Tutorial 1 (Polaris)/KEY_TUT1_MOVEMENT_NAME"
 msgid "Camera and Movement"
 msgstr "カメラと移動"
 
-#, fuzzy
 #| msgctxt "Tutorial/KEY_TUTORIAL_TACTICAL1_MOVEMENT_NAME"
 #| msgid "Camera and Movement"
 msgctxt "Tutorial 1 (Polaris)/KEY_TUT1_MOVEMENT_PART2_NAME"
 msgid "Camera and Movement"
 msgstr "カメラと移動"
 
-#, fuzzy
 #| msgctxt "Tutorial/KEY_TUTORIAL_TACTICAL1_SPOTTING_NAME"
 #| msgid "Spotting Enemies"
 msgctxt "Tutorial 1 (Polaris)/KEY_TUT1_SPOTTING_NAME"
 msgid "Spotting Enemies"
 msgstr "敵の発見"
 
-#, fuzzy
 #| msgctxt "Tutorial/KEY_TUTORIAL_TACTICAL1_SPOTTING_DESCRIPTION"
 #| msgid ""
 #| "ENEMY ICONS above your action bar show all spotted enemies.[LF][LF]А <color=#E51919>RED ICON</color> (<color=#E51919>:CRABMAN:</color>) shows an enemy in direct line of sight for the selected "
 #| "soldier."
 msgctxt "Tutorial 1 (Polaris)/KEY_TUT1_SPOTTING_DESCRIPTION"
 msgid "ENEMY ICONS above your Action Bar show all spotted enemies.[LF][LF]А RED ICON (<color=#E51919>:CRABMAN:</color>) shows an enemy in direct line of sight of the selected soldier."
-msgstr "アクションバー上に表示される敵アイコンは、発見した全ての敵を表します。[LF][LF](<color=#E51919>:CRABMAN:</color>)で表示される<color=#E51919>赤色のアイコン</color>は、選択した兵士の視界内にある敵を表しています。"
+msgstr "アクションバー上に表示される敵アイコンは、発見した全ての敵を表します。[LF][LF](<color=#E51919>:CRABMAN:</color>)と表示されている赤色のアイコンは、 選択した兵士の視界内にある敵を表しています。"
 
-#, fuzzy
 #| msgctxt "Tutorial/KEY_TUTORIAL_TACTICAL1_SELECTION_NAME"
 #| msgid "Selecting Soldiers"
 msgctxt "Tutorial 1 (Polaris)/KEY_TUT1_SELECTION_NAME"
@@ -7070,25 +7062,22 @@ msgid ""
 "selected tile if an enemy can be shot from it.[LF][LF]MOVE TO THE HIGHLIGHTED TILE[LF]"
 msgstr ""
 
-#, fuzzy
 #| msgctxt "PH_Localization/KEY_OPTIONS_BUTTON_TT"
 #| msgid "Options"
 msgctxt "Tutorial 1 (Polaris)/KEY_TUT1_AP_PART2_NAME"
 msgid "Actions"
-msgstr "オプション"
+msgstr "アクション"
 
 msgctxt "Tutorial 1 (Polaris)/KEY_TUT1_SHOOTING_NAME"
 msgid "Shooting and Health"
 msgstr ""
 
-#, fuzzy
 #| msgctxt "Tutorial/KEY_TUTORIAL_TACTICAL1_TURNS_NAME"
 #| msgid "End Turn"
 msgctxt "Tutorial 1 (Polaris)/KEY_TUT1_TURNS_NAME"
 msgid "End Turn"
 msgstr "ターンを終了する"
 
-#, fuzzy
 #| msgctxt "Tutorial/KEY_TUTORIAL_TACTICAL1_FREE_AIM_NAME"
 #| msgid "Free Aim Shooting"
 msgctxt "Tutorial 1 (Polaris)/KEY_TUT1_FREE_AIM_NAME"
@@ -7107,7 +7096,6 @@ msgctxt "Tutorial 1 (Polaris)/KEY_TUT1_OBJECTIVE_DESCRIPTION"
 msgid "Now that you know the basics of movement and shooting, it's time to finish the mission![LF][LF]COMPLETE THE OBJECTIVE"
 msgstr ""
 
-#, fuzzy
 #| msgctxt "Tutorial/KEY_TUTORIAL_TACTICAL1_VEHICLES_NAME"
 #| msgid "Vehicles"
 msgctxt "Tutorial 1 (Polaris)/KEY_TUT1_VEHICLES_NAME"
