@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2020-11-10 13:20+0000\n"
+"PO-Revision-Date: 2020-11-10 13:29+0000\n"
 "Last-Translator: higema <ltdhyndsh@yahoo.co.jp>\n"
 "Language-Team: \n"
 "Language: ja\n"
@@ -7624,7 +7624,6 @@ msgctxt "Tutorial 2 to 4/KEY_TUT2_CHEST_NAME"
 msgid "Opening Chests"
 msgstr ""
 
-#, fuzzy
 #| msgctxt "Tutorial/KEY_TUTORIAL_TACTICAL2_INVENTORY_DISPLAY_DESCRIPTION"
 #| msgid ""
 #| "The tactical inventory display is divided into three sections.[LF][LF]READY: Contains items that are currently equipped and ready for immediate use.[LF]BACKPACK: Holds all items carried, but not "
@@ -7634,9 +7633,7 @@ msgctxt "Tutorial 2 to 4/KEY_TUT2_CHEST_DESCRIPTION"
 msgid ""
 "Chests usually contain VALUABLE ITEMS.[LF][LF]The Inventory shows everything carried by a soldier, and items on the ground or in adjacent crates.[LF][LF]Entering the inventory display has no AP "
 "cost. Moving any number of items from one section to another has a fixed cost of 1 AP, except for moving items to ground, which does not cost any APs."
-msgstr ""
-"タクティカルインベントリの表示は三つのセクションに分かれています。[LF][LF]レディ: 現在装備中のアイテム及び、即時使用の為のアイテムを含有する。[LF]バックパック: 携行してはいるが装備していない全アイテムを抱える。[LF]グラウンド: "
-"その兵士の足元と周囲のタイル上にあるアイテム。[LF][LF]インベントリ画面への移行はAPを消費しません。セクション間でアイテムを移す行為は1APの固定コストがかかります。ただし地面にアイテムを移すだけならAPを消費しません。"
+msgstr "箱には大抵、有用なアイテムが入っています。[LF][LF]インベントリには、兵士が携行している全ての アイテム及び、足元のアイテムや隣接する箱の 中身が表示されます。[LF][LF]インベントリ画面への移行はAPを消費しません。セクション間でアイテムを移す行為は1APの固定コストがかかります。ただし地面にアイテムを移すだけならAPの消費はありません。"
 
 msgctxt "Tutorial 2 to 4/KEY_TUT2_STANDBY_NAME"
 msgid "Tactical Tip: Stand By"
@@ -7654,12 +7651,11 @@ msgctxt "Tutorial 2 to 4/KEY_TUT2_MEDKIT_DESCRIPTION"
 msgid "MEDKITS are powerful tools that can RESTORE HIT POINTS, disabled Limbs and remove Status effects such as Bleeding. [LF][LF]A soldier can use a Medkit on themselves, or an ALLY."
 msgstr ""
 
-#, fuzzy
 #| msgctxt "Equipment/KEY_PX_HEAVY_CANNON_NAME"
 #| msgid "Hel II Cannon"
 msgctxt "Tutorial 2 to 4/KEY_TUT2_HEL_CANNON_NAME"
 msgid "Tactical Tip: Hel II Cannon"
-msgstr "ヘルIIキャノン"
+msgstr "戦闘ヒント: ヘルIIキャノン"
 
 msgctxt "Tutorial 2 to 4/KEY_TUT2_HEL_CANNON_DESCRIPTION"
 msgid "The HEL II CANNON is a powerful heavy weapon with LOW ACCURACY and HIGH DAMAGE. [LF][LF]Firing it costs 3 Action Points. Use it to deal with nearby enemies!"
@@ -7689,23 +7685,21 @@ msgctxt "Tutorial 2 to 4/KEY_TUT2_UDAR_HG_DESCRIPTION"
 msgid "This enemy is armed with a HANDGUN - a light weapon held in ONE HAND. [LF][LF]Handguns require only 1 Action Point to shoot and usually can be used multiple times per turn."
 msgstr ""
 
-#, fuzzy
 #| msgctxt "Equipment/KEY_PX_ASSAULT_RIFLE_DESCRIPTION"
 #| msgid "Phoenix Assault Rifle"
 msgctxt "Tutorial 2 to 4/KEY_TUT2_YAT_AR_NAME"
 msgid "Tactical Tip: Assault Rifles"
-msgstr "フェニックス アサルトライフル"
+msgstr "戦闘ヒント: アサルトライフル"
 
 msgctxt "Tutorial 2 to 4/KEY_TUT2_YAT_AR_DESCRIPTION"
 msgid "This enemy has an ASSAULT RIFLE - a versatile two-handed weapon. [LF][LF]Assault Rifles require 2 APs to use, and fire multiple shots that SHRED armor."
 msgstr ""
 
-#, fuzzy
 #| msgctxt "Tutorial/KEY_TUTORIAL_TACTICAL1_SPOTTING_NAME"
 #| msgid "Spotting Enemies"
 msgctxt "Tutorial 2 to 4/KEY_TUT2_ENEMY_FLEES_NAME"
 msgid "Fleeing Enemies"
-msgstr "敵の発見"
+msgstr "逃走する敵"
 
 msgctxt "Tutorial 2 to 4/KEY_TUT2_ENEMY_FLEES_DESCRIPTION"
 msgid "Enemies that are too injured to fight will FLEE the battlefield."
@@ -7737,12 +7731,11 @@ msgctxt "Tutorial 2 to 4/KEY_TUT3_STORY1_DECRIPTION"
 msgid "Tread lightly! There are hostiles up ahead. Let's get rid of them and clean up this mess!"
 msgstr ""
 
-#, fuzzy
 #| msgctxt "Tactical/KEY_MESSAGE_NOT_ENOUGH_AP"
 #| msgid "Not enough Action Points"
 msgctxt "Tutorial 2 to 4/KEY_TUT2_AP_NEEDED_NAME"
 msgid "Not Enough Action Points (APs)"
-msgstr "アクション ポイントが足りない"
+msgstr "アクションポイント(APs)不足"
 
 msgctxt "Tutorial 2 to 4/KEY_TUT2_AP_NEEDED_DESCRIPTION"
 msgid "This soldier doesn't have enough AP to do this. You'll be able to complete this action NEXT TURN. To end the soldier's trun now, select Stand By."
@@ -7798,34 +7791,31 @@ msgid ""
 "investigate!"
 msgstr ""
 
-#, fuzzy
 #| msgctxt "Tutorial/KEY_TUTORIAL_TACTICAL2_STATUS_NAME"
 #| msgid "Status Effects"
 msgctxt "Tutorial 2 to 4/KEY_TUT3_POISONSTATUS_NAME"
 msgid "Status Effect: Poison"
-msgstr "ステータス効果"
+msgstr "ステータス効果: 毒"
 
 msgctxt "Tutorial 2 to 4/KEY_TUT3_POISONSTATUS_DESCRIPTION"
 msgid "Units with the POISON status effect will keep losing Hit Points every turn equal to the Poison value. [LF][LF]Poison effects are GRADUALLY REDUCED each turn."
 msgstr ""
 
-#, fuzzy
 #| msgctxt "Characters and classes/KEY_POISONWORM_DESCRIPTION"
 #| msgid "Poisonworm"
 msgctxt "Tutorial 2 to 4/KEY_TUT3_POISONEFFECT_NAME"
 msgid "Poison"
-msgstr "ポイズンワーム"
+msgstr "毒"
 
 msgctxt "Tutorial 2 to 4/KEY_TUT3_POISONEFFECT_DESCRIPTION"
 msgid "This operative is Poisoned. It will LOSE HIT POINTS equal to the Poison value. [LF][LF]Poison is applied only if the operative has taken damage, and gradually reduces EVERY TURN."
 msgstr ""
 
-#, fuzzy
 #| msgctxt "Characters and classes/KEY_CLASS_SNIPER_DESCRIPTION"
 #| msgid "Sniper Class Soldier"
 msgctxt "Tutorial 2 to 4/KEY_TUT3_SNIPERCLASS_NAME"
 msgid "Sniper Class"
-msgstr "スナイパー クラス兵"
+msgstr "スナイパークラス"
 
 msgctxt "Tutorial 2 to 4/KEY_TUT3_SNIPERCLASS_DESCRIPTION"
 msgid ""
@@ -7843,23 +7833,21 @@ msgid ""
 "distance, or taking OVERWATCH position and shooting them down as they approach."
 msgstr ""
 
-#, fuzzy
 #| msgctxt "Equipment/KEY_NJ_GRENADE_NAME"
 #| msgid "Vanadium Grenade"
 msgctxt "Tutorial 2 to 4/KEY_TUT3_HANDGRENADE_NAME"
 msgid "Hand Grenades "
-msgstr "バナジウム グレネード"
+msgstr "ハンド グレネード"
 
 msgctxt "Tutorial 2 to 4/KEY_TUT3_HANDGRENADE_DESCRIPTION"
 msgid "Hand Grenades can be equiped in a Ready slot and used just like the other weapons to  DEAL DAMAGE IN AN AREA. [LF][LF]Positioning is key - be careful not to hurt your own soldiers!"
 msgstr ""
 
-#, fuzzy
 #| msgctxt "Characters and classes/KEY_ALN_MINDFRAGGER_DESCRIPTION"
 #| msgid "Mindfragger"
 msgctxt "Tutorial 2 to 4/KEY_TUT3_MINDFRAGGEDSOLDIER_NAME"
 msgid "Mindfragged Soldier"
-msgstr "マインドフラッガー"
+msgstr "マインドフラッガーに取りつかれた兵士"
 
 msgctxt "Tutorial 2 to 4/KEY_TUT3_MINDFRAGGEDSOLDIER_DESCRIPTION"
 msgid ""
