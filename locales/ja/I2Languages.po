@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2020-11-10 13:29+0000\n"
+"PO-Revision-Date: 2020-11-10 13:35+0000\n"
 "Last-Translator: higema <ltdhyndsh@yahoo.co.jp>\n"
 "Language-Team: \n"
 "Language: ja\n"
@@ -7865,12 +7865,11 @@ msgid ""
 "can fire the multiple times per turn."
 msgstr ""
 
-#, fuzzy
 #| msgctxt "Equipment/KEY_AMMO_SNIPER_PX_RIFLE_DESCRIPTION"
 #| msgid "Phoenix Sniper Rifle Magazine"
 msgctxt "Tutorial 2 to 4/KEY_TUT3_SAVEASSAULT_NAME"
 msgid "Phoenix soldier in danger!"
-msgstr "フェニックス スナイパーライフル マガジン"
+msgstr "危機に瀕しているフェニックス兵!"
 
 msgctxt "Tutorial 2 to 4/KEY_TUT3_SAVEASSAULT_DESCRIPTION"
 msgid "This fellow Phoenix operative has been mind controlled by a Mindfragger. [LF][LF]Save him before it's too late!"
@@ -7934,7 +7933,6 @@ msgctxt "Phoenixpedia/KEY_PHOENIXPEDIA_GUIDE_XP_NAME"
 msgid "Experience and Skill Points"
 msgstr "経験値とスキルポイント"
 
-#, fuzzy
 #| msgctxt "Phoenixpedia/KEY_PHOENIXPEDIA_GUIDE_XP_DESCRIPTION"
 #| msgid ""
 #| "Experince Points (XPs) are earned by achieving objectives in missions. XPs are then distributed between surviving soldiers depending on their contribution to the battle.[LF][LF]Soldiers will "
@@ -7949,7 +7947,7 @@ msgid ""
 "Strength, Willpower and Speed.[LF][LF]Some Phoenix SPs will be earned for each battle, depending on completed objectives.[LF][LF]On reaching level 4, soldiers can be trained in another class. "
 "Abilities of a class which require weapon proficiency can be used with weapons that the other class is proficient with."
 msgstr ""
-"経験値(XP)はミッション目的を達成する事で獲得される。その後XPは、戦闘での貢献度に応じて生き残った兵士たちの間で分配される。[LF][LF]次のレベルへのXP閾値に到達すると、兵士たちは自動的にレベルアップする。レベルアップした兵士はスキルポイント(SP)を獲得し、それを消費して新たなアビリティを得たり、ストレングスやウィルパワー、スピードといったメイン特性を上昇させる事ができる。レベル7に到達した兵士はそれ以上のSPを獲得する事はできないが、なおもそれらの兵士にフェニックスSPをつぎ込むことは可能である。[LF][LF]フェニックスSPは1戦闘毎の目標達成に応じて獲得される。[LF][LF]レベル4に到達した兵士は、異なるクラスのトレーニングを受けられる。その異なるクラスが習熟している武器を、武器技能を必要とするクラスアビリティで用いる事が可能となる。"
+"経験値(XP)はミッション目的を達成する事で獲得される。その後XPは、戦闘での貢献度に応じて生き残った兵士たちの間で分配される。[LF][LF]次のレベルへのXP閾値に到達すると、兵士たちは自動的にレベルアップする。レベルアップした兵士はスキルポイント(SP)を獲得し、それを消費して新たなアビリティを得たり、ストレングスやウィルパワー、スピードといったメイン特性を上昇させる事ができる。[LF][LF]フェニックスSPは1戦闘毎の目標達成に応じて獲得される。[LF][LF]レベル4に到達した兵士は、異なるクラスのトレーニングを受けられる。その異なるクラスが習熟している武器を、武器技能を必要とするクラスアビリティで用いる事が可能となる。"
 
 msgctxt "Phoenixpedia/KEY_PHOENIXPEDIA_GUIDE_DAMAGE_SYSTEM_NAME"
 msgid "Standard Damage"
@@ -8663,12 +8661,11 @@ msgctxt "Xbox/KEY_STREAMING_INSTALL_TEXT_TITLE"
 msgid "DOWNLOADING MISSION"
 msgstr "ミッションをダウンロード中"
 
-#, fuzzy
 #| msgctxt "Xbox/KEY_STREAMING_INSTALL_TEXT_DESCRIPTION"
 #| msgid "The selected mission is currently being downloaded to your device. Please, wait until the download is complete before launching."
 msgctxt "Xbox/KEY_STREAMING_INSTALL_TEXT_DESCRIPTION"
 msgid "The selected mission is currently being downloaded. Please, wait until the download is complete before launching."
-msgstr "選択したミッションは、お使いのデバイスに現在ダウンロード中です。ダウンロードが完了するまで待ってから起動してください。"
+msgstr "選択したミッションは現在ダウンロード中です。ダウンロードが完了するまで待ってから起動してください。"
 
 msgctxt "Xbox/KEY_CONSOLE_CONTINUE"
 msgid "PRESS :A: TO CONTINUE"
@@ -8710,7 +8707,6 @@ msgctxt "Objectives/KEY_OBJECTIVE_KILL_ENEMIES"
 msgid "KILL ALL ENEMIES"
 msgstr "すべての敵を倒す"
 
-#, fuzzy
 #| msgctxt "Objectives/KEY_OBJECTIVE_KILL_QUEEN"
 #| msgid "KILL THE SCYLLA"
 msgctxt "Objectives/KEY_OBJECTIVE_KILL_QUEEN"
@@ -10974,14 +10970,12 @@ msgid ""
 " Google LLC. All other trademarks are the property of their respective owners."
 msgstr ""
 
-#, fuzzy
 #| msgctxt "Geoscape/KEY_SECTION_GEOSCAPE"
 #| msgid "GEOSCAPE"
 msgctxt "Controls/KEY_CONTROLS_GEOSCAPE_SCHEME"
 msgid "GEOSCAPE SCHEME"
-msgstr "ジオスケープ"
+msgstr "ジオスケープ割り当て"
 
-#, fuzzy
 #| msgctxt "Controls/KEY_CONTROLS_BINDINGS_TACTICAL"
 #| msgid "TACTICAL BINDINGS"
 msgctxt "Controls/KEY_CONTROLS_TACTICAL_SCHEME"
@@ -11000,19 +10994,17 @@ msgctxt "Controls/KEY_CONTROLS_GEOSCAPE_X"
 msgid "START TIME[LF]STOP TIME"
 msgstr "時間スタート[LF]時間ストップ"
 
-#, fuzzy
 #| msgctxt "Controls/KEY_CONTROLS_GEOSCAPE_BACK"
 #| msgid "OPEN GAME MENU"
 msgctxt "Controls/KEY_CONTROLS_GEOSCAPE_Y"
 msgid "OPEN BASES MENU"
-msgstr "ゲームメニューを開く"
+msgstr "基地メニューを開く"
 
-#, fuzzy
 #| msgctxt "Missions/KEY_MISSION_RESOURCES_RECOVERED"
 #| msgid "RESOURCES RECOVERED"
 msgctxt "Controls/KEY_CONTROLS_GEOSCAPE_DPAD_UP"
 msgid "RESOURCES SECTION"
-msgstr "回収した資源"
+msgstr "資源セクション"
 
 #, fuzzy
 #| msgctxt "Controls/KEY_CONTROLS_GEOSCAPE_LTHUMB_PRESS"
