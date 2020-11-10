@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2020-11-10 12:49+0000\n"
+"PO-Revision-Date: 2020-11-10 12:50+0000\n"
 "Last-Translator: higema <ltdhyndsh@yahoo.co.jp>\n"
 "Language-Team: \n"
 "Language: ja\n"
@@ -7102,7 +7102,6 @@ msgctxt "Tutorial 1 (Polaris)/KEY_TUT1_VEHICLES_NAME"
 msgid "Vehicles"
 msgstr "車両"
 
-#, fuzzy
 #| msgctxt "Tutorial/KEY_TUTORIAL_TACTICAL1_VEHICLES_DESCRIPTION"
 #| msgid ""
 #| "Vehicles are armored personnel carriers with a mounted weapon.[LF][LF]Soldiers can enter the vehicle by moving on the Entry Marker next to the vehicle, and then pressing Enter Vehicle on the Action "
@@ -7111,16 +7110,14 @@ msgctxt "Tutorial 1 (Polaris)/KEY_TUT1_VEHICLES_DESCRIPTION"
 msgid ""
 "VEHICLES are a special type of unit that can transport Phoenix operatives.[LF][LF][LF]To enter the vehicle, move a soldier to the Entry Marker next to it, and select Enter Vehicle on the Action "
 "Bar.[LF][LF][LF]ENTER THE VEHICLE WITH BOTH SOLDIERS[LF]"
-msgstr "車両は、武器を搭載した装甲兵員輸送車です。[LF][LF]兵士達が車両の隣にある入口マーカーに移動し、アクションバーの\"\"乗車\"\"ボタンを押すと、その中に乗り込めます。[LF][LF]兵士二人を車両に乗り込ませてください。[LF]"
+msgstr "車両は、フェニックス職員を輸送することができる特殊なタイプのユニットです。[LF][LF][LF]車両に乗り込むには、その隣にある搭乗口マーカーに兵士を移動させ、アクションバーの「乗車」ボタンを選択します。[LF][LF][LF]兵士二人を車両に乗り込ませてください。[LF]"
 
-#, fuzzy
 #| msgctxt "Tutorial/KEY_TUTORIAL_TACTICAL1_HEALTH_NAME"
 #| msgid "Damage and Body Parts"
 msgctxt "Tutorial 1 (Polaris)/KEY_TUT1_HEALTH_NAME"
 msgid "Damage and Body Parts"
 msgstr "ダメージと部位"
 
-#, fuzzy
 #| msgctxt "Tutorial/KEY_TUTORIAL_TACTICAL1_HEALTH_DESCRIPTION"
 #| msgid ""
 #| "When a character is attacked, damage is done to the body part that was hit as well as reducing general Hit Points. Wounded body parts are marked in yellow on the Damage Display, left of the Health "
@@ -7134,14 +7131,12 @@ msgid ""
 msgstr ""
 "キャラクターが攻撃を受けると、全体ヒットポイントが減少すると同時に、攻撃が当たった部位にダメージが入ります。負傷した部位は、ヘルスバーの左にあるダメージディスプレイ上で黄色で表示されます。使用不能になった部位は赤で表示されます。[LF][LF]使用不能になった部位は通常の場合出血を引き起こし、また同時にストレングスやウィルパワーを失う事があります。該当部位によって得られていたスペシャルアビリティは失われます。[LF]"
 
-#, fuzzy
 #| msgctxt "Tutorial/KEY_TUTORIAL_TACTICAL1_COVER_NAME"
 #| msgid "Cover and Environment"
 msgctxt "Tutorial 1 (Polaris)/KEY_TUT1_COVER_NAME"
 msgid "Cover and Environment"
 msgstr "カバーと環境"
 
-#, fuzzy
 #| msgctxt "Tutorial/KEY_TUTORIAL_TACTICAL1_COVER_DESCRIPTION"
 #| msgid ""
 #| "Any object in the environment can provide cover by blocking the path of a projectile. However, soldiers will make use of cover in two different ways.[LF][LF]When next to a low obstacle or low wall, "
@@ -7201,7 +7196,6 @@ msgctxt "Tutorial 1 (Polaris)/KEY_TUT_JETJUMP_DESCRIPTION"
 msgid "The Heavy's emblematic jetpack suit allows him to FLY OVER OBSTACLES or reach high points with ease. [CR][LF]"
 msgstr ""
 
-#, fuzzy
 #| msgctxt "Tutorial/KEY_TUTORIAL_TACTICAL2_INVENTORY_NAME"
 #| msgid "Inventory"
 msgctxt "Tutorial 1 (Polaris)/KEY_TUT_INVENTORYACTION_NAME"
