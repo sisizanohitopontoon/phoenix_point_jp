@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2020-11-11 11:29+0000\n"
+"PO-Revision-Date: 2020-11-11 11:34+0000\n"
 "Last-Translator: higema <ltdhyndsh@yahoo.co.jp>\n"
 "Language-Team: \n"
 "Language: ja\n"
@@ -4826,7 +4826,7 @@ msgstr "戦没者記録"
 
 msgctxt "Arkham/KEY_ROSTER_SERIVCE_END"
 msgid "SERVICE END"
-msgstr ""
+msgstr "就役終了"
 
 #| msgctxt "Character Status/KEY_BLEED_STATUS_NAME"
 #| msgid "BLEEDING"
@@ -4860,11 +4860,11 @@ msgstr "餓死"
 
 msgctxt "Arkham/KEY_ROSTER_DEATH_FELL"
 msgid "FALLING"
-msgstr ""
+msgstr "落下"
 
 msgctxt "Arkham/KEY_ROSTER_DEATH_GEOSCAPE_EVENT"
 msgid "ACCIDENT"
-msgstr ""
+msgstr "事故"
 
 #| msgctxt "Abilities/KEY_RETURNFIRE_NAME"
 #| msgid "RETURN FIRE"
@@ -4880,7 +4880,7 @@ msgstr "レディアイテム"
 
 msgctxt "Arkham/KEY_ROSTER_MEMORIAL_TAB_DESCRIPTION"
 msgid "Comrades fallen in the line of duty"
-msgstr ""
+msgstr "就役中に没した同士"
 
 msgctxt "Arkham/KEY_ROSTER_ITEM_SLOT_EMPTY"
 msgid "EMPTY"
@@ -4934,7 +4934,7 @@ msgstr ""
 
 msgctxt "Arkham/KEY_SCRAP_TEXT"
 msgid "You will recover:"
-msgstr ""
+msgstr "以下が回収されます:"
 
 #| msgctxt "Abilities/KEY_ENTER_VEHICLE_DESCRIPTION"
 #| msgid "Enter the vehicle"
@@ -4944,7 +4944,7 @@ msgstr "車両に乗り込みますか？"
 
 msgctxt "Arkham/KEY_EXIT_MISSION_PROMPT"
 msgid "Evacuate?"
-msgstr ""
+msgstr "撤退しますか？"
 
 #| msgctxt "Tactical/KEY_INTERACT_ACTIVATE_DESCRIPTION"
 #| msgid "Activate device"
@@ -4954,7 +4954,7 @@ msgstr "目標をアクティベートしますか？"
 
 msgctxt "Arkham/KEY_WEAPON_SELECTION_MAGAZINE"
 msgid "MAGAZINES"
-msgstr ""
+msgstr "マガジン"
 
 #| msgctxt "Geoscape/KEY_GEOSCAPE_COST"
 #| msgid "COST"
@@ -4964,7 +4964,7 @@ msgstr "コスト"
 
 msgctxt "Arkham/KEY_OPTIONS_DETAILED_TACTICAL_INFO"
 msgid "SHOW DETAILED EQUIPMENT INFO IN BATTLE"
-msgstr ""
+msgstr "戦闘中に装備の情報を詳しく表示"
 
 msgctxt "Arkham/KEY_WEAPON_SELECTION_MAGAZINE_TOOLTIP"
 msgid "Number of Ammo magazines carried"
@@ -13305,7 +13305,7 @@ msgstr "兵士の中に疲労または消耗している者がいます。彼ら
 #| msgid "Phoenix Base Activated"
 msgctxt "Roster Screen/KEY_GEOSCAPE_SOLDIERS_TT"
 msgid "Phoenix soldiers on active duty"
-msgstr "服務中のフェニックス兵"
+msgstr "就役中のフェニックス兵"
 
 msgctxt "Roster Screen/KEY_GEOSCAPE_VEHICLES_TT"
 msgid "All ground vehicles under Phoenix command"
