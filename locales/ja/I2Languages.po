@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2020-11-13 13:03+0000\n"
+"PO-Revision-Date: 2020-11-16 12:19+0000\n"
 "Last-Translator: higema <ltdhyndsh@yahoo.co.jp>\n"
 "Language-Team: \n"
 "Language: ja\n"
@@ -3660,7 +3660,7 @@ msgstr "レイジバースト"
 
 msgctxt "Abilities/KEY_ONSLAUGHT_DESCRIPTION"
 msgid "An ally within 10 tiles recovers 2 Action Points"
-msgstr "10タイル以内にいる味方のアクションポイントが2回復する。"
+msgstr "10タイル以内にいる味方1人の アクションポイントを2回復する。"
 
 msgctxt "Abilities/KEY_ONSLAUGHT_NAME"
 msgid "ONSLAUGHT"
@@ -5066,7 +5066,7 @@ msgstr "ヘイヴン"
 
 msgctxt "Game Over/KEY_GAME_SUMMARY_SURVIVING_HAVENS"
 msgid "SURVIVING HAVENS"
-msgstr "生き残ったヘイヴン"
+msgstr "生き残っているヘイヴン"
 
 #| msgctxt "Missions/KEY_MISSION_SUMMARY_STATUS_DESTROYED"
 #| msgid "DESTROYED"
@@ -5142,15 +5142,15 @@ msgstr "残存しているパンドランコロニー"
 
 msgctxt "Game Over/KEY_GAME_SUMMARY_SURVIVING_CITADELS"
 msgid "SURVIVING CITADELS"
-msgstr "生き残ったシタデル"
+msgstr "生き残っているシタデル"
 
 msgctxt "Game Over/KEY_GAME_SUMMARY_SURVIVING_LAIRS"
 msgid "SURVIVING LAIRS"
-msgstr "生き残ったレア"
+msgstr "生き残っているレア"
 
 msgctxt "Game Over/KEY_GAME_SUMMARY_SURVIVING_NESTS"
 msgid "SURVIVING NESTS"
-msgstr "生き残ったネスト"
+msgstr "生き残っているネスト"
 
 #| msgctxt "Geoscape/KEY_ALIEN_BASE_DESTROYED_NEST"
 #| msgid "DESTROYED PANDORAN NEST"
@@ -9850,7 +9850,7 @@ msgstr "そしてフェニックスプロジェクトが、[LF]新たな世界�
 
 msgctxt "Cinematic Subtitles/KEY_PX_ENDING7_01"
 msgid "But although our responsibilities had widened, we did not forget our initial purpose. "
-msgstr "だが背負う責任が広がっても、[LF]私達は当初の目的を忘れたりはしなかった。"
+msgstr "しかし背負う責任が拡大したとはいえ、[LF]私達は当初の目的を忘れたりはしなかった。"
 
 msgctxt "Cinematic Subtitles/KEY_PX_ENDING7_02"
 msgid "The war was not over. Up there, in celestial darkness, "
