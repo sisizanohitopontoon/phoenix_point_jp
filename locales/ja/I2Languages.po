@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2020-12-05 12:12+0000\n"
+"PO-Revision-Date: 2020-12-05 12:19+0000\n"
 "Last-Translator: higema <ltdhyndsh@yahoo.co.jp>\n"
 "Language-Team: \n"
 "Language: ja\n"
@@ -5039,26 +5039,23 @@ msgctxt "Polaris/KEY_DEPLOY_LOOT_AUTOMATICALLY"
 msgid "All items on the battlefield will be automatically recovered after mission success"
 msgstr "戦場のすべてのアイテムはミッション成功時に自動的に回復します。"
 
-#, fuzzy
 #| msgctxt "Geoscape/KEY_GEOSCAPE_EXPLORE_ERROR_TT"
 #| msgid "You cannot explore a site without soldiers or vehicles"
 msgctxt "Polaris/KEY_DEPLOY_LOOT_MANUALLY"
 msgid "You can only recover items carried by evacuating soldiers or vehicles"
-msgstr "兵士または車両無しでは地点を探索する事はできません"
+msgstr "退避した兵士および車両が所持していたアイテム以外は回収されません"
 
-#, fuzzy
 #| msgctxt "Controls/KEY_CONTROLS_GEOSCAPE_DPAD_DOWN"
 #| msgid "AIRCRAFT SECTION"
 msgctxt "Polaris/KEY_GEOSCAPE_OWNED_AIRCRAFT"
 msgid "AIRCRAFT OWNED"
-msgstr "航空機セクション"
+msgstr "所有航空機"
 
-#, fuzzy
 #| msgctxt "Danforth/KEY_LOAD_INVALID_TACTICAL"
 #| msgid "This in-battle save is not compatible with the current version of the game. The game will revert the Geoscape just prior to the mission."
 msgctxt "Polaris/KEY_OPTIONS_LOAD_GAME_ERROR_MESSAGE"
 msgid "This saved game is incompatible with the current version of the game"
-msgstr "この戦闘中のセーブデータは、現バージョンとの互換性がありません。ゲーム状況はミッション直前のジオスケープまで戻ります。"
+msgstr "このセーブデータは現バージョンとの互換性がありません。"
 
 msgctxt "Polaris/KEY_NEW_TUTORIAL1_SCENE0_01"
 msgid "... sitrep is yellow alert.  Other refugees are coming from the coast ... 400 yesterday. "
@@ -5116,12 +5113,11 @@ msgctxt "Polaris/KEY_NEW_TUTORIAL1_SCENE4_04"
 msgid "The mutants were on the march again. Something was happening."
 msgstr "ミュータントが侵攻を再開している。何かが起こっているんだ。"
 
-#, fuzzy
 #| msgctxt "Cinematic Subtitles/KEY_PANDORARESEARCH_SYMES1_04"
 #| msgid "we realized the truth was more terrible than that. The Pandoravirus was alien, yes."
 msgctxt "Polaris/KEY_NEW_TUTORIAL1_SCENE4A_01"
 msgid "If the mist was back, then it meant that the Pandoravirus was mutating again."
-msgstr "真実はそれよりもずっと酷いものである事に気づいてしまった。[LF]パンドラウィルスは異星のものである、それは間違いない。"
+msgstr ""
 
 msgctxt "Polaris/KEY_NEW_TUTORIAL1_SCENE4B_01"
 msgid "Twisting the human form into new horrors."
@@ -5239,12 +5235,11 @@ msgctxt "Polaris/KEY_NEW_TUTORIAL3_SCENE3_01"
 msgid "Following Phoenix protocol, we readied our weapons. "
 msgstr ""
 
-#, fuzzy
 #| msgctxt "Cinematic Subtitles/KEY_PP_INTRO8_01"
 #| msgid "It's time to rise from the ashes."
 msgctxt "Polaris/KEY_NEW_TUTORIAL3_SCENE3_02"
 msgid "It was time to reclaim our home."
-msgstr "今こそ、灰より甦る時だ。"
+msgstr ""
 
 msgctxt "Polaris/KEY_NEW_TUTORIAL4_SCENE1_01"
 msgid "The reclamation of Phoenix Point was just the first step on our path ahead."
