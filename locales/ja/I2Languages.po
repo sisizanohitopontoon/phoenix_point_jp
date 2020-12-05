@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2020-12-05 11:59+0000\n"
+"PO-Revision-Date: 2020-12-05 12:03+0000\n"
 "Last-Translator: higema <ltdhyndsh@yahoo.co.jp>\n"
 "Language-Team: \n"
 "Language: ja\n"
@@ -4643,7 +4643,7 @@ msgstr "ボンバルディア"
 #| msgid "Gain Mounted Weapon proficiency with +20% range and damage"
 msgctxt "Abilities/KEY_CRAFTY_PERSONALTRACK_DESC"
 msgid "Gain mounted weapon proficiency with +20% range and +10% damage"
-msgstr "マウント式ウェポン技能を獲得。 該当武器の射程+20％、ダメージ+10%。"
+msgstr "マウント式ウェポン技能を獲得。 該当武器の射程+20％、ダメージ+10%"
 
 msgctxt "Abilities/KEY_FOCUSED_PERSONALTRACK_NAME"
 msgid "SNIPERIST"
@@ -4657,45 +4657,41 @@ msgctxt "Abilities/KEY_GOODSHOT_PERSONALTRACK_NAME"
 msgid "TROOPER"
 msgstr "トルーパー"
 
-#, fuzzy
 #| msgctxt "Abilities/KEY_GOODSHOT_PERSONALTRACK_DESC"
 #| msgid "Gain Assault Rifle proficiency with +20% damage and accuracy"
 msgctxt "Abilities/KEY_GOODSHOT_PERSONALTRACK_DESC"
 msgid "Gain Assault Rifle proficiency with +10% damage and +20% accuracy"
-msgstr "アサルトライフル技能を獲得。 該当武器のダメージ及び命中精度+20％"
+msgstr "アサルトライフル技能を獲得。 該当武器のダメージ+10%、命中精度+20％"
 
 msgctxt "Abilities/KEY_HELPFUL_PERSONALTRACK_NAME"
 msgid "HEALER"
 msgstr "ヒーラー"
 
-#, fuzzy
 #| msgctxt "Abilities/KEY_HELPFUL_PERSONALTRACK_DESC"
 #| msgid "50% bonus healing and +2 Willpower"
 msgctxt "Abilities/KEY_HELPFUL_PERSONALTRACK_DESC"
 msgid "30% bonus healing and +2 Willpower"
-msgstr "回復行動に50％のボーナスがつき、 ウィルパワーが+2される"
+msgstr "回復行動に30％のボーナスがつき、 ウィルパワーが+2される"
 
 msgctxt "Abilities/KEY_PITCHER_PERSONALTRACK_NAME"
 msgid "QUARTERBACK"
 msgstr "クォーターバック"
 
-#, fuzzy
 #| msgctxt "Abilities/KEY_PITCHER_PERSONALTRACK_DESC"
 #| msgid "50% bonus Grenade range and +2 Speed"
 msgctxt "Abilities/KEY_PITCHER_PERSONALTRACK_DESC"
 msgid "25% bonus Grenade range and +2 Speed"
-msgstr "グレネードの投擲範囲に50％のボーナスが付き、 スピードが+2される"
+msgstr "グレネードの投擲範囲に25％のボーナスが付き、 スピードが+2される"
 
 msgctxt "Abilities/KEY_RECKLESS_PERSONALTRACK_NAME"
 msgid "RECKLESS"
 msgstr "レックレス"
 
-#, fuzzy
 #| msgctxt "Abilities/KEY_RECKLESS_PERSONALTRACK_DESC"
 #| msgid "20% bonus damage dealt and -20% accuracy"
 msgctxt "Abilities/KEY_RECKLESS_PERSONALTRACK_DESC"
 msgid "10% bonus damage dealt and -10% accuracy"
-msgstr "与えるダメージに20％のボーナスが付くが、 命中精度が-20％される"
+msgstr "与えるダメージに10％のボーナスが付くが、 命中精度が-10％される"
 
 msgctxt "Abilities/KEY_RESOURCEFULL_PERSONALTRACK_NAME"
 msgid "RESOURCEFUL"
@@ -4709,12 +4705,11 @@ msgctxt "Abilities/KEY_SELFDEFENSESPECIALIST_PERSONALTRACK_NAME"
 msgid "SELF DEFENSE SPECIALIST"
 msgstr "セルフディフェンス・スペシャリスト"
 
-#, fuzzy
 #| msgctxt "Abilities/KEY_SELFDEFENSESPECIALIST_PERSONALTRACK_DESC"
 #| msgid "Gain PDW and Handgun proficiency with +20% damage, +20% accuracy and +10 tiles hearing range"
 msgctxt "Abilities/KEY_SELFDEFENSESPECIALIST_PERSONALTRACK_DESC"
 msgid "Gain PDW and Handgun proficiency with +10% damage, +10% accuracy and +10 tiles hearing range"
-msgstr "PDW及びハンドガン技能を獲得。 該当武器で与えるダメージと命中精度+20%、聴覚範囲+10"
+msgstr "PDW及びハンドガン技能を獲得。 該当武器のダメージと命中精度+10%、聴覚範囲+10"
 
 msgctxt "Abilities/KEY_STRONGMAN_PERSONALTRACK_NAME"
 msgid "STRONGMAN"
