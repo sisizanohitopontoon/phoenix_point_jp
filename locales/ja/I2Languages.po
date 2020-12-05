@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2020-12-05 11:54+0000\n"
+"PO-Revision-Date: 2020-12-05 11:59+0000\n"
 "Last-Translator: higema <ltdhyndsh@yahoo.co.jp>\n"
 "Language-Team: \n"
 "Language: ja\n"
@@ -2933,12 +2933,11 @@ msgctxt "Polaris - New Weapons/KEY_BLAST_RESISTANCE_NAME"
 msgid "Blast resistance"
 msgstr ""
 
-#, fuzzy
 #| msgctxt "Abilities/KEY_VIRUS_RESISTANCE_DESCRIPTION"
 #| msgid "Reduces effect of Virus Damage by half"
 msgctxt "Polaris - New Weapons/KEY_BLAST_RESISTANCE_DESCRIPTION"
 msgid "Reduces effect of Blast Damage by half"
-msgstr "ウイルスダメージの影響が半減する"
+msgstr "爆発ダメージの影響が半減する"
 
 msgctxt "Abilities/KEY_ACID_RESISTANCE_DESCRIPTION"
 msgid "Reduces effect of Acid Damage by half"
@@ -3004,7 +3003,6 @@ msgctxt "Abilities/KEY_ADRENALINE_RUSH_NAME"
 msgid "ADRENALINE RUSH"
 msgstr "アドレナリンラッシュ"
 
-#, fuzzy
 #| msgctxt "DLC2 Necronomicon/KEY_BASE_FACILITY_ARCHAEOLOGYLAB_NAME"
 #| msgid "[null]"
 msgctxt "Abilities/KEY_DEADLY_DUO_DESCRIPTION"
@@ -4631,23 +4629,21 @@ msgctxt "Abilities/KEY_CLOSEQUARTERSSPECIALIST_PERSONALTRACK_NAME"
 msgid "CLOSE QUARTERS SPECIALIST"
 msgstr "クローズクォーターズ・スペシャリスト"
 
-#, fuzzy
 #| msgctxt "Abilities/KEY_CLOSEQUARTERSSPECIALIST_PERSONALTRACK_DISC"
 #| msgid "Gain Shotgun and Melee Weapon proficiency with +20% damage"
 msgctxt "Abilities/KEY_CLOSEQUARTERSSPECIALIST_PERSONALTRACK_DISC"
 msgid "Gain Shotgun proficiency with +20% accuracy and Melee Weapon proficiency with +20% damage"
-msgstr "ショットガンと近接武器の技能を獲得。 該当武器使用時のダメージ+20％"
+msgstr "ショットガンと近接武器の技能を獲得。 さらにショットガン使用時の命中精度が+20%され、 近接武器のダメージが+20%される。"
 
 msgctxt "Abilities/KEY_CRAFTY_PERSONALTRACK_NAME"
 msgid "BOMBARDIER"
 msgstr "ボンバルディア"
 
-#, fuzzy
 #| msgctxt "Abilities/KEY_CRAFTY_PERSONALTRACK_DESC"
 #| msgid "Gain Mounted Weapon proficiency with +20% range and damage"
 msgctxt "Abilities/KEY_CRAFTY_PERSONALTRACK_DESC"
 msgid "Gain mounted weapon proficiency with +20% range and +10% damage"
-msgstr "マウント式ウェポン技能を獲得。 該当武器の射程とダメージ+20％"
+msgstr "マウント式ウェポン技能を獲得。 該当武器の射程+20％、ダメージ+10%。"
 
 msgctxt "Abilities/KEY_FOCUSED_PERSONALTRACK_NAME"
 msgid "SNIPERIST"
