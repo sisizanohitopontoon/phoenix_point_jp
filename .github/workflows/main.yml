@@ -20,5 +20,9 @@ jobs:
           
           使い方
           - 解凍したフォルダの中にある日本語化mod.exeを実行してください
+          
+          注意
+          - 古い日本語化modを使っていた場合日本語化に失敗するときがあります、Phoenix Point\PhoenixPointWin64_Data以下にある
+          「Unity_Assets_Files」ファイルを削除してください
         draft: false
         prerelease: false
