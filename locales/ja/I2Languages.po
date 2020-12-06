@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2020-12-06 12:34+0000\n"
+"PO-Revision-Date: 2020-12-06 12:38+0000\n"
 "Last-Translator: higema <ltdhyndsh@yahoo.co.jp>\n"
 "Language-Team: \n"
 "Language: ja\n"
@@ -8544,12 +8544,11 @@ msgid ""
 "consideration is to gain valuable facilities, such as research labs."
 msgstr ""
 
-#, fuzzy
 #| msgctxt "Abilities/KEY_YUGGOTH_ATTACK_NAME"
 #| msgid "MARK OF THE VOID"
 msgctxt "Geoscape Hints/KEY_GEO_HINT_PHOENIX_PATH_TITLE"
 msgid "PATH OF THE PHOENIX"
-msgstr "マーク・オブ・ザ・ヴォイド"
+msgstr "フェニックスの道筋"
 
 msgctxt "Geoscape Hints/KEY_GEO_HINT_PHOENIX_PATH_DESC"
 msgid ""
@@ -8557,23 +8556,21 @@ msgid ""
 "by cancelling this research. If you are sure that the Phoenix way is best, then continue."
 msgstr ""
 
-#, fuzzy
 #| msgctxt "DLC2 Necronomicon/KEY_TUTORIAL_DLC2_REFINERY_NAME"
 #| msgid "PROCESSING SITES"
 msgctxt "Geoscape Hints/KEY_GEO_HINT_PROCESSING_TITLE"
 msgid "PROCESSING"
-msgstr "精製地点"
+msgstr "精製処理"
 
 msgctxt "Geoscape Hints/KEY_GEO_HINT_PROCESSING_DESC"
 msgid "Exotic resources are worthless unless refined by the correct processing site. You will need to conquer both the processing site and matching resource sites."
 msgstr ""
 
-#, fuzzy
 #| msgctxt "Missions/KEY_MISSION_STEAL_AIRCRAFT_BRIEFING_NAME"
 #| msgid "CAPTURE AIRCRAFT"
 msgctxt "Geoscape Hints/KEY_GEO_HINT_MORE_AIRCRAFT_TITLE"
 msgid "ACQUIRE MORE AIRCRAFT"
-msgstr "航空機を鹵獲する"
+msgstr "より多くの航空機を入手しましょう"
 
 msgctxt "Geoscape Hints/KEY_GEO_HINT_MORE_AIRCRAFT_DESC"
 msgid ""
@@ -8678,7 +8675,6 @@ msgctxt "Phoenixpedia/KEY_PHOENIXPEDIA_GUIDE_SHOCK_NAME"
 msgid "Shock Damage"
 msgstr "ショックダメージ"
 
-#, fuzzy
 #| msgctxt "Phoenixpedia/KEY_PHOENIXPEDIA_GUIDE_SHOCK_DESC"
 #| msgid ""
 #| "Weapons that inflict shock damage can cause a target to become Dazed. The armor of the hit body part is subtracted from the Shock Damage value, and if this is higher than the target's current "
@@ -8690,7 +8686,7 @@ msgid ""
 "General Hit Points, then the target is Dazed.[LF][LF]Dazed characters will have 1 AP for their next turn, and their accuracy will be halved. Additionally, abilities requiring Will Points cannot be "
 "used. They will lose their Dazed status at the end of their turn. Dazed status does not stack, so Shock Damage on an already Dazed character has no further effect."
 msgstr ""
-"ショックダメージを与える武器は、ターゲットを放心状態にする事ができる。ヒットした部位のアーマー値がショックダメージ値から差し引かれ、さらにその値がターゲットの現在全体HPより高ければ、ターゲットは放心状態になる。[LF][LF]放心状態のキャラクターは次ターンまで所持APが1となり、命中精度が半減する。そのキャラクターのターン終了時に放心状態は失われる。放心状態のステータスは累積しないため、既に放心状態に陥ったキャラクターへのショックダメージはそれ以上効果が無い。"
+"ショックダメージを与える武器は、ターゲットを放心状態にする事ができる。ヒットした部位のアーマー値がショックダメージ値から差し引かれ、さらにその値がターゲットの現在全体HPより高ければ、ターゲットは放心状態になる。[LF][LF]放心状態のキャラクターは次ターンまで所持APが1となり、命中精度が半減する。さらにウィルポイントを必要とするアビリティを使用できなくなる。放心状態はそのキャラクターのターン終了時に失われる。このステータスは累積しないため、既に放心状態に陥っているキャラクターへのショックダメージはそれ以上効果が無い。"
 
 msgctxt "Phoenixpedia/KEY_PHOENIXPEDIA_GUIDE_POISON_NAME"
 msgid "Poison Damage"
@@ -8850,7 +8846,6 @@ msgctxt "Phoenixpedia/KEY_PHOENIXPEDIA_GUIDE_SEARCH"
 msgid "Type here to search"
 msgstr "ここに入力して検索"
 
-#, fuzzy
 #| msgctxt "Equipping Screen/KEY_STAT_ENCUMBERANCE"
 #| msgid "ENCUMBRANCE"
 msgctxt "General Tactical Hints/KEY_TAC_HINT_STATUS_ENCUMBRANCE_NAME"
