@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2020-12-06 13:09+0000\n"
+"PO-Revision-Date: 2020-12-06 13:14+0000\n"
 "Last-Translator: higema <ltdhyndsh@yahoo.co.jp>\n"
 "Language-Team: \n"
 "Language: ja\n"
@@ -9187,7 +9187,7 @@ msgstr ""
 
 msgctxt "General Tactical Hints/KEY_TAC_HINT_ENEMY_SPECIAL_REGENERATE_NAME"
 msgid "PANDORAN SUPPLEMENTAL - REGENERATION"
-msgstr ""
+msgstr "パンドラン付属能 - リジェネレーション"
 
 msgctxt "General Tactical Hints/KEY_TAC_HINT_ENEMY_SPECIAL_REGENERATE_DESCRIPTION"
 msgid "Regeneration allows Pandorans to restore Hit Points every turn. This ability can be removed by disabling regenerative body parts."
@@ -9195,7 +9195,7 @@ msgstr ""
 
 msgctxt "General Tactical Hints/KEY_TAC_HINT_ENEMY_SPECIAL_SYPHON_NAME"
 msgid "PANDORAN SUPPLEMENTAL - SYPHON"
-msgstr ""
+msgstr "パンドラン付属能 - 吸血"
 
 msgctxt "General Tactical Hints/KEY_TAC_HINT_ENEMY_SPECIAL_SYPHON_DESCRIPTION"
 msgid "Pandorans capable of syphon attacks restore their own Hit Points while dealing damage."
@@ -9203,7 +9203,7 @@ msgstr ""
 
 msgctxt "General Tactical Hints/KEY_TAC_HINT_ENEMY_SPECIAL_PARALYZE_NAME"
 msgid "PANDORAN SUPPLEMENTAL - PARALYZING"
-msgstr ""
+msgstr "パンドラン付属能 - 麻痺付与"
 
 msgctxt "General Tactical Hints/KEY_TAC_HINT_ENEMY_SPECIAL_PARALYZE_DESCRIPTION"
 msgid ""
@@ -9213,7 +9213,7 @@ msgstr ""
 
 msgctxt "General Tactical Hints/KEY_TAC_HINT_ENEMY_SPECIAL_PIERCING_NAME"
 msgid "PANDORAN SUPPLEMENTAL - PIERCING"
-msgstr ""
+msgstr "パンドラン付属能 - 貫通"
 
 msgctxt "General Tactical Hints/KEY_TAC_HINT_ENEMY_SPECIAL_PIERCING_DESCRIPTION"
 msgid "Tritons have obtained Piercing mutations, which renders armor ineffective."
@@ -9221,7 +9221,7 @@ msgstr ""
 
 msgctxt "General Tactical Hints/KEY_TAC_HINT_ENEMY_SPECIAL_MINDCONTROL_NAME"
 msgid "PANDORAN SUPPLEMENTAL - MIND CONTROL"
-msgstr ""
+msgstr "パンドラン付属能 - マインドコントロール"
 
 msgctxt "General Tactical Hints/KEY_TAC_HINT_ENEMY_SPECIAL_MINDCONTROL_DESCRIPTION"
 msgid "Psychic Sirens have the ability to Mind Control units with low Will Points. Disable their head to remove mind control."
@@ -9229,18 +9229,17 @@ msgstr ""
 
 msgctxt "General Tactical Hints/KEY_TAC_HINT_ENEMY_SPECIAL_ACIDSPIT_NAME"
 msgid "PANDORAN SUPPLEMENTAL - ACID SPITTING"
-msgstr ""
+msgstr "パンドラン付属能 - 酸吐き"
 
 msgctxt "General Tactical Hints/KEY_TAC_HINT_ENEMY_SPECIAL_ACIDSPIT_DESCRIPTION"
 msgid "Sirens have evolved to eject Acid from their torso at short distances."
 msgstr ""
 
-#, fuzzy
 #| msgctxt "Geoscape/KEY_ALIEN_BASE_PALACE"
 #| msgid "PANDORAN PALACE"
 msgctxt "General Tactical Hints/KEY_TAC_HINT_ENEMY_SPECIAL_GUNLAUNCHER_NAME"
 msgid "PANDORAN SUPPLEMENTAL - LAUNCHER"
-msgstr "パンドラン・パレス"
+msgstr "パンドラン付属能 - ランチャー"
 
 msgctxt "General Tactical Hints/KEY_TAC_HINT_ENEMY_SPECIAL_GUNLAUNCHER_DESCRIPTION"
 msgid "New Scyllas have integrated massive cannons in their limbs providing powerful ranged attack capability."
@@ -9248,7 +9247,7 @@ msgstr ""
 
 msgctxt "General Tactical Hints/KEY_TAC_HINT_ENEMY_SPECIAL_GOOLAUNCHER_NAME"
 msgid "PANDORAN SUPPLEMENTAL - GOO"
-msgstr ""
+msgstr "パンドラン付属能 - 粘液"
 
 msgctxt "General Tactical Hints/KEY_TAC_HINT_ENEMY_SPECIAL_GOOLAUNCHER_DESCRIPTION"
 msgid "Goo launching Chirons won't deal damage, but will immobilize any soldier they hit for a short while."
@@ -9256,57 +9255,52 @@ msgstr ""
 
 msgctxt "General Tactical Hints/KEY_TAC_HINT_ENEMY_SPECIAL_MORTAR_NAME"
 msgid "PANDORAN SUPPLEMENTAL - MORTAR"
-msgstr ""
+msgstr "パンドラン付属能 - 迫撃"
 
 msgctxt "General Tactical Hints/KEY_TAC_HINT_ENEMY_SPECIAL_MORTAR_DESCRIPTION"
 msgid "Mortar Chirons are capable of mass destruction at large distances. Take cover inside structures where you can."
 msgstr ""
 
-#, fuzzy
 #| msgctxt "Characters and classes/KEY_CLASS_FILTER"
 #| msgid "CLASS FILTER"
 msgctxt "General Tactical Hints/KEY_TAC_HINT_CLASS_PRIEST_NAME"
 msgid "CLASS - PRIEST"
-msgstr "クラスフィルター"
+msgstr "クラス - プリースト"
 
 msgctxt "General Tactical Hints/KEY_TAC_HINT_CLASS_PRIEST_DESCRIPTION"
 msgid "Priests are elite Disciples of Anu warriors capable of manipulating the Pandoravirus mist granting them almost supernatural abilities."
 msgstr ""
 
-#, fuzzy
 #| msgctxt "Characters and classes/KEY_CLASS_BERSERKER_NAME"
 #| msgid "BERSERKER"
 msgctxt "General Tactical Hints/KEY_TAC_HINT_CLASS_BERSERKER_NAME"
 msgid "CLASS - BERSERKER"
-msgstr "バーサーカー"
+msgstr "クラス - バーサーカー"
 
 msgctxt "General Tactical Hints/KEY_TAC_HINT_CLASS_BERSERKER_DESCRIPTION"
 msgid "Berserkers are vicious melee oriented warriors that are capable of using their pain to gain an advantage in battle."
 msgstr ""
 
-#, fuzzy
 #| msgctxt "Characters and classes/KEY_CLASS_TECHNICIAN_NAME"
 #| msgid "TECHNICIAN"
 msgctxt "General Tactical Hints/KEY_TAC_HINT_CLASS_TECHNICIAN_NAME"
 msgid "CLASS - TECHNICIAN"
-msgstr "テクニシャン"
+msgstr "クラス - テクニシャン"
 
 msgctxt "General Tactical Hints/KEY_TAC_HINT_CLASS_TECHNICIAN_DESCRIPTION"
 msgid "Technicians are advance New Jericho soldiers that use neurally controlled arms to repair, heal, or stun. They also deploy and control automated gun turrets."
 msgstr ""
 
-#, fuzzy
 #| msgctxt "Characters and classes/KEY_CLASS_INFILTRATOR_NAME"
 #| msgid "INFILTRATOR"
 msgctxt "General Tactical Hints/KEY_TAC_HINT_CLASS_INFILTRATOR_NAME"
 msgid "CLASS - INFILTRATOR"
-msgstr "インフィルトレイター"
+msgstr "クラス - インフィルトレイター"
 
 msgctxt "General Tactical Hints/KEY_TAC_HINT_CLASS_INFILTRATOR_DESCRIPTION"
 msgid "Infiltrators are Synedrion commandos trained for covert missions. They are specialists of stealth and sabotage."
 msgstr ""
 
-#, fuzzy
 #| msgctxt "Damage types/KEY_DAMAGE_TYPE_STANDARD"
 #| msgid "DAMAGE"
 msgctxt "General Tactical Hints/KEY_TAC_HINT_DAMAGE_STANDARD_NAME"
@@ -9317,23 +9311,21 @@ msgctxt "General Tactical Hints/KEY_TAC_HINT_DAMAGE_STANDARD_DESCRIPTION"
 msgid "Standard damage reduces enemy Hit Points. The amount of damage is reduced by the armor value of the body part that was hit. Use FREE AIM to target less protected parts of the enemy body."
 msgstr ""
 
-#, fuzzy
 #| msgctxt "Damage types/KEY_DAMAGE_TYPE_STANDARD"
 #| msgid "DAMAGE"
 msgctxt "General Tactical Hints/KEY_TAC_HINT_DAMAGE_BLAST_NAME"
 msgid "BLAST DAMAGE"
-msgstr "ダメージ"
+msgstr "爆発ダメージ"
 
 msgctxt "General Tactical Hints/KEY_TAC_HINT_DAMAGE_BLAST_DESCRIPTION"
 msgid "Blast damage is applied to every individual body part of all targets caught in the blast, which can be devastating. It is also quite good at shredding armor from multiple body parts."
 msgstr ""
 
-#, fuzzy
 #| msgctxt "Damage types/KEY_DAMAGE_TYPE_STANDARD"
 #| msgid "DAMAGE"
 msgctxt "General Tactical Hints/KEY_TAC_HINT_DAMAGE_SHOCK_NAME"
 msgid "SHOCK DAMAGE"
-msgstr "ダメージ"
+msgstr "ショックダメージ"
 
 msgctxt "General Tactical Hints/KEY_TAC_HINT_DAMAGE_SHOCK_DESCRIPTION"
 msgid ""
@@ -9341,23 +9333,21 @@ msgid ""
 "of the target."
 msgstr ""
 
-#, fuzzy
 #| msgctxt "Abilities/KEY_MUTOG_TONGUELASH_NAME"
 #| msgid "POISON TONGUE"
 msgctxt "General Tactical Hints/KEY_TAC_HINT_DAMAGE_POISON_NAME"
 msgid "POISON DAMAGE"
-msgstr "毒の舌"
+msgstr "毒ダメージ"
 
 msgctxt "General Tactical Hints/KEY_TAC_HINT_DAMAGE_POISON_DESCRIPTION"
 msgid "Poison damage reduces the target's Hit Points by the poison damage value each turn. The poison value is reduced by 10 every turn, but it will also accumulate if more poison damage is dealt."
 msgstr ""
 
-#, fuzzy
 #| msgctxt "Damage types/KEY_DAMAGE_TYPE_STANDARD"
 #| msgid "DAMAGE"
 msgctxt "General Tactical Hints/KEY_TAC_HINT_DAMAGE_ACID_NAME"
 msgid "ACID DAMAGE"
-msgstr "ダメージ"
+msgstr "酸ダメージ"
 
 msgctxt "General Tactical Hints/KEY_TAC_HINT_DAMAGE_ACID_DESCRIPTION"
 msgid ""
@@ -9365,12 +9355,11 @@ msgid ""
 " 10 every turn, but will accumulate if further acid attacks are dealt."
 msgstr ""
 
-#, fuzzy
 #| msgctxt "Damage types/KEY_DAMAGE_TYPE_PARALYSIS"
 #| msgid "PARALYSIS"
 msgctxt "General Tactical Hints/KEY_TAC_HINT_DAMAGE_PARALYZE_NAME"
 msgid "PARALYSIS DAMAGE"
-msgstr "麻痺"
+msgstr "麻痺ダメージ"
 
 msgctxt "General Tactical Hints/KEY_TAC_HINT_DAMAGE_PARALYZE_DESCRIPTION"
 msgid ""
@@ -9378,12 +9367,11 @@ msgid ""
 "is reduced by 1 each turn, but will accumulate if further paralysis damage is dealt."
 msgstr ""
 
-#, fuzzy
 #| msgctxt "Damage types/KEY_DAMAGE_TYPE_STANDARD"
 #| msgid "DAMAGE"
 msgctxt "General Tactical Hints/KEY_TAC_HINT_DAMAGE_VIRUS_NAME"
 msgid "VIRUS DAMAGE"
-msgstr "ダメージ"
+msgstr "ウィルスダメージ"
 
 msgctxt "General Tactical Hints/KEY_TAC_HINT_DAMAGE_VIRUS_DESCRIPTION"
 msgid ""
