@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2020-12-06 09:11+0000\n"
+"PO-Revision-Date: 2020-12-06 09:18+0000\n"
 "Last-Translator: higema <ltdhyndsh@yahoo.co.jp>\n"
 "Language-Team: \n"
 "Language: ja\n"
@@ -1654,7 +1654,7 @@ msgstr "研究結果からすると、 古代人達は施設を用いてミュ�
 
 msgctxt "DLC2 Necronomicon/KEY_LA_THIRD_SCENE3-2"
 msgid "transforming it into a liquid compound to be merged with alloys."
-msgstr "それを合金に混ぜ合わせるための 液体化合物に変換していたようだ。"
+msgstr "それを合金に混ぜ合わせるための液体化合物に変換していたようだ。"
 
 msgctxt "DLC2 Necronomicon/KEY_LA_THIRD_SCENE3-3"
 msgid "I still have no idea what its original purpose was,"
@@ -7686,21 +7686,19 @@ msgctxt "Tutorial 2 to 4/KEY_TUT2_MEDKIT_NAME"
 msgid "Medkit"
 msgstr "メディキット"
 
-#, fuzzy
 #| msgctxt "Tutorial 2 to 4/KEY_TUT2_MEDKIT_DESCRIPTION"
 #| msgid "MEDKITS are powerful tools that can RESTORE HIT POINTS, disabled Limbs and remove Status effects such as Bleeding. [LF][LF]A soldier can use a Medkit on themselves, or an ALLY."
 msgctxt "Tutorial 2 to 4/KEY_TUT2_MEDKIT_DESCRIPTION"
 msgid ""
 "MEDKITS are powerful tools that can RESTORE HIT POINTS and remove status effects like Bleeding and Poison. [LF][LF]1. Move next to a friendly soldier[LF]2. Select the USE MEDKIT (:MEDKIT:) "
 "action[LF]3. Select a target to heal"
-msgstr "メディキットはヒットポイントを回復させ、さらに出血などのステータス効果を除去する強力なツールです。[LF][LF]兵士は自分自身や味方に対してメディキットを使用することができます。"
+msgstr "メディキットはヒットポイントを回復させ、さらに出血や毒といったステータス効果を除去することができる強力なツールです。[LF][LF]1. 味方兵士の隣に移動[LF]2.メディキット使用 (:MEDKIT:) アクションを選択[LF]3. 治療するターゲットを選択"
 
-#, fuzzy
 #| msgctxt "Tutorial 2 to 4/KEY_TUT2_HEL_CANNON_NAME"
 #| msgid "Tactical Tip: Hel II Cannon"
 msgctxt "Tutorial 2 to 4/KEY_TUT2_HEL_CANNON_NAME"
 msgid "Tactical Tip: Tyr-1 Autocannon"
-msgstr "戦闘Tip: ヘルIIキャノン"
+msgstr "戦闘Tip: テュール-1 オートキャノン"
 
 #, fuzzy
 #| msgctxt "Tutorial 2 to 4/KEY_TUT2_HEL_CANNON_DESCRIPTION"
