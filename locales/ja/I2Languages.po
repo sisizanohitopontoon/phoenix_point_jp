@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2020-12-06 08:00+0000\n"
+"PO-Revision-Date: 2020-12-06 08:04+0000\n"
 "Last-Translator: higema <ltdhyndsh@yahoo.co.jp>\n"
 "Language-Team: \n"
 "Language: ja\n"
@@ -7487,26 +7487,23 @@ msgctxt "Tutorial 2 to 4/KEY_TUT2_4AP_NAME"
 msgid "4 Action Point System"
 msgstr "4アクションポイントシステム"
 
-#, fuzzy
 #| msgctxt "Tutorial 2 to 4/KEY_TUT2_4AP_DESCRIPTION"
 #| msgid ""
 #| "Soldiers have 4 ACTION POINTS (APs) to use for shooting, other actions, and movement each turn. [LF][LF]A soldier can move a number of tiles for each Action Point, depending on their speed."
 msgctxt "Tutorial 2 to 4/KEY_TUT2_4AP_DESCRIPTION"
 msgid "Soldiers have 4 ACTION POINTS (APs) to use for movement, shooting and other actions each turn. [LF][LF]These actions can be performed in any order. [LF]"
-msgstr "兵士はターンごとに4のアクションポイント(APs)を所持しており、それを射撃や移動、その他アクションに用います。[LF][LF]兵士はアクションポイントごとに、スピードに応じた数のタイルを移動することができます。"
+msgstr "兵士はターンごとに4のアクションポイント(APs)を所持しており、それを射撃や移動またはその他の行動に用います。[LF][LF]これらの行動は好きな順序で行えます。[LF]"
 
-#, fuzzy
 #| msgctxt "Tactical/KEY_MESSAGE_NOT_ENOUGH_AP"
 #| msgid "Not enough Action Points"
 msgctxt "Tutorial 2 to 4/KEY_TUT2_MOVEMENTZONES_NAME"
 msgid "Movement аnd Action Points"
-msgstr "アクション ポイントが足りない"
+msgstr "移動とアクションポイント"
 
 msgctxt "Tutorial 2 to 4/KEY_TUT2_MOVEMENTZONES_DESCRIPTION"
 msgid "A soldier can spend 1 AP to move a number of tiles based on their SPEED.[LF][LF]The FOUR HIGHLIGHTED ZONES show you how far a soldier could go for each AP spent on movement."
 msgstr ""
 
-#, fuzzy
 #| msgctxt "Tutorial 2 to 4/TUT2_REALISTICBALLISTICS_NAME"
 #| msgid "Realistic Ballistics"
 msgctxt "Tutorial 2 to 4/KEY_TUT2_REALISTICBALLISTICS_NAME"
