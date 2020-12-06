@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2020-12-06 11:21+0000\n"
+"PO-Revision-Date: 2020-12-06 11:29+0000\n"
 "Last-Translator: higema <ltdhyndsh@yahoo.co.jp>\n"
 "Language-Team: \n"
 "Language: ja\n"
@@ -7847,7 +7847,6 @@ msgctxt "Tutorial 2 to 4/KEY_TUT2_DAZED_NAME"
 msgid "Daze"
 msgstr "放心"
 
-#, fuzzy
 #| msgctxt "Tutorial 2 to 4/KEY_TUT2_DAZED_DESCRIPTION"
 #| msgid ""
 #| "This unit has the DAZED status effect. [LF]It will have only 1 AP to use in its next trun, then it will go back to normal.[LF][LF]Units get dazed when they take a lot of SHOCK DAMAGE from melee "
@@ -7856,14 +7855,13 @@ msgctxt "Tutorial 2 to 4/KEY_TUT2_DAZED_DESCRIPTION"
 msgid ""
 "This character is DAZED (:DAZED:) [LF]They will only have 1 AP and 50% accuracy for one turn, then return to normal.[LF]Soldiers get dazed when they take a lot of SHOCK DAMAGE from melee attacks or "
 "heavy weapons."
-msgstr "このユニットには放心のステータス効果が付いています。[LF]放心になったユニットは次のターンのAPが1のみとなり、それ以降は通常に戻ります。[LF]ユニットが近接武器やヘビーウェポンなどで大きなショックダメージを受けると、そのユニットは放心状態になります。"
+msgstr "このキャラクターは放心(:DAZED:)しています。[LF]放心状態のキャラクターは1ターンのあいだAPが1のみとなり命中精度が半減し、その後通常に戻ります。[LF]近接攻撃やヘビーウェポンなどで大きなショックダメージを受けると、兵士は放心状態になります。"
 
-#, fuzzy
 #| msgctxt "Tutorial 2 to 4/KEY_TUT2_4AP_NAME"
 #| msgid "4 Action Point System"
 msgctxt "Tutorial 2 to 4/KEY_TUT2_OPENCRATE_NAME"
 msgid "Action Points Restored"
-msgstr "4アクションポイントシステム"
+msgstr "アクションポイント回復"
 
 msgctxt "Tutorial 2 to 4/KEY_TUT2_OPENCRATE_DESCRIPTION_K"
 msgid "You now have enough Action Points to TAKE ITEMS FROM THE CRATE.[LF]While standing next to it, select Inventory from the action bar or press [<color=#ECBA62>{[SetInventoryAbility]}</color>]."
@@ -7873,23 +7871,21 @@ msgctxt "Tutorial 2 to 4/KEY_TUT2_OPENCRATE_DESCRIPTION_C"
 msgid "You now have enough Action Points to OPEN THE CRATE.[LF]Select Inventory from the action bar or press <size=60>:DLEFT:</size>"
 msgstr ""
 
-#, fuzzy
 #| msgctxt "Tutorial/KEY_TUTORIAL_TACTICAL2_OVERWATCH_NAME"
 #| msgid "Overwatch"
 msgctxt "Tutorial 2 to 4/KEY_TUT2_ENEMYOVERWATCH_NAME"
 msgid "Overwatching Enemy"
-msgstr "監視"
+msgstr "監視中の敵"
 
 msgctxt "Tutorial 2 to 4/KEY_TUT2_ENEMYOVERWATCH_DESCRIPTION"
 msgid "This bandit has set Overwatch. He will shoot at any Phoenix soldier who ENTERS HIS OVERWATCH CONE.[LF][LF]Don't allow this to happen!"
 msgstr ""
 
-#, fuzzy
 #| msgctxt "Tactical/KEY_MESSAGE_NOT_DISABLED"
 #| msgid "Not disabled"
 msgctxt "Tutorial 2 to 4/KEY_TUT2_ARMDISABLED_NAME"
 msgid "Arm Disabled"
-msgstr "使用不能ではない"
+msgstr "腕の使用不能化"
 
 msgctxt "Tutorial 2 to 4/KEY_TUT2_ARMDISABLED_DESCRIPTION"
 msgid ""
@@ -7897,12 +7893,11 @@ msgid ""
 "weapon, get one from a crate or a nearby ally."
 msgstr ""
 
-#, fuzzy
 #| msgctxt "Tutorial/KEY_TUTORIAL_TACTICAL1_SPOTTING_NAME"
 #| msgid "Spotting Enemies"
 msgctxt "Tutorial 2 to 4/KEY_TUT2_SPOTTEDENEMIES_NAME"
 msgid "Spotted Enemies"
-msgstr "敵の発見"
+msgstr "発見済みの敵"
 
 msgctxt "Tutorial 2 to 4/KEY_TUT2_SPOTTEDENEMIES_DESCRIPTION_K"
 msgid "All allies and spotted enemies will appear as icons above the action bar. You can HOVER OR CLICK THOSE ICONS to target a specific character."
@@ -7914,18 +7909,16 @@ msgid ""
 " specific character."
 msgstr ""
 
-#, fuzzy
 #| msgctxt "Tutorial 1 (Polaris)/KEY_TUT_SCARAB_NAME"
 #| msgid "PX Scarab"
 msgctxt "Tutorial 2 to 4/KEY_TUT2_EXITSCARAB_NAME"
 msgid "Exit Scarab"
-msgstr "PXスカラベ"
+msgstr "スカラベを降りる"
 
 msgctxt "Tutorial 2 to 4/KEY_TUT2_EXITSCARAB_DESCRIPTION"
 msgid "You can exit the Scarab at any point by selecting the :EXITVEHICLE: option from the ACTION BAR. [LF]"
 msgstr ""
 
-#, fuzzy
 #| msgctxt "Tutorial 1 (Polaris)/KEY_TUT_ASSAULT_FEMALE"
 #| msgid "Sophia Brown"
 msgctxt "Tutorial 2 to 4/KEY_TUT2_STORY2_NAME"
