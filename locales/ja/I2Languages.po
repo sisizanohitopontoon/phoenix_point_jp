@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2020-12-06 13:25+0000\n"
+"PO-Revision-Date: 2020-12-06 13:29+0000\n"
 "Last-Translator: higema <ltdhyndsh@yahoo.co.jp>\n"
 "Language-Team: \n"
 "Language: ja\n"
@@ -9525,65 +9525,58 @@ msgctxt "General Tactical Hints/KEY_TAC_HINT_MISSION_SCAVENGING_SOLDIERS_DESCRIP
 msgid "Locate and reach the soldiers as fast as you can, then evacuate with them. Vehicles, the DASH ability and jet jump will aid you."
 msgstr ""
 
-#, fuzzy
 #| msgctxt "Game Over/KEY_MISSION_TYPE_SCAVENGING"
 #| msgid "SCAVENGING MISSIONS"
 msgctxt "General Tactical Hints/KEY_TAC_HINT_MISSION_SCAVENGING_VEHICLES_NAME"
 msgid "SCAVENGING VEHICLE MISSION"
-msgstr "スカベンジ ミッション"
+msgstr "スカベンジ車両ミッション"
 
-#, fuzzy
 #| msgctxt "Danforth/KEY_MISSION_RECOVER_VEHICLE_BRIEFING_DESC"
 #| msgid "Take control of the vehicle located somewhere in the site and evacuate with it"
 msgctxt "General Tactical Hints/KEY_TAC_HINT_MISSION_SCAVENGING_VEHICLES_DESCRIPTION"
 msgid "Locate and reach the vehicle as fast as you can, then evacuate with it."
-msgstr "この場所のどこかに位置する車両のコントロールを確保し、車両を連れて退避する"
+msgstr "出来るだけ早く車両を見つけてたどり着き、その後は車両を連れて退避してください。"
 
-#, fuzzy
 #| msgctxt "Missions/KEY_MISSION_START_MISSION"
 #| msgid "START MISSION"
 msgctxt "General Tactical Hints/KEY_TAC_HINT_MISSION_AMBUSH_NAME"
 msgid "AMBUSH MISSION"
-msgstr "ミッション開始"
+msgstr "奇襲ミッション"
 
 msgctxt "General Tactical Hints/KEY_TAC_HINT_MISSION_AMBUSH_DESCRIPTION"
 msgid "You must survive 3 turns before the evacuation zone is revealed. It could be anywhere, so try to keep your squad together in a central location if possible."
 msgstr ""
 
-#, fuzzy
 #| msgctxt "Game Over/KEY_MISSION_TYPE_HAVEN_DEFENSE"
 #| msgid "HAVEN DEFENSE MISSIONS"
 msgctxt "General Tactical Hints/KEY_TAC_HINT_MISSION_HAVENDEFENSE_CIVILIANS_NAME"
 msgid "HAVEN DEFENSE MISSION - CIVILIAN RESCUE"
-msgstr "ヘイヴン防衛 ミッション"
+msgstr "ヘイヴン防衛ミッション - 民間人救出"
 
 msgctxt "General Tactical Hints/KEY_TAC_HINT_MISSION_HAVENDEFENSE_CIVILIANS_DESCRIPTION"
 msgid "Defeat all enemy forces, while ensuring that the civilians remain alive. Moving next to a civilian will allow you to control them and evacuate them from the battlefield."
 msgstr ""
 
-#, fuzzy
 #| msgctxt "Game Over/KEY_MISSION_TYPE_HAVEN_DEFENSE"
 #| msgid "HAVEN DEFENSE MISSIONS"
 msgctxt "General Tactical Hints/KEY_TAC_HINT_MISSION_HAVENDEFENSE_STRUCTURES_NAME"
 msgid "HAVEN DEFENSE MISSION - STRUCTURE DEFENSE"
-msgstr "ヘイヴン防衛 ミッション"
+msgstr "ヘイヴン防衛ミッション - 構造物防衛"
 
 msgctxt "General Tactical Hints/KEY_TAC_HINT_MISSION_HAVENDEFENSE_STRUCTURES_DESCRIPTION"
 msgid "Defeat all enemy forces before they damage the key structures of the Haven. You can take control of haven defenders by moving next to them, if you wish."
 msgstr ""
 
-#, fuzzy
 #| msgctxt "Game Over/KEY_MISSION_TYPE_HAVEN_DEFENSE"
 #| msgid "HAVEN DEFENSE MISSIONS"
 msgctxt "General Tactical Hints/KEY_TAC_HINT_MISSION_BASEDEFENSE_NAME"
 msgid "BASE DEFENSE MISSION"
-msgstr "ヘイヴン防衛 ミッション"
+msgstr "基地防衛ミッション"
 
 msgctxt "General Tactical Hints/KEY_TAC_HINT_MISSION_BASEDEFENSE_DESCRIPTION"
 msgid "Eliminate all invaders as quickly as possible, while preventing them from damaging or destroying base facilities."
 msgstr ""
 
-#, fuzzy
 #| msgctxt "Game Over/KEY_MISSION_TYPE_NEST"
 #| msgid "PANDORAN NEST MISSIONS"
 msgctxt "General Tactical Hints/KEY_TAC_HINT_MISSION_PANDORAN_NEST_NAME"
@@ -9596,7 +9589,6 @@ msgid ""
 "your squad too much. Vehicles can be effective in nests."
 msgstr ""
 
-#, fuzzy
 #| msgctxt "Game Over/KEY_MISSION_TYPE_LAIR"
 #| msgid "PANDORAN LAIR MISSIONS"
 msgctxt "General Tactical Hints/KEY_TAC_HINT_MISSION_PANDORAN_LAIR_NAME"
@@ -9607,7 +9599,6 @@ msgctxt "General Tactical Hints/KEY_TAC_HINT_MISSION_PANDORAN_LAIR_DESCRIPTION"
 msgid "Locate and kill the Pandoran Spawnery hidden in the Lair, then evacuate your squad. Pandoran reinforcements will continuously appear at the reinforcement zones, so move quickly."
 msgstr ""
 
-#, fuzzy
 #| msgctxt "Game Over/KEY_MISSION_TYPE_CITADEL"
 #| msgid "PANDORAN CITADEL MISSIONS"
 msgctxt "General Tactical Hints/KEY_TAC_HINT_MISSION_PANDORAN_CITADEL_NAME"
@@ -9618,48 +9609,43 @@ msgctxt "General Tactical Hints/KEY_TAC_HINT_MISSION_PANDORAN_CITADEL_DESCRIPTIO
 msgid "Fight your way to the Scylla controlling the citadel and kill it, then evacuate your squad. Continuous enemy reinforcements mean that you need to move quickly."
 msgstr ""
 
-#, fuzzy
 #| msgctxt "Missions/KEY_MISSION_SABOTAGE_MISSIONARY_BRIEFING_NAME"
 #| msgid "SABOTAGE MISSIONARY CENTER"
 msgctxt "General Tactical Hints/KEY_TAC_HINT_MISSION_SABOTAGE_NAME"
 msgid "SABOTAGE MISSION"
-msgstr "伝道センターを破壊工作する"
+msgstr "破壊工作ミッション"
 
 msgctxt "General Tactical Hints/KEY_TAC_HINT_MISSION_SABOTAGE_DESCRIPTION"
 msgid "Destroy all of the key structures in this zone. You will need to be quick, because enemy reinforcements will continuously arrive."
 msgstr ""
 
-#, fuzzy
 #| msgctxt "Game Over/KEY_MISSION_TYPE_STEAL_RESOURCES"
 #| msgid "STEAL RESOURCES MISSIONS"
 msgctxt "General Tactical Hints/KEY_TAC_HINT_MISSION_STEAL_RESOURCES_NAME"
 msgid "STEAL RESOURCES MISSION"
-msgstr "資源強奪 ミッション"
+msgstr "資源強奪ミッション"
 
-#, fuzzy
 #| msgctxt "Missions/KEY_MISSION_STEAL_AIRCRAFT_BRIEFING_DESC"
 #| msgid "Reach the aircraft to activate it and evacuate your squad."
 msgctxt "General Tactical Hints/KEY_TAC_HINT_MISSION_STEAL_RESOURCES_DESCRIPTION"
 msgid "Collect the resource packs from the crates, then evacuate your squad."
-msgstr "航空機にたどり着いて起動し、部隊を退避させる。"
+msgstr "箱から資源パックを回収し、その後は部隊を退避させてください。"
 
-#, fuzzy
 #| msgctxt "Game Over/KEY_MISSION_TYPE_STEAL_RESEARCH"
 #| msgid "STEAL RESEARCH MISSIONS"
 msgctxt "General Tactical Hints/KEY_TAC_HINT_MISSION_STEAL_RESEARCH_NAME"
 msgid "STEAL RESEARCH MISSION"
-msgstr "研究強奪 ミッション "
+msgstr "研究強奪ミッション"
 
 msgctxt "General Tactical Hints/KEY_TAC_HINT_MISSION_STEAL_RESEARCH_DESCRIPTION"
 msgid "Get a soldier to the terminals, and activate the OBJECTIVE ability to collect any available research."
 msgstr ""
 
-#, fuzzy
 #| msgctxt "Game Over/KEY_MISSION_TYPE_STEAL_AIRCRAFT"
 #| msgid "STEAL AIRCRAFT MISSIONS"
 msgctxt "General Tactical Hints/KEY_TAC_HINT_MISSION_STEAL_AIRCRAFT_NAME"
 msgid "STEAL AIRCRAFT MISSION"
-msgstr "航空機鹵獲 ミッション"
+msgstr "航空機鹵獲ミッション"
 
 msgctxt "General Tactical Hints/KEY_TAC_HINT_MISSION_STEAL_AIRCRAFT_DESCRIPTION"
 msgid "Get a soldier to the objective marker near the aircraft and activate the OBJECTIVE ability. Hold out for a few turns, then the aircraft will be stolen."
