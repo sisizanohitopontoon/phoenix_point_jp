@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2020-12-06 12:01+0000\n"
+"PO-Revision-Date: 2020-12-06 12:09+0000\n"
 "Last-Translator: higema <ltdhyndsh@yahoo.co.jp>\n"
 "Language-Team: \n"
 "Language: ja\n"
@@ -8170,14 +8170,13 @@ msgctxt "Tutorial 2 to 4/KEY_TUT3_BASH_NAME"
 msgid "Tactical Tip: Bash"
 msgstr "戦闘Tip: バッシュ"
 
-#, fuzzy
 #| msgctxt "Tutorial 2 to 4/KEY_TUT2_BASH_DESCRIPTION"
 #| msgid "When your soldier is next to an enemy, you can perform the BASH melee attack. [LF][LF]It only costs 1 Action Point, so you can usually Bash an enemy MULTIPLE TIMES in the same turn."
 msgctxt "Tutorial 2 to 4/KEY_TUT3_BASH_DESCRIPTION"
 msgid ""
 "When your soldier is next to an enemy, you can perform the BASH (:BASH:) melee attack. [LF][LF]It only costs 1 Action Point, so you can usually Bash an enemy multiple times in the same "
 "turn.[LF][LF]If you're bashing a MINDFRAGGED SOLDIER, make sure you target the creature!"
-msgstr "兵士が敵と隣り合っている場合、バッシュの近接攻撃を行うことが可能です。[LF][LF]バッシュは1アクションポイントしか消費しません。なので一体の敵に対し複数回のバッシュを行えることが多々あります。"
+msgstr "兵士が敵と隣り合っている場合、バッシュの近接攻撃を行うことが可能です。[LF][LF]バッシュはアクションポイントを1しか消費しないので、同一ターン内に複数回のバッシュを敵に対し行えることが多々あります。[LF][LF]マインドフラッガーに取り付かれた兵士にバッシュを仕掛ける場合、マインドフラッガーがターゲットになっていることをしっかり確認しましょう!"
 
 msgctxt "Tutorial 2 to 4/KEY_TUT_ASSAULT3_MALE"
 msgid "Takeshi Sato"
@@ -8191,12 +8190,11 @@ msgctxt "Tutorial 2 to 4/KEY_TUT2_BANDIT"
 msgid "Bandit"
 msgstr ""
 
-#, fuzzy
 #| msgctxt "Tutorial 2 to 4/KEY_TUT2_WILLPOINTS_NAME"
 #| msgid "Will Points"
 msgctxt "Tutorial 2 to 4/KEY_TUT4_WILLPOINTZONE_NAME"
 msgid "Will Point Zones"
-msgstr "ウィルポイント"
+msgstr "ウィルポイントゾーン"
 
 msgctxt "Tutorial 2 to 4/KEY_TUT4_WILLPOINTZONE_DESCRIPTION"
 msgid ""
@@ -8204,7 +8202,6 @@ msgid ""
 "mind that will points cannot exceed a soldier's maximum Willpower.[LF][LF]Once activated, Will Point zones disappear and cannot be used again."
 msgstr ""
 
-#, fuzzy
 #| msgctxt "Tutorial 1 (Polaris)/KEY_TUT_ASSAULT_FEMALE"
 #| msgid "Sophia Brown"
 msgctxt "Tutorial 2 to 4/KEY_TUT4_STORY1_NAME"
@@ -8215,23 +8212,21 @@ msgctxt "Tutorial 2 to 4/KEY_TUT4_STORY1_DESCRIPTION"
 msgid "\"\"Those crates contain valuable materials, so grab everything you can! This place will be crawling with mutants any minute now!\"\""
 msgstr ""
 
-#, fuzzy
 #| msgctxt "Tutorial 2 to 4/KEY_TUT2_BASH_NAME"
 #| msgid "Tactical Tip: Bash"
 msgctxt "Tutorial 2 to 4/KEY_TUT4_TRITON_NAME"
 msgid "Tactical Tip: Tritons"
-msgstr "戦闘Tip: バッシュ"
+msgstr "戦闘Tip: トリトン"
 
 msgctxt "Tutorial 2 to 4/KEY_TUT4_TRITON_DESCRIPTION"
 msgid "You've encountered a new enemy - the Triton (:TRITON:). [LF][LF]Be on your guard! These cunning monsters will skulk around the battlefield, seizing any opportunity to flank you."
 msgstr ""
 
-#, fuzzy
 #| msgctxt "Tutorial 2 to 4/KEY_TUT2_BASH_NAME"
 #| msgid "Tactical Tip: Bash"
 msgctxt "Tutorial 2 to 4/KEY_TUT4_MIST_NAME"
 msgid "Tactical Tip: Mist "
-msgstr "戦闘Tip: バッシュ"
+msgstr "戦闘Tip: ミスト"
 
 msgctxt "Tutorial 2 to 4/KEY_TUT4_MIST_DESCRIPTION"
 msgid ""
