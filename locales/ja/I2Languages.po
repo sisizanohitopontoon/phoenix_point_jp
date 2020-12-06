@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2020-12-06 09:03+0000\n"
+"PO-Revision-Date: 2020-12-06 09:08+0000\n"
 "Last-Translator: higema <ltdhyndsh@yahoo.co.jp>\n"
 "Language-Team: \n"
 "Language: ja\n"
@@ -7638,14 +7638,12 @@ msgctxt "Tutorial 2 to 4/KEY_TUT2_BLEEDINGSTATUS_NAME"
 msgid "Status Effect: Bleed"
 msgstr "ステータス効果: 出血"
 
-#, fuzzy
 #| msgctxt "Tutorial 2 to 4/KEY_TUT2_BLEEDING_STATUS_DESCRIPTION"
 #| msgid "Your soldier was hurt and got he BLEEDING status effect. [LF][LF]Take care of your bleeding soldiers - will keep losing Hit Points every turn until HEALED with a Medkit or EVACUATED."
 msgctxt "Tutorial 2 to 4/KEY_TUT2_BLEEDINGSTATUS_DESCRIPTION"
 msgid "Your soldier was hurt and now has a BLEEDING (:BLEEDING:) status effect. [LF]Take care of your bleeding soldiers - they will keep losing Hit Points every turn until HEALED WITH A MEDKIT."
-msgstr "あなたの兵士は傷つき出血のステータス効果を受けました。[LF][LF]出血中の兵士は、治療を受けるか退避するまでのあいだ毎ターンヒットポイントを失い続けます。そうなった場合は対処してあげましょう。"
+msgstr "あなたの兵士は傷つき出血(:BLEEDING:)のステータス効果を受けています。[LF][LF]出血すると、メディキットで治療を受けるまでは毎ターンヒットポイントを失い続けます。出血している兵士には処置を施してあげましょう。"
 
-#, fuzzy
 #| msgctxt "Tutorial 1 (Polaris)/KEY_TUT_BLEEDSTATUS_NAME"
 #| msgid "Status Effect: Bleed"
 msgctxt "Tutorial 2 to 4/KEY_TUT2_BLEEDINGEFFECT_NAME"
@@ -7659,12 +7657,11 @@ msgctxt "Tutorial 2 to 4/KEY_TUT2_BLEEDINGEFFECT_DESCRIPTION"
 msgid "When a character's limb is disabled, they get a BLEEDING (:BLEEDING:) status effect. Bleeding units lose Hit Points every turn until they die or get healed.[LF]"
 msgstr "あなたは傷つき出血のステータス効果を受けました。[LF][LF]出血中の兵士は、治療を受けるか退避するまでのあいだ毎ターンヒットポイントを失い続けます。"
 
-#, fuzzy
 #| msgctxt "Tutorial 2 to 4/KEY_TUT3_MINDFRAGGER_NAME"
 #| msgid "Tactical Tip: Mindfraggers"
 msgctxt "Tutorial 2 to 4/KEY_TUT2_CRATE_NAME"
 msgid "Tactical Tip: Opening Crates"
-msgstr "戦闘Tip: マインドフラッガー"
+msgstr "戦闘Tip: 箱を開ける"
 
 msgctxt "Tutorial 2 to 4/KEY_TUT2_CRATE_DESCRIPTION"
 msgid ""
