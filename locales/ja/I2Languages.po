@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2020-12-06 13:19+0000\n"
+"PO-Revision-Date: 2020-12-06 13:25+0000\n"
 "Last-Translator: higema <ltdhyndsh@yahoo.co.jp>\n"
 "Language-Team: \n"
 "Language: ja\n"
@@ -9429,12 +9429,11 @@ msgctxt "General Tactical Hints/KEY_TAC_HINT_DAMAGE_EMP_NAME"
 msgid "EMP DAMAGE"
 msgstr "EMPダメージ"
 
-#, fuzzy
 #| msgctxt "Blood Titanium/KEY_DAMAGE_TYPE_EMP_DESC"
 #| msgid "EMP damage only affects electronic devices (and Bionic augmentations)."
 msgctxt "General Tactical Hints/KEY_TAC_HINT_DAMAGE_EMP_DESCRIPTION"
 msgid "EMP damage only affects electronic devices, vehicles and Bionic augments. It is ineffective against organic targets."
-msgstr "EMPダメージは電子装置(およびバイオニック オーグメンテーション)にのみ作用する。"
+msgstr "EMPダメージは電子装置や車両および、バイオニックオーグメントに対してのみ作用します。生物的ターゲットに対しては効果がありません。"
 
 msgctxt "General Tactical Hints/KEY_TAC_HINT_MIST"
 msgid "Starting the turn inside mist recovers 1 WP for Pandorans, but removes 2 WPs for humans."
@@ -9472,12 +9471,11 @@ msgctxt "General Tactical Hints/KEY_TAC_HINT_WEAPONS_MOUNTED_DESCRIPTION"
 msgid "Mounted Weapons are attached to the armor of the soldier, and do not require hands to use. As such they are considered as an additional Ready Item."
 msgstr ""
 
-#, fuzzy
 #| msgctxt "Game Over/KEY_GAME_SUMMARY_PROD_WEAPONS"
 #| msgid "WEAPONS"
 msgctxt "General Tactical Hints/KEY_TAC_HINT_WEAPONS_MELEE_NAME"
 msgid "MELEE WEAPONS"
-msgstr "兵器"
+msgstr "近接武器"
 
 msgctxt "General Tactical Hints/KEY_TAC_HINT_WEAPONS_MELEE_DESCRIPTION"
 msgid "Melee Weapons are close range weapons that can only target enemies in adjacent tiles. Any selected item, or even the soldier's arms, can be used as Melee Weapons by using the the BASH action."
@@ -9487,7 +9485,6 @@ msgctxt "General Tactical Hints/KEY_TAC_HINT_WEAPONS_CLASSSPECIFIC"
 msgid "Class Specific Weapons can only be used by the class they are created for. A good example is the Technician's mech arms that would be useless to anyone not of that soldier class."
 msgstr ""
 
-#, fuzzy
 #| msgctxt "Equipping Screen/KEY_ITEM_TYPE_GRENADE"
 #| msgid "GRENADE"
 msgctxt "General Tactical Hints/KEY_TAC_HINT_WEAPONS_GRENADES_NAME"
@@ -9498,18 +9495,16 @@ msgctxt "General Tactical Hints/KEY_TAC_HINT_WEAPONS_GRENADES_DESCRIPTION"
 msgid "Grenades are universal thrown weapons that deal damage to all targets within their sphere of affect. The distance at which they can be thrown depends on the soldier's Strength."
 msgstr ""
 
-#, fuzzy
 #| msgctxt "Game Over/KEY_MISSION_TYPE_HAVEN_DEFENSE"
 #| msgid "HAVEN DEFENSE MISSIONS"
 msgctxt "General Tactical Hints/KEY_TAC_HINT_WEAPONS_PDW_NAME"
 msgid "PERSONAL DEFENSE WEAPONS"
-msgstr "ヘイヴン防衛 ミッション"
+msgstr "個人防衛ミッション"
 
 msgctxt "General Tactical Hints/KEY_TAC_HINT_WEAPONS_PDW_DESCRIPTION"
 msgid "Personal Defense Weapons (PDWs) are small submachine gun weapons that can shoot bursts for 1 AP. They are agile weapons, but usually with low damage."
 msgstr ""
 
-#, fuzzy
 #| msgctxt "Game Over/KEY_MISSION_TYPE_SCAVENGING"
 #| msgid "SCAVENGING MISSIONS"
 msgctxt "General Tactical Hints/KEY_TAC_HINT_MISSION_SCAVENGING_SITE_NAME"
@@ -9520,12 +9515,11 @@ msgctxt "General Tactical Hints/KEY_TAC_HINT_MISSION_SCAVENGING_SITE_DESCRIPTION
 msgid "Reach the crates and recover the resource packs - they will give 100 of each resource. Then evacuate your squad. You don't need to get all the resource packs if it is too risky."
 msgstr ""
 
-#, fuzzy
 #| msgctxt "Game Over/KEY_MISSION_TYPE_SCAVENGING"
 #| msgid "SCAVENGING MISSIONS"
 msgctxt "General Tactical Hints/KEY_TAC_HINT_MISSION_SCAVENGING_SOLDIERS_NAME"
 msgid "SCAVENGING RESCUE MISSION"
-msgstr "スカベンジ ミッション"
+msgstr "スカベンジ救助ミッション"
 
 msgctxt "General Tactical Hints/KEY_TAC_HINT_MISSION_SCAVENGING_SOLDIERS_DESCRIPTION"
 msgid "Locate and reach the soldiers as fast as you can, then evacuate with them. Vehicles, the DASH ability and jet jump will aid you."
