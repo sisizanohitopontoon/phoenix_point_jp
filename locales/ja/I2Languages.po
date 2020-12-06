@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2020-12-06 11:33+0000\n"
+"PO-Revision-Date: 2020-12-06 11:38+0000\n"
 "Last-Translator: higema <ltdhyndsh@yahoo.co.jp>\n"
 "Language-Team: \n"
 "Language: ja\n"
@@ -7967,12 +7967,11 @@ msgctxt "Tutorial 2 to 4/KEY_TUT3_POISONSTATUS_NAME"
 msgid "Status Effect: Poison"
 msgstr "ステータス効果: 毒"
 
-#, fuzzy
 #| msgctxt "Tutorial 2 to 4/KEY_TUT3_POISONSTATUS_DESCRIPTION"
 #| msgid "Units with the POISON status effect will keep losing Hit Points every turn equal to the Poison value. [LF][LF]Poison effects are GRADUALLY REDUCED each turn."
 msgctxt "Tutorial 2 to 4/KEY_TUT3_POISONSTATUS_DESCRIPTION"
 msgid "Characters with a POISON (:POISON:) status effect will keep losing Hit Points every turn equal to the Poison value. [LF]The poison's strength (damage value) will reduce by 10 each turn."
-msgstr "毒のステータス効果を受けているユニットは、毒の値に等しい量のヒットポイントを毎ターン失い続けます。[LF][LF]毒の効果はターン毎に徐々に減少していきます。"
+msgstr "毒のステータス効果を受けているユニットは、毒の値と同じ量のヒットポイントを毎ターン失い続けます。[LF][LF]毒の強度(ダメージ値)はターン毎に10ずつ減少していきます。"
 
 msgctxt "Tutorial 2 to 4/KEY_TUT3_POISONEFFECT_NAME"
 msgid "Poison"
@@ -7992,14 +7991,12 @@ msgctxt "Tutorial 2 to 4/KEY_TUT3_SNIPERCLASS_DESCRIPTION"
 msgid "Irina is a Sniper Class operative (:SNIPER:) proficient with both SNIPER RIFLES and HANDGUNS.[LF][LF]Snipers are excellent for disabling specific Pandoran body parts at long range."
 msgstr ""
 
-#, fuzzy
 #| msgctxt "Tutorial 2 to 4/KEY_TUT3_POISONWORM_NAME"
 #| msgid "Tactical Tip: Posion Wormс"
 msgctxt "Tutorial 2 to 4/KEY_TUT3_POISONWORM_NAME"
 msgid "Tactical Tip: Poisonworms"
 msgstr "戦闘Tip: ポイズンワーム"
 
-#, fuzzy
 #| msgctxt "Tutorial 2 to 4/KEY_TUT3_POISONWORM_DESCRIPTION"
 #| msgid ""
 #| "Poison worms are small, but don't let their size deceive you - when close enough, they will burst in a POISON EXPLOSION, affecting nearby soldiers. [LF][LF]It's best to deal with them from a "
@@ -8008,14 +8005,13 @@ msgctxt "Tutorial 2 to 4/KEY_TUT3_POISONWORM_DESCRIPTION"
 msgid ""
 "Poisonworms (:POISONWORM:) are small, but don't let their size deceive you! When close enough, they burst in a POISON EXPLOSION, affecting nearby soldiers. [LF][LF]It's best to deal with them from a"
 " distance, or set a short range OVERWATCH cone and gun them down as they approach."
-msgstr "ポイズンワームは小型ですが、そのサイズに惑わされてはいけません。十分な近さに接近してきたポイズンワームは破裂して毒をまき散らし、付近の兵士に効果を及ぼします。[LF][LF]距離を取って始末するか、監視の態勢を取って接近してきたところを撃ち倒すのがベストです。"
+msgstr "ポイズンワームは小型ですが、そのサイズに惑わされてはいけません!十分な近さに接近してきたポイズンワームは破裂して毒をまき散らし、付近の兵士に効果を及ぼします。[LF][LF]距離を取って始末するか、短い距離の監視範囲を敷いて接近してきたところを撃ち倒すのがベストです。"
 
-#, fuzzy
 #| msgctxt "Tutorial 2 to 4/KEY_TUT2_UDAR_HG_NAME"
 #| msgid "Tactical Tip: Handguns"
 msgctxt "Tutorial 2 to 4/KEY_TUT3_HANDGRENADE_NAME"
 msgid "Tactical Tip: Hand Grenades "
-msgstr "戦闘Tip: ハンドガン"
+msgstr "戦闘Tip: ハンドグレネード"
 
 #, fuzzy
 #| msgctxt "Tutorial 2 to 4/KEY_TUT3_HANDGRENADE_DESCRIPTION"
