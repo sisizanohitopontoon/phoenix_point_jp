@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2020-12-06 06:48+0000\n"
+"PO-Revision-Date: 2020-12-05 05:33+0000\n"
 "Last-Translator: higema <ltdhyndsh@yahoo.co.jp>\n"
 "Language-Team: \n"
 "Language: ja\n"
@@ -7070,7 +7070,6 @@ msgctxt "Tutorial 1 (Polaris)/KEY_TUT_INVENTORY_NAME"
 msgid "Inventory"
 msgstr "インベントリ"
 
-#, fuzzy
 #| msgctxt "Tutorial 2 to 4/KEY_TUT2_INVENTORYSKILL_DESCRIPTION"
 #| msgid ""
 #| "The Inventory shows everything carried by a soldier, and items on the ground or in adjacent crates.[LF][LF]ENCUMBRANCE[LF]If the weight of all carried items and armor is greater than the soldier's "
@@ -7097,7 +7096,6 @@ msgctxt "Tutorial 1 (Polaris)/KEY_TUT_MEDKIT_NAME"
 msgid "MedKit"
 msgstr "メディキット"
 
-#, fuzzy
 #| msgctxt "Tutorial 1 (Polaris)/KEY_TUT_MEDKIT_DESCRIPTION"
 #| msgid ""
 #| "MEDKITS are powerful tools that can RESTORE HIT POINTS, disabled Limbs and remove Status effects such as Bleeding. [CR][LF][CR][LF]A soldier can use a Medkit on themselves, or an ALLY."
@@ -7159,7 +7157,6 @@ msgctxt "Tutorial 1 (Polaris)/KEY_TUT_RELOAD_NAME"
 msgid "Out of Ammo"
 msgstr "弾切れ"
 
-#, fuzzy
 #| msgctxt "Tutorial 1 (Polaris)/KEY_TUT_RELOAD_DESCRIPTION"
 #| msgid "Your weapon is OUT OF AMMO. You'll need to use the RELOAD action to fire it again. [LF][LF]Reloading is only possilbe if you are carrying an AMMO MAGAZINE of the correct type."
 msgctxt "Tutorial 1 (Polaris)/KEY_TUT_RELOAD_DESCRIPTION"
@@ -7170,7 +7167,6 @@ msgctxt "Tutorial 1 (Polaris)/KEY_TUT_VEHICLEAUTOFAMMO_NAME"
 msgid "Vehicle Out of Ammo"
 msgstr "弾薬切れの車両"
 
-#, fuzzy
 #| msgctxt "Tutorial 1 (Polaris)/KEY_TUT_VEHICLEAUTOFAMMO_DESCRIPTION"
 #| msgid "Your vehicle is OUT OF AMMO. [LF]Unlike firearms, vehicles don't have the Reload action. [LF][LF]Your vehicle's weapon will be recharged AFTER THE MISSION."
 msgctxt "Tutorial 1 (Polaris)/KEY_TUT_VEHICLEAUTOFAMMO_DESCRIPTION"
