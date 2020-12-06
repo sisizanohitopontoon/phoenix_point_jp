@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2020-12-06 11:54+0000\n"
+"PO-Revision-Date: 2020-12-06 12:01+0000\n"
 "Last-Translator: higema <ltdhyndsh@yahoo.co.jp>\n"
 "Language-Team: \n"
 "Language: ja\n"
@@ -8042,7 +8042,6 @@ msgctxt "Tutorial 2 to 4/KEY_TUT3_CYPHERHG_NAME"
 msgid "Tactical Tip: Cypher HG"
 msgstr "戦闘Tip: サイファーHG"
 
-#, fuzzy
 #| msgctxt "Tutorial 2 to 4/KEY_TUT3_SYPHERHG_DESCRIPTION"
 #| msgid ""
 #| "You've looted a CYPHER HANDGUN - an effective BACKUP WEAPON if your main weapon or one of your arms gets disabled.[LF][LF]Handguns are useful against worms and Mindfraggers. They use up 1 AP so you "
@@ -8051,7 +8050,7 @@ msgctxt "Tutorial 2 to 4/KEY_TUT3_CYPHERHG_DESCRIPTION"
 msgid ""
 "You've looted a CYPHER HANDGUN - an effective BACKUP WEAPON in case your main gun or one of your arms gets disabled.[LF][LF]Sniper Class soldiers like Irina are PROFICIENT WITH HANDGUNS, firing them"
 " with enhanced accuracy."
-msgstr "サイファーハンドガンを回収しました。これはメイン武器または片腕が使用不能になった場合の効果的な予備武器です。[LF][LF]ハンドガンはワームやマインドフラッガーを相手にするのに便利です。使用に1APしか消費しないため、1ターンで複数回の射撃を行えます。"
+msgstr "サイファーハンドガンを回収しました。これはメイン武器または片腕が使用不能になった場合に備えるのに効果的な予備武器です。[LF][LF]イリーナのようなスナイパークラスの兵士はハンドガン技能を備えており、強化された命中精度でそれを発砲します。"
 
 msgctxt "Tutorial 2 to 4/KEY_TUT3_SAVEASSAULT_NAME"
 msgid "Ally Located"
@@ -8061,12 +8060,11 @@ msgctxt "Tutorial 2 to 4/KEY_TUT3_SAVEASSAULT_DESCRIPTION"
 msgid "This fellow Phoenix operative is CONTROLLED BY A MINDFRAGGER. [LF]Kill the creature with a single-shot weapon or Bash to save him!"
 msgstr ""
 
-#, fuzzy
 #| msgctxt "Tutorial 2 to 4/KEY_TUT3_BEACON_NAME"
 #| msgid "Tactical Tip: Location Beacons"
 msgctxt "Tutorial 2 to 4/KEY_TUT3_BLUESHOOTINGLINES_NAME"
 msgid "Tactical Tip: Shooting Lines"
-msgstr "戦闘Tip: 位置ビーコン"
+msgstr "戦闘Tip: 射線"
 
 msgctxt "Tutorial 2 to 4/KEY_TUT3_BLUESHOOTINGLINES_DESCRIPTION"
 msgid ""
@@ -8074,12 +8072,11 @@ msgid ""
 "shoot IN THE SAME TURN.[LF][LF]<color=#C98632>YELLOW LINES</color> indicate the soldier has line of sight, but not enough APs to attack this turn."
 msgstr ""
 
-#, fuzzy
 #| msgctxt "Equipping Screen/KEY_NOT_PROFICIENT_WARNING"
 #| msgid "Not Proficient!"
 msgctxt "Tutorial 2 to 4/KEY_TUT3_PROFICIENCIES_NAME"
 msgid "Weapon Proficiencies"
-msgstr "技能がありません!"
+msgstr "武器技能"
 
 msgctxt "Tutorial 2 to 4/KEY_TUT3_PROFICIENCIES_DESCRIPTION"
 msgid "Operatives are PROFICIENT in different weapons, based on their SOLDIER CLASS or personal perks.[LF][LF]Without proficiency a soldier would suffer a 50% ACCURACY PENALTY."
@@ -8093,12 +8090,11 @@ msgctxt "Tutorial 2 to 4/KEY_TUT3_FRIENDLYFIRE_DESCRIPTION"
 msgid "You accidentally hurt the Phoenix operative instead of the Mindfragger![LF]AIM FOR THE CREATURE on the head to free your comrade before he gets killed!"
 msgstr ""
 
-#, fuzzy
 #| msgctxt "Tutorial 2 to 4/KEY_TUT2_RECOVER_NAME"
 #| msgid "Tactical Tip: Recover"
 msgctxt "Tutorial 2 to 4/KEY_TUT3_ROTATECAMERA_NAME"
 msgid "Tactical Tip: Rotate The Camera"
-msgstr "戦闘Tip: リカバー"
+msgstr "戦闘Tip: カメラ回転"
 
 msgctxt "Tutorial 2 to 4/KEY_TUT3_ROTATECAMERA_DESCRIPTION_K"
 msgid ""
@@ -8128,7 +8124,6 @@ msgctxt "Tutorial 2 to 4/KEY_TUT3_OVERWATCHFRIENDLYFIRE_DESCRIPTION"
 msgid "Be careful not to place YOUR SOLDIERS inside the Overwatch cone - they may get injured by friendly fire!"
 msgstr ""
 
-#, fuzzy
 #| msgctxt "Tutorial 1 (Polaris)/KEY_TUT_ASSAULT_FEMALE"
 #| msgid "Sophia Brown"
 msgctxt "Tutorial 2 to 4/KEY_TUT3_STORY2_NAME"
@@ -8139,7 +8134,6 @@ msgctxt "Tutorial 2 to 4/KEY_TUT3_STORY2_DESCRIPTION"
 msgid "\"\"Kill confirmed. Phoenix, welcome home!\"\""
 msgstr ""
 
-#, fuzzy
 #| msgctxt "Tutorial 1 (Polaris)/KEY_TUT_ASSAULT_FEMALE"
 #| msgid "Sophia Brown"
 msgctxt "Tutorial 2 to 4/KEY_TUT3_OVERWATCHBANTER_NAME"
@@ -8150,7 +8144,6 @@ msgctxt "Tutorial 2 to 4/KEY_TUT3_OVERWATCHBANTER_DESCRIPTION"
 msgid "\"\"Steady! Take Overwatch positions and wait for them to come.\"\""
 msgstr ""
 
-#, fuzzy
 #| msgctxt "Tutorial 1 (Polaris)/KEY_TUT_ASSAULT_FEMALE"
 #| msgid "Sophia Brown"
 msgctxt "Tutorial 2 to 4/KEY_TUT3_LADDERBANTER_NAME"
@@ -8161,18 +8154,16 @@ msgctxt "Tutorial 2 to 4/KEY_TUT3_LADDERBANTER_DESCRIPTION"
 msgid "\"\"The door is shut, so we'll have to use those ladders. Go, go, go!\"\""
 msgstr ""
 
-#, fuzzy
 #| msgctxt "Tutorial 2 to 4/KEY_TUT2_COVER_NAME"
 #| msgid "Tactical Tip: Cover"
 msgctxt "Tutorial 2 to 4/KEY_TUT3_SAVE_NAME"
 msgid "Tactical Tip: Save Game"
-msgstr "戦闘Tip: カバー"
+msgstr "戦闘Tip: ゲームのセーブ"
 
 msgctxt "Tutorial 2 to 4/KEY_TUT3_SAVE_DESCRIPTION"
 msgid "If you're facing a difficult situation, remember you can save your game. Some risky moves will pay off, but others will be deadly. "
 msgstr ""
 
-#, fuzzy
 #| msgctxt "Tutorial 2 to 4/KEY_TUT2_BASH_NAME"
 #| msgid "Tactical Tip: Bash"
 msgctxt "Tutorial 2 to 4/KEY_TUT3_BASH_NAME"
