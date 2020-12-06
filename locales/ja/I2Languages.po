@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2020-12-06 12:38+0000\n"
+"PO-Revision-Date: 2020-12-06 12:49+0000\n"
 "Last-Translator: higema <ltdhyndsh@yahoo.co.jp>\n"
 "Language-Team: \n"
 "Language: ja\n"
@@ -8729,7 +8729,6 @@ msgctxt "Phoenixpedia/KEY_PHOENIXPEDIA_GUIDE_VIRUS_NAME"
 msgid "Virus Damage"
 msgstr "ウイルスダメージ"
 
-#, fuzzy
 #| msgctxt "Phoenixpedia/KEY_PHOENIXPEDIA_GUIDE_VIRUS_DESC"
 #| msgid ""
 #| "If a weapon inflicts at least some Standard Damage, then the VIrus Damage value of the weapon is added to the target's virus value.[LF][LF]Virus damage can accumulate from multiple attacks. At the "
@@ -8741,7 +8740,7 @@ msgid ""
 "start of the affected character's turn, its virus value is subtracted from Will Points. Then the virus level reduces by 1. Over multiple turns the virus level will fall to zero, but the victim will "
 "panic if his Will Points fall to zero.[LF][LF]Standard Medkits have no effect on Virus damage."
 msgstr ""
-"武器が最低でも何らかの通常ダメージを与えた場合、そこからその武器のウィルスダメージ値がターゲットのウィルス値に加算される。[LF][LF]ウィルスダメージは複数回の攻撃によって累積する。感染したキャラクターのターン開始時に、そのウィルス値分のウィルパワーが減少する。その後ウィルスレベルは1減少する。複数のターンが経過する事でウィルスレベルはゼロまで下がるが、ウィルパワーがゼロまで下がった被害者はパニック状態に陥る。[LF][LF][LF]通常のメディキットではウィルスダメージに対して効果が無い。"
+"武器が最低でも何らかの通常ダメージを与えた場合、そこからその武器のウィルスダメージ値がターゲットのウィルス値に加算される。[LF][LF]ウィルスダメージは複数回の攻撃によって累積する。感染したキャラクターのターン開始時に、そのウィルス値分のウィルパワーが減少する。その後ウィルスレベルは1減少する。複数のターンが経過する事でウィルスレベルはゼロまで下がるが、ウィルパワーがゼロまで下がった被害者はパニック状態に陥る。[LF][LF]通常のメディキットではウィルスダメージに対して効果が無い。"
 
 msgctxt "Phoenixpedia/KEY_PHOENIXPEDIA_GUIDE_FIRE_NAME"
 msgid "Fire Damage"
@@ -8856,56 +8855,51 @@ msgctxt "General Tactical Hints/KEY_TAC_HINT_STATUS_ENCUMBRANCE_DESCRIPTION"
 msgid "Your soldier is overburdened and movement range is decreased. Check how much you can carry in the inventory display and drop items you don't need."
 msgstr ""
 
-#, fuzzy
 #| msgctxt "Arkham/KEY_ROSTER_DEATH_BLED_OUT"
 #| msgid "BLEEDING"
 msgctxt "General Tactical Hints/KEY_TAC_HINT_STATUS_BLEEDING_NAME"
 msgid "STATUS - BLEEDING"
-msgstr "出血"
+msgstr "ステータス - 出血"
 
 msgctxt "General Tactical Hints/KEY_TAC_HINT_STATUS_BLEEDING_DESCRIPTION"
 msgid "Your soldier is bleeding, inflicting damage each turn. Heal the soldier or evacuate before they die."
 msgstr ""
 
-#, fuzzy
 #| msgctxt "Character Status/KEY_BURNING_STATUS_NAME"
 #| msgid "BURNING"
 msgctxt "General Tactical Hints/KEY_TAC_HINT_STATUS_BURNING_NAME"
 msgid "STATUS - BURNING"
-msgstr "燃焼中"
+msgstr "ステータス- 燃焼"
 
 msgctxt "General Tactical Hints/KEY_TAC_HINT_STATUS_BURNING_DESCRIPTION"
 msgid "Your soldier is taking fire damage, which will last for a few turns. Fire affects all body parts, but armor reduces the damage."
 msgstr ""
 
-#, fuzzy
 #| msgctxt "Abilities/KEY_SPIT_POISON_NAME"
 #| msgid "SPIT POISON"
 msgctxt "General Tactical Hints/KEY_TAC_HINT_STATUS_POISONED_NAME"
 msgid "STATUS - POISONED"
-msgstr "スピットポイズン"
+msgstr "ステータス - 毒"
 
 msgctxt "General Tactical Hints/KEY_TAC_HINT_STATUS_POISONED_DESCRIPTION"
 msgid "Your soldier is poisoned and taking damage each turn. The poison value will decrease each turn, but it is best to heal as soon as possible."
 msgstr ""
 
-#, fuzzy
 #| msgctxt "Geoscape/KEY_STATUS_SOLO"
 #| msgid "STATUS"
 msgctxt "General Tactical Hints/KEY_TAC_HINT_STATUS_ACID_NAME"
 msgid "STATUS - ACID"
-msgstr "ステータス"
+msgstr "ステータス - 酸"
 
 msgctxt "General Tactical Hints/KEY_TAC_HINT_STATUS_ACID_DESCRIPTION"
 msgid "Your soldier is taking acid damage. Acid deals damage to armor first, then to the exposed body. The acid value will decrease each turn."
 msgstr ""
 
-#, fuzzy
 #| msgctxt "Arkham/KEY_SOLDIER_STATUSES"
 #| msgid "STATUSES"
 msgctxt "General Tactical Hints/KEY_TAC_HINT_STATUS_DAZED_NAME"
 msgid "STATUS - DAZED"
-msgstr "#ステータス"
+msgstr "ステータス - 放心"
 
 msgctxt "General Tactical Hints/KEY_TAC_HINT_STATUS_DAZED_DESCRIPTION"
 msgid ""
@@ -8913,89 +8907,81 @@ msgid ""
 "protected or in good cover."
 msgstr ""
 
-#, fuzzy
 #| msgctxt "Character Status/KEY_STATUS_PARALYSED_NAME"
 #| msgid "PARALYZED"
 msgctxt "General Tactical Hints/KEY_TAC_HINT_STATUS_PARALYZED_NAME"
 msgid "STATUS - PARALYZED"
-msgstr "完全麻痺"
+msgstr "ステータス - 完全麻痺"
 
 msgctxt "General Tactical Hints/KEY_TAC_HINT_STATUS_PARALYZED_DESCRIPTION"
 msgid "Your soldier has paralyze damage, which limits APs. If the paralyze value exceeds strength, then total paralysis results. The paralyze value will decrease by 1 each turn."
 msgstr ""
 
-#, fuzzy
 #| msgctxt "Arkham/KEY_SOLDIER_STATUSES"
 #| msgid "STATUSES"
 msgctxt "General Tactical Hints/KEY_TAC_HINT_STATUS_GOOED_NAME"
 msgid "STATUS - GOOED"
-msgstr "#ステータス"
+msgstr "ステータス - 粘液付着"
 
 msgctxt "General Tactical Hints/KEY_TAC_HINT_STATUS_GOOED_DESCRIPTION"
 msgid "Your soldier is stuck in goo and cannot move. The goo will disappear within 3 turns. In the meanwhile, protect this soldier from attack."
 msgstr ""
 
-#, fuzzy
 #| msgctxt "Cthulhu/KEY_GEOSCAPE_BASE_INFESTED"
 #| msgid "BASE INFESTED"
 msgctxt "General Tactical Hints/KEY_TAC_HINT_STATUS_INFECTED_NAME"
 msgid "STATUS - INFECTED"
-msgstr "占拠された基地"
+msgstr "ステータス - 感染"
 
 msgctxt "General Tactical Hints/KEY_TAC_HINT_STATUS_INFECTED_DESCRIPTION"
 msgid "Your soldier has been infected by a weak Pandoravirus strain. They will lose Will Points each turn equal to the viral damage value, but this value will decrease each turn."
 msgstr ""
 
-#, fuzzy
 #| msgctxt "Character Status/KEY_PANIC_STATUS_NAME"
 #| msgid "PANICKED"
 msgctxt "General Tactical Hints/KEY_TAC_HINT_STATUS_PANICKED_NAME"
 msgid "STATUS - PANICKED"
-msgstr "パニック"
+msgstr "ステータス - パニック"
 
 msgctxt "General Tactical Hints/KEY_TAC_HINT_STATUS_PANICKED_DESCRIPTION"
 msgid "Your soldier has panicked. They cannot be controlled for 1 turn. After that, some of their Will Points will be restored."
 msgstr ""
 
-#, fuzzy
 #| msgctxt "Arkham/KEY_ROSTER_DEATH_MIND_CONTROLLED"
 #| msgid "MIND CONTROLLED"
 msgctxt "General Tactical Hints/KEY_TAC_HINT_STATUS_MINDCONTROLLED_NAME"
 msgid "STATUS - MIND CONTROLLED"
-msgstr "マインドコントロール下"
+msgstr "ステータス - マインドコントロール下"
 
 msgctxt "General Tactical Hints/KEY_TAC_HINT_STATUS_MINDCONTROLLED_DESCRIPTION"
 msgid "Your soldier is mind controlled. Killing the controller is the fastest way to disrupt the psychic hold over your soldier."
 msgstr ""
 
-#, fuzzy
 #| msgctxt "Character Status/KEY_FRENZY_STATUS_NAME"
 #| msgid "FRENZIED"
 msgctxt "General Tactical Hints/KEY_TAC_HINT_STATUS_FRENZIED_NAME"
 msgid "STATUS - FRENZIED"
-msgstr "激昂"
+msgstr "ステータス - 激昂"
 
 msgctxt "General Tactical Hints/KEY_TAC_HINT_STATUS_FRENZIED_DESCRIPTION"
 msgid "Enemy units are frenzied for a couple of turns. They are faster and immune to panic."
 msgstr ""
 
-#, fuzzy
 #| msgctxt "Arkham/KEY_SOLDIER_STATUSES"
 #| msgid "STATUSES"
 msgctxt "General Tactical Hints/KEY_TAC_HINT_STATUS_TIRED_NAME"
 msgid "STATUS - TIRED"
-msgstr "#ステータス"
+msgstr "ステータス - 疲労"
 
 msgctxt "General Tactical Hints/KEY_TAC_HINT_STATUS_TIRED_DESCRIPTION"
 msgid "Your soldier is TIRED due to LOW STAMINA and has a -1AP penalty per turn for this mission. The penalty can be removed if the soldier stays at a Base with living quarters for a while."
 msgstr ""
 
-#, fuzzy
 #| msgctxt "Character Status/KEY_EXHAUSTED_STATUS_NAME"
 #| msgid "EXHAUSTED"
 msgctxt "General Tactical Hints/KEY_TAC_HINT_STATUS_EXHAUSTED_NAME"
 msgid "STATUS - EXHAUSTED"
-msgstr "消耗"
+msgstr "ステータス - 消耗"
 
 msgctxt "General Tactical Hints/KEY_TAC_HINT_STATUS_EXHAUSTED_DESCRIPTION"
 msgid ""
@@ -9019,23 +9005,21 @@ msgctxt "General Tactical Hints/KEY_TAC_HINT_STATUS_ALERTED_DESCRIPTION"
 msgid "Enemies will become aware of your presence when they are ALERTED, and will attempt to track down and attack your squad."
 msgstr ""
 
-#, fuzzy
 #| msgctxt "Objectives/KEY_OBJECTIVE_TUTORIAL2_OVERWATCH"
 #| msgid "USE OVERWATCH"
 msgctxt "General Tactical Hints/KEY_TAC_HINT_STATUS_OVERWATCHING_NAME"
 msgid "STATUS - OVERWATCHING"
-msgstr "監視を使用する"
+msgstr "ステータス - 監視"
 
 msgctxt "General Tactical Hints/KEY_TAC_HINT_STATUS_OVERWATCHING_DESCRIPTION"
 msgid "Enemies in OVERWATCH, will fire at any vehicle or soldier that enters their targeting cone."
 msgstr ""
 
-#, fuzzy
 #| msgctxt "Characters and classes/KEY_ALN_SENTINEL_HATCHING_NAME"
 #| msgid "HATCHING SENTINEL"
 msgctxt "General Tactical Hints/KEY_TAC_HINT_STATUS_PREPARING_HATCHSENTINEL_NAME"
 msgid "HATCHING SENTINEL STATUS - PREPARING"
-msgstr "ハッチング センチネル"
+msgstr "ハッチングセンチネルのステータス - 準備状態"
 
 msgctxt "General Tactical Hints/KEY_TAC_HINT_STATUS_PREPARING_HATCHSENTINEL_DESCRIPTION"
 msgid ""
@@ -9043,12 +9027,11 @@ msgid ""
 "this turn."
 msgstr ""
 
-#, fuzzy
 #| msgctxt "Characters and classes/KEY_ALN_SENTINEL_TERROR_NAME"
 #| msgid "TERROR SENTINEL"
 msgctxt "General Tactical Hints/KEY_TAC_HINT_STATUS_PREPARING_TERRORSENTINEL_NAME"
 msgid "TERROR SENTINEL STATUS - PREPARING"
-msgstr "テラー センチネル"
+msgstr "テラーセンチネルのステータス - 準備状態"
 
 msgctxt "General Tactical Hints/KEY_TAC_HINT_STATUS_PREPARING_TERRORSENTINEL_DESCRIPTION"
 msgid "This Terror Sentinel is preparing a psychic scream, which reduces the Will Points of your soldiers within large range. If the sentinel is killed during this turn, the howl is cancelled."
@@ -9062,78 +9045,71 @@ msgctxt "General Tactical Hints/KEY_TAC_HINT_STATUS_PREPARING_EGG_DESCRIPTION"
 msgid "Eggs will hatch within 1 turn after being disturbed. It's advised you destroy them before that happens."
 msgstr ""
 
-#, fuzzy
 #| msgctxt "Roster Screen/KEY_CONTAINMENT_ALIENTYPE"
 #| msgid "PANDORAN TYPE"
 msgctxt "General Tactical Hints/KEY_TAC_HINT_ENEMY_EGG_NAME"
 msgid "PANDORAN - EGG"
-msgstr "パンドランタイプ"
+msgstr "パンドラン - エッグ"
 
 msgctxt "General Tactical Hints/KEY_TAC_HINT_ENEMY_EGG_DESCRIPTION"
 msgid "Eggs may contain worms or mindfraggers. If you enter its trigger zone (3 tiles) it will hatch on the next turn. Hatching sentinels may mass hatch eggs in a wide area."
 msgstr ""
 
-#, fuzzy
 #| msgctxt "Geoscape/KEY_ALIEN_BASE_LAIR"
 #| msgid "PANDORAN LAIR"
 msgctxt "General Tactical Hints/KEY_TAC_HINT_ENEMY_WORM_NAME"
 msgid "PANDORAN - WORM"
-msgstr "パンドラン・レア"
+msgstr "パンドラン - ワーム"
 
 msgctxt "General Tactical Hints/KEY_TAC_HINT_ENEMY_WORM_DESCRIPTION"
 msgid "The worm's only goal is to reach their target and explode, dealing damage to everything around. Try to kill them before they get close, using overwatch where needed."
 msgstr ""
 
-#, fuzzy
 #| msgctxt "Abilities/KEY_SPAWN_MINDFRAGGER_NAME"
 #| msgid "SPAWN MINDFRAGGER"
 msgctxt "General Tactical Hints/KEY_TAC_HINT_ENEMY_MINDFRAGGER_NAME"
 msgid "PANDORAN - MINDFRAGGER"
-msgstr "スポーン・マインドフラッガー"
+msgstr "パンドラン - マインドフラッガー"
 
 msgctxt "General Tactical Hints/KEY_TAC_HINT_ENEMY_MINDFRAGGER_DESCRIPTION"
 msgid "Mindfraggers have the ability to take control of humans by attaching themselves to their heads. Killing the attached organism will release their control."
 msgstr ""
 
-#, fuzzy
 #| msgctxt "Roster Screen/KEY_CONTAINMENT_ALIENTYPE"
 #| msgid "PANDORAN TYPE"
 msgctxt "General Tactical Hints/KEY_TAC_HINT_ENEMY_SENTINEL_NAME"
 msgid "PANDORAN - SENTINEL"
-msgstr "パンドランタイプ"
+msgstr "パンドラン - センチネル"
 
 msgctxt "General Tactical Hints/KEY_TAC_HINT_ENEMY_SENTINEL_DESCRIPTION"
 msgid "Sentinels are motionless Pandorans that affect large areas of the battlefield. Approaching them or dealing damage will trigger their special abilities."
 msgstr ""
 
-#, fuzzy
 #| msgctxt "Geoscape/KEY_ALIEN_BASE_LAIR"
 #| msgid "PANDORAN LAIR"
 msgctxt "General Tactical Hints/KEY_TAC_HINT_ENEMY_SIREN_NAME"
 msgid "PANDORAN - SIREN"
-msgstr "パンドラン・レア"
+msgstr "パンドラン - サイレン"
 
 msgctxt "General Tactical Hints/KEY_TAC_HINT_ENEMY_SIREN_DESCRIPTION"
 msgid "Sirens are elite Pandoran creatures with superior strength and abilities. Attacking them with superior numbers or firepower is recommended."
 msgstr ""
 
-#, fuzzy
 #| msgctxt "Geoscape/KEY_ALIEN_BASE_LAIR"
 #| msgid "PANDORAN LAIR"
 msgctxt "General Tactical Hints/KEY_TAC_HINT_ENEMY_CHIRON_NAME"
 msgid "PANDORAN - CHIRON"
-msgstr "パンドラン・レア"
+msgstr "パンドラン - ケイロン"
 
 msgctxt "General Tactical Hints/KEY_TAC_HINT_ENEMY_CHIRON_DESCRIPTION"
 msgid "Chirons are large artillery units that launch projectiles from a distance. They are a significant threat in open areas."
 msgstr ""
 
-#, fuzzy
 #| msgctxt "Geoscape/KEY_ALIEN_BASE_LAIR"
 #| msgid "PANDORAN LAIR"
 msgctxt "General Tactical Hints/KEY_TAC_HINT_ENEMY_SCYLLA_NAME"
 msgid "PANDORAN - SCYLLA"
-msgstr "パンドラン・レア"
+msgstr "パンドラン - スキュラ"
 
 msgctxt "General Tactical Hints/KEY_TAC_HINT_ENEMY_SCYLLA_DESCRIPTION"
 msgid "The Scylla is the apex of Pandoran development. Most of the time it remains in its Citadel, but occasionally goes out to attack Havens."
