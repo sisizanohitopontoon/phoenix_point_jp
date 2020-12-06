@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2020-12-06 13:29+0000\n"
+"PO-Revision-Date: 2020-12-06 13:34+0000\n"
 "Last-Translator: higema <ltdhyndsh@yahoo.co.jp>\n"
 "Language-Team: \n"
 "Language: ja\n"
@@ -10151,12 +10151,11 @@ msgctxt "Xbox/KEY_PLATFORM_MUST_BE_SIGNED_IN"
 msgid "You must be signed in to a user profile to play."
 msgstr "プレイするにはユーザープロファイルにサインインする必要があります。"
 
-#, fuzzy
 #| msgctxt "Xbox/KEY_PLATFORM_RECONNECT_CONTROLLER"
 #| msgid "Please reconnect controller or press {0} on a connected controller."
 msgctxt "Xbox/KEY_PLATFORM_RECONNECT_CONTROLLER"
 msgid "Please reconnect controller or press :A: on a connected controller."
-msgstr "コントローラーを再接続するか、接続されたコントローラーで {0} を押してください。"
+msgstr "コントローラーを再接続するか、または接続されたコントローラーの :A: を押してください。"
 
 msgctxt "Xbox/KEY_PLATFORM_RETURNED_TO_TITLE_SCREEN"
 msgid "You have been returned to the title home screen because your user profile signed out."
@@ -12002,7 +12001,6 @@ msgctxt "Cinematic Subtitles/KEY_SYMES_ANTARCTICA_5"
 msgid "the Virophage… that destroyed the Pandoravirus… and themselves."
 msgstr "バイロファージ…[LF]それはパンドラウィルスを…古代人達自身をも滅ぼした。"
 
-#, fuzzy
 #| msgctxt "Cinematic Subtitles/KEY_SYMES_ANTARCTICA_6"
 #| msgid "A whole civilization lost… to give us a chance. And we... we wasted it. All this... for nothing."
 msgctxt "Cinematic Subtitles/KEY_SYMES_ANTARCTICA_6"
@@ -12045,12 +12043,11 @@ msgctxt "Options Screen/KEY_OPTIONS_GAMEPAD_DESCRIPTION"
 msgid "Controller"
 msgstr ""
 
-#, fuzzy
 #| msgctxt "Options Screen/KEY_OPTIONS_USE_CONTROLLER"
 #| msgid "USE CONTROLLER"
 msgctxt "Options Screen/KEY_OPTIONS_GAMEPAD_NAME"
 msgid "CONTROLLER"
-msgstr "コントローラを使用する"
+msgstr "コントローラー"
 
 msgctxt "Options Screen/KEY_OPTIONS_GAMEPLAY"
 msgid "Gameplay"
@@ -13856,7 +13853,6 @@ msgctxt "Mutation Screen/KEY_MUTATION_PART_HEAD_ARMORED_LONG_DESCRIPTION"
 msgid "Developed through Arthron DNA modification, the mutation grants 30 head armor and full shock immunity."
 msgstr "アースロンのDNA組み換えによって開発された この変異は、頭部のアーマー30と 完全なショック無効を付与する。"
 
-#, fuzzy
 #| msgctxt "Mutation Screen/KEY_MUTATION_PART_HEAD_PERCEPTOR_LONG_DESCRIPTION"
 #| msgid "Based on Scylla DNA samples, the mutation enhances the senses, increasing Perception by 20% and Accuracy by 20%."
 msgctxt "Mutation Screen/KEY_MUTATION_PART_HEAD_PERCEPTOR_LONG_DESCRIPTION"
@@ -16601,12 +16597,11 @@ msgctxt "Missions/KEY_MISSION_PX_BASE_DESTROYED_TITLE"
 msgid "PHOENIX BASE RANSACKED"
 msgstr "フェニックス基地は荒らされた"
 
-#, fuzzy
 #| msgctxt "Missions/KEY_MISSION_PX_BASE_WARNING_DESCRIPTION"
 #| msgid "Base {0} is under attack by {1} forces. Eliminate the threat, protecting the base's crucial structures. Losing will result in the loss of this base."
 msgctxt "Missions/KEY_MISSION_PX_BASE_WARNING_DESCRIPTION"
 msgid "Base {0} is under attack by {1} forces. Eliminate the threat, protecting the base's crucial structures. Losing will result in the critical damage of this base."
-msgstr "{1} 部隊により {0} 基地が攻撃を受けている。 基地の重要構造物を守りつつ、 この脅威を排除せよ。 敗北は、 この基地を失う結果となる。"
+msgstr "{1} 部隊により {0} 基地が攻撃を受けている。 基地の重要構造物を守りつつ、 この脅威を排除せよ。 敗北した場合は、 この基地に致命的なダメージをもたらす結果となる。"
 
 msgctxt "Missions/KEY_MISSION_RANGE"
 msgid "Operating range: {Value} km"
@@ -17432,12 +17427,11 @@ msgctxt "Character Names/KEY_CHARACTERNAME_FELIPE"
 msgid "Felipe Mena"
 msgstr "フェリペ・ミーナ"
 
-#, fuzzy
 #| msgctxt "Lore/KEY_LORE_TITLE_PURE"
 #| msgid "The Pure"
 msgctxt "Character Names/KEY_CHARACTERNAME_THEPUPPETEER"
 msgid "The Puppeteer"
-msgstr "ピュア"
+msgstr "パペッティア"
 
 msgctxt "Character Names/KEY_CHARACTERNAME_MADMAN"
 msgid "Madman"
@@ -18231,7 +18225,6 @@ msgctxt "Body parts/KEY_HEAD_DESCRIPTION"
 msgid "HEAD"
 msgstr "ヘッド"
 
-#, fuzzy
 #| msgctxt "Body parts/KEY_HEAD_HEAVY_NAME"
 #| msgid "HEAVY HEAD"
 msgctxt "Body parts/KEY_HEAD_HEAVY_DESCRIPTION"
@@ -18246,7 +18239,6 @@ msgctxt "Body parts/KEY_HEAD_NAME"
 msgid "HEAD"
 msgstr "ヘッド"
 
-#, fuzzy
 #| msgctxt "Body parts/KEY_HEAD_SCREAMER_NAME"
 #| msgid "SCREAMING HEAD"
 msgctxt "Body parts/KEY_HEAD_SCREAMER_DESCRIPTION"
@@ -18269,7 +18261,6 @@ msgctxt "Body parts/KEY_HUMAN_TORSO_NAME"
 msgid "TORSO"
 msgstr "トルソー"
 
-#, fuzzy
 #| msgctxt "Body parts/KEY_LEG_AGILE_NAME"
 #| msgid "AGILE LEG"
 msgctxt "Body parts/KEY_LEG_AGILE_DESCRIPTION"
@@ -18280,14 +18271,12 @@ msgctxt "Body parts/KEY_LEG_AGILE_NAME"
 msgid "AGILE LEG"
 msgstr "アジャイル レッグ"
 
-#, fuzzy
 #| msgctxt "Body parts/KEY_LEG_NAME"
 #| msgid "LEG"
 msgctxt "Body parts/KEY_LEG_DESCRIPTION"
 msgid "LEG"
 msgstr "レッグ"
 
-#, fuzzy
 #| msgctxt "Body parts/KEY_LEG_HEAVY_NAME"
 #| msgid "HEAVY LEG"
 msgctxt "Body parts/KEY_LEG_HEAVY_DESCRIPTION"
@@ -20800,7 +20789,6 @@ msgctxt "Lore/KEY_LORE_TITLE_PURE"
 msgid "The Pure"
 msgstr "ピュア"
 
-#, fuzzy
 #| msgctxt "Lore/KEY_LORE_DESC_PURE"
 #| msgid ""
 #| "The renegade faction known as \"\"The Pure\"\" appeared in 2045 after a group of experimental subjects escaped from a New Jericho cybernetics program. The program was being shut down at the time, "
@@ -20816,7 +20804,7 @@ msgid ""
 "far.[LF][LF]According to the individual known as Subject 24, they are the result of advanced cybernetic New Jericho experiments that somehow went wrong. In particular, the mental state of subjects "
 "in the program suffered from the transition they had to endure to become cyborgs.[LF]"
 msgstr ""
-"ピュアとして知られる脱退者達の派閥は、ニュージェリコのサイバネティクスプログラムから被験者達が逃亡した後の2045年に出現した。その時点でプログラムは停止され、その明らかな失敗も隠蔽された。ひとつの場所に留まらない準軍事的組織として活動するピュアは、人が可能な限り機械に近づいたサイボーグ集団である。彼らは「肉体を露出する者は誰しも感染する可能性があり、故にその者達は\"\"不純\"\"である」とする考えを共有している。スカベンジ地点や護送集団を襲撃する彼らの事例は世界各地で数多く存在している一方、彼らの拠点はこれまでのところ見つかっていない。[CR][LF][CR][LF]サブジェクト24として知られる人物の言うところによれば、彼らは何らかの形で失敗に終わったニュージェリコの高度なサイバネティクス実験の産物なのだそうだ。具体的に言えば、サイボーグになるために耐えねばならなかった肉体の遷移により、プログラム被験者の精神状態が患ったらしい。"
+"ピュアとして知られる脱退者達の派閥は、ニュージェリコのサイバネティクスプログラムから被験者達が逃亡した後の2045年に出現した。その時点でプログラムは停止され、その明らかな失敗も隠蔽された。ひとつの場所に留まらない準軍事的組織として活動するピュアは、人が可能な限り機械に近づいたサイボーグ集団である。彼らは「肉体を露出する者は誰しも感染する可能性があり、故にその者達は\"\"不純\"\"である」とする考えを共有している。スカベンジ地点や護送集団を襲撃する彼らの事例は世界各地で数多く存在している一方、彼らの拠点はこれまでのところ見つかっていない。[LF][LF]サブジェクト24として知られる人物の言うところによれば、彼らは何らかの形で失敗に終わったニュージェリコの高度なサイバネティクス実験の産物なのだそうだ。具体的に言えば、サイボーグになるために耐えねばならなかった肉体の遷移により、プログラム被験者の精神状態が患ったらしい。[LF]"
 
 msgctxt "Lore/KEY_LORE_TITLE_SUBJECT24"
 msgid "Subject 24"
