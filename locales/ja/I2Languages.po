@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2020-12-06 13:14+0000\n"
+"PO-Revision-Date: 2020-12-06 13:19+0000\n"
 "Last-Translator: higema <ltdhyndsh@yahoo.co.jp>\n"
 "Language-Team: \n"
 "Language: ja\n"
@@ -9315,7 +9315,7 @@ msgstr ""
 #| msgid "DAMAGE"
 msgctxt "General Tactical Hints/KEY_TAC_HINT_DAMAGE_BLAST_NAME"
 msgid "BLAST DAMAGE"
-msgstr "爆発ダメージ"
+msgstr "爆破ダメージ"
 
 msgctxt "General Tactical Hints/KEY_TAC_HINT_DAMAGE_BLAST_DESCRIPTION"
 msgid "Blast damage is applied to every individual body part of all targets caught in the blast, which can be devastating. It is also quite good at shredding armor from multiple body parts."
@@ -9379,12 +9379,11 @@ msgid ""
 "reach 0, it will Panic."
 msgstr ""
 
-#, fuzzy
 #| msgctxt "Damage types/KEY_DAMAGE_TYPE_STANDARD"
 #| msgid "DAMAGE"
 msgctxt "General Tactical Hints/KEY_TAC_HINT_DAMAGE_FIRE_NAME"
 msgid "FIRE DAMAGE"
-msgstr "ダメージ"
+msgstr "火炎ダメージ"
 
 msgctxt "General Tactical Hints/KEY_TAC_HINT_DAMAGE_FIRE_DESCRIPTION"
 msgid ""
@@ -9392,48 +9391,43 @@ msgid ""
 "each turn."
 msgstr ""
 
-#, fuzzy
 #| msgctxt "Damage types/KEY_DAMAGE_TYPE_STANDARD"
 #| msgid "DAMAGE"
 msgctxt "General Tactical Hints/KEY_TAC_HINT_DAMAGE_SHRED_NAME"
 msgid "SHRED DAMAGE"
-msgstr "ダメージ"
+msgstr "破砕ダメージ"
 
 msgctxt "General Tactical Hints/KEY_TAC_HINT_DAMAGE_SHRED_DESCRIPTION"
 msgid "Shred Damage reduces the Armor value of the body part it affects by the shred value. Explosive damage will apply shred to multiple body parts."
 msgstr ""
 
-#, fuzzy
 #| msgctxt "Damage types/KEY_DAMAGE_TYPE_PIERCING"
 #| msgid "PIERCING"
 msgctxt "General Tactical Hints/KEY_TAC_HINT_DAMAGE_PIERCE_NAME"
 msgid "PIERCING DAMAGE"
-msgstr "貫通"
+msgstr "貫通ダメージ"
 
 msgctxt "General Tactical Hints/KEY_TAC_HINT_DAMAGE_PIERCE_DESCRIPTION"
 msgid "Piercing reduces the effectiveness of enemy Armor by an amount equal to its value. Piercing does NOT damage armor, only ignores it."
 msgstr ""
 
-#, fuzzy
 #| msgctxt "Abilities/KEY_PSYCHIC_SCREAM_NAME"
 #| msgid "PSYCHIC SCREAM"
 msgctxt "General Tactical Hints/KEY_TAC_HINT_DAMAGE_PSYCHIC_NAME"
 msgid "PSYCHIC DAMAGE"
-msgstr "サイキックスクリーム"
+msgstr "サイキックダメージ"
 
-#, fuzzy
 #| msgctxt "Phoenixpedia/KEY_PHOENIXPEDIA_GUIDE_PSYCHIC_DESC"
 #| msgid "A psychic damage attack is usually an area effect attack that directly reduces the Will Points of targets according to the Psychic Damage value. This can cause characters to panic."
 msgctxt "General Tactical Hints/KEY_TAC_HINT_DAMAGE_PSYCHIC_DESCRIPTION"
 msgid "A psychic damage attack is usually an area effect attack that directly reduces the Will Points of targets according to the Psychic Damage value. This can cause characters to panic."
-msgstr "サイキックダメージ攻撃は通常、サイキックダメージ値に応じてターゲットのウィルパワーをを減少させる範囲攻撃になる。この攻撃は、キャラクター達のパニックを引き起こす事ができる。"
+msgstr "多くの場合サイキックダメージ攻撃はサイキックダメージ値に応じてターゲットのウィルポイントを直接減少させる範囲攻撃になる。この攻撃はキャラクター達にパニックを生じさせることができる。"
 
-#, fuzzy
 #| msgctxt "Damage types/KEY_DAMAGE_TYPE_STANDARD"
 #| msgid "DAMAGE"
 msgctxt "General Tactical Hints/KEY_TAC_HINT_DAMAGE_EMP_NAME"
 msgid "EMP DAMAGE"
-msgstr "ダメージ"
+msgstr "EMPダメージ"
 
 #, fuzzy
 #| msgctxt "Blood Titanium/KEY_DAMAGE_TYPE_EMP_DESC"
@@ -9458,7 +9452,6 @@ msgid ""
 "up)."
 msgstr ""
 
-#, fuzzy
 #| msgctxt "Equipping Screen/KEY_ITEM_TYPE_SHOTGUN"
 #| msgid "SHOTGUN"
 msgctxt "General Tactical Hints/KEY_TAC_HINT_WEAPONS_SHOTGUNS_NAME"
@@ -9469,7 +9462,6 @@ msgctxt "General Tactical Hints/KEY_TAC_HINT_WEAPONS_SHOTGUNS_DESCRIPTION"
 msgid "Shotguns are ranged weapons that fire multiple projectiles at once, but have a large spread. They are extremely deadly at short distances."
 msgstr ""
 
-#, fuzzy
 #| msgctxt "Equipping Screen/KEY_ITEM_TYPE_MOUNTED"
 #| msgid "MOUNTED WEAPON"
 msgctxt "General Tactical Hints/KEY_TAC_HINT_WEAPONS_MOUNTED_NAME"
