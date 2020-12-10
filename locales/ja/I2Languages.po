@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2020-12-10 13:04+0000\n"
+"PO-Revision-Date: 2020-12-10 13:09+0000\n"
 "Last-Translator: higema <ltdhyndsh@yahoo.co.jp>\n"
 "Language-Team: \n"
 "Language: ja\n"
@@ -9466,7 +9466,7 @@ msgstr "ショットガン"
 
 msgctxt "General Tactical Hints/KEY_TAC_HINT_WEAPONS_SHOTGUNS_DESCRIPTION"
 msgid "Shotguns are ranged weapons that fire multiple projectiles at once, but have a large spread. They are extremely deadly at short distances."
-msgstr ""
+msgstr "ショットガンは複数の弾を一度に発射する遠距離兵器ですが、拡散が大きいです。短い距離では極めて強力になります。"
 
 #| msgctxt "Equipping Screen/KEY_ITEM_TYPE_MOUNTED"
 #| msgid "MOUNTED WEAPON"
@@ -9476,7 +9476,7 @@ msgstr "マウント式ウェポン"
 
 msgctxt "General Tactical Hints/KEY_TAC_HINT_WEAPONS_MOUNTED_DESCRIPTION"
 msgid "Mounted Weapons are attached to the armor of the soldier, and do not require hands to use. As such they are considered as an additional Ready Item."
-msgstr ""
+msgstr "マウント式ウェポンは兵士のアーマーに取り付けられるもので、使用に腕を必要としません。そのために追加のレディアイテムとしてみなされます。"
 
 #| msgctxt "Game Over/KEY_GAME_SUMMARY_PROD_WEAPONS"
 #| msgid "WEAPONS"
@@ -9486,11 +9486,11 @@ msgstr "近接武器"
 
 msgctxt "General Tactical Hints/KEY_TAC_HINT_WEAPONS_MELEE_DESCRIPTION"
 msgid "Melee Weapons are close range weapons that can only target enemies in adjacent tiles. Any selected item, or even the soldier's arms, can be used as Melee Weapons by using the the BASH action."
-msgstr ""
+msgstr "近接武器は、隣接するタイル上の敵だけをターゲットにできる近距離用の兵器です。選択中のアイテムはどんなものでも、あるいは兵士の腕さえも「バッシュ」アクションの使用によって近接武器として使用することが可能です。"
 
 msgctxt "General Tactical Hints/KEY_TAC_HINT_WEAPONS_CLASSSPECIFIC"
 msgid "Class Specific Weapons can only be used by the class they are created for. A good example is the Technician's mech arms that would be useless to anyone not of that soldier class."
-msgstr ""
+msgstr "クラス専用兵器は特定のクラスのために作られており、そのクラスの兵士しか使用できません。テクニシャンのメックアームはそれ以外のクラスの者には役立たないのが良い例です。"
 
 #| msgctxt "Equipping Screen/KEY_ITEM_TYPE_GRENADE"
 #| msgid "GRENADE"
@@ -9500,7 +9500,7 @@ msgstr "グレネード"
 
 msgctxt "General Tactical Hints/KEY_TAC_HINT_WEAPONS_GRENADES_DESCRIPTION"
 msgid "Grenades are universal thrown weapons that deal damage to all targets within their sphere of affect. The distance at which they can be thrown depends on the soldier's Strength."
-msgstr ""
+msgstr "グレネードは誰でも使える投擲武器であり、その球状の効果範囲に入った全てのターゲットにダメージを与えます。投げられる距離は兵士のストレングスに依存しています。"
 
 #| msgctxt "Game Over/KEY_MISSION_TYPE_HAVEN_DEFENSE"
 #| msgid "HAVEN DEFENSE MISSIONS"
@@ -9510,7 +9510,7 @@ msgstr "個人防衛ミッション"
 
 msgctxt "General Tactical Hints/KEY_TAC_HINT_WEAPONS_PDW_DESCRIPTION"
 msgid "Personal Defense Weapons (PDWs) are small submachine gun weapons that can shoot bursts for 1 AP. They are agile weapons, but usually with low damage."
-msgstr ""
+msgstr "パーソナルディフェンスウェポン(PDW)は1APでバースト射撃を行える小型サブマシンガンです。取り回しの軽い兵器ですが、多くの場合ダメージは低くなっています。"
 
 #| msgctxt "Game Over/KEY_MISSION_TYPE_SCAVENGING"
 #| msgid "SCAVENGING MISSIONS"
@@ -9520,7 +9520,7 @@ msgstr "スカベンジ ミッション"
 
 msgctxt "General Tactical Hints/KEY_TAC_HINT_MISSION_SCAVENGING_SITE_DESCRIPTION"
 msgid "Reach the crates and recover the resource packs - they will give 100 of each resource. Then evacuate your squad. You don't need to get all the resource packs if it is too risky."
-msgstr ""
+msgstr "箱へとたどり着き資源パックを回収しましょう。それぞれの資源パック毎に、対応する資源100を得られます。回収した後は部隊を退避させてください。資源パックの全回収が危険すぎる場合は無理をする必要はありません。"
 
 #| msgctxt "Game Over/KEY_MISSION_TYPE_SCAVENGING"
 #| msgid "SCAVENGING MISSIONS"
@@ -9530,7 +9530,7 @@ msgstr "スカベンジ救助ミッション"
 
 msgctxt "General Tactical Hints/KEY_TAC_HINT_MISSION_SCAVENGING_SOLDIERS_DESCRIPTION"
 msgid "Locate and reach the soldiers as fast as you can, then evacuate with them. Vehicles, the DASH ability and jet jump will aid you."
-msgstr ""
+msgstr "出来るだけ早く兵士達を探し出してその場所にたどり着き、その後に彼らを連れて退避してください。「ダッシュ」アビリティとジェットジャンプが役に立ってくれるでしょう。"
 
 #| msgctxt "Game Over/KEY_MISSION_TYPE_SCAVENGING"
 #| msgid "SCAVENGING MISSIONS"
@@ -9552,7 +9552,7 @@ msgstr "奇襲ミッション"
 
 msgctxt "General Tactical Hints/KEY_TAC_HINT_MISSION_AMBUSH_DESCRIPTION"
 msgid "You must survive 3 turns before the evacuation zone is revealed. It could be anywhere, so try to keep your squad together in a central location if possible."
-msgstr ""
+msgstr "退避ゾーンが明らかになるまでのあいだ、3ターン生き残る必要があります。退避ゾーンはどこに現れるか分かりませんので、可能であればマップ中央に部隊をまとめるようにしておきましょう。"
 
 #| msgctxt "Game Over/KEY_MISSION_TYPE_HAVEN_DEFENSE"
 #| msgid "HAVEN DEFENSE MISSIONS"
@@ -9562,7 +9562,7 @@ msgstr "ヘイヴン防衛ミッション - 民間人救出"
 
 msgctxt "General Tactical Hints/KEY_TAC_HINT_MISSION_HAVENDEFENSE_CIVILIANS_DESCRIPTION"
 msgid "Defeat all enemy forces, while ensuring that the civilians remain alive. Moving next to a civilian will allow you to control them and evacuate them from the battlefield."
-msgstr ""
+msgstr "民間人の生存を確保しつつ、すべての敵勢力を倒してください。民間人の隣に移動すれば、彼らを操作し戦場から非難させることが可能になります。"
 
 #| msgctxt "Game Over/KEY_MISSION_TYPE_HAVEN_DEFENSE"
 #| msgid "HAVEN DEFENSE MISSIONS"
