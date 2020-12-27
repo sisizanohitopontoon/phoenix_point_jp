@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2020-12-27 12:59+0000\n"
+"PO-Revision-Date: 2020-12-27 13:03+0000\n"
 "Last-Translator: higema <ltdhyndsh@yahoo.co.jp>\n"
 "Language-Team: \n"
 "Language: ja\n"
@@ -2410,7 +2410,7 @@ msgstr "インベントリに空きがない"
 
 msgctxt "Cthulhu/KEY_BASE_PROMPT_HARVEST_ALIEN_FOR_FOOD"
 msgid "Kill the Pandoran {0} for {1} food?"
-msgstr "食料用{1}を獲得するためパンドラン・{0}を殺処分しますか？"
+msgstr "食料{1}を獲得するためパンドラン・{0}を殺処分しますか？"
 
 msgctxt "Cthulhu/KEY_BASE_PROMPT_HARVEST_ALIEN_FOR_MUTAGENS"
 msgid "Kill the Pandoran {0} for {1} mutagens?"
@@ -9232,7 +9232,7 @@ msgstr "パンドランの付属能力 - マインドコントロール"
 
 msgctxt "General Tactical Hints/KEY_TAC_HINT_ENEMY_SPECIAL_MINDCONTROL_DESCRIPTION"
 msgid "Psychic Sirens have the ability to Mind Control units with low Will Points. Disable their head to remove mind control."
-msgstr "超能力持ちであるサイレンは、ウィルポイントが低いユニットをマインドコントロールするアビリティを所持しています。マインドコントロール消し去るためには、サイレンの頭部を使用不能にしてください。"
+msgstr "超能力持ちであるサイレンは、ウィルポイントが低いユニットをマインドコントロールするアビリティを所持しています。マインドコントロールを消し去るためには、サイレンの頭部を使用不能にしてください。"
 
 msgctxt "General Tactical Hints/KEY_TAC_HINT_ENEMY_SPECIAL_ACIDSPIT_NAME"
 msgid "PANDORAN SUPPLEMENTAL - ACID SPITTING"
@@ -15606,7 +15606,7 @@ msgstr "この兵士を募集するための基地の居住区スペースが足
 
 msgctxt "Geoscape/KEY_MESSAGE_NOT_ENOUGHT_BASE_SPACE_STORAGE"
 msgid "You don't have enough Storage space in your bases to store items."
-msgstr "アイテムを保管するための基地の倉庫の空きが足りません。"
+msgstr "アイテムを保管するための[LF]基地の倉庫のスペースが不足しています。"
 
 msgctxt "Geoscape/KEY_MESSAGE_NOT_ENOUGHT_BASE_SPACE_VEHICLE"
 msgid "You don't have enough hangar space to maintain more vehicles or aircraft."
