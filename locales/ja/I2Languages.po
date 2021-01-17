@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2021-01-17 09:28+0000\n"
+"PO-Revision-Date: 2021-01-17 09:32+0000\n"
 "Last-Translator: higema <ltdhyndsh@yahoo.co.jp>\n"
 "Language-Team: \n"
 "Language: ja\n"
@@ -13310,12 +13310,11 @@ msgctxt "Mutation Screen/KEY_MUTATION_PART_PRIEST2_LONG_DESCRIPTION"
 msgid "Created from DNA of from the Blind Legate, the mutation allows a priest to perform Instil Frenzy (increase Speed by 50% and make them immune to panic) on allied characters."
 msgstr "ブラインド・レギットのDNAから創られたこの 変異は、プリーストが味方キャラクター達に激昂(スピードの50%増加とパニック無効)を植え付けることを可能にする。"
 
-#, fuzzy
 #| msgctxt "Mutation Screen/KEY_MUTATION_PART_PRIEST3_LONG_DESCRIPTION"
 #| msgid "Engineered from the Keeper of the Threshhold’s DNA, the mutation grants the ability to perform a Psychic Scream (depletes 2 Will Points from enemy living entities within 7 tiles)."
 msgctxt "Mutation Screen/KEY_MUTATION_PART_PRIEST3_LONG_DESCRIPTION"
 msgid "Engineered from the Keeper of the Threshhold’s DNA, the mutation grants the ability to perform a Psychic Scream (reduces the Will Points of all enemy units in an 8 tile radius)."
-msgstr "キーパー・オブ・ザ・スレショルドのDNAから 設計された この変異は、サイキックスクリームの アビリティを 行うことを可能にする。 (8タイル内の生物敵のウィルポイントを10消耗させる)"
+msgstr "キーパー・オブ・ザ・スレショルドのDNAから設計されたこの変異は、サイキックスクリームのアビリティを行うことを可能にする。(8タイル内にいる全ての敵のウィルポイントを減少させる)"
 
 #, fuzzy
 #| msgctxt "Mutation Screen/KEY_MUTATION_PART_TORSO_REGEN_LONG_DESCRIPTION"
@@ -17509,7 +17508,6 @@ msgctxt "Loading Tips/KEY_GEOSCAPE_LOADING_TIP_3"
 msgid "When a faction becomes SUPPORTIVE (25+) it will give you the location of all of its havens."
 msgstr "派閥との関係が支持(25+)になると、 その派閥は全ての所属ヘイヴンの位置を開示してくれます。"
 
-#, fuzzy
 #| msgctxt "Loading Tips/KEY_GEOSCAPE_LOADING_TIP_4"
 #| msgid "When faction relations reach 50 you are ALIGNED - and that faction will share its research with you."
 msgctxt "Loading Tips/KEY_GEOSCAPE_LOADING_TIP_4"
@@ -19236,7 +19234,6 @@ msgctxt "Equipment/KEY_TURRET_DESCRIPTION"
 msgid "New Jericho Gauss Auto Turret"
 msgstr "ニュージェリコ ガウスオートタレット"
 
-#, fuzzy
 #| msgctxt "Equipment/KEY_PX_LASER_TURRET_NAME"
 #| msgid "Scorcher AT"
 msgctxt "Equipment/KEY_TURRET_NAME"
