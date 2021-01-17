@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2021-01-17 09:16+0000\n"
+"PO-Revision-Date: 2021-01-17 09:28+0000\n"
 "Last-Translator: higema <ltdhyndsh@yahoo.co.jp>\n"
 "Language-Team: \n"
 "Language: ja\n"
@@ -13291,7 +13291,6 @@ msgctxt "Mutation Screen/KEY_MUTATION_PART_LEG_SNEAKER_LONG_DESCRIPTION"
 msgid "Combining Triton and aquatic DNA, the mutation allows the ability to perform Electroshock kicks, as well as approach Sentinels without being detected."
 msgstr "トリトンと水生生物のDNAを組み合わせたこの 変異は、電気ショック性のキックの行使および、 探知されずにセンチネルに近づくことを可能にする。"
 
-#, fuzzy
 #| msgctxt "Mutation Screen/KEY_MUTATION_PART_LEG_STOMPER_LONG_DESCRIPTION"
 #| msgid ""
 #| "Created from Chiron DNA, the mutation grants additional +5 Strength, Stability Stance (20% ranged accuracy bonus in stance), and Stomping Attack (50 Shock damage to all within 3 tiles)."
@@ -13299,18 +13298,17 @@ msgctxt "Mutation Screen/KEY_MUTATION_PART_LEG_STOMPER_LONG_DESCRIPTION"
 msgid ""
 "Created from Chiron DNA, the mutation grants additional +5 Strength, Stability Stance (20% ranged accuracy bonus in stance), and Stomping Attack (Shock Attack affecting a 5-tile radius, dazing "
 "targets if shock value > target Hit Points)."
-msgstr "ケイロンのDNAから創り出されたこの変異は、 ストレングス+1と命中精度+12%を付与し、 ストンプ攻撃を行うことを可能にする。"
+msgstr "ケイロンのDNAから創り出されたこの変異はストレングス+1と命中精度+12%を付与し、ストンプ攻撃(半径5タイル以内に効果を及ぼすショック攻撃。そのショック値がターゲットのHPを上回った際に放心状態にさせる)を行うことを可能にする。"
 
 msgctxt "Mutation Screen/KEY_MUTATION_PART_PRIEST1_LONG_DESCRIPTION"
 msgid "Based on DNA from the Synod of Yearning, the mutation restores 2 Will Points to all friendly living entities within 7 tiles at the start of each turn."
 msgstr "シノッド・オブ・ヤーニングのDNAをベースとしたこの変異は、毎ターン開始に半径7タイル以内にいる 味方生物のウィルポイントを2回復させる。"
 
-#, fuzzy
 #| msgctxt "Mutation Screen/KEY_MUTATION_PART_PRIEST2_LONG_DESCRIPTION"
 #| msgid "Created from DNA of from the Blind Legate, the mutation allows a priest to perform Instil Frenzy on allied characters."
 msgctxt "Mutation Screen/KEY_MUTATION_PART_PRIEST2_LONG_DESCRIPTION"
 msgid "Created from DNA of from the Blind Legate, the mutation allows a priest to perform Instil Frenzy (increase Speed by 50% and make them immune to panic) on allied characters."
-msgstr "ブラインド・レギットのDNAから創られたこの 変異は、 プリーストが味方キャラクターへの インスティル・フレンジーを行うことを 可能にする。"
+msgstr "ブラインド・レギットのDNAから創られたこの 変異は、プリーストが味方キャラクター達に激昂(スピードの50%増加とパニック無効)を植え付けることを可能にする。"
 
 #, fuzzy
 #| msgctxt "Mutation Screen/KEY_MUTATION_PART_PRIEST3_LONG_DESCRIPTION"
