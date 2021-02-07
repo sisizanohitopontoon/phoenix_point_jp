@@ -3643,8 +3643,8 @@ msgid "READY FOR ACTION"
 msgstr "准备行动"
 
 msgctxt "Abilities/KEY_RECOVER_DESCRIPTION"
-msgid "Recover Will Points equal to half Willpower, and end this character's turn"
-msgstr "恢复意志力点数，恢复量等于意志力的一半，并结束该角色的回合"
+msgid "Recover Will Points equal to half Willpower, and become immune to Panic for one turn. End the character's current turn."
+msgstr "恢复等于意志力一半的意志力点数并免疫恐慌，持续一回合。结束角色的当前回合。"
 
 msgctxt "Abilities/KEY_RECOVER_NAME"
 msgid "RECOVER"
@@ -3902,6 +3902,14 @@ msgctxt "Abilities/KEY_USE_MEDKIT_NAME"
 msgid "USE MEDKIT"
 msgstr "使用医疗包"
 
+msgctxt "Abilities/KEY_USE_ADVANCED_MEDKIT_DESCRIPTION"
+msgid "Restore {GeneralHealAmount} Hit Points and remove bleeding, poison, and 50% paralysis"
+msgstr "[null]"
+
+msgctxt "Abilities/KEY_USE_ADVANCED_MEDKIT_NAME"
+msgid "USE MEDKIT"
+msgstr "[null]"
+
 msgctxt "Abilities/KEY_VANISH_DESCRIPTION"
 msgid "Move within 5 tiles and disappear from view for the next turn (or until spotted)"
 msgstr "移动 5 格以内的距离，在下一回合从视野中消失（或直到被发现为止）"
@@ -4103,8 +4111,8 @@ msgid "WEAK SPOT"
 msgstr "弱点"
 
 msgctxt "Abilities/KEY_SNIPER_MARK_FOR_DEATH_DESCRIPTION"
-msgid "Mark an enemy target. Until the end of the turn, each hit from an attack or individual round gets +10 damage."
-msgstr "标记一个敌方目标。直到回合结束，攻击或单轮开火每次命中的伤害 +10 点。"
+msgid "Mark an enemy target. Until the end of the turn, each hit from an attack or individual round gets +10 damage. This effect does not stack."
+msgstr "标记一个敌方单位。在回合结束前，攻击的每次命中或单发子弹获得 +10 伤害。此效果不会叠加。"
 
 msgctxt "Abilities/KEY_SNIPER_MARK_FOR_DEATH_NAME"
 msgid "MARKED FOR DEATH"
@@ -4151,8 +4159,8 @@ msgid "REMOTE CONTROL"
 msgstr "远程控制"
 
 msgctxt "Abilities/KEY_TECHNICIAN_FIELD_MEDIC_DESCRIPTION"
-msgid "Restore 10 Hit Points and 10 Armor to all body parts of the selected target. Disabled body parts are restored."
-msgstr "为所选目标的所有身体部位恢复 10 点生命值和 10 点护甲。治愈损坏的身体部位。"
+msgid "Restore 10 Hit Points and 10 Armor to all body parts of the selected target, and remove 50% Paralysis. Disabled body parts are restored."
+msgstr "为所选目标的所有身体部位恢复 10 点生命值和 10 点护甲，并移除 50% 的麻痹值。治愈损坏的身体部位。"
 
 msgctxt "Abilities/KEY_TECHNICIAN_FIELD_MEDIC_NAME"
 msgid "FIELD MEDIC"
@@ -4390,8 +4398,16 @@ msgctxt "Abilities/KEY_USE_THROW_TURRET_NAME"
 msgid "THROW TURRET"
 msgstr "投掷炮台"
 
+msgctxt "Abilities/KEY_USE_ADVANCED_VIROPHAGE_KIT_DESCRIPTION"
+msgid "Restore {GeneralHealAmount} Hit Points, and remove 50% paralysis and all viral infection"
+msgstr "[null]"
+
+msgctxt "Abilities/KEY_USE_ADVANCED_VIROPHAGE_KIT_NAME"
+msgid "VIROPHAGE MEDKIT"
+msgstr "噬病毒体医疗包"
+
 msgctxt "Abilities/KEY_USE_VIROPHAGE_KIT_DESCRIPTION"
-msgid "Restore {GeneralHealAmount} Hit Points, and removes all viral infection"
+msgid "Restore {GeneralHealAmount} Hit Points and remove all viral infection"
 msgstr "恢复 {GeneralHealAmount} 点生命值，并移除所有病毒感染"
 
 msgctxt "Abilities/KEY_USE_VIROPHAGE_KIT_NAME"
@@ -4431,8 +4447,8 @@ msgid "MIND CONTROL"
 msgstr "心灵控制"
 
 msgctxt "Abilities/KEY_SY_VEHICLE_FULL_RESTORE_DESCRIPTION"
-msgid "Fully heal and repair target"
-msgstr "完全治愈并修复目标"
+msgid "Fully heal and repair target, remove 50% Paralysis"
+msgstr "完全治愈并修复目标，移除 50% 的麻痹值"
 
 msgctxt "Abilities/KEY_SY_VEHICLE_FULL_RESTORE_NAME"
 msgid "FULL RESTORE"
@@ -5161,6 +5177,158 @@ msgstr "在游戏内商店购买的所有内容将从 Sony Interactive Entertain
 msgctxt "Polaris/KEY_DLC_NEW"
 msgid "NEW"
 msgstr "新"
+
+msgctxt "Polaris/KEY_BUTTON_UNDO"
+msgid "UNDO"
+msgstr "撤消"
+
+msgctxt "Behemoth/KEY_GEOSCAPE_ALIEN_RAID_RECON_STARTED"
+msgid "Alien Recon raid started!"
+msgstr "[null]"
+
+msgctxt "Behemoth/KEY_GEOSCAPE_ALIEN_RAID_SUPPLY_STARTED"
+msgid "Alien Supply raid started!"
+msgstr "[null]"
+
+msgctxt "Behemoth/KEY_GEOSCAPE_ALIEN_RAID_BOMB_HEVEN_STARTED"
+msgid "Alien raid started against a Haven!"
+msgstr "[null]"
+
+msgctxt "Behemoth/KEY_GEOSCAPE_ALIEN_RAID_INFEST_HAVEN_STARTED"
+msgid "Alien Infestation raid started!"
+msgstr "[null]"
+
+msgctxt "Behemoth/KEY_GEOSCAPE_ALIEN_RAID_BOMB_PHOENIX_STARTED"
+msgid "Alien raid started against a Phoenix Base!"
+msgstr "[null]"
+
+msgctxt "Behemoth/KEY_GEOSCAPE_ALIEN_RAID_DESTROY_HAVEN_STARTED"
+msgid "Alien Heavy Bombardment raid started against a haven!"
+msgstr "[null]"
+
+msgctxt "Behemoth/KEY_GEOSCAPE_ALIEN_RAID_RECON_SUCCESSFUL"
+msgid "Alien Recon raid ended safely!"
+msgstr "[null]"
+
+msgctxt "Behemoth/KEY_GEOSCAPE_ALIEN_RAID_SUPPLY_SUCCESSFUL"
+msgid "Alien Supply raid ended safely!"
+msgstr "[null]"
+
+msgctxt "Behemoth/KEY_GEOSCAPE_ALIEN_RAID_BOMB_HEVEN_SUCCESSFUL"
+msgid "Alien raid against a Haven ended successfully!"
+msgstr "[null]"
+
+msgctxt "Behemoth/KEY_GEOSCAPE_ALIEN_RAID_INFEST_HAVEN_SUCCESSFUL"
+msgid "Alien Infestation raid  ended successfully!"
+msgstr "[null]"
+
+msgctxt "Behemoth/KEY_GEOSCAPE_ALIEN_RAID_BOMB_PHOENIX_SUCCESSFUL"
+msgid "Alien raid against a Phoenix Base ended successfully!"
+msgstr "[null]"
+
+msgctxt "Behemoth/KEY_GEOSCAPE_ALIEN_RAID_DESTROY_HAVEN_SUCCESSFUL"
+msgid "Alien Heavy Bombardment raid against a haven ended successfully!"
+msgstr "[null]"
+
+msgctxt "Behemoth/KEY_GEOSCAPE_ALIEN_RAID_RECON_FAILED"
+msgid "Alien Recon raid was destroyed!"
+msgstr "[null]"
+
+msgctxt "Behemoth/KEY_GEOSCAPE_ALIEN_RAID_SUPPLY_FAILED"
+msgid "Alien Supply raid was destroyed!"
+msgstr "[null]"
+
+msgctxt "Behemoth/KEY_GEOSCAPE_ALIEN_RAID_BOMB_HEVEN_FAILED"
+msgid "Alien raid against a Haven was destroyed!"
+msgstr "[null]"
+
+msgctxt "Behemoth/KEY_GEOSCAPE_ALIEN_RAID_INFEST_HAVEN_FAILED"
+msgid "Alien Infestation raid was destroyed!"
+msgstr "[null]"
+
+msgctxt "Behemoth/KEY_GEOSCAPE_ALIEN_RAID_BOMB_PHOENIX_FAILED"
+msgid "Alien raid against a Phoenix Base was destroyed!"
+msgstr "[null]"
+
+msgctxt "Behemoth/KEY_GEOSCAPE_ALIEN_RAID_DESTROY_HAVEN_FAILED"
+msgid "Alien Heavy Bombardment raid against a haven was destroyed!"
+msgstr "[null]"
+
+msgctxt "Behemoth/KEY_PX_AIRSHIP_2_DESCRIPTION"
+msgid "Phoenix Air Vehicle"
+msgstr "[null]"
+
+msgctxt "Behemoth/KEY_UNIT_TYPE_MASKED_MANTICORES"
+msgid "MASKED MANTICORES"
+msgstr "[null]"
+
+msgctxt "Behemoth/KEY_GEOSCAPE_PX_AIRCRAFT_2"
+msgid "MASKED MANTICORE {0}"
+msgstr "[null]"
+
+msgctxt "Behemoth/KEY_PX_AIRSHIP_2_NAME"
+msgid "MASKED MANTICORE"
+msgstr "[null]"
+
+msgctxt "Behemoth/KEY_AIRCRAFT_PP_2_LONG"
+msgid "Placeholder description of masked manticore"
+msgstr "[null]"
+
+msgctxt "Behemoth/KEY_GEOSCAPE_BEHEMOTH_EMERGED_MESSAGE"
+msgid "Placeholder notification when the behemoth emerges"
+msgstr "[null]"
+
+msgctxt "Behemoth/KEY_GEOSCAPE_BEHEMOTH_DESTROYED_HAVEN_MESSAGE"
+msgid "Placeholder notification when the behemoth destroys a haven"
+msgstr "[null]"
+
+msgctxt "Behemoth/KEY_LAUNCH_MISSION_BEHEMOTH_DESCRIPTION"
+msgid "Deploy squad against the behemoth"
+msgstr "[null]"
+
+msgctxt "Behemoth/KEY_BEHEMOTH_ATTACK_TITLE"
+msgid "Kill the behemoth (placeholder)"
+msgstr "[null]"
+
+msgctxt "Behemoth/KEY_BEHEMOTH_ATTACK_OBJECTIVES"
+msgid "INJECT BEHEMOTH (placeholder)"
+msgstr "[null]"
+
+msgctxt "Orryx/KEY_STATUS_PANIC_IMMUNITY_NAME"
+msgid "RECOVERED"
+msgstr "恢复"
+
+msgctxt "Orryx/KEY_STATUS_PANIC_IMMUNITY_DESCRIPTION"
+msgid "Immune to panic for one turn."
+msgstr "免疫恐慌，持续一回合。"
+
+msgctxt "Orryx/KEY_DAMAGE_TYPE_BASH"
+msgid "BASH"
+msgstr "猛击"
+
+msgctxt "Orryx/KEY_DAMAGE_TYPE_BASH_DESC"
+msgid "BASH inflicts damage and shock value equal to held item's weight multiplied by Strength. 25% of the value is applied to the item used for bashing."
+msgstr "猛击会造成伤害和冲击值，数值等于所持物品的重量乘以力量。其中 25 %的数值将作用于猛击使用的物品。"
+
+msgctxt "Orryx/KEY_OPTIONS_ANIMATION_SPEED_LEVEL"
+msgid "ANIMATION SPEED"
+msgstr "动画速度"
+
+msgctxt "Orryx/KEY_OPTIONS_ANIMATION_SPEED_STANDARD"
+msgid "STANDARD"
+msgstr "标准"
+
+msgctxt "Orryx/KEY_OPTIONS_ANIMATION_SPEED_FAST"
+msgid "FAST"
+msgstr "快"
+
+msgctxt "Orryx/KEY_OPTIONS_ANIMATION_SPEED_FASTER"
+msgid "VERY FAST"
+msgstr "非常快"
+
+msgctxt "Orryx/KEY_OPTIONS_ANIMATION_SPEED_FASTEST"
+msgid "FASTEST"
+msgstr "极快"
 
 msgctxt "Game Over/KEY_GAME_SUMMARY_WORLD_STATE"
 msgid "WORLD STATE"
@@ -7727,8 +7895,8 @@ msgid "Paralyze Damage"
 msgstr "麻痹伤害"
 
 msgctxt "Phoenixpedia/KEY_PHOENIXPEDIA_GUIDE_PARALYSE_DESC"
-msgid "If a weapon inflicts at least some Standard Damage, then the Paralyze Damage value of the weapon is added to the target's paralysis value. Paralysis value can accumulate in a target from multiple attacks.[LF][LF]The target will lose Action Points based on the proportion of paralysis to the character's strength. For example, if the character has a paralysis value of 10 and a strength of 20, it will lose half its Action Points, leaving 2 APs per turn. If the paralysis value exceeds the victim's Strength, then it will be completely paralyzed and unable to do anything.[LF][LF]Paralyze value decreases by 1 per turn, and victims will slowly recover their Action Points.[LF][LF]You will need to paralyze Pandorans in order to capture them for live research."
-msgstr "如果某武器造成了标准伤害，那么其麻痹伤害值就会增加至目标当前的麻痹数值。多次攻击目标可累积麻痹值。[LF][LF]目标将根据麻痹值与力量值的比例失去行动点数。例如，如果角色的麻痹值是 10 点，力量值是 20 点，角色将失去一半的行动点数，因此每回合只拥有 2 点行动点数。如果目标的麻痹值超过了力量值，目标就会被完全麻痹，不能做任何事情。[LF][LF]麻痹值每回合减少 1 点，受害者的行动点数也将慢慢恢复。[LF][LF]你需要先麻痹潘多拉体才能捕获它们进行活体研究。"
+msgid "If a weapon inflicts at least some Standard Damage, then the Paralyze Damage value of the weapon is added to the target's paralysis value. Paralysis value can accumulate in a target from multiple attacks.[LF][LF]The target will lose Action Points based on the proportion of paralysis to the character's strength. For example, if the character has a paralysis value of 10 and a strength of 20, it will lose half its Action Points, leaving 2 APs per turn. If the paralysis value exceeds the victim's Strength, then it will be completely paralyzed and unable to do anything.[LF][LF]Paralyze value decreases by 1 per turn, and victims will slowly recover their Action Points. Improved Medkits, Technicians, and Aspidas remove 50% Paralysis when healing.[LF][LF]You will need to paralyze Pandorans in order to capture them for live research."
+msgstr "如果某武器至少造成了一些标准伤害，那么就可以将其麻痹伤害数值增加至目标的麻痹值。多次攻击目标可累积麻痹值。[LF][LF] 目标将根据角色的麻痹值与力量值的比例失去行动点数。例如，如果角色的麻痹值是 10 点，力量值是 20 点，那么角色将失去一半的行动点数，因此每回合只拥有 2 点行动点数。如果目标的麻痹值超过了力量值，目标就会被完全麻痹，不能做任何事情。[LF][LF] 麻痹值每回合会减少 1 点，受害者的行动点数也将慢慢恢复。改进医疗包、技术兵和悬浮车在治疗时能够移除 50% 的麻痹值。[LF] [LF] 你需要先麻痹潘多拉体，然后才能将其捕获以进行研究。"
 
 msgctxt "Phoenixpedia/KEY_PHOENIXPEDIA_GUIDE_VIRUS_NAME"
 msgid "Virus Damage"
@@ -8087,7 +8255,7 @@ msgid "Tritons have developed the skill to use sniper rifles, posing a significa
 msgstr "触手鱼人掌握了使用狙击步枪的技能，它们在远距离构成了巨大的威胁。"
 
 msgctxt "General Tactical Hints/KEY_TAC_HINT_ENEMY_SPECIAL_SHROWD_NAME"
-msgid "PANDORAN SUPPLEMENTAL - SHROWD"
+msgid "PANDORAN SUPPLEMENTAL - SHROUD"
 msgstr "潘多拉体辅助 - 遮蔽雾气"
 
 msgctxt "General Tactical Hints/KEY_TAC_HINT_ENEMY_SPECIAL_SHROWD_DESCRIPTION"
@@ -12458,6 +12626,158 @@ msgctxt "Controls/KEY_CONTROLS_ACTION_INPUT_NEXT_ABILITY"
 msgid "{[NextAbility]}"
 msgstr "[null]"
 
+msgctxt "Opening Screen/KEY_BSNAPSHOT_GAMES_INC_BACKER_BUILD_END1"
+msgid "SNAPSHOT GAMES, INC.[LF]END USER LICENSE AGREEMENT[LF][LF]This End User License Agreement (“Agreement”) is a contract between you and Snapshot Games, Inc. (“Snapshot” or “we” or “us”) for you to use the Phoenix Point computer game (collectively, the “Software”).[LF][LF]PLEASE READ THIS AGREEMENT CAREFULLY. IT CONTAINS IMPORTANT TERMS THAT AFFECT YOU, YOUR USE OF THE SOFTWARE, AND ANY FEEDBACK (DEFINED BELOW) YOU PROVIDE TO US. BY CLICKING “I ACCEPT”, “I AGREE”, OR A SIMILAR ACKNOWLEDGEMENT OF AGREEMENT OR BY DOWNLOADING, INSTALLING, COPYING OR USING THE SOFTWARE, YOU AGREE TO BE BOUND BY THE TERMS OF THIS AGREEMENT. IF YOU DO NOT AGREE TO THESE TERMS, DO NOT DOWNLOAD, INSTALL, COPY OR USE THE SOFTWARE OR SUBMIT ANY FEEDBACK TO US.  THIS AGREEMENT CONSTITUTES A VALID AND BINDING LEGAL CONTRACT BETWEEN YOU AND US.[LF][LF]For information on how we collect and use your information, see our Privacy Policy located here: https://phoenixpoint.info/privacy-policy.[LF][LF]1.        Acceptance of this Agreement.[LF](a)        By an Individual 18 Years of Age or Older.  Any individual who is at least 18 years of age or the legal age of majority under applicable law may accept the terms and conditions of this Agreement by selecting the “I Accept,” “I Agree,” or similar acknowledgment of agreement or by downloading, installing, copying, or using the Software.  By accepting the terms and conditions of this Agreement, you acknowledge that you have read, understood, and accepted the terms and conditions of this Agreement and agree to be bound thereby.[LF](b)        By an Individual Between the Ages of 13 and 17 Years.  Any individual who is a minor (as determined by the state or province of your residence) and 13 years of age or older (an “Eligible Minor”) must have his or her parent or legal guardian indicate consent to the terms and conditions of this Agreement.  An Eligible Minor’s parent or legal guardian may accept the terms and conditions of this Agreement by selecting the “I Accept”, “I Agree”, or similar acknowledgment of agreement or by downloading, installing, copying, or using the Software on behalf of such Eligible Minor.  By accepting the terms and conditions of this Agreement, the parent or legal guardian of the Eligible Minor acknowledges that he or she has read, understood, and accepted the terms and conditions of this Agreement on behalf of such Eligible Minor and on behalf of themselves and agrees to be bound thereby.  Without limiting the foregoing, Parents and legal guardians understand that they are responsible for the acts and activities of their Eligible Minors in connection with any installation, copying, or use of the Software.[LF](c)        By an Individual Under the Age of 13 Years.  The Software is not targeted towards, nor intended for use by, anyone under the age of 13.  Children under the age of 13 are not eligible to install, copy, or use the Software, notwithstanding that they may have the consent of a parent or legal guardian.[LF](d)        Import and Export Control Laws.  You may not accept the terms and conditions of this Agreement or download, install, copy or use the Software if (a) you are a resident of any U.S. embargoed countries or (b) you are listed on the U.S. Treasury Department’s list of Specially Designated Nationals or the U.S. Department of Commerce Denied Person’s List or Entity List.  By downloading, installing or using any component of the Software, you represent and warrant that you are not located in, under control of, or a national or resident of any such country or jurisdiction or on any such list.[LF][LF]2.        Software License. Subject to the terms of this Agreement, your compliance with the terms of service, terms of use, subscriber agreement or other terms of the Web site from which you obtain the Software (“Terms of Service”) which govern your use of such Web sites' services to, among other activities, obtain the Software, and your compliance with any other agreement you may have entered with us governing your use of Software-related services (the “Service”), we grant you a nonexclusive, nontransferable, nonsublicenseable license to download, install and use one copy of the Software in binary executable form only on a single personal computing device solely for your own, personal use of the Software and Service. The terms of this Agreement supplement any applicable Terms of Service and supersede those Terms of Service where this Agreement and the Terms of Service conflict.  Any Snapshot software that updates, upgrades, supplements, replaces, or offers patches to the Software is governed by this Agreement unless separate license terms accompany such update, upgrade, supplement, replacement, or patch, in which case such separate terms will govern in the event of a conflict with this Agreement or as otherwise provided in such separate terms.[LF][LF]3.        License Limitations. The preceding states the entirety of your rights with respect to the Software, and we reserve all rights in and to the Software and Services not expressly granted to you in this Agreement. Without limiting the foregoing, you will not do, or authorize or permit any third party to do, any of the following: (a) distribute, license or sell the Software; (b) use the Software for any purpose other than your own personal, noncommercial use; (c) reverse engineer, decompile, disassemble or attempt to discover the source code for the Software; (d) modify, alter or create any derivative works of the Software; (e) remove, alter or obscure any copyright, trademark or other proprietary rights notice on or in the Software; (f) use the Software to commit any crime or violate any applicable local, state, national, or international law, regulation, ordinance, or treaty including, but not limited to, any fraud, misrepresentation, money laundering, or illegal gambling; (g) use the Software to access, or attempt to access, facilities, networks, equipment, or systems of Snapshot, Snapshot Parties (as defined below), another user, or any other third party, including any partner of Snapshot, without authorization; (h) use or access the Software for the purposes of, or in connection with, (1) using, or attempting to use, any cheat codes, devices, tools, or processes, including, but not limited to, any third-party code sets or utilities (including any code sets or utilities developed by you or on your behalf), or (2) distributing, publishing, or otherwise making available or publicizing in any way any such cheat codes, devices, tools, or processes; or (i) circumvent or attempt to circumvent any methods employed by Snapshot to control access to the components, features or functions of the Software or Service. [LF][LF]4.        Ownership. The Software is the valuable property of Snapshot and its licensors and is protected by copyright and other intellectual property laws and treaties. We and our licensors own all right, title and interest in and to the Software, including all copyright and other intellectual property rights in the Software.[LF][LF]5.        Feedback. In the course of using the Software, you may provide to Snapshot materials, information and feedback on the Software (including, without limitation, questions, comments, suggestions, or the like) regarding the performance, features, gameplay and functionality of the Software or Service (“Feedback”). .  You hereby grant to Snapshot an exclusive, royalty-free, irrevocable, perpetual worldwide right and license to reproduce, use, disclose, exhibit, display, transform, create derivative works and distribute any such Feedback without limitation. Further, we will be free to use any ideas, concepts, know-how or techniques contained in such Feedback for any purpose whatsoever, including, without limitation, developing, manufacturing, marketing and selling products and services incorporating such Feedback. We will have no obligation to consider, use, return or preserve any Feedback you provide to us. Any Feedback you provide to us may or may not be treated confidentially by us, and we will have no obligation or liability to you for the use or disclosure of any Feedback. You should not to expect any compensation of any kind from us with respect to your Feedback. [LF][LF]6.        Disclaimers. YOU ACKNOWLEDGE THE SOFTWARE AND SERVICE ARE PROVIDED “AS IS,” WITH ALL FAULTS, DEFECTS AND ERRORS, AND WITHOUT WARRANTY OF ANY KIND. SNAPSHOT DISCLAIMS ALL WARRANTIES (EXPRESS OR IMPLIED AND ARISING BY LAW OR OTHERWISE) REGARDING THE SOFTWARE AND SERVICE AND THEIR PERFORMANCE OR SUITABILITY FOR YOUR INTENDED USE, INCLUDING WITHOUT LIMITATION ANY IMPLIED WARRANTY OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, OR NONINFRINGEMENT. WITHOUT LIMITING THE FOREGOING, SNAPSHOT DOES NOT WARRANT THAT THE SOFTWARE WILL BE FREE OF BUGS, ERRORS, VIRUSES, OR OTHER DEFECTS.  SNAPSHOT WILL HAVE NO LIABILITY OF ANY KIND FOR THE USE OF OR INABILITY TO USE THE SOFTWARE OR ANY SERVICE THAT THE SOFTWARE IS INTENDED TO ACCESS, OR FOR ANY LOSS OF DATA.  PORTIONS OF THE SOFTWARE INCLUDE USER CONTENT WHICH MAY BE DEEMED TO BE OBSCENE OR OFFENSIVE.  SNAPSHOT CANNOT (A) REVIEW ALL USER CONTENT BEFORE IT IS INTEGRATED INTO THE SOFTWARE AND (B) ENSURE PROMPT REMOVAL OF OBJECTIONABLE MATERIAL AFTER IT HAS BEEN INTEGRATED INTO THE SOFTWARE. ACCORDINGLY, SNAPSHOT WILL HAVE NO LIABILITY OF ANY KIND FOR ANY ACTION OR INACTION REGARDING TRANSMISSIONS, COMMUNICATIONS, OR CONTENT PROVIDED BY ANY USER OR THIRD PARTY. [LF][LF]7.        Indemnification. You will defend, indemnify and hold harmless Snapshot, its affiliates, independent contractors and service providers, and each of their respective members, directors, officers, employees and agents (“Snapshot Parties”), from and against all claims, damages, costs, liabilities and expenses (including, but not limited to, reasonable attorneys’ fees) arising out of or related to your use of, or inability to use, the Software or Service.  IF YOU ARE AN ELIGIBLE MINOR, YOUR PARENTS OR LEGAL GUARDIANS FURTHER WILL DEFEND, INDEMNIFY AND HOLD HARMLESS EACH OF THE SNAPSHOT PARTIES FROM ANY CLAIMS, DAMAGES, COSTS, INJURIES, LOSSES, OR EXPENSES ARISING OUT OF OR RELATED TO YOUR USE OF, OR INABILITY TO USE, THE SOFTWARE.[LF][LF][LF]"
+msgstr "SNAPSHOT GAMES, INC.[LF]最终用户许可协议[LF][LF]本最终用户许可协议(“协议”)是您与 Snapshot Games, Inc.(“Snapshot”或“我们”或“我方”)之间，关于使用电子游戏 Phoenix Point（统称为本“软件”）的协议。[LF][LF]请仔细阅读本协议。本协议包含重要条款，将影响您、您对软件的使用以及向我们提供的任何反馈（定义参见下文）。通过点击“我接受”、“我同意”或类似的协议确认选项，或下载、安装、复制或使用本软件，即表明您同意受本协议条款的约束。如果您不同意这些条款，请勿下载、安装、复制或使用本软件或向我们提交任何反馈。本协议是您与我方之间有效且具有约束力的法律合同。[LF][LF]有关我们如何收集和使用您的信息，请参阅我们的《隐私权政策》：https://phoenixpoint.info/privacy-policy。[LF][LF]1.        接受本协议。[LF](a)        18 岁或以上的个人。根据其适用的法律，年满 18 岁或达到法定年龄的任何个人均可通过选择“我接受”、“我同意”或类似的协议确认选项，或下载、安装、复制或使用本软件，即表明接受本协议的条款和条件。接受本协议的条款和条件，即表示您已阅读、理解并接受本协议的条款和条件，并同意受其约束。[LF](b)        年龄在 13 到 17 岁之间的个人。任何未成年人（根据您当地的法律规定）和13岁或以上（“符合条件的未成年人”）必须由其父母或法定监护人表明同意本协议的条款和条件。符合条件的未成年人的父母或法定监护人可通过选择“我接受”、“我同意”或类似的协议确认选项，或代表该未成年人下载、安装、复制或使用本软件，即表明接受本协议的条款和条件。接受本协议的条款和条件，即表示该未成年人的父母或法定监护人已阅读、理解并代表该未成年人接受本协议的条款和条件，且表明自己和该未成年人同意受其约束。在不限制上述规定的情况下，父母和法定监护人明白，他们对该未成年人与任何安装、复制或使用本软件有关的行为和活动负责。[LF](c)        13 岁以下的个人。本软件并不针对 13 岁以下的任何个人，也并非专门供其使用。13 岁以下的儿童不得安装、复制或使用该软件，尽管他们可能已得到父母或法定监护人的同意。[LF](d)        进出口管制法律。如果(a)您是美国禁运国家的居民，或(b)您被列入美国财政部特别指定国民清单或商务部拒绝人员清单或实体清单上，则可能无法接受本协议的条款和条件，或下载、安装、复制或使用本软件。下载、安装或使用本软件的任何组件，即表示并保证您不处于任何此类国家或管辖区的所在地或控制之下，或是在任何此类列表上的国民或居民。[LF][LF]2.        软件许可。根据本协议的条款，您需遵守服务条款、使用条款、订阅者协议或获取本软件的网站的其他条款(“服务条款””)，其中规定了您对此类网站服务的使用，和获取本软件的其他活动，以及需遵守您与我们之间关于使用软件相关的服务所签订的任何其他协议(“服务”)，我们授予您非独占性、不可转让、不可转授的许可，仅可在单独的个人计算机设备上以二进制可执行形式下载、安装和使用本软件的一份副本，仅供您本人使用本软件和服务。本协议的条款可补充任何适用的服务条款，本协议与服务条款发生冲突时将代替服务条款。任何 Snapshot 公司对软件进行的更新、升级、补充、替换或提供的补丁均受本协议约束，除非这些更新、升级、补充、替换或补丁随附其独立的许可条款，此类独立条款与本协议或其他单独条款中的规定发生冲突，或独立条款有另行规定的，采用独立条款。[LF][LF]3.        许可限制。以上条目声明了您对软件的全部权利，我们保留本协议中未明确授予您的软件和服务中的权利，及与之相关的所有权利。在不限制上述规定的情况下，您不得做出、授权或允许任何第三方做出下列任何事情：(a) 分发、许可或出售本软件；(b) 将本软件用于除您个人、非商业用途之外的任何目的；(c)逆向工程、反编译、反汇编或试图获取软件源代码；(d) 修改、变更或创建软件的任何衍生作品；(e) 删除、更改或模糊本软件上或本软件中的任何版权、商标或其他所有权通知；(f) 使用本软件进行任何犯罪或违反任何适用的地方、州、国家或国际法、法规、条例或条约，包括但不限于任何欺诈、虚假陈述、洗钱或非法赌博；(g) 未经授权，使用本软件访问或试图访问 Snapshot、Snapshot 合作伙伴（定义见下文）、其他用户或任何其他第三方（包括 Snapshot 的任何合作伙伴）的设施、网络、设备或系统；(h) 为下列目的或与下列目的有关的目的使用或访问软件：(1) 使用或试图使用任何作弊代码、设备、工具或程序，包括但不限于任何第三方代码集或实用程序（包括任何由您开发或您代表开发的代码集或实用程序），或 (2) 分发、出版、或以任何方式提供或宣传任何这样的作弊代码、设备、工具或程序；或 (i) 规避或试图规避 Snapshot 用于控制访问软件或服务的组件、特性或功能的任何方法。[LF][LF]4.        所有权。本软件是 Snapshot 及其授权者的重要财产，受版权和其他知识产权法律和条约的保护。我们和我们的授权者拥有本软件的所有权利、所有权和利益，包括本软件的所有版权和其他知识产权。[LF][LF]5.        反馈。在使用本软件的过程中，您可以提供有关本软件或服务的性能、特色、可玩性和功能方面的资料、信息和反馈（包括但不限于问题、评论、建议或类似内容）(“反馈”)。您在此授予 Snapshot 独家、免版税、不可撤销的永久的权利和许可，以复制、使用、披露、展示、显示、转换和创造衍生作品，并无限制地发布任何此类反馈。此外，我们可以自由且出于任何目的使用此类反馈中包含的任何想法、概念、专门知识或技术，包括但不限于开发、制造、营销和销售包含此类反馈的产品和服务。我们没有义务考虑、使用、返回或保留您提供给我们的任何反馈。您向我们提供的任何反馈可能被我们保密，也可能不被我们保密，对于使用或披露任何反馈，我们不承担任何义务或责任。对于您的反馈，您不应该期望我们给予任何形式的报酬。[LF][LF]6.        免责声明。您承认软件和服务都是“按原样”提供的，包括所有的故障、缺陷和错误，并且没有任何形式的保证。Snapshot 对软件和服务及其性能或对您的预期用途的适用性不负任何责任（明示或暗示的，法律或其他方面产生的），包括但不限于对适销性、特定用途的适用性或不侵权的任何默认保证。在不限制上述的前提下，Snapshot 并不保证软件没有漏洞、错误、病毒缺陷或其他缺陷。对于使用或无法使用该软件、该软件拟使用的任何服务或任何数据丢失，不承担任何责任。该软件的部分内容包括可能被视为淫秽或具有冒犯性。Snapshot 无法 (A) 在将所有用户内容集成到软件之前对其进行审查，(B) 确保在将其集成到软件之后及时删除令人反感的内容。因此，Snapshot 对于任何用户或第三方提供的任何传输、通信或内容所采取的行动或不作为不承担任何责任。[LF][LF]7.        赔偿。您将为 Snapshot，其附属公司，独立承包商和服务提供商及其各自的成员，董事，管理人员，雇员和代理商({bi \\> Snapshot 合作伙伴\\ <bi \\}”)辩护，保护并使其免受损害，并反对由于您使用或无法使用软件或服务而引起或与之有关的所有索赔，损害，成本，负债和费用（包括但不限于合理的律师费）。\\{b \\>如果您是符合条件的未成年人，则您的父母或法定监护人将为 Snapshot 的各个合作伙伴辩护，使其免受因您使用或无法使用本软件而产生的或与之相关的任何索赔、损害、成本、伤害、损失或费用。[LF][LF]"
+
+msgctxt "Opening Screen/KEY_BSNAPSHOT_GAMES_INC_BACKER_BUILD_END2"
+msgid "8.        Limitation of Liability.  IN NO EVENT WILL ANY OF THE SNAPSHOT PARTIES BE LIABLE TO YOU OR ANY THIRD PARTY FOR ANY INDIRECT, CONSEQUENTIAL, SPECIAL, OR PUNITIVE DAMAGES, INCLUDING, BUT NOT LIMITED TO, LOSS OF USE, LOSS OF PROFITS, OR LOSS OF DATA, WHETHER IN AN ACTION IN CONTRACT, TORT (INCLUDING BUT NOT LIMITED TO NEGLIGENCE, WHETHER ACTIVE, PASSIVE, OR IMPUTED), OR OTHERWISE, ARISING OUT OF OR IN ANY WAY CONNECTED WITH THE SOFTWARE OR SERVICE, INCLUDING, WITHOUT LIMITATION, ANY DAMAGES CAUSED BY OR RESULTING FROM MISTAKES, OMISSIONS, INTERRUPTIONS, DELETION OF FILES OR E-MAIL, ERRORS, DEFECTS, VIRUSES, DELAYS IN OPERATION OR TRANSMISSION, OR ANY FAILURE OF PERFORMANCE, WHETHER OR NOT RESULTING FROM ACTS OF GOD, COMMUNICATIONS FAILURE, THEFT, DESTRUCTION, OR UNAUTHORIZED ACCESS TO SNAPSHOT’S RECORDS, PROGRAMS, OR SERVICES.  IN NO EVENT WILL THE AGGREGATE LIABILITY OF SNAPSHOT, WHETHER IN CONTRACT, WARRANTY, TORT (INCLUDING, BUT NOT LIMITED TO, NEGLIGENCE, WHETHER ACTIVE, PASSIVE, OR IMPUTED), PRODUCT LIABILITY, STRICT LIABILITY, OR OTHER THEORY, ARISING OUT OF OR RELATING TO THE SOFTWARE EXCEED THE PURCHASE PRICE THAT YOU PAID FOR A LICENSE TO THE SOFTWARE OR SERVICE.[LF][LF]9.        Arbitration; Governing Law.  [LF][LF]PLEASE READ THE FOLLOWING PARAGRAPH CAREFULLY BECAUSE IT REQUIRES YOU TO ARBITRATE DISPUTES AND LIMITS THE MANNER IN WHICH YOU CAN SEEK RELIEF FROM US.[LF][LF]You and Snapshot will arbitrate any dispute arising from this Agreement and your use of the Software, except that you and Snapshot are not required to arbitrate any dispute in which either party seeks equitable and other relief for the alleged unlawful use of copyrights, trademarks, trade names, logos, trade secrets, or patents. ARBITRATION PREVENTS YOU FROM SUING IN COURT OR FROM HAVING A JURY TRIAL. [LF]You and Snapshot will notify each other in writing of any dispute within thirty (30) days of when it arises. Notice to Snapshot will be sent to Snapshot Games, Inc., Attn: David Kaye, 145 S Fairfax Ave #200, Los Angeles CA 90036.  You and Snapshot further agree: to attempt informal resolution prior to any demand for arbitration; that any arbitration will occur in Los Angeles County, California; that arbitration will be conducted confidentially by a single arbitrator in accordance with the JAMS Streamlined Arbitration Rules; and that the state or federal courts in Los Angeles County, California have exclusive jurisdiction over any appeals of an arbitration award and over any suit between the parties not subject to arbitration. Other than class procedures and remedies discussed below, the arbitrator has the authority to grant any remedy that would otherwise be available in court.  Any dispute between the parties will be governed solely by both this Agreement and the laws of the State of California and applicable United States law, without giving effect to any conflict of laws principles that may provide for the application of the law of another jurisdiction.  The 1980 U.N. Convention on Contracts for the International Sale of Goods will not apply to this Agreement.  Whether the dispute is heard in arbitration or in court, you and Snapshot will not commence against the other a class action, class arbitration or other representative action or proceeding.[LF][LF]10.        Termination. Snapshot may terminate this Agreement at any time, with or without cause, immediately upon notice to you. Snapshot may also discontinue the Service at any time, in which case this Agreement will terminate automatically without notice. You may terminate this Agreement by ceasing use of the Software and Service, cancelling any account you may have with us to use the Service (if any), and deleting all copies of the Software in your possession or control. In the event of the termination of this Agreement for any reason: (a) the license granted to you in this Agreement will terminate; (b) you must immediately cease all use of the Software and Service and destroy or erase all copies of the Software in your possession or control; and (c) all sections of this Agreement except Section 2 will survive any such termination, together with the Terms of Service.[LF][LF][LF]11.        Import and Export Control Laws.  Snapshot is subject to regulation by agencies of the United States, such as the U.S. Department of Commerce, which prohibit export of certain products or technology to certain countries or nationals of certain countries.  You will not use or otherwise export or re-export the Software except as authorized by U.S. law and the laws of the jurisdiction in which the Software was obtained.  In particular, but without limitation, the Software may not be exported or re-exported (a) into (or to a nation or resident of) any U.S. embargoed countries or (b) to anyone on the U.S. Treasury Department’s list of Specially Designated Nationals or the U.S. Department of Commerce Denied Person’s List or Entity List.  [LF][LF]12.        General. (a) Severability. If any provision of this Agreement is held by a court of competent jurisdiction to be invalid, illegal, or unenforceable, the remainder of this Agreement will remain in full force and effect. (b) Assignment. You may not assign this Agreement or any of its rights under this Agreement without the prior written consent of Snapshot, and any attempted assignment without such consent will be void. Subject to the foregoing restriction, this Agreement will be fully binding upon, inure to the benefit of, and be enforceable by you, us, and each of your and our respective successors and assigns. (c) Entire Agreement. This Agreement, together with the Terms of Service, sets forth our entire agreement with respect to your use of the Software or Service and the subject matter hereof, and supersedes all prior and contemporaneous understandings and agreements whether written or oral.  No amendment, modification, or waiver of any of the provisions of this Agreement will be valid unless set forth in a written instrument signed by the party to be bound thereby. (d) Language. This Agreement is in the English language, which language will be controlling, even if interpretations of this Agreement in other languages are made."
+msgstr "8.        责任范围。\\ {2 \\>在任何情况下，任何 Snapshot 合作伙伴均不会对您或任何第三方负以下责任：任何间接的、随之发生的、特殊或惩罚性的损害，包括但不限于使用价值损失，利润损失或数据丢失，无论是在合同诉讼中还是侵权（包括但不限于疏忽大意，无论是主动、被动还是被归咎），或因软件和服务而产生的，及以任何方式与软件和服务相关的问题，包括但不限于由于错误，疏忽，干扰，文件或电子邮件的删除，错误，缺陷，病毒，操作或传输延迟，或由于任何不可抗力、通信失效、盗窃、破坏或未经授权访问 Snapshot 程序或服务造成的任何性能故障。Snapshot 就该软件引起或涉及该软件的总计责任无论是在合同、担保、侵权（包括但不限于疏忽，无论是主动，被动还是被归咎）、产品责任、无过错责任或是在其他原则中，都不会超出购买该软件或服务的许可所应付的价格。[LF][LF]9.        仲裁；适用法律。 [LF][LF]请仔细阅读以下段落，因为它要求您对争议进行仲裁，并限制了您向我们寻求救济的方式。[LF][LF]您和 Snapshot 可就因本协议和您对软件的使用而引起的任何争议进行仲裁，除非您和 Snapshot 都不需要仲裁争议，例如任何一方因涉嫌非法使用版权、商标、商号、标识、商业秘密或专利而寻求公平和其他救济。仲裁可避免您在法庭上被起诉或受到陪审团审判。[LF]如有任何争议，您和 Snapshot 将在争议发生后三十 (30) 天内以书面形式通知对方。寄往 Snapshot 的通知将送往 Snapshot Games, Inc.，收件人：David Kaye, 145 S Fairfax Ave #200, Los Angeles CA 90036。您和 Snapshot 进一步同意：在提出任何仲裁要求前尝试通过非正式途径解决；任何仲裁将在加利福尼亚州洛杉矶郡进行；该仲裁将由一名仲裁员根据 JAMS 精简仲裁规则秘密进行；并且加利福尼亚州洛杉矶郡的州或联邦法院对仲裁裁决的任何上诉以及当事方之间不受仲裁的任何诉讼具有专属管辖权。除下文讨论的类别程序及救济措施，仲裁员在庭上有权准予实施任何有效救济措施。各方的所有争议仅受此协议、加利福利亚洲法律以及适用的美国法律管辖，不影响任何可能规定适用其他司法管辖区法律的冲突法律原则。1980 年《联合国国际货物销售合同公约》不适用于本协议。无论是在仲裁中还是在法庭上审理，您方及 Snapshot 不得针对另一方提集体诉讼、集体仲裁或其他代表诉讼或程序。[LF][LF]10.        终止。 Snapshot 可随时无理由终止本协议，且在您收到对应通知时即刻生效。Snapshot 也可随时停止服务。在此种情况下，本协议将自动终止，且无需告知各相关方。如要终止本协议，您可停止使用软件及服务，即注销与我方相关的所有涉及此服务的账号（如有），并删除您持有的所有本软件副本。以任意理由终止本协议时：(a) 本协议准予您的许可将终止；(b) 您应当立即停止使用本软件及服务，并销毁或删除您持有的所有本软件副本；(c) 除本协议第 2 条外，本协议的所有条款以及服务条款将在任何此类终止后继续有效。[LF][LF][LF]11.        进出口管制法。  Snapshot 受美国机构监管，如禁止向某些国家或某些国家的国民出口某些产品或技术的美国商务部。除非获得美国法律和该软件所在司法管辖区的法律的授权，您不得使用或以其他方式出口或再出口该软件。尤其是（但不限于），本软件不可出口或再出口至 (a) 所有美国禁运国家（或这些国家的国民或居民）或 (b) 美国财务部特别指定国民清单或美国商务部拒绝人员清单或实体清单中包含的人员或实体。 [LF][LF]12.        通用。 (a) 效力瑕疵。如果本协议的任何条款被具有合法管辖权的法院裁定为无效、非法或不可执行，则本协议的其余部分将继续完全有效。(b) 转让。事先未经 Snapshot 书面同意时，您不得转让本协议或其附属权利，任何未经同意的转让都将无效。在遵守上述限制的前提下，本协议将完全受贵方、我方以及贵方和我方各自的继任者和受让人的约束，符合其利益并可由其执行。(c) 整体协议。本协议以及服务条款，规定了我们关于您使用软件或服务以及本协议主题的完整协议，并取代了所有先前和现在的书面或口头理解和协议。除对应方签署了受到约束的书面文书，对本协议所有条款的修订、修改或弃权声明均无法律效力。(d) 语言。本协议文字为英文，虽然本协议已通过其他语言进行解释，但最终应当以英文为准。[LF]"
+
+msgctxt "Opening Screen/KEY_CONTINUE_GAME"
+msgid "CONTINUE"
+msgstr "继续"
+
+msgctxt "Opening Screen/KEY_CONTINUE_GAME_DESCRIPTION"
+msgid "Continue existing game"
+msgstr "继续当前游戏"
+
+msgctxt "Opening Screen/KEY_GAME_GUIDE"
+msgid "GAME GUIDE"
+msgstr "游戏指南"
+
+msgctxt "Opening Screen/KEY_INSTRUCTIONS_AND_GAME_MECHANICS"
+msgid "Instructions and game mechanics"
+msgstr "指令和游戏机制"
+
+msgctxt "Opening Screen/KEY_LICENSE_AGREEMENT"
+msgid "License Agreement"
+msgstr "许可协议"
+
+msgctxt "Opening Screen/KEY_PLAY_A_FIXED_MAP_SCENARIO"
+msgid "Play a fixed map scenario"
+msgstr "游玩固定的地图场景"
+
+msgctxt "Opening Screen/KEY_PLAY_A_RANDOM_GENERATED_MAP"
+msgid "Play a random generated map"
+msgstr "游玩随机生成的地图"
+
+msgctxt "Opening Screen/KEY_PLAY_FORT_FREIHEIT"
+msgid "Play Fort Freiheit"
+msgstr "游玩弗莱海特堡垒"
+
+msgctxt "Opening Screen/KEY_PLAY_RANDOM_MAP"
+msgid "Play Random Map"
+msgstr "游玩随机地图"
+
+msgctxt "Opening Screen/KEY_PLAY_STRATEGY_GAME"
+msgid "Play strategy game"
+msgstr "游玩策略游戏"
+
+msgctxt "Opening Screen/KEY_MENU_DISCLAIMER"
+msgid "not used"
+msgstr "未使用"
+
+msgctxt "Opening Screen/KEY_PLAY_DEMO"
+msgid "PLAY DEMO"
+msgstr "试玩游戏"
+
+msgctxt "Opening Screen/KEY_DEMO_TEXT"
+msgid "Experience a night time tactical, fighting against an alien incursion in a new Jericho power facility.[LF][LF][LF]Use the cover of the building to aboid alien artillery - or use your Scarab AFV for protection."
+msgstr "在一座新耶利哥电厂中体验夜间战术战斗，与入侵的异形生物对抗。利用建筑物的掩护来躲避异形的炮火，或是用你的圣甲虫装甲战车作为保护。"
+
+msgctxt "Opening Screen/KEY_CREDITS"
+msgid "CREDITS"
+msgstr "工作人员名单"
+
+msgctxt "Opening Screen/KEY_SKIP"
+msgid "Skip: ESC, :RMB:, or :B:"
+msgstr "跳过：ESC 键，:RMB:，或 :B:"
+
+msgctxt "Opening Screen/KEY_LOADING"
+msgid "Loading..."
+msgstr "加载中…"
+
+msgctxt "Opening Screen/KEY_START_GAME"
+msgid "START GAME"
+msgstr "开始游戏"
+
+msgctxt "Opening Screen/KEY_PHOENIX_POINT"
+msgid "PHOENIX POINT"
+msgstr "PHOENIX POINT"
+
+msgctxt "Opening Screen/KEY_DLC_COMING_SOON"
+msgid "COMING SOON"
+msgstr "即将推出"
+
+msgctxt "Opening Screen/KEY_DLC_ACTIVATE"
+msgid "ACTIVATE DLC"
+msgstr "激活 DLC"
+
+msgctxt "Opening Screen/KEY_DLC_LIVING_WEAPONS"
+msgid "LIVING WEAPONS"
+msgstr "活体武器"
+
+msgctxt "Opening Screen/KEY_DLC_BLOOD_AND_TITANIUM"
+msgid "BLOOD AND TITANIUM"
+msgstr "鲜血与钛金"
+
+msgctxt "Opening Screen/KEY_DLC_LEGACY_ANCIENTS"
+msgid "LEGACY OF THE ANCIENTS"
+msgstr "远古遗产"
+
+msgctxt "Opening Screen/KEY_DLC_FESTERING_SKIES"
+msgid "FESTERING SKIES"
+msgstr "溃烂天空"
+
+msgctxt "Opening Screen/KEY_BSNAPSHOT_GAMES_INC_BACKER_BUILD_PP1"
+msgid "PRIVACY POLICY [LF]Last updated December 09, 2020 [LF][LF][LF]Thank you for choosing to be part of our community at Snapshot Games Inc. (“Company”, “we”, “us”, or “our”). We are committed to protecting your personal information and your right to privacy. If you have any questions or concerns about our policy, or our practices with regards to your personal information, please contact us at contact@snapshotgames.com. [LF][LF]In this privacy policy, we seek to explain to you in the clearest way possible what information we collect, how we use it, and what rights you have in relation to it. [LF][LF]This privacy policy applies to all information collected in our games (such as Phoenix Point: Year One Edition) which we refer to collectively in this privacy policy as “the Games.”  Any related services, such as our websites, sales, marketing or events may be covered by separate policies [LF][LF]Please read this privacy policy carefully as it will help you make informed decisions about sharing your personal information with us. [LF][LF]TABLE OF CONTENTS [LF]1. WHAT INFORMATION DO WE COLLECT?[LF]2. HOW DO WE USE YOUR INFORMATION?[LF]3. WILL YOUR INFORMATION BE SHARED WITH ANYONE? [LF]4. IS YOUR INFORMATION TRANSFERRED INTERNATIONALLY? [LF]5. HOW LONG DO WE KEEP YOUR INFORMATION? [LF]6. DO WE COLLECT INFORMATION FROM MINORS?[LF]7. WHAT ARE YOUR PRIVACY RIGHTS?[LF]8. CONTROLS FOR DO-NOT-TRACK FEATURES [LF]9. DO CALIFORNIA RESIDENTS HAVE SPECIFIC PRIVACY RIGHTS? [LF]10. DO WE MAKE UPDATES TO THIS POLICY?[LF]11. HOW CAN YOU CONTACT US ABOUT THIS POLICY?[LF][LF][LF]1. WHAT INFORMATION DO WE COLLECT? [LF][LF]Anonymous Gameplay Data [LF]In Short: We collect data regarding the decisions you make and actions you take in our game. These data are anonymized and do not contain any personally identifiable information.  [LF][LF][LF]Personal Information you Voluntarily Disclose:[LF]In Short: If you choose to share it with us, we may collect your email address, name, and potentially other information such as your user ID for various services on which we merchandise our Games. We do not collect personal information automatically in our games. Instead, you will be able to opt in and share such information with us, only if you choose.[LF][LF]All personal information that you provide to us must be true, complete and accurate, and you must notify us of any changes to such personal information. [LF][LF]Information automatically collected [LF]In Short: When you visit our website and/or other online services we operate, including marketing, sales, and events, some information – such as IP address and/or browser and device characteristics – is collected automatically..[LF]We automatically collect certain information when you visit, use or navigate our web services. This information does not reveal your specific identity (like your name or contact information) but may include device and usage information, such as your IP address, browser and device characteristics, operating system, language preferences, referring URLs, device name, country, location, information about how and when you use our Games and web services and other technical information. This information is primarily needed to maintain the security and operation of our Games, and for our internal analytics and reporting purposes. Like many businesses, we also collect information through cookies and similar technologies. [LF][LF][LF]2. HOW DO WE USE YOUR INFORMATION? [LF]In Short: We process your information for purposes based on legitimate business interests, the fulfillment of our contract with you, compliance with our legal obligations, and/or your consent. [LF]We use anonymous information about your experience with our Games to improve our Games and for statistical analysis related to our business and customer service.[LF][LF]We use personal information you share with us via our Games and web services for a variety of business purposes described below. We process your personal information for these purposes in reliance on our legitimate business interests, in order to enter into or perform a contract with you, with your consent, and/or for compliance with our legal obligations. We indicate the specific processing grounds we rely on next to each purpose listed below. [LF][LF]We may use the information we collect or receive: [LF][LF]To send you marketing and promotional communications. We and/or our third-party marketing partners may use the personal information you send to us for our marketing purposes, if this is in accordance with your marketing preferences. You can opt-out of our marketing emails at any time (see the \"\" WHAT ARE YOUR PRIVACY RIGHTS \"\" below). [LF][LF]To send administrative information to you. We may use your personal information to send you product, service and new feature information and/or information about changes to our terms, conditions, and policies. [LF][LF][LF][LF]Deliver targeted advertising to you. We may use your information to develop and display content and advertising (and work with third parties who do so) tailored to your interests and/or location and to measure its effectiveness. [LF][LF]Request Feedback. We may use your information to request feedback and to contact you about your use of our Games and other services. [LF][LF]For other Business Purposes. We may use your information for other Business Purposes, such as data analysis, identifying usage trends, determining the effectiveness of our promotional campaigns and to evaluate and improve our Games and other services, products, marketing and your experience. We may use and store this information in aggregated and anonymized form so that it is not associated with individual end users and does not include personal information. We will not use identifiable personal information without your consent. [LF][LF]3. WILL YOUR INFORMATION BE SHARED WITH ANYONE? [LF]In Short: We only share information with your consent, to comply with laws, to provide you with services, to protect your rights, or to fulfill business obligations. [LF][LF]We may process or share data based on the following legal basis:[LF]Consent: We may process your data if you have given us specific consent to use your personal information in a specific purpose.[LF][LF]Legitimate Interests: We may process your data when it is reasonably necessary to achieve our legitimate business interests.[LF][LF]Performance of a Contract: Where we have entered into a contract with you, we may process your personal information to fulfill the terms of our contract.[LF][LF]Legal Obligations: We may disclose your information where we are legally required to do so in order to comply with applicable law, governmental requests, a judicial proceeding, court order, or legal process, such as in response to a court order or a subpoena (including in response to public authorities to meet national security or law enforcement requirements).[LF][LF][LF]Vital Interests: We may disclose your information where we believe it is necessary to investigate, prevent, or take action regarding potential violations of our policies, suspected fraud, situations involving potential threats to the safety of any person and illegal activities, or as evidence in litigation in which we are involved.[LF]More specifically, we may need to process your data or share your personal information in the following situations: [LF]Vendors, Consultants and Other Third-Party Service Providers. We may share your data with third party vendors, service providers, contractors or agents who perform services for us or on our behalf and require access to such information to do that work. Examples include: payment processing, data analysis, email delivery, hosting services, customer service and marketing efforts. We may allow selected third parties to use tracking technology in our Games or related web services , which will enable them to collect data about how you interact with the such Games and services over time. This information may be used to, among other things, analyze and track data, determine the popularity of certain content and better understand online activity. Unless described in this Policy, we do not share, sell, rent or trade any of your information with third parties for their promotional purposes. [LF][LF]Business Transfers. We may share or transfer your information in connection with, or during negotiations of, any merger, sale of company assets, financing, or acquisition of all or a portion of our business to another company. [LF][LF]4. IS YOUR INFORMATION TRANSFERRED INTERNATIONALLY? [LF]In Short: We may transfer, store, and process anonymous data and information you voluntarily share with us in countries other than your own. [LF][LF]If you are a resident in the European Economic Area, then these countries may not have data protection or other laws as comprehensive as those in your country. We will however take all necessary measures to protect your personal information in accordance with this privacy policy and applicable law. [LF][LF]5. HOW LONG DO WE KEEP YOUR INFORMATION? [LF]In Short: We keep your anonymous and voluntarily shared personal information for as long as necessary to fulfill the purposes outlined in this privacy policy unless otherwise required by law. [LF]We will only keep your personal information for as long as it is necessary for the purposes set out in this privacy policy, unless a longer retention period is required or permitted by law (such as tax, accounting or other legal requirements). [LF]When we have no ongoing legitimate business need to process your personal information, we will either delete or anonymize it, or, if this is not possible (for example, because your personal information has been stored in backup archives), then we will securely store your personal information and isolate it from any further processing until deletion is possible. [LF][LF]6. DO WE COLLECT INFORMATION FROM MINORS? [LF]In Short: We do not knowingly collect data from or market to children under 18 years of age. [LF]We do not knowingly solicit data from or market to children under 18 years of age. By using our Games and web services, you represent that you are at least 18 or that you are the parent or guardian of such a minor and consent to such minor dependent’s use of the Games. If we learn that personal information from users less than 18 years of age has been collected, we will deactivate the account and take reasonable measures to promptly delete such data from our records. If you become aware of any data we have collected from children under age 18, please contact us at contact@snapshotgames.com. "
+msgstr "隐私政策 [LF]最后更新日期 2020 年 12 月 9 日 [LF][LF][LF]感谢您选择成为 Snapshot Games Inc.（以下简称“公司”或“我们”）社区的一员。我们致力于保护您的个人信息和隐私权。如果您对我们的政策或我们对您个人信息的使用有任何问题或疑虑，请通过 contact@snapshotgames.com 与我们联系。[LF][LF]在本隐私政策中，我们力求以最清晰的方式向您解释我们会收集哪些信息、如何使用这些信息以及您对这些信息拥有的权利。[LF][LF]本隐私政策适用于我们在游戏（例如 Phoenix Point:Year One Edition）中收集的所有信息，我们在本隐私政策中统称为“游戏”。 任何相关服务，例如我们的网站、销售、营销或活动，都可能受到单独政策的约束 [LF][LF]请仔细阅读本隐私政策，这样有助于您在与我们分享个人信息方面作出明智决定。[LF][LF]目录 [LF]1.我们会收集哪些信息？[LF]2.我们如何使用您的信息？[LF]3.您的信息是否会被分享给任何人？[LF]4.您的信息是否会在国际间传输？[LF]5.我们会将您的信息保留多久？[LF]6.我们是否会收集未成年人的信息？[CR][LF]7.您有哪些隐私权？[CR][LF]8.禁止跟踪功能的控件 [CR][LF]9.加州居民是否有特定隐私权？[CR][LF]10.我们是否会更新本政策？[CR][LF]11.如果您要咨询有关本政策的问题，该如何联系我们？[LF][LF][LF][LF]1.我们会收集哪些信息？[LF][LF]匿名游戏数据 [LF]简言之：我们会收集有关您在游戏中所作决定和所采取行动的数据。这些数据经过匿名处理，不包含任何个人身份信息。[LF][LF][LF]您自愿披露的个人信息：[LF]简言之：如果您选择与我们分享，我们可能会收集您的电子邮件地址、姓名和其他可能的信息，例如您在我们销售游戏的各类服务中的用户 ID 等。我们不会在游戏中自动收集个人信息。而是只在您愿意时，由您选择加入并与我们分享此类信息。[LF][LF]您提供给我们的所有个人信息必须真实、完整和准确，并且必须在此类个人信息发生任何变更时通知我们。[LF][LF]自动收集的信息 [LF]简言之：当您访问我们的网站和/或包括营销、销售和活动在内的其他在线服务时，我们会自动收集一些信息，例如 IP 地址和/或浏览器和设备特征。[LF]当您访问、使用或浏览我们的 Web 服务时，我们会自动收集某些信息。这些信息不会透露您的具体身份（例如姓名或联系信息），但可能包括设备和使用信息，例如 IP 地址、浏览器和设备特征、操作系统、语言偏好、引荐网址、设备名称、国家/地区、位置、有关您如何以及何时使用我们的游戏和网络服务的信息，以及其他技术信息。这些信息主要用于维护游戏的安全性和运行，以及内部分析和报告目的。与许多企业一样，我们也会通过 Cookie 和类似技术来收集信息。[LF][LF][LF]2.我们如何使用您的信息？[LF]简言之：我们处理您信息的目的基于合法的商业利益、履行与您之间的合同、遵守我们的法律义务和/或您的同意。[LF]我们使用有关您在我们游戏中体验的匿名信息来改进游戏，并进行与商业和客户服务相关的统计分析。[LF][LF]我们将您通过游戏和网络服务与我们分享的个人信息用于以下所述的各种商业目的。出于这些目的，我们依据合法的商业利益处理您的个人信息，以便在您的同意下签订或履行与您之间的合同，和/或遵守我们的法律义务。我们在下文列出的每个目的旁注明我们的具体处理依据。[LF][LF]我们可能会将收集或接收的信息用于以下用途：[LF][LF]向您发送营销和促销信息。如果符合您的营销偏好，我们和/或我们的第三方营销合作伙伴可能会将您发送给我们的个人信息用于营销目的。您可以随时选择拒收我们的营销电子邮件（请参阅下文“您有哪些隐私权”）。[LF][LF]向您发送管理信息。我们可能会使用您的个人信息向您发送产品、服务及新功能信息和/或有关我们的条款、条件和政策变更的信息。[LF][LF][LF][LF]向您投放有针对性的广告。我们可能会使用您的信息来开发和显示适合您的兴趣和/或所在地的内容和广告（并与负责这些开发和显示的第三方合作），以及评估其有效性。[LF][LF]请求反馈。我们可能会使用您的信息来请求反馈，并与您取得联系以便咨询您对我们的游戏和其他服务的使用情况。[LF][LF]用于其他商业目的。我们可能会将您的信息用于其他商业目的，例如数据分析、识别使用趋势、确定促销活动的有效性以及评估和改善我们的游戏及其他服务、产品、营销和您的体验。我们可能会以汇总和匿名的形式使用和存储这些信息，使其不会关联到最终用户个体，并且不包含个人信息。未经您的同意，我们不会使用包含身份的个人信息。[LF][LF]3.您的信息是否会被分享给任何人？[LF]简言之：我们只会在经过您的同意、遵守法律、为您提供服务、保护您的权利或履行商业义务时分享信息。[LF][LF]我们可能会基于以下法律依据处理或分享数据：[LF]同意：如果您已明确允许我们将您的个人信息用于特定目的，我们可能会对您的数据进行处理。[LF][LF]合法权益：在实现我们的合法商业利益合理且必要时，我们可能会对您的数据进行处理。[LF][LF]履行合同：如果我们与您签订了合同，可能会对您的个人信息进行处理以履行合同条款。[LF][LF]法律义务：我们可能会在法律要求的情况下披露您的信息，以遵守适用法律、政府要求、司法程序、法院命令或法律程序，例如响应法院命令或传票（包括响应公共机构以满足国家安全或执法要求）。[LF][LF][LF]重要利益：我们可能会在我们认为有必要就可能违反我们的政策、涉嫌欺诈、涉及任何人身安全的潜在威胁和非法活动的情况进行调查、预防或采取行动时，或是在我们参与的诉讼中作为证据披露您的信息。[LF]更加确切地来说，我们在以下情况下可能需要处理您的数据或分享您的个人信息：[LF]供应商、顾问和其他第三方服务提供商。我们可能会与为我们或代表我们提供服务并需要访问此类信息以进行此类工作的第三方供应商、服务提供商、承包商或代理商共享您的数据。例如：付款处理、数据分析、电子邮件发送、托管服务、客户服务和营销活动。我们可能允许选定的第三方在我们的游戏或相关网络服务中使用跟踪技术，这会使他们能够收集有关您在一段时间内如何与此类游戏和服务交互的数据。这些信息可能会用于分析和跟踪数据、确定某些内容的受欢迎程度以及更好地理解在线活动等。除非本政策中有所描述，否则我们不会出于推广宣传目的，向第三方分享、出售、出租或交易您的任何信息。[LF][LF]业务转让。我们可能会在任何合并、出售公司资产、融资或另一家公司收购我们全部或部分业务的谈判期间分享或转让您的信息。[LF][LF]4.您的信息是否会在国际间传输？[LF]简言之：我们可能会与您所在国家/地区之外的其他国家/地区传输、存储和处理您自愿与我们分享的匿名数据和信息。[LF][LF]如果您是欧洲经济区的居民，这些国家/地区可能没有像您所在国家/地区那样全面的数据保护或其他法律。不过，我们会根据本隐私政策和适用法律，采取一切必要措施保护您的个人信息。[LF][LF]5.我们会将您的信息保留多久？[LF]简言之：除非法律另有要求，否则我们会根据实现本隐私政策中所述目的，保留您的匿名和自愿分享的个人信息。[LF]除非法律要求或允许更长的保留期限（例如税务、会计或其他法律要求），否则我们只会在本隐私政策规定的必要时间范围内保留您的个人信息。[LF]当我们没有需要处理您个人信息的现行合法业务时，我们会将这些信息删除或匿名处理，或者，如果无法做到（例如，由于您的个人信息已存储在备份档案中），我们会安全地存储您的个人信息，并将其隔离以防止任何进一步处理，直到其删除。[LF][LF]6.我们是否会收集未成年人的信息？[LF]简言之：我们不会有意收集 18 岁以下儿童的数据或向儿童推销。[LF]我们不会有意索取 18 岁以下儿童的数据或向儿童推销。使用我们的游戏和网络服务，即表示您至少年满 18 岁，或者您是该未成年人的父母或监护人，并同意受供养的未成年人使用本游戏。如果我们得知收集到 18 岁以下用户的个人信息，我们会停用该帐户并采取合理措施立即从我们的记录中删除这些数据。如果您发现我们收集任何 18 岁以下儿童的数据，请与我们联系：contact@snapshotgames.com。[LF]"
+
+msgctxt "Opening Screen/KEY_BSNAPSHOT_GAMES_INC_BACKER_BUILD_PP2"
+msgid "8. WHAT ARE YOUR PRIVACY RIGHTS?  [LF]In Short:  In some regions, such as the European Economic Area, you have rights that allow you greater access to and control over your personal information. You may review, change, or terminate your account at any time.   [LF]In some regions (like the European Economic Area), you have certain rights under applicable data protection laws. These may include the right (i) to request access and obtain a copy of your personal information, (ii) to request rectification or erasure; (iii) to restrict the processing of your personal information; and (iv) if applicable, to data portability. In certain circumstances, you may also have the right to object to the processing of your personal information. To make such a request, please use the contact details   provided below. We will consider and act upon any request in accordance with applicable data protection laws. [LF]If we are relying on your consent to process your personal information, you have the right to withdraw your consent at any time. Please note however that this will not affect the lawfulness of the processing before its withdrawal.   [LF]If you are resident in the European Economic Area and you believe we are unlawfully processing your personal information, you also have the right to complain to your local data protection supervisory authority. You can find their contact details here: http://ec.europa.eu/justice/data-protection/bodies/authorities/index_en.htm.   [LF] [LF]Account Information  [LF]If you would at any time like to review or change the information in your account or terminate your account, you can: [LF]    ■  Contact us using the contact information provided.  [LF]Upon your request to terminate your account, we will deactivate or delete your account and information from our active databases. However, some information may be retained in our files to prevent fraud, troubleshoot problems, assist with any investigations, enforce our Terms of Use and/or comply with legal requirements.     [LF]Cookies and similar technologies: Most Web browsers are set to accept cookies by default. If you prefer, you can usually choose to set your browser to remove cookies and to reject cookies. If you choose to remove cookies or reject cookies, this could affect certain features or services of our Services. To opt-out of interest-based advertising by advertisers on our Services visit http://www.aboutads.info/choices/  .       [LF]Opting out of email marketing: You can unsubscribe from our marketing email list at any time by clicking on the unsubscribe link in the emails that we send or by contacting us using the details provided below. You will then be removed from the marketing email list – however, we will still need to send you service-related emails that are necessary for the administration and use of your account. To otherwise opt-out, you may: [LF]    ■  Contact us using the contact information provided.    [LF][LF]9. CONTROLS FOR DO-NOT-TRACK FEATURES  [LF]Most web browsers and some mobile operating systems and mobile applications include a Do-Not-Track (“DNT”) feature or setting you can activate to signal your privacy preference not to have data about your online browsing activities monitored and collected. No uniform technology standard for recognizing and implementing DNT signals has been finalized. As such, we do not currently respond to DNT browser signals or any other mechanism that automatically communicates your choice not to be tracked online. If a standard for online tracking is adopted that we must follow in the future, we will inform you about that practice in a revised version of this privacy policy   .  [LF][LF]10. DO CALIFORNIA RESIDENTS HAVE SPECIFIC PRIVACY RIGHTS?  [LF]In Short:  Yes, if you are a resident of California, you are granted specific rights regarding access to your personal information.   [LF]California Civil Code Section 1798.83, also known as the “Shine The Light” law, permits our users who are California residents to request and obtain from us, once a year and free of charge, information about categories of personal information (if any) we disclosed to third parties for direct marketing purposes and the names and addresses of all third parties with which we shared personal information in the immediately preceding calendar year. If you are a California resident and would like to make such a request, please submit your request in writing to us using the contact information provided below. [LF]If you are under 18 years of age, reside in California, and have a registered account with the Services, you have the right to request removal of unwanted data that you publicly post on the Services. To request removal of such data, please contact us using the contact information provided below, and include the email address associated with your account and a statement that you reside in California. We will make sure the data is not publicly displayed on the Services, but please be aware that the data may not be completely or comprehensively removed from our systems.[LF][LF]11. DO WE MAKE UPDATES TO THIS POLICY?  [LF]In Short:  Yes, we will update this policy as necessary to stay compliant with relevant laws.  [LF]We may update this privacy policy from time to time. The updated version will be indicated by an updated “Revised” date and the updated version will be effective as soon as it is accessible. If we make material changes to this privacy policy, we may notify you either by prominently posting a notice of such changes or by directly sending you a notification. We encourage you to review this privacy policy frequently to be informed of how we are protecting your information.  [LF][LF]12. HOW CAN YOU CONTACT US ABOUT THIS POLICY?  [LF]If you have questions or comments about this policy, you may email us at contact@snapshotgames.com or by post to:[LF]Snapshot Games Inc.    [LF]145 S Fairfax Ave #200 [LF]Los Angeles, CA 90036    [LF]United States        [LF][LF] [LF]How can you review, update, or delete the data we collect from you?[LF]Based on the laws of some countries, you may have the right to request access to the personal information we collect from you, change that information, or delete it in some circumstances. To request to review, update, or delete your personal information, please submit a request form by filling the form here: https://app.termly.io/notify/1a128fcc-1960-429c-b87d-250e4fe413aa. We will respond to your request within 30 days.[LF]"
+msgstr "7.您的隐私权是什么？简而言之：在某些地区，例如欧洲经济区，您拥有权利，可以使您更好地访问和控制您的个人信息。您可以随时查看，更改或终止您的帐户。在某些地区（例如欧洲经济区），根据适用的数据保护法律，您拥有某些权利。其中可能包括（i）请求访问并获取您的个人信息副本的权利（ii）请求更正或删除的权利； （iii）限制您的个人信息的处理； （iv）（如适用）数据可移植性。在某些情况下，您可能也有权反对处理您的个人信息。要提出这样的请求，请使用下面提供的联系方式。我们将根据适用的数据保护法律考虑并根据任何要求采取行动。如果我们依靠您的同意来处理您的个人信息，则您有权随时撤回您的同意。但是请注意，这不会影响处理在撤回之前的合法性。如果您居住在欧洲经济区，并且您认为我们在非法处理您的个人信息，那么您也有权向您当地的数据保护监督机构投诉。您可以在这里找到他们的联系方式：http://ec.europa.eu/justice/data-protection/bodies/authorities/index_en.htm。帐户信息如果您想随时查看或更改帐户中的信息或终止帐户，则可以：[LF]■使用提供的联系信息与我们联系。根据您要求终止您的帐户的要求，我们将停用或删除您的帐户以及我们活动数据库中的信息。但是，某些信息可能会保留在我们的文件中，以防止欺诈，解决问题，协助进行任何调查，执行我们的使用条款和/或遵守法律要求。 Cookie和类似技术：默认情况下，大多数Web浏览器都设置为接受Cookie。如果愿意，通常可以选择将浏览器设置为删除cookie并拒绝cookie。如果您选择删除cookie或拒绝cookie，这可能会影响我们服务的某些功能或服务。要选择退出广告客户在我们服务上基于兴趣的广告，请访问http://www.aboutads.info/choices/。选择退出电子邮件营销：您可以随时通过单击我们发送的电子邮件中的“取消订阅”链接或使用下面提供的详细信息与我们联系来取消订阅我们的营销电子邮件列表。然后，您将从营销电子邮件列表中删除-但是，我们仍然需要向您发送与服务相关的电子邮件，这对于管理和使用您的帐户是必需的。要选择退出，您可以：[LF]■使用提供的联系信息与我们联系。 [LF]8.禁止跟踪功能的控件大多数Web浏览器以及某些移动操作系统和移动应用程序都包含禁止跟踪（“ DNT”）功能，或者您可以激活该设置来表示您的隐私首选项，以不包含有关您的数据监视和收集在线浏览活动。尚未最终确定用于识别和实现DNT信号的统一技术标准。因此，我们目前不响应DNT浏览器信号或自动传达您选择不在线跟踪的任何其他机制。如果采用了我们将来必须遵循的在线跟踪标准，我们将在本隐私政策的修订版中告知您该做法。 [LF]9.加州居民是否有特定的隐私权？简而言之：是的，如果您是加利福尼亚州的居民，则将获得访问您的个人信息的特定权利。加利福尼亚州民法典第1798.83条（又称“光亮之光”法）允许加利福尼亚州居民的用户每年一次免费向我们索取并获取有关我们个人信息类别（如果有）的信息。出于直接营销目的向第三方披露的信息，以及在最近一个日历年中与我们共享个人信息的所有第三方的名称和地址。如果您是加利福尼亚州居民，并希望提出这样的请求，请使用下面提供的联系信息以书面形式向我们提交您的请求。如果您未满18周岁，居住在加利福尼亚州并且在“服务”中拥有注册帐户，则您有权要求删除在“服务”中公开发布的有害数据。要请求删除此类数据，请使用下面提供的联系信息与我们联系，并提供与您的帐户相关联的电子邮件地址以及您居住在加利福尼亚的声明。我们将确保数据不会在服务上公开显示，但是请注意，这些数据可能不会完全或全面地从我们的系统中删除。 [LF]10.我们是否会对此政策进行更新？简而言之：是的，我们将根据需要更新此政策，以遵守相关法律。我们可能会不时更新本隐私政策。更新的版本将以更新的“修订”日期表示，并且更新的版本只要可以访问就将生效。如果我们对此隐私政策进行了重大更改，则可以通过显着地发布有关此类更改的通知或直接向您发送通知来通知您。我们建议您经常阅读本隐私政策，以了解我们如何保护您的信息。 [LF]11.您如何就此政策与我们联系？如果您对此政策有任何疑问或意见，您可以发送电子邮件至contact@snapshotgames.com或邮寄至：[LF]Snapshot Games Inc. [LF]145 S Fairfax Ave＃200[LF]洛杉矶，CA 90036[LF]美国[LF]如何查看，更新或删除我们从您那里收集的数据？根据某些国家/地区的法律，您可能有权请求访问我们从您那里收集的个人信息，更改该信息或在某些情况下将其删除。要请求查看，更新或删除您的个人信息，请在此处填写表单以提交请求表：https://app.termly.io/notify/1a128fcc-1960-429c-b87d-250e4fe413aa。我们将在30天内回复您的请求。[LF][LF][LF]"
+
+msgctxt "Opening Screen/KEY_BSNAPSHOT_GAMES_INC_TOS_LABEL"
+msgid "ONLINE POLICIES, AGREEMENTS AND TERMS"
+msgstr "在线政策、协议及条款"
+
+msgctxt "Opening Screen/KEY_BSNAPSHOT_GAMES_INC_TOS_DESC"
+msgid "Your use of this software is subject to the following policies, agreements and terms, including transfer of your data to countries that may have different levels of privacy protection than your own."
+msgstr "在使用本软件时，你将受到以下政策、协议及条款的约束，包括将你的个人数据传输到隐私保护程度不同的国家。"
+
+msgctxt "Opening Screen/KEY_BSNAPSHOT_GAMES_INC_TOS_BUTTON"
+msgid "Read TERMS OF SERVICE"
+msgstr "阅读《服务条款》"
+
+msgctxt "Opening Screen/KEY_BSNAPSHOT_GAMES_INC_PP_BUTTON"
+msgid "Read PRIVACY POLICY"
+msgstr "阅读《隐私政策》"
+
+msgctxt "Opening Screen/KEY_BSNAPSHOT_GAMES_INC_AGREE"
+msgid "I Agree to All"
+msgstr "同意"
+
+msgctxt "Opening Screen/KEY_BSNAPSHOT_GAMES_INC_DISAGREE"
+msgid "I Disagree to All"
+msgstr "不同意"
+
+msgctxt "Opening Screen/KEY_BSNAPSHOT_GAMES_INC_TOS_NAME"
+msgid "TERMS OF SERVICE"
+msgstr "《服务条款》"
+
+msgctxt "Opening Screen/KEY_BSNAPSHOT_GAMES_INC_PP_NAME"
+msgid "PRIVACY POLICY"
+msgstr "《隐私政策》"
+
+msgctxt "Opening Screen/KEY_SAVE_TACTICAL"
+msgid "Tactical"
+msgstr "战术"
+
+msgctxt "Opening Screen/KEY_SAVE_GEOSCAPE"
+msgid "Geoscape"
+msgstr "世界地图"
+
 msgctxt "Research Screen/KEY_RESEARCH_COMPLETE"
 msgid "Research completed: {0} "
 msgstr "已完成研究： {0} "
@@ -13582,6 +13902,10 @@ msgctxt "Roster Screen/KEY_VEHICLE_LIMIT"
 msgid "Only one Vehicle can be deployed into a mission"
 msgstr "一个任务中只可部署一辆载具"
 
+msgctxt "Roster Screen/KEY_GEOROSTER_RENAME_CHARACTER"
+msgid "Rename this soldier?"
+msgstr "重新命名此士兵？"
+
 msgctxt "Diplomacy and Factions/KEY_DIPLOMACY_ANU"
 msgid "The Exalted"
 msgstr "圣尊"
@@ -13709,158 +14033,6 @@ msgstr "派系避难所数量"
 msgctxt "Diplomacy and Factions/KEY_DIPLOMACY_RELATIONSHIP_TOWARDS_TT"
 msgid "Attitude towards {0}"
 msgstr "对 {0} 的态度"
-
-msgctxt "Opening Screen/KEY_BSNAPSHOT_GAMES_INC_BACKER_BUILD_END1"
-msgid "SNAPSHOT GAMES, INC.[LF]END USER LICENSE AGREEMENT[LF][LF]This End User License Agreement (“Agreement”) is a contract between you and Snapshot Games, Inc. (“Snapshot” or “we” or “us”) for you to use the Phoenix Point computer game (collectively, the “Software”).[LF][LF]PLEASE READ THIS AGREEMENT CAREFULLY. IT CONTAINS IMPORTANT TERMS THAT AFFECT YOU, YOUR USE OF THE SOFTWARE, AND ANY FEEDBACK (DEFINED BELOW) YOU PROVIDE TO US. BY CLICKING “I ACCEPT”, “I AGREE”, OR A SIMILAR ACKNOWLEDGEMENT OF AGREEMENT OR BY DOWNLOADING, INSTALLING, COPYING OR USING THE SOFTWARE, YOU AGREE TO BE BOUND BY THE TERMS OF THIS AGREEMENT. IF YOU DO NOT AGREE TO THESE TERMS, DO NOT DOWNLOAD, INSTALL, COPY OR USE THE SOFTWARE OR SUBMIT ANY FEEDBACK TO US.  THIS AGREEMENT CONSTITUTES A VALID AND BINDING LEGAL CONTRACT BETWEEN YOU AND US.[LF][LF]For information on how we collect and use your information, see our Privacy Policy located here: https://phoenixpoint.info/privacy-policy.[LF][LF]1.        Acceptance of this Agreement.[LF](a)        By an Individual 18 Years of Age or Older.  Any individual who is at least 18 years of age or the legal age of majority under applicable law may accept the terms and conditions of this Agreement by selecting the “I Accept,” “I Agree,” or similar acknowledgment of agreement or by downloading, installing, copying, or using the Software.  By accepting the terms and conditions of this Agreement, you acknowledge that you have read, understood, and accepted the terms and conditions of this Agreement and agree to be bound thereby.[LF](b)        By an Individual Between the Ages of 13 and 17 Years.  Any individual who is a minor (as determined by the state or province of your residence) and 13 years of age or older (an “Eligible Minor”) must have his or her parent or legal guardian indicate consent to the terms and conditions of this Agreement.  An Eligible Minor’s parent or legal guardian may accept the terms and conditions of this Agreement by selecting the “I Accept”, “I Agree”, or similar acknowledgment of agreement or by downloading, installing, copying, or using the Software on behalf of such Eligible Minor.  By accepting the terms and conditions of this Agreement, the parent or legal guardian of the Eligible Minor acknowledges that he or she has read, understood, and accepted the terms and conditions of this Agreement on behalf of such Eligible Minor and on behalf of themselves and agrees to be bound thereby.  Without limiting the foregoing, Parents and legal guardians understand that they are responsible for the acts and activities of their Eligible Minors in connection with any installation, copying, or use of the Software.[LF](c)        By an Individual Under the Age of 13 Years.  The Software is not targeted towards, nor intended for use by, anyone under the age of 13.  Children under the age of 13 are not eligible to install, copy, or use the Software, notwithstanding that they may have the consent of a parent or legal guardian.[LF](d)        Import and Export Control Laws.  You may not accept the terms and conditions of this Agreement or download, install, copy or use the Software if (a) you are a resident of any U.S. embargoed countries or (b) you are listed on the U.S. Treasury Department’s list of Specially Designated Nationals or the U.S. Department of Commerce Denied Person’s List or Entity List.  By downloading, installing or using any component of the Software, you represent and warrant that you are not located in, under control of, or a national or resident of any such country or jurisdiction or on any such list.[LF][LF]2.        Software License. Subject to the terms of this Agreement, your compliance with the terms of service, terms of use, subscriber agreement or other terms of the Web site from which you obtain the Software (“Terms of Service”) which govern your use of such Web sites' services to, among other activities, obtain the Software, and your compliance with any other agreement you may have entered with us governing your use of Software-related services (the “Service”), we grant you a nonexclusive, nontransferable, nonsublicenseable license to download, install and use one copy of the Software in binary executable form only on a single personal computing device solely for your own, personal use of the Software and Service. The terms of this Agreement supplement any applicable Terms of Service and supersede those Terms of Service where this Agreement and the Terms of Service conflict.  Any Snapshot software that updates, upgrades, supplements, replaces, or offers patches to the Software is governed by this Agreement unless separate license terms accompany such update, upgrade, supplement, replacement, or patch, in which case such separate terms will govern in the event of a conflict with this Agreement or as otherwise provided in such separate terms.[LF][LF]3.        License Limitations. The preceding states the entirety of your rights with respect to the Software, and we reserve all rights in and to the Software and Services not expressly granted to you in this Agreement. Without limiting the foregoing, you will not do, or authorize or permit any third party to do, any of the following: (a) distribute, license or sell the Software; (b) use the Software for any purpose other than your own personal, noncommercial use; (c) reverse engineer, decompile, disassemble or attempt to discover the source code for the Software; (d) modify, alter or create any derivative works of the Software; (e) remove, alter or obscure any copyright, trademark or other proprietary rights notice on or in the Software; (f) use the Software to commit any crime or violate any applicable local, state, national, or international law, regulation, ordinance, or treaty including, but not limited to, any fraud, misrepresentation, money laundering, or illegal gambling; (g) use the Software to access, or attempt to access, facilities, networks, equipment, or systems of Snapshot, Snapshot Parties (as defined below), another user, or any other third party, including any partner of Snapshot, without authorization; (h) use or access the Software for the purposes of, or in connection with, (1) using, or attempting to use, any cheat codes, devices, tools, or processes, including, but not limited to, any third-party code sets or utilities (including any code sets or utilities developed by you or on your behalf), or (2) distributing, publishing, or otherwise making available or publicizing in any way any such cheat codes, devices, tools, or processes; or (i) circumvent or attempt to circumvent any methods employed by Snapshot to control access to the components, features or functions of the Software or Service. [LF][LF]4.        Ownership. The Software is the valuable property of Snapshot and its licensors and is protected by copyright and other intellectual property laws and treaties. We and our licensors own all right, title and interest in and to the Software, including all copyright and other intellectual property rights in the Software.[LF][LF]5.        Feedback. In the course of using the Software, you may provide to Snapshot materials, information and feedback on the Software (including, without limitation, questions, comments, suggestions, or the like) regarding the performance, features, gameplay and functionality of the Software or Service (“Feedback”). .  You hereby grant to Snapshot an exclusive, royalty-free, irrevocable, perpetual worldwide right and license to reproduce, use, disclose, exhibit, display, transform, create derivative works and distribute any such Feedback without limitation. Further, we will be free to use any ideas, concepts, know-how or techniques contained in such Feedback for any purpose whatsoever, including, without limitation, developing, manufacturing, marketing and selling products and services incorporating such Feedback. We will have no obligation to consider, use, return or preserve any Feedback you provide to us. Any Feedback you provide to us may or may not be treated confidentially by us, and we will have no obligation or liability to you for the use or disclosure of any Feedback. You should not to expect any compensation of any kind from us with respect to your Feedback. [LF][LF]6.        Disclaimers. YOU ACKNOWLEDGE THE SOFTWARE AND SERVICE ARE PROVIDED “AS IS,” WITH ALL FAULTS, DEFECTS AND ERRORS, AND WITHOUT WARRANTY OF ANY KIND. SNAPSHOT DISCLAIMS ALL WARRANTIES (EXPRESS OR IMPLIED AND ARISING BY LAW OR OTHERWISE) REGARDING THE SOFTWARE AND SERVICE AND THEIR PERFORMANCE OR SUITABILITY FOR YOUR INTENDED USE, INCLUDING WITHOUT LIMITATION ANY IMPLIED WARRANTY OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, OR NONINFRINGEMENT. WITHOUT LIMITING THE FOREGOING, SNAPSHOT DOES NOT WARRANT THAT THE SOFTWARE WILL BE FREE OF BUGS, ERRORS, VIRUSES, OR OTHER DEFECTS.  SNAPSHOT WILL HAVE NO LIABILITY OF ANY KIND FOR THE USE OF OR INABILITY TO USE THE SOFTWARE OR ANY SERVICE THAT THE SOFTWARE IS INTENDED TO ACCESS, OR FOR ANY LOSS OF DATA.  PORTIONS OF THE SOFTWARE INCLUDE USER CONTENT WHICH MAY BE DEEMED TO BE OBSCENE OR OFFENSIVE.  SNAPSHOT CANNOT (A) REVIEW ALL USER CONTENT BEFORE IT IS INTEGRATED INTO THE SOFTWARE AND (B) ENSURE PROMPT REMOVAL OF OBJECTIONABLE MATERIAL AFTER IT HAS BEEN INTEGRATED INTO THE SOFTWARE. ACCORDINGLY, SNAPSHOT WILL HAVE NO LIABILITY OF ANY KIND FOR ANY ACTION OR INACTION REGARDING TRANSMISSIONS, COMMUNICATIONS, OR CONTENT PROVIDED BY ANY USER OR THIRD PARTY. [LF][LF]7.        Indemnification. You will defend, indemnify and hold harmless Snapshot, its affiliates, independent contractors and service providers, and each of their respective members, directors, officers, employees and agents (“Snapshot Parties”), from and against all claims, damages, costs, liabilities and expenses (including, but not limited to, reasonable attorneys’ fees) arising out of or related to your use of, or inability to use, the Software or Service.  IF YOU ARE AN ELIGIBLE MINOR, YOUR PARENTS OR LEGAL GUARDIANS FURTHER WILL DEFEND, INDEMNIFY AND HOLD HARMLESS EACH OF THE SNAPSHOT PARTIES FROM ANY CLAIMS, DAMAGES, COSTS, INJURIES, LOSSES, OR EXPENSES ARISING OUT OF OR RELATED TO YOUR USE OF, OR INABILITY TO USE, THE SOFTWARE.[LF][LF][LF]"
-msgstr "SNAPSHOT GAMES, INC.[LF]最终用户许可协议[LF][LF]本最终用户许可协议(“协议”)是您与 Snapshot Games, Inc.(“Snapshot”或“我们”或“我方”)之间，关于使用电子游戏 Phoenix Point（统称为本“软件”）的协议。[LF][LF]请仔细阅读本协议。本协议包含重要条款，将影响您、您对软件的使用以及向我们提供的任何反馈（定义参见下文）。通过点击“我接受”、“我同意”或类似的协议确认选项，或下载、安装、复制或使用本软件，即表明您同意受本协议条款的约束。如果您不同意这些条款，请勿下载、安装、复制或使用本软件或向我们提交任何反馈。本协议是您与我方之间有效且具有约束力的法律合同。[LF][LF]有关我们如何收集和使用您的信息，请参阅我们的《隐私权政策》：https://phoenixpoint.info/privacy-policy。[LF][LF]1.        接受本协议。[LF](a)        18 岁或以上的个人。根据其适用的法律，年满 18 岁或达到法定年龄的任何个人均可通过选择“我接受”、“我同意”或类似的协议确认选项，或下载、安装、复制或使用本软件，即表明接受本协议的条款和条件。接受本协议的条款和条件，即表示您已阅读、理解并接受本协议的条款和条件，并同意受其约束。[LF](b)        年龄在 13 到 17 岁之间的个人。任何未成年人（根据您当地的法律规定）和13岁或以上（“符合条件的未成年人”）必须由其父母或法定监护人表明同意本协议的条款和条件。符合条件的未成年人的父母或法定监护人可通过选择“我接受”、“我同意”或类似的协议确认选项，或代表该未成年人下载、安装、复制或使用本软件，即表明接受本协议的条款和条件。接受本协议的条款和条件，即表示该未成年人的父母或法定监护人已阅读、理解并代表该未成年人接受本协议的条款和条件，且表明自己和该未成年人同意受其约束。在不限制上述规定的情况下，父母和法定监护人明白，他们对该未成年人与任何安装、复制或使用本软件有关的行为和活动负责。[LF](c)        13 岁以下的个人。本软件并不针对 13 岁以下的任何个人，也并非专门供其使用。13 岁以下的儿童不得安装、复制或使用该软件，尽管他们可能已得到父母或法定监护人的同意。[LF](d)        进出口管制法律。如果(a)您是美国禁运国家的居民，或(b)您被列入美国财政部特别指定国民清单或商务部拒绝人员清单或实体清单上，则可能无法接受本协议的条款和条件，或下载、安装、复制或使用本软件。下载、安装或使用本软件的任何组件，即表示并保证您不处于任何此类国家或管辖区的所在地或控制之下，或是在任何此类列表上的国民或居民。[LF][LF]2.        软件许可。根据本协议的条款，您需遵守服务条款、使用条款、订阅者协议或获取本软件的网站的其他条款(“服务条款””)，其中规定了您对此类网站服务的使用，和获取本软件的其他活动，以及需遵守您与我们之间关于使用软件相关的服务所签订的任何其他协议(“服务”)，我们授予您非独占性、不可转让、不可转授的许可，仅可在单独的个人计算机设备上以二进制可执行形式下载、安装和使用本软件的一份副本，仅供您本人使用本软件和服务。本协议的条款可补充任何适用的服务条款，本协议与服务条款发生冲突时将代替服务条款。任何 Snapshot 公司对软件进行的更新、升级、补充、替换或提供的补丁均受本协议约束，除非这些更新、升级、补充、替换或补丁随附其独立的许可条款，此类独立条款与本协议或其他单独条款中的规定发生冲突，或独立条款有另行规定的，采用独立条款。[LF][LF]3.        许可限制。以上条目声明了您对软件的全部权利，我们保留本协议中未明确授予您的软件和服务中的权利，及与之相关的所有权利。在不限制上述规定的情况下，您不得做出、授权或允许任何第三方做出下列任何事情：(a) 分发、许可或出售本软件；(b) 将本软件用于除您个人、非商业用途之外的任何目的；(c)逆向工程、反编译、反汇编或试图获取软件源代码；(d) 修改、变更或创建软件的任何衍生作品；(e) 删除、更改或模糊本软件上或本软件中的任何版权、商标或其他所有权通知；(f) 使用本软件进行任何犯罪或违反任何适用的地方、州、国家或国际法、法规、条例或条约，包括但不限于任何欺诈、虚假陈述、洗钱或非法赌博；(g) 未经授权，使用本软件访问或试图访问 Snapshot、Snapshot 合作伙伴（定义见下文）、其他用户或任何其他第三方（包括 Snapshot 的任何合作伙伴）的设施、网络、设备或系统；(h) 为下列目的或与下列目的有关的目的使用或访问软件：(1) 使用或试图使用任何作弊代码、设备、工具或程序，包括但不限于任何第三方代码集或实用程序（包括任何由您开发或您代表开发的代码集或实用程序），或 (2) 分发、出版、或以任何方式提供或宣传任何这样的作弊代码、设备、工具或程序；或 (i) 规避或试图规避 Snapshot 用于控制访问软件或服务的组件、特性或功能的任何方法。[LF][LF]4.        所有权。本软件是 Snapshot 及其授权者的重要财产，受版权和其他知识产权法律和条约的保护。我们和我们的授权者拥有本软件的所有权利、所有权和利益，包括本软件的所有版权和其他知识产权。[LF][LF]5.        反馈。在使用本软件的过程中，您可以提供有关本软件或服务的性能、特色、可玩性和功能方面的资料、信息和反馈（包括但不限于问题、评论、建议或类似内容）(“反馈”)。您在此授予 Snapshot 独家、免版税、不可撤销的永久的权利和许可，以复制、使用、披露、展示、显示、转换和创造衍生作品，并无限制地发布任何此类反馈。此外，我们可以自由且出于任何目的使用此类反馈中包含的任何想法、概念、专门知识或技术，包括但不限于开发、制造、营销和销售包含此类反馈的产品和服务。我们没有义务考虑、使用、返回或保留您提供给我们的任何反馈。您向我们提供的任何反馈可能被我们保密，也可能不被我们保密，对于使用或披露任何反馈，我们不承担任何义务或责任。对于您的反馈，您不应该期望我们给予任何形式的报酬。[LF][LF]6.        免责声明。您承认软件和服务都是“按原样”提供的，包括所有的故障、缺陷和错误，并且没有任何形式的保证。Snapshot 对软件和服务及其性能或对您的预期用途的适用性不负任何责任（明示或暗示的，法律或其他方面产生的），包括但不限于对适销性、特定用途的适用性或不侵权的任何默认保证。在不限制上述的前提下，Snapshot 并不保证软件没有漏洞、错误、病毒缺陷或其他缺陷。对于使用或无法使用该软件、该软件拟使用的任何服务或任何数据丢失，不承担任何责任。该软件的部分内容包括可能被视为淫秽或具有冒犯性。Snapshot 无法 (A) 在将所有用户内容集成到软件之前对其进行审查，(B) 确保在将其集成到软件之后及时删除令人反感的内容。因此，Snapshot 对于任何用户或第三方提供的任何传输、通信或内容所采取的行动或不作为不承担任何责任。[LF][LF]7.        赔偿。您将为 Snapshot，其附属公司，独立承包商和服务提供商及其各自的成员，董事，管理人员，雇员和代理商({bi \\> Snapshot 合作伙伴\\ <bi \\}”)辩护，保护并使其免受损害，并反对由于您使用或无法使用软件或服务而引起或与之有关的所有索赔，损害，成本，负债和费用（包括但不限于合理的律师费）。\\{b \\>如果您是符合条件的未成年人，则您的父母或法定监护人将为 Snapshot 的各个合作伙伴辩护，使其免受因您使用或无法使用本软件而产生的或与之相关的任何索赔、损害、成本、伤害、损失或费用。[LF][LF]"
-
-msgctxt "Opening Screen/KEY_BSNAPSHOT_GAMES_INC_BACKER_BUILD_END2"
-msgid "8.        Limitation of Liability.  IN NO EVENT WILL ANY OF THE SNAPSHOT PARTIES BE LIABLE TO YOU OR ANY THIRD PARTY FOR ANY INDIRECT, CONSEQUENTIAL, SPECIAL, OR PUNITIVE DAMAGES, INCLUDING, BUT NOT LIMITED TO, LOSS OF USE, LOSS OF PROFITS, OR LOSS OF DATA, WHETHER IN AN ACTION IN CONTRACT, TORT (INCLUDING BUT NOT LIMITED TO NEGLIGENCE, WHETHER ACTIVE, PASSIVE, OR IMPUTED), OR OTHERWISE, ARISING OUT OF OR IN ANY WAY CONNECTED WITH THE SOFTWARE OR SERVICE, INCLUDING, WITHOUT LIMITATION, ANY DAMAGES CAUSED BY OR RESULTING FROM MISTAKES, OMISSIONS, INTERRUPTIONS, DELETION OF FILES OR E-MAIL, ERRORS, DEFECTS, VIRUSES, DELAYS IN OPERATION OR TRANSMISSION, OR ANY FAILURE OF PERFORMANCE, WHETHER OR NOT RESULTING FROM ACTS OF GOD, COMMUNICATIONS FAILURE, THEFT, DESTRUCTION, OR UNAUTHORIZED ACCESS TO SNAPSHOT’S RECORDS, PROGRAMS, OR SERVICES.  IN NO EVENT WILL THE AGGREGATE LIABILITY OF SNAPSHOT, WHETHER IN CONTRACT, WARRANTY, TORT (INCLUDING, BUT NOT LIMITED TO, NEGLIGENCE, WHETHER ACTIVE, PASSIVE, OR IMPUTED), PRODUCT LIABILITY, STRICT LIABILITY, OR OTHER THEORY, ARISING OUT OF OR RELATING TO THE SOFTWARE EXCEED THE PURCHASE PRICE THAT YOU PAID FOR A LICENSE TO THE SOFTWARE OR SERVICE.[LF][LF]9.        Arbitration; Governing Law.  [LF][LF]PLEASE READ THE FOLLOWING PARAGRAPH CAREFULLY BECAUSE IT REQUIRES YOU TO ARBITRATE DISPUTES AND LIMITS THE MANNER IN WHICH YOU CAN SEEK RELIEF FROM US.[LF][LF]You and Snapshot will arbitrate any dispute arising from this Agreement and your use of the Software, except that you and Snapshot are not required to arbitrate any dispute in which either party seeks equitable and other relief for the alleged unlawful use of copyrights, trademarks, trade names, logos, trade secrets, or patents. ARBITRATION PREVENTS YOU FROM SUING IN COURT OR FROM HAVING A JURY TRIAL. [LF]You and Snapshot will notify each other in writing of any dispute within thirty (30) days of when it arises. Notice to Snapshot will be sent to Snapshot Games, Inc., Attn: David Kaye, 145 S Fairfax Ave #200, Los Angeles CA 90036.  You and Snapshot further agree: to attempt informal resolution prior to any demand for arbitration; that any arbitration will occur in Los Angeles County, California; that arbitration will be conducted confidentially by a single arbitrator in accordance with the JAMS Streamlined Arbitration Rules; and that the state or federal courts in Los Angeles County, California have exclusive jurisdiction over any appeals of an arbitration award and over any suit between the parties not subject to arbitration. Other than class procedures and remedies discussed below, the arbitrator has the authority to grant any remedy that would otherwise be available in court.  Any dispute between the parties will be governed solely by both this Agreement and the laws of the State of California and applicable United States law, without giving effect to any conflict of laws principles that may provide for the application of the law of another jurisdiction.  The 1980 U.N. Convention on Contracts for the International Sale of Goods will not apply to this Agreement.  Whether the dispute is heard in arbitration or in court, you and Snapshot will not commence against the other a class action, class arbitration or other representative action or proceeding.[LF][LF]10.        Termination. Snapshot may terminate this Agreement at any time, with or without cause, immediately upon notice to you. Snapshot may also discontinue the Service at any time, in which case this Agreement will terminate automatically without notice. You may terminate this Agreement by ceasing use of the Software and Service, cancelling any account you may have with us to use the Service (if any), and deleting all copies of the Software in your possession or control. In the event of the termination of this Agreement for any reason: (a) the license granted to you in this Agreement will terminate; (b) you must immediately cease all use of the Software and Service and destroy or erase all copies of the Software in your possession or control; and (c) all sections of this Agreement except Section 2 will survive any such termination, together with the Terms of Service.[LF][LF][LF]11.        Import and Export Control Laws.  Snapshot is subject to regulation by agencies of the United States, such as the U.S. Department of Commerce, which prohibit export of certain products or technology to certain countries or nationals of certain countries.  You will not use or otherwise export or re-export the Software except as authorized by U.S. law and the laws of the jurisdiction in which the Software was obtained.  In particular, but without limitation, the Software may not be exported or re-exported (a) into (or to a nation or resident of) any U.S. embargoed countries or (b) to anyone on the U.S. Treasury Department’s list of Specially Designated Nationals or the U.S. Department of Commerce Denied Person’s List or Entity List.  [LF][LF]12.        General. (a) Severability. If any provision of this Agreement is held by a court of competent jurisdiction to be invalid, illegal, or unenforceable, the remainder of this Agreement will remain in full force and effect. (b) Assignment. You may not assign this Agreement or any of its rights under this Agreement without the prior written consent of Snapshot, and any attempted assignment without such consent will be void. Subject to the foregoing restriction, this Agreement will be fully binding upon, inure to the benefit of, and be enforceable by you, us, and each of your and our respective successors and assigns. (c) Entire Agreement. This Agreement, together with the Terms of Service, sets forth our entire agreement with respect to your use of the Software or Service and the subject matter hereof, and supersedes all prior and contemporaneous understandings and agreements whether written or oral.  No amendment, modification, or waiver of any of the provisions of this Agreement will be valid unless set forth in a written instrument signed by the party to be bound thereby. (d) Language. This Agreement is in the English language, which language will be controlling, even if interpretations of this Agreement in other languages are made."
-msgstr "8.        责任范围。\\ {2 \\>在任何情况下，任何 Snapshot 合作伙伴均不会对您或任何第三方负以下责任：任何间接的、随之发生的、特殊或惩罚性的损害，包括但不限于使用价值损失，利润损失或数据丢失，无论是在合同诉讼中还是侵权（包括但不限于疏忽大意，无论是主动、被动还是被归咎），或因软件和服务而产生的，及以任何方式与软件和服务相关的问题，包括但不限于由于错误，疏忽，干扰，文件或电子邮件的删除，错误，缺陷，病毒，操作或传输延迟，或由于任何不可抗力、通信失效、盗窃、破坏或未经授权访问 Snapshot 程序或服务造成的任何性能故障。Snapshot 就该软件引起或涉及该软件的总计责任无论是在合同、担保、侵权（包括但不限于疏忽，无论是主动，被动还是被归咎）、产品责任、无过错责任或是在其他原则中，都不会超出购买该软件或服务的许可所应付的价格。[LF][LF]9.        仲裁；适用法律。 [LF][LF]请仔细阅读以下段落，因为它要求您对争议进行仲裁，并限制了您向我们寻求救济的方式。[LF][LF]您和 Snapshot 可就因本协议和您对软件的使用而引起的任何争议进行仲裁，除非您和 Snapshot 都不需要仲裁争议，例如任何一方因涉嫌非法使用版权、商标、商号、标识、商业秘密或专利而寻求公平和其他救济。仲裁可避免您在法庭上被起诉或受到陪审团审判。[LF]如有任何争议，您和 Snapshot 将在争议发生后三十 (30) 天内以书面形式通知对方。寄往 Snapshot 的通知将送往 Snapshot Games, Inc.，收件人：David Kaye, 145 S Fairfax Ave #200, Los Angeles CA 90036。您和 Snapshot 进一步同意：在提出任何仲裁要求前尝试通过非正式途径解决；任何仲裁将在加利福尼亚州洛杉矶郡进行；该仲裁将由一名仲裁员根据 JAMS 精简仲裁规则秘密进行；并且加利福尼亚州洛杉矶郡的州或联邦法院对仲裁裁决的任何上诉以及当事方之间不受仲裁的任何诉讼具有专属管辖权。除下文讨论的类别程序及救济措施，仲裁员在庭上有权准予实施任何有效救济措施。各方的所有争议仅受此协议、加利福利亚洲法律以及适用的美国法律管辖，不影响任何可能规定适用其他司法管辖区法律的冲突法律原则。1980 年《联合国国际货物销售合同公约》不适用于本协议。无论是在仲裁中还是在法庭上审理，您方及 Snapshot 不得针对另一方提集体诉讼、集体仲裁或其他代表诉讼或程序。[LF][LF]10.        终止。 Snapshot 可随时无理由终止本协议，且在您收到对应通知时即刻生效。Snapshot 也可随时停止服务。在此种情况下，本协议将自动终止，且无需告知各相关方。如要终止本协议，您可停止使用软件及服务，即注销与我方相关的所有涉及此服务的账号（如有），并删除您持有的所有本软件副本。以任意理由终止本协议时：(a) 本协议准予您的许可将终止；(b) 您应当立即停止使用本软件及服务，并销毁或删除您持有的所有本软件副本；(c) 除本协议第 2 条外，本协议的所有条款以及服务条款将在任何此类终止后继续有效。[LF][LF][LF]11.        进出口管制法。  Snapshot 受美国机构监管，如禁止向某些国家或某些国家的国民出口某些产品或技术的美国商务部。除非获得美国法律和该软件所在司法管辖区的法律的授权，您不得使用或以其他方式出口或再出口该软件。尤其是（但不限于），本软件不可出口或再出口至 (a) 所有美国禁运国家（或这些国家的国民或居民）或 (b) 美国财务部特别指定国民清单或美国商务部拒绝人员清单或实体清单中包含的人员或实体。 [LF][LF]12.        通用。 (a) 效力瑕疵。如果本协议的任何条款被具有合法管辖权的法院裁定为无效、非法或不可执行，则本协议的其余部分将继续完全有效。(b) 转让。事先未经 Snapshot 书面同意时，您不得转让本协议或其附属权利，任何未经同意的转让都将无效。在遵守上述限制的前提下，本协议将完全受贵方、我方以及贵方和我方各自的继任者和受让人的约束，符合其利益并可由其执行。(c) 整体协议。本协议以及服务条款，规定了我们关于您使用软件或服务以及本协议主题的完整协议，并取代了所有先前和现在的书面或口头理解和协议。除对应方签署了受到约束的书面文书，对本协议所有条款的修订、修改或弃权声明均无法律效力。(d) 语言。本协议文字为英文，虽然本协议已通过其他语言进行解释，但最终应当以英文为准。[LF]"
-
-msgctxt "Opening Screen/KEY_CONTINUE_GAME"
-msgid "CONTINUE"
-msgstr "继续"
-
-msgctxt "Opening Screen/KEY_CONTINUE_GAME_DESCRIPTION"
-msgid "Continue existing game"
-msgstr "继续当前游戏"
-
-msgctxt "Opening Screen/KEY_GAME_GUIDE"
-msgid "GAME GUIDE"
-msgstr "游戏指南"
-
-msgctxt "Opening Screen/KEY_INSTRUCTIONS_AND_GAME_MECHANICS"
-msgid "Instructions and game mechanics"
-msgstr "指令和游戏机制"
-
-msgctxt "Opening Screen/KEY_LICENSE_AGREEMENT"
-msgid "License Agreement"
-msgstr "许可协议"
-
-msgctxt "Opening Screen/KEY_PLAY_A_FIXED_MAP_SCENARIO"
-msgid "Play a fixed map scenario"
-msgstr "游玩固定的地图场景"
-
-msgctxt "Opening Screen/KEY_PLAY_A_RANDOM_GENERATED_MAP"
-msgid "Play a random generated map"
-msgstr "游玩随机生成的地图"
-
-msgctxt "Opening Screen/KEY_PLAY_FORT_FREIHEIT"
-msgid "Play Fort Freiheit"
-msgstr "游玩弗莱海特堡垒"
-
-msgctxt "Opening Screen/KEY_PLAY_RANDOM_MAP"
-msgid "Play Random Map"
-msgstr "游玩随机地图"
-
-msgctxt "Opening Screen/KEY_PLAY_STRATEGY_GAME"
-msgid "Play strategy game"
-msgstr "游玩策略游戏"
-
-msgctxt "Opening Screen/KEY_MENU_DISCLAIMER"
-msgid "not used"
-msgstr "未使用"
-
-msgctxt "Opening Screen/KEY_PLAY_DEMO"
-msgid "PLAY DEMO"
-msgstr "试玩游戏"
-
-msgctxt "Opening Screen/KEY_DEMO_TEXT"
-msgid "Experience a night time tactical, fighting against an alien incursion in a new Jericho power facility.[LF][LF][LF]Use the cover of the building to aboid alien artillery - or use your Scarab AFV for protection."
-msgstr "在一座新耶利哥电厂中体验夜间战术战斗，与入侵的异形生物对抗。利用建筑物的掩护来躲避异形的炮火，或是用你的圣甲虫装甲战车作为保护。"
-
-msgctxt "Opening Screen/KEY_CREDITS"
-msgid "CREDITS"
-msgstr "工作人员名单"
-
-msgctxt "Opening Screen/KEY_SKIP"
-msgid "Skip: ESC, :RMB:, or :B:"
-msgstr "跳过：ESC 键，:RMB:，或 :B:"
-
-msgctxt "Opening Screen/KEY_LOADING"
-msgid "Loading..."
-msgstr "加载中…"
-
-msgctxt "Opening Screen/KEY_START_GAME"
-msgid "START GAME"
-msgstr "开始游戏"
-
-msgctxt "Opening Screen/KEY_PHOENIX_POINT"
-msgid "PHOENIX POINT"
-msgstr "PHOENIX POINT"
-
-msgctxt "Opening Screen/KEY_DLC_COMING_SOON"
-msgid "COMING SOON"
-msgstr "即将推出"
-
-msgctxt "Opening Screen/KEY_DLC_ACTIVATE"
-msgid "ACTIVATE DLC"
-msgstr "激活 DLC"
-
-msgctxt "Opening Screen/KEY_DLC_LIVING_WEAPONS"
-msgid "LIVING WEAPONS"
-msgstr "活体武器"
-
-msgctxt "Opening Screen/KEY_DLC_BLOOD_AND_TITANIUM"
-msgid "BLOOD AND TITANIUM"
-msgstr "鲜血与钛金"
-
-msgctxt "Opening Screen/KEY_DLC_LEGACY_ANCIENTS"
-msgid "LEGACY OF THE ANCIENTS"
-msgstr "远古遗产"
-
-msgctxt "Opening Screen/KEY_DLC_FESTERING_SKIES"
-msgid "FESTERING SKIES"
-msgstr "溃烂天空"
-
-msgctxt "Opening Screen/KEY_BSNAPSHOT_GAMES_INC_BACKER_BUILD_PP1"
-msgid "PRIVACY POLICY [LF]Last updated December 09, 2020 [LF][LF][LF]Thank you for choosing to be part of our community at Snapshot Games Inc. (“Company”, “we”, “us”, or “our”). We are committed to protecting your personal information and your right to privacy. If you have any questions or concerns about our policy, or our practices with regards to your personal information, please contact us at contact@snapshotgames.com. [LF][LF]In this privacy policy, we seek to explain to you in the clearest way possible what information we collect, how we use it, and what rights you have in relation to it. [LF][LF]This privacy policy applies to all information collected in our games (such as Phoenix Point: Year One Edition) which we refer to collectively in this privacy policy as “the Games.”  Any related services, such as our websites, sales, marketing or events may be covered by separate policies [LF][LF]Please read this privacy policy carefully as it will help you make informed decisions about sharing your personal information with us. [LF][LF]TABLE OF CONTENTS [LF]1. WHAT INFORMATION DO WE COLLECT?[LF]2. HOW DO WE USE YOUR INFORMATION?[LF]3. WILL YOUR INFORMATION BE SHARED WITH ANYONE? [LF]4. IS YOUR INFORMATION TRANSFERRED INTERNATIONALLY? [LF]5. HOW LONG DO WE KEEP YOUR INFORMATION? [LF]6. DO WE COLLECT INFORMATION FROM MINORS?[LF]7. WHAT ARE YOUR PRIVACY RIGHTS?[LF]8. CONTROLS FOR DO-NOT-TRACK FEATURES [LF]9. DO CALIFORNIA RESIDENTS HAVE SPECIFIC PRIVACY RIGHTS? [LF]10. DO WE MAKE UPDATES TO THIS POLICY?[LF]11. HOW CAN YOU CONTACT US ABOUT THIS POLICY?[LF][LF][LF]1. WHAT INFORMATION DO WE COLLECT? [LF][LF]Anonymous Gameplay Data [LF]In Short: We collect data regarding the decisions you make and actions you take in our game. These data are anonymized and do not contain any personally identifiable information.  [LF][LF][LF]Personal Information you Voluntarily Disclose:[LF]In Short: If you choose to share it with us, we may collect your email address, name, and potentially other information such as your user ID for various services on which we merchandise our Games. We do not collect personal information automatically in our games. Instead, you will be able to opt in and share such information with us, only if you choose.[LF][LF]All personal information that you provide to us must be true, complete and accurate, and you must notify us of any changes to such personal information. [LF][LF]Information automatically collected [LF]In Short: When you visit our website and/or other online services we operate, including marketing, sales, and events, some information – such as IP address and/or browser and device characteristics – is collected automatically..[LF]We automatically collect certain information when you visit, use or navigate our web services. This information does not reveal your specific identity (like your name or contact information) but may include device and usage information, such as your IP address, browser and device characteristics, operating system, language preferences, referring URLs, device name, country, location, information about how and when you use our Games and web services and other technical information. This information is primarily needed to maintain the security and operation of our Games, and for our internal analytics and reporting purposes. Like many businesses, we also collect information through cookies and similar technologies. [LF][LF][LF]2. HOW DO WE USE YOUR INFORMATION? [LF]In Short: We process your information for purposes based on legitimate business interests, the fulfillment of our contract with you, compliance with our legal obligations, and/or your consent. [LF]We use anonymous information about your experience with our Games to improve our Games and for statistical analysis related to our business and customer service.[LF][LF]We use personal information you share with us via our Games and web services for a variety of business purposes described below. We process your personal information for these purposes in reliance on our legitimate business interests, in order to enter into or perform a contract with you, with your consent, and/or for compliance with our legal obligations. We indicate the specific processing grounds we rely on next to each purpose listed below. [LF][LF]We may use the information we collect or receive: [LF][LF]To send you marketing and promotional communications. We and/or our third-party marketing partners may use the personal information you send to us for our marketing purposes, if this is in accordance with your marketing preferences. You can opt-out of our marketing emails at any time (see the \"\" WHAT ARE YOUR PRIVACY RIGHTS \"\" below). [LF][LF]To send administrative information to you. We may use your personal information to send you product, service and new feature information and/or information about changes to our terms, conditions, and policies. [LF][LF][LF][LF]Deliver targeted advertising to you. We may use your information to develop and display content and advertising (and work with third parties who do so) tailored to your interests and/or location and to measure its effectiveness. [LF][LF]Request Feedback. We may use your information to request feedback and to contact you about your use of our Games and other services. [LF][LF]For other Business Purposes. We may use your information for other Business Purposes, such as data analysis, identifying usage trends, determining the effectiveness of our promotional campaigns and to evaluate and improve our Games and other services, products, marketing and your experience. We may use and store this information in aggregated and anonymized form so that it is not associated with individual end users and does not include personal information. We will not use identifiable personal information without your consent. [LF][LF]3. WILL YOUR INFORMATION BE SHARED WITH ANYONE? [LF]In Short: We only share information with your consent, to comply with laws, to provide you with services, to protect your rights, or to fulfill business obligations. [LF][LF]We may process or share data based on the following legal basis:[LF]Consent: We may process your data if you have given us specific consent to use your personal information in a specific purpose.[LF][LF]Legitimate Interests: We may process your data when it is reasonably necessary to achieve our legitimate business interests.[LF][LF]Performance of a Contract: Where we have entered into a contract with you, we may process your personal information to fulfill the terms of our contract.[LF][LF]Legal Obligations: We may disclose your information where we are legally required to do so in order to comply with applicable law, governmental requests, a judicial proceeding, court order, or legal process, such as in response to a court order or a subpoena (including in response to public authorities to meet national security or law enforcement requirements).[LF][LF][LF]Vital Interests: We may disclose your information where we believe it is necessary to investigate, prevent, or take action regarding potential violations of our policies, suspected fraud, situations involving potential threats to the safety of any person and illegal activities, or as evidence in litigation in which we are involved.[LF]More specifically, we may need to process your data or share your personal information in the following situations: [LF]Vendors, Consultants and Other Third-Party Service Providers. We may share your data with third party vendors, service providers, contractors or agents who perform services for us or on our behalf and require access to such information to do that work. Examples include: payment processing, data analysis, email delivery, hosting services, customer service and marketing efforts. We may allow selected third parties to use tracking technology in our Games or related web services , which will enable them to collect data about how you interact with the such Games and services over time. This information may be used to, among other things, analyze and track data, determine the popularity of certain content and better understand online activity. Unless described in this Policy, we do not share, sell, rent or trade any of your information with third parties for their promotional purposes. [LF][LF]Business Transfers. We may share or transfer your information in connection with, or during negotiations of, any merger, sale of company assets, financing, or acquisition of all or a portion of our business to another company. [LF][LF]4. IS YOUR INFORMATION TRANSFERRED INTERNATIONALLY? [LF]In Short: We may transfer, store, and process anonymous data and information you voluntarily share with us in countries other than your own. [LF][LF]If you are a resident in the European Economic Area, then these countries may not have data protection or other laws as comprehensive as those in your country. We will however take all necessary measures to protect your personal information in accordance with this privacy policy and applicable law. [LF][LF]5. HOW LONG DO WE KEEP YOUR INFORMATION? [LF]In Short: We keep your anonymous and voluntarily shared personal information for as long as necessary to fulfill the purposes outlined in this privacy policy unless otherwise required by law. [LF]We will only keep your personal information for as long as it is necessary for the purposes set out in this privacy policy, unless a longer retention period is required or permitted by law (such as tax, accounting or other legal requirements). [LF]When we have no ongoing legitimate business need to process your personal information, we will either delete or anonymize it, or, if this is not possible (for example, because your personal information has been stored in backup archives), then we will securely store your personal information and isolate it from any further processing until deletion is possible. [LF][LF]6. DO WE COLLECT INFORMATION FROM MINORS? [LF]In Short: We do not knowingly collect data from or market to children under 18 years of age. [LF]We do not knowingly solicit data from or market to children under 18 years of age. By using our Games and web services, you represent that you are at least 18 or that you are the parent or guardian of such a minor and consent to such minor dependent’s use of the Games. If we learn that personal information from users less than 18 years of age has been collected, we will deactivate the account and take reasonable measures to promptly delete such data from our records. If you become aware of any data we have collected from children under age 18, please contact us at contact@snapshotgames.com. "
-msgstr "隐私政策 [LF]最后更新日期 2020 年 12 月 9 日 [LF][LF][LF]感谢您选择成为 Snapshot Games Inc.（以下简称“公司”或“我们”）社区的一员。我们致力于保护您的个人信息和隐私权。如果您对我们的政策或我们对您个人信息的使用有任何问题或疑虑，请通过 contact@snapshotgames.com 与我们联系。[LF][LF]在本隐私政策中，我们力求以最清晰的方式向您解释我们会收集哪些信息、如何使用这些信息以及您对这些信息拥有的权利。[LF][LF]本隐私政策适用于我们在游戏（例如 Phoenix Point:Year One Edition）中收集的所有信息，我们在本隐私政策中统称为“游戏”。 任何相关服务，例如我们的网站、销售、营销或活动，都可能受到单独政策的约束 [LF][LF]请仔细阅读本隐私政策，这样有助于您在与我们分享个人信息方面作出明智决定。[LF][LF]目录 [LF]1.我们会收集哪些信息？[LF]2.我们如何使用您的信息？[LF]3.您的信息是否会被分享给任何人？[LF]4.您的信息是否会在国际间传输？[LF]5.我们会将您的信息保留多久？[LF]6.我们是否会收集未成年人的信息？[CR][LF]7.您有哪些隐私权？[CR][LF]8.禁止跟踪功能的控件 [CR][LF]9.加州居民是否有特定隐私权？[CR][LF]10.我们是否会更新本政策？[CR][LF]11.如果您要咨询有关本政策的问题，该如何联系我们？[LF][LF][LF][LF]1.我们会收集哪些信息？[LF][LF]匿名游戏数据 [LF]简言之：我们会收集有关您在游戏中所作决定和所采取行动的数据。这些数据经过匿名处理，不包含任何个人身份信息。[LF][LF][LF]您自愿披露的个人信息：[LF]简言之：如果您选择与我们分享，我们可能会收集您的电子邮件地址、姓名和其他可能的信息，例如您在我们销售游戏的各类服务中的用户 ID 等。我们不会在游戏中自动收集个人信息。而是只在您愿意时，由您选择加入并与我们分享此类信息。[LF][LF]您提供给我们的所有个人信息必须真实、完整和准确，并且必须在此类个人信息发生任何变更时通知我们。[LF][LF]自动收集的信息 [LF]简言之：当您访问我们的网站和/或包括营销、销售和活动在内的其他在线服务时，我们会自动收集一些信息，例如 IP 地址和/或浏览器和设备特征。[LF]当您访问、使用或浏览我们的 Web 服务时，我们会自动收集某些信息。这些信息不会透露您的具体身份（例如姓名或联系信息），但可能包括设备和使用信息，例如 IP 地址、浏览器和设备特征、操作系统、语言偏好、引荐网址、设备名称、国家/地区、位置、有关您如何以及何时使用我们的游戏和网络服务的信息，以及其他技术信息。这些信息主要用于维护游戏的安全性和运行，以及内部分析和报告目的。与许多企业一样，我们也会通过 Cookie 和类似技术来收集信息。[LF][LF][LF]2.我们如何使用您的信息？[LF]简言之：我们处理您信息的目的基于合法的商业利益、履行与您之间的合同、遵守我们的法律义务和/或您的同意。[LF]我们使用有关您在我们游戏中体验的匿名信息来改进游戏，并进行与商业和客户服务相关的统计分析。[LF][LF]我们将您通过游戏和网络服务与我们分享的个人信息用于以下所述的各种商业目的。出于这些目的，我们依据合法的商业利益处理您的个人信息，以便在您的同意下签订或履行与您之间的合同，和/或遵守我们的法律义务。我们在下文列出的每个目的旁注明我们的具体处理依据。[LF][LF]我们可能会将收集或接收的信息用于以下用途：[LF][LF]向您发送营销和促销信息。如果符合您的营销偏好，我们和/或我们的第三方营销合作伙伴可能会将您发送给我们的个人信息用于营销目的。您可以随时选择拒收我们的营销电子邮件（请参阅下文“您有哪些隐私权”）。[LF][LF]向您发送管理信息。我们可能会使用您的个人信息向您发送产品、服务及新功能信息和/或有关我们的条款、条件和政策变更的信息。[LF][LF][LF][LF]向您投放有针对性的广告。我们可能会使用您的信息来开发和显示适合您的兴趣和/或所在地的内容和广告（并与负责这些开发和显示的第三方合作），以及评估其有效性。[LF][LF]请求反馈。我们可能会使用您的信息来请求反馈，并与您取得联系以便咨询您对我们的游戏和其他服务的使用情况。[LF][LF]用于其他商业目的。我们可能会将您的信息用于其他商业目的，例如数据分析、识别使用趋势、确定促销活动的有效性以及评估和改善我们的游戏及其他服务、产品、营销和您的体验。我们可能会以汇总和匿名的形式使用和存储这些信息，使其不会关联到最终用户个体，并且不包含个人信息。未经您的同意，我们不会使用包含身份的个人信息。[LF][LF]3.您的信息是否会被分享给任何人？[LF]简言之：我们只会在经过您的同意、遵守法律、为您提供服务、保护您的权利或履行商业义务时分享信息。[LF][LF]我们可能会基于以下法律依据处理或分享数据：[LF]同意：如果您已明确允许我们将您的个人信息用于特定目的，我们可能会对您的数据进行处理。[LF][LF]合法权益：在实现我们的合法商业利益合理且必要时，我们可能会对您的数据进行处理。[LF][LF]履行合同：如果我们与您签订了合同，可能会对您的个人信息进行处理以履行合同条款。[LF][LF]法律义务：我们可能会在法律要求的情况下披露您的信息，以遵守适用法律、政府要求、司法程序、法院命令或法律程序，例如响应法院命令或传票（包括响应公共机构以满足国家安全或执法要求）。[LF][LF][LF]重要利益：我们可能会在我们认为有必要就可能违反我们的政策、涉嫌欺诈、涉及任何人身安全的潜在威胁和非法活动的情况进行调查、预防或采取行动时，或是在我们参与的诉讼中作为证据披露您的信息。[LF]更加确切地来说，我们在以下情况下可能需要处理您的数据或分享您的个人信息：[LF]供应商、顾问和其他第三方服务提供商。我们可能会与为我们或代表我们提供服务并需要访问此类信息以进行此类工作的第三方供应商、服务提供商、承包商或代理商共享您的数据。例如：付款处理、数据分析、电子邮件发送、托管服务、客户服务和营销活动。我们可能允许选定的第三方在我们的游戏或相关网络服务中使用跟踪技术，这会使他们能够收集有关您在一段时间内如何与此类游戏和服务交互的数据。这些信息可能会用于分析和跟踪数据、确定某些内容的受欢迎程度以及更好地理解在线活动等。除非本政策中有所描述，否则我们不会出于推广宣传目的，向第三方分享、出售、出租或交易您的任何信息。[LF][LF]业务转让。我们可能会在任何合并、出售公司资产、融资或另一家公司收购我们全部或部分业务的谈判期间分享或转让您的信息。[LF][LF]4.您的信息是否会在国际间传输？[LF]简言之：我们可能会与您所在国家/地区之外的其他国家/地区传输、存储和处理您自愿与我们分享的匿名数据和信息。[LF][LF]如果您是欧洲经济区的居民，这些国家/地区可能没有像您所在国家/地区那样全面的数据保护或其他法律。不过，我们会根据本隐私政策和适用法律，采取一切必要措施保护您的个人信息。[LF][LF]5.我们会将您的信息保留多久？[LF]简言之：除非法律另有要求，否则我们会根据实现本隐私政策中所述目的，保留您的匿名和自愿分享的个人信息。[LF]除非法律要求或允许更长的保留期限（例如税务、会计或其他法律要求），否则我们只会在本隐私政策规定的必要时间范围内保留您的个人信息。[LF]当我们没有需要处理您个人信息的现行合法业务时，我们会将这些信息删除或匿名处理，或者，如果无法做到（例如，由于您的个人信息已存储在备份档案中），我们会安全地存储您的个人信息，并将其隔离以防止任何进一步处理，直到其删除。[LF][LF]6.我们是否会收集未成年人的信息？[LF]简言之：我们不会有意收集 18 岁以下儿童的数据或向儿童推销。[LF]我们不会有意索取 18 岁以下儿童的数据或向儿童推销。使用我们的游戏和网络服务，即表示您至少年满 18 岁，或者您是该未成年人的父母或监护人，并同意受供养的未成年人使用本游戏。如果我们得知收集到 18 岁以下用户的个人信息，我们会停用该帐户并采取合理措施立即从我们的记录中删除这些数据。如果您发现我们收集任何 18 岁以下儿童的数据，请与我们联系：contact@snapshotgames.com。[LF]"
-
-msgctxt "Opening Screen/KEY_BSNAPSHOT_GAMES_INC_BACKER_BUILD_PP2"
-msgid "7. WHAT ARE YOUR PRIVACY RIGHTS?  [LF]In Short:  In some regions, such as the European Economic Area, you have rights that allow you greater access to and control over your personal information. You may review, change, or terminate your account at any time.   [LF]In some regions (like the European Economic Area), you have certain rights under applicable data protection laws. These may include the right (i) to request access and obtain a copy of your personal information, (ii) to request rectification or erasure; (iii) to restrict the processing of your personal information; and (iv) if applicable, to data portability. In certain circumstances, you may also have the right to object to the processing of your personal information. To make such a request, please use the contact details   provided below. We will consider and act upon any request in accordance with applicable data protection laws. [LF]If we are relying on your consent to process your personal information, you have the right to withdraw your consent at any time. Please note however that this will not affect the lawfulness of the processing before its withdrawal.   [LF]If you are resident in the European Economic Area and you believe we are unlawfully processing your personal information, you also have the right to complain to your local data protection supervisory authority. You can find their contact details here: http://ec.europa.eu/justice/data-protection/bodies/authorities/index_en.htm.   [LF] [LF]Account Information  [LF]If you would at any time like to review or change the information in your account or terminate your account, you can: [LF]    ■  Contact us using the contact information provided.  [LF]Upon your request to terminate your account, we will deactivate or delete your account and information from our active databases. However, some information may be retained in our files to prevent fraud, troubleshoot problems, assist with any investigations, enforce our Terms of Use and/or comply with legal requirements.     [LF]Cookies and similar technologies: Most Web browsers are set to accept cookies by default. If you prefer, you can usually choose to set your browser to remove cookies and to reject cookies. If you choose to remove cookies or reject cookies, this could affect certain features or services of our Services. To opt-out of interest-based advertising by advertisers on our Services visit http://www.aboutads.info/choices/  .       [LF]Opting out of email marketing: You can unsubscribe from our marketing email list at any time by clicking on the unsubscribe link in the emails that we send or by contacting us using the details provided below. You will then be removed from the marketing email list – however, we will still need to send you service-related emails that are necessary for the administration and use of your account. To otherwise opt-out, you may: [LF]    ■  Contact us using the contact information provided.    [LF][LF]8. CONTROLS FOR DO-NOT-TRACK FEATURES  [LF]Most web browsers and some mobile operating systems and mobile applications include a Do-Not-Track (“DNT”) feature or setting you can activate to signal your privacy preference not to have data about your online browsing activities monitored and collected. No uniform technology standard for recognizing and implementing DNT signals has been finalized. As such, we do not currently respond to DNT browser signals or any other mechanism that automatically communicates your choice not to be tracked online. If a standard for online tracking is adopted that we must follow in the future, we will inform you about that practice in a revised version of this privacy policy   .  [LF][LF]9. DO CALIFORNIA RESIDENTS HAVE SPECIFIC PRIVACY RIGHTS?  [LF]In Short:  Yes, if you are a resident of California, you are granted specific rights regarding access to your personal information.   [LF]California Civil Code Section 1798.83, also known as the “Shine The Light” law, permits our users who are California residents to request and obtain from us, once a year and free of charge, information about categories of personal information (if any) we disclosed to third parties for direct marketing purposes and the names and addresses of all third parties with which we shared personal information in the immediately preceding calendar year. If you are a California resident and would like to make such a request, please submit your request in writing to us using the contact information provided below. [LF]If you are under 18 years of age, reside in California, and have a registered account with the Services, you have the right to request removal of unwanted data that you publicly post on the Services. To request removal of such data, please contact us using the contact information provided below, and include the email address associated with your account and a statement that you reside in California. We will make sure the data is not publicly displayed on the Services, but please be aware that the data may not be completely or comprehensively removed from our systems.[LF][LF]10. DO WE MAKE UPDATES TO THIS POLICY?  [LF]In Short:  Yes, we will update this policy as necessary to stay compliant with relevant laws.  [LF]We may update this privacy policy from time to time. The updated version will be indicated by an updated “Revised” date and the updated version will be effective as soon as it is accessible. If we make material changes to this privacy policy, we may notify you either by prominently posting a notice of such changes or by directly sending you a notification. We encourage you to review this privacy policy frequently to be informed of how we are protecting your information.  [LF][LF]11. HOW CAN YOU CONTACT US ABOUT THIS POLICY?  [LF]If you have questions or comments about this policy, you may email us at contact@snapshotgames.com or by post to:[LF]Snapshot Games Inc.    [LF]145 S Fairfax Ave #200 [LF]Los Angeles, CA 90036    [LF]United States        [LF][LF] [LF]How can you review, update, or delete the data we collect from you?[LF]Based on the laws of some countries, you may have the right to request access to the personal information we collect from you, change that information, or delete it in some circumstances. To request to review, update, or delete your personal information, please submit a request form by filling the form here: https://app.termly.io/notify/1a128fcc-1960-429c-b87d-250e4fe413aa. We will respond to your request within 30 days.[LF]"
-msgstr "7.您的隐私权是什么？简而言之：在某些地区，例如欧洲经济区，您拥有权利，可以使您更好地访问和控制您的个人信息。您可以随时查看，更改或终止您的帐户。在某些地区（例如欧洲经济区），根据适用的数据保护法律，您拥有某些权利。其中可能包括（i）请求访问并获取您的个人信息副本的权利（ii）请求更正或删除的权利； （iii）限制您的个人信息的处理； （iv）（如适用）数据可移植性。在某些情况下，您可能也有权反对处理您的个人信息。要提出这样的请求，请使用下面提供的联系方式。我们将根据适用的数据保护法律考虑并根据任何要求采取行动。如果我们依靠您的同意来处理您的个人信息，则您有权随时撤回您的同意。但是请注意，这不会影响处理在撤回之前的合法性。如果您居住在欧洲经济区，并且您认为我们在非法处理您的个人信息，那么您也有权向您当地的数据保护监督机构投诉。您可以在这里找到他们的联系方式：http://ec.europa.eu/justice/data-protection/bodies/authorities/index_en.htm。帐户信息如果您想随时查看或更改帐户中的信息或终止帐户，则可以：[LF]■使用提供的联系信息与我们联系。根据您要求终止您的帐户的要求，我们将停用或删除您的帐户以及我们活动数据库中的信息。但是，某些信息可能会保留在我们的文件中，以防止欺诈，解决问题，协助进行任何调查，执行我们的使用条款和/或遵守法律要求。 Cookie和类似技术：默认情况下，大多数Web浏览器都设置为接受Cookie。如果愿意，通常可以选择将浏览器设置为删除cookie并拒绝cookie。如果您选择删除cookie或拒绝cookie，这可能会影响我们服务的某些功能或服务。要选择退出广告客户在我们服务上基于兴趣的广告，请访问http://www.aboutads.info/choices/。选择退出电子邮件营销：您可以随时通过单击我们发送的电子邮件中的“取消订阅”链接或使用下面提供的详细信息与我们联系来取消订阅我们的营销电子邮件列表。然后，您将从营销电子邮件列表中删除-但是，我们仍然需要向您发送与服务相关的电子邮件，这对于管理和使用您的帐户是必需的。要选择退出，您可以：[LF]■使用提供的联系信息与我们联系。 [LF]8.禁止跟踪功能的控件大多数Web浏览器以及某些移动操作系统和移动应用程序都包含禁止跟踪（“ DNT”）功能，或者您可以激活该设置来表示您的隐私首选项，以不包含有关您的数据监视和收集在线浏览活动。尚未最终确定用于识别和实现DNT信号的统一技术标准。因此，我们目前不响应DNT浏览器信号或自动传达您选择不在线跟踪的任何其他机制。如果采用了我们将来必须遵循的在线跟踪标准，我们将在本隐私政策的修订版中告知您该做法。 [LF]9.加州居民是否有特定的隐私权？简而言之：是的，如果您是加利福尼亚州的居民，则将获得访问您的个人信息的特定权利。加利福尼亚州民法典第1798.83条（又称“光亮之光”法）允许加利福尼亚州居民的用户每年一次免费向我们索取并获取有关我们个人信息类别（如果有）的信息。出于直接营销目的向第三方披露的信息，以及在最近一个日历年中与我们共享个人信息的所有第三方的名称和地址。如果您是加利福尼亚州居民，并希望提出这样的请求，请使用下面提供的联系信息以书面形式向我们提交您的请求。如果您未满18周岁，居住在加利福尼亚州并且在“服务”中拥有注册帐户，则您有权要求删除在“服务”中公开发布的有害数据。要请求删除此类数据，请使用下面提供的联系信息与我们联系，并提供与您的帐户相关联的电子邮件地址以及您居住在加利福尼亚的声明。我们将确保数据不会在服务上公开显示，但是请注意，这些数据可能不会完全或全面地从我们的系统中删除。 [LF]10.我们是否会对此政策进行更新？简而言之：是的，我们将根据需要更新此政策，以遵守相关法律。我们可能会不时更新本隐私政策。更新的版本将以更新的“修订”日期表示，并且更新的版本只要可以访问就将生效。如果我们对此隐私政策进行了重大更改，则可以通过显着地发布有关此类更改的通知或直接向您发送通知来通知您。我们建议您经常阅读本隐私政策，以了解我们如何保护您的信息。 [LF]11.您如何就此政策与我们联系？如果您对此政策有任何疑问或意见，您可以发送电子邮件至contact@snapshotgames.com或邮寄至：[LF]Snapshot Games Inc. [LF]145 S Fairfax Ave＃200[LF]洛杉矶，CA 90036[LF]美国[LF]如何查看，更新或删除我们从您那里收集的数据？根据某些国家/地区的法律，您可能有权请求访问我们从您那里收集的个人信息，更改该信息或在某些情况下将其删除。要请求查看，更新或删除您的个人信息，请在此处填写表单以提交请求表：https://app.termly.io/notify/1a128fcc-1960-429c-b87d-250e4fe413aa。我们将在30天内回复您的请求。[LF][LF][LF]"
-
-msgctxt "Opening Screen/KEY_BSNAPSHOT_GAMES_INC_TOS_LABEL"
-msgid "ONLINE POLICIES, AGREEMENTS AND TERMS"
-msgstr "在线政策、协议及条款"
-
-msgctxt "Opening Screen/KEY_BSNAPSHOT_GAMES_INC_TOS_DESC"
-msgid "Your use of this software is subject to the following policies, agreements and terms, including transfer of your data to countries that may have different levels of privacy protection than your own."
-msgstr "在使用本软件时，你将受到以下政策、协议及条款的约束，包括将你的个人数据传输到隐私保护程度不同的国家。"
-
-msgctxt "Opening Screen/KEY_BSNAPSHOT_GAMES_INC_TOS_BUTTON"
-msgid "Read TERMS OF SERVICE"
-msgstr "阅读《服务条款》"
-
-msgctxt "Opening Screen/KEY_BSNAPSHOT_GAMES_INC_PP_BUTTON"
-msgid "Read PRIVACY POLICY"
-msgstr "阅读《隐私政策》"
-
-msgctxt "Opening Screen/KEY_BSNAPSHOT_GAMES_INC_AGREE"
-msgid "I Agree to All"
-msgstr "同意"
-
-msgctxt "Opening Screen/KEY_BSNAPSHOT_GAMES_INC_DISAGREE"
-msgid "I Disagree to All"
-msgstr "不同意"
-
-msgctxt "Opening Screen/KEY_BSNAPSHOT_GAMES_INC_TOS_NAME"
-msgid "TERMS OF SERVICE"
-msgstr "《服务条款》"
-
-msgctxt "Opening Screen/KEY_BSNAPSHOT_GAMES_INC_PP_NAME"
-msgid "PRIVACY POLICY"
-msgstr "《隐私政策》"
-
-msgctxt "Opening Screen/KEY_SAVE_TACTICAL"
-msgid "Tactical"
-msgstr "战术"
-
-msgctxt "Opening Screen/KEY_SAVE_GEOSCAPE"
-msgid "Geoscape"
-msgstr "世界地图"
 
 msgctxt "Geoscape Objectives/KEY_GEOSCAPE_OBJECTIVE_HAVEN_DEFENSE"
 msgid "Stop enemy invasion at haven {0}"
@@ -14647,7 +14819,7 @@ msgid "ENERGY GENERATION"
 msgstr "能量生成"
 
 msgctxt "Haven Screen/KEY_GEOSCAPE_ZONE_ENERGY_ZONE_DESCRIPTION"
-msgid "Energy generation zones enable factories, food production, resarch centers and other special zones to function."
+msgid "Energy generation zones enable factories, food production, research centers and other special zones to function."
 msgstr "能量生成区可以保障工厂区、食物生产区、研究中心和其他特殊区域的正常运转。"
 
 msgctxt "Haven Screen/KEY_HAVEN_ZONE_ENERGY_DESC_NJ"
@@ -16491,7 +16663,7 @@ msgid "A fully AI-controlled all-terrain Armored Personnel Carrier that utilizes
 msgstr "该载具是一种以混合充电和生物燃料供能、完全由人工智能操控的全地形装甲运兵车。同时，该载具还装备了自动高斯炮台，可搭载多达 4 名士兵安全通过具有感染风险的危险环境。"
 
 msgctxt "Characters and classes/KEY_GROUNDVEHICLE_SYN_LONG"
-msgid "Based on aircraft technology, the Aspida is a combat ready hovercraft tha powered entirely through fusion cell technology. Capable of transporting a squad of 3, the vehicle is equipped with automated field surgery robotics, allowing it to treat or paralyze biological entities on the battlefield[LF]"
+msgid "Based on aircraft technology, the Aspida is a combat ready hovercraft tha powered entirely through fusion cell technology. Capable of transporting a squad of 1, the vehicle is equipped with automated field surgery robotics, allowing it to treat or paralyze biological entities on the battlefield[LF]"
 msgstr "基于飞行器技术的悬浮车是一种完全由细胞融合技术供能的作战气垫车，能够运输一支 3 人小队。此外，该载具还装备了自动野战手术机器人，可治疗或麻痹战场上的生物实体。[LF]"
 
 msgctxt "Characters and classes/KEY_GROUNDVEHICLE_PP_LONG"
@@ -17113,6 +17285,1058 @@ msgstr "外壳"
 msgctxt "Body parts/KEY_SPAWNERY_BODY_NAME"
 msgid "BODY"
 msgstr "身体"
+
+msgctxt "Body parts Aliens/KEY_YUGGOTH_HEAVY_CARAPACE_NAME_TEMP"
+msgid "HEAVY CARAPACE"
+msgstr "[null]"
+
+msgctxt "Body parts Aliens/KEY_YUGGOTH_EYE_NAME_TEMP"
+msgid "EYE"
+msgstr "[null]"
+
+msgctxt "Body parts Aliens/KEY_HEAD_NAME_TEMP"
+msgid "HEAD"
+msgstr "[null]"
+
+msgctxt "Body parts Aliens/KEY_ROOTS_NAME_TEMP"
+msgid "ROOTS"
+msgstr "[null]"
+
+msgctxt "Body parts Aliens/KEY_YUGGOTH_TENTACLE_NAME_TEMP"
+msgid "TENTACLE"
+msgstr "[null]"
+
+msgctxt "Body parts Aliens/KEY_YUGGOTH_CARAPACE_DESCRIPTION_TEMP"
+msgid "Protects the brain of the Yuggothian Entity"
+msgstr "[null]"
+
+msgctxt "Body parts Aliens/KEY_YUGGOTH_EYE_DESCRIPTION_TEMP"
+msgid "Eye of Yuggoth"
+msgstr "[null]"
+
+msgctxt "Body parts Aliens/KEY_HEAD_DESCRIPTION_TEMP"
+msgid "[null]"
+msgstr "[null]"
+
+msgctxt "Body parts Aliens/KEY_ROOTS_DESCRIPTION_TEMP"
+msgid "[null]"
+msgstr "[null]"
+
+msgctxt "Body parts Aliens/KEY_YUGGOTH_TENTACLE_DESCRIPTION_TEMP"
+msgid "Covers the vulnerable eyes of the Yuggothian Entity"
+msgstr "[null]"
+
+msgctxt "Body parts Aliens/KEY_SCYLLA_ABDOMEN_BELCHER_NAME_TEMP"
+msgid "BELCHER ABDOMEN"
+msgstr "[null]"
+
+msgctxt "Body parts Aliens/KEY_SCYLLA_ABDOMEN_SPAWNER_NAME_TEMP"
+msgid "SPAWNING ABDOMEN"
+msgstr "[null]"
+
+msgctxt "Body parts Aliens/KEY_SCYLLA_CARAPACE_CRYSTAL_NAME_TEMP"
+msgid "CRYSTAL CARAPACE"
+msgstr "[null]"
+
+msgctxt "Body parts Aliens/KEY_SCYLLA_CARAPACE_HEAVY_NAME_TEMP"
+msgid "HEAVY CARAPACE"
+msgstr "[null]"
+
+msgctxt "Body parts Aliens/KEY_SCYLLA_CARAPACE_MIST_NAME_TEMP"
+msgid "MIST CARAPACE"
+msgstr "[null]"
+
+msgctxt "Body parts Aliens/KEY_SCYLLA_HEAD_HEAVY_NAME_TEMP"
+msgid "FURY HEAD"
+msgstr "[null]"
+
+msgctxt "Body parts Aliens/KEY_SCYLLA_LEG_AGILE_NAME_TEMP"
+msgid "AGILE LEG"
+msgstr "[null]"
+
+msgctxt "Body parts Aliens/KEY_SCYLLA_LEG_HEAVY_NAME_TEMP"
+msgid "HEAVY LEG"
+msgstr "[null]"
+
+msgctxt "Body parts Aliens/KEY_SCYLLA_SMASHER_NAME_TEMP"
+msgid "SMASHER"
+msgstr "[null]"
+
+msgctxt "Body parts Aliens/KEY_SCYLLA_TORSO_NAME_TEMP"
+msgid "TORSO"
+msgstr "[null]"
+
+msgctxt "Body parts Aliens/KEY_SCYLLA_QUEEN_ARM_BLASTER_NAME_TEMP"
+msgid "BLASTER CANNON"
+msgstr "[null]"
+
+msgctxt "Body parts Aliens/KEY_SCYLLA_MIST_LAUNCHER_NAME_TEMP"
+msgid "MIST LAUNCHER"
+msgstr "[null]"
+
+msgctxt "Body parts Aliens/KEY_SCYLLA_SONIC_HEAD_NAME_TEMP"
+msgid "SONIC HEAD"
+msgstr "[null]"
+
+msgctxt "Body parts Aliens/KEY_SCYLLA_HEAD_SPITTER_NAME_TEMP"
+msgid "SPITTER HEAD"
+msgstr "[null]"
+
+msgctxt "Body parts Aliens/KEY_SCYLLA_ARM_BLASTER_NAME_TEMP"
+msgid "BLASTER CANNON"
+msgstr "[null]"
+
+msgctxt "Body parts Aliens/KEY_SCYLLA_ABDOMEN_BELCHER_DESCRIPTION_TEMP"
+msgid "Releases multiple spawnlings on death"
+msgstr "[null]"
+
+msgctxt "Body parts Aliens/KEY_SCYLLA_ABDOMEN_SPAWNER_DESCRIPTION_TEMP"
+msgid "Spawns mindfraggers"
+msgstr "[null]"
+
+msgctxt "Body parts Aliens/KEY_SCYLLA_CARAPACE_CRYSTAL_DESCRIPTION_TEMP"
+msgid "Gives Living Crystal Supercharge ability"
+msgstr "[null]"
+
+msgctxt "Body parts Aliens/KEY_SCYLLA_CARAPACE_HEAVY_DESCRIPTION_TEMP"
+msgid "Armored protective carapace"
+msgstr "[null]"
+
+msgctxt "Body parts Aliens/KEY_SCYLLA_CARAPACE_MIST_DESCRIPTION_TEMP"
+msgid "Spawns a cloud of mist around the Scylla"
+msgstr "[null]"
+
+msgctxt "Body parts Aliens/KEY_SCYLLA_HEAD_HEAVY_DESCRIPTION_TEMP"
+msgid "Can instill frenzy on friendly characters"
+msgstr "[null]"
+
+msgctxt "Body parts Aliens/KEY_SCYLLA_LEG_AGILE_DESCRIPTION_TEMP"
+msgid "Leaps to target location, destroying everything on its path"
+msgstr "[null]"
+
+msgctxt "Body parts Aliens/KEY_SCYLLA_LEG_HEAVY_DESCRIPTION_TEMP"
+msgid "Heavy armored limb"
+msgstr "[null]"
+
+msgctxt "Body parts Aliens/KEY_SCYLLA_SMASHER_DESCRIPTION_TEMP"
+msgid "Capable of dealing heavy damage and destroying armor"
+msgstr "[null]"
+
+msgctxt "Body parts Aliens/KEY_SCYLLA_TORSO_DESCRIPTION_TEMP"
+msgid "Scylla torso"
+msgstr "[null]"
+
+msgctxt "Body parts Aliens/KEY_SCYLLA_QUEEN_ARM_BLASTER_DESCRIPTION_TEMP"
+msgid "A powerful multi-shot cannon"
+msgstr "[null]"
+
+msgctxt "Body parts Aliens/KEY_SCYLLA_MIST_LAUNCHER_DESCRIPTION_TEMP"
+msgid "Launchers projectiles that generate mist"
+msgstr "[null]"
+
+msgctxt "Body parts Aliens/KEY_SCYLLA_SONIC_HEAD_DESCRIPTION_TEMP"
+msgid "Emits sonic blast that can daze a target"
+msgstr "[null]"
+
+msgctxt "Body parts Aliens/KEY_SCYLLA_HEAD_SPITTER_DESCRIPTION_TEMP"
+msgid "Spits poisonous goo in a narrow cone area"
+msgstr "[null]"
+
+msgctxt "Body parts Aliens/KEY_SCYLLA_ARM_BLASTER_DESCRIPTION_TEMP"
+msgid "A powerful multi-shot cannon"
+msgstr "[null]"
+
+msgctxt "Body parts Aliens/KEY_TORSO_NAME_TEMP"
+msgid "TORSO"
+msgstr "[null]"
+
+msgctxt "Body parts Aliens/KEY_SENTINEL_HATCHING_HEAD_NAME_TEMP"
+msgid "HATCHING HEAD"
+msgstr "[null]"
+
+msgctxt "Body parts Aliens/KEY_TORSO_DESCRIPTION_TEMP"
+msgid "Torso"
+msgstr "[null]"
+
+msgctxt "Body parts Aliens/KEY_SENTINEL_HATCHING_HEAD_DESCRIPTION_TEMP"
+msgid "Sends signal that hatches all nearby eggs"
+msgstr "[null]"
+
+msgctxt "Body parts Aliens/KEY_SENTINEL_MIST_HEAD_NAME_TEMP"
+msgid "MIST HEAD"
+msgstr "[null]"
+
+msgctxt "Body parts Aliens/KEY_SENTINEL_MIST_HEAD_DESCRIPTION_TEMP"
+msgid "Launches projectiles that generate mist"
+msgstr "[null]"
+
+msgctxt "Body parts Aliens/KEY_SENTINEL_TERROR_HEAD_NAME_TEMP"
+msgid "TERROR HEAD"
+msgstr "[null]"
+
+msgctxt "Body parts Aliens/KEY_SENTINEL_TERROR_HEAD_DESCRIPTION_TEMP"
+msgid "Emits psychic scream that reduces will points"
+msgstr "[null]"
+
+msgctxt "Body parts Aliens/KEY_SIREN_HEAD_BUFFER_NAME_TEMP"
+msgid "FURY HEAD"
+msgstr "[null]"
+
+msgctxt "Body parts Aliens/KEY_SIREN_HEAD_ORICHALCUM_NAME_TEMP"
+msgid "ORICHALCUM HEAD"
+msgstr "[null]"
+
+msgctxt "Body parts Aliens/KEY_SIREN_HEAD_SCREAMER_NAME_TEMP"
+msgid "SCREAMING HEAD"
+msgstr "[null]"
+
+msgctxt "Body parts Aliens/KEY_SIREN_TAIL_AGILE_NAME_TEMP"
+msgid "AGILE TAIL"
+msgstr "[null]"
+
+msgctxt "Body parts Aliens/KEY_SIREN_TAIL_HEAVY_NAME_TEMP"
+msgid "HEAVY TAIL"
+msgstr "[null]"
+
+msgctxt "Body parts Aliens/KEY_SIREN_TAIL_ORICHALCUM_NAME_TEMP"
+msgid "ORICHALCUM TAIL"
+msgstr "[null]"
+
+msgctxt "Body parts Aliens/KEY_SIREN_TORSO_NAME_TEMP"
+msgid "TORSO"
+msgstr "[null]"
+
+msgctxt "Body parts Aliens/KEY_SIREN_ARM_INJECTOR_NAME_TEMP"
+msgid "INJECTOR ARM"
+msgstr "[null]"
+
+msgctxt "Body parts Aliens/KEY_SIREN_ARM_ORICHALCUM_NAME_TEMP"
+msgid "ORICHALCUM ARM"
+msgstr "[null]"
+
+msgctxt "Body parts Aliens/KEY_SIREN_ARM_SLASHER_NAME_TEMP"
+msgid "SLASHER ARM"
+msgstr "[null]"
+
+msgctxt "Body parts Aliens/KEY_SIREN_TORSO_ACID_NAME_TEMP"
+msgid "ACID TORSO"
+msgstr "[null]"
+
+msgctxt "Body parts Aliens/KEY_SIREN_TORSO_ORICHALCUM_NAME_TEMP"
+msgid "ORICHALCUM TORSO"
+msgstr "[null]"
+
+msgctxt "Body parts Aliens/KEY_SIREN_HEAD_BUFFER_DESCRIPTION_TEMP"
+msgid "Can instill frenzy on friendly characters"
+msgstr "[null]"
+
+msgctxt "Body parts Aliens/KEY_SIREN_HEAD_ORICHALCUM_DESCRIPTION_TEMP"
+msgid "Slightly improved durability"
+msgstr "[null]"
+
+msgctxt "Body parts Aliens/KEY_SIREN_HEAD_SCREAMER_DESCRIPTION_TEMP"
+msgid "Psychic scream incapacitates nearby enemies"
+msgstr "[null]"
+
+msgctxt "Body parts Aliens/KEY_SIREN_TAIL_AGILE_DESCRIPTION_TEMP"
+msgid "Increases speed of the creature"
+msgstr "[null]"
+
+msgctxt "Body parts Aliens/KEY_SIREN_TAIL_HEAVY_DESCRIPTION_TEMP"
+msgid "Tail is protected by armor"
+msgstr "[null]"
+
+msgctxt "Body parts Aliens/KEY_SIREN_TAIL_ORICHALCUM_DESCRIPTION_TEMP"
+msgid "Slightly improved durability and damage"
+msgstr "[null]"
+
+msgctxt "Body parts Aliens/KEY_SIREN_TORSO_DESCRIPTION_TEMP"
+msgid "[null]"
+msgstr "[null]"
+
+msgctxt "Body parts Aliens/KEY_SIREN_ARM_INJECTOR_DESCRIPTION_TEMP"
+msgid "Inflicts standard and viral damage"
+msgstr "[null]"
+
+msgctxt "Body parts Aliens/KEY_SIREN_ARM_ORICHALCUM_DESCRIPTION_TEMP"
+msgid "Slightly improved durability and damage"
+msgstr "[null]"
+
+msgctxt "Body parts Aliens/KEY_SIREN_ARM_SLASHER_DESCRIPTION_TEMP"
+msgid "Melee attack that can cause bleed if it deals damage"
+msgstr "[null]"
+
+msgctxt "Body parts Aliens/KEY_SIREN_TORSO_ACID_DESCRIPTION_TEMP"
+msgid "Ejects acid over a short distance"
+msgstr "[null]"
+
+msgctxt "Body parts Aliens/KEY_SIREN_TORSO_ORICHALCUM_DESCRIPTION_TEMP"
+msgid "Slightly improved durability"
+msgstr "[null]"
+
+msgctxt "Body parts Aliens/KEY_SPAWNERY_BODY_NAME_TEMP"
+msgid "BODY"
+msgstr "[null]"
+
+msgctxt "Body parts Aliens/KEY_SPAWNERY_EGG_POD_NAME_TEMP"
+msgid "EGG POD"
+msgstr "[null]"
+
+msgctxt "Body parts Aliens/KEY_SPAWNERY_SHELL_NAME_TEMP"
+msgid "SHELL"
+msgstr "[null]"
+
+msgctxt "Body parts Aliens/KEY_SPAWNERY_BODY_DESCRIPTION_TEMP"
+msgid "[null]"
+msgstr "[null]"
+
+msgctxt "Body parts Aliens/KEY_SPAWNERY_EGG_POD_DESCRIPTION_TEMP"
+msgid "[null]"
+msgstr "[null]"
+
+msgctxt "Body parts Aliens/KEY_SPAWNERY_SHELL_DESCRIPTION_TEMP"
+msgid "[null]"
+msgstr "[null]"
+
+msgctxt "Body parts Aliens/KEY_ARTHRON_CARAPACE_NAME_TEMP"
+msgid "CARAPACE"
+msgstr "[null]"
+
+msgctxt "Body parts Aliens/KEY_ARTHRON_HEAD_ELITE_NAME_TEMP"
+msgid "HEAD"
+msgstr "[null]"
+
+msgctxt "Body parts Aliens/KEY_ARTHRON_ACID_GRENADE_ARM_NAME_TEMP"
+msgid "ACID LAUNCHER"
+msgstr "[null]"
+
+msgctxt "Body parts Aliens/KEY_ARTHRON_ARM_NAME_TEMP"
+msgid "ARM"
+msgstr "[null]"
+
+msgctxt "Body parts Aliens/KEY_ARTHRON_ARM_GRENADE_NAME_TEMP"
+msgid "GRENADE LAUNCHER"
+msgstr "[null]"
+
+msgctxt "Body parts Aliens/KEY_ARTHRON_ARM_SHIELD_NAME_TEMP"
+msgid "SHIELD"
+msgstr "[null]"
+
+msgctxt "Body parts Aliens/KEY_ARTHRON_LEG_AGILE_NAME_TEMP"
+msgid "AGILE LEG"
+msgstr "[null]"
+
+msgctxt "Body parts Aliens/KEY_ARTHRON_LEG_HEAVY_NAME_TEMP"
+msgid "HEAVY LEG"
+msgstr "[null]"
+
+msgctxt "Body parts Aliens/KEY_ARTHRON_MACHINE_GUN_NAME_TEMP"
+msgid "ARTHRON GUN"
+msgstr "[null]"
+
+msgctxt "Body parts Aliens/KEY_ARTHRON_PINCER_NAME_TEMP"
+msgid "PINCER"
+msgstr "[null]"
+
+msgctxt "Body parts Aliens/KEY_ARTHRON_VIRAL_GUN_NAME_TEMP"
+msgid "VIRAL GUN"
+msgstr "[null]"
+
+msgctxt "Body parts Aliens/KEY_ARTHRON_TORSO_NAME_TEMP"
+msgid "TORSO"
+msgstr "[null]"
+
+msgctxt "Body parts Aliens/KEY_ARTHRON_HEAD_SPITTER_NAME_TEMP"
+msgid "SPITTER HEAD"
+msgstr "[null]"
+
+msgctxt "Body parts Aliens/KEY_ARTHRON_GRENADE_ARM_NAME_TEMP"
+msgid "LAUNCHER ARM"
+msgstr "[null]"
+
+msgctxt "Body parts Aliens/KEY_ARTHRON_VIRAL_MACHINE_GUN_NAME_TEMP"
+msgid "VIRAL MACHINE GUN"
+msgstr "[null]"
+
+msgctxt "Body parts Aliens/KEY_ARTHRON_CARAPACE_DESCRIPTION_TEMP"
+msgid "Arthron carapace"
+msgstr "[null]"
+
+msgctxt "Body parts Aliens/KEY_HEAD_ELITE_DESCRIPTION_TEMP"
+msgid "[null]"
+msgstr "[null]"
+
+msgctxt "Body parts Aliens/KEY_ARTHRON_ACID_GRENADE_ARM_DESCRIPTION_TEMP"
+msgid "Launches projectiles causing acid damage"
+msgstr "[null]"
+
+msgctxt "Body parts Aliens/KEY_ARTHRON_ARM_DESCRIPTION_TEMP"
+msgid "Arthron arm"
+msgstr "[null]"
+
+msgctxt "Body parts Aliens/KEY_ARTHRON_GRENADE_ARM_DESCRIPTION_TEMP"
+msgid "Organic Grenade Launcher"
+msgstr "[null]"
+
+msgctxt "Body parts Aliens/KEY_ARTHRON_SHIELD_ARM_DESCRIPTION_TEMP"
+msgid "Arthron shield"
+msgstr "[null]"
+
+msgctxt "Body parts Aliens/KEY_ARTHRON_LEG_AGILE_DESCRIPTION_TEMP"
+msgid "Increases the creatures' speed"
+msgstr "[null]"
+
+msgctxt "Body parts Aliens/KEY_ARTHRON_LEG_HEAVY_DESCRIPTION_TEMP"
+msgid "Heavy armored limb"
+msgstr "[null]"
+
+msgctxt "Body parts Aliens/KEY_ARTHRON_HEAD_SPITTER_DESCRIPTION_TEMP"
+msgid "Spits poison at short range"
+msgstr "[null]"
+
+msgctxt "Body parts Aliens/KEY_ARTHRON_MACHINE_GUN_DESCRIPTION_TEMP"
+msgid "Organic Machine Gun"
+msgstr "[null]"
+
+msgctxt "Body parts Aliens/KEY_ARTHRON_PINCER_DESCRIPTION_TEMP"
+msgid "Arthron melee attack pincer"
+msgstr "[null]"
+
+msgctxt "Body parts Aliens/KEY_ARTHRON_VIRAL_MACHINE_GUN_DESCRIPTION_TEMP"
+msgid "Launches projectiles causing viral damage"
+msgstr "[null]"
+
+msgctxt "Body parts Aliens/KEY_ARTHRON_ELITE_CARAPACE_NAME_TEMP"
+msgid "EVOLVED CARAPACE"
+msgstr "[null]"
+
+msgctxt "Body parts Aliens/KEY_ARTHRON_ELITE_TORSO_NAME_TEMP"
+msgid "EVOLVED TORSO"
+msgstr "[null]"
+
+msgctxt "Body parts Aliens/KEY_ARTHRON_ELITE_ACID_GRENADE_ARM_NAME_TEMP"
+msgid "EVOLVED ACID LAUNCHER ARM"
+msgstr "[null]"
+
+msgctxt "Body parts Aliens/KEY_ARTHRON_ELITE_GRENADE_ARM_NAME_TEMP"
+msgid "EVOLVED LAUNCHER ARM"
+msgstr "[null]"
+
+msgctxt "Body parts Aliens/KEY_ARTHRON_ELITE_ARM_SHIELD_NAME_TEMP"
+msgid "EVOLVED SHIELD"
+msgstr "[null]"
+
+msgctxt "Body parts Aliens/KEY_ARTHRON_ELITE_LEG_AGILE_NAME_TEMP"
+msgid "AGILE LEG"
+msgstr "[null]"
+
+msgctxt "Body parts Aliens/KEY_ARTHRON_ELITE_LEG_HEAVY_NAME_TEMP"
+msgid "HEAVY LEG"
+msgstr "[null]"
+
+msgctxt "Body parts Aliens/KEY_ARTHRON_ELITE_MACHINE_GUN_NAME_TEMP"
+msgid "EVOLVED ARTHRON GUN"
+msgstr "[null]"
+
+msgctxt "Body parts Aliens/KEY_ARTHRON_ELITE_PINCER_NAME_TEMP"
+msgid "EVOLVED PINCER"
+msgstr "[null]"
+
+msgctxt "Body parts Aliens/KEY_ARTHRON_ELITE_HEAD_SPITTER_NAME_TEMP"
+msgid "EVOLVED SPITTER HEAD"
+msgstr "[null]"
+
+msgctxt "Body parts Aliens/KEY_ARTHRON_ELITE_VIRAL_MACHINE_GUN_NAME_TEMP"
+msgid "EVOLVED VIRAL MACHINE GUN"
+msgstr "[null]"
+
+msgctxt "Body parts Aliens/KEY_ARTHRON_ELITE_CARAPACE_DESCRIPTION_TEMP"
+msgid "Evolved Arthron carapace"
+msgstr "[null]"
+
+msgctxt "Body parts Aliens/KEY_ARTHRON_ELITE_TORSO_DESCRIPTION_TEMP"
+msgid "Evolved Artrhron torso"
+msgstr "[null]"
+
+msgctxt "Body parts Aliens/KEY_ARTHRON_ELITE_ACID_GRENADE_ARM_DESCRIPTION_TEMP"
+msgid "Launches acid grenades"
+msgstr "[null]"
+
+msgctxt "Body parts Aliens/KEY_ARTHRON_ELITE_GRENADE_ARM_DESCRIPTION_TEMP"
+msgid "Organic Grenade Launcher"
+msgstr "[null]"
+
+msgctxt "Body parts Aliens/KEY_ARTHRON_ELITE_ARM_SHIELD_DESCRIPTION_TEMP"
+msgid "Evolved Arthron shield"
+msgstr "[null]"
+
+msgctxt "Body parts Aliens/KEY_ARTHRON_ELITE_LEG_AGILE_DESCRIPTION_TEMP"
+msgid "Increases the creatures' speed"
+msgstr "[null]"
+
+msgctxt "Body parts Aliens/KEY_ARTHRON_ELITE_LEG_HEAVY_DESCRIPTION_TEMP"
+msgid "Heavy armoured limb"
+msgstr "[null]"
+
+msgctxt "Body parts Aliens/KEY_ARTHRON_ELITE_MACHINE_GUN_DESCRIPTION_TEMP"
+msgid "Evolved organic machine gun"
+msgstr "[null]"
+
+msgctxt "Body parts Aliens/KEY_ARTHRON_ELITE_HEAD_SPITTER_DESCRIPTION_TEMP"
+msgid "Spits poison at short range"
+msgstr "[null]"
+
+msgctxt "Body parts Aliens/KEY_ARTHRON_ELITE_PINCER_DESCRIPTION_TEMP"
+msgid "Evolved Arthron pincer"
+msgstr "[null]"
+
+msgctxt "Body parts Aliens/KEY_ARTHRON_ELITE_VIRAL_MACHINE_GUN_DESCRIPTION_TEMP"
+msgid "Launches projectiles causing viral damage"
+msgstr "[null]"
+
+msgctxt "Body parts Aliens/KEY_CHIRON_LEG_AGILE_NAME_TEMP"
+msgid "AGILE LEG"
+msgstr "[null]"
+
+msgctxt "Body parts Aliens/KEY_CHIRON_LEG_BURROWING_NAME_TEMP"
+msgid "BURROWING LEG"
+msgstr "[null]"
+
+msgctxt "Body parts Aliens/KEY_CHIRON_LEG_STOMPING_NAME_TEMP"
+msgid "STOMPING LEG"
+msgstr "[null]"
+
+msgctxt "Body parts Aliens/KEY_CHIRON_HEAD_NAME_TEMP"
+msgid "HEAD"
+msgstr "[null]"
+
+msgctxt "Body parts Aliens/KEY_CHIRON_LEG_HEAVY_NAME_TEMP"
+msgid "HEAVY LEG"
+msgstr "[null]"
+
+msgctxt "Body parts Aliens/KEY_CHIRON_LEG_NAME_TEMP"
+msgid "HEAVY LEG"
+msgstr "[null]"
+
+msgctxt "Body parts Aliens/KEY_CHIRON_TORSO_NAME_TEMP"
+msgid "TORSO"
+msgstr "[null]"
+
+msgctxt "Body parts Aliens/KEY_CHIRON_TORSO_ACID_MORTAR_NAME_TEMP"
+msgid "ACID ABDOMEN"
+msgstr "[null]"
+
+msgctxt "Body parts Aliens/KEY_CHIRON_TORSO_ACIDWORM_NAME_TEMP"
+msgid "ACIDWORM ABDOMEN"
+msgstr "[null]"
+
+msgctxt "Body parts Aliens/KEY_CHIRON_TORSO_MORTAR_NAME_TEMP"
+msgid "EXPLOSIVE BOMB ABDOMEN"
+msgstr "[null]"
+
+msgctxt "Body parts Aliens/KEY_CHIRON_TORSO_FIREWORM_NAME_TEMP"
+msgid "FIREWORM ABDOMEN"
+msgstr "[null]"
+
+msgctxt "Body parts Aliens/KEY_CHIRON_TORSO_GOO_NAME_TEMP"
+msgid "GOO ABDOMEN"
+msgstr "[null]"
+
+msgctxt "Body parts Aliens/KEY_CHIRON_TORSO_POISONWORM_NAME_TEMP"
+msgid "POISONWORM ABDOMEN"
+msgstr "[null]"
+
+msgctxt "Body parts Aliens/KEY_CHIRON_SMASHER_NAME_TEMP"
+msgid "HEAVY LEG"
+msgstr "[null]"
+
+msgctxt "Body parts Aliens/KEY_CHIRON_LEG_AGILE_DESCRIPTION_TEMP"
+msgid "Leaps to target location, destroying everything on its path"
+msgstr "[null]"
+
+msgctxt "Body parts Aliens/KEY_CHIRON_LEG_BURROWING_DESCRIPTION_TEMP"
+msgid "Gives stability stance, increasing accuracy and rate of fire"
+msgstr "[null]"
+
+msgctxt "Body parts Aliens/KEY_CHIRON_LEG_STOMPING_DESCRIPTION_TEMP"
+msgid "Area attack that can daze multiple targets"
+msgstr "[null]"
+
+msgctxt "Body parts Aliens/KEY_CHIRON_HEAD_DESCRIPTION_TEMP"
+msgid "Chiron head"
+msgstr "[null]"
+
+msgctxt "Body parts Aliens/KEY_CHIRON_LEG_HEAVY_DESCRIPTION_TEMP"
+msgid "Heavy armored limb"
+msgstr "[null]"
+
+msgctxt "Body parts Aliens/KEY_CHIRON_LEG_DESCRIPTION_TEMP"
+msgid "Inflicts heavy damage and destroys armor"
+msgstr "[null]"
+
+msgctxt "Body parts Aliens/KEY_CHIRON_TORSO_DESCRIPTION_TEMP"
+msgid "Chiron torso"
+msgstr "[null]"
+
+msgctxt "Body parts Aliens/KEY_CHIRON_TORSO_ACID_MORTAR_DESCRIPTION_TEMP"
+msgid "Launches 3 acid bombs"
+msgstr "[null]"
+
+msgctxt "Body parts Aliens/KEY_CHIRON_TORSO_ACIDWORM_DESCRIPTION_TEMP"
+msgid "Launch 3 Acidworms at long range"
+msgstr "[null]"
+
+msgctxt "Body parts Aliens/KEY_CHIRON_TORSO_MORTAR_DESCRIPTION_TEMP"
+msgid "Launches 3 explosive projectiles"
+msgstr "[null]"
+
+msgctxt "Body parts Aliens/KEY_CHIRON_TORSO_FIREWORM_DESCRIPTION_TEMP"
+msgid "Launch 3 Fireworms at long range"
+msgstr "[null]"
+
+msgctxt "Body parts Aliens/KEY_CHIRON_TORSO_GOO_DESCRIPTION_TEMP"
+msgid "Launches 3 goo bombs at long range"
+msgstr "[null]"
+
+msgctxt "Body parts Aliens/KEY_CHIRON_TORSO_POISONWORM_DESCRIPTION_TEMP"
+msgid "Launch 3 Poisonworms at long range"
+msgstr "[null]"
+
+msgctxt "Body parts Aliens/KEY_CHIRON_SMASHER_DESCRIPTION_TEMP"
+msgid "Inflicts heavy damage and destroys armor"
+msgstr "[null]"
+
+msgctxt "Body parts Aliens/KEY_BODY_NAME_TEMP"
+msgid "BODY"
+msgstr "[null]"
+
+msgctxt "Body parts Aliens/KEY_BODY_DESCRIPTION_TEMP"
+msgid "[null]"
+msgstr "[null]"
+
+msgctxt "Body parts Aliens/KEY_ACIDWORM_EGG_NAME_TEMP"
+msgid "ACIDEWORM EGG"
+msgstr "[null]"
+
+msgctxt "Body parts Aliens/KEY_FACEHUGGER_EGG_NAME_TEMP"
+msgid "MINDFRAGGER EGG"
+msgstr "[null]"
+
+msgctxt "Body parts Aliens/KEY_FIREWORM_EGG_NAME_TEMP"
+msgid "FIREWORM EGG"
+msgstr "[null]"
+
+msgctxt "Body parts Aliens/KEY_POISONWORM_EGG_NAME_TEMP"
+msgid "POISONWORM EGG"
+msgstr "[null]"
+
+msgctxt "Body parts Aliens/KEY_SWARMER_EGG_NAME_TEMP"
+msgid "SWARMER EGG"
+msgstr "[null]"
+
+msgctxt "Body parts Aliens/KEY_ACIDWORM_EGG_DESCRIPTION_TEMP"
+msgid "Hatches an Acidworm"
+msgstr "[null]"
+
+msgctxt "Body parts Aliens/KEY_FACEHUGGER_EGG_DESCRIPTION_TEMP"
+msgid "Hatches a Mindfragger"
+msgstr "[null]"
+
+msgctxt "Body parts Aliens/KEY_FIREWORM_EGG_DESCRIPTION_TEMP"
+msgid "Hatches a Fireworm"
+msgstr "[null]"
+
+msgctxt "Body parts Aliens/KEY_POISONWORM_EGG_DESCRIPTION_TEMP"
+msgid "Hatches a Poisonworm"
+msgstr "[null]"
+
+msgctxt "Body parts Aliens/KEY_SWARMER_EGG_DESCRIPTION_TEMP"
+msgid "Hatches a Swarmer"
+msgstr "[null]"
+
+msgctxt "Body parts Aliens/KEY_LEG_NAME_TEMP"
+msgid "LEG"
+msgstr "[null]"
+
+msgctxt "Body parts Aliens/KEY_FACEHUGGER_HEAD_NAME_TEMP"
+msgid "MINDFRAGGER HEAD"
+msgstr "[null]"
+
+msgctxt "Body parts Aliens/KEY_LEG_DESCRIPTION_TEMP"
+msgid "[null]"
+msgstr "[null]"
+
+msgctxt "Body parts Aliens/KEY_FACEHUGGER_HEAD_DESCRIPTION_TEMP"
+msgid "Attaches to enemy unit's head and mind controls him"
+msgstr "[null]"
+
+msgctxt "Body parts Aliens/KEY_TRITON_SENSOR_HEAD_NAME_TEMP"
+msgid "SENSOR HEAD"
+msgstr "[null]"
+
+msgctxt "Body parts Aliens/KEY_TRITON_SOUND_HEAD_NAME_TEMP"
+msgid "SILENCE HEAD"
+msgstr "[null]"
+
+msgctxt "Body parts Aliens/KEY_TRITON_LEG_AGILE_NAME_TEMP"
+msgid "AGILE LEG"
+msgstr "[null]"
+
+msgctxt "Body parts Aliens/KEY_TRITON_LEG_STEALTH_NAME_TEMP"
+msgid "STEALTH LEG"
+msgstr "[null]"
+
+msgctxt "Body parts Aliens/KEY_TRITON_ARM_REGENERATION_NAME_TEMP"
+msgid "REGENERATION ARM"
+msgstr "[null]"
+
+msgctxt "Body parts Aliens/KEY_TRITON_ARM_SHROWDER_NAME_TEMP"
+msgid "PAIN CHAMELEON ARM"
+msgstr "[null]"
+
+msgctxt "Body parts Aliens/KEY_TRITON_TORSO_REGENERATION_NAME_TEMP"
+msgid "REGENERATION TORSO"
+msgstr "[null]"
+
+msgctxt "Body parts Aliens/KEY_TRITON_TORSO_SHROWDER_NAME_TEMP"
+msgid "PAIN CHAMELEON TORSO"
+msgstr "[null]"
+
+msgctxt "Body parts Aliens/KEY_TRITON_ARM_BLOODSUCKER_NAME_TEMP"
+msgid "BLOODSUCKING ARM"
+msgstr "[null]"
+
+msgctxt "Body parts Aliens/KEY_TRITON_ARM_MIST_NAME_TEMP"
+msgid "MIST EMITTER ARM"
+msgstr "[null]"
+
+msgctxt "Body parts Aliens/KEY_TRITON_ARM_PARALYZING_NAME_TEMP"
+msgid "PARALYZING ARM"
+msgstr "[null]"
+
+msgctxt "Body parts Aliens/KEY_TRITON_SENSOR_HEAD_DESCRIPTION_TEMP"
+msgid "Doubles creature's perception"
+msgstr "[null]"
+
+msgctxt "Body parts Aliens/KEY_TRITON_SOUND_HEAD_DESCRIPTION_TEMP"
+msgid "Silences weapon attacks"
+msgstr "[null]"
+
+msgctxt "Body parts Aliens/KEY_TRITON_LEG_AGILE_DESCRIPTION_TEMP"
+msgid "Increases creature's speed"
+msgstr "[null]"
+
+msgctxt "Body parts Aliens/KEY_TRITON_LEG_STEALTH_DESCRIPTION_TEMP"
+msgid "Creature becomes invisible when dealt damage"
+msgstr "[null]"
+
+msgctxt "Body parts Aliens/KEY_TRITON_ARM_REGENERATION_DESCRIPTION_TEMP"
+msgid "Restores health to damaged limbs"
+msgstr "[null]"
+
+msgctxt "Body parts Aliens/KEY_TRITON_ARM_SHROWDER_DESCRIPTION_TEMP"
+msgid "Creature becomes invisible when dealt damage"
+msgstr "[null]"
+
+msgctxt "Body parts Aliens/KEY_TRITON_TORSO_REGENERATION_DESCRIPTION_TEMP"
+msgid "Restores health to damaged limbs"
+msgstr "[null]"
+
+msgctxt "Body parts Aliens/KEY_TRITON_TORSO_SHROWDER_DESCRIPTION_TEMP"
+msgid "Creature becomes invisible when dealt damage"
+msgstr "[null]"
+
+msgctxt "Body parts Aliens/KEY_TRITON_ARM_BLOODSUCKER_DESCRIPTION_TEMP"
+msgid "Damages the enemy and regenerates the creature"
+msgstr "[null]"
+
+msgctxt "Body parts Aliens/KEY_TRITON_ARM_MIST_DESCRIPTION_TEMP"
+msgid "Launches projectiles that generate mist"
+msgstr "[null]"
+
+msgctxt "Body parts Aliens/KEY_TRITON_ARM_PARALYZING_DESCRIPTION_TEMP"
+msgid "Injects paralyzing agents into the enemy"
+msgstr "[null]"
+
+msgctxt "Body parts Aliens/KEY_TRITON_ELITE_SENSOR_HEAD_NAME_TEMP"
+msgid "EVOLVED SENSOR HEAD"
+msgstr "[null]"
+
+msgctxt "Body parts Aliens/KEY_TRITON_ELITE_SILENCE_HEAD_NAME_TEMP"
+msgid "EVOLVED SILENCE HEAD"
+msgstr "[null]"
+
+msgctxt "Body parts Aliens/KEY_TRITON_ELITE_LEG_AGILE_NAME_TEMP"
+msgid "EVOLVED AGILE LEG"
+msgstr "[null]"
+
+msgctxt "Body parts Aliens/KEY_TRITON_ELITE_LEG_HEAVY_NAME_TEMP"
+msgid "EVOLVED STEALTH LEG"
+msgstr "[null]"
+
+msgctxt "Body parts Aliens/KEY_TRITON_ELITE_ARM_REGENERATION_NAME_TEMP"
+msgid "EVOLVED REGENERATION ARM"
+msgstr "[null]"
+
+msgctxt "Body parts Aliens/KEY_TRITON_ELITE_ARM_SHROWDER_NAME_TEMP"
+msgid "EVOLVED PAIN CHAMELEON ARM"
+msgstr "[null]"
+
+msgctxt "Body parts Aliens/KEY_TRITON_ELITE_SHROWDER_TORSO_NAME_TEMP"
+msgid "EVOLVED PAIN CHAMELEON TORSO"
+msgstr "[null]"
+
+msgctxt "Body parts Aliens/KEY_TRITON_ELITE_REGENERATION_TORSO_NAME_TEMP"
+msgid "EVOLVED REGENERATION TORSO"
+msgstr "[null]"
+
+msgctxt "Body parts Aliens/KEY_TRITON_ELITE_ARM_BLOODSUCKER_NAME_TEMP"
+msgid "EVOLVED BLOODSUCKING ARM"
+msgstr "[null]"
+
+msgctxt "Body parts Aliens/KEY_TRITON_ELITE_ARM_MIST_NAME_TEMP"
+msgid "EVOLVED MIST EMITTER ARM"
+msgstr "[null]"
+
+msgctxt "Body parts Aliens/KEY_TRITON_ELITE_ARM_PARALYZING_NAME_TEMP"
+msgid "EVOLVED PARALYZING ARM"
+msgstr "[null]"
+
+msgctxt "Body parts Aliens/KEY_TRITON_ELITE_SENSOR_HEAD_DESCRIPTION_TEMP"
+msgid "Doubles creature's perception"
+msgstr "[null]"
+
+msgctxt "Body parts Aliens/KEY_TRITON_ELITE_SILENCE_HEAD_DESCRIPTION_TEMP"
+msgid "Silences weapon attacks"
+msgstr "[null]"
+
+msgctxt "Body parts Aliens/KEY_TRITON_ELITE_LEG_AGILE_DESCRIPTION_TEMP"
+msgid "Increases creature's speed"
+msgstr "[null]"
+
+msgctxt "Body parts Aliens/KEY_TRITON_ELITE_LEG_HEAVY_DESCRIPTION_TEMP"
+msgid "Creature becomes invisible when dealt damage"
+msgstr "[null]"
+
+msgctxt "Body parts Aliens/KEY_TRITON_ELITE_ARM_REGENERATION_DESCRIPTION_TEMP"
+msgid "Restores health to damaged limbs"
+msgstr "[null]"
+
+msgctxt "Body parts Aliens/KEY_TRITON_ELITE_ARM_SHROWDER_DESCRIPTION_TEMP"
+msgid "Creature becomes invisible when dealt damage"
+msgstr "[null]"
+
+msgctxt "Body parts Aliens/KEY_TRITON_ELITE_TORSO_SHROWDER_DESCRIPTION_TEMP"
+msgid "Creature becomes invisible when dealt damage"
+msgstr "[null]"
+
+msgctxt "Body parts Aliens/KEY_TRITON_ELITE_TORSO_REGENERATION_DESCRIPTION_TEMP"
+msgid "Restores health to damaged limbs"
+msgstr "[null]"
+
+msgctxt "Body parts Aliens/KEY_TRITON_ELITE_ARM_BLOODSUCKER_DESCRIPTION_TEMP"
+msgid "Damages the enemy and regenerates the creature"
+msgstr "[null]"
+
+msgctxt "Body parts Aliens/KEY_TRITON_ELITE_ARM_MIST_DESCRIPTION_TEMP"
+msgid "Launches projectiles that generate mist"
+msgstr "[null]"
+
+msgctxt "Body parts Aliens/KEY_TRITON_ELITE_ARM_PARALYZING_DESCRIPTION_TEMP"
+msgid "Injects paralyzing agents into the enemy"
+msgstr "[null]"
+
+msgctxt "Body parts Aliens/KEY_MUTOG_LEG_AGILE_NAME_TEMP"
+msgid "AGILE LEG"
+msgstr "[null]"
+
+msgctxt "Body parts Aliens/KEY_MUTOG_LEG_REGENERATION_NAME_TEMP"
+msgid "REGENERATION LEG"
+msgstr "[null]"
+
+msgctxt "Body parts Aliens/KEY_MUTOG_HEAD_RAMMING_NAME_TEMP"
+msgid "RAMMING HEAD"
+msgstr "[null]"
+
+msgctxt "Body parts Aliens/KEY_MUTOG_TORSO_NAME_TEMP"
+msgid "TORSO"
+msgstr "[null]"
+
+msgctxt "Body parts Aliens/KEY_MUTOG_HEAD_VENOM_NAME_TEMP"
+msgid "VENOMOUS HEAD"
+msgstr "[null]"
+
+msgctxt "Body parts Aliens/KEY_MUTOG_TAIL_BASHER_NAME_TEMP"
+msgid "BASHER TAIL"
+msgstr "[null]"
+
+msgctxt "Body parts Aliens/KEY_MUTOG_TAIL_SMASHER_NAME_TEMP"
+msgid "SLASHER TAIL"
+msgstr "[null]"
+
+msgctxt "Body parts Aliens/KEY_MUTOG_LEG_AGILE_DESCRIPTION_TEMP"
+msgid "Increases the speed of the mutog"
+msgstr "[null]"
+
+msgctxt "Body parts Aliens/KEY_MUTOG_LEG_REGENERATION_DESCRIPTION_TEMP"
+msgid "Regenerates injuries every turn"
+msgstr "[null]"
+
+msgctxt "Body parts Aliens/KEY_MUTOG_HEAD_RAMMING_DESCRIPTION_TEMP"
+msgid "Capable of shredding armor and dazing the enemy"
+msgstr "[null]"
+
+msgctxt "Body parts Aliens/KEY_MUTOG_TORSO_DESCRIPTION_TEMP"
+msgid "Mutog torso"
+msgstr "[null]"
+
+msgctxt "Body parts Aliens/KEY_MUTOG_HEAD_VENOM_DESCRIPTION_TEMP"
+msgid "Performs attack that injects venom into the enemy"
+msgstr "[null]"
+
+msgctxt "Body parts Aliens/KEY_MUTOG_TAIL_BASHER_DESCRIPTION_TEMP"
+msgid "Performs attack that can daze the enemy"
+msgstr "[null]"
+
+msgctxt "Body parts Aliens/KEY_MUTOG_TAIL_SMASHER_DESCRIPTION_TEMP"
+msgid "Performs attack that can cause bleeding"
+msgstr "[null]"
+
+msgctxt "Body parts Aliens/KEY_AC_TORSO_SHIELDS_HOPLITE_NAME_TEMP"
+msgid "SHIELD HOPLITE"
+msgstr "[null]"
+
+msgctxt "Body parts Aliens/KEY_AC_TORSO_SHIELDS_HOPLITE_DESCRIPTION_TEMP"
+msgid "Armoured ancient guardian"
+msgstr "[null]"
+
+msgctxt "Body parts Aliens/KEY_AC_TORSO_DRILL_HOPLITE_NAME_TEMP"
+msgid "DRILL HOPLITE"
+msgstr "[null]"
+
+msgctxt "Body parts Aliens/KEY_AC_TORSO_DRILL_HOPLITE_DECRTIPTION_TEMP"
+msgid "Drill wielding ancient guardian"
+msgstr "[null]"
+
+msgctxt "Body parts Aliens/KEY_AC_LEG_HOPLITE_NAME_TEMP"
+msgid "GUARDIAN LEG"
+msgstr "[null]"
+
+msgctxt "Body parts Aliens/KEY_AC_DRILL_HOPLITE_NAME_TEMP"
+msgid "DRILL"
+msgstr "[null]"
+
+msgctxt "Body parts Aliens/KEY_AC_SHIELD_HOPLITE_NAME_TEMP"
+msgid "ORICHALCUM SHIELDS"
+msgstr "[null]"
+
+msgctxt "Body parts Aliens/KEY_AC_POWERDRILL_TEMP"
+msgid "MUTANE-POWERED DRILL"
+msgstr "[null]"
+
+msgctxt "Body parts Aliens/KEY_AC_GUARDIANBEAM_TEMP"
+msgid "GUARDIAN BEAM"
+msgstr "[null]"
+
+msgctxt "Body parts Aliens/KEY_AC_ORICHALCUMSHIELD_TEMP"
+msgid "LIVING CRYSTAL SHIELD"
+msgstr "[null]"
+
+msgctxt "Body parts Aliens/KEY_AC_LEG_HOPLITE_DESCRIPTION_TEMP"
+msgid "[null]"
+msgstr "[null]"
+
+msgctxt "Body parts Aliens/KEY_AC_DRILL_HOPLITE_DESCRIPTION_TEMP"
+msgid "Mutane-powered drill"
+msgstr "[null]"
+
+msgctxt "Body parts Aliens/KEY_AC_SHIELD_HOPLITE_DESCRIPTION_TEMP"
+msgid "Sharp-edged shields made of Orichalcum"
+msgstr "[null]"
+
+msgctxt "Body parts Aliens/KEY_AC_POWERDRILL_DESCRIPTION_TEMP"
+msgid "A drill powered by Protean Mutane turbine"
+msgstr "[null]"
+
+msgctxt "Body parts Aliens/KEY_AC_GUARDIANBEAM_DESCRIPTION_TEMP"
+msgid "A devastating beam weapon"
+msgstr "[null]"
+
+msgctxt "Body parts Aliens/KEY_AC_ORICHALCUMSHIELD_DESCRIPTION_TEMP"
+msgid "A sharp-edged shield made of Living Crystal"
+msgstr "[null]"
+
+msgctxt "Body parts Aliens/KEY_AC_LEG_CRYSTAL_GUARDIAN_NAME_TEMP"
+msgid "LIVING CRYSTAL LEG"
+msgstr "[null]"
+
+msgctxt "Body parts Aliens/KEY_AC_LEG_ORICHALCUM_GUARDIAN_NAME_TEMP"
+msgid "ORICHALCUM LEG"
+msgstr "[null]"
+
+msgctxt "Body parts Aliens/KEY_AC_LEG_PROTEAN_GUARDIAN_NAME_TEMP"
+msgid "PROTEAN MUTANE LEG"
+msgstr "[null]"
+
+msgctxt "Body parts Aliens/KEY_AC_TORSO_CRYSTAL_GUARDIAN_NAME_TEMP"
+msgid "LIVING CRYSTAL CYCLOPS"
+msgstr "[null]"
+
+msgctxt "Body parts Aliens/KEY_AC_TORSO_ORICHALCUM_GUARDIAN_NAME_TEMP"
+msgid "ORICHALCYM CYCLOPS"
+msgstr "[null]"
+
+msgctxt "Body parts Aliens/KEY_AC_TORSO_PROTEAN_GUARDIAN_NAME_TEMP"
+msgid "PROTEAN MUTANE CYCLOPS"
+msgstr "[null]"
+
+msgctxt "Body parts Aliens/KEY_AC_GUARDIANBEAM_CRYSTAL_NAME_TEMP"
+msgid "LIVING CRYSTAL BEAM"
+msgstr "[null]"
+
+msgctxt "Body parts Aliens/KEY_AC_GUARDIANBEAM_ORICHALCUM_NAME_TEMP"
+msgid "ORICHALCUM BEAM"
+msgstr "[null]"
+
+msgctxt "Body parts Aliens/KEY_AC_GUARDIANBEAM_PROTEAN_NAME_TEMP"
+msgid "PROTEAN MUTANE BEAM"
+msgstr "[null]"
+
+msgctxt "Body parts Aliens/KEY_AC_LEG_CRYSTAL_GUARDIAN_DESCRIPTION_TEMP"
+msgid "Limb made of Living Crystal"
+msgstr "[null]"
+
+msgctxt "Body parts Aliens/KEY_AC_LEG_ORICHALCUM_GUARDIAN_DESCRIPTION_TEMP"
+msgid "Limb made of Orichalcum"
+msgstr "[null]"
+
+msgctxt "Body parts Aliens/KEY_AC_LEG_PROTEAN_GUARDIAN_DESCRIPTION_TEMP"
+msgid "Limb powered by Protean Mutane Gas"
+msgstr "[null]"
+
+msgctxt "Body parts Aliens/KEY_AC_TORSO_CRYSTAL_GUARDIAN_DESCRIPTION_TEMP"
+msgid "Ancient Guardian made of Living Crystal"
+msgstr "[null]"
+
+msgctxt "Body parts Aliens/KEY_AC_TORSO_ORICHALCUM_GUARDIAN_DESCRIPTION_TEMP"
+msgid "Ancient Guardian made of Orichalcum"
+msgstr "[null]"
+
+msgctxt "Body parts Aliens/KEY_AC_TORSO_PROTEAN_GUARDIAN_DESCRIPTION_TEMP"
+msgid "Ancient Guardian powered by Protean Mutane Gas"
+msgstr "[null]"
+
+msgctxt "Body parts Aliens/KEY_AC_GUARDIANBEAM_CRYSTAL_DESCRIPTION_TEMP"
+msgid "A devastating Living Crystal powered beam"
+msgstr "[null]"
+
+msgctxt "Body parts Aliens/KEY_AC_GUARDIANBEAM_ORICHALCUM_DESCRIPTION_TEMP"
+msgid "A devastating Orichalcum powered beam"
+msgstr "[null]"
+
+msgctxt "Body parts Aliens/KEY_AC_GUARDIANBEAM_PROTEAN_DESCRIPTION_TEMP"
+msgid "A devastating Protean Mutane powered beam"
+msgstr "[null]"
 
 msgctxt "Equipment/KEY_AMMO_AN_ACID_HANDGUN_DESCRIPTION"
 msgid "Disciples of Anu Acid Handgun Magazine"
@@ -18387,7 +19611,7 @@ msgid "New Jericho Gauss Auto Turret"
 msgstr "新耶利哥高斯自动炮台"
 
 msgctxt "Equipment/KEY_TURRET_NAME"
-msgid "Scorcher AT"
+msgid "Watcher AT"
 msgstr "看守者自动炮台"
 
 msgctxt "Equipment/KEY_VEHICLE_ROCKET_TURRET_DESCRIPTION"

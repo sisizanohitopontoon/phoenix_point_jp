@@ -3643,8 +3643,8 @@ msgid "READY FOR ACTION"
 msgstr "MANO LESTA"
 
 msgctxt "Abilities/KEY_RECOVER_DESCRIPTION"
-msgid "Recover Will Points equal to half Willpower, and end this character's turn"
-msgstr "Recupera punti volontà pari a metà della volontà, e termina il turno di questo personaggio."
+msgid "Recover Will Points equal to half Willpower, and become immune to Panic for one turn. End the character's current turn."
+msgstr "Recupera punti volontà pari a metà della volontà, e diventa immune al panico per un turno. Termina il turno attuale di questo personaggio."
 
 msgctxt "Abilities/KEY_RECOVER_NAME"
 msgid "RECOVER"
@@ -3902,6 +3902,14 @@ msgctxt "Abilities/KEY_USE_MEDKIT_NAME"
 msgid "USE MEDKIT"
 msgstr "USA KIT MEDICO"
 
+msgctxt "Abilities/KEY_USE_ADVANCED_MEDKIT_DESCRIPTION"
+msgid "Restore {GeneralHealAmount} Hit Points and remove bleeding, poison, and 50% paralysis"
+msgstr "[null]"
+
+msgctxt "Abilities/KEY_USE_ADVANCED_MEDKIT_NAME"
+msgid "USE MEDKIT"
+msgstr "[null]"
+
 msgctxt "Abilities/KEY_VANISH_DESCRIPTION"
 msgid "Move within 5 tiles and disappear from view for the next turn (or until spotted)"
 msgstr "L'unità si sposta entro 5 caselle e scompare dalla vista per il prossimo turno (o finché il nemico non la scopre)."
@@ -4103,8 +4111,8 @@ msgid "WEAK SPOT"
 msgstr "PUNTO DEBOLE"
 
 msgctxt "Abilities/KEY_SNIPER_MARK_FOR_DEATH_DESCRIPTION"
-msgid "Mark an enemy target. Until the end of the turn, each hit from an attack or individual round gets +10 damage."
-msgstr "Contrassegnare un bersaglio nemico. Fino alla fine del turno, ogni colpo da un attacco o rotonda individuo ottiene +10 danni."
+msgid "Mark an enemy target. Until the end of the turn, each hit from an attack or individual round gets +10 damage. This effect does not stack."
+msgstr "Marchia un bersaglio nemico. Fino alla fine del turno, ogni colpo da attacco o da proiettile ottiene +10 danni. Questo effetto non è cumulativo."
 
 msgctxt "Abilities/KEY_SNIPER_MARK_FOR_DEATH_NAME"
 msgid "MARKED FOR DEATH"
@@ -4151,8 +4159,8 @@ msgid "REMOTE CONTROL"
 msgstr "CONTROLLO DA REMOTO"
 
 msgctxt "Abilities/KEY_TECHNICIAN_FIELD_MEDIC_DESCRIPTION"
-msgid "Restore 10 Hit Points and 10 Armor to all body parts of the selected target. Disabled body parts are restored."
-msgstr "Ripristina 10 punti ferita e 10 punti armatura in tutte le parti del corpo del bersaglio selezionato. Le parti del corpo fuori uso vengono ripristinate."
+msgid "Restore 10 Hit Points and 10 Armor to all body parts of the selected target, and remove 50% Paralysis. Disabled body parts are restored."
+msgstr "Ripristina 10 punti ferita e 10 punti armatura in tutte le parti del corpo del bersaglio selezionato, e rimuovi il 50% di paralisi. Le parti del corpo fuori uso vengono ripristinate."
 
 msgctxt "Abilities/KEY_TECHNICIAN_FIELD_MEDIC_NAME"
 msgid "FIELD MEDIC"
@@ -4390,8 +4398,16 @@ msgctxt "Abilities/KEY_USE_THROW_TURRET_NAME"
 msgid "THROW TURRET"
 msgstr "LANCIA TORRETTA"
 
+msgctxt "Abilities/KEY_USE_ADVANCED_VIROPHAGE_KIT_DESCRIPTION"
+msgid "Restore {GeneralHealAmount} Hit Points, and remove 50% paralysis and all viral infection"
+msgstr "[null]"
+
+msgctxt "Abilities/KEY_USE_ADVANCED_VIROPHAGE_KIT_NAME"
+msgid "VIROPHAGE MEDKIT"
+msgstr "KIT MEDICO VIROFAGO"
+
 msgctxt "Abilities/KEY_USE_VIROPHAGE_KIT_DESCRIPTION"
-msgid "Restore {GeneralHealAmount} Hit Points, and removes all viral infection"
+msgid "Restore {GeneralHealAmount} Hit Points and remove all viral infection"
 msgstr "Ripristina punti ferita pari a {GeneralHealAmount} e rimuove tutte le infezioni virali."
 
 msgctxt "Abilities/KEY_USE_VIROPHAGE_KIT_NAME"
@@ -4431,8 +4447,8 @@ msgid "MIND CONTROL"
 msgstr "CONTROLLO DELLA MENTE"
 
 msgctxt "Abilities/KEY_SY_VEHICLE_FULL_RESTORE_DESCRIPTION"
-msgid "Fully heal and repair target"
-msgstr "Guarisce e ripara completamente il bersaglio."
+msgid "Fully heal and repair target, remove 50% Paralysis"
+msgstr "Guarisci completamente e ripristina il bersaglio, rimuovi il 50% di paralisi"
 
 msgctxt "Abilities/KEY_SY_VEHICLE_FULL_RESTORE_NAME"
 msgid "FULL RESTORE"
@@ -5161,6 +5177,158 @@ msgstr "Qualsiasi contenuto acquistato in un negozio in gioco sarà acquistato d
 msgctxt "Polaris/KEY_DLC_NEW"
 msgid "NEW"
 msgstr "NOVITÀ"
+
+msgctxt "Polaris/KEY_BUTTON_UNDO"
+msgid "UNDO"
+msgstr "ANNULLA"
+
+msgctxt "Behemoth/KEY_GEOSCAPE_ALIEN_RAID_RECON_STARTED"
+msgid "Alien Recon raid started!"
+msgstr "[null]"
+
+msgctxt "Behemoth/KEY_GEOSCAPE_ALIEN_RAID_SUPPLY_STARTED"
+msgid "Alien Supply raid started!"
+msgstr "[null]"
+
+msgctxt "Behemoth/KEY_GEOSCAPE_ALIEN_RAID_BOMB_HEVEN_STARTED"
+msgid "Alien raid started against a Haven!"
+msgstr "[null]"
+
+msgctxt "Behemoth/KEY_GEOSCAPE_ALIEN_RAID_INFEST_HAVEN_STARTED"
+msgid "Alien Infestation raid started!"
+msgstr "[null]"
+
+msgctxt "Behemoth/KEY_GEOSCAPE_ALIEN_RAID_BOMB_PHOENIX_STARTED"
+msgid "Alien raid started against a Phoenix Base!"
+msgstr "[null]"
+
+msgctxt "Behemoth/KEY_GEOSCAPE_ALIEN_RAID_DESTROY_HAVEN_STARTED"
+msgid "Alien Heavy Bombardment raid started against a haven!"
+msgstr "[null]"
+
+msgctxt "Behemoth/KEY_GEOSCAPE_ALIEN_RAID_RECON_SUCCESSFUL"
+msgid "Alien Recon raid ended safely!"
+msgstr "[null]"
+
+msgctxt "Behemoth/KEY_GEOSCAPE_ALIEN_RAID_SUPPLY_SUCCESSFUL"
+msgid "Alien Supply raid ended safely!"
+msgstr "[null]"
+
+msgctxt "Behemoth/KEY_GEOSCAPE_ALIEN_RAID_BOMB_HEVEN_SUCCESSFUL"
+msgid "Alien raid against a Haven ended successfully!"
+msgstr "[null]"
+
+msgctxt "Behemoth/KEY_GEOSCAPE_ALIEN_RAID_INFEST_HAVEN_SUCCESSFUL"
+msgid "Alien Infestation raid  ended successfully!"
+msgstr "[null]"
+
+msgctxt "Behemoth/KEY_GEOSCAPE_ALIEN_RAID_BOMB_PHOENIX_SUCCESSFUL"
+msgid "Alien raid against a Phoenix Base ended successfully!"
+msgstr "[null]"
+
+msgctxt "Behemoth/KEY_GEOSCAPE_ALIEN_RAID_DESTROY_HAVEN_SUCCESSFUL"
+msgid "Alien Heavy Bombardment raid against a haven ended successfully!"
+msgstr "[null]"
+
+msgctxt "Behemoth/KEY_GEOSCAPE_ALIEN_RAID_RECON_FAILED"
+msgid "Alien Recon raid was destroyed!"
+msgstr "[null]"
+
+msgctxt "Behemoth/KEY_GEOSCAPE_ALIEN_RAID_SUPPLY_FAILED"
+msgid "Alien Supply raid was destroyed!"
+msgstr "[null]"
+
+msgctxt "Behemoth/KEY_GEOSCAPE_ALIEN_RAID_BOMB_HEVEN_FAILED"
+msgid "Alien raid against a Haven was destroyed!"
+msgstr "[null]"
+
+msgctxt "Behemoth/KEY_GEOSCAPE_ALIEN_RAID_INFEST_HAVEN_FAILED"
+msgid "Alien Infestation raid was destroyed!"
+msgstr "[null]"
+
+msgctxt "Behemoth/KEY_GEOSCAPE_ALIEN_RAID_BOMB_PHOENIX_FAILED"
+msgid "Alien raid against a Phoenix Base was destroyed!"
+msgstr "[null]"
+
+msgctxt "Behemoth/KEY_GEOSCAPE_ALIEN_RAID_DESTROY_HAVEN_FAILED"
+msgid "Alien Heavy Bombardment raid against a haven was destroyed!"
+msgstr "[null]"
+
+msgctxt "Behemoth/KEY_PX_AIRSHIP_2_DESCRIPTION"
+msgid "Phoenix Air Vehicle"
+msgstr "[null]"
+
+msgctxt "Behemoth/KEY_UNIT_TYPE_MASKED_MANTICORES"
+msgid "MASKED MANTICORES"
+msgstr "[null]"
+
+msgctxt "Behemoth/KEY_GEOSCAPE_PX_AIRCRAFT_2"
+msgid "MASKED MANTICORE {0}"
+msgstr "[null]"
+
+msgctxt "Behemoth/KEY_PX_AIRSHIP_2_NAME"
+msgid "MASKED MANTICORE"
+msgstr "[null]"
+
+msgctxt "Behemoth/KEY_AIRCRAFT_PP_2_LONG"
+msgid "Placeholder description of masked manticore"
+msgstr "[null]"
+
+msgctxt "Behemoth/KEY_GEOSCAPE_BEHEMOTH_EMERGED_MESSAGE"
+msgid "Placeholder notification when the behemoth emerges"
+msgstr "[null]"
+
+msgctxt "Behemoth/KEY_GEOSCAPE_BEHEMOTH_DESTROYED_HAVEN_MESSAGE"
+msgid "Placeholder notification when the behemoth destroys a haven"
+msgstr "[null]"
+
+msgctxt "Behemoth/KEY_LAUNCH_MISSION_BEHEMOTH_DESCRIPTION"
+msgid "Deploy squad against the behemoth"
+msgstr "[null]"
+
+msgctxt "Behemoth/KEY_BEHEMOTH_ATTACK_TITLE"
+msgid "Kill the behemoth (placeholder)"
+msgstr "[null]"
+
+msgctxt "Behemoth/KEY_BEHEMOTH_ATTACK_OBJECTIVES"
+msgid "INJECT BEHEMOTH (placeholder)"
+msgstr "[null]"
+
+msgctxt "Orryx/KEY_STATUS_PANIC_IMMUNITY_NAME"
+msgid "RECOVERED"
+msgstr "RECUPERATO"
+
+msgctxt "Orryx/KEY_STATUS_PANIC_IMMUNITY_DESCRIPTION"
+msgid "Immune to panic for one turn."
+msgstr "Immune al panico per un turno."
+
+msgctxt "Orryx/KEY_DAMAGE_TYPE_BASH"
+msgid "BASH"
+msgstr "COLPO CONTUNDENTE"
+
+msgctxt "Orryx/KEY_DAMAGE_TYPE_BASH_DESC"
+msgid "BASH inflicts damage and shock value equal to held item's weight multiplied by Strength. 25% of the value is applied to the item used for bashing."
+msgstr "Il COLPO CONTUNDENTE infligge danni e valore di shock pari al peso dell'oggetto moltiplicato per la forza. Il 25% del valore viene applicato all'oggetto usato per colpire."
+
+msgctxt "Orryx/KEY_OPTIONS_ANIMATION_SPEED_LEVEL"
+msgid "ANIMATION SPEED"
+msgstr "VELOCITÀ ANIMAZIONE"
+
+msgctxt "Orryx/KEY_OPTIONS_ANIMATION_SPEED_STANDARD"
+msgid "STANDARD"
+msgstr "STANDARD"
+
+msgctxt "Orryx/KEY_OPTIONS_ANIMATION_SPEED_FAST"
+msgid "FAST"
+msgstr "VELOCE"
+
+msgctxt "Orryx/KEY_OPTIONS_ANIMATION_SPEED_FASTER"
+msgid "VERY FAST"
+msgstr "MOLTO VELOCE"
+
+msgctxt "Orryx/KEY_OPTIONS_ANIMATION_SPEED_FASTEST"
+msgid "FASTEST"
+msgstr "VELOCISSIMA"
 
 msgctxt "Game Over/KEY_GAME_SUMMARY_WORLD_STATE"
 msgid "WORLD STATE"
@@ -7727,8 +7895,8 @@ msgid "Paralyze Damage"
 msgstr "Danni paralizzanti"
 
 msgctxt "Phoenixpedia/KEY_PHOENIXPEDIA_GUIDE_PARALYSE_DESC"
-msgid "If a weapon inflicts at least some Standard Damage, then the Paralyze Damage value of the weapon is added to the target's paralysis value. Paralysis value can accumulate in a target from multiple attacks.[LF][LF]The target will lose Action Points based on the proportion of paralysis to the character's strength. For example, if the character has a paralysis value of 10 and a strength of 20, it will lose half its Action Points, leaving 2 APs per turn. If the paralysis value exceeds the victim's Strength, then it will be completely paralyzed and unable to do anything.[LF][LF]Paralyze value decreases by 1 per turn, and victims will slowly recover their Action Points.[LF][LF]You will need to paralyze Pandorans in order to capture them for live research."
-msgstr "Se un'arma infligge un minimo di danni standard, il valore di danni paralizzanti dell'arma viene aggiunto al valore di paralisi del bersaglio. Il valore di paralisi può accumularsi su un bersaglio nel corso di diversi attacchi.[LF][LF]Il bersaglio perderà punti azione in base al rapporto tra paralisi e forza del personaggio. Per esempio, se il personaggio ha un valore paralisi di 10 e forza 20, questo perderà metà dei suoi punti azione, al ritmo di 2 PA per turno. Se il valore di paralisi è maggiore della forza della vittima, questa verrà completamente paralizzata e resa incapace di fare qualsiasi cosa.[LF][LF]Il valore di paralisi cala di 1 a ogni turno, e le vittime recuperano lentamente i propri punti azione.[LF][LF]Se vuoi catturare dei Pandora vivi, dovrai paralizzarli."
+msgid "If a weapon inflicts at least some Standard Damage, then the Paralyze Damage value of the weapon is added to the target's paralysis value. Paralysis value can accumulate in a target from multiple attacks.[LF][LF]The target will lose Action Points based on the proportion of paralysis to the character's strength. For example, if the character has a paralysis value of 10 and a strength of 20, it will lose half its Action Points, leaving 2 APs per turn. If the paralysis value exceeds the victim's Strength, then it will be completely paralyzed and unable to do anything.[LF][LF]Paralyze value decreases by 1 per turn, and victims will slowly recover their Action Points. Improved Medkits, Technicians, and Aspidas remove 50% Paralysis when healing.[LF][LF]You will need to paralyze Pandorans in order to capture them for live research."
+msgstr "Se un'arma infligge almeno un minimo di danni standard, il valore di danni paralizzanti dell'arma viene aggiunto al valore di paralisi del bersaglio. Il valore di paralisi può accumularsi su un bersaglio nel corso di diversi attacchi.[LF] [LF] Il bersaglio perderà punti azione in base al rapporto tra paralisi e forza del personaggio. Per esempio, se il personaggio ha un valore paralisi di 10 e forza 20, questo perderà metà dei suoi punti azione, al ritmo di 2 PA per turno. Se il valore di paralisi è maggiore della forza della vittima, questa verrà completamente paralizzata e resa incapace di fare qualsiasi cosa.[LF] [LF] Il valore di paralisi cala di 1 a ogni turno, e le vittime recuperano lentamente i propri punti azione. Kit medici, tecnici e Aspidi migliorati rimuovono il 50% di paralisi durante la cura.[LF] [LF] Se vuoi catturare dei Pandora vivi, dovrai paralizzarli."
 
 msgctxt "Phoenixpedia/KEY_PHOENIXPEDIA_GUIDE_VIRUS_NAME"
 msgid "Virus Damage"
@@ -8087,7 +8255,7 @@ msgid "Tritons have developed the skill to use sniper rifles, posing a significa
 msgstr "I Tritoni hanno sviluppato l'abilità di usare fucili di precisione, costituendo una vera minaccia a lungo raggio."
 
 msgctxt "General Tactical Hints/KEY_TAC_HINT_ENEMY_SPECIAL_SHROWD_NAME"
-msgid "PANDORAN SUPPLEMENTAL - SHROWD"
+msgid "PANDORAN SUPPLEMENTAL - SHROUD"
 msgstr "SUPPLEMENTO PANDORA - OCCULTAMENTO"
 
 msgctxt "General Tactical Hints/KEY_TAC_HINT_ENEMY_SPECIAL_SHROWD_DESCRIPTION"
@@ -12458,6 +12626,158 @@ msgctxt "Controls/KEY_CONTROLS_ACTION_INPUT_NEXT_ABILITY"
 msgid "{[NextAbility]}"
 msgstr "[null]"
 
+msgctxt "Opening Screen/KEY_BSNAPSHOT_GAMES_INC_BACKER_BUILD_END1"
+msgid "SNAPSHOT GAMES, INC.[LF]END USER LICENSE AGREEMENT[LF][LF]This End User License Agreement (“Agreement”) is a contract between you and Snapshot Games, Inc. (“Snapshot” or “we” or “us”) for you to use the Phoenix Point computer game (collectively, the “Software”).[LF][LF]PLEASE READ THIS AGREEMENT CAREFULLY. IT CONTAINS IMPORTANT TERMS THAT AFFECT YOU, YOUR USE OF THE SOFTWARE, AND ANY FEEDBACK (DEFINED BELOW) YOU PROVIDE TO US. BY CLICKING “I ACCEPT”, “I AGREE”, OR A SIMILAR ACKNOWLEDGEMENT OF AGREEMENT OR BY DOWNLOADING, INSTALLING, COPYING OR USING THE SOFTWARE, YOU AGREE TO BE BOUND BY THE TERMS OF THIS AGREEMENT. IF YOU DO NOT AGREE TO THESE TERMS, DO NOT DOWNLOAD, INSTALL, COPY OR USE THE SOFTWARE OR SUBMIT ANY FEEDBACK TO US.  THIS AGREEMENT CONSTITUTES A VALID AND BINDING LEGAL CONTRACT BETWEEN YOU AND US.[LF][LF]For information on how we collect and use your information, see our Privacy Policy located here: https://phoenixpoint.info/privacy-policy.[LF][LF]1.        Acceptance of this Agreement.[LF](a)        By an Individual 18 Years of Age or Older.  Any individual who is at least 18 years of age or the legal age of majority under applicable law may accept the terms and conditions of this Agreement by selecting the “I Accept,” “I Agree,” or similar acknowledgment of agreement or by downloading, installing, copying, or using the Software.  By accepting the terms and conditions of this Agreement, you acknowledge that you have read, understood, and accepted the terms and conditions of this Agreement and agree to be bound thereby.[LF](b)        By an Individual Between the Ages of 13 and 17 Years.  Any individual who is a minor (as determined by the state or province of your residence) and 13 years of age or older (an “Eligible Minor”) must have his or her parent or legal guardian indicate consent to the terms and conditions of this Agreement.  An Eligible Minor’s parent or legal guardian may accept the terms and conditions of this Agreement by selecting the “I Accept”, “I Agree”, or similar acknowledgment of agreement or by downloading, installing, copying, or using the Software on behalf of such Eligible Minor.  By accepting the terms and conditions of this Agreement, the parent or legal guardian of the Eligible Minor acknowledges that he or she has read, understood, and accepted the terms and conditions of this Agreement on behalf of such Eligible Minor and on behalf of themselves and agrees to be bound thereby.  Without limiting the foregoing, Parents and legal guardians understand that they are responsible for the acts and activities of their Eligible Minors in connection with any installation, copying, or use of the Software.[LF](c)        By an Individual Under the Age of 13 Years.  The Software is not targeted towards, nor intended for use by, anyone under the age of 13.  Children under the age of 13 are not eligible to install, copy, or use the Software, notwithstanding that they may have the consent of a parent or legal guardian.[LF](d)        Import and Export Control Laws.  You may not accept the terms and conditions of this Agreement or download, install, copy or use the Software if (a) you are a resident of any U.S. embargoed countries or (b) you are listed on the U.S. Treasury Department’s list of Specially Designated Nationals or the U.S. Department of Commerce Denied Person’s List or Entity List.  By downloading, installing or using any component of the Software, you represent and warrant that you are not located in, under control of, or a national or resident of any such country or jurisdiction or on any such list.[LF][LF]2.        Software License. Subject to the terms of this Agreement, your compliance with the terms of service, terms of use, subscriber agreement or other terms of the Web site from which you obtain the Software (“Terms of Service”) which govern your use of such Web sites' services to, among other activities, obtain the Software, and your compliance with any other agreement you may have entered with us governing your use of Software-related services (the “Service”), we grant you a nonexclusive, nontransferable, nonsublicenseable license to download, install and use one copy of the Software in binary executable form only on a single personal computing device solely for your own, personal use of the Software and Service. The terms of this Agreement supplement any applicable Terms of Service and supersede those Terms of Service where this Agreement and the Terms of Service conflict.  Any Snapshot software that updates, upgrades, supplements, replaces, or offers patches to the Software is governed by this Agreement unless separate license terms accompany such update, upgrade, supplement, replacement, or patch, in which case such separate terms will govern in the event of a conflict with this Agreement or as otherwise provided in such separate terms.[LF][LF]3.        License Limitations. The preceding states the entirety of your rights with respect to the Software, and we reserve all rights in and to the Software and Services not expressly granted to you in this Agreement. Without limiting the foregoing, you will not do, or authorize or permit any third party to do, any of the following: (a) distribute, license or sell the Software; (b) use the Software for any purpose other than your own personal, noncommercial use; (c) reverse engineer, decompile, disassemble or attempt to discover the source code for the Software; (d) modify, alter or create any derivative works of the Software; (e) remove, alter or obscure any copyright, trademark or other proprietary rights notice on or in the Software; (f) use the Software to commit any crime or violate any applicable local, state, national, or international law, regulation, ordinance, or treaty including, but not limited to, any fraud, misrepresentation, money laundering, or illegal gambling; (g) use the Software to access, or attempt to access, facilities, networks, equipment, or systems of Snapshot, Snapshot Parties (as defined below), another user, or any other third party, including any partner of Snapshot, without authorization; (h) use or access the Software for the purposes of, or in connection with, (1) using, or attempting to use, any cheat codes, devices, tools, or processes, including, but not limited to, any third-party code sets or utilities (including any code sets or utilities developed by you or on your behalf), or (2) distributing, publishing, or otherwise making available or publicizing in any way any such cheat codes, devices, tools, or processes; or (i) circumvent or attempt to circumvent any methods employed by Snapshot to control access to the components, features or functions of the Software or Service. [LF][LF]4.        Ownership. The Software is the valuable property of Snapshot and its licensors and is protected by copyright and other intellectual property laws and treaties. We and our licensors own all right, title and interest in and to the Software, including all copyright and other intellectual property rights in the Software.[LF][LF]5.        Feedback. In the course of using the Software, you may provide to Snapshot materials, information and feedback on the Software (including, without limitation, questions, comments, suggestions, or the like) regarding the performance, features, gameplay and functionality of the Software or Service (“Feedback”). .  You hereby grant to Snapshot an exclusive, royalty-free, irrevocable, perpetual worldwide right and license to reproduce, use, disclose, exhibit, display, transform, create derivative works and distribute any such Feedback without limitation. Further, we will be free to use any ideas, concepts, know-how or techniques contained in such Feedback for any purpose whatsoever, including, without limitation, developing, manufacturing, marketing and selling products and services incorporating such Feedback. We will have no obligation to consider, use, return or preserve any Feedback you provide to us. Any Feedback you provide to us may or may not be treated confidentially by us, and we will have no obligation or liability to you for the use or disclosure of any Feedback. You should not to expect any compensation of any kind from us with respect to your Feedback. [LF][LF]6.        Disclaimers. YOU ACKNOWLEDGE THE SOFTWARE AND SERVICE ARE PROVIDED “AS IS,” WITH ALL FAULTS, DEFECTS AND ERRORS, AND WITHOUT WARRANTY OF ANY KIND. SNAPSHOT DISCLAIMS ALL WARRANTIES (EXPRESS OR IMPLIED AND ARISING BY LAW OR OTHERWISE) REGARDING THE SOFTWARE AND SERVICE AND THEIR PERFORMANCE OR SUITABILITY FOR YOUR INTENDED USE, INCLUDING WITHOUT LIMITATION ANY IMPLIED WARRANTY OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, OR NONINFRINGEMENT. WITHOUT LIMITING THE FOREGOING, SNAPSHOT DOES NOT WARRANT THAT THE SOFTWARE WILL BE FREE OF BUGS, ERRORS, VIRUSES, OR OTHER DEFECTS.  SNAPSHOT WILL HAVE NO LIABILITY OF ANY KIND FOR THE USE OF OR INABILITY TO USE THE SOFTWARE OR ANY SERVICE THAT THE SOFTWARE IS INTENDED TO ACCESS, OR FOR ANY LOSS OF DATA.  PORTIONS OF THE SOFTWARE INCLUDE USER CONTENT WHICH MAY BE DEEMED TO BE OBSCENE OR OFFENSIVE.  SNAPSHOT CANNOT (A) REVIEW ALL USER CONTENT BEFORE IT IS INTEGRATED INTO THE SOFTWARE AND (B) ENSURE PROMPT REMOVAL OF OBJECTIONABLE MATERIAL AFTER IT HAS BEEN INTEGRATED INTO THE SOFTWARE. ACCORDINGLY, SNAPSHOT WILL HAVE NO LIABILITY OF ANY KIND FOR ANY ACTION OR INACTION REGARDING TRANSMISSIONS, COMMUNICATIONS, OR CONTENT PROVIDED BY ANY USER OR THIRD PARTY. [LF][LF]7.        Indemnification. You will defend, indemnify and hold harmless Snapshot, its affiliates, independent contractors and service providers, and each of their respective members, directors, officers, employees and agents (“Snapshot Parties”), from and against all claims, damages, costs, liabilities and expenses (including, but not limited to, reasonable attorneys’ fees) arising out of or related to your use of, or inability to use, the Software or Service.  IF YOU ARE AN ELIGIBLE MINOR, YOUR PARENTS OR LEGAL GUARDIANS FURTHER WILL DEFEND, INDEMNIFY AND HOLD HARMLESS EACH OF THE SNAPSHOT PARTIES FROM ANY CLAIMS, DAMAGES, COSTS, INJURIES, LOSSES, OR EXPENSES ARISING OUT OF OR RELATED TO YOUR USE OF, OR INABILITY TO USE, THE SOFTWARE.[LF][LF][LF]"
+msgstr "SNAPSHOT GAMES, INC.[LF]ACCORDO DI LICENZA CON L'UTENTE FINALE[LF][LF]Questo accordo di licenza con l'utente finale (\"\"Accordo\"\") è un contratto tra l'utente e Snapshot Games, Inc. (\"\"Snapshot\"\" o \"\"noi\"\") per l'utilizzo da parte dell'utente del gioco per computer Phoenix Point (da qui in poi, il \"\"Software\"\").[LF][LF]LEGGERE ATTENTAMENTE QUESTO ACCORDO. CONTIENE IMPORTANTI CONDIZIONI CHE INFLUISCONO SULL'UTENTE, SUL SUO UTILIZZO DEL SOFTWARE E SU QUALSIASI FEEDBACK (DESCRITTI SOTTO) CHE CI FA PERVENIRE. FACENDO CLIC SU \"\"ACCETTO\"\", \"\"ACCETTA\"\" O SU UNA SIMILE CONFERMA DELL'ACCORDO O SCARICANDO, INSTALLANDO, COPIANDO O UTILIZZANDO IL SOFTWARE, L'UTENTE ACCETTA I TERMINI DI QUESTO ACCORDO. SE NON ACCETTA I TERMINI DEL PRESENTE ACCORDO, NON GLI È CONSENTITO INSTALLARE, COPIARE O UTILIZZARE IL SOFTWARE, NÉ INVIARCI QUALSIASI FEEDBACK. QUESTO ACCORDO COSTITUISCE UN CONTRATTO LEGALE VALIDO E VINCOLANTE TRA NOI E L'UTENTE.[LF][LF]Per maggiori informazioni su come raccogliamo e usiamo le informazioni dell'utente, leggere la nostra Informativa sulla privacy presente a questo link: https://phoenixpoint.info/privacy-policy.[LF][LF]1.        Accettazione del presente Accordo.[LF](a)        Da parte di un individuo che abbia compiuto almeno 18 anni. Qualsiasi individuo che abbia compiuto almeno 18 anni o la maggiore età ai sensi delle normative vigenti, ha il diritto di accettare i termini e le condizioni del presente Accordo, cliccando su \"\"Accetto\"\", \"\"Accetta\"\", o simili conferme dell'accordo o scaricando, installando, copiando o usando il Software. Accettando i termini e le condizioni del presente Accordo, l'utente riconosce di aver letto, compreso e accettato i termini e le condizioni del presente Accordo e accetta di attenervisi.[LF](a)        Da parte di un individuo che abbia un'età compresa tra i 13 e i 17 anni. In caso di minori (come determinato dallo stato o provincia di residenza) o utenti di almeno 13 anni di età (un \"\"Minore Idoneo\"\"), è obbligatorio che un genitore o un tutore legale acconsenta ai termini e alle condizioni del presente Accordo. Il genitore o tutore legale di un Minore Idoneo può accettare i termini e le condizioni di questo Accordo cliccando su \"\"Accetto\"\" o \"\"Accetta\"\" o simili conferme di accettazione dell'accordo o scaricando, installando, copiando o utilizzando il Software per conto del Minore Idoneo in questione. Accettando i termini e le condizioni del presente Accordo, il genitore o tutore legale del Minore Idoneo riconosce di aver letto, compreso e acconsentito ai termini e alle condizioni dell'Accordo per conto del Minore Idoneo e per sé stesso/a e ne accetta i vincoli. Fermo restando quanto sopra, i genitori e i tutori legali comprendono di essere responsabili per le azioni e le attività dei propri Minori Idonei in relazione a ogni installazione, copia o utilizzo del Software.[LF](c)        Da parte di un minore di età inferiore ai 13 anni. Il Software non è diretto e non è inteso per l'utilizzo da parte di minori al di sotto dei 13 anni. I bambini sotto ai 13 anni non sono autorizzati a installare, copiare o utilizzare il Software, neanche previo consenso da parte di un genitore o tutore legale.[LF](d)        Leggi sul controllo delle importazioni ed esportazioni. L'utente non è autorizzato ad accettare i termini e le condizioni dell'Accordo o a scaricare, installare, copiare o utilizzare il Software se (a) residente in paesi sottoposti ad embargo da parte degli Stati Uniti o (b) se inserito nella lista dei soggetti specificamente segnalati (Specially Designated Nationals) del Dipartimento del tesoro degli Stati Uniti o nella lista delle persone bandite (Denied Person’s List) del Dipartimento del Commercio degli Stati Uniti o nella lista di esclusione delle entità (Entity List). Scaricando, installando o utilizzando qualsiasi componente del Software, l'utente dichiara e garantisce di non trovarsi, essere sotto il controllo, essere cittadino o residente di alcuno dei paesi o delle giurisdizioni citati, né di far parte di una delle liste sopracitate.[LF][LF]2.        Licenza Software.  Compatibilmente con i termini di questo Accordo e in conformità con i termini del servizio, con i termini di utilizzo, con l'accordo di sottoscrizione o con altri termini del sito web da cui l'utente scarica il Software (“Termini del servizio”) e che regolano l'utilizzo dei servizi del sito stesso per, tra le varie attività, ottenere il Software e in conformità con qualsiasi altro accordo che l'utente possa aver stipulato con noi, che regola l'utilizzo di servizi relativi al Software (il \"\"Servizio\"\"), garantiamo all'utente una licenza non esclusiva, non cedibile e non trasferibile per scaricare, installare e utilizzare una copia del Software in forma binaria eseguibile solo su un singolo dispositivo informatico personale e unicamente per uso privato del Software e del Servizio. I termini del presente Accordo integrano tutti i Termini del Servizio applicabili e sostituiscono quei Termini del Servizio qualora divergano dal presente Accordo. Qualsiasi software di Snapshot che aggiorni, integri, sostituisca od offra patch al Software è regolato da questo Accordo, a meno che tale aggiornamento, integrazione, sostituzione o patch non presenti termini di licenza separati; in qual caso, tali termini separati avranno la priorità in caso di conflitto con questo Accordo o come altrimenti previsto in tali termini separati.[LF][LF]3.        Limiti della licenza. Il paragrafo precedente illustra i diritti dell'utente nella loro interezza relativamente al Software, e noi ci riserviamo tutti i diritti relativi al Software e al Servizio non espressamente garantiti in questo Accordo. Senza limitare ciò che precede, l'utente non eseguirà, e non autorizzerà o permetterà a nessuna terza parte di eseguire qualsiasi delle seguenti azioni: (a) distribuire, licenziare o vendere il Software; (b) utilizzare il Software per qualsiasi altro scopo diverso dal proprio utilizzo personale e non commerciale; (c) sottoporre a ingegneria inversa, decompilare, disassemblare o tentare di decodificare il codice sorgente del Software; (d) modificare, alterare o creare opere derivate del Software; o (e) rimuovere, alterare od oscurare qualsiasi copyright, marchio commerciale o altri avvisi di diritti di proprietà sul o nel Software. (f) utilizzare il Software per commettere qualsivoglia crimine o per violare leggi, regolamenti, ordinanze o trattati locali, statali, nazionali o internazionali, inclusi ma non limitati a frodi, rappresentazioni fuorvianti, riciclaggio di denaro o scommesse illegali; (g) utilizzare il Software per accedere o tentare di accedere senza autorizzazione a strutture, reti, equipaggiamenti o sistemi di Snapshot, Parti di Snapshot (come definite in basso), altri utenti o qualsiasi terza parte, inclusi i partner di Snapshot; (h) utilizzare o accedere al Software allo scopo di, o in relazione allo scopo di (1) utilizzare o tentare di utilizzare falsi codici, dispositivi, strumenti o processi, inclusi ma non limitati a set di codici o utility di terze parti (inclusi ogni set di codici o utility sviluppati da o per l'utente), o (2) distribuire, pubblicare o rendere altrimenti disponibile o pubblicizzare in qualsiasi modo tali falsi codici, dispositivi, strumenti o processi o (i) eludere o tentare di eludere metodi utilizzati da Snapshot per controllare l'accesso ai componenti, alle funzionalità o alle funzioni del Software o del Servizio. [LF][LF]4.         Proprietà. Il Software è una proprietà di valore di Snapshot e dei suoi licenzianti ed è protetto da copyright e altre leggi e trattati sulla proprietà intellettuale. Noi e i nostri licenzianti possediamo tutti i diritti, titoli e interessi relativi al Software, incluso il copyright e altri diritti sulla proprietà intellettuale nel Software.[LF][LF]5.         Feedback. Durante l'utilizzo del Software, l'utente può fornire a Snapshot i materiali, le informazioni e i feedback sullo stesso (inclusi, senza limitazioni, domande, commenti, suggerimenti e simili) riguardo alle prestazioni, alle caratteristiche, al gameplay e alla funzionalità del Software o del Servizio (\"\"Feedback\"\"). L'utente concede a Snapshot il diritto e la licenza esclusivi, esenti da royalty, irrevocabili, perenni e senza limiti geografici di riprodurre, utilizzare, divulgare, esibire, mostrare, trasformare, creare opere derivate e distribuire qualsiasi Feedback senza limitazioni. Inoltre, ci riteniamo liberi di utilizzare qualsiasi idea, concetto, conoscenza o tecnica contenuta in tale Feedback per qualsiasi scopo, inclusi, senza limitazioni, lo sviluppo, la produzione, il marketing e la vendita di prodotti e servizi incorporati in tale Feedback. Non ci assumiamo l'obbligo di considerare, utilizzare, restituire o conservare qualsiasi Feedback pervenuto. I Feedback che l'utente ci farà pervenire potrebbero venire trattati da noi in maniera confidenziale o meno, e non ci assumiamo alcun obbligo o responsabilità nei suoi confronti per l'utilizzo o la divulgazione di qualsiasi Feedback. L'utente non deve aspettarsi alcun tipo di compenso da parte nostra relativo al suo Feedback. [LF][LF]6.        Dichiarazione di non responsabilità.  L'UTENTE RICONOSCE CHE IL SOFTWARE E IL SERVIZIO SONO FORNITI \"\"COME SONO\"\", CON TUTTI I DIFETTI E GLI ERRORI E SENZA GARANZIA DI ALCUN TIPO. SNAPSHOT DECLINA TUTTE LE GARANZIE (ESPLICITE O IMPLICITE, ORIGINATE DA UNA LEGGE O ALTRIMENTI) RIGUARDO AL SOFTWARE E AL SERVIZIO E LE RISPETTIVE PRESTAZIONI O IDONEITÀ ALL'USO PREVISTO, INCLUSA, SENZA LIMITAZIONI, QUALSIASI GARANZIA IMPLICITA DI COMMERCIABILITÀ, DI IDONEITÀ PER FINALITÀ PARTICOLARI E DI NON VIOLAZIONE. FERMO RESTANDO CIÒ, SNAPSHOT NON GARANTISCE CHE IL SOFTWARE SIA PRIVO DI BUG, ERRORI, VIRUS O ALTRI DIFETTI. SNAPSHOT NON SI ASSUME ALCUN TIPO DI RESPONSABILITÀ PER L'UTILIZZO O L'INCAPACITÀ ALL'UTILIZZO DEL SOFTWARE O DI QUALSIASI SERVIZIO AL QUALE IL SOFTWARE DOVREBBE ACCEDERE, O PER LA PERDITA DI QUALSIASI DATO. PARTI DEL SOFTWARE INCLUDONO CONTENUTI DEGLI UTENTI CHE POTREBBERO ESSERE RITENUTI OSCENI OD OFFENSIVI. SNAPSHOT NON HA FACOLTÀ (A) DI RIVEDERE TUTTI I CONTENUTI DEGLI UTENTI PRIMA CHE SIANO INTEGRATI NEL SOFTWARE E (B) ASSICURARE UNA RAPIDA RIMOZIONE DI MATERIALE OPINABILE DOPO ESSERE STATO INTEGRATO NEL SOFTWARE. DI CONSEGUENZA, SNAPSHOT NON SI ASSUMERÀ ALCUNA RESPONSABILITÀ PER AZIONI O MANCATE AZIONI RIGUARDO A TRASMISSIONI, COMUNICAZIONI O CONTENUTI FORNITI DA UTENTI O DA TERZE PARTI. [LF][LF]7.        Risarcimento.  L'utente accetta di difendere, risarcire e mantenere indenne Snapshot, i suoi affiliati, collaboratori, e fornitori di servizi e ciascuno dei rispettivi membri, direttori, ufficiali, dipendenti e agenti (\"\"Parti di Snapshot\"\") da e contro tutte le rivendicazioni, i danni, i costi, le responsabilità e le spese (incluse, ma senza limitazioni, le spese legali ragionevoli) originate o relative all'utilizzo, o all'incapacità di utilizzo del Software o del Servizio da parte dell'utente. SE L'UTENTE È UN MINORE IDONEO, I SUOI GENITORI O TUTORI LEGALI DIFENDERANNO, RISARCIRANNO E MANTERRANNO INDENNE OGNI PARTE DI SNAPSHOT DA QUALSIVOGLIA RIVENDICAZIONE, DANNO, COSTO, LESIONE, PERDITA O SPESA CHE SIA ORIGINATA ESTERNAMENTE O IN RELAZIONE ALL'UTILIZZO O ALL'INCAPACITÀ DI UTILIZZO DEL SOFTWARE DA PARTE DELL'UTENTE.[LF][LF][LF]"
+
+msgctxt "Opening Screen/KEY_BSNAPSHOT_GAMES_INC_BACKER_BUILD_END2"
+msgid "8.        Limitation of Liability.  IN NO EVENT WILL ANY OF THE SNAPSHOT PARTIES BE LIABLE TO YOU OR ANY THIRD PARTY FOR ANY INDIRECT, CONSEQUENTIAL, SPECIAL, OR PUNITIVE DAMAGES, INCLUDING, BUT NOT LIMITED TO, LOSS OF USE, LOSS OF PROFITS, OR LOSS OF DATA, WHETHER IN AN ACTION IN CONTRACT, TORT (INCLUDING BUT NOT LIMITED TO NEGLIGENCE, WHETHER ACTIVE, PASSIVE, OR IMPUTED), OR OTHERWISE, ARISING OUT OF OR IN ANY WAY CONNECTED WITH THE SOFTWARE OR SERVICE, INCLUDING, WITHOUT LIMITATION, ANY DAMAGES CAUSED BY OR RESULTING FROM MISTAKES, OMISSIONS, INTERRUPTIONS, DELETION OF FILES OR E-MAIL, ERRORS, DEFECTS, VIRUSES, DELAYS IN OPERATION OR TRANSMISSION, OR ANY FAILURE OF PERFORMANCE, WHETHER OR NOT RESULTING FROM ACTS OF GOD, COMMUNICATIONS FAILURE, THEFT, DESTRUCTION, OR UNAUTHORIZED ACCESS TO SNAPSHOT’S RECORDS, PROGRAMS, OR SERVICES.  IN NO EVENT WILL THE AGGREGATE LIABILITY OF SNAPSHOT, WHETHER IN CONTRACT, WARRANTY, TORT (INCLUDING, BUT NOT LIMITED TO, NEGLIGENCE, WHETHER ACTIVE, PASSIVE, OR IMPUTED), PRODUCT LIABILITY, STRICT LIABILITY, OR OTHER THEORY, ARISING OUT OF OR RELATING TO THE SOFTWARE EXCEED THE PURCHASE PRICE THAT YOU PAID FOR A LICENSE TO THE SOFTWARE OR SERVICE.[LF][LF]9.        Arbitration; Governing Law.  [LF][LF]PLEASE READ THE FOLLOWING PARAGRAPH CAREFULLY BECAUSE IT REQUIRES YOU TO ARBITRATE DISPUTES AND LIMITS THE MANNER IN WHICH YOU CAN SEEK RELIEF FROM US.[LF][LF]You and Snapshot will arbitrate any dispute arising from this Agreement and your use of the Software, except that you and Snapshot are not required to arbitrate any dispute in which either party seeks equitable and other relief for the alleged unlawful use of copyrights, trademarks, trade names, logos, trade secrets, or patents. ARBITRATION PREVENTS YOU FROM SUING IN COURT OR FROM HAVING A JURY TRIAL. [LF]You and Snapshot will notify each other in writing of any dispute within thirty (30) days of when it arises. Notice to Snapshot will be sent to Snapshot Games, Inc., Attn: David Kaye, 145 S Fairfax Ave #200, Los Angeles CA 90036.  You and Snapshot further agree: to attempt informal resolution prior to any demand for arbitration; that any arbitration will occur in Los Angeles County, California; that arbitration will be conducted confidentially by a single arbitrator in accordance with the JAMS Streamlined Arbitration Rules; and that the state or federal courts in Los Angeles County, California have exclusive jurisdiction over any appeals of an arbitration award and over any suit between the parties not subject to arbitration. Other than class procedures and remedies discussed below, the arbitrator has the authority to grant any remedy that would otherwise be available in court.  Any dispute between the parties will be governed solely by both this Agreement and the laws of the State of California and applicable United States law, without giving effect to any conflict of laws principles that may provide for the application of the law of another jurisdiction.  The 1980 U.N. Convention on Contracts for the International Sale of Goods will not apply to this Agreement.  Whether the dispute is heard in arbitration or in court, you and Snapshot will not commence against the other a class action, class arbitration or other representative action or proceeding.[LF][LF]10.        Termination. Snapshot may terminate this Agreement at any time, with or without cause, immediately upon notice to you. Snapshot may also discontinue the Service at any time, in which case this Agreement will terminate automatically without notice. You may terminate this Agreement by ceasing use of the Software and Service, cancelling any account you may have with us to use the Service (if any), and deleting all copies of the Software in your possession or control. In the event of the termination of this Agreement for any reason: (a) the license granted to you in this Agreement will terminate; (b) you must immediately cease all use of the Software and Service and destroy or erase all copies of the Software in your possession or control; and (c) all sections of this Agreement except Section 2 will survive any such termination, together with the Terms of Service.[LF][LF][LF]11.        Import and Export Control Laws.  Snapshot is subject to regulation by agencies of the United States, such as the U.S. Department of Commerce, which prohibit export of certain products or technology to certain countries or nationals of certain countries.  You will not use or otherwise export or re-export the Software except as authorized by U.S. law and the laws of the jurisdiction in which the Software was obtained.  In particular, but without limitation, the Software may not be exported or re-exported (a) into (or to a nation or resident of) any U.S. embargoed countries or (b) to anyone on the U.S. Treasury Department’s list of Specially Designated Nationals or the U.S. Department of Commerce Denied Person’s List or Entity List.  [LF][LF]12.        General. (a) Severability. If any provision of this Agreement is held by a court of competent jurisdiction to be invalid, illegal, or unenforceable, the remainder of this Agreement will remain in full force and effect. (b) Assignment. You may not assign this Agreement or any of its rights under this Agreement without the prior written consent of Snapshot, and any attempted assignment without such consent will be void. Subject to the foregoing restriction, this Agreement will be fully binding upon, inure to the benefit of, and be enforceable by you, us, and each of your and our respective successors and assigns. (c) Entire Agreement. This Agreement, together with the Terms of Service, sets forth our entire agreement with respect to your use of the Software or Service and the subject matter hereof, and supersedes all prior and contemporaneous understandings and agreements whether written or oral.  No amendment, modification, or waiver of any of the provisions of this Agreement will be valid unless set forth in a written instrument signed by the party to be bound thereby. (d) Language. This Agreement is in the English language, which language will be controlling, even if interpretations of this Agreement in other languages are made."
+msgstr "8.        Limitazioni di responsabilità.  NESSUNA DELLE PARTI DI SNAPSHOT SARÀ IN ALCUN CASO RESPONSABILE NEI CONFRONTI DELL'UTENTE O DI TERZE PARTI PER DANNI INDIRETTI, CONSEQUENZIALI, SPECIALI O PUNITIVI, INCLUSI, MA NON LIMITATI ALLA PERDITA DI UTILIZZO, DI PROFITTI O DI DATI, DERIVANTI DA UN'AZIONE CONTRATTUALE, ILLECITA (INCLUSA, MA NON LIMITATA LA NEGLIGENZA ATTIVA, PASSIVA O IMPUTATA) O ALTRO, CHE EMERGA DA O COLLEGATA IN QUALSIASI MANIERA AL SOFTWARE O AL SERVIZIO, INCLUSI, SENZA LIMITAZIONI, DANNI CAUSATI O RISULTANTI DA SBAGLI, OMISSIONI, INTERRUZIONI, CANCELLAZIONI DI FILE O E-MAIL, ERRORI, DIFETTI, VIRUS, RITARDI DI FUNZIONAMENTO O TRASMISSIONE O ALTRE MANCATE PRESTAZIONI CHE RISULTINO O MENO DA FATALITÀ, MANCATA COMUNICAZIONE, FURTO, DISTRUZIONE O ACCESSO NON AUTORIZZATO AI REGISTRI, AI PROGRAMMI O AI SERVIZI DI SNAPSHOT. IN NESSUN CASO L'AGGREGAZIONE DI RESPONSABILITÀ DI SNAPSHOT, PER CONTRATTO, GARANZIA O ILLECITO (INCLUSA, MA NON LIMITATA LA NEGLIGENZA ATTIVA, PASSIVA O IMPUTATA), LA RESPONSABILITÀ DEL PRODOTTO, QUELLA OGGETTIVA O ALTRO CHE EMERGA DA O COLLEGATA IN QUALSIASI MANIERA AL SOFTWARE, POTRANNO ECCEDERE IL PREZZO DI ACQUISTO CHE L'UTENTE HA PAGATO PER UNA LICENZA DEL SOFTWARE O DEL SERVIZIO.[LF][LF]9.        Arbitrato; Legge applicabile.  [LF][LF]LEGGERE ATTENTAMENTE IL SEGUENTE PARAGRAFO POICHÉ RICHIEDE ALL'UTENTE DI ARBITRARE CONTROVERSIE E LIMITA LA MODALITÀ IN CUI PUÒ RIVENDICARE AGEVOLAZIONI DA PARTE NOSTRA.[LF][LF]L'utente e Snapshot accettano di arbitrare qualsiasi controversia derivante da questo Accordo e dall'utilizzo del Software da parte dell'utente, ma quest'ultimo e Snapshot non sono tenuti ad arbitrare alcuna controversia nel caso in cui entrambe le parti siano d'accordo nel cercare un rimedio giuridico alternativo per il presunto utilizzo illegale di copyright, marchi registrati, nomi commerciali, loghi, segreti commerciali o brevetti. L'ARBITRATO CONSENTE ALL'UTENTE DI EVITARE UNA CITAZIONE IN GIUDIZIO O UN PROCESSO CON GIURIA. [LF]L'utente e Snapshot accettano di avvisarsi l'un l'altro per iscritto riguardo a qualsiasi controversia entro trenta (30) giorni dall'insorgenza. Gli avvisi destinati a Snapshot devono essere inviati a Snapshot Games, Inc., Attn: David Kaye, 145 S. Fairfax Ave #200, Los Angeles CA 90036. L'utente e Snapshot accettano inoltre: di tentare una risoluzione informale prima di esigere un arbitrato; che qualsiasi arbitrato avrà luogo a Los Angeles County, California; che l'arbitrato verrà condotto in via confidenziale da un singolo arbitro in conformità al Regolamento di Arbitrato di JAMS; e che lo stato o le corti federali di Los Angeles County, California hanno la giurisdizione esclusiva su qualsiasi impugnazione di un lodo arbitrale e su qualsiasi querela tra le parti non soggette all'arbitrato. Al di fuori delle procedure di classe e dei rimedi trattati sotto, l'arbitro avrà l'autorità di garantire gli eventuali rimedi che sarebbero altrimenti disponibili in tribunale. Qualsiasi controversia tra le parti verrà regolata unicamente dal presente Accordo, dalle leggi dello Stato della California e dalla legge applicabile negli Stati Uniti, senza attuazione di eventuali clausole in conflitto con le disposizioni di legge che potrebbero prevedere l'applicazione della legge di un'altra giurisdizione. La Convenzione ONU del 1980 sui contratti di vendita internazionale di beni non sarà applicata al presente Accordo. Sia che la disputa venga trattata in arbitrato o in tribunale, l'utente e Snapshot concordano di non avviare verso la controparte alcuna class action, arbitrato di classe o procedura o azione rappresentativa.[LF][LF]10.        Risoluzione.  Snapshot può porre termine al presente Accordo in qualsiasi momento, con o senza motivo, immediatamente dietro notifica all'utente. Snapshot può anche interrompere il Servizio in qualsiasi momento, nel qual caso il presente Accordo verrà automaticamente terminato senza preavviso. L'utente può terminare l'Accordo smettendo di utilizzare il Software o il Servizio, eliminando qualsiasi account registrato con noi per l'utilizzo del Servizio (se presente) e cancellando tutte le copie del Software in proprio possesso o controllo. In caso di terminazione del presente Accordo per qualsiasi motivo: (a) la licenza garantita all'utente in questo Accordo terminerà: (b) l'utente deve immediatamente interrompere qualsiasi utilizzo del Software e del Servizio e distruggere tutte le copie del Software in proprio possesso o controllo; e (c) tutte le sezioni del presente Accordo eccetto la Sezione 2 e i Termini del Servizio che rimarranno in vigore nonostante la terminazione.[LF][LF][LF]11.        Leggi sul controllo delle importazioni ed esportazioni.  Snapshot è soggetta ai regolamenti di agenzie degli Stati Uniti, come il Dipartimento del Commercio degli Stati Uniti d'America, il quale vieta l'esportazione di certi prodotti o tecnologie a specifici paesi o a cittadini di essi. L'utente non farà uso, esporterà o riesporterà il Software se non autorizzato dalla legge degli Stati Uniti e dalle leggi del paese sotto la cui giurisdizione ha ottenuto il Software. In particolare, ma non limitatamente ad esso, il Software non può essere esportato o riesportato (a) in paesi soggetti a embargo da parte degli Stati Uniti (o verso nazioni o residenti di tali paesi) o (b) a individui inseriti nella lista dei soggetti specificamente segnalati (Specially Designated Nationals) del Dipartimento del tesoro degli Stati Uniti o nella lista delle persone bandite (Denied Person’s List) del Dipartimento del Commercio degli Stati Uniti o nella lista di esclusione delle entità (Entity List).  [LF][LF]12.        Generale. (a) Separabilità. Se qualsiasi clausola del presente Accordo viene ritenuta invalida, illegale o non applicabile da un giudice competente, la parte restante di questo Accordo rimarrà in pieno vigore ed effetto. (b) Assegnazione. L'utente non può cedere questo Accordo o alcuno dei propri diritti ai sensi del presente Accordo senza il previo consenso scritto da parte di Snapshot: qualsiasi tentativo di delega senza tale consenso è da considerarsi nullo. Compatibilmente con le precedenti restrizioni, questo Accordo sarà totalmente vincolante e applicabile per l'utente, per noi e per i rispettivi successori e cessionari e andrà a loro beneficio.(c) Accordo completo. Questo Accordo, assieme ai Termini del Servizio, definisce l'intero contenuto del nostro accordo riguardo all'utilizzo del Software e del Servizio da parte dell'utente e sostituisce tutti gli accordi e le intese presenti e precedenti, sia scritte che orali. Nessun emendamento, modifica o rinuncia di qualsiasi punto del presente Accordo sarà valido, finché non messo per iscritto e firmato dalla parte vincolata. (d) Lingua. Il presente Accordo è redatto in lingua inglese, che sarà quella di riferimento, anche in caso di fraintendimenti del presente Accordo in altre lingue."
+
+msgctxt "Opening Screen/KEY_CONTINUE_GAME"
+msgid "CONTINUE"
+msgstr "CONTINUA"
+
+msgctxt "Opening Screen/KEY_CONTINUE_GAME_DESCRIPTION"
+msgid "Continue existing game"
+msgstr "Continua una partita esistente"
+
+msgctxt "Opening Screen/KEY_GAME_GUIDE"
+msgid "GAME GUIDE"
+msgstr "GUIDA DI GIOCO"
+
+msgctxt "Opening Screen/KEY_INSTRUCTIONS_AND_GAME_MECHANICS"
+msgid "Instructions and game mechanics"
+msgstr "Istruzioni e meccaniche di gioco"
+
+msgctxt "Opening Screen/KEY_LICENSE_AGREEMENT"
+msgid "License Agreement"
+msgstr "Accordo di licenza"
+
+msgctxt "Opening Screen/KEY_PLAY_A_FIXED_MAP_SCENARIO"
+msgid "Play a fixed map scenario"
+msgstr "Gioca uno scenario con mappa fissa"
+
+msgctxt "Opening Screen/KEY_PLAY_A_RANDOM_GENERATED_MAP"
+msgid "Play a random generated map"
+msgstr "Gioca una mappa generata casualmente"
+
+msgctxt "Opening Screen/KEY_PLAY_FORT_FREIHEIT"
+msgid "Play Fort Freiheit"
+msgstr "Gioca Forte Freiheit"
+
+msgctxt "Opening Screen/KEY_PLAY_RANDOM_MAP"
+msgid "Play Random Map"
+msgstr "Gioca una mappa casuale"
+
+msgctxt "Opening Screen/KEY_PLAY_STRATEGY_GAME"
+msgid "Play strategy game"
+msgstr "Gioca una partita strategica"
+
+msgctxt "Opening Screen/KEY_MENU_DISCLAIMER"
+msgid "not used"
+msgstr "non utilizzato"
+
+msgctxt "Opening Screen/KEY_PLAY_DEMO"
+msgid "PLAY DEMO"
+msgstr "GIOCA DEMO"
+
+msgctxt "Opening Screen/KEY_DEMO_TEXT"
+msgid "Experience a night time tactical, fighting against an alien incursion in a new Jericho power facility.[LF][LF][LF]Use the cover of the building to aboid alien artillery - or use your Scarab AFV for protection."
+msgstr "Prova l'esperienza tattica notturna, combattendo contro un'incursione aliena in una struttura di Generazione di energia di Nuova Gerico.[LF][LF]Utilizza la copertura offerta dall'edificio per sfuggire all'artiglieria aliena, o usa il corazzato Scarabeo per proteggerti."
+
+msgctxt "Opening Screen/KEY_CREDITS"
+msgid "CREDITS"
+msgstr "RICONOSCIMENTI"
+
+msgctxt "Opening Screen/KEY_SKIP"
+msgid "Skip: ESC, :RMB:, or :B:"
+msgstr "Salta: ESC, :RMB: o :B:"
+
+msgctxt "Opening Screen/KEY_LOADING"
+msgid "Loading..."
+msgstr "Caricamento in corso..."
+
+msgctxt "Opening Screen/KEY_START_GAME"
+msgid "START GAME"
+msgstr "INIZIA PARTITA"
+
+msgctxt "Opening Screen/KEY_PHOENIX_POINT"
+msgid "PHOENIX POINT"
+msgstr "PHOENIX POINT"
+
+msgctxt "Opening Screen/KEY_DLC_COMING_SOON"
+msgid "COMING SOON"
+msgstr "PROSSIMAMENTE"
+
+msgctxt "Opening Screen/KEY_DLC_ACTIVATE"
+msgid "ACTIVATE DLC"
+msgstr "ATTIVA DLC"
+
+msgctxt "Opening Screen/KEY_DLC_LIVING_WEAPONS"
+msgid "LIVING WEAPONS"
+msgstr "ARMI VIVENTI"
+
+msgctxt "Opening Screen/KEY_DLC_BLOOD_AND_TITANIUM"
+msgid "BLOOD AND TITANIUM"
+msgstr "SANGUE e TITANIO"
+
+msgctxt "Opening Screen/KEY_DLC_LEGACY_ANCIENTS"
+msgid "LEGACY OF THE ANCIENTS"
+msgstr "EREDITÀ degli ANTICHI"
+
+msgctxt "Opening Screen/KEY_DLC_FESTERING_SKIES"
+msgid "FESTERING SKIES"
+msgstr "CIELI INFETTI"
+
+msgctxt "Opening Screen/KEY_BSNAPSHOT_GAMES_INC_BACKER_BUILD_PP1"
+msgid "PRIVACY POLICY [LF]Last updated December 09, 2020 [LF][LF][LF]Thank you for choosing to be part of our community at Snapshot Games Inc. (“Company”, “we”, “us”, or “our”). We are committed to protecting your personal information and your right to privacy. If you have any questions or concerns about our policy, or our practices with regards to your personal information, please contact us at contact@snapshotgames.com. [LF][LF]In this privacy policy, we seek to explain to you in the clearest way possible what information we collect, how we use it, and what rights you have in relation to it. [LF][LF]This privacy policy applies to all information collected in our games (such as Phoenix Point: Year One Edition) which we refer to collectively in this privacy policy as “the Games.”  Any related services, such as our websites, sales, marketing or events may be covered by separate policies [LF][LF]Please read this privacy policy carefully as it will help you make informed decisions about sharing your personal information with us. [LF][LF]TABLE OF CONTENTS [LF]1. WHAT INFORMATION DO WE COLLECT?[LF]2. HOW DO WE USE YOUR INFORMATION?[LF]3. WILL YOUR INFORMATION BE SHARED WITH ANYONE? [LF]4. IS YOUR INFORMATION TRANSFERRED INTERNATIONALLY? [LF]5. HOW LONG DO WE KEEP YOUR INFORMATION? [LF]6. DO WE COLLECT INFORMATION FROM MINORS?[LF]7. WHAT ARE YOUR PRIVACY RIGHTS?[LF]8. CONTROLS FOR DO-NOT-TRACK FEATURES [LF]9. DO CALIFORNIA RESIDENTS HAVE SPECIFIC PRIVACY RIGHTS? [LF]10. DO WE MAKE UPDATES TO THIS POLICY?[LF]11. HOW CAN YOU CONTACT US ABOUT THIS POLICY?[LF][LF][LF]1. WHAT INFORMATION DO WE COLLECT? [LF][LF]Anonymous Gameplay Data [LF]In Short: We collect data regarding the decisions you make and actions you take in our game. These data are anonymized and do not contain any personally identifiable information.  [LF][LF][LF]Personal Information you Voluntarily Disclose:[LF]In Short: If you choose to share it with us, we may collect your email address, name, and potentially other information such as your user ID for various services on which we merchandise our Games. We do not collect personal information automatically in our games. Instead, you will be able to opt in and share such information with us, only if you choose.[LF][LF]All personal information that you provide to us must be true, complete and accurate, and you must notify us of any changes to such personal information. [LF][LF]Information automatically collected [LF]In Short: When you visit our website and/or other online services we operate, including marketing, sales, and events, some information – such as IP address and/or browser and device characteristics – is collected automatically..[LF]We automatically collect certain information when you visit, use or navigate our web services. This information does not reveal your specific identity (like your name or contact information) but may include device and usage information, such as your IP address, browser and device characteristics, operating system, language preferences, referring URLs, device name, country, location, information about how and when you use our Games and web services and other technical information. This information is primarily needed to maintain the security and operation of our Games, and for our internal analytics and reporting purposes. Like many businesses, we also collect information through cookies and similar technologies. [LF][LF][LF]2. HOW DO WE USE YOUR INFORMATION? [LF]In Short: We process your information for purposes based on legitimate business interests, the fulfillment of our contract with you, compliance with our legal obligations, and/or your consent. [LF]We use anonymous information about your experience with our Games to improve our Games and for statistical analysis related to our business and customer service.[LF][LF]We use personal information you share with us via our Games and web services for a variety of business purposes described below. We process your personal information for these purposes in reliance on our legitimate business interests, in order to enter into or perform a contract with you, with your consent, and/or for compliance with our legal obligations. We indicate the specific processing grounds we rely on next to each purpose listed below. [LF][LF]We may use the information we collect or receive: [LF][LF]To send you marketing and promotional communications. We and/or our third-party marketing partners may use the personal information you send to us for our marketing purposes, if this is in accordance with your marketing preferences. You can opt-out of our marketing emails at any time (see the \"\" WHAT ARE YOUR PRIVACY RIGHTS \"\" below). [LF][LF]To send administrative information to you. We may use your personal information to send you product, service and new feature information and/or information about changes to our terms, conditions, and policies. [LF][LF][LF][LF]Deliver targeted advertising to you. We may use your information to develop and display content and advertising (and work with third parties who do so) tailored to your interests and/or location and to measure its effectiveness. [LF][LF]Request Feedback. We may use your information to request feedback and to contact you about your use of our Games and other services. [LF][LF]For other Business Purposes. We may use your information for other Business Purposes, such as data analysis, identifying usage trends, determining the effectiveness of our promotional campaigns and to evaluate and improve our Games and other services, products, marketing and your experience. We may use and store this information in aggregated and anonymized form so that it is not associated with individual end users and does not include personal information. We will not use identifiable personal information without your consent. [LF][LF]3. WILL YOUR INFORMATION BE SHARED WITH ANYONE? [LF]In Short: We only share information with your consent, to comply with laws, to provide you with services, to protect your rights, or to fulfill business obligations. [LF][LF]We may process or share data based on the following legal basis:[LF]Consent: We may process your data if you have given us specific consent to use your personal information in a specific purpose.[LF][LF]Legitimate Interests: We may process your data when it is reasonably necessary to achieve our legitimate business interests.[LF][LF]Performance of a Contract: Where we have entered into a contract with you, we may process your personal information to fulfill the terms of our contract.[LF][LF]Legal Obligations: We may disclose your information where we are legally required to do so in order to comply with applicable law, governmental requests, a judicial proceeding, court order, or legal process, such as in response to a court order or a subpoena (including in response to public authorities to meet national security or law enforcement requirements).[LF][LF][LF]Vital Interests: We may disclose your information where we believe it is necessary to investigate, prevent, or take action regarding potential violations of our policies, suspected fraud, situations involving potential threats to the safety of any person and illegal activities, or as evidence in litigation in which we are involved.[LF]More specifically, we may need to process your data or share your personal information in the following situations: [LF]Vendors, Consultants and Other Third-Party Service Providers. We may share your data with third party vendors, service providers, contractors or agents who perform services for us or on our behalf and require access to such information to do that work. Examples include: payment processing, data analysis, email delivery, hosting services, customer service and marketing efforts. We may allow selected third parties to use tracking technology in our Games or related web services , which will enable them to collect data about how you interact with the such Games and services over time. This information may be used to, among other things, analyze and track data, determine the popularity of certain content and better understand online activity. Unless described in this Policy, we do not share, sell, rent or trade any of your information with third parties for their promotional purposes. [LF][LF]Business Transfers. We may share or transfer your information in connection with, or during negotiations of, any merger, sale of company assets, financing, or acquisition of all or a portion of our business to another company. [LF][LF]4. IS YOUR INFORMATION TRANSFERRED INTERNATIONALLY? [LF]In Short: We may transfer, store, and process anonymous data and information you voluntarily share with us in countries other than your own. [LF][LF]If you are a resident in the European Economic Area, then these countries may not have data protection or other laws as comprehensive as those in your country. We will however take all necessary measures to protect your personal information in accordance with this privacy policy and applicable law. [LF][LF]5. HOW LONG DO WE KEEP YOUR INFORMATION? [LF]In Short: We keep your anonymous and voluntarily shared personal information for as long as necessary to fulfill the purposes outlined in this privacy policy unless otherwise required by law. [LF]We will only keep your personal information for as long as it is necessary for the purposes set out in this privacy policy, unless a longer retention period is required or permitted by law (such as tax, accounting or other legal requirements). [LF]When we have no ongoing legitimate business need to process your personal information, we will either delete or anonymize it, or, if this is not possible (for example, because your personal information has been stored in backup archives), then we will securely store your personal information and isolate it from any further processing until deletion is possible. [LF][LF]6. DO WE COLLECT INFORMATION FROM MINORS? [LF]In Short: We do not knowingly collect data from or market to children under 18 years of age. [LF]We do not knowingly solicit data from or market to children under 18 years of age. By using our Games and web services, you represent that you are at least 18 or that you are the parent or guardian of such a minor and consent to such minor dependent’s use of the Games. If we learn that personal information from users less than 18 years of age has been collected, we will deactivate the account and take reasonable measures to promptly delete such data from our records. If you become aware of any data we have collected from children under age 18, please contact us at contact@snapshotgames.com. "
+msgstr "INFORMATIVA SULLA PRIVACY [LF]Ultimo aggiornamento 9 dicembre 2020 [LF][LF][LF]Grazie per aver scelto di far parte della nostra comunità di Snapshot Games Inc. (\"\"azienda\"\", \"\"noi\"\", \"\"ci\"\" o \"\"nostro\"\"). Ci impegniamo a proteggere i dati dell'utente e il suo diritto alla privacy. In caso di domande o dubbi sulla nostra politica o sulle nostre pratiche in merito ai dati personali, contattateci all'indirizzo contact@snapshotgames.com. [LF][LF]Nella presente Informativa sulla privacy, cerchiamo di spiegare, nel modo più chiaro possibile, quali dati raccogliamo, come li usiamo e quali sono i diritti dell'utente in relazione agli stessi. [LF][LF]Questa Informativa sulla privacy si applica a tutti i dati raccolti nei nostri giochi (come Phoenix Point: Year One Edition), definiti collettivamente \"\"giochi\"\" nel presente documento. Gli altri servizi correlati, come i nostri siti Web, di vendita, marketing o eventi, potrebbero essere regolati da altre politiche specifiche. [LF][LF]Si prega di leggere attentamente la presente Informativa sulla privacy poiché sarà utile per prendere decisioni consapevoli sulla condivisione dei dati personali con noi. [LF][LF]INDICE GENERALE [LF]1. QUALI DATI VENGONO RACCOLTI? [LF]2. COME UTILIZZIAMO I DATI DELL'UTENTE? [LF]3. CON CHI VENGONO CONDIVISI I DATI DELL'UTENTE? [LF]4. I DATI DELL'UTENTE VENGONO TRASFERITI A LIVELLO INTERNAZIONALE? [LF]5. PER QUANTO TEMPO CONSERVIAMO I DATI DELL'UTENTE? [LF]6. RACCOGLIAMO DATI RELATIVI A MINORI? [LF]7. QUALI SONO I DIRITTI DELL'UTENTE SULLA PRIVACY? [LF]8. FUNZIONI DI NON RILEVAMENTO [LF]9. I RESIDENTI IN CALIFORNIA HANNO DIRITTI SPECIFICI SULLA PRIVACY? [LF]10. QUESTA INFORMATIVA VIENE AGGIORNATA? [LF]11. COME CONTATTARCI SU QUESTA POLITICA?  [LF][LF][LF][LF]1. QUALI DATI VENGONO RACCOLTI? [LF][LF]Dati di gioco anonimi [LF]In breve Raccogliamo dati riguardanti le decisioni e le azioni intraprese dagli utenti nel nostro gioco. Tali dati sono anonimi e non contengono informazioni personali identificabili. [LF][LF][LF]Dati personali divulgati volontariamente dall'utente: [LF]In breve Se l'utente sceglie di condividerli, potremmo raccogliere l'indirizzo e-mail, il nome e potenzialmente altre informazioni, come l'ID utente, per vari servizi usati per fornire i nostri giochi. I nostri giochi non raccolgono automaticamente i dati personali. Saranno gli utenti a poter accettare o meno di condividere tali informazioni con noi. [LF][LF]Tutti i dati personali che ci vengono forniti devono essere veritieri, completi e accurati e l'utente è tenuto a informarci di eventuali modifiche a tali informazioni. [LF][LF]Dati raccolti automaticamente [LF]In breve Quando l'utente visita il nostro sito Web e/o altri servizi online, inclusi i servizi di marketing, vendite ed eventi, alcune informazioni, come l'indirizzo IP e/o le caratteristiche del browser e del dispositivo, vengono raccolte automaticamente. [LF]Alcuni dati vengono raccolti automaticamente quando l'utente visita, utilizza o naviga nei nostri servizi Web. Tali dati non rivelano l'identità specifica (come il nome o il recapito) ma possono includere dettagli sul dispositivo e sull'utilizzo, come indirizzo IP, browser e caratteristiche del dispositivo, sistema operativo, preferenza linguistica, URL di riferimento, nome del dispositivo, Paese, posizione, informazioni su come e quando vengono utilizzati i nostri giochi e servizi web, e altri dati tecnici. Queste informazioni sono principalmente necessarie per mantenere la sicurezza e il funzionamento dei nostri giochi e a scopo interno di analisi e reportistica. Come molte aziende, raccogliamo informazioni anche tramite cookie e tecnologie simili. [LF][LF][LF]2. COME UTILIZZIAMO I DATI DELL'UTENTE? [LF]In breve I dati dell'utente vengono elaborati per scopi basati su legittimi interessi commerciali, per l'adempimento del nostro contratto con l'utente, per il rispetto dei nostri obblighi legali e/o il consenso dell'utente. [LF]Utilizziamo dati anonimi sull'esperienza dell'utente con i nostri giochi, al fine di migliorarli, e per analisi statistiche relative alla nostra attività e al servizio clienti. [LF][LF]I dati personali che l'utente condivide con noi tramite i nostri giochi e servizi Web vengono usati per una serie di scopi commerciali descritti di seguito. I dati personali vengono trattati per questi scopi, in virtù dei nostri legittimi interessi commerciali, al fine di stipulare o eseguire un contratto con l'utente e con il suo consenso e/o per conformità con i nostri obblighi legali. I motivi specifici di elaborazione, ai quali facciamo affidamento, sono indicati accanto a ciascuna finalità elencata di seguito. [LF][LF]I dati personali raccolti o ricevuti potrebbero essere utilizzati per: [LF][LF]Inviare comunicazioni di marketing e promozionali. Noi e/o i nostri partner di marketing potremmo utilizzare i dati personali che ci vengono inviati a scopo di marketing, se ciò è conforme con le preferenze di marketing indicate dall'utente. L'utente può disattivare le nostre e-mail di marketing in qualsiasi momento (consultare \"\"QUALI SONO I DIRITTI DELL'UTENTE SULLA PRIVACY?\"\" qui di seguito). [LF][LF]Per inviare all'utente informazioni amministrative. Possiamo utilizzare i dati personali dell'utente per inviare informazioni su prodotti, servizi e nuove funzionalità e/o informazioni su modifiche ai nostri termini, condizioni e politiche. [LF][LF][LF][LF]Fornire pubblicità mirata. Possiamo utilizzare i dati dell'utente per sviluppare e visualizzare contenuti e pubblicità (e collaborare con terze parti che svolgono tale attività) su misura in base agli interessi e/o alla posizione geografica dell'utente e per misurarne l'efficacia. [LF][LF]Richiesta di feedback. Potremmo utilizzare i dati degli utenti per richiedere feedback e per contattarli in merito all'utilizzo dei nostri giochi e degli altri servizi. [LF][LF]Per altri scopi aziendali. Potremmo utilizzare i dati del giocatore per altri scopi commerciali, come l'analisi dei dati, l'identificazione delle tendenze di utilizzo, la determinazione dell'efficacia delle nostre campagne promozionali e per valutare e migliorare i nostri giochi e altri servizi, prodotti, marketing e l'esperienza dell'utente. Potremmo utilizzare e memorizzare queste informazioni in forma aggregata e anonima, affinché non siano associate a singoli utenti finali e non includano informazioni personali. Non useremo informazioni personali identificabili senza il consenso dell'utente. [LF][LF]3. CON CHI VENGONO CONDIVISI I DATI DELL'UTENTE? [LF]In breve Condividiamo i dati solamente previo consenso dell'utente, nel rispetto delle leggi, per fornire servizi, proteggere i diritti o adempiere agli obblighi commerciali. [LF][LF]Potremmo elaborare o condividere dati secondo questa base giuridica: [LF]Consenso. Potremmo trattare i dati dell'utente se lo stesso ci ha dato il consenso a utilizzare le sue informazioni personali per uno scopo specifico. [LF][LF]Interessi legittimi. Potremmo trattare i dati dell'utente quando è ragionevolmente necessario, ai fini dei nostri legittimi interessi commerciali. [LF][LF]Esecuzione del contratto. Laddove abbiamo stipulato un contratto con l'utente, potremmo trattare le informazioni personali per adempiere ai termini del nostro contratto. [LF][LF]Obblighi legali. I dati dell'utente potrebbero essere divulgati laddove siamo legalmente obbligati a farlo per conformarci alla legge applicabile, per richieste governative, procedimento giudiziario, ordinanza del tribunale o procedimento legale, ad esempio in risposta a un'ordinanza del tribunale o a una citazione (anche in risposta alle autorità pubbliche per soddisfare i requisiti di sicurezza nazionale o di applicazione della legge). [LF][LF][LF]Bene pubblico. Potremmo divulgare i dati dell'utente laddove riteniamo sia necessario indagare, prevenire o intraprendere azioni in merito a potenziali violazioni delle nostre politiche, sospette frodi, situazioni che comportano potenziali minacce alla sicurezza di qualsiasi persona e attività illegali, o come prova in eventuali processi in cui siamo coinvolti. [LF]Più specificamente, potremmo aver bisogno di elaborare i dati dell'utente o condividere i dati personali nelle seguenti situazioni: [LF]Rivenditori, consulenti e altri fornitori di servizi di terze parti. Potremmo condividere i dati dell'utente con altri rivenditori, fornitori di servizi, appaltatori o agenti che eseguono servizi per noi o per nostro conto e richiedono l'accesso a tali informazioni per svolgere tale lavoro. Gli esempi includono: elaborazione dei pagamenti, analisi dei dati, consegna della posta elettronica, servizi di hosting, assistenza clienti e iniziative di marketing. Potremmo consentire a terze parti selezionate di utilizzare la tecnologia di tracciamento nei nostri giochi o servizi web correlati, il che consentirà loro di raccogliere dati sull'interazione dell'utente con tali giochi e servizi in un periodo di tempo. Queste informazioni possono essere utilizzate, tra le altre cose, per analizzare e tenere traccia dei dati, determinare la popolarità di determinati contenuti e comprendere meglio l'attività online. A meno che non sia descritto nella presente Informativa, non condividiamo, vendiamo, affittiamo o scambiamo i dati dell'utente con terze parti per i loro scopi promozionali. [LF][LF]Trasferimenti aziendali. Potremmo condividere o trasferire i dati dell'utente in relazione o durante le negoziazioni di qualsiasi fusione, vendita di beni aziendali, finanziamento o acquisizione di tutta o parte della nostra attività a un'altra società. [LF][LF]4. I DATI DELL'UTENTE VENGONO TRASFERITI A LIVELLO INTERNAZIONALE? [LF]In breve Potremmo trasferire, archiviare ed elaborare negli altri Paesi dati e informazioni anonimi che l'utente condivide volontariamente con noi. [LF][LF]Se risiede nello Spazio Economico Europeo, questi Paesi potrebbero non avere la protezione dei dati o leggi esaurienti come quelle del Paese di residenza. Tuttavia, adotteremo tutte le misure necessarie per proteggere i dati personali in conformità con la presente Informativa sulla privacy e la legge applicabile. [LF][LF]5. PER QUANTO TEMPO CONSERVIAMO I DATI DELL'UTENTE? [LF]In breve Conserviamo i dati personali anonimi e condivisi volontariamente per tutto il tempo necessario a soddisfare le finalità delineate nella presente informativa sulla privacy, salvo diversamente richiesto dalla legge. [LF]Conserveremo i dati personali solo per il tempo necessario per gli scopi indicati nella presente Informativa sulla privacy, a meno che non sia richiesto o consentito dalla legge un periodo di conservazione più lungo (per esempio per requisiti fiscali, contabili o altri requisiti legali). [LF]Quando non abbiamo alcuna legittima esigenza aziendale in corso per trattare i dati personali dell'utente, li elimineremo o renderemo anonimi oppure, se ciò non è possibile (ad esempio, perché i dati personali sono salvati in archivi di backup), li archivieremo in modo sicuro e li isoleremo da qualsiasi ulteriore elaborazione finché potranno essere cancellati. [LF][LF]6. RACCOGLIAMO DATI RELATIVI A MINORI? [LF]In breve Non raccogliamo né commercializziamo consapevolmente i dati degli utenti minori di 18 anni. [LF]Non richiediamo consapevolmente dati né svolgiamo attività di marketing mirata a utenti minori di 18 anni. Utilizzando i nostri giochi e servizi web, l'utente dichiara di avere almeno 18 anni o di essere il genitore o tutore di tale minorenne e acconsentire all'uso dei giochi da parte del minore dipendente. Qualora venissimo a conoscenza di aver raccolto dati personali da utenti di età inferiore ai 18 anni, disattiveremo l'account e adotteremo misure ragionevoli per eliminare tempestivamente tali dati dai nostri archivi. Se l'utente dovesse venire a conoscenza di tale attività, è pregato di contattarci all'indirizzo contact@snapshotgames.com.[LF]"
+
+msgctxt "Opening Screen/KEY_BSNAPSHOT_GAMES_INC_BACKER_BUILD_PP2"
+msgid "8. WHAT ARE YOUR PRIVACY RIGHTS?  [LF]In Short:  In some regions, such as the European Economic Area, you have rights that allow you greater access to and control over your personal information. You may review, change, or terminate your account at any time.   [LF]In some regions (like the European Economic Area), you have certain rights under applicable data protection laws. These may include the right (i) to request access and obtain a copy of your personal information, (ii) to request rectification or erasure; (iii) to restrict the processing of your personal information; and (iv) if applicable, to data portability. In certain circumstances, you may also have the right to object to the processing of your personal information. To make such a request, please use the contact details   provided below. We will consider and act upon any request in accordance with applicable data protection laws. [LF]If we are relying on your consent to process your personal information, you have the right to withdraw your consent at any time. Please note however that this will not affect the lawfulness of the processing before its withdrawal.   [LF]If you are resident in the European Economic Area and you believe we are unlawfully processing your personal information, you also have the right to complain to your local data protection supervisory authority. You can find their contact details here: http://ec.europa.eu/justice/data-protection/bodies/authorities/index_en.htm.   [LF] [LF]Account Information  [LF]If you would at any time like to review or change the information in your account or terminate your account, you can: [LF]    ■  Contact us using the contact information provided.  [LF]Upon your request to terminate your account, we will deactivate or delete your account and information from our active databases. However, some information may be retained in our files to prevent fraud, troubleshoot problems, assist with any investigations, enforce our Terms of Use and/or comply with legal requirements.     [LF]Cookies and similar technologies: Most Web browsers are set to accept cookies by default. If you prefer, you can usually choose to set your browser to remove cookies and to reject cookies. If you choose to remove cookies or reject cookies, this could affect certain features or services of our Services. To opt-out of interest-based advertising by advertisers on our Services visit http://www.aboutads.info/choices/  .       [LF]Opting out of email marketing: You can unsubscribe from our marketing email list at any time by clicking on the unsubscribe link in the emails that we send or by contacting us using the details provided below. You will then be removed from the marketing email list – however, we will still need to send you service-related emails that are necessary for the administration and use of your account. To otherwise opt-out, you may: [LF]    ■  Contact us using the contact information provided.    [LF][LF]9. CONTROLS FOR DO-NOT-TRACK FEATURES  [LF]Most web browsers and some mobile operating systems and mobile applications include a Do-Not-Track (“DNT”) feature or setting you can activate to signal your privacy preference not to have data about your online browsing activities monitored and collected. No uniform technology standard for recognizing and implementing DNT signals has been finalized. As such, we do not currently respond to DNT browser signals or any other mechanism that automatically communicates your choice not to be tracked online. If a standard for online tracking is adopted that we must follow in the future, we will inform you about that practice in a revised version of this privacy policy   .  [LF][LF]10. DO CALIFORNIA RESIDENTS HAVE SPECIFIC PRIVACY RIGHTS?  [LF]In Short:  Yes, if you are a resident of California, you are granted specific rights regarding access to your personal information.   [LF]California Civil Code Section 1798.83, also known as the “Shine The Light” law, permits our users who are California residents to request and obtain from us, once a year and free of charge, information about categories of personal information (if any) we disclosed to third parties for direct marketing purposes and the names and addresses of all third parties with which we shared personal information in the immediately preceding calendar year. If you are a California resident and would like to make such a request, please submit your request in writing to us using the contact information provided below. [LF]If you are under 18 years of age, reside in California, and have a registered account with the Services, you have the right to request removal of unwanted data that you publicly post on the Services. To request removal of such data, please contact us using the contact information provided below, and include the email address associated with your account and a statement that you reside in California. We will make sure the data is not publicly displayed on the Services, but please be aware that the data may not be completely or comprehensively removed from our systems.[LF][LF]11. DO WE MAKE UPDATES TO THIS POLICY?  [LF]In Short:  Yes, we will update this policy as necessary to stay compliant with relevant laws.  [LF]We may update this privacy policy from time to time. The updated version will be indicated by an updated “Revised” date and the updated version will be effective as soon as it is accessible. If we make material changes to this privacy policy, we may notify you either by prominently posting a notice of such changes or by directly sending you a notification. We encourage you to review this privacy policy frequently to be informed of how we are protecting your information.  [LF][LF]12. HOW CAN YOU CONTACT US ABOUT THIS POLICY?  [LF]If you have questions or comments about this policy, you may email us at contact@snapshotgames.com or by post to:[LF]Snapshot Games Inc.    [LF]145 S Fairfax Ave #200 [LF]Los Angeles, CA 90036    [LF]United States        [LF][LF] [LF]How can you review, update, or delete the data we collect from you?[LF]Based on the laws of some countries, you may have the right to request access to the personal information we collect from you, change that information, or delete it in some circumstances. To request to review, update, or delete your personal information, please submit a request form by filling the form here: https://app.termly.io/notify/1a128fcc-1960-429c-b87d-250e4fe413aa. We will respond to your request within 30 days.[LF]"
+msgstr "7. QUALI SONO I TUOI DIRITTI SULLA PRIVACY? [LF]In breve: in alcune regioni, come lo Spazio economico europeo, hai diritti che ti consentono un maggiore accesso e controllo sulle tue informazioni personali. Puoi rivedere, modificare o chiudere il tuo account in qualsiasi momento. In alcune regioni (come lo Spazio economico europeo), hai determinati diritti ai sensi delle leggi sulla protezione dei dati applicabili. Questi possono includere il diritto (i) di richiedere l'accesso e ottenere una copia delle informazioni personali, (ii) di richiedere la rettifica o la cancellazione; (iii) limitare il trattamento dei dati personali dell'utente; e (iv) se applicabile, alla portabilità dei dati. In determinate circostanze, potresti anche avere il diritto di opporti al trattamento dei tuoi dati personali. Per effettuare tale richiesta, si prega di utilizzare i dettagli di contatto forniti di seguito. Prenderemo in considerazione e risponderemo a qualsiasi richiesta in conformità con le leggi applicabili sulla protezione dei dati. Se facciamo affidamento sul tuo consenso per elaborare le tue informazioni personali, hai il diritto di revocare il tuo consenso in qualsiasi momento. Si noti tuttavia che ciò non influirà sulla liceità del trattamento prima del suo ritiro. Se risiedi nello Spazio economico europeo e ritieni che stiamo trattando illegalmente le tue informazioni personali, hai anche il diritto di presentare un reclamo all'autorità di controllo della protezione dei dati locale. Puoi trovare i loro dettagli di contatto qui: http://ec.europa.eu/justice/data-protection/bodies/authorities/index_en.htm. Informazioni sull'account Se si desidera in qualsiasi momento rivedere o modificare le informazioni nel proprio account o chiudere il proprio account, è possibile: [LF]■ Contattateci utilizzando le informazioni di contatto fornite. Su tua richiesta di chiusura del tuo account, disattiveremo o elimineremo il tuo account e le informazioni dai nostri database attivi. Tuttavia, alcune informazioni potrebbero essere conservate nei nostri file per prevenire frodi, risolvere problemi, fornire assistenza per eventuali indagini, applicare i nostri Termini di utilizzo e / o rispettare i requisiti legali. Cookie e tecnologie simili: la maggior parte dei browser Web è impostata per accettare i cookie per impostazione predefinita. Se preferisci, di solito puoi scegliere di impostare il tuo browser per rimuovere i cookie e rifiutare i cookie. Se scegli di rimuovere i cookie o di rifiutarli, ciò potrebbe influire su determinate funzionalità o servizi dei nostri Servizi. Per annullare la pubblicità basata sugli interessi degli inserzionisti sui nostri servizi, visitare http://www.aboutads.info/choices/. Annullamento dell'email marketing: puoi annullare l'iscrizione alla nostra lista di email marketing in qualsiasi momento facendo clic sul link di annullamento dell'iscrizione nelle e-mail che inviamo o contattandoci utilizzando i dettagli forniti di seguito. Sarai quindi rimosso dall'elenco delle e-mail di marketing, tuttavia dovremo comunque inviarti e-mail relative al servizio necessarie per l'amministrazione e l'uso del tuo account. In caso contrario, è possibile: [LF]■ Contattaci utilizzando le informazioni di contatto fornite. [LF]8. CONTROLLI PER LE FUNZIONALITÀ DI NON TRACCIA [LF]La maggior parte dei browser Web e alcuni sistemi operativi mobili e applicazioni mobili includono una funzionalità Do-Not-Track (“DNT”) o un'impostazione che puoi attivare per segnalare la tua preferenza sulla privacy per non avere dati sulla tua attività di navigazione online monitorate e raccolte. Non è stato finalizzato uno standard tecnologico uniforme per il riconoscimento e l'implementazione dei segnali DNT. Pertanto, al momento non rispondiamo ai segnali del browser DNT o ad altri meccanismi che comunicano automaticamente la tua scelta di non essere tracciati online. Se verrà adottato uno standard per il monitoraggio online che dovremo seguire in futuro, ti informeremo di tale pratica in una versione rivista della presente informativa sulla privacy. [LF]9. I RESIDENTI DELLA CALIFORNIA HANNO DIRITTI SPECIFICI SULLA PRIVACY? [LF]In breve: Sì, se risiedi in California, ti vengono concessi diritti specifici relativi all'accesso alle tue informazioni personali. La Sezione 1798.83 del codice civile della California, nota anche come legge \"\"Shine The Light\"\", consente ai nostri utenti residenti in California di richiedere e ottenere da noi, una volta all'anno e gratuitamente, informazioni sulle categorie di informazioni personali (se presenti) che divulgati a terzi per scopi di marketing diretto e nomi e indirizzi di tutti i terzi con i quali abbiamo condiviso le informazioni personali nell'anno civile immediatamente precedente. Se risiedi in California e desideri presentare tale richiesta, ti preghiamo di inviarci la richiesta per iscritto utilizzando le informazioni di contatto fornite di seguito. Se hai meno di 18 anni, risiedi in California e hai un account registrato con i Servizi, hai il diritto di richiedere la rimozione di dati indesiderati che pubblichi pubblicamente sui Servizi. Per richiedere la rimozione di tali dati, ti preghiamo di contattarci utilizzando le informazioni di contatto fornite di seguito e includendo l'indirizzo e-mail associato al tuo account e una dichiarazione che risiedi in California. Faremo in modo che i dati non vengano visualizzati pubblicamente sui Servizi, ma ti preghiamo di essere consapevole che i dati potrebbero non essere completamente o completamente rimossi dai nostri sistemi. [LF]10. EFFETTUIAMO AGGIORNAMENTI A QUESTA POLITICA? [LF]In breve: Sì, aggiorneremo questa politica se necessario per rimanere conformi alle leggi pertinenti. Di tanto in tanto potremmo aggiornare questa politica sulla privacy. La versione aggiornata sarà indicata da una data “Revisionata” aggiornata e la versione aggiornata sarà effettiva non appena sarà accessibile. Se apportiamo modifiche sostanziali alla presente informativa sulla privacy, potremmo avvisarti pubblicando in modo evidente un avviso di tali modifiche o inviandoti direttamente una notifica. Ti invitiamo a rivedere frequentemente questa politica sulla privacy per essere informato su come stiamo proteggendo le tue informazioni. [LF]11. COME CONTATTARCI SU QUESTA POLITICA? [LF]In caso di domande o commenti su questa politica, è possibile inviarci un'e-mail a contact@snapshotgames.com o per posta a: [LF]Snapshot Games Inc. [LF]145 S Fairfax Ave # 200 [LF]Los Angeles, CA 90036 [LF]Stati Uniti [LF][LF][LF]Come è possibile rivedere, aggiornare o cancellare i dati che raccogliamo da te? In base alle leggi di alcuni Paesi, potresti avere il diritto di richiedere l'accesso alle informazioni personali che raccogliamo da te, modificare tali informazioni o eliminarle in alcune circostanze. Per richiedere la revisione, l'aggiornamento o l'eliminazione delle informazioni personali, si prega di inviare un modulo di richiesta compilando il modulo qui: https://app.termly.io/notify/1a128fcc-1960-429c-b87d-250e4fe413aa. Risponderemo alla tua richiesta entro 30 giorni."
+
+msgctxt "Opening Screen/KEY_BSNAPSHOT_GAMES_INC_TOS_LABEL"
+msgid "ONLINE POLICIES, AGREEMENTS AND TERMS"
+msgstr "POLITICHE, ACCORDI E TERMINI ONLINE"
+
+msgctxt "Opening Screen/KEY_BSNAPSHOT_GAMES_INC_TOS_DESC"
+msgid "Your use of this software is subject to the following policies, agreements and terms, including transfer of your data to countries that may have different levels of privacy protection than your own."
+msgstr "L’uso di questo software è soggetto alle politiche, agli accordi e ai termini seguenti, compresi il trasferimento dei tuoi dati a paesi che possono avere livelli differenti di protezione della privacy rispetto al tuo."
+
+msgctxt "Opening Screen/KEY_BSNAPSHOT_GAMES_INC_TOS_BUTTON"
+msgid "Read TERMS OF SERVICE"
+msgstr "Leggi i TERMINI DI SERVIZIO"
+
+msgctxt "Opening Screen/KEY_BSNAPSHOT_GAMES_INC_PP_BUTTON"
+msgid "Read PRIVACY POLICY"
+msgstr "Leggi la INFORMATIVA SULLA PRIVACY"
+
+msgctxt "Opening Screen/KEY_BSNAPSHOT_GAMES_INC_AGREE"
+msgid "I Agree to All"
+msgstr "Accetto tutto"
+
+msgctxt "Opening Screen/KEY_BSNAPSHOT_GAMES_INC_DISAGREE"
+msgid "I Disagree to All"
+msgstr "Rifiuto tutto"
+
+msgctxt "Opening Screen/KEY_BSNAPSHOT_GAMES_INC_TOS_NAME"
+msgid "TERMS OF SERVICE"
+msgstr "TERMINI DI SERVIZIO"
+
+msgctxt "Opening Screen/KEY_BSNAPSHOT_GAMES_INC_PP_NAME"
+msgid "PRIVACY POLICY"
+msgstr "INFORMATIVA SULLA PRIVACY"
+
+msgctxt "Opening Screen/KEY_SAVE_TACTICAL"
+msgid "Tactical"
+msgstr "Tattico"
+
+msgctxt "Opening Screen/KEY_SAVE_GEOSCAPE"
+msgid "Geoscape"
+msgstr "Globo"
+
 msgctxt "Research Screen/KEY_RESEARCH_COMPLETE"
 msgid "Research completed: {0} "
 msgstr "Ricerche completate: {0} "
@@ -13582,6 +13902,10 @@ msgctxt "Roster Screen/KEY_VEHICLE_LIMIT"
 msgid "Only one Vehicle can be deployed into a mission"
 msgstr "Puoi schierare solo 1 veicolo durante una missione."
 
+msgctxt "Roster Screen/KEY_GEOROSTER_RENAME_CHARACTER"
+msgid "Rename this soldier?"
+msgstr "Vuoi rinominare questo soldato?"
+
 msgctxt "Diplomacy and Factions/KEY_DIPLOMACY_ANU"
 msgid "The Exalted"
 msgstr "La Suprema"
@@ -13709,158 +14033,6 @@ msgstr "Numero dei rifugi affiliati alla fazione"
 msgctxt "Diplomacy and Factions/KEY_DIPLOMACY_RELATIONSHIP_TOWARDS_TT"
 msgid "Attitude towards {0}"
 msgstr "Disposizione verso {0}"
-
-msgctxt "Opening Screen/KEY_BSNAPSHOT_GAMES_INC_BACKER_BUILD_END1"
-msgid "SNAPSHOT GAMES, INC.[LF]END USER LICENSE AGREEMENT[LF][LF]This End User License Agreement (“Agreement”) is a contract between you and Snapshot Games, Inc. (“Snapshot” or “we” or “us”) for you to use the Phoenix Point computer game (collectively, the “Software”).[LF][LF]PLEASE READ THIS AGREEMENT CAREFULLY. IT CONTAINS IMPORTANT TERMS THAT AFFECT YOU, YOUR USE OF THE SOFTWARE, AND ANY FEEDBACK (DEFINED BELOW) YOU PROVIDE TO US. BY CLICKING “I ACCEPT”, “I AGREE”, OR A SIMILAR ACKNOWLEDGEMENT OF AGREEMENT OR BY DOWNLOADING, INSTALLING, COPYING OR USING THE SOFTWARE, YOU AGREE TO BE BOUND BY THE TERMS OF THIS AGREEMENT. IF YOU DO NOT AGREE TO THESE TERMS, DO NOT DOWNLOAD, INSTALL, COPY OR USE THE SOFTWARE OR SUBMIT ANY FEEDBACK TO US.  THIS AGREEMENT CONSTITUTES A VALID AND BINDING LEGAL CONTRACT BETWEEN YOU AND US.[LF][LF]For information on how we collect and use your information, see our Privacy Policy located here: https://phoenixpoint.info/privacy-policy.[LF][LF]1.        Acceptance of this Agreement.[LF](a)        By an Individual 18 Years of Age or Older.  Any individual who is at least 18 years of age or the legal age of majority under applicable law may accept the terms and conditions of this Agreement by selecting the “I Accept,” “I Agree,” or similar acknowledgment of agreement or by downloading, installing, copying, or using the Software.  By accepting the terms and conditions of this Agreement, you acknowledge that you have read, understood, and accepted the terms and conditions of this Agreement and agree to be bound thereby.[LF](b)        By an Individual Between the Ages of 13 and 17 Years.  Any individual who is a minor (as determined by the state or province of your residence) and 13 years of age or older (an “Eligible Minor”) must have his or her parent or legal guardian indicate consent to the terms and conditions of this Agreement.  An Eligible Minor’s parent or legal guardian may accept the terms and conditions of this Agreement by selecting the “I Accept”, “I Agree”, or similar acknowledgment of agreement or by downloading, installing, copying, or using the Software on behalf of such Eligible Minor.  By accepting the terms and conditions of this Agreement, the parent or legal guardian of the Eligible Minor acknowledges that he or she has read, understood, and accepted the terms and conditions of this Agreement on behalf of such Eligible Minor and on behalf of themselves and agrees to be bound thereby.  Without limiting the foregoing, Parents and legal guardians understand that they are responsible for the acts and activities of their Eligible Minors in connection with any installation, copying, or use of the Software.[LF](c)        By an Individual Under the Age of 13 Years.  The Software is not targeted towards, nor intended for use by, anyone under the age of 13.  Children under the age of 13 are not eligible to install, copy, or use the Software, notwithstanding that they may have the consent of a parent or legal guardian.[LF](d)        Import and Export Control Laws.  You may not accept the terms and conditions of this Agreement or download, install, copy or use the Software if (a) you are a resident of any U.S. embargoed countries or (b) you are listed on the U.S. Treasury Department’s list of Specially Designated Nationals or the U.S. Department of Commerce Denied Person’s List or Entity List.  By downloading, installing or using any component of the Software, you represent and warrant that you are not located in, under control of, or a national or resident of any such country or jurisdiction or on any such list.[LF][LF]2.        Software License. Subject to the terms of this Agreement, your compliance with the terms of service, terms of use, subscriber agreement or other terms of the Web site from which you obtain the Software (“Terms of Service”) which govern your use of such Web sites' services to, among other activities, obtain the Software, and your compliance with any other agreement you may have entered with us governing your use of Software-related services (the “Service”), we grant you a nonexclusive, nontransferable, nonsublicenseable license to download, install and use one copy of the Software in binary executable form only on a single personal computing device solely for your own, personal use of the Software and Service. The terms of this Agreement supplement any applicable Terms of Service and supersede those Terms of Service where this Agreement and the Terms of Service conflict.  Any Snapshot software that updates, upgrades, supplements, replaces, or offers patches to the Software is governed by this Agreement unless separate license terms accompany such update, upgrade, supplement, replacement, or patch, in which case such separate terms will govern in the event of a conflict with this Agreement or as otherwise provided in such separate terms.[LF][LF]3.        License Limitations. The preceding states the entirety of your rights with respect to the Software, and we reserve all rights in and to the Software and Services not expressly granted to you in this Agreement. Without limiting the foregoing, you will not do, or authorize or permit any third party to do, any of the following: (a) distribute, license or sell the Software; (b) use the Software for any purpose other than your own personal, noncommercial use; (c) reverse engineer, decompile, disassemble or attempt to discover the source code for the Software; (d) modify, alter or create any derivative works of the Software; (e) remove, alter or obscure any copyright, trademark or other proprietary rights notice on or in the Software; (f) use the Software to commit any crime or violate any applicable local, state, national, or international law, regulation, ordinance, or treaty including, but not limited to, any fraud, misrepresentation, money laundering, or illegal gambling; (g) use the Software to access, or attempt to access, facilities, networks, equipment, or systems of Snapshot, Snapshot Parties (as defined below), another user, or any other third party, including any partner of Snapshot, without authorization; (h) use or access the Software for the purposes of, or in connection with, (1) using, or attempting to use, any cheat codes, devices, tools, or processes, including, but not limited to, any third-party code sets or utilities (including any code sets or utilities developed by you or on your behalf), or (2) distributing, publishing, or otherwise making available or publicizing in any way any such cheat codes, devices, tools, or processes; or (i) circumvent or attempt to circumvent any methods employed by Snapshot to control access to the components, features or functions of the Software or Service. [LF][LF]4.        Ownership. The Software is the valuable property of Snapshot and its licensors and is protected by copyright and other intellectual property laws and treaties. We and our licensors own all right, title and interest in and to the Software, including all copyright and other intellectual property rights in the Software.[LF][LF]5.        Feedback. In the course of using the Software, you may provide to Snapshot materials, information and feedback on the Software (including, without limitation, questions, comments, suggestions, or the like) regarding the performance, features, gameplay and functionality of the Software or Service (“Feedback”). .  You hereby grant to Snapshot an exclusive, royalty-free, irrevocable, perpetual worldwide right and license to reproduce, use, disclose, exhibit, display, transform, create derivative works and distribute any such Feedback without limitation. Further, we will be free to use any ideas, concepts, know-how or techniques contained in such Feedback for any purpose whatsoever, including, without limitation, developing, manufacturing, marketing and selling products and services incorporating such Feedback. We will have no obligation to consider, use, return or preserve any Feedback you provide to us. Any Feedback you provide to us may or may not be treated confidentially by us, and we will have no obligation or liability to you for the use or disclosure of any Feedback. You should not to expect any compensation of any kind from us with respect to your Feedback. [LF][LF]6.        Disclaimers. YOU ACKNOWLEDGE THE SOFTWARE AND SERVICE ARE PROVIDED “AS IS,” WITH ALL FAULTS, DEFECTS AND ERRORS, AND WITHOUT WARRANTY OF ANY KIND. SNAPSHOT DISCLAIMS ALL WARRANTIES (EXPRESS OR IMPLIED AND ARISING BY LAW OR OTHERWISE) REGARDING THE SOFTWARE AND SERVICE AND THEIR PERFORMANCE OR SUITABILITY FOR YOUR INTENDED USE, INCLUDING WITHOUT LIMITATION ANY IMPLIED WARRANTY OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, OR NONINFRINGEMENT. WITHOUT LIMITING THE FOREGOING, SNAPSHOT DOES NOT WARRANT THAT THE SOFTWARE WILL BE FREE OF BUGS, ERRORS, VIRUSES, OR OTHER DEFECTS.  SNAPSHOT WILL HAVE NO LIABILITY OF ANY KIND FOR THE USE OF OR INABILITY TO USE THE SOFTWARE OR ANY SERVICE THAT THE SOFTWARE IS INTENDED TO ACCESS, OR FOR ANY LOSS OF DATA.  PORTIONS OF THE SOFTWARE INCLUDE USER CONTENT WHICH MAY BE DEEMED TO BE OBSCENE OR OFFENSIVE.  SNAPSHOT CANNOT (A) REVIEW ALL USER CONTENT BEFORE IT IS INTEGRATED INTO THE SOFTWARE AND (B) ENSURE PROMPT REMOVAL OF OBJECTIONABLE MATERIAL AFTER IT HAS BEEN INTEGRATED INTO THE SOFTWARE. ACCORDINGLY, SNAPSHOT WILL HAVE NO LIABILITY OF ANY KIND FOR ANY ACTION OR INACTION REGARDING TRANSMISSIONS, COMMUNICATIONS, OR CONTENT PROVIDED BY ANY USER OR THIRD PARTY. [LF][LF]7.        Indemnification. You will defend, indemnify and hold harmless Snapshot, its affiliates, independent contractors and service providers, and each of their respective members, directors, officers, employees and agents (“Snapshot Parties”), from and against all claims, damages, costs, liabilities and expenses (including, but not limited to, reasonable attorneys’ fees) arising out of or related to your use of, or inability to use, the Software or Service.  IF YOU ARE AN ELIGIBLE MINOR, YOUR PARENTS OR LEGAL GUARDIANS FURTHER WILL DEFEND, INDEMNIFY AND HOLD HARMLESS EACH OF THE SNAPSHOT PARTIES FROM ANY CLAIMS, DAMAGES, COSTS, INJURIES, LOSSES, OR EXPENSES ARISING OUT OF OR RELATED TO YOUR USE OF, OR INABILITY TO USE, THE SOFTWARE.[LF][LF][LF]"
-msgstr "SNAPSHOT GAMES, INC.[LF]ACCORDO DI LICENZA CON L'UTENTE FINALE[LF][LF]Questo accordo di licenza con l'utente finale (\"\"Accordo\"\") è un contratto tra l'utente e Snapshot Games, Inc. (\"\"Snapshot\"\" o \"\"noi\"\") per l'utilizzo da parte dell'utente del gioco per computer Phoenix Point (da qui in poi, il \"\"Software\"\").[LF][LF]LEGGERE ATTENTAMENTE QUESTO ACCORDO. CONTIENE IMPORTANTI CONDIZIONI CHE INFLUISCONO SULL'UTENTE, SUL SUO UTILIZZO DEL SOFTWARE E SU QUALSIASI FEEDBACK (DESCRITTI SOTTO) CHE CI FA PERVENIRE. FACENDO CLIC SU \"\"ACCETTO\"\", \"\"ACCETTA\"\" O SU UNA SIMILE CONFERMA DELL'ACCORDO O SCARICANDO, INSTALLANDO, COPIANDO O UTILIZZANDO IL SOFTWARE, L'UTENTE ACCETTA I TERMINI DI QUESTO ACCORDO. SE NON ACCETTA I TERMINI DEL PRESENTE ACCORDO, NON GLI È CONSENTITO INSTALLARE, COPIARE O UTILIZZARE IL SOFTWARE, NÉ INVIARCI QUALSIASI FEEDBACK. QUESTO ACCORDO COSTITUISCE UN CONTRATTO LEGALE VALIDO E VINCOLANTE TRA NOI E L'UTENTE.[LF][LF]Per maggiori informazioni su come raccogliamo e usiamo le informazioni dell'utente, leggere la nostra Informativa sulla privacy presente a questo link: https://phoenixpoint.info/privacy-policy.[LF][LF]1.        Accettazione del presente Accordo.[LF](a)        Da parte di un individuo che abbia compiuto almeno 18 anni. Qualsiasi individuo che abbia compiuto almeno 18 anni o la maggiore età ai sensi delle normative vigenti, ha il diritto di accettare i termini e le condizioni del presente Accordo, cliccando su \"\"Accetto\"\", \"\"Accetta\"\", o simili conferme dell'accordo o scaricando, installando, copiando o usando il Software. Accettando i termini e le condizioni del presente Accordo, l'utente riconosce di aver letto, compreso e accettato i termini e le condizioni del presente Accordo e accetta di attenervisi.[LF](a)        Da parte di un individuo che abbia un'età compresa tra i 13 e i 17 anni. In caso di minori (come determinato dallo stato o provincia di residenza) o utenti di almeno 13 anni di età (un \"\"Minore Idoneo\"\"), è obbligatorio che un genitore o un tutore legale acconsenta ai termini e alle condizioni del presente Accordo. Il genitore o tutore legale di un Minore Idoneo può accettare i termini e le condizioni di questo Accordo cliccando su \"\"Accetto\"\" o \"\"Accetta\"\" o simili conferme di accettazione dell'accordo o scaricando, installando, copiando o utilizzando il Software per conto del Minore Idoneo in questione. Accettando i termini e le condizioni del presente Accordo, il genitore o tutore legale del Minore Idoneo riconosce di aver letto, compreso e acconsentito ai termini e alle condizioni dell'Accordo per conto del Minore Idoneo e per sé stesso/a e ne accetta i vincoli. Fermo restando quanto sopra, i genitori e i tutori legali comprendono di essere responsabili per le azioni e le attività dei propri Minori Idonei in relazione a ogni installazione, copia o utilizzo del Software.[LF](c)        Da parte di un minore di età inferiore ai 13 anni. Il Software non è diretto e non è inteso per l'utilizzo da parte di minori al di sotto dei 13 anni. I bambini sotto ai 13 anni non sono autorizzati a installare, copiare o utilizzare il Software, neanche previo consenso da parte di un genitore o tutore legale.[LF](d)        Leggi sul controllo delle importazioni ed esportazioni. L'utente non è autorizzato ad accettare i termini e le condizioni dell'Accordo o a scaricare, installare, copiare o utilizzare il Software se (a) residente in paesi sottoposti ad embargo da parte degli Stati Uniti o (b) se inserito nella lista dei soggetti specificamente segnalati (Specially Designated Nationals) del Dipartimento del tesoro degli Stati Uniti o nella lista delle persone bandite (Denied Person’s List) del Dipartimento del Commercio degli Stati Uniti o nella lista di esclusione delle entità (Entity List). Scaricando, installando o utilizzando qualsiasi componente del Software, l'utente dichiara e garantisce di non trovarsi, essere sotto il controllo, essere cittadino o residente di alcuno dei paesi o delle giurisdizioni citati, né di far parte di una delle liste sopracitate.[LF][LF]2.        Licenza Software.  Compatibilmente con i termini di questo Accordo e in conformità con i termini del servizio, con i termini di utilizzo, con l'accordo di sottoscrizione o con altri termini del sito web da cui l'utente scarica il Software (“Termini del servizio”) e che regolano l'utilizzo dei servizi del sito stesso per, tra le varie attività, ottenere il Software e in conformità con qualsiasi altro accordo che l'utente possa aver stipulato con noi, che regola l'utilizzo di servizi relativi al Software (il \"\"Servizio\"\"), garantiamo all'utente una licenza non esclusiva, non cedibile e non trasferibile per scaricare, installare e utilizzare una copia del Software in forma binaria eseguibile solo su un singolo dispositivo informatico personale e unicamente per uso privato del Software e del Servizio. I termini del presente Accordo integrano tutti i Termini del Servizio applicabili e sostituiscono quei Termini del Servizio qualora divergano dal presente Accordo. Qualsiasi software di Snapshot che aggiorni, integri, sostituisca od offra patch al Software è regolato da questo Accordo, a meno che tale aggiornamento, integrazione, sostituzione o patch non presenti termini di licenza separati; in qual caso, tali termini separati avranno la priorità in caso di conflitto con questo Accordo o come altrimenti previsto in tali termini separati.[LF][LF]3.        Limiti della licenza. Il paragrafo precedente illustra i diritti dell'utente nella loro interezza relativamente al Software, e noi ci riserviamo tutti i diritti relativi al Software e al Servizio non espressamente garantiti in questo Accordo. Senza limitare ciò che precede, l'utente non eseguirà, e non autorizzerà o permetterà a nessuna terza parte di eseguire qualsiasi delle seguenti azioni: (a) distribuire, licenziare o vendere il Software; (b) utilizzare il Software per qualsiasi altro scopo diverso dal proprio utilizzo personale e non commerciale; (c) sottoporre a ingegneria inversa, decompilare, disassemblare o tentare di decodificare il codice sorgente del Software; (d) modificare, alterare o creare opere derivate del Software; o (e) rimuovere, alterare od oscurare qualsiasi copyright, marchio commerciale o altri avvisi di diritti di proprietà sul o nel Software. (f) utilizzare il Software per commettere qualsivoglia crimine o per violare leggi, regolamenti, ordinanze o trattati locali, statali, nazionali o internazionali, inclusi ma non limitati a frodi, rappresentazioni fuorvianti, riciclaggio di denaro o scommesse illegali; (g) utilizzare il Software per accedere o tentare di accedere senza autorizzazione a strutture, reti, equipaggiamenti o sistemi di Snapshot, Parti di Snapshot (come definite in basso), altri utenti o qualsiasi terza parte, inclusi i partner di Snapshot; (h) utilizzare o accedere al Software allo scopo di, o in relazione allo scopo di (1) utilizzare o tentare di utilizzare falsi codici, dispositivi, strumenti o processi, inclusi ma non limitati a set di codici o utility di terze parti (inclusi ogni set di codici o utility sviluppati da o per l'utente), o (2) distribuire, pubblicare o rendere altrimenti disponibile o pubblicizzare in qualsiasi modo tali falsi codici, dispositivi, strumenti o processi o (i) eludere o tentare di eludere metodi utilizzati da Snapshot per controllare l'accesso ai componenti, alle funzionalità o alle funzioni del Software o del Servizio. [LF][LF]4.         Proprietà. Il Software è una proprietà di valore di Snapshot e dei suoi licenzianti ed è protetto da copyright e altre leggi e trattati sulla proprietà intellettuale. Noi e i nostri licenzianti possediamo tutti i diritti, titoli e interessi relativi al Software, incluso il copyright e altri diritti sulla proprietà intellettuale nel Software.[LF][LF]5.         Feedback. Durante l'utilizzo del Software, l'utente può fornire a Snapshot i materiali, le informazioni e i feedback sullo stesso (inclusi, senza limitazioni, domande, commenti, suggerimenti e simili) riguardo alle prestazioni, alle caratteristiche, al gameplay e alla funzionalità del Software o del Servizio (\"\"Feedback\"\"). L'utente concede a Snapshot il diritto e la licenza esclusivi, esenti da royalty, irrevocabili, perenni e senza limiti geografici di riprodurre, utilizzare, divulgare, esibire, mostrare, trasformare, creare opere derivate e distribuire qualsiasi Feedback senza limitazioni. Inoltre, ci riteniamo liberi di utilizzare qualsiasi idea, concetto, conoscenza o tecnica contenuta in tale Feedback per qualsiasi scopo, inclusi, senza limitazioni, lo sviluppo, la produzione, il marketing e la vendita di prodotti e servizi incorporati in tale Feedback. Non ci assumiamo l'obbligo di considerare, utilizzare, restituire o conservare qualsiasi Feedback pervenuto. I Feedback che l'utente ci farà pervenire potrebbero venire trattati da noi in maniera confidenziale o meno, e non ci assumiamo alcun obbligo o responsabilità nei suoi confronti per l'utilizzo o la divulgazione di qualsiasi Feedback. L'utente non deve aspettarsi alcun tipo di compenso da parte nostra relativo al suo Feedback. [LF][LF]6.        Dichiarazione di non responsabilità.  L'UTENTE RICONOSCE CHE IL SOFTWARE E IL SERVIZIO SONO FORNITI \"\"COME SONO\"\", CON TUTTI I DIFETTI E GLI ERRORI E SENZA GARANZIA DI ALCUN TIPO. SNAPSHOT DECLINA TUTTE LE GARANZIE (ESPLICITE O IMPLICITE, ORIGINATE DA UNA LEGGE O ALTRIMENTI) RIGUARDO AL SOFTWARE E AL SERVIZIO E LE RISPETTIVE PRESTAZIONI O IDONEITÀ ALL'USO PREVISTO, INCLUSA, SENZA LIMITAZIONI, QUALSIASI GARANZIA IMPLICITA DI COMMERCIABILITÀ, DI IDONEITÀ PER FINALITÀ PARTICOLARI E DI NON VIOLAZIONE. FERMO RESTANDO CIÒ, SNAPSHOT NON GARANTISCE CHE IL SOFTWARE SIA PRIVO DI BUG, ERRORI, VIRUS O ALTRI DIFETTI. SNAPSHOT NON SI ASSUME ALCUN TIPO DI RESPONSABILITÀ PER L'UTILIZZO O L'INCAPACITÀ ALL'UTILIZZO DEL SOFTWARE O DI QUALSIASI SERVIZIO AL QUALE IL SOFTWARE DOVREBBE ACCEDERE, O PER LA PERDITA DI QUALSIASI DATO. PARTI DEL SOFTWARE INCLUDONO CONTENUTI DEGLI UTENTI CHE POTREBBERO ESSERE RITENUTI OSCENI OD OFFENSIVI. SNAPSHOT NON HA FACOLTÀ (A) DI RIVEDERE TUTTI I CONTENUTI DEGLI UTENTI PRIMA CHE SIANO INTEGRATI NEL SOFTWARE E (B) ASSICURARE UNA RAPIDA RIMOZIONE DI MATERIALE OPINABILE DOPO ESSERE STATO INTEGRATO NEL SOFTWARE. DI CONSEGUENZA, SNAPSHOT NON SI ASSUMERÀ ALCUNA RESPONSABILITÀ PER AZIONI O MANCATE AZIONI RIGUARDO A TRASMISSIONI, COMUNICAZIONI O CONTENUTI FORNITI DA UTENTI O DA TERZE PARTI. [LF][LF]7.        Risarcimento.  L'utente accetta di difendere, risarcire e mantenere indenne Snapshot, i suoi affiliati, collaboratori, e fornitori di servizi e ciascuno dei rispettivi membri, direttori, ufficiali, dipendenti e agenti (\"\"Parti di Snapshot\"\") da e contro tutte le rivendicazioni, i danni, i costi, le responsabilità e le spese (incluse, ma senza limitazioni, le spese legali ragionevoli) originate o relative all'utilizzo, o all'incapacità di utilizzo del Software o del Servizio da parte dell'utente. SE L'UTENTE È UN MINORE IDONEO, I SUOI GENITORI O TUTORI LEGALI DIFENDERANNO, RISARCIRANNO E MANTERRANNO INDENNE OGNI PARTE DI SNAPSHOT DA QUALSIVOGLIA RIVENDICAZIONE, DANNO, COSTO, LESIONE, PERDITA O SPESA CHE SIA ORIGINATA ESTERNAMENTE O IN RELAZIONE ALL'UTILIZZO O ALL'INCAPACITÀ DI UTILIZZO DEL SOFTWARE DA PARTE DELL'UTENTE.[LF][LF][LF]"
-
-msgctxt "Opening Screen/KEY_BSNAPSHOT_GAMES_INC_BACKER_BUILD_END2"
-msgid "8.        Limitation of Liability.  IN NO EVENT WILL ANY OF THE SNAPSHOT PARTIES BE LIABLE TO YOU OR ANY THIRD PARTY FOR ANY INDIRECT, CONSEQUENTIAL, SPECIAL, OR PUNITIVE DAMAGES, INCLUDING, BUT NOT LIMITED TO, LOSS OF USE, LOSS OF PROFITS, OR LOSS OF DATA, WHETHER IN AN ACTION IN CONTRACT, TORT (INCLUDING BUT NOT LIMITED TO NEGLIGENCE, WHETHER ACTIVE, PASSIVE, OR IMPUTED), OR OTHERWISE, ARISING OUT OF OR IN ANY WAY CONNECTED WITH THE SOFTWARE OR SERVICE, INCLUDING, WITHOUT LIMITATION, ANY DAMAGES CAUSED BY OR RESULTING FROM MISTAKES, OMISSIONS, INTERRUPTIONS, DELETION OF FILES OR E-MAIL, ERRORS, DEFECTS, VIRUSES, DELAYS IN OPERATION OR TRANSMISSION, OR ANY FAILURE OF PERFORMANCE, WHETHER OR NOT RESULTING FROM ACTS OF GOD, COMMUNICATIONS FAILURE, THEFT, DESTRUCTION, OR UNAUTHORIZED ACCESS TO SNAPSHOT’S RECORDS, PROGRAMS, OR SERVICES.  IN NO EVENT WILL THE AGGREGATE LIABILITY OF SNAPSHOT, WHETHER IN CONTRACT, WARRANTY, TORT (INCLUDING, BUT NOT LIMITED TO, NEGLIGENCE, WHETHER ACTIVE, PASSIVE, OR IMPUTED), PRODUCT LIABILITY, STRICT LIABILITY, OR OTHER THEORY, ARISING OUT OF OR RELATING TO THE SOFTWARE EXCEED THE PURCHASE PRICE THAT YOU PAID FOR A LICENSE TO THE SOFTWARE OR SERVICE.[LF][LF]9.        Arbitration; Governing Law.  [LF][LF]PLEASE READ THE FOLLOWING PARAGRAPH CAREFULLY BECAUSE IT REQUIRES YOU TO ARBITRATE DISPUTES AND LIMITS THE MANNER IN WHICH YOU CAN SEEK RELIEF FROM US.[LF][LF]You and Snapshot will arbitrate any dispute arising from this Agreement and your use of the Software, except that you and Snapshot are not required to arbitrate any dispute in which either party seeks equitable and other relief for the alleged unlawful use of copyrights, trademarks, trade names, logos, trade secrets, or patents. ARBITRATION PREVENTS YOU FROM SUING IN COURT OR FROM HAVING A JURY TRIAL. [LF]You and Snapshot will notify each other in writing of any dispute within thirty (30) days of when it arises. Notice to Snapshot will be sent to Snapshot Games, Inc., Attn: David Kaye, 145 S Fairfax Ave #200, Los Angeles CA 90036.  You and Snapshot further agree: to attempt informal resolution prior to any demand for arbitration; that any arbitration will occur in Los Angeles County, California; that arbitration will be conducted confidentially by a single arbitrator in accordance with the JAMS Streamlined Arbitration Rules; and that the state or federal courts in Los Angeles County, California have exclusive jurisdiction over any appeals of an arbitration award and over any suit between the parties not subject to arbitration. Other than class procedures and remedies discussed below, the arbitrator has the authority to grant any remedy that would otherwise be available in court.  Any dispute between the parties will be governed solely by both this Agreement and the laws of the State of California and applicable United States law, without giving effect to any conflict of laws principles that may provide for the application of the law of another jurisdiction.  The 1980 U.N. Convention on Contracts for the International Sale of Goods will not apply to this Agreement.  Whether the dispute is heard in arbitration or in court, you and Snapshot will not commence against the other a class action, class arbitration or other representative action or proceeding.[LF][LF]10.        Termination. Snapshot may terminate this Agreement at any time, with or without cause, immediately upon notice to you. Snapshot may also discontinue the Service at any time, in which case this Agreement will terminate automatically without notice. You may terminate this Agreement by ceasing use of the Software and Service, cancelling any account you may have with us to use the Service (if any), and deleting all copies of the Software in your possession or control. In the event of the termination of this Agreement for any reason: (a) the license granted to you in this Agreement will terminate; (b) you must immediately cease all use of the Software and Service and destroy or erase all copies of the Software in your possession or control; and (c) all sections of this Agreement except Section 2 will survive any such termination, together with the Terms of Service.[LF][LF][LF]11.        Import and Export Control Laws.  Snapshot is subject to regulation by agencies of the United States, such as the U.S. Department of Commerce, which prohibit export of certain products or technology to certain countries or nationals of certain countries.  You will not use or otherwise export or re-export the Software except as authorized by U.S. law and the laws of the jurisdiction in which the Software was obtained.  In particular, but without limitation, the Software may not be exported or re-exported (a) into (or to a nation or resident of) any U.S. embargoed countries or (b) to anyone on the U.S. Treasury Department’s list of Specially Designated Nationals or the U.S. Department of Commerce Denied Person’s List or Entity List.  [LF][LF]12.        General. (a) Severability. If any provision of this Agreement is held by a court of competent jurisdiction to be invalid, illegal, or unenforceable, the remainder of this Agreement will remain in full force and effect. (b) Assignment. You may not assign this Agreement or any of its rights under this Agreement without the prior written consent of Snapshot, and any attempted assignment without such consent will be void. Subject to the foregoing restriction, this Agreement will be fully binding upon, inure to the benefit of, and be enforceable by you, us, and each of your and our respective successors and assigns. (c) Entire Agreement. This Agreement, together with the Terms of Service, sets forth our entire agreement with respect to your use of the Software or Service and the subject matter hereof, and supersedes all prior and contemporaneous understandings and agreements whether written or oral.  No amendment, modification, or waiver of any of the provisions of this Agreement will be valid unless set forth in a written instrument signed by the party to be bound thereby. (d) Language. This Agreement is in the English language, which language will be controlling, even if interpretations of this Agreement in other languages are made."
-msgstr "8.        Limitazioni di responsabilità.  NESSUNA DELLE PARTI DI SNAPSHOT SARÀ IN ALCUN CASO RESPONSABILE NEI CONFRONTI DELL'UTENTE O DI TERZE PARTI PER DANNI INDIRETTI, CONSEQUENZIALI, SPECIALI O PUNITIVI, INCLUSI, MA NON LIMITATI ALLA PERDITA DI UTILIZZO, DI PROFITTI O DI DATI, DERIVANTI DA UN'AZIONE CONTRATTUALE, ILLECITA (INCLUSA, MA NON LIMITATA LA NEGLIGENZA ATTIVA, PASSIVA O IMPUTATA) O ALTRO, CHE EMERGA DA O COLLEGATA IN QUALSIASI MANIERA AL SOFTWARE O AL SERVIZIO, INCLUSI, SENZA LIMITAZIONI, DANNI CAUSATI O RISULTANTI DA SBAGLI, OMISSIONI, INTERRUZIONI, CANCELLAZIONI DI FILE O E-MAIL, ERRORI, DIFETTI, VIRUS, RITARDI DI FUNZIONAMENTO O TRASMISSIONE O ALTRE MANCATE PRESTAZIONI CHE RISULTINO O MENO DA FATALITÀ, MANCATA COMUNICAZIONE, FURTO, DISTRUZIONE O ACCESSO NON AUTORIZZATO AI REGISTRI, AI PROGRAMMI O AI SERVIZI DI SNAPSHOT. IN NESSUN CASO L'AGGREGAZIONE DI RESPONSABILITÀ DI SNAPSHOT, PER CONTRATTO, GARANZIA O ILLECITO (INCLUSA, MA NON LIMITATA LA NEGLIGENZA ATTIVA, PASSIVA O IMPUTATA), LA RESPONSABILITÀ DEL PRODOTTO, QUELLA OGGETTIVA O ALTRO CHE EMERGA DA O COLLEGATA IN QUALSIASI MANIERA AL SOFTWARE, POTRANNO ECCEDERE IL PREZZO DI ACQUISTO CHE L'UTENTE HA PAGATO PER UNA LICENZA DEL SOFTWARE O DEL SERVIZIO.[LF][LF]9.        Arbitrato; Legge applicabile.  [LF][LF]LEGGERE ATTENTAMENTE IL SEGUENTE PARAGRAFO POICHÉ RICHIEDE ALL'UTENTE DI ARBITRARE CONTROVERSIE E LIMITA LA MODALITÀ IN CUI PUÒ RIVENDICARE AGEVOLAZIONI DA PARTE NOSTRA.[LF][LF]L'utente e Snapshot accettano di arbitrare qualsiasi controversia derivante da questo Accordo e dall'utilizzo del Software da parte dell'utente, ma quest'ultimo e Snapshot non sono tenuti ad arbitrare alcuna controversia nel caso in cui entrambe le parti siano d'accordo nel cercare un rimedio giuridico alternativo per il presunto utilizzo illegale di copyright, marchi registrati, nomi commerciali, loghi, segreti commerciali o brevetti. L'ARBITRATO CONSENTE ALL'UTENTE DI EVITARE UNA CITAZIONE IN GIUDIZIO O UN PROCESSO CON GIURIA. [LF]L'utente e Snapshot accettano di avvisarsi l'un l'altro per iscritto riguardo a qualsiasi controversia entro trenta (30) giorni dall'insorgenza. Gli avvisi destinati a Snapshot devono essere inviati a Snapshot Games, Inc., Attn: David Kaye, 145 S. Fairfax Ave #200, Los Angeles CA 90036. L'utente e Snapshot accettano inoltre: di tentare una risoluzione informale prima di esigere un arbitrato; che qualsiasi arbitrato avrà luogo a Los Angeles County, California; che l'arbitrato verrà condotto in via confidenziale da un singolo arbitro in conformità al Regolamento di Arbitrato di JAMS; e che lo stato o le corti federali di Los Angeles County, California hanno la giurisdizione esclusiva su qualsiasi impugnazione di un lodo arbitrale e su qualsiasi querela tra le parti non soggette all'arbitrato. Al di fuori delle procedure di classe e dei rimedi trattati sotto, l'arbitro avrà l'autorità di garantire gli eventuali rimedi che sarebbero altrimenti disponibili in tribunale. Qualsiasi controversia tra le parti verrà regolata unicamente dal presente Accordo, dalle leggi dello Stato della California e dalla legge applicabile negli Stati Uniti, senza attuazione di eventuali clausole in conflitto con le disposizioni di legge che potrebbero prevedere l'applicazione della legge di un'altra giurisdizione. La Convenzione ONU del 1980 sui contratti di vendita internazionale di beni non sarà applicata al presente Accordo. Sia che la disputa venga trattata in arbitrato o in tribunale, l'utente e Snapshot concordano di non avviare verso la controparte alcuna class action, arbitrato di classe o procedura o azione rappresentativa.[LF][LF]10.        Risoluzione.  Snapshot può porre termine al presente Accordo in qualsiasi momento, con o senza motivo, immediatamente dietro notifica all'utente. Snapshot può anche interrompere il Servizio in qualsiasi momento, nel qual caso il presente Accordo verrà automaticamente terminato senza preavviso. L'utente può terminare l'Accordo smettendo di utilizzare il Software o il Servizio, eliminando qualsiasi account registrato con noi per l'utilizzo del Servizio (se presente) e cancellando tutte le copie del Software in proprio possesso o controllo. In caso di terminazione del presente Accordo per qualsiasi motivo: (a) la licenza garantita all'utente in questo Accordo terminerà: (b) l'utente deve immediatamente interrompere qualsiasi utilizzo del Software e del Servizio e distruggere tutte le copie del Software in proprio possesso o controllo; e (c) tutte le sezioni del presente Accordo eccetto la Sezione 2 e i Termini del Servizio che rimarranno in vigore nonostante la terminazione.[LF][LF][LF]11.        Leggi sul controllo delle importazioni ed esportazioni.  Snapshot è soggetta ai regolamenti di agenzie degli Stati Uniti, come il Dipartimento del Commercio degli Stati Uniti d'America, il quale vieta l'esportazione di certi prodotti o tecnologie a specifici paesi o a cittadini di essi. L'utente non farà uso, esporterà o riesporterà il Software se non autorizzato dalla legge degli Stati Uniti e dalle leggi del paese sotto la cui giurisdizione ha ottenuto il Software. In particolare, ma non limitatamente ad esso, il Software non può essere esportato o riesportato (a) in paesi soggetti a embargo da parte degli Stati Uniti (o verso nazioni o residenti di tali paesi) o (b) a individui inseriti nella lista dei soggetti specificamente segnalati (Specially Designated Nationals) del Dipartimento del tesoro degli Stati Uniti o nella lista delle persone bandite (Denied Person’s List) del Dipartimento del Commercio degli Stati Uniti o nella lista di esclusione delle entità (Entity List).  [LF][LF]12.        Generale. (a) Separabilità. Se qualsiasi clausola del presente Accordo viene ritenuta invalida, illegale o non applicabile da un giudice competente, la parte restante di questo Accordo rimarrà in pieno vigore ed effetto. (b) Assegnazione. L'utente non può cedere questo Accordo o alcuno dei propri diritti ai sensi del presente Accordo senza il previo consenso scritto da parte di Snapshot: qualsiasi tentativo di delega senza tale consenso è da considerarsi nullo. Compatibilmente con le precedenti restrizioni, questo Accordo sarà totalmente vincolante e applicabile per l'utente, per noi e per i rispettivi successori e cessionari e andrà a loro beneficio.(c) Accordo completo. Questo Accordo, assieme ai Termini del Servizio, definisce l'intero contenuto del nostro accordo riguardo all'utilizzo del Software e del Servizio da parte dell'utente e sostituisce tutti gli accordi e le intese presenti e precedenti, sia scritte che orali. Nessun emendamento, modifica o rinuncia di qualsiasi punto del presente Accordo sarà valido, finché non messo per iscritto e firmato dalla parte vincolata. (d) Lingua. Il presente Accordo è redatto in lingua inglese, che sarà quella di riferimento, anche in caso di fraintendimenti del presente Accordo in altre lingue."
-
-msgctxt "Opening Screen/KEY_CONTINUE_GAME"
-msgid "CONTINUE"
-msgstr "CONTINUA"
-
-msgctxt "Opening Screen/KEY_CONTINUE_GAME_DESCRIPTION"
-msgid "Continue existing game"
-msgstr "Continua una partita esistente"
-
-msgctxt "Opening Screen/KEY_GAME_GUIDE"
-msgid "GAME GUIDE"
-msgstr "GUIDA DI GIOCO"
-
-msgctxt "Opening Screen/KEY_INSTRUCTIONS_AND_GAME_MECHANICS"
-msgid "Instructions and game mechanics"
-msgstr "Istruzioni e meccaniche di gioco"
-
-msgctxt "Opening Screen/KEY_LICENSE_AGREEMENT"
-msgid "License Agreement"
-msgstr "Accordo di licenza"
-
-msgctxt "Opening Screen/KEY_PLAY_A_FIXED_MAP_SCENARIO"
-msgid "Play a fixed map scenario"
-msgstr "Gioca uno scenario con mappa fissa"
-
-msgctxt "Opening Screen/KEY_PLAY_A_RANDOM_GENERATED_MAP"
-msgid "Play a random generated map"
-msgstr "Gioca una mappa generata casualmente"
-
-msgctxt "Opening Screen/KEY_PLAY_FORT_FREIHEIT"
-msgid "Play Fort Freiheit"
-msgstr "Gioca Forte Freiheit"
-
-msgctxt "Opening Screen/KEY_PLAY_RANDOM_MAP"
-msgid "Play Random Map"
-msgstr "Gioca una mappa casuale"
-
-msgctxt "Opening Screen/KEY_PLAY_STRATEGY_GAME"
-msgid "Play strategy game"
-msgstr "Gioca una partita strategica"
-
-msgctxt "Opening Screen/KEY_MENU_DISCLAIMER"
-msgid "not used"
-msgstr "non utilizzato"
-
-msgctxt "Opening Screen/KEY_PLAY_DEMO"
-msgid "PLAY DEMO"
-msgstr "GIOCA DEMO"
-
-msgctxt "Opening Screen/KEY_DEMO_TEXT"
-msgid "Experience a night time tactical, fighting against an alien incursion in a new Jericho power facility.[LF][LF][LF]Use the cover of the building to aboid alien artillery - or use your Scarab AFV for protection."
-msgstr "Prova l'esperienza tattica notturna, combattendo contro un'incursione aliena in una struttura di Generazione di energia di Nuova Gerico.[LF][LF]Utilizza la copertura offerta dall'edificio per sfuggire all'artiglieria aliena, o usa il corazzato Scarabeo per proteggerti."
-
-msgctxt "Opening Screen/KEY_CREDITS"
-msgid "CREDITS"
-msgstr "RICONOSCIMENTI"
-
-msgctxt "Opening Screen/KEY_SKIP"
-msgid "Skip: ESC, :RMB:, or :B:"
-msgstr "Salta: ESC, :RMB: o :B:"
-
-msgctxt "Opening Screen/KEY_LOADING"
-msgid "Loading..."
-msgstr "Caricamento in corso..."
-
-msgctxt "Opening Screen/KEY_START_GAME"
-msgid "START GAME"
-msgstr "INIZIA PARTITA"
-
-msgctxt "Opening Screen/KEY_PHOENIX_POINT"
-msgid "PHOENIX POINT"
-msgstr "PHOENIX POINT"
-
-msgctxt "Opening Screen/KEY_DLC_COMING_SOON"
-msgid "COMING SOON"
-msgstr "PROSSIMAMENTE"
-
-msgctxt "Opening Screen/KEY_DLC_ACTIVATE"
-msgid "ACTIVATE DLC"
-msgstr "ATTIVA DLC"
-
-msgctxt "Opening Screen/KEY_DLC_LIVING_WEAPONS"
-msgid "LIVING WEAPONS"
-msgstr "ARMI VIVENTI"
-
-msgctxt "Opening Screen/KEY_DLC_BLOOD_AND_TITANIUM"
-msgid "BLOOD AND TITANIUM"
-msgstr "SANGUE e TITANIO"
-
-msgctxt "Opening Screen/KEY_DLC_LEGACY_ANCIENTS"
-msgid "LEGACY OF THE ANCIENTS"
-msgstr "EREDITÀ degli ANTICHI"
-
-msgctxt "Opening Screen/KEY_DLC_FESTERING_SKIES"
-msgid "FESTERING SKIES"
-msgstr "CIELI INFETTI"
-
-msgctxt "Opening Screen/KEY_BSNAPSHOT_GAMES_INC_BACKER_BUILD_PP1"
-msgid "PRIVACY POLICY [LF]Last updated December 09, 2020 [LF][LF][LF]Thank you for choosing to be part of our community at Snapshot Games Inc. (“Company”, “we”, “us”, or “our”). We are committed to protecting your personal information and your right to privacy. If you have any questions or concerns about our policy, or our practices with regards to your personal information, please contact us at contact@snapshotgames.com. [LF][LF]In this privacy policy, we seek to explain to you in the clearest way possible what information we collect, how we use it, and what rights you have in relation to it. [LF][LF]This privacy policy applies to all information collected in our games (such as Phoenix Point: Year One Edition) which we refer to collectively in this privacy policy as “the Games.”  Any related services, such as our websites, sales, marketing or events may be covered by separate policies [LF][LF]Please read this privacy policy carefully as it will help you make informed decisions about sharing your personal information with us. [LF][LF]TABLE OF CONTENTS [LF]1. WHAT INFORMATION DO WE COLLECT?[LF]2. HOW DO WE USE YOUR INFORMATION?[LF]3. WILL YOUR INFORMATION BE SHARED WITH ANYONE? [LF]4. IS YOUR INFORMATION TRANSFERRED INTERNATIONALLY? [LF]5. HOW LONG DO WE KEEP YOUR INFORMATION? [LF]6. DO WE COLLECT INFORMATION FROM MINORS?[LF]7. WHAT ARE YOUR PRIVACY RIGHTS?[LF]8. CONTROLS FOR DO-NOT-TRACK FEATURES [LF]9. DO CALIFORNIA RESIDENTS HAVE SPECIFIC PRIVACY RIGHTS? [LF]10. DO WE MAKE UPDATES TO THIS POLICY?[LF]11. HOW CAN YOU CONTACT US ABOUT THIS POLICY?[LF][LF][LF]1. WHAT INFORMATION DO WE COLLECT? [LF][LF]Anonymous Gameplay Data [LF]In Short: We collect data regarding the decisions you make and actions you take in our game. These data are anonymized and do not contain any personally identifiable information.  [LF][LF][LF]Personal Information you Voluntarily Disclose:[LF]In Short: If you choose to share it with us, we may collect your email address, name, and potentially other information such as your user ID for various services on which we merchandise our Games. We do not collect personal information automatically in our games. Instead, you will be able to opt in and share such information with us, only if you choose.[LF][LF]All personal information that you provide to us must be true, complete and accurate, and you must notify us of any changes to such personal information. [LF][LF]Information automatically collected [LF]In Short: When you visit our website and/or other online services we operate, including marketing, sales, and events, some information – such as IP address and/or browser and device characteristics – is collected automatically..[LF]We automatically collect certain information when you visit, use or navigate our web services. This information does not reveal your specific identity (like your name or contact information) but may include device and usage information, such as your IP address, browser and device characteristics, operating system, language preferences, referring URLs, device name, country, location, information about how and when you use our Games and web services and other technical information. This information is primarily needed to maintain the security and operation of our Games, and for our internal analytics and reporting purposes. Like many businesses, we also collect information through cookies and similar technologies. [LF][LF][LF]2. HOW DO WE USE YOUR INFORMATION? [LF]In Short: We process your information for purposes based on legitimate business interests, the fulfillment of our contract with you, compliance with our legal obligations, and/or your consent. [LF]We use anonymous information about your experience with our Games to improve our Games and for statistical analysis related to our business and customer service.[LF][LF]We use personal information you share with us via our Games and web services for a variety of business purposes described below. We process your personal information for these purposes in reliance on our legitimate business interests, in order to enter into or perform a contract with you, with your consent, and/or for compliance with our legal obligations. We indicate the specific processing grounds we rely on next to each purpose listed below. [LF][LF]We may use the information we collect or receive: [LF][LF]To send you marketing and promotional communications. We and/or our third-party marketing partners may use the personal information you send to us for our marketing purposes, if this is in accordance with your marketing preferences. You can opt-out of our marketing emails at any time (see the \"\" WHAT ARE YOUR PRIVACY RIGHTS \"\" below). [LF][LF]To send administrative information to you. We may use your personal information to send you product, service and new feature information and/or information about changes to our terms, conditions, and policies. [LF][LF][LF][LF]Deliver targeted advertising to you. We may use your information to develop and display content and advertising (and work with third parties who do so) tailored to your interests and/or location and to measure its effectiveness. [LF][LF]Request Feedback. We may use your information to request feedback and to contact you about your use of our Games and other services. [LF][LF]For other Business Purposes. We may use your information for other Business Purposes, such as data analysis, identifying usage trends, determining the effectiveness of our promotional campaigns and to evaluate and improve our Games and other services, products, marketing and your experience. We may use and store this information in aggregated and anonymized form so that it is not associated with individual end users and does not include personal information. We will not use identifiable personal information without your consent. [LF][LF]3. WILL YOUR INFORMATION BE SHARED WITH ANYONE? [LF]In Short: We only share information with your consent, to comply with laws, to provide you with services, to protect your rights, or to fulfill business obligations. [LF][LF]We may process or share data based on the following legal basis:[LF]Consent: We may process your data if you have given us specific consent to use your personal information in a specific purpose.[LF][LF]Legitimate Interests: We may process your data when it is reasonably necessary to achieve our legitimate business interests.[LF][LF]Performance of a Contract: Where we have entered into a contract with you, we may process your personal information to fulfill the terms of our contract.[LF][LF]Legal Obligations: We may disclose your information where we are legally required to do so in order to comply with applicable law, governmental requests, a judicial proceeding, court order, or legal process, such as in response to a court order or a subpoena (including in response to public authorities to meet national security or law enforcement requirements).[LF][LF][LF]Vital Interests: We may disclose your information where we believe it is necessary to investigate, prevent, or take action regarding potential violations of our policies, suspected fraud, situations involving potential threats to the safety of any person and illegal activities, or as evidence in litigation in which we are involved.[LF]More specifically, we may need to process your data or share your personal information in the following situations: [LF]Vendors, Consultants and Other Third-Party Service Providers. We may share your data with third party vendors, service providers, contractors or agents who perform services for us or on our behalf and require access to such information to do that work. Examples include: payment processing, data analysis, email delivery, hosting services, customer service and marketing efforts. We may allow selected third parties to use tracking technology in our Games or related web services , which will enable them to collect data about how you interact with the such Games and services over time. This information may be used to, among other things, analyze and track data, determine the popularity of certain content and better understand online activity. Unless described in this Policy, we do not share, sell, rent or trade any of your information with third parties for their promotional purposes. [LF][LF]Business Transfers. We may share or transfer your information in connection with, or during negotiations of, any merger, sale of company assets, financing, or acquisition of all or a portion of our business to another company. [LF][LF]4. IS YOUR INFORMATION TRANSFERRED INTERNATIONALLY? [LF]In Short: We may transfer, store, and process anonymous data and information you voluntarily share with us in countries other than your own. [LF][LF]If you are a resident in the European Economic Area, then these countries may not have data protection or other laws as comprehensive as those in your country. We will however take all necessary measures to protect your personal information in accordance with this privacy policy and applicable law. [LF][LF]5. HOW LONG DO WE KEEP YOUR INFORMATION? [LF]In Short: We keep your anonymous and voluntarily shared personal information for as long as necessary to fulfill the purposes outlined in this privacy policy unless otherwise required by law. [LF]We will only keep your personal information for as long as it is necessary for the purposes set out in this privacy policy, unless a longer retention period is required or permitted by law (such as tax, accounting or other legal requirements). [LF]When we have no ongoing legitimate business need to process your personal information, we will either delete or anonymize it, or, if this is not possible (for example, because your personal information has been stored in backup archives), then we will securely store your personal information and isolate it from any further processing until deletion is possible. [LF][LF]6. DO WE COLLECT INFORMATION FROM MINORS? [LF]In Short: We do not knowingly collect data from or market to children under 18 years of age. [LF]We do not knowingly solicit data from or market to children under 18 years of age. By using our Games and web services, you represent that you are at least 18 or that you are the parent or guardian of such a minor and consent to such minor dependent’s use of the Games. If we learn that personal information from users less than 18 years of age has been collected, we will deactivate the account and take reasonable measures to promptly delete such data from our records. If you become aware of any data we have collected from children under age 18, please contact us at contact@snapshotgames.com. "
-msgstr "INFORMATIVA SULLA PRIVACY [LF]Ultimo aggiornamento 9 dicembre 2020 [LF][LF][LF]Grazie per aver scelto di far parte della nostra comunità di Snapshot Games Inc. (\"\"azienda\"\", \"\"noi\"\", \"\"ci\"\" o \"\"nostro\"\"). Ci impegniamo a proteggere i dati dell'utente e il suo diritto alla privacy. In caso di domande o dubbi sulla nostra politica o sulle nostre pratiche in merito ai dati personali, contattateci all'indirizzo contact@snapshotgames.com. [LF][LF]Nella presente Informativa sulla privacy, cerchiamo di spiegare, nel modo più chiaro possibile, quali dati raccogliamo, come li usiamo e quali sono i diritti dell'utente in relazione agli stessi. [LF][LF]Questa Informativa sulla privacy si applica a tutti i dati raccolti nei nostri giochi (come Phoenix Point: Year One Edition), definiti collettivamente \"\"giochi\"\" nel presente documento. Gli altri servizi correlati, come i nostri siti Web, di vendita, marketing o eventi, potrebbero essere regolati da altre politiche specifiche. [LF][LF]Si prega di leggere attentamente la presente Informativa sulla privacy poiché sarà utile per prendere decisioni consapevoli sulla condivisione dei dati personali con noi. [LF][LF]INDICE GENERALE [LF]1. QUALI DATI VENGONO RACCOLTI? [LF]2. COME UTILIZZIAMO I DATI DELL'UTENTE? [LF]3. CON CHI VENGONO CONDIVISI I DATI DELL'UTENTE? [LF]4. I DATI DELL'UTENTE VENGONO TRASFERITI A LIVELLO INTERNAZIONALE? [LF]5. PER QUANTO TEMPO CONSERVIAMO I DATI DELL'UTENTE? [LF]6. RACCOGLIAMO DATI RELATIVI A MINORI? [LF]7. QUALI SONO I DIRITTI DELL'UTENTE SULLA PRIVACY? [LF]8. FUNZIONI DI NON RILEVAMENTO [LF]9. I RESIDENTI IN CALIFORNIA HANNO DIRITTI SPECIFICI SULLA PRIVACY? [LF]10. QUESTA INFORMATIVA VIENE AGGIORNATA? [LF]11. COME CONTATTARCI SU QUESTA POLITICA?  [LF][LF][LF][LF]1. QUALI DATI VENGONO RACCOLTI? [LF][LF]Dati di gioco anonimi [LF]In breve Raccogliamo dati riguardanti le decisioni e le azioni intraprese dagli utenti nel nostro gioco. Tali dati sono anonimi e non contengono informazioni personali identificabili. [LF][LF][LF]Dati personali divulgati volontariamente dall'utente: [LF]In breve Se l'utente sceglie di condividerli, potremmo raccogliere l'indirizzo e-mail, il nome e potenzialmente altre informazioni, come l'ID utente, per vari servizi usati per fornire i nostri giochi. I nostri giochi non raccolgono automaticamente i dati personali. Saranno gli utenti a poter accettare o meno di condividere tali informazioni con noi. [LF][LF]Tutti i dati personali che ci vengono forniti devono essere veritieri, completi e accurati e l'utente è tenuto a informarci di eventuali modifiche a tali informazioni. [LF][LF]Dati raccolti automaticamente [LF]In breve Quando l'utente visita il nostro sito Web e/o altri servizi online, inclusi i servizi di marketing, vendite ed eventi, alcune informazioni, come l'indirizzo IP e/o le caratteristiche del browser e del dispositivo, vengono raccolte automaticamente. [LF]Alcuni dati vengono raccolti automaticamente quando l'utente visita, utilizza o naviga nei nostri servizi Web. Tali dati non rivelano l'identità specifica (come il nome o il recapito) ma possono includere dettagli sul dispositivo e sull'utilizzo, come indirizzo IP, browser e caratteristiche del dispositivo, sistema operativo, preferenza linguistica, URL di riferimento, nome del dispositivo, Paese, posizione, informazioni su come e quando vengono utilizzati i nostri giochi e servizi web, e altri dati tecnici. Queste informazioni sono principalmente necessarie per mantenere la sicurezza e il funzionamento dei nostri giochi e a scopo interno di analisi e reportistica. Come molte aziende, raccogliamo informazioni anche tramite cookie e tecnologie simili. [LF][LF][LF]2. COME UTILIZZIAMO I DATI DELL'UTENTE? [LF]In breve I dati dell'utente vengono elaborati per scopi basati su legittimi interessi commerciali, per l'adempimento del nostro contratto con l'utente, per il rispetto dei nostri obblighi legali e/o il consenso dell'utente. [LF]Utilizziamo dati anonimi sull'esperienza dell'utente con i nostri giochi, al fine di migliorarli, e per analisi statistiche relative alla nostra attività e al servizio clienti. [LF][LF]I dati personali che l'utente condivide con noi tramite i nostri giochi e servizi Web vengono usati per una serie di scopi commerciali descritti di seguito. I dati personali vengono trattati per questi scopi, in virtù dei nostri legittimi interessi commerciali, al fine di stipulare o eseguire un contratto con l'utente e con il suo consenso e/o per conformità con i nostri obblighi legali. I motivi specifici di elaborazione, ai quali facciamo affidamento, sono indicati accanto a ciascuna finalità elencata di seguito. [LF][LF]I dati personali raccolti o ricevuti potrebbero essere utilizzati per: [LF][LF]Inviare comunicazioni di marketing e promozionali. Noi e/o i nostri partner di marketing potremmo utilizzare i dati personali che ci vengono inviati a scopo di marketing, se ciò è conforme con le preferenze di marketing indicate dall'utente. L'utente può disattivare le nostre e-mail di marketing in qualsiasi momento (consultare \"\"QUALI SONO I DIRITTI DELL'UTENTE SULLA PRIVACY?\"\" qui di seguito). [LF][LF]Per inviare all'utente informazioni amministrative. Possiamo utilizzare i dati personali dell'utente per inviare informazioni su prodotti, servizi e nuove funzionalità e/o informazioni su modifiche ai nostri termini, condizioni e politiche. [LF][LF][LF][LF]Fornire pubblicità mirata. Possiamo utilizzare i dati dell'utente per sviluppare e visualizzare contenuti e pubblicità (e collaborare con terze parti che svolgono tale attività) su misura in base agli interessi e/o alla posizione geografica dell'utente e per misurarne l'efficacia. [LF][LF]Richiesta di feedback. Potremmo utilizzare i dati degli utenti per richiedere feedback e per contattarli in merito all'utilizzo dei nostri giochi e degli altri servizi. [LF][LF]Per altri scopi aziendali. Potremmo utilizzare i dati del giocatore per altri scopi commerciali, come l'analisi dei dati, l'identificazione delle tendenze di utilizzo, la determinazione dell'efficacia delle nostre campagne promozionali e per valutare e migliorare i nostri giochi e altri servizi, prodotti, marketing e l'esperienza dell'utente. Potremmo utilizzare e memorizzare queste informazioni in forma aggregata e anonima, affinché non siano associate a singoli utenti finali e non includano informazioni personali. Non useremo informazioni personali identificabili senza il consenso dell'utente. [LF][LF]3. CON CHI VENGONO CONDIVISI I DATI DELL'UTENTE? [LF]In breve Condividiamo i dati solamente previo consenso dell'utente, nel rispetto delle leggi, per fornire servizi, proteggere i diritti o adempiere agli obblighi commerciali. [LF][LF]Potremmo elaborare o condividere dati secondo questa base giuridica: [LF]Consenso. Potremmo trattare i dati dell'utente se lo stesso ci ha dato il consenso a utilizzare le sue informazioni personali per uno scopo specifico. [LF][LF]Interessi legittimi. Potremmo trattare i dati dell'utente quando è ragionevolmente necessario, ai fini dei nostri legittimi interessi commerciali. [LF][LF]Esecuzione del contratto. Laddove abbiamo stipulato un contratto con l'utente, potremmo trattare le informazioni personali per adempiere ai termini del nostro contratto. [LF][LF]Obblighi legali. I dati dell'utente potrebbero essere divulgati laddove siamo legalmente obbligati a farlo per conformarci alla legge applicabile, per richieste governative, procedimento giudiziario, ordinanza del tribunale o procedimento legale, ad esempio in risposta a un'ordinanza del tribunale o a una citazione (anche in risposta alle autorità pubbliche per soddisfare i requisiti di sicurezza nazionale o di applicazione della legge). [LF][LF][LF]Bene pubblico. Potremmo divulgare i dati dell'utente laddove riteniamo sia necessario indagare, prevenire o intraprendere azioni in merito a potenziali violazioni delle nostre politiche, sospette frodi, situazioni che comportano potenziali minacce alla sicurezza di qualsiasi persona e attività illegali, o come prova in eventuali processi in cui siamo coinvolti. [LF]Più specificamente, potremmo aver bisogno di elaborare i dati dell'utente o condividere i dati personali nelle seguenti situazioni: [LF]Rivenditori, consulenti e altri fornitori di servizi di terze parti. Potremmo condividere i dati dell'utente con altri rivenditori, fornitori di servizi, appaltatori o agenti che eseguono servizi per noi o per nostro conto e richiedono l'accesso a tali informazioni per svolgere tale lavoro. Gli esempi includono: elaborazione dei pagamenti, analisi dei dati, consegna della posta elettronica, servizi di hosting, assistenza clienti e iniziative di marketing. Potremmo consentire a terze parti selezionate di utilizzare la tecnologia di tracciamento nei nostri giochi o servizi web correlati, il che consentirà loro di raccogliere dati sull'interazione dell'utente con tali giochi e servizi in un periodo di tempo. Queste informazioni possono essere utilizzate, tra le altre cose, per analizzare e tenere traccia dei dati, determinare la popolarità di determinati contenuti e comprendere meglio l'attività online. A meno che non sia descritto nella presente Informativa, non condividiamo, vendiamo, affittiamo o scambiamo i dati dell'utente con terze parti per i loro scopi promozionali. [LF][LF]Trasferimenti aziendali. Potremmo condividere o trasferire i dati dell'utente in relazione o durante le negoziazioni di qualsiasi fusione, vendita di beni aziendali, finanziamento o acquisizione di tutta o parte della nostra attività a un'altra società. [LF][LF]4. I DATI DELL'UTENTE VENGONO TRASFERITI A LIVELLO INTERNAZIONALE? [LF]In breve Potremmo trasferire, archiviare ed elaborare negli altri Paesi dati e informazioni anonimi che l'utente condivide volontariamente con noi. [LF][LF]Se risiede nello Spazio Economico Europeo, questi Paesi potrebbero non avere la protezione dei dati o leggi esaurienti come quelle del Paese di residenza. Tuttavia, adotteremo tutte le misure necessarie per proteggere i dati personali in conformità con la presente Informativa sulla privacy e la legge applicabile. [LF][LF]5. PER QUANTO TEMPO CONSERVIAMO I DATI DELL'UTENTE? [LF]In breve Conserviamo i dati personali anonimi e condivisi volontariamente per tutto il tempo necessario a soddisfare le finalità delineate nella presente informativa sulla privacy, salvo diversamente richiesto dalla legge. [LF]Conserveremo i dati personali solo per il tempo necessario per gli scopi indicati nella presente Informativa sulla privacy, a meno che non sia richiesto o consentito dalla legge un periodo di conservazione più lungo (per esempio per requisiti fiscali, contabili o altri requisiti legali). [LF]Quando non abbiamo alcuna legittima esigenza aziendale in corso per trattare i dati personali dell'utente, li elimineremo o renderemo anonimi oppure, se ciò non è possibile (ad esempio, perché i dati personali sono salvati in archivi di backup), li archivieremo in modo sicuro e li isoleremo da qualsiasi ulteriore elaborazione finché potranno essere cancellati. [LF][LF]6. RACCOGLIAMO DATI RELATIVI A MINORI? [LF]In breve Non raccogliamo né commercializziamo consapevolmente i dati degli utenti minori di 18 anni. [LF]Non richiediamo consapevolmente dati né svolgiamo attività di marketing mirata a utenti minori di 18 anni. Utilizzando i nostri giochi e servizi web, l'utente dichiara di avere almeno 18 anni o di essere il genitore o tutore di tale minorenne e acconsentire all'uso dei giochi da parte del minore dipendente. Qualora venissimo a conoscenza di aver raccolto dati personali da utenti di età inferiore ai 18 anni, disattiveremo l'account e adotteremo misure ragionevoli per eliminare tempestivamente tali dati dai nostri archivi. Se l'utente dovesse venire a conoscenza di tale attività, è pregato di contattarci all'indirizzo contact@snapshotgames.com.[LF]"
-
-msgctxt "Opening Screen/KEY_BSNAPSHOT_GAMES_INC_BACKER_BUILD_PP2"
-msgid "7. WHAT ARE YOUR PRIVACY RIGHTS?  [LF]In Short:  In some regions, such as the European Economic Area, you have rights that allow you greater access to and control over your personal information. You may review, change, or terminate your account at any time.   [LF]In some regions (like the European Economic Area), you have certain rights under applicable data protection laws. These may include the right (i) to request access and obtain a copy of your personal information, (ii) to request rectification or erasure; (iii) to restrict the processing of your personal information; and (iv) if applicable, to data portability. In certain circumstances, you may also have the right to object to the processing of your personal information. To make such a request, please use the contact details   provided below. We will consider and act upon any request in accordance with applicable data protection laws. [LF]If we are relying on your consent to process your personal information, you have the right to withdraw your consent at any time. Please note however that this will not affect the lawfulness of the processing before its withdrawal.   [LF]If you are resident in the European Economic Area and you believe we are unlawfully processing your personal information, you also have the right to complain to your local data protection supervisory authority. You can find their contact details here: http://ec.europa.eu/justice/data-protection/bodies/authorities/index_en.htm.   [LF] [LF]Account Information  [LF]If you would at any time like to review or change the information in your account or terminate your account, you can: [LF]    ■  Contact us using the contact information provided.  [LF]Upon your request to terminate your account, we will deactivate or delete your account and information from our active databases. However, some information may be retained in our files to prevent fraud, troubleshoot problems, assist with any investigations, enforce our Terms of Use and/or comply with legal requirements.     [LF]Cookies and similar technologies: Most Web browsers are set to accept cookies by default. If you prefer, you can usually choose to set your browser to remove cookies and to reject cookies. If you choose to remove cookies or reject cookies, this could affect certain features or services of our Services. To opt-out of interest-based advertising by advertisers on our Services visit http://www.aboutads.info/choices/  .       [LF]Opting out of email marketing: You can unsubscribe from our marketing email list at any time by clicking on the unsubscribe link in the emails that we send or by contacting us using the details provided below. You will then be removed from the marketing email list – however, we will still need to send you service-related emails that are necessary for the administration and use of your account. To otherwise opt-out, you may: [LF]    ■  Contact us using the contact information provided.    [LF][LF]8. CONTROLS FOR DO-NOT-TRACK FEATURES  [LF]Most web browsers and some mobile operating systems and mobile applications include a Do-Not-Track (“DNT”) feature or setting you can activate to signal your privacy preference not to have data about your online browsing activities monitored and collected. No uniform technology standard for recognizing and implementing DNT signals has been finalized. As such, we do not currently respond to DNT browser signals or any other mechanism that automatically communicates your choice not to be tracked online. If a standard for online tracking is adopted that we must follow in the future, we will inform you about that practice in a revised version of this privacy policy   .  [LF][LF]9. DO CALIFORNIA RESIDENTS HAVE SPECIFIC PRIVACY RIGHTS?  [LF]In Short:  Yes, if you are a resident of California, you are granted specific rights regarding access to your personal information.   [LF]California Civil Code Section 1798.83, also known as the “Shine The Light” law, permits our users who are California residents to request and obtain from us, once a year and free of charge, information about categories of personal information (if any) we disclosed to third parties for direct marketing purposes and the names and addresses of all third parties with which we shared personal information in the immediately preceding calendar year. If you are a California resident and would like to make such a request, please submit your request in writing to us using the contact information provided below. [LF]If you are under 18 years of age, reside in California, and have a registered account with the Services, you have the right to request removal of unwanted data that you publicly post on the Services. To request removal of such data, please contact us using the contact information provided below, and include the email address associated with your account and a statement that you reside in California. We will make sure the data is not publicly displayed on the Services, but please be aware that the data may not be completely or comprehensively removed from our systems.[LF][LF]10. DO WE MAKE UPDATES TO THIS POLICY?  [LF]In Short:  Yes, we will update this policy as necessary to stay compliant with relevant laws.  [LF]We may update this privacy policy from time to time. The updated version will be indicated by an updated “Revised” date and the updated version will be effective as soon as it is accessible. If we make material changes to this privacy policy, we may notify you either by prominently posting a notice of such changes or by directly sending you a notification. We encourage you to review this privacy policy frequently to be informed of how we are protecting your information.  [LF][LF]11. HOW CAN YOU CONTACT US ABOUT THIS POLICY?  [LF]If you have questions or comments about this policy, you may email us at contact@snapshotgames.com or by post to:[LF]Snapshot Games Inc.    [LF]145 S Fairfax Ave #200 [LF]Los Angeles, CA 90036    [LF]United States        [LF][LF] [LF]How can you review, update, or delete the data we collect from you?[LF]Based on the laws of some countries, you may have the right to request access to the personal information we collect from you, change that information, or delete it in some circumstances. To request to review, update, or delete your personal information, please submit a request form by filling the form here: https://app.termly.io/notify/1a128fcc-1960-429c-b87d-250e4fe413aa. We will respond to your request within 30 days.[LF]"
-msgstr "7. QUALI SONO I TUOI DIRITTI SULLA PRIVACY? [LF]In breve: in alcune regioni, come lo Spazio economico europeo, hai diritti che ti consentono un maggiore accesso e controllo sulle tue informazioni personali. Puoi rivedere, modificare o chiudere il tuo account in qualsiasi momento. In alcune regioni (come lo Spazio economico europeo), hai determinati diritti ai sensi delle leggi sulla protezione dei dati applicabili. Questi possono includere il diritto (i) di richiedere l'accesso e ottenere una copia delle informazioni personali, (ii) di richiedere la rettifica o la cancellazione; (iii) limitare il trattamento dei dati personali dell'utente; e (iv) se applicabile, alla portabilità dei dati. In determinate circostanze, potresti anche avere il diritto di opporti al trattamento dei tuoi dati personali. Per effettuare tale richiesta, si prega di utilizzare i dettagli di contatto forniti di seguito. Prenderemo in considerazione e risponderemo a qualsiasi richiesta in conformità con le leggi applicabili sulla protezione dei dati. Se facciamo affidamento sul tuo consenso per elaborare le tue informazioni personali, hai il diritto di revocare il tuo consenso in qualsiasi momento. Si noti tuttavia che ciò non influirà sulla liceità del trattamento prima del suo ritiro. Se risiedi nello Spazio economico europeo e ritieni che stiamo trattando illegalmente le tue informazioni personali, hai anche il diritto di presentare un reclamo all'autorità di controllo della protezione dei dati locale. Puoi trovare i loro dettagli di contatto qui: http://ec.europa.eu/justice/data-protection/bodies/authorities/index_en.htm. Informazioni sull'account Se si desidera in qualsiasi momento rivedere o modificare le informazioni nel proprio account o chiudere il proprio account, è possibile: [LF]■ Contattateci utilizzando le informazioni di contatto fornite. Su tua richiesta di chiusura del tuo account, disattiveremo o elimineremo il tuo account e le informazioni dai nostri database attivi. Tuttavia, alcune informazioni potrebbero essere conservate nei nostri file per prevenire frodi, risolvere problemi, fornire assistenza per eventuali indagini, applicare i nostri Termini di utilizzo e / o rispettare i requisiti legali. Cookie e tecnologie simili: la maggior parte dei browser Web è impostata per accettare i cookie per impostazione predefinita. Se preferisci, di solito puoi scegliere di impostare il tuo browser per rimuovere i cookie e rifiutare i cookie. Se scegli di rimuovere i cookie o di rifiutarli, ciò potrebbe influire su determinate funzionalità o servizi dei nostri Servizi. Per annullare la pubblicità basata sugli interessi degli inserzionisti sui nostri servizi, visitare http://www.aboutads.info/choices/. Annullamento dell'email marketing: puoi annullare l'iscrizione alla nostra lista di email marketing in qualsiasi momento facendo clic sul link di annullamento dell'iscrizione nelle e-mail che inviamo o contattandoci utilizzando i dettagli forniti di seguito. Sarai quindi rimosso dall'elenco delle e-mail di marketing, tuttavia dovremo comunque inviarti e-mail relative al servizio necessarie per l'amministrazione e l'uso del tuo account. In caso contrario, è possibile: [LF]■ Contattaci utilizzando le informazioni di contatto fornite. [LF]8. CONTROLLI PER LE FUNZIONALITÀ DI NON TRACCIA [LF]La maggior parte dei browser Web e alcuni sistemi operativi mobili e applicazioni mobili includono una funzionalità Do-Not-Track (“DNT”) o un'impostazione che puoi attivare per segnalare la tua preferenza sulla privacy per non avere dati sulla tua attività di navigazione online monitorate e raccolte. Non è stato finalizzato uno standard tecnologico uniforme per il riconoscimento e l'implementazione dei segnali DNT. Pertanto, al momento non rispondiamo ai segnali del browser DNT o ad altri meccanismi che comunicano automaticamente la tua scelta di non essere tracciati online. Se verrà adottato uno standard per il monitoraggio online che dovremo seguire in futuro, ti informeremo di tale pratica in una versione rivista della presente informativa sulla privacy. [LF]9. I RESIDENTI DELLA CALIFORNIA HANNO DIRITTI SPECIFICI SULLA PRIVACY? [LF]In breve: Sì, se risiedi in California, ti vengono concessi diritti specifici relativi all'accesso alle tue informazioni personali. La Sezione 1798.83 del codice civile della California, nota anche come legge \"\"Shine The Light\"\", consente ai nostri utenti residenti in California di richiedere e ottenere da noi, una volta all'anno e gratuitamente, informazioni sulle categorie di informazioni personali (se presenti) che divulgati a terzi per scopi di marketing diretto e nomi e indirizzi di tutti i terzi con i quali abbiamo condiviso le informazioni personali nell'anno civile immediatamente precedente. Se risiedi in California e desideri presentare tale richiesta, ti preghiamo di inviarci la richiesta per iscritto utilizzando le informazioni di contatto fornite di seguito. Se hai meno di 18 anni, risiedi in California e hai un account registrato con i Servizi, hai il diritto di richiedere la rimozione di dati indesiderati che pubblichi pubblicamente sui Servizi. Per richiedere la rimozione di tali dati, ti preghiamo di contattarci utilizzando le informazioni di contatto fornite di seguito e includendo l'indirizzo e-mail associato al tuo account e una dichiarazione che risiedi in California. Faremo in modo che i dati non vengano visualizzati pubblicamente sui Servizi, ma ti preghiamo di essere consapevole che i dati potrebbero non essere completamente o completamente rimossi dai nostri sistemi. [LF]10. EFFETTUIAMO AGGIORNAMENTI A QUESTA POLITICA? [LF]In breve: Sì, aggiorneremo questa politica se necessario per rimanere conformi alle leggi pertinenti. Di tanto in tanto potremmo aggiornare questa politica sulla privacy. La versione aggiornata sarà indicata da una data “Revisionata” aggiornata e la versione aggiornata sarà effettiva non appena sarà accessibile. Se apportiamo modifiche sostanziali alla presente informativa sulla privacy, potremmo avvisarti pubblicando in modo evidente un avviso di tali modifiche o inviandoti direttamente una notifica. Ti invitiamo a rivedere frequentemente questa politica sulla privacy per essere informato su come stiamo proteggendo le tue informazioni. [LF]11. COME CONTATTARCI SU QUESTA POLITICA? [LF]In caso di domande o commenti su questa politica, è possibile inviarci un'e-mail a contact@snapshotgames.com o per posta a: [LF]Snapshot Games Inc. [LF]145 S Fairfax Ave # 200 [LF]Los Angeles, CA 90036 [LF]Stati Uniti [LF][LF][LF]Come è possibile rivedere, aggiornare o cancellare i dati che raccogliamo da te? In base alle leggi di alcuni Paesi, potresti avere il diritto di richiedere l'accesso alle informazioni personali che raccogliamo da te, modificare tali informazioni o eliminarle in alcune circostanze. Per richiedere la revisione, l'aggiornamento o l'eliminazione delle informazioni personali, si prega di inviare un modulo di richiesta compilando il modulo qui: https://app.termly.io/notify/1a128fcc-1960-429c-b87d-250e4fe413aa. Risponderemo alla tua richiesta entro 30 giorni."
-
-msgctxt "Opening Screen/KEY_BSNAPSHOT_GAMES_INC_TOS_LABEL"
-msgid "ONLINE POLICIES, AGREEMENTS AND TERMS"
-msgstr "POLITICHE, ACCORDI E TERMINI ONLINE"
-
-msgctxt "Opening Screen/KEY_BSNAPSHOT_GAMES_INC_TOS_DESC"
-msgid "Your use of this software is subject to the following policies, agreements and terms, including transfer of your data to countries that may have different levels of privacy protection than your own."
-msgstr "L’uso di questo software è soggetto alle politiche, agli accordi e ai termini seguenti, compresi il trasferimento dei tuoi dati a paesi che possono avere livelli differenti di protezione della privacy rispetto al tuo."
-
-msgctxt "Opening Screen/KEY_BSNAPSHOT_GAMES_INC_TOS_BUTTON"
-msgid "Read TERMS OF SERVICE"
-msgstr "Leggi i TERMINI DI SERVIZIO"
-
-msgctxt "Opening Screen/KEY_BSNAPSHOT_GAMES_INC_PP_BUTTON"
-msgid "Read PRIVACY POLICY"
-msgstr "Leggi la INFORMATIVA SULLA PRIVACY"
-
-msgctxt "Opening Screen/KEY_BSNAPSHOT_GAMES_INC_AGREE"
-msgid "I Agree to All"
-msgstr "Accetto tutto"
-
-msgctxt "Opening Screen/KEY_BSNAPSHOT_GAMES_INC_DISAGREE"
-msgid "I Disagree to All"
-msgstr "Rifiuto tutto"
-
-msgctxt "Opening Screen/KEY_BSNAPSHOT_GAMES_INC_TOS_NAME"
-msgid "TERMS OF SERVICE"
-msgstr "TERMINI DI SERVIZIO"
-
-msgctxt "Opening Screen/KEY_BSNAPSHOT_GAMES_INC_PP_NAME"
-msgid "PRIVACY POLICY"
-msgstr "INFORMATIVA SULLA PRIVACY"
-
-msgctxt "Opening Screen/KEY_SAVE_TACTICAL"
-msgid "Tactical"
-msgstr "Tattico"
-
-msgctxt "Opening Screen/KEY_SAVE_GEOSCAPE"
-msgid "Geoscape"
-msgstr "Globo"
 
 msgctxt "Geoscape Objectives/KEY_GEOSCAPE_OBJECTIVE_HAVEN_DEFENSE"
 msgid "Stop enemy invasion at haven {0}"
@@ -14647,7 +14819,7 @@ msgid "ENERGY GENERATION"
 msgstr "GENERAZIONE DI ENERGIA"
 
 msgctxt "Haven Screen/KEY_GEOSCAPE_ZONE_ENERGY_ZONE_DESCRIPTION"
-msgid "Energy generation zones enable factories, food production, resarch centers and other special zones to function."
+msgid "Energy generation zones enable factories, food production, research centers and other special zones to function."
 msgstr "Le zone di generazione di energia consentono il funzionamento di fabbriche, produzione di cibo, centri di ricerca e altre zone speciali."
 
 msgctxt "Haven Screen/KEY_HAVEN_ZONE_ENERGY_DESC_NJ"
@@ -16491,7 +16663,7 @@ msgid "A fully AI-controlled all-terrain Armored Personnel Carrier that utilizes
 msgstr "Un veicolo blindato per trasporto truppe adatto a tutti i terreni, che utilizza un sistema ibrido a carica elettrica e biocarburanti ed è controllato integralmente dall'IA. Questo mezzo è provvisto di una torretta gauss automatica ed è capace di trasportare 4 soldati in ambienti pericolosi annullando il rischio di infezione."
 
 msgctxt "Characters and classes/KEY_GROUNDVEHICLE_SYN_LONG"
-msgid "Based on aircraft technology, the Aspida is a combat ready hovercraft tha powered entirely through fusion cell technology. Capable of transporting a squad of 3, the vehicle is equipped with automated field surgery robotics, allowing it to treat or paralyze biological entities on the battlefield[LF]"
+msgid "Based on aircraft technology, the Aspida is a combat ready hovercraft tha powered entirely through fusion cell technology. Capable of transporting a squad of 1, the vehicle is equipped with automated field surgery robotics, allowing it to treat or paralyze biological entities on the battlefield[LF]"
 msgstr "Basato sulla tecnologia per i velivoli, l'Aspida è un hovercraft da combattimento alimentato esclusivamente dalla tecnologia a celle di fusione. Questo veicolo è in grado di trasportare una squadra di 3 persone ed è dotato di robot automatici per la chirurgia d'emergenza in grado di curare o paralizzare entità biologiche presenti sul campo di battaglia[LF]"
 
 msgctxt "Characters and classes/KEY_GROUNDVEHICLE_PP_LONG"
@@ -17113,6 +17285,1058 @@ msgstr "GUSCIO"
 msgctxt "Body parts/KEY_SPAWNERY_BODY_NAME"
 msgid "BODY"
 msgstr "CORPO"
+
+msgctxt "Body parts Aliens/KEY_YUGGOTH_HEAVY_CARAPACE_NAME_TEMP"
+msgid "HEAVY CARAPACE"
+msgstr "[null]"
+
+msgctxt "Body parts Aliens/KEY_YUGGOTH_EYE_NAME_TEMP"
+msgid "EYE"
+msgstr "[null]"
+
+msgctxt "Body parts Aliens/KEY_HEAD_NAME_TEMP"
+msgid "HEAD"
+msgstr "[null]"
+
+msgctxt "Body parts Aliens/KEY_ROOTS_NAME_TEMP"
+msgid "ROOTS"
+msgstr "[null]"
+
+msgctxt "Body parts Aliens/KEY_YUGGOTH_TENTACLE_NAME_TEMP"
+msgid "TENTACLE"
+msgstr "[null]"
+
+msgctxt "Body parts Aliens/KEY_YUGGOTH_CARAPACE_DESCRIPTION_TEMP"
+msgid "Protects the brain of the Yuggothian Entity"
+msgstr "[null]"
+
+msgctxt "Body parts Aliens/KEY_YUGGOTH_EYE_DESCRIPTION_TEMP"
+msgid "Eye of Yuggoth"
+msgstr "[null]"
+
+msgctxt "Body parts Aliens/KEY_HEAD_DESCRIPTION_TEMP"
+msgid "[null]"
+msgstr "[null]"
+
+msgctxt "Body parts Aliens/KEY_ROOTS_DESCRIPTION_TEMP"
+msgid "[null]"
+msgstr "[null]"
+
+msgctxt "Body parts Aliens/KEY_YUGGOTH_TENTACLE_DESCRIPTION_TEMP"
+msgid "Covers the vulnerable eyes of the Yuggothian Entity"
+msgstr "[null]"
+
+msgctxt "Body parts Aliens/KEY_SCYLLA_ABDOMEN_BELCHER_NAME_TEMP"
+msgid "BELCHER ABDOMEN"
+msgstr "[null]"
+
+msgctxt "Body parts Aliens/KEY_SCYLLA_ABDOMEN_SPAWNER_NAME_TEMP"
+msgid "SPAWNING ABDOMEN"
+msgstr "[null]"
+
+msgctxt "Body parts Aliens/KEY_SCYLLA_CARAPACE_CRYSTAL_NAME_TEMP"
+msgid "CRYSTAL CARAPACE"
+msgstr "[null]"
+
+msgctxt "Body parts Aliens/KEY_SCYLLA_CARAPACE_HEAVY_NAME_TEMP"
+msgid "HEAVY CARAPACE"
+msgstr "[null]"
+
+msgctxt "Body parts Aliens/KEY_SCYLLA_CARAPACE_MIST_NAME_TEMP"
+msgid "MIST CARAPACE"
+msgstr "[null]"
+
+msgctxt "Body parts Aliens/KEY_SCYLLA_HEAD_HEAVY_NAME_TEMP"
+msgid "FURY HEAD"
+msgstr "[null]"
+
+msgctxt "Body parts Aliens/KEY_SCYLLA_LEG_AGILE_NAME_TEMP"
+msgid "AGILE LEG"
+msgstr "[null]"
+
+msgctxt "Body parts Aliens/KEY_SCYLLA_LEG_HEAVY_NAME_TEMP"
+msgid "HEAVY LEG"
+msgstr "[null]"
+
+msgctxt "Body parts Aliens/KEY_SCYLLA_SMASHER_NAME_TEMP"
+msgid "SMASHER"
+msgstr "[null]"
+
+msgctxt "Body parts Aliens/KEY_SCYLLA_TORSO_NAME_TEMP"
+msgid "TORSO"
+msgstr "[null]"
+
+msgctxt "Body parts Aliens/KEY_SCYLLA_QUEEN_ARM_BLASTER_NAME_TEMP"
+msgid "BLASTER CANNON"
+msgstr "[null]"
+
+msgctxt "Body parts Aliens/KEY_SCYLLA_MIST_LAUNCHER_NAME_TEMP"
+msgid "MIST LAUNCHER"
+msgstr "[null]"
+
+msgctxt "Body parts Aliens/KEY_SCYLLA_SONIC_HEAD_NAME_TEMP"
+msgid "SONIC HEAD"
+msgstr "[null]"
+
+msgctxt "Body parts Aliens/KEY_SCYLLA_HEAD_SPITTER_NAME_TEMP"
+msgid "SPITTER HEAD"
+msgstr "[null]"
+
+msgctxt "Body parts Aliens/KEY_SCYLLA_ARM_BLASTER_NAME_TEMP"
+msgid "BLASTER CANNON"
+msgstr "[null]"
+
+msgctxt "Body parts Aliens/KEY_SCYLLA_ABDOMEN_BELCHER_DESCRIPTION_TEMP"
+msgid "Releases multiple spawnlings on death"
+msgstr "[null]"
+
+msgctxt "Body parts Aliens/KEY_SCYLLA_ABDOMEN_SPAWNER_DESCRIPTION_TEMP"
+msgid "Spawns mindfraggers"
+msgstr "[null]"
+
+msgctxt "Body parts Aliens/KEY_SCYLLA_CARAPACE_CRYSTAL_DESCRIPTION_TEMP"
+msgid "Gives Living Crystal Supercharge ability"
+msgstr "[null]"
+
+msgctxt "Body parts Aliens/KEY_SCYLLA_CARAPACE_HEAVY_DESCRIPTION_TEMP"
+msgid "Armored protective carapace"
+msgstr "[null]"
+
+msgctxt "Body parts Aliens/KEY_SCYLLA_CARAPACE_MIST_DESCRIPTION_TEMP"
+msgid "Spawns a cloud of mist around the Scylla"
+msgstr "[null]"
+
+msgctxt "Body parts Aliens/KEY_SCYLLA_HEAD_HEAVY_DESCRIPTION_TEMP"
+msgid "Can instill frenzy on friendly characters"
+msgstr "[null]"
+
+msgctxt "Body parts Aliens/KEY_SCYLLA_LEG_AGILE_DESCRIPTION_TEMP"
+msgid "Leaps to target location, destroying everything on its path"
+msgstr "[null]"
+
+msgctxt "Body parts Aliens/KEY_SCYLLA_LEG_HEAVY_DESCRIPTION_TEMP"
+msgid "Heavy armored limb"
+msgstr "[null]"
+
+msgctxt "Body parts Aliens/KEY_SCYLLA_SMASHER_DESCRIPTION_TEMP"
+msgid "Capable of dealing heavy damage and destroying armor"
+msgstr "[null]"
+
+msgctxt "Body parts Aliens/KEY_SCYLLA_TORSO_DESCRIPTION_TEMP"
+msgid "Scylla torso"
+msgstr "[null]"
+
+msgctxt "Body parts Aliens/KEY_SCYLLA_QUEEN_ARM_BLASTER_DESCRIPTION_TEMP"
+msgid "A powerful multi-shot cannon"
+msgstr "[null]"
+
+msgctxt "Body parts Aliens/KEY_SCYLLA_MIST_LAUNCHER_DESCRIPTION_TEMP"
+msgid "Launchers projectiles that generate mist"
+msgstr "[null]"
+
+msgctxt "Body parts Aliens/KEY_SCYLLA_SONIC_HEAD_DESCRIPTION_TEMP"
+msgid "Emits sonic blast that can daze a target"
+msgstr "[null]"
+
+msgctxt "Body parts Aliens/KEY_SCYLLA_HEAD_SPITTER_DESCRIPTION_TEMP"
+msgid "Spits poisonous goo in a narrow cone area"
+msgstr "[null]"
+
+msgctxt "Body parts Aliens/KEY_SCYLLA_ARM_BLASTER_DESCRIPTION_TEMP"
+msgid "A powerful multi-shot cannon"
+msgstr "[null]"
+
+msgctxt "Body parts Aliens/KEY_TORSO_NAME_TEMP"
+msgid "TORSO"
+msgstr "[null]"
+
+msgctxt "Body parts Aliens/KEY_SENTINEL_HATCHING_HEAD_NAME_TEMP"
+msgid "HATCHING HEAD"
+msgstr "[null]"
+
+msgctxt "Body parts Aliens/KEY_TORSO_DESCRIPTION_TEMP"
+msgid "Torso"
+msgstr "[null]"
+
+msgctxt "Body parts Aliens/KEY_SENTINEL_HATCHING_HEAD_DESCRIPTION_TEMP"
+msgid "Sends signal that hatches all nearby eggs"
+msgstr "[null]"
+
+msgctxt "Body parts Aliens/KEY_SENTINEL_MIST_HEAD_NAME_TEMP"
+msgid "MIST HEAD"
+msgstr "[null]"
+
+msgctxt "Body parts Aliens/KEY_SENTINEL_MIST_HEAD_DESCRIPTION_TEMP"
+msgid "Launches projectiles that generate mist"
+msgstr "[null]"
+
+msgctxt "Body parts Aliens/KEY_SENTINEL_TERROR_HEAD_NAME_TEMP"
+msgid "TERROR HEAD"
+msgstr "[null]"
+
+msgctxt "Body parts Aliens/KEY_SENTINEL_TERROR_HEAD_DESCRIPTION_TEMP"
+msgid "Emits psychic scream that reduces will points"
+msgstr "[null]"
+
+msgctxt "Body parts Aliens/KEY_SIREN_HEAD_BUFFER_NAME_TEMP"
+msgid "FURY HEAD"
+msgstr "[null]"
+
+msgctxt "Body parts Aliens/KEY_SIREN_HEAD_ORICHALCUM_NAME_TEMP"
+msgid "ORICHALCUM HEAD"
+msgstr "[null]"
+
+msgctxt "Body parts Aliens/KEY_SIREN_HEAD_SCREAMER_NAME_TEMP"
+msgid "SCREAMING HEAD"
+msgstr "[null]"
+
+msgctxt "Body parts Aliens/KEY_SIREN_TAIL_AGILE_NAME_TEMP"
+msgid "AGILE TAIL"
+msgstr "[null]"
+
+msgctxt "Body parts Aliens/KEY_SIREN_TAIL_HEAVY_NAME_TEMP"
+msgid "HEAVY TAIL"
+msgstr "[null]"
+
+msgctxt "Body parts Aliens/KEY_SIREN_TAIL_ORICHALCUM_NAME_TEMP"
+msgid "ORICHALCUM TAIL"
+msgstr "[null]"
+
+msgctxt "Body parts Aliens/KEY_SIREN_TORSO_NAME_TEMP"
+msgid "TORSO"
+msgstr "[null]"
+
+msgctxt "Body parts Aliens/KEY_SIREN_ARM_INJECTOR_NAME_TEMP"
+msgid "INJECTOR ARM"
+msgstr "[null]"
+
+msgctxt "Body parts Aliens/KEY_SIREN_ARM_ORICHALCUM_NAME_TEMP"
+msgid "ORICHALCUM ARM"
+msgstr "[null]"
+
+msgctxt "Body parts Aliens/KEY_SIREN_ARM_SLASHER_NAME_TEMP"
+msgid "SLASHER ARM"
+msgstr "[null]"
+
+msgctxt "Body parts Aliens/KEY_SIREN_TORSO_ACID_NAME_TEMP"
+msgid "ACID TORSO"
+msgstr "[null]"
+
+msgctxt "Body parts Aliens/KEY_SIREN_TORSO_ORICHALCUM_NAME_TEMP"
+msgid "ORICHALCUM TORSO"
+msgstr "[null]"
+
+msgctxt "Body parts Aliens/KEY_SIREN_HEAD_BUFFER_DESCRIPTION_TEMP"
+msgid "Can instill frenzy on friendly characters"
+msgstr "[null]"
+
+msgctxt "Body parts Aliens/KEY_SIREN_HEAD_ORICHALCUM_DESCRIPTION_TEMP"
+msgid "Slightly improved durability"
+msgstr "[null]"
+
+msgctxt "Body parts Aliens/KEY_SIREN_HEAD_SCREAMER_DESCRIPTION_TEMP"
+msgid "Psychic scream incapacitates nearby enemies"
+msgstr "[null]"
+
+msgctxt "Body parts Aliens/KEY_SIREN_TAIL_AGILE_DESCRIPTION_TEMP"
+msgid "Increases speed of the creature"
+msgstr "[null]"
+
+msgctxt "Body parts Aliens/KEY_SIREN_TAIL_HEAVY_DESCRIPTION_TEMP"
+msgid "Tail is protected by armor"
+msgstr "[null]"
+
+msgctxt "Body parts Aliens/KEY_SIREN_TAIL_ORICHALCUM_DESCRIPTION_TEMP"
+msgid "Slightly improved durability and damage"
+msgstr "[null]"
+
+msgctxt "Body parts Aliens/KEY_SIREN_TORSO_DESCRIPTION_TEMP"
+msgid "[null]"
+msgstr "[null]"
+
+msgctxt "Body parts Aliens/KEY_SIREN_ARM_INJECTOR_DESCRIPTION_TEMP"
+msgid "Inflicts standard and viral damage"
+msgstr "[null]"
+
+msgctxt "Body parts Aliens/KEY_SIREN_ARM_ORICHALCUM_DESCRIPTION_TEMP"
+msgid "Slightly improved durability and damage"
+msgstr "[null]"
+
+msgctxt "Body parts Aliens/KEY_SIREN_ARM_SLASHER_DESCRIPTION_TEMP"
+msgid "Melee attack that can cause bleed if it deals damage"
+msgstr "[null]"
+
+msgctxt "Body parts Aliens/KEY_SIREN_TORSO_ACID_DESCRIPTION_TEMP"
+msgid "Ejects acid over a short distance"
+msgstr "[null]"
+
+msgctxt "Body parts Aliens/KEY_SIREN_TORSO_ORICHALCUM_DESCRIPTION_TEMP"
+msgid "Slightly improved durability"
+msgstr "[null]"
+
+msgctxt "Body parts Aliens/KEY_SPAWNERY_BODY_NAME_TEMP"
+msgid "BODY"
+msgstr "[null]"
+
+msgctxt "Body parts Aliens/KEY_SPAWNERY_EGG_POD_NAME_TEMP"
+msgid "EGG POD"
+msgstr "[null]"
+
+msgctxt "Body parts Aliens/KEY_SPAWNERY_SHELL_NAME_TEMP"
+msgid "SHELL"
+msgstr "[null]"
+
+msgctxt "Body parts Aliens/KEY_SPAWNERY_BODY_DESCRIPTION_TEMP"
+msgid "[null]"
+msgstr "[null]"
+
+msgctxt "Body parts Aliens/KEY_SPAWNERY_EGG_POD_DESCRIPTION_TEMP"
+msgid "[null]"
+msgstr "[null]"
+
+msgctxt "Body parts Aliens/KEY_SPAWNERY_SHELL_DESCRIPTION_TEMP"
+msgid "[null]"
+msgstr "[null]"
+
+msgctxt "Body parts Aliens/KEY_ARTHRON_CARAPACE_NAME_TEMP"
+msgid "CARAPACE"
+msgstr "[null]"
+
+msgctxt "Body parts Aliens/KEY_ARTHRON_HEAD_ELITE_NAME_TEMP"
+msgid "HEAD"
+msgstr "[null]"
+
+msgctxt "Body parts Aliens/KEY_ARTHRON_ACID_GRENADE_ARM_NAME_TEMP"
+msgid "ACID LAUNCHER"
+msgstr "[null]"
+
+msgctxt "Body parts Aliens/KEY_ARTHRON_ARM_NAME_TEMP"
+msgid "ARM"
+msgstr "[null]"
+
+msgctxt "Body parts Aliens/KEY_ARTHRON_ARM_GRENADE_NAME_TEMP"
+msgid "GRENADE LAUNCHER"
+msgstr "[null]"
+
+msgctxt "Body parts Aliens/KEY_ARTHRON_ARM_SHIELD_NAME_TEMP"
+msgid "SHIELD"
+msgstr "[null]"
+
+msgctxt "Body parts Aliens/KEY_ARTHRON_LEG_AGILE_NAME_TEMP"
+msgid "AGILE LEG"
+msgstr "[null]"
+
+msgctxt "Body parts Aliens/KEY_ARTHRON_LEG_HEAVY_NAME_TEMP"
+msgid "HEAVY LEG"
+msgstr "[null]"
+
+msgctxt "Body parts Aliens/KEY_ARTHRON_MACHINE_GUN_NAME_TEMP"
+msgid "ARTHRON GUN"
+msgstr "[null]"
+
+msgctxt "Body parts Aliens/KEY_ARTHRON_PINCER_NAME_TEMP"
+msgid "PINCER"
+msgstr "[null]"
+
+msgctxt "Body parts Aliens/KEY_ARTHRON_VIRAL_GUN_NAME_TEMP"
+msgid "VIRAL GUN"
+msgstr "[null]"
+
+msgctxt "Body parts Aliens/KEY_ARTHRON_TORSO_NAME_TEMP"
+msgid "TORSO"
+msgstr "[null]"
+
+msgctxt "Body parts Aliens/KEY_ARTHRON_HEAD_SPITTER_NAME_TEMP"
+msgid "SPITTER HEAD"
+msgstr "[null]"
+
+msgctxt "Body parts Aliens/KEY_ARTHRON_GRENADE_ARM_NAME_TEMP"
+msgid "LAUNCHER ARM"
+msgstr "[null]"
+
+msgctxt "Body parts Aliens/KEY_ARTHRON_VIRAL_MACHINE_GUN_NAME_TEMP"
+msgid "VIRAL MACHINE GUN"
+msgstr "[null]"
+
+msgctxt "Body parts Aliens/KEY_ARTHRON_CARAPACE_DESCRIPTION_TEMP"
+msgid "Arthron carapace"
+msgstr "[null]"
+
+msgctxt "Body parts Aliens/KEY_HEAD_ELITE_DESCRIPTION_TEMP"
+msgid "[null]"
+msgstr "[null]"
+
+msgctxt "Body parts Aliens/KEY_ARTHRON_ACID_GRENADE_ARM_DESCRIPTION_TEMP"
+msgid "Launches projectiles causing acid damage"
+msgstr "[null]"
+
+msgctxt "Body parts Aliens/KEY_ARTHRON_ARM_DESCRIPTION_TEMP"
+msgid "Arthron arm"
+msgstr "[null]"
+
+msgctxt "Body parts Aliens/KEY_ARTHRON_GRENADE_ARM_DESCRIPTION_TEMP"
+msgid "Organic Grenade Launcher"
+msgstr "[null]"
+
+msgctxt "Body parts Aliens/KEY_ARTHRON_SHIELD_ARM_DESCRIPTION_TEMP"
+msgid "Arthron shield"
+msgstr "[null]"
+
+msgctxt "Body parts Aliens/KEY_ARTHRON_LEG_AGILE_DESCRIPTION_TEMP"
+msgid "Increases the creatures' speed"
+msgstr "[null]"
+
+msgctxt "Body parts Aliens/KEY_ARTHRON_LEG_HEAVY_DESCRIPTION_TEMP"
+msgid "Heavy armored limb"
+msgstr "[null]"
+
+msgctxt "Body parts Aliens/KEY_ARTHRON_HEAD_SPITTER_DESCRIPTION_TEMP"
+msgid "Spits poison at short range"
+msgstr "[null]"
+
+msgctxt "Body parts Aliens/KEY_ARTHRON_MACHINE_GUN_DESCRIPTION_TEMP"
+msgid "Organic Machine Gun"
+msgstr "[null]"
+
+msgctxt "Body parts Aliens/KEY_ARTHRON_PINCER_DESCRIPTION_TEMP"
+msgid "Arthron melee attack pincer"
+msgstr "[null]"
+
+msgctxt "Body parts Aliens/KEY_ARTHRON_VIRAL_MACHINE_GUN_DESCRIPTION_TEMP"
+msgid "Launches projectiles causing viral damage"
+msgstr "[null]"
+
+msgctxt "Body parts Aliens/KEY_ARTHRON_ELITE_CARAPACE_NAME_TEMP"
+msgid "EVOLVED CARAPACE"
+msgstr "[null]"
+
+msgctxt "Body parts Aliens/KEY_ARTHRON_ELITE_TORSO_NAME_TEMP"
+msgid "EVOLVED TORSO"
+msgstr "[null]"
+
+msgctxt "Body parts Aliens/KEY_ARTHRON_ELITE_ACID_GRENADE_ARM_NAME_TEMP"
+msgid "EVOLVED ACID LAUNCHER ARM"
+msgstr "[null]"
+
+msgctxt "Body parts Aliens/KEY_ARTHRON_ELITE_GRENADE_ARM_NAME_TEMP"
+msgid "EVOLVED LAUNCHER ARM"
+msgstr "[null]"
+
+msgctxt "Body parts Aliens/KEY_ARTHRON_ELITE_ARM_SHIELD_NAME_TEMP"
+msgid "EVOLVED SHIELD"
+msgstr "[null]"
+
+msgctxt "Body parts Aliens/KEY_ARTHRON_ELITE_LEG_AGILE_NAME_TEMP"
+msgid "AGILE LEG"
+msgstr "[null]"
+
+msgctxt "Body parts Aliens/KEY_ARTHRON_ELITE_LEG_HEAVY_NAME_TEMP"
+msgid "HEAVY LEG"
+msgstr "[null]"
+
+msgctxt "Body parts Aliens/KEY_ARTHRON_ELITE_MACHINE_GUN_NAME_TEMP"
+msgid "EVOLVED ARTHRON GUN"
+msgstr "[null]"
+
+msgctxt "Body parts Aliens/KEY_ARTHRON_ELITE_PINCER_NAME_TEMP"
+msgid "EVOLVED PINCER"
+msgstr "[null]"
+
+msgctxt "Body parts Aliens/KEY_ARTHRON_ELITE_HEAD_SPITTER_NAME_TEMP"
+msgid "EVOLVED SPITTER HEAD"
+msgstr "[null]"
+
+msgctxt "Body parts Aliens/KEY_ARTHRON_ELITE_VIRAL_MACHINE_GUN_NAME_TEMP"
+msgid "EVOLVED VIRAL MACHINE GUN"
+msgstr "[null]"
+
+msgctxt "Body parts Aliens/KEY_ARTHRON_ELITE_CARAPACE_DESCRIPTION_TEMP"
+msgid "Evolved Arthron carapace"
+msgstr "[null]"
+
+msgctxt "Body parts Aliens/KEY_ARTHRON_ELITE_TORSO_DESCRIPTION_TEMP"
+msgid "Evolved Artrhron torso"
+msgstr "[null]"
+
+msgctxt "Body parts Aliens/KEY_ARTHRON_ELITE_ACID_GRENADE_ARM_DESCRIPTION_TEMP"
+msgid "Launches acid grenades"
+msgstr "[null]"
+
+msgctxt "Body parts Aliens/KEY_ARTHRON_ELITE_GRENADE_ARM_DESCRIPTION_TEMP"
+msgid "Organic Grenade Launcher"
+msgstr "[null]"
+
+msgctxt "Body parts Aliens/KEY_ARTHRON_ELITE_ARM_SHIELD_DESCRIPTION_TEMP"
+msgid "Evolved Arthron shield"
+msgstr "[null]"
+
+msgctxt "Body parts Aliens/KEY_ARTHRON_ELITE_LEG_AGILE_DESCRIPTION_TEMP"
+msgid "Increases the creatures' speed"
+msgstr "[null]"
+
+msgctxt "Body parts Aliens/KEY_ARTHRON_ELITE_LEG_HEAVY_DESCRIPTION_TEMP"
+msgid "Heavy armoured limb"
+msgstr "[null]"
+
+msgctxt "Body parts Aliens/KEY_ARTHRON_ELITE_MACHINE_GUN_DESCRIPTION_TEMP"
+msgid "Evolved organic machine gun"
+msgstr "[null]"
+
+msgctxt "Body parts Aliens/KEY_ARTHRON_ELITE_HEAD_SPITTER_DESCRIPTION_TEMP"
+msgid "Spits poison at short range"
+msgstr "[null]"
+
+msgctxt "Body parts Aliens/KEY_ARTHRON_ELITE_PINCER_DESCRIPTION_TEMP"
+msgid "Evolved Arthron pincer"
+msgstr "[null]"
+
+msgctxt "Body parts Aliens/KEY_ARTHRON_ELITE_VIRAL_MACHINE_GUN_DESCRIPTION_TEMP"
+msgid "Launches projectiles causing viral damage"
+msgstr "[null]"
+
+msgctxt "Body parts Aliens/KEY_CHIRON_LEG_AGILE_NAME_TEMP"
+msgid "AGILE LEG"
+msgstr "[null]"
+
+msgctxt "Body parts Aliens/KEY_CHIRON_LEG_BURROWING_NAME_TEMP"
+msgid "BURROWING LEG"
+msgstr "[null]"
+
+msgctxt "Body parts Aliens/KEY_CHIRON_LEG_STOMPING_NAME_TEMP"
+msgid "STOMPING LEG"
+msgstr "[null]"
+
+msgctxt "Body parts Aliens/KEY_CHIRON_HEAD_NAME_TEMP"
+msgid "HEAD"
+msgstr "[null]"
+
+msgctxt "Body parts Aliens/KEY_CHIRON_LEG_HEAVY_NAME_TEMP"
+msgid "HEAVY LEG"
+msgstr "[null]"
+
+msgctxt "Body parts Aliens/KEY_CHIRON_LEG_NAME_TEMP"
+msgid "HEAVY LEG"
+msgstr "[null]"
+
+msgctxt "Body parts Aliens/KEY_CHIRON_TORSO_NAME_TEMP"
+msgid "TORSO"
+msgstr "[null]"
+
+msgctxt "Body parts Aliens/KEY_CHIRON_TORSO_ACID_MORTAR_NAME_TEMP"
+msgid "ACID ABDOMEN"
+msgstr "[null]"
+
+msgctxt "Body parts Aliens/KEY_CHIRON_TORSO_ACIDWORM_NAME_TEMP"
+msgid "ACIDWORM ABDOMEN"
+msgstr "[null]"
+
+msgctxt "Body parts Aliens/KEY_CHIRON_TORSO_MORTAR_NAME_TEMP"
+msgid "EXPLOSIVE BOMB ABDOMEN"
+msgstr "[null]"
+
+msgctxt "Body parts Aliens/KEY_CHIRON_TORSO_FIREWORM_NAME_TEMP"
+msgid "FIREWORM ABDOMEN"
+msgstr "[null]"
+
+msgctxt "Body parts Aliens/KEY_CHIRON_TORSO_GOO_NAME_TEMP"
+msgid "GOO ABDOMEN"
+msgstr "[null]"
+
+msgctxt "Body parts Aliens/KEY_CHIRON_TORSO_POISONWORM_NAME_TEMP"
+msgid "POISONWORM ABDOMEN"
+msgstr "[null]"
+
+msgctxt "Body parts Aliens/KEY_CHIRON_SMASHER_NAME_TEMP"
+msgid "HEAVY LEG"
+msgstr "[null]"
+
+msgctxt "Body parts Aliens/KEY_CHIRON_LEG_AGILE_DESCRIPTION_TEMP"
+msgid "Leaps to target location, destroying everything on its path"
+msgstr "[null]"
+
+msgctxt "Body parts Aliens/KEY_CHIRON_LEG_BURROWING_DESCRIPTION_TEMP"
+msgid "Gives stability stance, increasing accuracy and rate of fire"
+msgstr "[null]"
+
+msgctxt "Body parts Aliens/KEY_CHIRON_LEG_STOMPING_DESCRIPTION_TEMP"
+msgid "Area attack that can daze multiple targets"
+msgstr "[null]"
+
+msgctxt "Body parts Aliens/KEY_CHIRON_HEAD_DESCRIPTION_TEMP"
+msgid "Chiron head"
+msgstr "[null]"
+
+msgctxt "Body parts Aliens/KEY_CHIRON_LEG_HEAVY_DESCRIPTION_TEMP"
+msgid "Heavy armored limb"
+msgstr "[null]"
+
+msgctxt "Body parts Aliens/KEY_CHIRON_LEG_DESCRIPTION_TEMP"
+msgid "Inflicts heavy damage and destroys armor"
+msgstr "[null]"
+
+msgctxt "Body parts Aliens/KEY_CHIRON_TORSO_DESCRIPTION_TEMP"
+msgid "Chiron torso"
+msgstr "[null]"
+
+msgctxt "Body parts Aliens/KEY_CHIRON_TORSO_ACID_MORTAR_DESCRIPTION_TEMP"
+msgid "Launches 3 acid bombs"
+msgstr "[null]"
+
+msgctxt "Body parts Aliens/KEY_CHIRON_TORSO_ACIDWORM_DESCRIPTION_TEMP"
+msgid "Launch 3 Acidworms at long range"
+msgstr "[null]"
+
+msgctxt "Body parts Aliens/KEY_CHIRON_TORSO_MORTAR_DESCRIPTION_TEMP"
+msgid "Launches 3 explosive projectiles"
+msgstr "[null]"
+
+msgctxt "Body parts Aliens/KEY_CHIRON_TORSO_FIREWORM_DESCRIPTION_TEMP"
+msgid "Launch 3 Fireworms at long range"
+msgstr "[null]"
+
+msgctxt "Body parts Aliens/KEY_CHIRON_TORSO_GOO_DESCRIPTION_TEMP"
+msgid "Launches 3 goo bombs at long range"
+msgstr "[null]"
+
+msgctxt "Body parts Aliens/KEY_CHIRON_TORSO_POISONWORM_DESCRIPTION_TEMP"
+msgid "Launch 3 Poisonworms at long range"
+msgstr "[null]"
+
+msgctxt "Body parts Aliens/KEY_CHIRON_SMASHER_DESCRIPTION_TEMP"
+msgid "Inflicts heavy damage and destroys armor"
+msgstr "[null]"
+
+msgctxt "Body parts Aliens/KEY_BODY_NAME_TEMP"
+msgid "BODY"
+msgstr "[null]"
+
+msgctxt "Body parts Aliens/KEY_BODY_DESCRIPTION_TEMP"
+msgid "[null]"
+msgstr "[null]"
+
+msgctxt "Body parts Aliens/KEY_ACIDWORM_EGG_NAME_TEMP"
+msgid "ACIDEWORM EGG"
+msgstr "[null]"
+
+msgctxt "Body parts Aliens/KEY_FACEHUGGER_EGG_NAME_TEMP"
+msgid "MINDFRAGGER EGG"
+msgstr "[null]"
+
+msgctxt "Body parts Aliens/KEY_FIREWORM_EGG_NAME_TEMP"
+msgid "FIREWORM EGG"
+msgstr "[null]"
+
+msgctxt "Body parts Aliens/KEY_POISONWORM_EGG_NAME_TEMP"
+msgid "POISONWORM EGG"
+msgstr "[null]"
+
+msgctxt "Body parts Aliens/KEY_SWARMER_EGG_NAME_TEMP"
+msgid "SWARMER EGG"
+msgstr "[null]"
+
+msgctxt "Body parts Aliens/KEY_ACIDWORM_EGG_DESCRIPTION_TEMP"
+msgid "Hatches an Acidworm"
+msgstr "[null]"
+
+msgctxt "Body parts Aliens/KEY_FACEHUGGER_EGG_DESCRIPTION_TEMP"
+msgid "Hatches a Mindfragger"
+msgstr "[null]"
+
+msgctxt "Body parts Aliens/KEY_FIREWORM_EGG_DESCRIPTION_TEMP"
+msgid "Hatches a Fireworm"
+msgstr "[null]"
+
+msgctxt "Body parts Aliens/KEY_POISONWORM_EGG_DESCRIPTION_TEMP"
+msgid "Hatches a Poisonworm"
+msgstr "[null]"
+
+msgctxt "Body parts Aliens/KEY_SWARMER_EGG_DESCRIPTION_TEMP"
+msgid "Hatches a Swarmer"
+msgstr "[null]"
+
+msgctxt "Body parts Aliens/KEY_LEG_NAME_TEMP"
+msgid "LEG"
+msgstr "[null]"
+
+msgctxt "Body parts Aliens/KEY_FACEHUGGER_HEAD_NAME_TEMP"
+msgid "MINDFRAGGER HEAD"
+msgstr "[null]"
+
+msgctxt "Body parts Aliens/KEY_LEG_DESCRIPTION_TEMP"
+msgid "[null]"
+msgstr "[null]"
+
+msgctxt "Body parts Aliens/KEY_FACEHUGGER_HEAD_DESCRIPTION_TEMP"
+msgid "Attaches to enemy unit's head and mind controls him"
+msgstr "[null]"
+
+msgctxt "Body parts Aliens/KEY_TRITON_SENSOR_HEAD_NAME_TEMP"
+msgid "SENSOR HEAD"
+msgstr "[null]"
+
+msgctxt "Body parts Aliens/KEY_TRITON_SOUND_HEAD_NAME_TEMP"
+msgid "SILENCE HEAD"
+msgstr "[null]"
+
+msgctxt "Body parts Aliens/KEY_TRITON_LEG_AGILE_NAME_TEMP"
+msgid "AGILE LEG"
+msgstr "[null]"
+
+msgctxt "Body parts Aliens/KEY_TRITON_LEG_STEALTH_NAME_TEMP"
+msgid "STEALTH LEG"
+msgstr "[null]"
+
+msgctxt "Body parts Aliens/KEY_TRITON_ARM_REGENERATION_NAME_TEMP"
+msgid "REGENERATION ARM"
+msgstr "[null]"
+
+msgctxt "Body parts Aliens/KEY_TRITON_ARM_SHROWDER_NAME_TEMP"
+msgid "PAIN CHAMELEON ARM"
+msgstr "[null]"
+
+msgctxt "Body parts Aliens/KEY_TRITON_TORSO_REGENERATION_NAME_TEMP"
+msgid "REGENERATION TORSO"
+msgstr "[null]"
+
+msgctxt "Body parts Aliens/KEY_TRITON_TORSO_SHROWDER_NAME_TEMP"
+msgid "PAIN CHAMELEON TORSO"
+msgstr "[null]"
+
+msgctxt "Body parts Aliens/KEY_TRITON_ARM_BLOODSUCKER_NAME_TEMP"
+msgid "BLOODSUCKING ARM"
+msgstr "[null]"
+
+msgctxt "Body parts Aliens/KEY_TRITON_ARM_MIST_NAME_TEMP"
+msgid "MIST EMITTER ARM"
+msgstr "[null]"
+
+msgctxt "Body parts Aliens/KEY_TRITON_ARM_PARALYZING_NAME_TEMP"
+msgid "PARALYZING ARM"
+msgstr "[null]"
+
+msgctxt "Body parts Aliens/KEY_TRITON_SENSOR_HEAD_DESCRIPTION_TEMP"
+msgid "Doubles creature's perception"
+msgstr "[null]"
+
+msgctxt "Body parts Aliens/KEY_TRITON_SOUND_HEAD_DESCRIPTION_TEMP"
+msgid "Silences weapon attacks"
+msgstr "[null]"
+
+msgctxt "Body parts Aliens/KEY_TRITON_LEG_AGILE_DESCRIPTION_TEMP"
+msgid "Increases creature's speed"
+msgstr "[null]"
+
+msgctxt "Body parts Aliens/KEY_TRITON_LEG_STEALTH_DESCRIPTION_TEMP"
+msgid "Creature becomes invisible when dealt damage"
+msgstr "[null]"
+
+msgctxt "Body parts Aliens/KEY_TRITON_ARM_REGENERATION_DESCRIPTION_TEMP"
+msgid "Restores health to damaged limbs"
+msgstr "[null]"
+
+msgctxt "Body parts Aliens/KEY_TRITON_ARM_SHROWDER_DESCRIPTION_TEMP"
+msgid "Creature becomes invisible when dealt damage"
+msgstr "[null]"
+
+msgctxt "Body parts Aliens/KEY_TRITON_TORSO_REGENERATION_DESCRIPTION_TEMP"
+msgid "Restores health to damaged limbs"
+msgstr "[null]"
+
+msgctxt "Body parts Aliens/KEY_TRITON_TORSO_SHROWDER_DESCRIPTION_TEMP"
+msgid "Creature becomes invisible when dealt damage"
+msgstr "[null]"
+
+msgctxt "Body parts Aliens/KEY_TRITON_ARM_BLOODSUCKER_DESCRIPTION_TEMP"
+msgid "Damages the enemy and regenerates the creature"
+msgstr "[null]"
+
+msgctxt "Body parts Aliens/KEY_TRITON_ARM_MIST_DESCRIPTION_TEMP"
+msgid "Launches projectiles that generate mist"
+msgstr "[null]"
+
+msgctxt "Body parts Aliens/KEY_TRITON_ARM_PARALYZING_DESCRIPTION_TEMP"
+msgid "Injects paralyzing agents into the enemy"
+msgstr "[null]"
+
+msgctxt "Body parts Aliens/KEY_TRITON_ELITE_SENSOR_HEAD_NAME_TEMP"
+msgid "EVOLVED SENSOR HEAD"
+msgstr "[null]"
+
+msgctxt "Body parts Aliens/KEY_TRITON_ELITE_SILENCE_HEAD_NAME_TEMP"
+msgid "EVOLVED SILENCE HEAD"
+msgstr "[null]"
+
+msgctxt "Body parts Aliens/KEY_TRITON_ELITE_LEG_AGILE_NAME_TEMP"
+msgid "EVOLVED AGILE LEG"
+msgstr "[null]"
+
+msgctxt "Body parts Aliens/KEY_TRITON_ELITE_LEG_HEAVY_NAME_TEMP"
+msgid "EVOLVED STEALTH LEG"
+msgstr "[null]"
+
+msgctxt "Body parts Aliens/KEY_TRITON_ELITE_ARM_REGENERATION_NAME_TEMP"
+msgid "EVOLVED REGENERATION ARM"
+msgstr "[null]"
+
+msgctxt "Body parts Aliens/KEY_TRITON_ELITE_ARM_SHROWDER_NAME_TEMP"
+msgid "EVOLVED PAIN CHAMELEON ARM"
+msgstr "[null]"
+
+msgctxt "Body parts Aliens/KEY_TRITON_ELITE_SHROWDER_TORSO_NAME_TEMP"
+msgid "EVOLVED PAIN CHAMELEON TORSO"
+msgstr "[null]"
+
+msgctxt "Body parts Aliens/KEY_TRITON_ELITE_REGENERATION_TORSO_NAME_TEMP"
+msgid "EVOLVED REGENERATION TORSO"
+msgstr "[null]"
+
+msgctxt "Body parts Aliens/KEY_TRITON_ELITE_ARM_BLOODSUCKER_NAME_TEMP"
+msgid "EVOLVED BLOODSUCKING ARM"
+msgstr "[null]"
+
+msgctxt "Body parts Aliens/KEY_TRITON_ELITE_ARM_MIST_NAME_TEMP"
+msgid "EVOLVED MIST EMITTER ARM"
+msgstr "[null]"
+
+msgctxt "Body parts Aliens/KEY_TRITON_ELITE_ARM_PARALYZING_NAME_TEMP"
+msgid "EVOLVED PARALYZING ARM"
+msgstr "[null]"
+
+msgctxt "Body parts Aliens/KEY_TRITON_ELITE_SENSOR_HEAD_DESCRIPTION_TEMP"
+msgid "Doubles creature's perception"
+msgstr "[null]"
+
+msgctxt "Body parts Aliens/KEY_TRITON_ELITE_SILENCE_HEAD_DESCRIPTION_TEMP"
+msgid "Silences weapon attacks"
+msgstr "[null]"
+
+msgctxt "Body parts Aliens/KEY_TRITON_ELITE_LEG_AGILE_DESCRIPTION_TEMP"
+msgid "Increases creature's speed"
+msgstr "[null]"
+
+msgctxt "Body parts Aliens/KEY_TRITON_ELITE_LEG_HEAVY_DESCRIPTION_TEMP"
+msgid "Creature becomes invisible when dealt damage"
+msgstr "[null]"
+
+msgctxt "Body parts Aliens/KEY_TRITON_ELITE_ARM_REGENERATION_DESCRIPTION_TEMP"
+msgid "Restores health to damaged limbs"
+msgstr "[null]"
+
+msgctxt "Body parts Aliens/KEY_TRITON_ELITE_ARM_SHROWDER_DESCRIPTION_TEMP"
+msgid "Creature becomes invisible when dealt damage"
+msgstr "[null]"
+
+msgctxt "Body parts Aliens/KEY_TRITON_ELITE_TORSO_SHROWDER_DESCRIPTION_TEMP"
+msgid "Creature becomes invisible when dealt damage"
+msgstr "[null]"
+
+msgctxt "Body parts Aliens/KEY_TRITON_ELITE_TORSO_REGENERATION_DESCRIPTION_TEMP"
+msgid "Restores health to damaged limbs"
+msgstr "[null]"
+
+msgctxt "Body parts Aliens/KEY_TRITON_ELITE_ARM_BLOODSUCKER_DESCRIPTION_TEMP"
+msgid "Damages the enemy and regenerates the creature"
+msgstr "[null]"
+
+msgctxt "Body parts Aliens/KEY_TRITON_ELITE_ARM_MIST_DESCRIPTION_TEMP"
+msgid "Launches projectiles that generate mist"
+msgstr "[null]"
+
+msgctxt "Body parts Aliens/KEY_TRITON_ELITE_ARM_PARALYZING_DESCRIPTION_TEMP"
+msgid "Injects paralyzing agents into the enemy"
+msgstr "[null]"
+
+msgctxt "Body parts Aliens/KEY_MUTOG_LEG_AGILE_NAME_TEMP"
+msgid "AGILE LEG"
+msgstr "[null]"
+
+msgctxt "Body parts Aliens/KEY_MUTOG_LEG_REGENERATION_NAME_TEMP"
+msgid "REGENERATION LEG"
+msgstr "[null]"
+
+msgctxt "Body parts Aliens/KEY_MUTOG_HEAD_RAMMING_NAME_TEMP"
+msgid "RAMMING HEAD"
+msgstr "[null]"
+
+msgctxt "Body parts Aliens/KEY_MUTOG_TORSO_NAME_TEMP"
+msgid "TORSO"
+msgstr "[null]"
+
+msgctxt "Body parts Aliens/KEY_MUTOG_HEAD_VENOM_NAME_TEMP"
+msgid "VENOMOUS HEAD"
+msgstr "[null]"
+
+msgctxt "Body parts Aliens/KEY_MUTOG_TAIL_BASHER_NAME_TEMP"
+msgid "BASHER TAIL"
+msgstr "[null]"
+
+msgctxt "Body parts Aliens/KEY_MUTOG_TAIL_SMASHER_NAME_TEMP"
+msgid "SLASHER TAIL"
+msgstr "[null]"
+
+msgctxt "Body parts Aliens/KEY_MUTOG_LEG_AGILE_DESCRIPTION_TEMP"
+msgid "Increases the speed of the mutog"
+msgstr "[null]"
+
+msgctxt "Body parts Aliens/KEY_MUTOG_LEG_REGENERATION_DESCRIPTION_TEMP"
+msgid "Regenerates injuries every turn"
+msgstr "[null]"
+
+msgctxt "Body parts Aliens/KEY_MUTOG_HEAD_RAMMING_DESCRIPTION_TEMP"
+msgid "Capable of shredding armor and dazing the enemy"
+msgstr "[null]"
+
+msgctxt "Body parts Aliens/KEY_MUTOG_TORSO_DESCRIPTION_TEMP"
+msgid "Mutog torso"
+msgstr "[null]"
+
+msgctxt "Body parts Aliens/KEY_MUTOG_HEAD_VENOM_DESCRIPTION_TEMP"
+msgid "Performs attack that injects venom into the enemy"
+msgstr "[null]"
+
+msgctxt "Body parts Aliens/KEY_MUTOG_TAIL_BASHER_DESCRIPTION_TEMP"
+msgid "Performs attack that can daze the enemy"
+msgstr "[null]"
+
+msgctxt "Body parts Aliens/KEY_MUTOG_TAIL_SMASHER_DESCRIPTION_TEMP"
+msgid "Performs attack that can cause bleeding"
+msgstr "[null]"
+
+msgctxt "Body parts Aliens/KEY_AC_TORSO_SHIELDS_HOPLITE_NAME_TEMP"
+msgid "SHIELD HOPLITE"
+msgstr "[null]"
+
+msgctxt "Body parts Aliens/KEY_AC_TORSO_SHIELDS_HOPLITE_DESCRIPTION_TEMP"
+msgid "Armoured ancient guardian"
+msgstr "[null]"
+
+msgctxt "Body parts Aliens/KEY_AC_TORSO_DRILL_HOPLITE_NAME_TEMP"
+msgid "DRILL HOPLITE"
+msgstr "[null]"
+
+msgctxt "Body parts Aliens/KEY_AC_TORSO_DRILL_HOPLITE_DECRTIPTION_TEMP"
+msgid "Drill wielding ancient guardian"
+msgstr "[null]"
+
+msgctxt "Body parts Aliens/KEY_AC_LEG_HOPLITE_NAME_TEMP"
+msgid "GUARDIAN LEG"
+msgstr "[null]"
+
+msgctxt "Body parts Aliens/KEY_AC_DRILL_HOPLITE_NAME_TEMP"
+msgid "DRILL"
+msgstr "[null]"
+
+msgctxt "Body parts Aliens/KEY_AC_SHIELD_HOPLITE_NAME_TEMP"
+msgid "ORICHALCUM SHIELDS"
+msgstr "[null]"
+
+msgctxt "Body parts Aliens/KEY_AC_POWERDRILL_TEMP"
+msgid "MUTANE-POWERED DRILL"
+msgstr "[null]"
+
+msgctxt "Body parts Aliens/KEY_AC_GUARDIANBEAM_TEMP"
+msgid "GUARDIAN BEAM"
+msgstr "[null]"
+
+msgctxt "Body parts Aliens/KEY_AC_ORICHALCUMSHIELD_TEMP"
+msgid "LIVING CRYSTAL SHIELD"
+msgstr "[null]"
+
+msgctxt "Body parts Aliens/KEY_AC_LEG_HOPLITE_DESCRIPTION_TEMP"
+msgid "[null]"
+msgstr "[null]"
+
+msgctxt "Body parts Aliens/KEY_AC_DRILL_HOPLITE_DESCRIPTION_TEMP"
+msgid "Mutane-powered drill"
+msgstr "[null]"
+
+msgctxt "Body parts Aliens/KEY_AC_SHIELD_HOPLITE_DESCRIPTION_TEMP"
+msgid "Sharp-edged shields made of Orichalcum"
+msgstr "[null]"
+
+msgctxt "Body parts Aliens/KEY_AC_POWERDRILL_DESCRIPTION_TEMP"
+msgid "A drill powered by Protean Mutane turbine"
+msgstr "[null]"
+
+msgctxt "Body parts Aliens/KEY_AC_GUARDIANBEAM_DESCRIPTION_TEMP"
+msgid "A devastating beam weapon"
+msgstr "[null]"
+
+msgctxt "Body parts Aliens/KEY_AC_ORICHALCUMSHIELD_DESCRIPTION_TEMP"
+msgid "A sharp-edged shield made of Living Crystal"
+msgstr "[null]"
+
+msgctxt "Body parts Aliens/KEY_AC_LEG_CRYSTAL_GUARDIAN_NAME_TEMP"
+msgid "LIVING CRYSTAL LEG"
+msgstr "[null]"
+
+msgctxt "Body parts Aliens/KEY_AC_LEG_ORICHALCUM_GUARDIAN_NAME_TEMP"
+msgid "ORICHALCUM LEG"
+msgstr "[null]"
+
+msgctxt "Body parts Aliens/KEY_AC_LEG_PROTEAN_GUARDIAN_NAME_TEMP"
+msgid "PROTEAN MUTANE LEG"
+msgstr "[null]"
+
+msgctxt "Body parts Aliens/KEY_AC_TORSO_CRYSTAL_GUARDIAN_NAME_TEMP"
+msgid "LIVING CRYSTAL CYCLOPS"
+msgstr "[null]"
+
+msgctxt "Body parts Aliens/KEY_AC_TORSO_ORICHALCUM_GUARDIAN_NAME_TEMP"
+msgid "ORICHALCYM CYCLOPS"
+msgstr "[null]"
+
+msgctxt "Body parts Aliens/KEY_AC_TORSO_PROTEAN_GUARDIAN_NAME_TEMP"
+msgid "PROTEAN MUTANE CYCLOPS"
+msgstr "[null]"
+
+msgctxt "Body parts Aliens/KEY_AC_GUARDIANBEAM_CRYSTAL_NAME_TEMP"
+msgid "LIVING CRYSTAL BEAM"
+msgstr "[null]"
+
+msgctxt "Body parts Aliens/KEY_AC_GUARDIANBEAM_ORICHALCUM_NAME_TEMP"
+msgid "ORICHALCUM BEAM"
+msgstr "[null]"
+
+msgctxt "Body parts Aliens/KEY_AC_GUARDIANBEAM_PROTEAN_NAME_TEMP"
+msgid "PROTEAN MUTANE BEAM"
+msgstr "[null]"
+
+msgctxt "Body parts Aliens/KEY_AC_LEG_CRYSTAL_GUARDIAN_DESCRIPTION_TEMP"
+msgid "Limb made of Living Crystal"
+msgstr "[null]"
+
+msgctxt "Body parts Aliens/KEY_AC_LEG_ORICHALCUM_GUARDIAN_DESCRIPTION_TEMP"
+msgid "Limb made of Orichalcum"
+msgstr "[null]"
+
+msgctxt "Body parts Aliens/KEY_AC_LEG_PROTEAN_GUARDIAN_DESCRIPTION_TEMP"
+msgid "Limb powered by Protean Mutane Gas"
+msgstr "[null]"
+
+msgctxt "Body parts Aliens/KEY_AC_TORSO_CRYSTAL_GUARDIAN_DESCRIPTION_TEMP"
+msgid "Ancient Guardian made of Living Crystal"
+msgstr "[null]"
+
+msgctxt "Body parts Aliens/KEY_AC_TORSO_ORICHALCUM_GUARDIAN_DESCRIPTION_TEMP"
+msgid "Ancient Guardian made of Orichalcum"
+msgstr "[null]"
+
+msgctxt "Body parts Aliens/KEY_AC_TORSO_PROTEAN_GUARDIAN_DESCRIPTION_TEMP"
+msgid "Ancient Guardian powered by Protean Mutane Gas"
+msgstr "[null]"
+
+msgctxt "Body parts Aliens/KEY_AC_GUARDIANBEAM_CRYSTAL_DESCRIPTION_TEMP"
+msgid "A devastating Living Crystal powered beam"
+msgstr "[null]"
+
+msgctxt "Body parts Aliens/KEY_AC_GUARDIANBEAM_ORICHALCUM_DESCRIPTION_TEMP"
+msgid "A devastating Orichalcum powered beam"
+msgstr "[null]"
+
+msgctxt "Body parts Aliens/KEY_AC_GUARDIANBEAM_PROTEAN_DESCRIPTION_TEMP"
+msgid "A devastating Protean Mutane powered beam"
+msgstr "[null]"
 
 msgctxt "Equipment/KEY_AMMO_AN_ACID_HANDGUN_DESCRIPTION"
 msgid "Disciples of Anu Acid Handgun Magazine"
@@ -18387,7 +19611,7 @@ msgid "New Jericho Gauss Auto Turret"
 msgstr "Torretta automatica gauss Nuova Gerico"
 
 msgctxt "Equipment/KEY_TURRET_NAME"
-msgid "Scorcher AT"
+msgid "Watcher AT"
 msgstr "Watcher AT"
 
 msgctxt "Equipment/KEY_VEHICLE_ROCKET_TURRET_DESCRIPTION"
