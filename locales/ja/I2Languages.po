@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2021-02-08 11:34+0000\n"
+"PO-Revision-Date: 2021-02-08 11:38+0000\n"
 "Last-Translator: higema <ltdhyndsh@yahoo.co.jp>\n"
 "Language-Team: \n"
 "Language: ja\n"
@@ -8459,7 +8459,6 @@ msgctxt "Phoenixpedia/KEY_PHOENIXPEDIA_GUIDE_PARALYSE_NAME"
 msgid "Paralyze Damage"
 msgstr "麻痺ダメージ"
 
-#, fuzzy
 #| msgctxt "Phoenixpedia/KEY_PHOENIXPEDIA_GUIDE_PARALYSE_DESC"
 #| msgid ""
 #| "If a weapon inflicts at least some Standard Damage, then the Paralyze Damage value of the weapon is added to the target's paralysis value. Paralysis value can accumulate in a target from multiple "
@@ -8474,7 +8473,7 @@ msgid ""
 "value decreases by 1 per turn, and victims will slowly recover their Action Points. Improved Medkits, Technicians, and Aspidas remove 50% Paralysis when healing.[LF][LF]You will need to paralyze "
 "Pandorans in order to capture them for live research."
 msgstr ""
-"武器が最低でも何らかの通常ダメージを与えた場合、そこからその武器の麻痺ダメージ値がターゲットの麻痺値に加算される。麻痺値は複数回の攻撃によってターゲットに累積する。[LF][LF]ターゲットは、そのキャラクターが持つストレングスへの麻痺値の割合に基づくアクションポイントを失う。例を挙げると、麻痺値10とストレングス20を持つキャラクターの場合、APの半分を失うのでターン毎のAPは2となる。麻痺の値が被害者のストレングスを上回った場合、そのキャラクターは完全な麻痺に陥り何もすることができなくなる。[LF][LF]麻痺値はターン毎に1減少していき、被害者は緩やかにAPを回復させていく。[LF][LF]生体研究用のパンドランを捕獲するためには、彼らを麻痺させる必要がある。"
+"武器が最低でも何らかの通常ダメージを与えた場合、そこからその武器の麻痺ダメージ値がターゲットの麻痺値に加算される。麻痺値は複数回の攻撃によってターゲットに累積する。[LF][LF]ターゲットは、そのキャラクターが持つストレングスへの麻痺値の割合に基づくアクションポイントを失う。例を挙げると、麻痺値10とストレングス20を持つキャラクターの場合、APの半分を失うのでターン毎のAPは2となる。麻痺の値が被害者のストレングスを上回った場合、そのキャラクターは完全な麻痺に陥り何もすることができなくなる。[LF][LF]麻痺値はターン毎に1減少していき、被害者は緩やかにAPを回復させていく。改良型メディキットやテクニシャン、アスピーダによる治療が行われた場合、麻痺の50%が同時に取り除かれる。[LF][LF]生体研究用のパンドランを捕獲するためには、彼らを麻痺させる必要がある。"
 
 msgctxt "Phoenixpedia/KEY_PHOENIXPEDIA_GUIDE_VIRUS_NAME"
 msgid "Virus Damage"
@@ -8889,7 +8888,6 @@ msgctxt "General Tactical Hints/KEY_TAC_HINT_ENEMY_SPECIAL_SNIPER_DESCRIPTION"
 msgid "Tritons have developed the skill to use sniper rifles, posing a significant long range threat."
 msgstr "トリトンがスナイパーライフルを使用するための技能を発達させ、長距離における深刻な脅威となっています。"
 
-#, fuzzy
 #| msgctxt "General Tactical Hints/KEY_TAC_HINT_ENEMY_SPECIAL_SHROWD_NAME"
 #| msgid "PANDORAN SUPPLEMENTAL - SHROWD"
 msgctxt "General Tactical Hints/KEY_TAC_HINT_ENEMY_SPECIAL_SHROWD_NAME"
@@ -14745,12 +14743,11 @@ msgctxt "Roster Screen/KEY_VEHICLE_LIMIT"
 msgid "Only one Vehicle can be deployed into a mission"
 msgstr "ミッションに展開できる車両は1台のみです"
 
-#, fuzzy
 #| msgctxt "PH_Localization/KEY_HAVEN_RECRUIT_BUTTON_TT"
 #| msgid "Recruit this soldier"
 msgctxt "Roster Screen/KEY_GEOROSTER_RENAME_CHARACTER"
 msgid "Rename this soldier?"
-msgstr "この兵士を雇用"
+msgstr "この兵士の名前を変更しますか?"
 
 msgctxt "Diplomacy and Factions/KEY_DIPLOMACY_ANU"
 msgid "The Exalted"
@@ -15664,7 +15661,6 @@ msgctxt "Haven Screen/KEY_GEOSCAPE_ZONE_ENERGY_ZONE_NAME"
 msgid "ENERGY GENERATION"
 msgstr "発電施設"
 
-#, fuzzy
 #| msgctxt "Haven Screen/KEY_GEOSCAPE_ZONE_ENERGY_ZONE_DESCRIPTION"
 #| msgid "Energy generation zones enable factories, food production, resarch centers and other special zones to function."
 msgctxt "Haven Screen/KEY_GEOSCAPE_ZONE_ENERGY_ZONE_DESCRIPTION"
@@ -17521,7 +17517,6 @@ msgid ""
 "to 4 soldiers through hazardous environments without the risk of infection."
 msgstr "ハイブリッド充電とバイオ燃料を使用する、完全AI制御の全地形装甲兵員輸送車。自動式ガウスガンタレットを備えたこの車両は、最大4名の兵士を乗せて感染の危険を負わせることなく有害な環境を通過することができる。"
 
-#, fuzzy
 #| msgctxt "Characters and classes/KEY_GROUNDVEHICLE_SYN_LONG"
 #| msgid ""
 #| "Based on aircraft technology, the Aspida is a combat ready hovercraft tha powered entirely through fusion cell technology. Capable of transporting a squad of 3, the vehicle is equipped with "
@@ -18172,35 +18167,30 @@ msgctxt "Body parts/KEY_SPAWNERY_BODY_NAME"
 msgid "BODY"
 msgstr "ボディ"
 
-#, fuzzy
 #| msgctxt "Body parts/KEY_CARAPACE_HEAVY_DESCRIPTION"
 #| msgid "HEAVY CARAPACE"
 msgctxt "Body parts Aliens/KEY_YUGGOTH_HEAVY_CARAPACE_NAME_TEMP"
 msgid "HEAVY CARAPACE"
 msgstr "ヘビー カラパス"
 
-#, fuzzy
 #| msgctxt "Body parts/KEY_EYE_NAME"
 #| msgid "EYE"
 msgctxt "Body parts Aliens/KEY_YUGGOTH_EYE_NAME_TEMP"
 msgid "EYE"
 msgstr "アイ"
 
-#, fuzzy
 #| msgctxt "Body parts/KEY_HEAD_DESCRIPTION"
 #| msgid "HEAD"
 msgctxt "Body parts Aliens/KEY_HEAD_NAME_TEMP"
 msgid "HEAD"
 msgstr "ヘッド"
 
-#, fuzzy
 #| msgctxt "Body parts/KEY_ROOTS"
 #| msgid "ROOTS"
 msgctxt "Body parts Aliens/KEY_ROOTS_NAME_TEMP"
 msgid "ROOTS"
 msgstr "ルート"
 
-#, fuzzy
 #| msgctxt "Body parts/KEY_TENTACLE_NAME"
 #| msgid "TENTACLE"
 msgctxt "Body parts Aliens/KEY_YUGGOTH_TENTACLE_NAME_TEMP"
