@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2021-02-08 11:29+0000\n"
+"PO-Revision-Date: 2021-02-08 11:34+0000\n"
 "Last-Translator: higema <ltdhyndsh@yahoo.co.jp>\n"
 "Language-Team: \n"
 "Language: ja\n"
@@ -5259,14 +5259,13 @@ msgstr ""
 #| msgid "Base Infestation Warning!"
 msgctxt "Behemoth/KEY_GEOSCAPE_ALIEN_RAID_INFEST_HAVEN_STARTED"
 msgid "Alien Infestation raid started!"
-msgstr "エイリアンの侵襲が始まった!"
+msgstr "エイリアンの侵襲が開始された!"
 
-#, fuzzy
 #| msgctxt "PH_Localization/KEY_ROSTER_LOCATION_PX_BASE_TT"
 #| msgid "Soldier is assigned to a Phoenix base"
 msgctxt "Behemoth/KEY_GEOSCAPE_ALIEN_RAID_BOMB_PHOENIX_STARTED"
 msgid "Alien raid started against a Phoenix Base!"
-msgstr "兵士はフェニックス基地に配置された"
+msgstr "エイリアンのフェニックス基地に対する襲撃が開始された!"
 
 msgctxt "Behemoth/KEY_GEOSCAPE_ALIEN_RAID_DESTROY_HAVEN_STARTED"
 msgid "Alien Heavy Bombardment raid started against a haven!"
@@ -5320,33 +5319,29 @@ msgctxt "Behemoth/KEY_GEOSCAPE_ALIEN_RAID_DESTROY_HAVEN_FAILED"
 msgid "Alien Heavy Bombardment raid against a haven was destroyed!"
 msgstr ""
 
-#, fuzzy
 #| msgctxt "Geoscape/KEY_PX_AIRSHIP_DESCRIPTION"
 #| msgid "Phoenix Air Vehicle"
 msgctxt "Behemoth/KEY_PX_AIRSHIP_2_DESCRIPTION"
 msgid "Phoenix Air Vehicle"
 msgstr "フェニックス航空機"
 
-#, fuzzy
 #| msgctxt "Game Over/KEY_UNIT_TYPE_MANTICORES"
 #| msgid "MANTICORES"
 msgctxt "Behemoth/KEY_UNIT_TYPE_MASKED_MANTICORES"
 msgid "MASKED MANTICORES"
-msgstr "マンティコア"
+msgstr "マスクド・マンティコア"
 
-#, fuzzy
 #| msgctxt "Geoscape/KEY_GEOSCAPE_PX_AIRCRAFT"
 #| msgid "MANTICORE {0}"
 msgctxt "Behemoth/KEY_GEOSCAPE_PX_AIRCRAFT_2"
 msgid "MASKED MANTICORE {0}"
-msgstr "マンティコア{0}"
+msgstr "マスクド・マンティコア{0}"
 
-#, fuzzy
 #| msgctxt "Geoscape/KEY_PX_AIRSHIP_NAME"
 #| msgid "MANTICORE"
 msgctxt "Behemoth/KEY_PX_AIRSHIP_2_NAME"
 msgid "MASKED MANTICORE"
-msgstr "マンティコア"
+msgstr "マスクド・マンティコア"
 
 msgctxt "Behemoth/KEY_AIRCRAFT_PP_2_LONG"
 msgid "Placeholder description of masked manticore"
@@ -5372,21 +5367,18 @@ msgctxt "Behemoth/KEY_BEHEMOTH_ATTACK_OBJECTIVES"
 msgid "INJECT BEHEMOTH (placeholder)"
 msgstr ""
 
-#, fuzzy
 #| msgctxt "Abilities/KEY_RECOVER_NAME"
 #| msgid "RECOVER"
 msgctxt "Orryx/KEY_STATUS_PANIC_IMMUNITY_NAME"
 msgid "RECOVERED"
-msgstr "リカバー"
+msgstr "リカバー完了"
 
-#, fuzzy
 #| msgctxt "Blood Titanium/KEY_MIND_CONTROL_IMMUNITY_DESCRIPTION"
 #| msgid "Immune to Mind Control."
 msgctxt "Orryx/KEY_STATUS_PANIC_IMMUNITY_DESCRIPTION"
 msgid "Immune to panic for one turn."
-msgstr "マインドコントロールを無効にする。"
+msgstr "1ターンのあいだパニック無効。"
 
-#, fuzzy
 #| msgctxt "Abilities/KEY_BASH_NAME"
 #| msgid "BASH"
 msgctxt "Orryx/KEY_DAMAGE_TYPE_BASH"
@@ -5397,37 +5389,33 @@ msgctxt "Orryx/KEY_DAMAGE_TYPE_BASH_DESC"
 msgid "BASH inflicts damage and shock value equal to held item's weight multiplied by Strength. 25% of the value is applied to the item used for bashing."
 msgstr ""
 
-#, fuzzy
 #| msgctxt "DLC2 Necronomicon/KEY_GEOSCAPE_MESSAGE_EXCAVATION_COMPLETED"
 #| msgid "EXCAVATION COMPLETED"
 msgctxt "Orryx/KEY_OPTIONS_ANIMATION_SPEED_LEVEL"
 msgid "ANIMATION SPEED"
-msgstr "発掘完了"
+msgstr "アニメーションの速度"
 
-#, fuzzy
 #| msgctxt "Abilities/KEY_MUTATION_EXIT_STANCE_NAME"
 #| msgid "STANDARD STANCE"
 msgctxt "Orryx/KEY_OPTIONS_ANIMATION_SPEED_STANDARD"
 msgid "STANDARD"
-msgstr "通常姿勢"
+msgstr "標準"
 
-#, fuzzy
 #| msgctxt "Abilities/KEY_TECHNICIAN_FAST_USE_NAME"
 #| msgid "FAST USE"
 msgctxt "Orryx/KEY_OPTIONS_ANIMATION_SPEED_FAST"
 msgid "FAST"
-msgstr "ファスト・ユーズ"
+msgstr "速い"
 
 msgctxt "Orryx/KEY_OPTIONS_ANIMATION_SPEED_FASTER"
 msgid "VERY FAST"
 msgstr ""
 
-#, fuzzy
 #| msgctxt "Abilities/KEY_TECHNICIAN_FAST_USE_NAME"
 #| msgid "FAST USE"
 msgctxt "Orryx/KEY_OPTIONS_ANIMATION_SPEED_FASTEST"
 msgid "FASTEST"
-msgstr "ファスト・ユーズ"
+msgstr "最速"
 
 msgctxt "Game Over/KEY_GAME_SUMMARY_WORLD_STATE"
 msgid "WORLD STATE"
