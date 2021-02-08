@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2021-02-08 11:09+0000\n"
+"PO-Revision-Date: 2021-02-08 11:13+0000\n"
 "Last-Translator: higema <ltdhyndsh@yahoo.co.jp>\n"
 "Language-Team: \n"
 "Language: ja\n"
@@ -3943,14 +3943,12 @@ msgctxt "Abilities/KEY_USE_MEDKIT_NAME"
 msgid "USE MEDKIT"
 msgstr "メディキット使用"
 
-#, fuzzy
 #| msgctxt "Abilities/KEY_USE_MEDKIT_DESCRIPTION"
 #| msgid "Restore {GeneralHealAmount} Hit Points and remove bleeding and poison"
 msgctxt "Abilities/KEY_USE_ADVANCED_MEDKIT_DESCRIPTION"
 msgid "Restore {GeneralHealAmount} Hit Points and remove bleeding, poison, and 50% paralysis"
-msgstr "{GeneralHealAmount}ヒットポイントを回復して出血と毒を除リ除く"
+msgstr "{GeneralHealAmount}ヒットポイントを回復して出血と毒を除去する。 さらに麻痺値の50%を取り除く。"
 
-#, fuzzy
 #| msgctxt "Abilities/KEY_USE_MEDKIT_NAME"
 #| msgid "USE MEDKIT"
 msgctxt "Abilities/KEY_USE_ADVANCED_MEDKIT_NAME"
@@ -4157,12 +4155,11 @@ msgctxt "Abilities/KEY_SNIPER_WEAK_SPOT_NAME"
 msgid "WEAK SPOT"
 msgstr "ウィーク・スポット"
 
-#, fuzzy
 #| msgctxt "Abilities/KEY_SNIPER_MARK_FOR_DEATH_DESCRIPTION"
 #| msgid "Mark an enemy target. Until the end of the turn, each hit from an attack or individual round gets +10 damage."
 msgctxt "Abilities/KEY_SNIPER_MARK_FOR_DEATH_DESCRIPTION"
 msgid "Mark an enemy target. Until the end of the turn, each hit from an attack or individual round gets +10 damage. This effect does not stack."
-msgstr "敵のターゲットをマークする。 ターン終了時までのあいだ、 そのターゲットに対する攻撃それぞれが+10の追加ダメージを得る。"
+msgstr "敵1体のターゲットをマークする。 ターン終了時までのあいだ、 そのターゲットに対する攻撃それぞれが+10の追加ダメージを得る。 この効果は累積しない。"
 
 msgctxt "Abilities/KEY_SNIPER_MARK_FOR_DEATH_NAME"
 msgid "MARKED FOR DEATH"
@@ -4208,12 +4205,11 @@ msgctxt "Abilities/KEY_TECHNICIAN_MANUAL_CONTROL_NAME"
 msgid "REMOTE CONTROL"
 msgstr "リモート コントロール"
 
-#, fuzzy
 #| msgctxt "Abilities/KEY_TECHNICIAN_FIELD_MEDIC_DESCRIPTION"
 #| msgid "Restore 10 Hit Points and 10 Armor to all body parts of the selected target. Disabled body parts are restored."
 msgctxt "Abilities/KEY_TECHNICIAN_FIELD_MEDIC_DESCRIPTION"
 msgid "Restore 10 Hit Points and 10 Armor to all body parts of the selected target, and remove 50% Paralysis. Disabled body parts are restored."
-msgstr "選択したターゲットの全部位のヒットポイント、 及びアーマーを10回復する。 使用不能になっていた部位は復元される。"
+msgstr "選択したターゲットの全部位のヒットポイント、 及びアーマーを10回復し、さらに麻痺を50%除去する。 使用不能になっていた部位は復元される。"
 
 msgctxt "Abilities/KEY_TECHNICIAN_FIELD_MEDIC_NAME"
 msgid "FIELD MEDIC"
