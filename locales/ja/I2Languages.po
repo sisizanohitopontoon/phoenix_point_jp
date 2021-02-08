@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2021-02-08 13:09+0000\n"
+"PO-Revision-Date: 2021-02-08 13:14+0000\n"
 "Last-Translator: higema <ltdhyndsh@yahoo.co.jp>\n"
 "Language-Team: \n"
 "Language: ja\n"
@@ -19014,32 +19014,28 @@ msgctxt "Body parts Aliens/KEY_CHIRON_TORSO_MORTAR_DESCRIPTION_TEMP"
 msgid "Launches 3 explosive projectiles"
 msgstr "3発の爆発弾を射出する"
 
-#, fuzzy
 #| msgctxt "Body parts/KEY_CHIRON_TORSO_FIREWORM_DESCRIPTION"
 #| msgid "Launch multiple Fireworms over long range"
 msgctxt "Body parts Aliens/KEY_CHIRON_TORSO_FIREWORM_DESCRIPTION_TEMP"
 msgid "Launch 3 Fireworms at long range"
-msgstr "複数のファイアワームを長距離にわたり射出する"
+msgstr "3体のファイアワームを長距離にわたり射出する"
 
-#, fuzzy
 #| msgctxt "Body parts/KEY_CHIRON_TORSO_POISONWORM_DESCRIPTION"
 #| msgid "Launch multiple Poisonworms over long range"
 msgctxt "Body parts Aliens/KEY_CHIRON_TORSO_GOO_DESCRIPTION_TEMP"
 msgid "Launches 3 goo bombs at long range"
-msgstr "複数のポイズンワームを長距離にわたって射出する"
+msgstr "3発の粘液ボムを長距離にわたって射出する"
 
-#, fuzzy
 #| msgctxt "Body parts/KEY_CHIRON_TORSO_POISONWORM_DESCRIPTION"
 #| msgid "Launch multiple Poisonworms over long range"
 msgctxt "Body parts Aliens/KEY_CHIRON_TORSO_POISONWORM_DESCRIPTION_TEMP"
 msgid "Launch 3 Poisonworms at long range"
-msgstr "複数のポイズンワームを長距離にわたって射出する"
+msgstr "3体のポイズンワームを長距離にわたって射出する"
 
 msgctxt "Body parts Aliens/KEY_CHIRON_SMASHER_DESCRIPTION_TEMP"
 msgid "Inflicts heavy damage and destroys armor"
-msgstr ""
+msgstr "大ダメージを与えアーマーを破壊する"
 
-#, fuzzy
 #| msgctxt "Roster Screen/KEY_GEOROSTER_BODY"
 #| msgid "BODY"
 msgctxt "Body parts Aliens/KEY_BODY_NAME_TEMP"
@@ -19053,86 +19049,75 @@ msgctxt "Body parts Aliens/KEY_BODY_DESCRIPTION_TEMP"
 msgid "[null]"
 msgstr "[null]"
 
-#, fuzzy
 #| msgctxt "Characters and classes/FIREWORM EGG"
 #| msgid "ACIDWORM EGG"
 msgctxt "Body parts Aliens/KEY_ACIDWORM_EGG_NAME_TEMP"
 msgid "ACIDEWORM EGG"
 msgstr "アシッドワーム エッグ"
 
-#, fuzzy
 #| msgctxt "Characters and classes/KEY_MINDFRAGGER_EGG_NAME"
 #| msgid "MINDFRAGGER EGG"
 msgctxt "Body parts Aliens/KEY_FACEHUGGER_EGG_NAME_TEMP"
 msgid "MINDFRAGGER EGG"
-msgstr "マインドフラッガーエッグ"
+msgstr "マインドフラッガー エッグ"
 
-#, fuzzy
 #| msgctxt "Characters and classes/KEY_FIREWORM_EGG_NAME"
 #| msgid "FIREWORM EGG"
 msgctxt "Body parts Aliens/KEY_FIREWORM_EGG_NAME_TEMP"
 msgid "FIREWORM EGG"
 msgstr "ファイアワーム エッグ"
 
-#, fuzzy
 #| msgctxt "Characters and classes/KEY_POISONWORM_EGG_NAME"
 #| msgid "POISONWORM EGG"
 msgctxt "Body parts Aliens/KEY_POISONWORM_EGG_NAME_TEMP"
 msgid "POISONWORM EGG"
-msgstr "ポイズンワームエッグ"
+msgstr "ポイズンワーム エッグ"
 
-#, fuzzy
 #| msgctxt "Characters and classes/KEY_ALIEN_SWARMER_NAME"
 #| msgid "SWARMER"
 msgctxt "Body parts Aliens/KEY_SWARMER_EGG_NAME_TEMP"
 msgid "SWARMER EGG"
-msgstr "スウォーマー"
+msgstr "スウォーマー エッグ"
 
-#, fuzzy
 #| msgctxt "Abilities/KEY_SPAWN_ACIDWORM_DESCRIPTION"
 #| msgid "Give birth to a Acidworm"
 msgctxt "Body parts Aliens/KEY_ACIDWORM_EGG_DESCRIPTION_TEMP"
 msgid "Hatches an Acidworm"
-msgstr "アシッドワームを生む"
+msgstr "アシッドワームが孵化する"
 
-#, fuzzy
 #| msgctxt "Characters and classes/KEY_ALN_MINDFRAGGER_DESCRIPTION"
 #| msgid "Mindfragger"
 msgctxt "Body parts Aliens/KEY_FACEHUGGER_EGG_DESCRIPTION_TEMP"
 msgid "Hatches a Mindfragger"
-msgstr "マインドフラッガー"
+msgstr "マインドフラッガーが孵化する"
 
-#, fuzzy
 #| msgctxt "Abilities/KEY_SPAWN_FIREWORM_DESCRIPTION"
 #| msgid "Give birth to a Fireworm"
 msgctxt "Body parts Aliens/KEY_FIREWORM_EGG_DESCRIPTION_TEMP"
 msgid "Hatches a Fireworm"
-msgstr "ファイアワームを生む"
+msgstr "ファイアワームが孵化する"
 
-#, fuzzy
 #| msgctxt "Tutorial 2 to 4/KEY_TUT3_POISONWORM_NAME"
 #| msgid "Tactical Tip: Poisonworms"
 msgctxt "Body parts Aliens/KEY_POISONWORM_EGG_DESCRIPTION_TEMP"
 msgid "Hatches a Poisonworm"
-msgstr "戦闘Tip: ポイズンワーム"
+msgstr "ポイズンワームが孵化する"
 
 msgctxt "Body parts Aliens/KEY_SWARMER_EGG_DESCRIPTION_TEMP"
 msgid "Hatches a Swarmer"
-msgstr ""
+msgstr "スウォーマーが孵化する"
 
-#, fuzzy
 #| msgctxt "Body parts/KEY_LEG_DESCRIPTION"
 #| msgid "LEG"
 msgctxt "Body parts Aliens/KEY_LEG_NAME_TEMP"
 msgid "LEG"
 msgstr "レッグ"
 
-#, fuzzy
 #| msgctxt "Characters and classes/KEY_MINDFRAGGER_EGG_NAME"
 #| msgid "MINDFRAGGER EGG"
 msgctxt "Body parts Aliens/KEY_FACEHUGGER_HEAD_NAME_TEMP"
 msgid "MINDFRAGGER HEAD"
-msgstr "マインドフラッガーエッグ"
+msgstr "マインドフラッガー ヘッド"
 
 #, fuzzy
 #| msgctxt "DLC2 Necronomicon/KEY_BASE_FACILITY_ARCHAEOLOGYLAB_NAME"
@@ -19143,16 +19128,14 @@ msgstr "[null]"
 
 msgctxt "Body parts Aliens/KEY_FACEHUGGER_HEAD_DESCRIPTION_TEMP"
 msgid "Attaches to enemy unit's head and mind controls him"
-msgstr ""
+msgstr "敵ユニットの頭部に張り付きマインドコントロールする"
 
-#, fuzzy
 #| msgctxt "Body parts/KEY_SENSOR_HEAD_NAME"
 #| msgid "SENSOR HEAD"
 msgctxt "Body parts Aliens/KEY_TRITON_SENSOR_HEAD_NAME_TEMP"
 msgid "SENSOR HEAD"
 msgstr "センサーヘッド"
 
-#, fuzzy
 #| msgctxt "Body parts/KEY_QUEEN_SONIC_HEAD_NAME"
 #| msgid "SONIC HEAD"
 msgctxt "Body parts Aliens/KEY_TRITON_SOUND_HEAD_NAME_TEMP"
