@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2021-02-08 11:58+0000\n"
+"PO-Revision-Date: 2021-02-08 12:04+0000\n"
 "Last-Translator: higema <ltdhyndsh@yahoo.co.jp>\n"
 "Language-Team: \n"
 "Language: ja\n"
@@ -18137,7 +18137,7 @@ msgstr "ランチャーアーム"
 
 msgctxt "Body parts/KEY_ARTHRON_GRENADE_ARM_DESCRIPTION"
 msgid "Organic Grenade Launcher"
-msgstr "オーガニックグレネードランチャー"
+msgstr "生体グレネードランチャー"
 
 msgctxt "Body parts/KEY_ABDOMEN_BELCHER_NAME"
 msgid "BELCHER ABDOMEN"
@@ -18729,7 +18729,6 @@ msgctxt "Body parts Aliens/KEY_ARTHRON_GRENADE_ARM_DESCRIPTION_TEMP"
 msgid "Organic Grenade Launcher"
 msgstr "生体グレネードランチャー"
 
-#, fuzzy
 #| msgctxt "Equipment/KEY_SHIELD_DESCRIPTION"
 #| msgid "Arthron shield"
 msgctxt "Body parts Aliens/KEY_ARTHRON_SHIELD_ARM_DESCRIPTION_TEMP"
@@ -18740,40 +18739,35 @@ msgctxt "Body parts Aliens/KEY_ARTHRON_LEG_AGILE_DESCRIPTION_TEMP"
 msgid "Increases the creatures' speed"
 msgstr ""
 
-#, fuzzy
 #| msgctxt "Equipment/KEY_NEU_HEAVY_LEGS_DESCRIPTION"
 #| msgid "Heavy Leg Armor"
 msgctxt "Body parts Aliens/KEY_ARTHRON_LEG_HEAVY_DESCRIPTION_TEMP"
 msgid "Heavy armored limb"
-msgstr "ヘビー レッグアーマー"
+msgstr "重装甲の脚部"
 
-#, fuzzy
 #| msgctxt "Body parts/KEY_HEAD_SPITTER_DESCRIPTION"
 #| msgid "Spits poison at short range"
 msgctxt "Body parts Aliens/KEY_ARTHRON_HEAD_SPITTER_DESCRIPTION_TEMP"
 msgid "Spits poison at short range"
-msgstr "短い範囲に毒を吐き出す"
+msgstr "短射程の毒を吐き出す"
 
-#, fuzzy
 #| msgctxt "Equipment/KEY_NJ_MACHINE_GUN_DESCRIPTION"
 #| msgid "New Jericho Gauss Machine Gun"
 msgctxt "Body parts Aliens/KEY_ARTHRON_MACHINE_GUN_DESCRIPTION_TEMP"
 msgid "Organic Machine Gun"
-msgstr "ニュージェリコ ガウスマシンガン"
+msgstr "生体マシンガン"
 
-#, fuzzy
 #| msgctxt "Body parts/KEY_PINCER_DESCRIPTION"
 #| msgid "An Arthron pincer"
 msgctxt "Body parts Aliens/KEY_ARTHRON_PINCER_DESCRIPTION_TEMP"
 msgid "Arthron melee attack pincer"
-msgstr "アースロンのハサミ"
+msgstr "アースロンの近接攻撃用のハサミ"
 
-#, fuzzy
 #| msgctxt "Body parts/KEY_BODYPART_SCYLLA_MIST_LAUNCHER_DESC"
 #| msgid "Launchers projectiles that generate mist"
 msgctxt "Body parts Aliens/KEY_ARTHRON_VIRAL_MACHINE_GUN_DESCRIPTION_TEMP"
 msgid "Launches projectiles causing viral damage"
-msgstr "ミストを発生させる弾を射出する"
+msgstr "ウィルスダメージを与える弾を発射する"
 
 #, fuzzy
 #| msgctxt "Body parts/KEY_CARAPACE_HEAVY_DESCRIPTION"
@@ -18858,12 +18852,11 @@ msgctxt "Body parts Aliens/KEY_ARTHRON_ELITE_ACID_GRENADE_ARM_DESCRIPTION_TEMP"
 msgid "Launches acid grenades"
 msgstr "ハンド グレネード"
 
-#, fuzzy
 #| msgctxt "Blood Titanium/KEY_ARTHRON_ACID_GRENADE_ARM_DESCRIPTION"
 #| msgid "Organic Grenade Launcher"
 msgctxt "Body parts Aliens/KEY_ARTHRON_ELITE_GRENADE_ARM_DESCRIPTION_TEMP"
 msgid "Organic Grenade Launcher"
-msgstr "オーガニックグレネードランチャー"
+msgstr "生体グレネードランチャー"
 
 #, fuzzy
 #| msgctxt "Equipment/KEY_SHIELD_DESCRIPTION"
