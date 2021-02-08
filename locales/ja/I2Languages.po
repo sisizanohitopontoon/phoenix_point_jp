@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2021-02-08 13:30+0000\n"
+"PO-Revision-Date: 2021-02-08 13:35+0000\n"
 "Last-Translator: higema <ltdhyndsh@yahoo.co.jp>\n"
 "Language-Team: \n"
 "Language: ja\n"
@@ -19328,40 +19328,36 @@ msgctxt "Body parts Aliens/KEY_TRITON_ELITE_LEG_AGILE_DESCRIPTION_TEMP"
 msgid "Increases creature's speed"
 msgstr "スピード強化型の脚部"
 
-#, fuzzy
 #| msgctxt "Abilities/KEY_FISHMAN_PAINCHAMELEON_ABILITY_DESCRIPTION"
 #| msgid "Become invisible when dealt damage, and hide in a nearby location"
 msgctxt "Body parts Aliens/KEY_TRITON_ELITE_LEG_HEAVY_DESCRIPTION_TEMP"
 msgid "Creature becomes invisible when dealt damage"
-msgstr "ダメージを受けると透明になり、付近の位置に隠れる"
+msgstr "ダメージを受けた際に自身を透明化させる"
 
 msgctxt "Body parts Aliens/KEY_TRITON_ELITE_ARM_REGENERATION_DESCRIPTION_TEMP"
 msgid "Restores health to damaged limbs"
-msgstr ""
+msgstr "ダメージを受けた四肢のHPを回復させる"
 
-#, fuzzy
 #| msgctxt "Abilities/KEY_FISHMAN_PAINCHAMELEON_ABILITY_DESCRIPTION"
 #| msgid "Become invisible when dealt damage, and hide in a nearby location"
 msgctxt "Body parts Aliens/KEY_TRITON_ELITE_ARM_SHROWDER_DESCRIPTION_TEMP"
 msgid "Creature becomes invisible when dealt damage"
-msgstr "ダメージを受けると透明になり、付近の位置に隠れる"
+msgstr "ダメージを受けた際に自身を透明化させる"
 
-#, fuzzy
 #| msgctxt "Abilities/KEY_FISHMAN_PAINCHAMELEON_ABILITY_DESCRIPTION"
 #| msgid "Become invisible when dealt damage, and hide in a nearby location"
 msgctxt "Body parts Aliens/KEY_TRITON_ELITE_TORSO_SHROWDER_DESCRIPTION_TEMP"
 msgid "Creature becomes invisible when dealt damage"
-msgstr "ダメージを受けると透明になり、付近の位置に隠れる"
+msgstr "ダメージを受けた際に自身を透明化させる"
 
 msgctxt "Body parts Aliens/KEY_TRITON_ELITE_TORSO_REGENERATION_DESCRIPTION_TEMP"
 msgid "Restores health to damaged limbs"
-msgstr ""
+msgstr "ダメージを受けた四肢のHPを回復させる"
 
 msgctxt "Body parts Aliens/KEY_TRITON_ELITE_ARM_BLOODSUCKER_DESCRIPTION_TEMP"
 msgid "Damages the enemy and regenerates the creature"
-msgstr ""
+msgstr "敵にダメージを与えると同時に自身を再生する"
 
-#, fuzzy
 #| msgctxt "Body parts/KEY_BODYPART_SCYLLA_MIST_LAUNCHER_DESC"
 #| msgid "Launchers projectiles that generate mist"
 msgctxt "Body parts Aliens/KEY_TRITON_ELITE_ARM_MIST_DESCRIPTION_TEMP"
@@ -19370,64 +19366,57 @@ msgstr "ミストを発生させる弾を射出する"
 
 msgctxt "Body parts Aliens/KEY_TRITON_ELITE_ARM_PARALYZING_DESCRIPTION_TEMP"
 msgid "Injects paralyzing agents into the enemy"
-msgstr ""
+msgstr "敵の体内に麻痺性物質を注入する"
 
-#, fuzzy
 #| msgctxt "Body parts/KEY_LEG_AGILE_DESCRIPTION"
 #| msgid "AGILE LEG"
 msgctxt "Body parts Aliens/KEY_MUTOG_LEG_AGILE_NAME_TEMP"
 msgid "AGILE LEG"
 msgstr "アジャイル レッグ"
 
-#, fuzzy
 #| msgctxt "Abilities/KEY_FISHMAN_REGENERATION_ABILITY_NAME"
 #| msgid "REGENERATION"
 msgctxt "Body parts Aliens/KEY_MUTOG_LEG_REGENERATION_NAME_TEMP"
 msgid "REGENERATION LEG"
-msgstr "リジェネレーション"
+msgstr "リジェネレーション レッグ"
 
-#, fuzzy
 #| msgctxt "Body parts/KEY_HEAD_SCREAMER_DESCRIPTION"
 #| msgid "SCREAMING HEAD"
 msgctxt "Body parts Aliens/KEY_MUTOG_HEAD_RAMMING_NAME_TEMP"
 msgid "RAMMING HEAD"
-msgstr "スクリーミング ヘッド"
+msgstr "ラミング ヘッド"
 
-#, fuzzy
 #| msgctxt "Body parts/KEY_HUMAN_TORSO_NAME"
 #| msgid "TORSO"
 msgctxt "Body parts Aliens/KEY_MUTOG_TORSO_NAME_TEMP"
 msgid "TORSO"
 msgstr "トルソー"
 
-#, fuzzy
 #| msgctxt "Body parts/KEY_SENSOR_HEAD_NAME"
 #| msgid "SENSOR HEAD"
 msgctxt "Body parts Aliens/KEY_MUTOG_HEAD_VENOM_NAME_TEMP"
 msgid "VENOMOUS HEAD"
-msgstr "センサーヘッド"
+msgstr "ヴェノマス ヘッド"
 
-#, fuzzy
 #| msgctxt "Body parts/KEY_ARM_SLASHER_DESCRIPTION"
 #| msgid "SLASHER ARM"
 msgctxt "Body parts Aliens/KEY_MUTOG_TAIL_BASHER_NAME_TEMP"
 msgid "BASHER TAIL"
-msgstr "スラッシャー アーム"
+msgstr "バッシャー テール"
 
-#, fuzzy
 #| msgctxt "Body parts/KEY_ARM_SLASHER_DESCRIPTION"
 #| msgid "SLASHER ARM"
 msgctxt "Body parts Aliens/KEY_MUTOG_TAIL_SMASHER_NAME_TEMP"
 msgid "SLASHER TAIL"
-msgstr "スラッシャー アーム"
+msgstr "スラッシャー テール"
 
 msgctxt "Body parts Aliens/KEY_MUTOG_LEG_AGILE_DESCRIPTION_TEMP"
 msgid "Increases the speed of the mutog"
-msgstr ""
+msgstr "このミュートッグのスピードを向上させる"
 
 msgctxt "Body parts Aliens/KEY_MUTOG_LEG_REGENERATION_DESCRIPTION_TEMP"
 msgid "Regenerates injuries every turn"
-msgstr ""
+msgstr "毎ターン傷を再生する"
 
 msgctxt "Body parts Aliens/KEY_MUTOG_HEAD_RAMMING_DESCRIPTION_TEMP"
 msgid "Capable of shredding armor and dazing the enemy"
