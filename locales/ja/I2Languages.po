@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2021-02-08 11:13+0000\n"
+"PO-Revision-Date: 2021-02-08 11:18+0000\n"
 "Last-Translator: higema <ltdhyndsh@yahoo.co.jp>\n"
 "Language-Team: \n"
 "Language: ja\n"
@@ -4447,21 +4447,18 @@ msgctxt "Abilities/KEY_USE_THROW_TURRET_NAME"
 msgid "THROW TURRET"
 msgstr "タレット投擲"
 
-#, fuzzy
 #| msgctxt "Abilities/KEY_USE_VIROPHAGE_KIT_DESCRIPTION"
 #| msgid "Restore {GeneralHealAmount} Hit Points, and removes all viral infection"
 msgctxt "Abilities/KEY_USE_ADVANCED_VIROPHAGE_KIT_DESCRIPTION"
 msgid "Restore {GeneralHealAmount} Hit Points, and remove 50% paralysis and all viral infection"
-msgstr "{GeneralHealAmount}のヒットポイントを回復し、 なおかつ全てのウイルス感染を取り除く"
+msgstr "{GeneralHealAmount}のヒットポイントを回復し、 さらに麻痺を50%、ウィルスを100%除去する。"
 
-#, fuzzy
 #| msgctxt "Abilities/KEY_USE_VIROPHAGE_KIT_NAME"
 #| msgid "VIROPHAGE MEDKIT"
 msgctxt "Abilities/KEY_USE_ADVANCED_VIROPHAGE_KIT_NAME"
 msgid "VIROPHAGE MEDKIT"
-msgstr "バイロファージ・メディキット"
+msgstr "バイロファージ メディキット"
 
-#, fuzzy
 #| msgctxt "Abilities/KEY_USE_VIROPHAGE_KIT_DESCRIPTION"
 #| msgid "Restore {GeneralHealAmount} Hit Points, and removes all viral infection"
 msgctxt "Abilities/KEY_USE_VIROPHAGE_KIT_DESCRIPTION"
@@ -4504,12 +4501,11 @@ msgctxt "Abilities/KEY_MIND_CONTROL_MINDFRAGGER_NAME"
 msgid "MIND CONTROL"
 msgstr "マインドコントロール"
 
-#, fuzzy
 #| msgctxt "Abilities/KEY_SY_VEHICLE_FULL_RESTORE_DESCRIPTION"
 #| msgid "Fully heal and repair target"
 msgctxt "Abilities/KEY_SY_VEHICLE_FULL_RESTORE_DESCRIPTION"
 msgid "Fully heal and repair target, remove 50% Paralysis"
-msgstr "ターゲットを完全に回復および修復する"
+msgstr "ターゲットを完全に回復および修復し、麻痺を50%除去する"
 
 msgctxt "Abilities/KEY_SY_VEHICLE_FULL_RESTORE_NAME"
 msgid "FULL RESTORE"
