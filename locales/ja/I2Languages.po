@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2021-02-08 12:09+0000\n"
+"PO-Revision-Date: 2021-02-08 12:13+0000\n"
 "Last-Translator: higema <ltdhyndsh@yahoo.co.jp>\n"
 "Language-Team: \n"
 "Language: ja\n"
@@ -375,7 +375,7 @@ msgstr "OK"
 
 msgctxt "Blood Titanium/KEY_ARTHRON_ACID_GRENADE_ARM_DESCRIPTION"
 msgid "Organic Grenade Launcher"
-msgstr "オーガニックグレネードランチャー"
+msgstr "生体グレネードランチャー"
 
 msgctxt "Blood Titanium/KEY_ARTHRON_ACID_GRENADE_ARM_NAME"
 msgid "ACID LAUNCHER ARM"
@@ -18867,28 +18867,24 @@ msgctxt "Body parts Aliens/KEY_ARTHRON_ELITE_MACHINE_GUN_DESCRIPTION_TEMP"
 msgid "Evolved organic machine gun"
 msgstr ""
 
-#, fuzzy
 #| msgctxt "Body parts/KEY_HEAD_SPITTER_DESCRIPTION"
 #| msgid "Spits poison at short range"
 msgctxt "Body parts Aliens/KEY_ARTHRON_ELITE_HEAD_SPITTER_DESCRIPTION_TEMP"
 msgid "Spits poison at short range"
-msgstr "短い範囲に毒を吐き出す"
+msgstr "短射程の毒を吐き出す"
 
-#, fuzzy
 #| msgctxt "Body parts/KEY_PINCER_DESCRIPTION"
 #| msgid "An Arthron pincer"
 msgctxt "Body parts Aliens/KEY_ARTHRON_ELITE_PINCER_DESCRIPTION_TEMP"
 msgid "Evolved Arthron pincer"
-msgstr "アースロンのハサミ"
+msgstr "進化したアースロンのハサミ"
 
-#, fuzzy
 #| msgctxt "Body parts/KEY_BODYPART_SCYLLA_MIST_LAUNCHER_DESC"
 #| msgid "Launchers projectiles that generate mist"
 msgctxt "Body parts Aliens/KEY_ARTHRON_ELITE_VIRAL_MACHINE_GUN_DESCRIPTION_TEMP"
 msgid "Launches projectiles causing viral damage"
-msgstr "ミストを発生させる弾を射出する"
+msgstr "ウィルスダメージを与える弾を発射する"
 
-#, fuzzy
 #| msgctxt "Body parts/KEY_LEG_AGILE_DESCRIPTION"
 #| msgid "AGILE LEG"
 msgctxt "Body parts Aliens/KEY_CHIRON_LEG_AGILE_NAME_TEMP"
@@ -18903,84 +18899,72 @@ msgctxt "Body parts Aliens/KEY_CHIRON_LEG_STOMPING_NAME_TEMP"
 msgid "STOMPING LEG"
 msgstr ""
 
-#, fuzzy
 #| msgctxt "Body parts/KEY_HEAD_DESCRIPTION"
 #| msgid "HEAD"
 msgctxt "Body parts Aliens/KEY_CHIRON_HEAD_NAME_TEMP"
 msgid "HEAD"
 msgstr "ヘッド"
 
-#, fuzzy
 #| msgctxt "Body parts/KEY_LEG_HEAVY_DESCRIPTION"
 #| msgid "HEAVY LEG"
 msgctxt "Body parts Aliens/KEY_CHIRON_LEG_HEAVY_NAME_TEMP"
 msgid "HEAVY LEG"
 msgstr "ヘビー レッグ"
 
-#, fuzzy
 #| msgctxt "Body parts/KEY_LEG_HEAVY_DESCRIPTION"
 #| msgid "HEAVY LEG"
 msgctxt "Body parts Aliens/KEY_CHIRON_LEG_NAME_TEMP"
 msgid "HEAVY LEG"
 msgstr "ヘビー レッグ"
 
-#, fuzzy
 #| msgctxt "Body parts/KEY_HUMAN_TORSO_NAME"
 #| msgid "TORSO"
 msgctxt "Body parts Aliens/KEY_CHIRON_TORSO_NAME_TEMP"
 msgid "TORSO"
 msgstr "トルソー"
 
-#, fuzzy
 #| msgctxt "Blood Titanium/KEY_CHIRON_TORSO_ACID_MORTAR_DESCRIPTION"
 #| msgid "ACID ABDOMEN"
 msgctxt "Body parts Aliens/KEY_CHIRON_TORSO_ACID_MORTAR_NAME_TEMP"
 msgid "ACID ABDOMEN"
-msgstr "酸射出型腹部"
+msgstr "アシッド アブドメン"
 
-#, fuzzy
 #| msgctxt "Body parts/KEY_CHIRON_TORSO_ACIDWORM_NAME"
 #| msgid "ACIDWORM ABDOMEN"
 msgctxt "Body parts Aliens/KEY_CHIRON_TORSO_ACIDWORM_NAME_TEMP"
 msgid "ACIDWORM ABDOMEN"
 msgstr "アシッドワーム アブドメン"
 
-#, fuzzy
 #| msgctxt "Body parts/KEY_CHIRON_TORSO_MORTAR_DESCRIPTION"
 #| msgid "EXPLOSIVE BOMB ABDOMEN"
 msgctxt "Body parts Aliens/KEY_CHIRON_TORSO_MORTAR_NAME_TEMP"
 msgid "EXPLOSIVE BOMB ABDOMEN"
 msgstr "エクスプローシブボム アブドメン"
 
-#, fuzzy
 #| msgctxt "Body parts/KEY_CHIRON_TORSO_FIREWORM_NAME"
 #| msgid "FIREWORM ABDOMEN"
 msgctxt "Body parts Aliens/KEY_CHIRON_TORSO_FIREWORM_NAME_TEMP"
 msgid "FIREWORM ABDOMEN"
 msgstr "ファイアワーム アブドメン"
 
-#, fuzzy
 #| msgctxt "Body parts/KEY_CHIRON_TORSO_GOO_DESCRIPTION"
 #| msgid "GOO ABDOMEN"
 msgctxt "Body parts Aliens/KEY_CHIRON_TORSO_GOO_NAME_TEMP"
 msgid "GOO ABDOMEN"
 msgstr "グー アブドメン"
 
-#, fuzzy
 #| msgctxt "Body parts/KEY_CHIRON_TORSO_POISONWORM_NAME"
 #| msgid "POISONWORM ABDOMEN"
 msgctxt "Body parts Aliens/KEY_CHIRON_TORSO_POISONWORM_NAME_TEMP"
 msgid "POISONWORM ABDOMEN"
 msgstr "ポイズンワーム アブドメン"
 
-#, fuzzy
 #| msgctxt "Body parts/KEY_LEG_HEAVY_DESCRIPTION"
 #| msgid "HEAVY LEG"
 msgctxt "Body parts Aliens/KEY_CHIRON_SMASHER_NAME_TEMP"
 msgid "HEAVY LEG"
 msgstr "ヘビー レッグ"
 
-#, fuzzy
 #| msgctxt "Abilities/KEY_SCYLLA_LEAP_DESC"
 #| msgid "Leap to a target location, destroying everything in its path"
 msgctxt "Body parts Aliens/KEY_CHIRON_LEG_AGILE_DESCRIPTION_TEMP"
@@ -18995,19 +18979,17 @@ msgctxt "Body parts Aliens/KEY_CHIRON_LEG_STOMPING_DESCRIPTION_TEMP"
 msgid "Area attack that can daze multiple targets"
 msgstr ""
 
-#, fuzzy
 #| msgctxt "Characters and classes/KEY_ALN_CHIRON_DESCRIPTION"
 #| msgid "Chiron"
 msgctxt "Body parts Aliens/KEY_CHIRON_HEAD_DESCRIPTION_TEMP"
 msgid "Chiron head"
-msgstr "ケイロン"
+msgstr "ケイロンの頭部"
 
-#, fuzzy
 #| msgctxt "Equipment/KEY_NEU_HEAVY_LEGS_DESCRIPTION"
 #| msgid "Heavy Leg Armor"
 msgctxt "Body parts Aliens/KEY_CHIRON_LEG_HEAVY_DESCRIPTION_TEMP"
 msgid "Heavy armored limb"
-msgstr "ヘビー レッグアーマー"
+msgstr "重装甲の脚部"
 
 msgctxt "Body parts Aliens/KEY_CHIRON_LEG_DESCRIPTION_TEMP"
 msgid "Inflicts heavy damage and destroys armor"
