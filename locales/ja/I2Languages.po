@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2021-02-08 13:50+0000\n"
+"PO-Revision-Date: 2021-02-08 13:52+0000\n"
 "Last-Translator: higema <ltdhyndsh@yahoo.co.jp>\n"
 "Language-Team: \n"
 "Language: ja\n"
@@ -5241,7 +5241,7 @@ msgstr ""
 
 msgctxt "Polaris/KEY_BUTTON_UNDO"
 msgid "UNDO"
-msgstr ""
+msgstr "元に戻す"
 
 msgctxt "Behemoth/KEY_GEOSCAPE_ALIEN_RAID_RECON_STARTED"
 msgid "Alien Recon raid started!"
@@ -18207,19 +18207,17 @@ msgctxt "Body parts Aliens/KEY_YUGGOTH_EYE_DESCRIPTION_TEMP"
 msgid "Eye of Yuggoth"
 msgstr "ユゴスの眼"
 
-#, fuzzy
 #| msgctxt "DLC2 Necronomicon/KEY_BASE_FACILITY_ARCHAEOLOGYLAB_NAME"
 #| msgid "[null]"
 msgctxt "Body parts Aliens/KEY_HEAD_DESCRIPTION_TEMP"
 msgid "[null]"
-msgstr "[null]"
+msgstr ""
 
-#, fuzzy
 #| msgctxt "DLC2 Necronomicon/KEY_BASE_FACILITY_ARCHAEOLOGYLAB_NAME"
 #| msgid "[null]"
 msgctxt "Body parts Aliens/KEY_ROOTS_DESCRIPTION_TEMP"
 msgid "[null]"
-msgstr "[null]"
+msgstr ""
 
 #| msgctxt "Cinematic Subtitles/KEY_YUGGOTHIANRESEARCH_SYMES2_02"
 #| msgid "The creature we came to call the Yuggothian Entity."
@@ -18539,12 +18537,11 @@ msgctxt "Body parts Aliens/KEY_SIREN_TAIL_ORICHALCUM_DESCRIPTION_TEMP"
 msgid "Slightly improved durability and damage"
 msgstr "耐久性とダメージの若干の向上"
 
-#, fuzzy
 #| msgctxt "DLC2 Necronomicon/KEY_BASE_FACILITY_ARCHAEOLOGYLAB_NAME"
 #| msgid "[null]"
 msgctxt "Body parts Aliens/KEY_SIREN_TORSO_DESCRIPTION_TEMP"
 msgid "[null]"
-msgstr "[null]"
+msgstr ""
 
 msgctxt "Body parts Aliens/KEY_SIREN_ARM_INJECTOR_DESCRIPTION_TEMP"
 msgid "Inflicts standard and viral damage"
@@ -18586,26 +18583,23 @@ msgctxt "Body parts Aliens/KEY_SPAWNERY_SHELL_NAME_TEMP"
 msgid "SHELL"
 msgstr "シェル"
 
-#, fuzzy
 #| msgctxt "DLC2 Necronomicon/KEY_BASE_FACILITY_ARCHAEOLOGYLAB_NAME"
 #| msgid "[null]"
 msgctxt "Body parts Aliens/KEY_SPAWNERY_BODY_DESCRIPTION_TEMP"
 msgid "[null]"
-msgstr "[null]"
+msgstr ""
 
-#, fuzzy
 #| msgctxt "DLC2 Necronomicon/KEY_BASE_FACILITY_ARCHAEOLOGYLAB_NAME"
 #| msgid "[null]"
 msgctxt "Body parts Aliens/KEY_SPAWNERY_EGG_POD_DESCRIPTION_TEMP"
 msgid "[null]"
-msgstr "[null]"
+msgstr ""
 
-#, fuzzy
 #| msgctxt "DLC2 Necronomicon/KEY_BASE_FACILITY_ARCHAEOLOGYLAB_NAME"
 #| msgid "[null]"
 msgctxt "Body parts Aliens/KEY_SPAWNERY_SHELL_DESCRIPTION_TEMP"
 msgid "[null]"
-msgstr "[null]"
+msgstr ""
 
 #| msgctxt "Body parts/KEY_CARAPACE_DESCRIPTION"
 #| msgid "CARAPACE"
@@ -18703,12 +18697,11 @@ msgctxt "Body parts Aliens/KEY_ARTHRON_CARAPACE_DESCRIPTION_TEMP"
 msgid "Arthron carapace"
 msgstr "アースロンの甲殻"
 
-#, fuzzy
 #| msgctxt "DLC2 Necronomicon/KEY_BASE_FACILITY_ARCHAEOLOGYLAB_NAME"
 #| msgid "[null]"
 msgctxt "Body parts Aliens/KEY_HEAD_ELITE_DESCRIPTION_TEMP"
 msgid "[null]"
-msgstr "[null]"
+msgstr ""
 
 #| msgctxt "Body parts/KEY_BODYPART_SCYLLA_MIST_LAUNCHER_DESC"
 #| msgid "Launchers projectiles that generate mist"
@@ -19042,12 +19035,11 @@ msgctxt "Body parts Aliens/KEY_BODY_NAME_TEMP"
 msgid "BODY"
 msgstr "ボディ"
 
-#, fuzzy
 #| msgctxt "DLC2 Necronomicon/KEY_BASE_FACILITY_ARCHAEOLOGYLAB_NAME"
 #| msgid "[null]"
 msgctxt "Body parts Aliens/KEY_BODY_DESCRIPTION_TEMP"
 msgid "[null]"
-msgstr "[null]"
+msgstr ""
 
 #| msgctxt "Characters and classes/FIREWORM EGG"
 #| msgid "ACIDWORM EGG"
@@ -19119,12 +19111,11 @@ msgctxt "Body parts Aliens/KEY_FACEHUGGER_HEAD_NAME_TEMP"
 msgid "MINDFRAGGER HEAD"
 msgstr "マインドフラッガー ヘッド"
 
-#, fuzzy
 #| msgctxt "DLC2 Necronomicon/KEY_BASE_FACILITY_ARCHAEOLOGYLAB_NAME"
 #| msgid "[null]"
 msgctxt "Body parts Aliens/KEY_LEG_DESCRIPTION_TEMP"
 msgid "[null]"
-msgstr "[null]"
+msgstr ""
 
 msgctxt "Body parts Aliens/KEY_FACEHUGGER_HEAD_DESCRIPTION_TEMP"
 msgid "Attaches to enemy unit's head and mind controls him"
@@ -19500,12 +19491,11 @@ msgctxt "Body parts Aliens/KEY_AC_ORICHALCUMSHIELD_TEMP"
 msgid "LIVING CRYSTAL SHIELD"
 msgstr "リビングクリスタル シールド"
 
-#, fuzzy
 #| msgctxt "DLC2 Necronomicon/KEY_BASE_FACILITY_ARCHAEOLOGYLAB_NAME"
 #| msgid "[null]"
 msgctxt "Body parts Aliens/KEY_AC_LEG_HOPLITE_DESCRIPTION_TEMP"
 msgid "[null]"
-msgstr "[null]"
+msgstr ""
 
 msgctxt "Body parts Aliens/KEY_AC_DRILL_HOPLITE_DESCRIPTION_TEMP"
 msgid "Mutane-powered drill"
@@ -19621,18 +19611,17 @@ msgstr "プロティアンミューテーンガスで動く古代ガーディア
 
 msgctxt "Body parts Aliens/KEY_AC_GUARDIANBEAM_CRYSTAL_DESCRIPTION_TEMP"
 msgid "A devastating Living Crystal powered beam"
-msgstr "リビングクリスタルから出力される圧倒的威力のビーム"
+msgstr "リビングクリスタルで出力される圧倒的威力のビーム"
 
-#, fuzzy
 #| msgctxt "DLC2 Necronomicon/KEY_AC_GUARDIANBEAM_DESCRIPTION"
 #| msgid "A devastating beam weapon."
 msgctxt "Body parts Aliens/KEY_AC_GUARDIANBEAM_ORICHALCUM_DESCRIPTION_TEMP"
 msgid "A devastating Orichalcum powered beam"
-msgstr "圧倒的な破壊力を持つビーム兵器"
+msgstr "オリハルコンで出力される圧倒的威力のビーム"
 
 msgctxt "Body parts Aliens/KEY_AC_GUARDIANBEAM_PROTEAN_DESCRIPTION_TEMP"
 msgid "A devastating Protean Mutane powered beam"
-msgstr ""
+msgstr "プロティアンミューテーンで出力される圧倒的威力のビーム"
 
 msgctxt "Equipment/KEY_AMMO_AN_ACID_HANDGUN_DESCRIPTION"
 msgid "Disciples of Anu Acid Handgun Magazine"
