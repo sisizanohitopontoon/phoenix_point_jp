@@ -3855,7 +3855,7 @@ msgid "TECHNICIAN REPAIR"
 msgstr "技术维修"
 
 msgctxt "Abilities/KEY_TECHNICIAN_RESTORE_DESCRIPTION"
-msgid "Restore {GeneralHealAmount} to the general Hit Points of an allied unit using 1 charge"
+msgid "Restore {GeneralHealAmount} to the general Hit Points and remove 50% paralysis of an allied unit using 1 charge"
 msgstr "使用 1 点充能使一名友方单位恢复 {GeneralHealAmount} 点生命值"
 
 msgctxt "Abilities/KEY_TECHNICIAN_RESTORE_NAME"
@@ -4159,8 +4159,8 @@ msgid "REMOTE CONTROL"
 msgstr "远程控制"
 
 msgctxt "Abilities/KEY_TECHNICIAN_FIELD_MEDIC_DESCRIPTION"
-msgid "Restore 10 Hit Points and 10 Armor to all body parts of the selected target, and remove 50% Paralysis. Disabled body parts are restored."
-msgstr "为所选目标的所有身体部位恢复 10 点生命值和 10 点护甲，并移除 50% 的麻痹值。治愈损坏的身体部位。"
+msgid "Restore 10 Hit Points and 10 Armor to all body parts of the selected target. Disabled body parts are restored."
+msgstr "为所选目标的所有身体部位恢复 10 点生命值和 10 点护甲。治愈损坏的身体部位。"
 
 msgctxt "Abilities/KEY_TECHNICIAN_FIELD_MEDIC_NAME"
 msgid "FIELD MEDIC"
@@ -5182,6 +5182,14 @@ msgctxt "Polaris/KEY_BUTTON_UNDO"
 msgid "UNDO"
 msgstr "撤消"
 
+msgctxt "Polaris/KEY_MISSION_HAVEN_INFESTATION"
+msgid "Clear haven infestation PLACEHOLDER"
+msgstr "[null]"
+
+msgctxt "Polaris/KEY_MISSION_HAVEN_INFESTATION_DESCRIPTION"
+msgid "Clear haven infestation description PLACEHOLDER"
+msgstr "[null]"
+
 msgctxt "Behemoth/KEY_GEOSCAPE_ALIEN_RAID_RECON_STARTED"
 msgid "Alien Recon raid started!"
 msgstr "[null]"
@@ -5292,6 +5300,14 @@ msgstr "[null]"
 
 msgctxt "Behemoth/KEY_BEHEMOTH_ATTACK_OBJECTIVES"
 msgid "INJECT BEHEMOTH (placeholder)"
+msgstr "[null]"
+
+msgctxt "Behemoth/KEY_SECTION_TECH_CENTER"
+msgid "TECH CENTER"
+msgstr "[null]"
+
+msgctxt "Behemoth/KEY_GEOSCAPE_MANTICORE_AVAILABLE_AFTER_ACTIVATION"
+msgid "Manticore available after activation"
 msgstr "[null]"
 
 msgctxt "Orryx/KEY_STATUS_PANIC_IMMUNITY_NAME"
@@ -6265,6 +6281,10 @@ msgstr "迷雾"
 msgctxt "Tutorial/KEY_TUTORIAL_MIST_DESCRIPTION"
 msgid "The mist represents THE PROGRESSION OF THE PANDORAVIRUS as it spreads throughout the globe. The Pandoran mutations will attempt to build colonies on areas of land covered by the mist, which will then attack nearby havens.[LF][LF]To meet this threat you will need to produce equipment.[LF][LF]SELECT THE \"\"MANUFACTURING\"\" BUTTON[LF]"
 msgstr "迷雾代表潘多拉病毒在全球传播的进程。潘多拉变异体试图在迷雾覆盖的土地上建立殖民地，然后攻击附近的避难所。[LF][LF]为了应对这一威胁，你需要生产各种设备。[LF][LF]选择“制造”按钮[LF]"
+
+msgctxt "Tutorial/KEY_TUTORIAL_MIST_DESCRIPTION_2"
+msgid "The mist represents THE PROGRESSION OF THE PANDORAVIRUS as it spreads throughout the globe. The Pandoran mutations will attempt to build colonies on areas of land covered by the mist, which will then attack nearby havens.[LF][LF]To meet this threat you will need to produce equipment.[LF][LF]SELECT THE \"\"TECH CENTER\"\" BUTTON AND GO TO \"\"MANUFACTURING\"\"[LF]"
+msgstr "[null]"
 
 msgctxt "Tutorial/KEY_TUTORIAL_DOOMCLOCK_NAME"
 msgid "Human Population"
@@ -7571,7 +7591,7 @@ msgid "Evacuation Zones"
 msgstr "撤离区域"
 
 msgctxt "Tutorial 2 to 4/KEY_TUT4_EVACUTATIONZONES_DESCRIPTION"
-msgid "Once you have gathered all the loot you can manage, evacuate all your soldiers from the battlefield via an evacuation zone. You don't have to get everything, so don't take unnecessary risks.[LF][LF]"
+msgid "[null]"
 msgstr "收集到所有能拿到的战利品后，你可以通过撤离区域将所有士兵撤离战场。没有必要拿走一切，因此无需冒不必要的风险。"
 
 msgctxt "Tutorial 2 to 4/KEY_TUT4_RECOURCEPACKS_NAME"
@@ -7665,142 +7685,6 @@ msgstr "拯救奥马尔·阿舒尔"
 msgctxt "Tutorial 2 to 4/KEY_TUT3_MISSIONEND"
 msgid "Reclaim Phoenix Point"
 msgstr "夺回凤凰点"
-
-msgctxt "Geoscape Hints/KEY_GEO_HINT_TECH_TITLE"
-msgid "TECH SHORTAGE"
-msgstr "科技短缺"
-
-msgctxt "Geoscape Hints/KEY_GEO_HINT_TECH_DESC"
-msgid "You are low on TECH which is the rarest resource to find. Here are some suggestions to relieve your shortage:[LF][LF]TRADE: Visit havens with the Tech resource symbol and trade Food or Materials for Tech.[LF]STEAL: Visit a haven with the Tech resource symbol and conduct a STEAL RESOURCES mission. WARNING: This will antagonize the controlling faction.[LF]SCAVENGE: Explore and locate more scavenging sites.[LF]SCRAP: You can scrap items, or demolish base facilities to recover Tech resources.[LF]REWARDS: Haven defence missions will get you Tech, but greater amounts from havens with RESEARCH zones, or SYNEDRION havens."
-msgstr "你的科技过低，这是一种最稀缺的资源。以下是一些缓解窘境的建议：[LF][LF] 交易：拜访具有科技资源符号的避难所，用食物或材料交换科技。[LF]窃取：拜访具有科技资源符号的避难所，并进行一次窃取资源任务。注意：这将激怒控制资源的派系。[LF]搜寻：探索并找到更多的回收地点。[LF]拆卸：你可以拆解物品，或者拆除基地设施来回收科技资源。[LF]奖励：完成避难所防守任务可以获得科技，带有研究区域的避难所和平衡议会的避难所拥有更多的科技资源。"
-
-msgctxt "Geoscape Hints/KEY_GEO_HINT_MATERIALS_TITLE"
-msgid "MATERIALS SHORTAGE"
-msgstr "材料短缺"
-
-msgctxt "Geoscape Hints/KEY_GEO_HINT_MATERIALS_DESC"
-msgid "You are low on MATERIALS which is the most commonly needed resource. Here are some suggestions to relieve your shortage:[LF][LF]TRADE: Visit havens with the Materials resource symbol and trade Food or Tech for Materials.[LF]STEAL: Visit a haven with the Materials resource symbol and conduct a STEAL RESOURCES mission. WARNING: This will antagonize the controlling faction.[LF]SCAVENGE: Explore and locate more scavenging sites.[LF]SCRAP: You can scrap items, or demolish base facilities to recover Materials.[LF]REWARDS: Haven defence missions will get you Materials, but greater amounts from havens with FACTORY zones, or NEW JERICHO havens."
-msgstr "你的材料资源过低，这是一种需求最为广泛的资源。以下是一些缓解窘境的建议：[LF][LF] 交易：拜访具有科技资源符号的避难所，用食物或科技交换材料。[LF]窃取：拜访具有材料资源符号的避难所，并进行一次窃取资源任务。注意：这将激怒控制资源的派系。[LF]搜寻：探索并找到更多的回收地点。[LF]拆卸：你可以拆解物品，或者拆除基地设施来回收材料资源。[LF]奖励：完成避难所防御任务可以获得材料，带有工厂区的避难所和新耶利哥的避难所拥有更多的材料资源。"
-
-msgctxt "Geoscape Hints/KEY_GEO_HINT_FOOD_TITLE"
-msgid "FOOD SHORTAGE"
-msgstr "食物短缺"
-
-msgctxt "Geoscape Hints/KEY_GEO_HINT_FOOD_DESC"
-msgid "You are low on FOOD which is needed to keep your soldiers alive and healthy. Here are some suggestions to relieve your shortage:[LF][LF]TRADE: Visit havens with the Food resource symbol and trade Tech or Materials for Food.[LF]STEAL: Visit a haven with the Food resource symbol and conduct a STEAL RESOURCES mission. WARNING: This will antagonize the controlling faction.[LF]SCAVENGE: Explore and locate more scavenging sites.[LF]REWARDS: Haven defence missions will get you Food, but greater amounts from havens with FOOD zones, or DISCIPLES OF ANU havens."
-msgstr "你的食物资源过低，这是一种用来养活士兵并保持士兵健康的资源。以下是一些缓解窘境的建议：[LF][LF] 交易：拜访具有食物资源符号的避难所，用科技或材料交换食物。[LF]窃取：拜访具有食物资源符号的避难所，并进行一次窃取资源任务。注意：这将激怒控制资源的派系。[LF]搜寻：探索并找到更多的回收地点。[LF]奖励：完成避难所防御任务可以获得食物，带有食物区域的避难所和安努门徒教会的避难所拥有更多的食物资源。"
-
-msgctxt "Geoscape Hints/KEY_GEO_HINT_CUSTOMIZE_TITLE"
-msgid "CUSTOMIZATION"
-msgstr "自定义"
-
-msgctxt "Geoscape Hints/KEY_GEO_HINT_CUSTOMIZE_DESC"
-msgid "You can customize the appearance and names of your soldiers. You can use this to easily identify your key soldiers on the battlefield."
-msgstr "你可以自定义士兵的外观和名字。你可以利用这些定制元素在战场上轻松辨认关键的士兵。"
-
-msgctxt "Geoscape Hints/KEY_GEO_HINT_STARVATION_TITLE"
-msgid "STARVATION"
-msgstr "饥饿"
-
-msgctxt "Geoscape Hints/KEY_GEO_HINT_STARVATION_DESC"
-msgid "Most havens will be suffering from some degree of starvation, which will reduce the population meter over time. Food production is usually insufficient, and a small proportion of underfed populations will starve each day.[LF][LF]The starvation rate is dramatically increased if the haven is within a Pandoran mist zone, because scavenging for food becomes more hazardous."
-msgstr "大多数避难所都会遭受某种程度的饥饿，随着时间的推移，这将使人口仪表的数值下降。粮食生产通常并不不足够，有一小部分营养不良的人口每天都会挨饿。[LF][LF] 如果避难所处于潘多拉迷雾地带，饥饿率会急剧上升，因为在这些地区寻找食物更加危险。"
-
-msgctxt "Geoscape Hints/KEY_GEO_HINT_DIPLOMACY_BLOCKED_TITLE"
-msgid "DIPLOMACY PROGRESSION BLOCKED"
-msgstr "外交进展受阻"
-
-msgctxt "Geoscape Hints/KEY_GEO_HINT_DIP_ANU1_DESC"
-msgid "The attitude of the DISCIPLES OF ANU towards the Phoenix Project cannot improve further until you have completed their diplomancy mission. Check the DIPLOMACY tab for details. Once the mission is successfully completed, they will become SUPPORTIVE and reveal the locations of all their havens."
-msgstr "在完成安努门徒教会的外交任务之前，他们对凤凰计划的态度将不会有进一步的提升。选择“外交”选项卡查看详细信息。任务完成后，派系关系就会变为“支持”，并且会显示该派系所有避难所的位置。"
-
-msgctxt "Geoscape Hints/KEY_GEO_HINT_DIP_NJ1_DESC"
-msgid "The attitude of NEW JERICHO to the Phoenix Project cannot improve further until you have completed their diplomancy mission. Check the DIPLOMACY tab for details. Once the mission is successfully completed, they will become SUPPORTIVE and reveal the locations of all their havens."
-msgstr "在完成新耶利哥的外交任务之前，他们对凤凰计划的态度将不会有进一步的提升。选择“外交”选项卡查看详细信息。任务完成后，派系关系就会变为“支持”，并且会显示该派系所有避难所的位置。"
-
-msgctxt "Geoscape Hints/KEY_GEO_HINT_DIP_SYN1_DESC"
-msgid "The attitude of SYNEDRION to the Phoenix Project cannot improve further until you have completed their diplomancy mission. Check the DIPLOMACY tab for details. Once the mission is successfully completed, they will become SUPPORTIVE and reveal the locations of all their havens."
-msgstr "在完成平衡议会的外交任务之前，他们对凤凰计划的态度将不会有进一步的提升。选择“外交”选项卡查看详细信息。任务完成后，派系关系就会变为“支持”，并且会显示该派系所有避难所的位置。"
-
-msgctxt "Geoscape Hints/KEY_GEO_HINT_DIP_ANU2_DESC"
-msgid "The attitude of the DISCIPLES OF ANU towards the Phoenix Project cannot improve further until you have completed their next diplomancy mission. Check the DIPLOMACY tab for details. Once the mission is successfully completed, they will become ALIGNED and share their completed research with you."
-msgstr "在完成安努门徒教会的下一个外交任务之前，他们对凤凰计划的态度将不会有进一步的提升。选择“外交”选项卡查看详细信息。任务完成后，派系关系就会变为“达成一致”，并且该派系会与你分享他们已经完成了的研究。"
-
-msgctxt "Geoscape Hints/KEY_GEO_HINT_DIP_NJ2_DESC"
-msgid "The attitude of NEW JERICHO to the Phoenix Project cannot improve further until you have completed their next diplomancy mission. Check the DIPLOMACY tab for details. Once the mission is successfully completed, they will become ALIGNED and share their completed research with you."
-msgstr "在完成新耶利哥的下一个外交任务之前，他们对凤凰计划的态度将不会有进一步的提升。选择“外交”选项卡查看详细信息。任务完成后，派系关系就会变为“达成一致”，并且该派系会与你分享他们已经完成了的研究。"
-
-msgctxt "Geoscape Hints/KEY_GEO_HINT_DIP_SYN2_DESC"
-msgid "The attitude of SYNEDRION to the Phoenix Project cannot improve further until you have completed their next diplomancy mission. Check the DIPLOMACY tab for details. Once the mission is successfully completed, they will become ALIGNED and share their completed research with you."
-msgstr "在完成平衡议会的下一个外交任务之前，他们对凤凰计划的态度将不会有进一步的提升。选择“外交”选项卡查看详细信息。任务完成后，派系关系就会变为“达成一致”，并且该派系会与你分享他们已经完成了的研究。"
-
-msgctxt "Geoscape Hints/KEY_GEO_HINT_DIP_ANU3_DESC"
-msgid "The attitude of the DISCIPLES OF ANU towards the Phoenix Project cannot improve further until you have completed their next diplomancy mission. Check the DIPLOMACY tab for details. Once the mission is successfully completed, they will become ALLIED and you can find a solution to the Pandoran threat together."
-msgstr "在完成安努门徒教会的下一个外交任务之前，他们对凤凰计划的态度将不会有进一步的提升。选择“外交”选项卡查看详细信息。任务完成后，派系关系就会变为“结为同盟”，你们将齐心协力，共同寻找解决潘多拉体威胁的办法。"
-
-msgctxt "Geoscape Hints/KEY_GEO_HINT_DIP_NJ3_DESC"
-msgid "The attitude of NEW JERICHO to the Phoenix Project cannot improve further until you have completed their next diplomacy mission. Check the DIPLOMACY tab for details. Once the mission is successfully completed, they will become ALLIED and you can find a solution to the Pandoran threat together."
-msgstr "在完成新耶利哥的下一个外交任务之前，他们对凤凰计划的态度将不会有进一步的提升。选择“外交”选项卡查看详细信息。任务完成后，派系关系就会变为“结为同盟”，你们将齐心协力，共同寻找解决潘多拉体威胁的办法。"
-
-msgctxt "Geoscape Hints/KEY_GEO_HINT_DIP_SYN3_DESC"
-msgid "The attitude of SYNEDRION to the Phoenix Project cannot improve further until you have completed their next diplomancy mission. Check the DIPLOMACY tab for details. Once the mission is successfully completed, they will become ALLIED and you can find a solution to the Pandoran threat together."
-msgstr "在完成平衡议会的下一个外交任务之前，他们对凤凰计划的态度将不会有进一步的提升。选择“外交”选项卡查看详细信息。任务完成后，派系关系就会变为“结为同盟”，你们将齐心协力，共同寻找解决潘多拉体威胁的办法。"
-
-msgctxt "Geoscape Hints/KEY_GEO_HINT_MORE_LABS_TITLE"
-msgid "BUILD MORE RESEARCH LABS"
-msgstr "建造更多研究实验室"
-
-msgctxt "Geoscape Hints/KEY_GEO_HINT_MORE_LABS_DESC"
-msgid "Research is critical for developing your forces and finding a solution for defeating the Pandoran menace permanently. The more labs you have, the faster research will be completed.[LF][LF]A quick way to gain more research labs is to activate a Phoenix base with a research lab. Make sure it is repaired if needed, and fully powered."
-msgstr "研究对发展部队和找到彻底击败潘多拉体威胁的方法至关重要。实验室越多，研究就会完成得越快。[LF][LF] 获得更多研究实验室的捷径是激活具有研究实验室的凤凰基地。如果有必要的话，确保将其修理完善且保持充足的电力。"
-
-msgctxt "Geoscape Hints/KEY_GEO_HINT_MORE_FABS_TITLE"
-msgid "BUILD MORE FABRICATION PLANTS"
-msgstr "建造更多制造厂"
-
-msgctxt "Geoscape Hints/KEY_GEO_HINT_MORE_FABS_DESC"
-msgid "Fabrication plants are important for building equipment and vehicles. The more you have, the quicker you will be able to produce things.[LF][LF]A quick way to gain more fabrication plants is to activate a Phoenix base containing one. Make sure it is repaired if needed, and fully powered."
-msgstr "对于建造装备和载具而言，制造厂十分重要。你拥有的制造厂越多，就能越快地生产东西。[LF][LF] 获得更多制造厂的捷径是激活具有制造厂的凤凰基地。如果有必要的话，确保将其修理完善且保持充足的电力。"
-
-msgctxt "Geoscape Hints/KEY_GEO_HINT_MORE_BASES_TITLE"
-msgid "ACTIVATE A PHOENIX BASE"
-msgstr "激活一个凤凰基地"
-
-msgctxt "Geoscape Hints/KEY_GEO_HINT_MORE_BASES_DESC"
-msgid "You should consider activating another Phoenix base as soon as possible. Activate one near another mist outbreak, and make sure you build or repair a satellite uplink so you can scan areas covered by mist. This will locate havens potentially threatened by Pandoran attack.[LF][LF]Another consideration is to activate bases with valuable facilities - especially research labs."
-msgstr "你应该考虑尽快激活另一个凤凰基地。激活迷雾爆发附近的另一座基地，并确保建立或修复卫星上行系统，从而扫描被迷雾覆盖的区域。这样一来，就有可能发现受到潘多拉体攻击的避难所。[LF][LF] 另一个提议是激活带有高价值设施的基地，尤其是研究实验室。"
-
-msgctxt "Geoscape Hints/KEY_GEO_HINT_LESS_BASES_TITLE"
-msgid "BASE ACTIVATION STRATEGY"
-msgstr "基地激活策略"
-
-msgctxt "Geoscape Hints/KEY_GEO_HINT_LESS_BASES_DESC"
-msgid "Be careful not to activate too many Phoenix bases too quickly. Your initial consideration should be to activate bases near mist outbreaks so you can scan for havens under attack. The next consideration is to gain valuable facilities, such as research labs."
-msgstr "注意，不要在短时间内激活过多的凤凰基地。你的最初思路应该是激活迷雾爆发点附近的基地，这样就可以扫描受到攻击的避难所。接下来要考虑的是获得一些高价值的设施，比如研究实验室。"
-
-msgctxt "Geoscape Hints/KEY_GEO_HINT_PHOENIX_PATH_TITLE"
-msgid "PATH OF THE PHOENIX"
-msgstr "凤凰之路"
-
-msgctxt "Geoscape Hints/KEY_GEO_HINT_PHOENIX_PATH_DESC"
-msgid "Be warned - if you complete this research then only the Phoenix solution will be available to you. All endings provided by allied factions will be locked out. You have a chance to change your mind by cancelling this research. If you are sure that the Phoenix way is best, then continue."
-msgstr "警告：如果你完成了这项研究，那么你将只能使用凤凰解决方案。所有结盟派系提供的结局都将被锁定。你还有一次机会可以取消这项研究。如果你确信凤凰计划的方法是最佳方案，请继续研究。"
-
-msgctxt "Geoscape Hints/KEY_GEO_HINT_PROCESSING_TITLE"
-msgid "PROCESSING"
-msgstr "加工处理"
-
-msgctxt "Geoscape Hints/KEY_GEO_HINT_PROCESSING_DESC"
-msgid "Exotic resources are worthless unless refined by the correct processing site. You will need to conquer both the processing site and matching resource sites."
-msgstr "外来资源必须经过相应的加工场提炼，否则就毫无价值。你需要同时征服加工场和与其匹配的资源点。"
-
-msgctxt "Geoscape Hints/KEY_GEO_HINT_MORE_AIRCRAFT_TITLE"
-msgid "ACQUIRE MORE AIRCRAFT"
-msgstr "获得更多飞行器"
-
-msgctxt "Geoscape Hints/KEY_GEO_HINT_MORE_AIRCRAFT_DESC"
-msgid "In order to improve the reach and effectiveness of the Phoenix organisation you will need more aircraft. An aircraft with a small squad or vehicle can be used to explore. Having two or more full combat squads in different continents will improve your abilitiy to take on missions. You have two ways to get more aircraft:[LF][LF]BUILD: Building an aircraft is slow, so this is best done when you have 3 or more Fabrication Plants across your bases, and plenty of resources.[LF][LF]STEAL: The quickest way to get another aircraft is to steal it. You need a squad at the same location as another faction's aircraft. Then you can select the STEAL AIRCRAFT mission from the site menu, or the haven info screen. This will antagonize the faction owning the aircraft."
-msgstr "为了提高凤凰组织的影响范围和效率，你需要更多的飞行器。搭乘小规模队伍或载具的飞行器可用于执行探索。在不同的大洲拥有至少两支完整的战斗小队将提高你执行任务的能力。你有两种方法来获得更多飞行器：[LF][LF] 建造：建造一架飞行器十分缓慢，因此你的基地中最好拥有 3 座或以上的制造厂，并且有足够的资源。[LF][LF] 窃取：获得另一架飞行器的最快途径就是窃取。你需要将一支小队与另一个派系的飞行器部署在同一位置。然后从地点菜单或避难所信息界面，选择“窃取飞行器”任务。这将激怒拥有该飞行器的派系。"
 
 msgctxt "Phoenixpedia/KEY_PHOENIXPEDIA_SECTION_GUIDE"
 msgid "GUIDE"
@@ -9045,6 +8929,142 @@ msgstr "按 TAB 切换目标"
 msgctxt "Tactical/KEY_FREE_AIM_TAB_TO_SWITCH_REBIND"
 msgid "[<color=#ECBA62>{[NextCharacter]}</color>] to switch target"
 msgstr "按 [<color=#ECBA62>{[NextCharacter]}</color>] 切换目标"
+
+msgctxt "Geoscape Hints/KEY_GEO_HINT_TECH_TITLE"
+msgid "TECH SHORTAGE"
+msgstr "科技短缺"
+
+msgctxt "Geoscape Hints/KEY_GEO_HINT_TECH_DESC"
+msgid "You are low on TECH which is the rarest resource to find. Here are some suggestions to relieve your shortage:[LF][LF]TRADE: Visit havens with the Tech resource symbol and trade Food or Materials for Tech.[LF]STEAL: Visit a haven with the Tech resource symbol and conduct a STEAL RESOURCES mission. WARNING: This will antagonize the controlling faction.[LF]SCAVENGE: Explore and locate more scavenging sites.[LF]SCRAP: You can scrap items, or demolish base facilities to recover Tech resources.[LF]REWARDS: Haven defence missions will get you Tech, but greater amounts from havens with RESEARCH zones, or SYNEDRION havens."
+msgstr "你的科技过低，这是一种最稀缺的资源。以下是一些缓解窘境的建议：[LF][LF] 交易：拜访具有科技资源符号的避难所，用食物或材料交换科技。[LF]窃取：拜访具有科技资源符号的避难所，并进行一次窃取资源任务。注意：这将激怒控制资源的派系。[LF]搜寻：探索并找到更多的回收地点。[LF]拆卸：你可以拆解物品，或者拆除基地设施来回收科技资源。[LF]奖励：完成避难所防守任务可以获得科技，带有研究区域的避难所和平衡议会的避难所拥有更多的科技资源。"
+
+msgctxt "Geoscape Hints/KEY_GEO_HINT_MATERIALS_TITLE"
+msgid "MATERIALS SHORTAGE"
+msgstr "材料短缺"
+
+msgctxt "Geoscape Hints/KEY_GEO_HINT_MATERIALS_DESC"
+msgid "You are low on MATERIALS which is the most commonly needed resource. Here are some suggestions to relieve your shortage:[LF][LF]TRADE: Visit havens with the Materials resource symbol and trade Food or Tech for Materials.[LF]STEAL: Visit a haven with the Materials resource symbol and conduct a STEAL RESOURCES mission. WARNING: This will antagonize the controlling faction.[LF]SCAVENGE: Explore and locate more scavenging sites.[LF]SCRAP: You can scrap items, or demolish base facilities to recover Materials.[LF]REWARDS: Haven defence missions will get you Materials, but greater amounts from havens with FACTORY zones, or NEW JERICHO havens."
+msgstr "你的材料资源过低，这是一种需求最为广泛的资源。以下是一些缓解窘境的建议：[LF][LF] 交易：拜访具有科技资源符号的避难所，用食物或科技交换材料。[LF]窃取：拜访具有材料资源符号的避难所，并进行一次窃取资源任务。注意：这将激怒控制资源的派系。[LF]搜寻：探索并找到更多的回收地点。[LF]拆卸：你可以拆解物品，或者拆除基地设施来回收材料资源。[LF]奖励：完成避难所防御任务可以获得材料，带有工厂区的避难所和新耶利哥的避难所拥有更多的材料资源。"
+
+msgctxt "Geoscape Hints/KEY_GEO_HINT_FOOD_TITLE"
+msgid "FOOD SHORTAGE"
+msgstr "食物短缺"
+
+msgctxt "Geoscape Hints/KEY_GEO_HINT_FOOD_DESC"
+msgid "You are low on FOOD which is needed to keep your soldiers alive and healthy. Here are some suggestions to relieve your shortage:[LF][LF]TRADE: Visit havens with the Food resource symbol and trade Tech or Materials for Food.[LF]STEAL: Visit a haven with the Food resource symbol and conduct a STEAL RESOURCES mission. WARNING: This will antagonize the controlling faction.[LF]SCAVENGE: Explore and locate more scavenging sites.[LF]REWARDS: Haven defence missions will get you Food, but greater amounts from havens with FOOD zones, or DISCIPLES OF ANU havens."
+msgstr "你的食物资源过低，这是一种用来养活士兵并保持士兵健康的资源。以下是一些缓解窘境的建议：[LF][LF] 交易：拜访具有食物资源符号的避难所，用科技或材料交换食物。[LF]窃取：拜访具有食物资源符号的避难所，并进行一次窃取资源任务。注意：这将激怒控制资源的派系。[LF]搜寻：探索并找到更多的回收地点。[LF]奖励：完成避难所防御任务可以获得食物，带有食物区域的避难所和安努门徒教会的避难所拥有更多的食物资源。"
+
+msgctxt "Geoscape Hints/KEY_GEO_HINT_CUSTOMIZE_TITLE"
+msgid "CUSTOMIZATION"
+msgstr "自定义"
+
+msgctxt "Geoscape Hints/KEY_GEO_HINT_CUSTOMIZE_DESC"
+msgid "You can customize the appearance and names of your soldiers. You can use this to easily identify your key soldiers on the battlefield."
+msgstr "你可以自定义士兵的外观和名字。你可以利用这些定制元素在战场上轻松辨认关键的士兵。"
+
+msgctxt "Geoscape Hints/KEY_GEO_HINT_STARVATION_TITLE"
+msgid "STARVATION"
+msgstr "饥饿"
+
+msgctxt "Geoscape Hints/KEY_GEO_HINT_STARVATION_DESC"
+msgid "Most havens will be suffering from some degree of starvation, which will reduce the population meter over time. Food production is usually insufficient, and a small proportion of underfed populations will starve each day.[LF][LF]The starvation rate is dramatically increased if the haven is within a Pandoran mist zone, because scavenging for food becomes more hazardous."
+msgstr "大多数避难所都会遭受某种程度的饥饿，随着时间的推移，这将使人口仪表的数值下降。粮食生产通常并不不足够，有一小部分营养不良的人口每天都会挨饿。[LF][LF] 如果避难所处于潘多拉迷雾地带，饥饿率会急剧上升，因为在这些地区寻找食物更加危险。"
+
+msgctxt "Geoscape Hints/KEY_GEO_HINT_DIPLOMACY_BLOCKED_TITLE"
+msgid "DIPLOMACY PROGRESSION BLOCKED"
+msgstr "外交进展受阻"
+
+msgctxt "Geoscape Hints/KEY_GEO_HINT_DIP_ANU1_DESC"
+msgid "The attitude of the DISCIPLES OF ANU towards the Phoenix Project cannot improve further until you have completed their diplomancy mission. Check the DIPLOMACY tab for details. Once the mission is successfully completed, they will become SUPPORTIVE and reveal the locations of all their havens."
+msgstr "在完成安努门徒教会的外交任务之前，他们对凤凰计划的态度将不会有进一步的提升。选择“外交”选项卡查看详细信息。任务完成后，派系关系就会变为“支持”，并且会显示该派系所有避难所的位置。"
+
+msgctxt "Geoscape Hints/KEY_GEO_HINT_DIP_NJ1_DESC"
+msgid "The attitude of NEW JERICHO to the Phoenix Project cannot improve further until you have completed their diplomancy mission. Check the DIPLOMACY tab for details. Once the mission is successfully completed, they will become SUPPORTIVE and reveal the locations of all their havens."
+msgstr "在完成新耶利哥的外交任务之前，他们对凤凰计划的态度将不会有进一步的提升。选择“外交”选项卡查看详细信息。任务完成后，派系关系就会变为“支持”，并且会显示该派系所有避难所的位置。"
+
+msgctxt "Geoscape Hints/KEY_GEO_HINT_DIP_SYN1_DESC"
+msgid "The attitude of SYNEDRION to the Phoenix Project cannot improve further until you have completed their diplomancy mission. Check the DIPLOMACY tab for details. Once the mission is successfully completed, they will become SUPPORTIVE and reveal the locations of all their havens."
+msgstr "在完成平衡议会的外交任务之前，他们对凤凰计划的态度将不会有进一步的提升。选择“外交”选项卡查看详细信息。任务完成后，派系关系就会变为“支持”，并且会显示该派系所有避难所的位置。"
+
+msgctxt "Geoscape Hints/KEY_GEO_HINT_DIP_ANU2_DESC"
+msgid "The attitude of the DISCIPLES OF ANU towards the Phoenix Project cannot improve further until you have completed their next diplomancy mission. Check the DIPLOMACY tab for details. Once the mission is successfully completed, they will become ALIGNED and share their completed research with you."
+msgstr "在完成安努门徒教会的下一个外交任务之前，他们对凤凰计划的态度将不会有进一步的提升。选择“外交”选项卡查看详细信息。任务完成后，派系关系就会变为“达成一致”，并且该派系会与你分享他们已经完成了的研究。"
+
+msgctxt "Geoscape Hints/KEY_GEO_HINT_DIP_NJ2_DESC"
+msgid "The attitude of NEW JERICHO to the Phoenix Project cannot improve further until you have completed their next diplomancy mission. Check the DIPLOMACY tab for details. Once the mission is successfully completed, they will become ALIGNED and share their completed research with you."
+msgstr "在完成新耶利哥的下一个外交任务之前，他们对凤凰计划的态度将不会有进一步的提升。选择“外交”选项卡查看详细信息。任务完成后，派系关系就会变为“达成一致”，并且该派系会与你分享他们已经完成了的研究。"
+
+msgctxt "Geoscape Hints/KEY_GEO_HINT_DIP_SYN2_DESC"
+msgid "The attitude of SYNEDRION to the Phoenix Project cannot improve further until you have completed their next diplomancy mission. Check the DIPLOMACY tab for details. Once the mission is successfully completed, they will become ALIGNED and share their completed research with you."
+msgstr "在完成平衡议会的下一个外交任务之前，他们对凤凰计划的态度将不会有进一步的提升。选择“外交”选项卡查看详细信息。任务完成后，派系关系就会变为“达成一致”，并且该派系会与你分享他们已经完成了的研究。"
+
+msgctxt "Geoscape Hints/KEY_GEO_HINT_DIP_ANU3_DESC"
+msgid "The attitude of the DISCIPLES OF ANU towards the Phoenix Project cannot improve further until you have completed their next diplomancy mission. Check the DIPLOMACY tab for details. Once the mission is successfully completed, they will become ALLIED and you can find a solution to the Pandoran threat together."
+msgstr "在完成安努门徒教会的下一个外交任务之前，他们对凤凰计划的态度将不会有进一步的提升。选择“外交”选项卡查看详细信息。任务完成后，派系关系就会变为“结为同盟”，你们将齐心协力，共同寻找解决潘多拉体威胁的办法。"
+
+msgctxt "Geoscape Hints/KEY_GEO_HINT_DIP_NJ3_DESC"
+msgid "The attitude of NEW JERICHO to the Phoenix Project cannot improve further until you have completed their next diplomacy mission. Check the DIPLOMACY tab for details. Once the mission is successfully completed, they will become ALLIED and you can find a solution to the Pandoran threat together."
+msgstr "在完成新耶利哥的下一个外交任务之前，他们对凤凰计划的态度将不会有进一步的提升。选择“外交”选项卡查看详细信息。任务完成后，派系关系就会变为“结为同盟”，你们将齐心协力，共同寻找解决潘多拉体威胁的办法。"
+
+msgctxt "Geoscape Hints/KEY_GEO_HINT_DIP_SYN3_DESC"
+msgid "The attitude of SYNEDRION to the Phoenix Project cannot improve further until you have completed their next diplomancy mission. Check the DIPLOMACY tab for details. Once the mission is successfully completed, they will become ALLIED and you can find a solution to the Pandoran threat together."
+msgstr "在完成平衡议会的下一个外交任务之前，他们对凤凰计划的态度将不会有进一步的提升。选择“外交”选项卡查看详细信息。任务完成后，派系关系就会变为“结为同盟”，你们将齐心协力，共同寻找解决潘多拉体威胁的办法。"
+
+msgctxt "Geoscape Hints/KEY_GEO_HINT_MORE_LABS_TITLE"
+msgid "BUILD MORE RESEARCH LABS"
+msgstr "建造更多研究实验室"
+
+msgctxt "Geoscape Hints/KEY_GEO_HINT_MORE_LABS_DESC"
+msgid "Research is critical for developing your forces and finding a solution for defeating the Pandoran menace permanently. The more labs you have, the faster research will be completed.[LF][LF]A quick way to gain more research labs is to activate a Phoenix base with a research lab. Make sure it is repaired if needed, and fully powered."
+msgstr "研究对发展部队和找到彻底击败潘多拉体威胁的方法至关重要。实验室越多，研究就会完成得越快。[LF][LF] 获得更多研究实验室的捷径是激活具有研究实验室的凤凰基地。如果有必要的话，确保将其修理完善且保持充足的电力。"
+
+msgctxt "Geoscape Hints/KEY_GEO_HINT_MORE_FABS_TITLE"
+msgid "BUILD MORE FABRICATION PLANTS"
+msgstr "建造更多制造厂"
+
+msgctxt "Geoscape Hints/KEY_GEO_HINT_MORE_FABS_DESC"
+msgid "Fabrication plants are important for building equipment and vehicles. The more you have, the quicker you will be able to produce things.[LF][LF]A quick way to gain more fabrication plants is to activate a Phoenix base containing one. Make sure it is repaired if needed, and fully powered."
+msgstr "对于建造装备和载具而言，制造厂十分重要。你拥有的制造厂越多，就能越快地生产东西。[LF][LF] 获得更多制造厂的捷径是激活具有制造厂的凤凰基地。如果有必要的话，确保将其修理完善且保持充足的电力。"
+
+msgctxt "Geoscape Hints/KEY_GEO_HINT_MORE_BASES_TITLE"
+msgid "ACTIVATE A PHOENIX BASE"
+msgstr "激活一个凤凰基地"
+
+msgctxt "Geoscape Hints/KEY_GEO_HINT_MORE_BASES_DESC"
+msgid "You should consider activating another Phoenix base as soon as possible. Activate one near another mist outbreak, and make sure you build or repair a satellite uplink so you can scan areas covered by mist. This will locate havens potentially threatened by Pandoran attack.[LF][LF]Another consideration is to activate bases with valuable facilities - especially research labs."
+msgstr "你应该考虑尽快激活另一个凤凰基地。激活迷雾爆发附近的另一座基地，并确保建立或修复卫星上行系统，从而扫描被迷雾覆盖的区域。这样一来，就有可能发现受到潘多拉体攻击的避难所。[LF][LF] 另一个提议是激活带有高价值设施的基地，尤其是研究实验室。"
+
+msgctxt "Geoscape Hints/KEY_GEO_HINT_LESS_BASES_TITLE"
+msgid "BASE ACTIVATION STRATEGY"
+msgstr "基地激活策略"
+
+msgctxt "Geoscape Hints/KEY_GEO_HINT_LESS_BASES_DESC"
+msgid "Be careful not to activate too many Phoenix bases too quickly. Your initial consideration should be to activate bases near mist outbreaks so you can scan for havens under attack. The next consideration is to gain valuable facilities, such as research labs."
+msgstr "注意，不要在短时间内激活过多的凤凰基地。你的最初思路应该是激活迷雾爆发点附近的基地，这样就可以扫描受到攻击的避难所。接下来要考虑的是获得一些高价值的设施，比如研究实验室。"
+
+msgctxt "Geoscape Hints/KEY_GEO_HINT_PHOENIX_PATH_TITLE"
+msgid "PATH OF THE PHOENIX"
+msgstr "凤凰之路"
+
+msgctxt "Geoscape Hints/KEY_GEO_HINT_PHOENIX_PATH_DESC"
+msgid "Be warned - if you complete this research then only the Phoenix solution will be available to you. All endings provided by allied factions will be locked out. You have a chance to change your mind by cancelling this research. If you are sure that the Phoenix way is best, then continue."
+msgstr "警告：如果你完成了这项研究，那么你将只能使用凤凰解决方案。所有结盟派系提供的结局都将被锁定。你还有一次机会可以取消这项研究。如果你确信凤凰计划的方法是最佳方案，请继续研究。"
+
+msgctxt "Geoscape Hints/KEY_GEO_HINT_PROCESSING_TITLE"
+msgid "PROCESSING"
+msgstr "加工处理"
+
+msgctxt "Geoscape Hints/KEY_GEO_HINT_PROCESSING_DESC"
+msgid "Exotic resources are worthless unless refined by the correct processing site. You will need to conquer both the processing site and matching resource sites."
+msgstr "外来资源必须经过相应的加工场提炼，否则就毫无价值。你需要同时征服加工场和与其匹配的资源点。"
+
+msgctxt "Geoscape Hints/KEY_GEO_HINT_MORE_AIRCRAFT_TITLE"
+msgid "ACQUIRE MORE AIRCRAFT"
+msgstr "获得更多飞行器"
+
+msgctxt "Geoscape Hints/KEY_GEO_HINT_MORE_AIRCRAFT_DESC"
+msgid "In order to improve the reach and effectiveness of the Phoenix organisation you will need more aircraft. An aircraft with a small squad or vehicle can be used to explore. Having two or more full combat squads in different continents will improve your abilitiy to take on missions. You have two ways to get more aircraft:[LF][LF]BUILD: Building an aircraft is slow, so this is best done when you have 3 or more Fabrication Plants across your bases, and plenty of resources.[LF][LF]STEAL: The quickest way to get another aircraft is to steal it. You need a squad at the same location as another faction's aircraft. Then you can select the STEAL AIRCRAFT mission from the site menu, or the haven info screen. This will antagonize the faction owning the aircraft."
+msgstr "为了提高凤凰组织的影响范围和效率，你需要更多的飞行器。搭乘小规模队伍或载具的飞行器可用于执行探索。在不同的大洲拥有至少两支完整的战斗小队将提高你执行任务的能力。你有两种方法来获得更多飞行器：[LF][LF] 建造：建造一架飞行器十分缓慢，因此你的基地中最好拥有 3 座或以上的制造厂，并且有足够的资源。[LF][LF] 窃取：获得另一架飞行器的最快途径就是窃取。你需要将一支小队与另一个派系的飞行器部署在同一位置。然后从地点菜单或避难所信息界面，选择“窃取飞行器”任务。这将激怒拥有该飞行器的派系。"
 
 msgctxt "Customization/KEY_CUSTOM_CUSTOMIZE"
 msgid "CUSTOMIZE"

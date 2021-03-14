@@ -3855,7 +3855,7 @@ msgid "TECHNICIAN REPAIR"
 msgstr "REPARACIÓN TÉCNICA"
 
 msgctxt "Abilities/KEY_TECHNICIAN_RESTORE_DESCRIPTION"
-msgid "Restore {GeneralHealAmount} to the general Hit Points of an allied unit using 1 charge"
+msgid "Restore {GeneralHealAmount} to the general Hit Points and remove 50% paralysis of an allied unit using 1 charge"
 msgstr "Devuelve {GeneralHealAmount} puntos de salud generales a una unidad aliada a cambio de 1 carga."
 
 msgctxt "Abilities/KEY_TECHNICIAN_RESTORE_NAME"
@@ -4159,8 +4159,8 @@ msgid "REMOTE CONTROL"
 msgstr "CONTROL REMOTO"
 
 msgctxt "Abilities/KEY_TECHNICIAN_FIELD_MEDIC_DESCRIPTION"
-msgid "Restore 10 Hit Points and 10 Armor to all body parts of the selected target, and remove 50% Paralysis. Disabled body parts are restored."
-msgstr "Devuelve 10 puntos de salud y 10 de armadura a todas las partes del cuerpo del objetivo seleccionado y elimina el 50 % de la parálisis. Las partes inhabilitadas se restablecen."
+msgid "Restore 10 Hit Points and 10 Armor to all body parts of the selected target. Disabled body parts are restored."
+msgstr "Devuelve 10 puntos de salud y 10 de armadura a todas las partes del cuerpo del objetivo seleccionado. Las partes inhabilitadas se restablecen."
 
 msgctxt "Abilities/KEY_TECHNICIAN_FIELD_MEDIC_NAME"
 msgid "FIELD MEDIC"
@@ -5182,6 +5182,14 @@ msgctxt "Polaris/KEY_BUTTON_UNDO"
 msgid "UNDO"
 msgstr "DESHACER"
 
+msgctxt "Polaris/KEY_MISSION_HAVEN_INFESTATION"
+msgid "Clear haven infestation PLACEHOLDER"
+msgstr "[null]"
+
+msgctxt "Polaris/KEY_MISSION_HAVEN_INFESTATION_DESCRIPTION"
+msgid "Clear haven infestation description PLACEHOLDER"
+msgstr "[null]"
+
 msgctxt "Behemoth/KEY_GEOSCAPE_ALIEN_RAID_RECON_STARTED"
 msgid "Alien Recon raid started!"
 msgstr "[null]"
@@ -5292,6 +5300,14 @@ msgstr "[null]"
 
 msgctxt "Behemoth/KEY_BEHEMOTH_ATTACK_OBJECTIVES"
 msgid "INJECT BEHEMOTH (placeholder)"
+msgstr "[null]"
+
+msgctxt "Behemoth/KEY_SECTION_TECH_CENTER"
+msgid "TECH CENTER"
+msgstr "[null]"
+
+msgctxt "Behemoth/KEY_GEOSCAPE_MANTICORE_AVAILABLE_AFTER_ACTIVATION"
+msgid "Manticore available after activation"
 msgstr "[null]"
 
 msgctxt "Orryx/KEY_STATUS_PANIC_IMMUNITY_NAME"
@@ -6265,6 +6281,10 @@ msgstr "La niebla"
 msgctxt "Tutorial/KEY_TUTORIAL_MIST_DESCRIPTION"
 msgid "The mist represents THE PROGRESSION OF THE PANDORAVIRUS as it spreads throughout the globe. The Pandoran mutations will attempt to build colonies on areas of land covered by the mist, which will then attack nearby havens.[LF][LF]To meet this threat you will need to produce equipment.[LF][LF]SELECT THE \"\"MANUFACTURING\"\" BUTTON[LF]"
 msgstr "La niebla representa el progreso del pandoravirus y su propagación por el globo. Las mutaciones pandorianas intentarán construir colonias en las zonas ocultas en la niebla para luego atacar a los refugios cercanos.[LF][LF]Para hacer frente a esta amenaza, necesitas equipo.[LF][LF]SELECCIONA EL BOTÓN DE “FABRICACIÓN”"
+
+msgctxt "Tutorial/KEY_TUTORIAL_MIST_DESCRIPTION_2"
+msgid "The mist represents THE PROGRESSION OF THE PANDORAVIRUS as it spreads throughout the globe. The Pandoran mutations will attempt to build colonies on areas of land covered by the mist, which will then attack nearby havens.[LF][LF]To meet this threat you will need to produce equipment.[LF][LF]SELECT THE \"\"TECH CENTER\"\" BUTTON AND GO TO \"\"MANUFACTURING\"\"[LF]"
+msgstr "[null]"
 
 msgctxt "Tutorial/KEY_TUTORIAL_DOOMCLOCK_NAME"
 msgid "Human Population"
@@ -7571,7 +7591,7 @@ msgid "Evacuation Zones"
 msgstr "Zonas de evacuación"
 
 msgctxt "Tutorial 2 to 4/KEY_TUT4_EVACUTATIONZONES_DESCRIPTION"
-msgid "Once you have gathered all the loot you can manage, evacuate all your soldiers from the battlefield via an evacuation zone. You don't have to get everything, so don't take unnecessary risks.[LF][LF]"
+msgid "[null]"
 msgstr "Cuando hayas reunido todo el botín que puedas, evacúa a tus soldados del campo de batalla en una zona de evacuación. No tienes por qué coger todo lo que haya, así que no corras riesgos innecesarios."
 
 msgctxt "Tutorial 2 to 4/KEY_TUT4_RECOURCEPACKS_NAME"
@@ -7665,142 +7685,6 @@ msgstr "Rescata a Omar Ashour"
 msgctxt "Tutorial 2 to 4/KEY_TUT3_MISSIONEND"
 msgid "Reclaim Phoenix Point"
 msgstr "Recupera Punto Fénix"
-
-msgctxt "Geoscape Hints/KEY_GEO_HINT_TECH_TITLE"
-msgid "TECH SHORTAGE"
-msgstr "ESCASEZ DE TECNOLOGÍA"
-
-msgctxt "Geoscape Hints/KEY_GEO_HINT_TECH_DESC"
-msgid "You are low on TECH which is the rarest resource to find. Here are some suggestions to relieve your shortage:[LF][LF]TRADE: Visit havens with the Tech resource symbol and trade Food or Materials for Tech.[LF]STEAL: Visit a haven with the Tech resource symbol and conduct a STEAL RESOURCES mission. WARNING: This will antagonize the controlling faction.[LF]SCAVENGE: Explore and locate more scavenging sites.[LF]SCRAP: You can scrap items, or demolish base facilities to recover Tech resources.[LF]REWARDS: Haven defence missions will get you Tech, but greater amounts from havens with RESEARCH zones, or SYNEDRION havens."
-msgstr "Tienes escasez en tecnología, el recurso más escaso de todos. Estas son algunas sugerencias para mitigar esa escasez:[LF] [LF] INTERCAMBIA: Visita refugios con el símbolo de la tecnología e intercambia comida o materiales por ella.[LF] ROBA: Visita un refugio con el símbolo de la tecnología y realiza una misión de robo de recursos. Advertencia: Esto pondrá a la facción del lugar en tu contra.[LF] BUSCA: Explora y encuentra más sitios de búsqueda.[LF] DESCARTA: Puedes descartar objetos o demoler bases para recuperar tecnología.[LF] RECOMPENSAS: Las misiones de defensa de refugios te otorgarán tecnología, pero obtendrás cantidades mayores de los refugios con zonas de investigación, o bien de los refugios de Synedrion."
-
-msgctxt "Geoscape Hints/KEY_GEO_HINT_MATERIALS_TITLE"
-msgid "MATERIALS SHORTAGE"
-msgstr "ESCASEZ DE MATERIALES"
-
-msgctxt "Geoscape Hints/KEY_GEO_HINT_MATERIALS_DESC"
-msgid "You are low on MATERIALS which is the most commonly needed resource. Here are some suggestions to relieve your shortage:[LF][LF]TRADE: Visit havens with the Materials resource symbol and trade Food or Tech for Materials.[LF]STEAL: Visit a haven with the Materials resource symbol and conduct a STEAL RESOURCES mission. WARNING: This will antagonize the controlling faction.[LF]SCAVENGE: Explore and locate more scavenging sites.[LF]SCRAP: You can scrap items, or demolish base facilities to recover Materials.[LF]REWARDS: Haven defence missions will get you Materials, but greater amounts from havens with FACTORY zones, or NEW JERICHO havens."
-msgstr "Tienes escasez en materiales, el recurso más necesitado de todos. Estas son algunas sugerencias para mitigar esa escasez:[LF] [LF] INTERCAMBIA: Visita refugios con el símbolo de la materiales e intercambia comida o tecnología por ellos.[LF] ROBA: Visita un refugio con el símbolo de los materiales y realiza una misión de robo de recursos. Advertencia: Esto pondrá a la facción del lugar en tu contra.[LF] BUSCA: Explora y encuentra más sitios de búsqueda.[LF] DESCARTA: Puedes descartar objetos o demoler bases para recuperar materiales.[LF] RECOMPENSAS: Las misiones de defensa de refugios te otorgarán materiales, pero obtendrás cantidades mayores de los refugios con fábricas, o bien de los refugios de Nueva Jericó."
-
-msgctxt "Geoscape Hints/KEY_GEO_HINT_FOOD_TITLE"
-msgid "FOOD SHORTAGE"
-msgstr "ESCASEZ DE COMIDA"
-
-msgctxt "Geoscape Hints/KEY_GEO_HINT_FOOD_DESC"
-msgid "You are low on FOOD which is needed to keep your soldiers alive and healthy. Here are some suggestions to relieve your shortage:[LF][LF]TRADE: Visit havens with the Food resource symbol and trade Tech or Materials for Food.[LF]STEAL: Visit a haven with the Food resource symbol and conduct a STEAL RESOURCES mission. WARNING: This will antagonize the controlling faction.[LF]SCAVENGE: Explore and locate more scavenging sites.[LF]REWARDS: Haven defence missions will get you Food, but greater amounts from havens with FOOD zones, or DISCIPLES OF ANU havens."
-msgstr "Tienes escasez en comida, el recurso más necesario para que tus soldados sigan vivos y sanos. Estas son algunas sugerencias para mitigar esa escasez:[LF][LF] INTERCAMBIA: Visita refugios con el símbolo de la comida e intercambia tecnología o materiales por ella.[LF] ROBA: Visita un refugio con el símbolo de la comida y realiza una misión de robo de recursos. Advertencia: Esto pondrá a la facción del lugar en tu contra.[LF] BUSCA: Explora y encuentra más sitios de búsqueda.[LF] RECOMPENSAS: Las misiones de defensa de refugios te otorgarán comida, pero obtendrás cantidades mayores de los refugios con zonas de comida, o bien de los refugios de los Discípulos de Anu."
-
-msgctxt "Geoscape Hints/KEY_GEO_HINT_CUSTOMIZE_TITLE"
-msgid "CUSTOMIZATION"
-msgstr "PERSONALIZACIÓN"
-
-msgctxt "Geoscape Hints/KEY_GEO_HINT_CUSTOMIZE_DESC"
-msgid "You can customize the appearance and names of your soldiers. You can use this to easily identify your key soldiers on the battlefield."
-msgstr "Puedes personalizar la apariencia y los nombres de tus soldados. Puedes usar esto para identificar fácilmente a tus soldados clave en el campo de batalla."
-
-msgctxt "Geoscape Hints/KEY_GEO_HINT_STARVATION_TITLE"
-msgid "STARVATION"
-msgstr "HAMBRUNA"
-
-msgctxt "Geoscape Hints/KEY_GEO_HINT_STARVATION_DESC"
-msgid "Most havens will be suffering from some degree of starvation, which will reduce the population meter over time. Food production is usually insufficient, and a small proportion of underfed populations will starve each day.[LF][LF]The starvation rate is dramatically increased if the haven is within a Pandoran mist zone, because scavenging for food becomes more hazardous."
-msgstr "La mayoría de los refugios sufrirán de algún grado de hambruna, lo cual reducirá el medidor de población con el paso del tiempo. La producción de comida suele ser insuficiente, y una pequeña proporción de la población desnutrida morirá de hambre cada día.[LF] [LF] El índice de hambruna aumenta considerablemente si el refugio se encuentra en una zona de niebla pandoriana, pues buscar comida se vuelve peligroso."
-
-msgctxt "Geoscape Hints/KEY_GEO_HINT_DIPLOMACY_BLOCKED_TITLE"
-msgid "DIPLOMACY PROGRESSION BLOCKED"
-msgstr "PROGRESO DE LA DIPLOMACIA BLOQUEADO"
-
-msgctxt "Geoscape Hints/KEY_GEO_HINT_DIP_ANU1_DESC"
-msgid "The attitude of the DISCIPLES OF ANU towards the Phoenix Project cannot improve further until you have completed their diplomancy mission. Check the DIPLOMACY tab for details. Once the mission is successfully completed, they will become SUPPORTIVE and reveal the locations of all their havens."
-msgstr "La actitud de los Discípulos de Anu hacia el Proyecto Fénix no puede mejorar hasta que hayas completado su misión de diplomacia. Comprueba la pestaña de diplomacia para ver más detalles. Cuando se haya completado la misión con éxito, se convertirán en simpatizantes y mostrarán la ubicación de todos sus refugios."
-
-msgctxt "Geoscape Hints/KEY_GEO_HINT_DIP_NJ1_DESC"
-msgid "The attitude of NEW JERICHO to the Phoenix Project cannot improve further until you have completed their diplomancy mission. Check the DIPLOMACY tab for details. Once the mission is successfully completed, they will become SUPPORTIVE and reveal the locations of all their havens."
-msgstr "La actitud de Nueva Jericó hacia el Proyecto Fénix no puede mejorar hasta que hayas completado su misión de diplomacia. Comprueba la pestaña de diplomacia para ver más detalles. Cuando se haya completado la misión con éxito, se convertirán en simpatizantes y mostrarán la ubicación de todos sus refugios."
-
-msgctxt "Geoscape Hints/KEY_GEO_HINT_DIP_SYN1_DESC"
-msgid "The attitude of SYNEDRION to the Phoenix Project cannot improve further until you have completed their diplomancy mission. Check the DIPLOMACY tab for details. Once the mission is successfully completed, they will become SUPPORTIVE and reveal the locations of all their havens."
-msgstr "La actitud de Synedrion hacia el Proyecto Fénix no puede mejorar hasta que hayas completado su misión de diplomacia. Comprueba la pestaña de diplomacia para ver más detalles. Cuando se haya completado la misión con éxito, se convertirán en simpatizantes y mostrarán la ubicación de todos sus refugios."
-
-msgctxt "Geoscape Hints/KEY_GEO_HINT_DIP_ANU2_DESC"
-msgid "The attitude of the DISCIPLES OF ANU towards the Phoenix Project cannot improve further until you have completed their next diplomancy mission. Check the DIPLOMACY tab for details. Once the mission is successfully completed, they will become ALIGNED and share their completed research with you."
-msgstr "La actitud de los Discípulos de Anu hacia el Proyecto Fénix no puede mejorar hasta que hayas completado su siguiente misión de diplomacia. Comprueba la pestaña de diplomacia para ver más detalles. Cuando se haya completado la misión con éxito, se convertirán en hermanados y compartirán toda su investigación contigo."
-
-msgctxt "Geoscape Hints/KEY_GEO_HINT_DIP_NJ2_DESC"
-msgid "The attitude of NEW JERICHO to the Phoenix Project cannot improve further until you have completed their next diplomancy mission. Check the DIPLOMACY tab for details. Once the mission is successfully completed, they will become ALIGNED and share their completed research with you."
-msgstr "La actitud de Nueva Jericó hacia el Proyecto Fénix no puede mejorar hasta que hayas completado su siguiente misión de diplomacia. Comprueba la pestaña de diplomacia para ver más detalles. Cuando se haya completado la misión con éxito, se convertirán en hermanados y compartirán toda su investigación contigo."
-
-msgctxt "Geoscape Hints/KEY_GEO_HINT_DIP_SYN2_DESC"
-msgid "The attitude of SYNEDRION to the Phoenix Project cannot improve further until you have completed their next diplomancy mission. Check the DIPLOMACY tab for details. Once the mission is successfully completed, they will become ALIGNED and share their completed research with you."
-msgstr "La actitud de Synedrion hacia el Proyecto Fénix no puede mejorar hasta que hayas completado su siguiente misión de diplomacia. Comprueba la pestaña de diplomacia para ver más detalles. Cuando se haya completado la misión con éxito, se convertirán en hermanados y compartirán toda su investigación contigo."
-
-msgctxt "Geoscape Hints/KEY_GEO_HINT_DIP_ANU3_DESC"
-msgid "The attitude of the DISCIPLES OF ANU towards the Phoenix Project cannot improve further until you have completed their next diplomancy mission. Check the DIPLOMACY tab for details. Once the mission is successfully completed, they will become ALLIED and you can find a solution to the Pandoran threat together."
-msgstr "La actitud de los Discípulos de Anu hacia el Proyecto Fénix no puede mejorar hasta que hayas completado su siguiente misión de diplomacia. Comprueba la pestaña de diplomacia para ver más detalles. Cuando se haya completado la misión con éxito, se convertirán en aliados y uniréis esfuerzos para encontrar una solución ante la amenaza pandoriana."
-
-msgctxt "Geoscape Hints/KEY_GEO_HINT_DIP_NJ3_DESC"
-msgid "The attitude of NEW JERICHO to the Phoenix Project cannot improve further until you have completed their next diplomacy mission. Check the DIPLOMACY tab for details. Once the mission is successfully completed, they will become ALLIED and you can find a solution to the Pandoran threat together."
-msgstr "La actitud de Nueva Jericó hacia el Proyecto Fénix no puede mejorar hasta que hayas completado su siguiente misión de diplomacia. Comprueba la pestaña de diplomacia para ver más detalles. Cuando se haya completado la misión con éxito, se convertirán en aliados y uniréis esfuerzos para encontrar una solución ante la amenaza pandoriana."
-
-msgctxt "Geoscape Hints/KEY_GEO_HINT_DIP_SYN3_DESC"
-msgid "The attitude of SYNEDRION to the Phoenix Project cannot improve further until you have completed their next diplomancy mission. Check the DIPLOMACY tab for details. Once the mission is successfully completed, they will become ALLIED and you can find a solution to the Pandoran threat together."
-msgstr "La actitud de Synedrion hacia el Proyecto Fénix no puede mejorar hasta que hayas completado su siguiente misión de diplomacia. Comprueba la pestaña de diplomacia para ver más detalles. Cuando se haya completado la misión con éxito, se convertirán en aliados y uniréis esfuerzos para encontrar una solución ante la amenaza pandoriana."
-
-msgctxt "Geoscape Hints/KEY_GEO_HINT_MORE_LABS_TITLE"
-msgid "BUILD MORE RESEARCH LABS"
-msgstr "CONSTRUYE MÁS LABORATORIOS DE INVESTIGACIÓN"
-
-msgctxt "Geoscape Hints/KEY_GEO_HINT_MORE_LABS_DESC"
-msgid "Research is critical for developing your forces and finding a solution for defeating the Pandoran menace permanently. The more labs you have, the faster research will be completed.[LF][LF]A quick way to gain more research labs is to activate a Phoenix base with a research lab. Make sure it is repaired if needed, and fully powered."
-msgstr "La investigación es vital para mejorar tus fuerzas y encontrar una solución con la que derrotar a la amenaza pandoriana de una vez por todas. Cuantos más laboratorios tengas, más rápido se completarán las investigaciones.[LF][LF] Una forma rápida de obtener más laboratorios de investigación es activar una base Fénix con un laboratorio de investigación. Asegúrate de que tenga energía suficiente para funcionar y de que esté reparada, si fuese necesario."
-
-msgctxt "Geoscape Hints/KEY_GEO_HINT_MORE_FABS_TITLE"
-msgid "BUILD MORE FABRICATION PLANTS"
-msgstr "CONSTRUYE MÁS PLANTAS DE PRODUCCIÓN"
-
-msgctxt "Geoscape Hints/KEY_GEO_HINT_MORE_FABS_DESC"
-msgid "Fabrication plants are important for building equipment and vehicles. The more you have, the quicker you will be able to produce things.[LF][LF]A quick way to gain more fabrication plants is to activate a Phoenix base containing one. Make sure it is repaired if needed, and fully powered."
-msgstr "Las plantas de producción son importantes para construir equipo y vehículos. Cuantas más tengas, más rápido podrás producir cosas.[LF] [LF] Una forma rápida de obtener más plantas de producción es activando una base Fénix que contenga alguna. Asegúrate de que tenga energía suficiente para funcionar y de que esté reparada, si fuese necesario."
-
-msgctxt "Geoscape Hints/KEY_GEO_HINT_MORE_BASES_TITLE"
-msgid "ACTIVATE A PHOENIX BASE"
-msgstr "ACTIVA UNA BASE FÉNIX"
-
-msgctxt "Geoscape Hints/KEY_GEO_HINT_MORE_BASES_DESC"
-msgid "You should consider activating another Phoenix base as soon as possible. Activate one near another mist outbreak, and make sure you build or repair a satellite uplink so you can scan areas covered by mist. This will locate havens potentially threatened by Pandoran attack.[LF][LF]Another consideration is to activate bases with valuable facilities - especially research labs."
-msgstr "Deberías considerar la activación de otra base Fénix lo antes posible. Activa una cerca de un brote de niebla y asegúrate de construir o reparar una conexión por satélite para poder escanear las zonas cubiertas de niebla. Esto localizará refugios potencialmente amenazados por el ataque pandoriano.[LF] [LF] Otra consideración es activar bases con instalaciones valiosas, sobre todo laboratorios de investigación."
-
-msgctxt "Geoscape Hints/KEY_GEO_HINT_LESS_BASES_TITLE"
-msgid "BASE ACTIVATION STRATEGY"
-msgstr "ESTRATEGIA PARA ACTIVAR BASES"
-
-msgctxt "Geoscape Hints/KEY_GEO_HINT_LESS_BASES_DESC"
-msgid "Be careful not to activate too many Phoenix bases too quickly. Your initial consideration should be to activate bases near mist outbreaks so you can scan for havens under attack. The next consideration is to gain valuable facilities, such as research labs."
-msgstr "Ten cuidado de no activar muchas bases Fénix demasiado rápido. Tu idea inicial debería ser activar bases cerca de los brotes de niebla para poder localizar los refugios bajo ataque. Lo siguiente a tener en cuenta es obtener instalaciones valiosas, como los laboratorios de investigación."
-
-msgctxt "Geoscape Hints/KEY_GEO_HINT_PHOENIX_PATH_TITLE"
-msgid "PATH OF THE PHOENIX"
-msgstr "LA SENDA DEL FÉNIX"
-
-msgctxt "Geoscape Hints/KEY_GEO_HINT_PHOENIX_PATH_DESC"
-msgid "Be warned - if you complete this research then only the Phoenix solution will be available to you. All endings provided by allied factions will be locked out. You have a chance to change your mind by cancelling this research. If you are sure that the Phoenix way is best, then continue."
-msgstr "Ten cuidado, pues, si completas esta investigación, la solución Fénix estará disponible solo para ti. Todos los finales posibles según las facciones que tengas como aliadas serán imposibles de obtener. Tienes la oportunidad de cambiar de idea cancelando esta investigación. Si tienes claro que la senda del Fénix es el camino a seguir, sigue adelante."
-
-msgctxt "Geoscape Hints/KEY_GEO_HINT_PROCESSING_TITLE"
-msgid "PROCESSING"
-msgstr "PROCESADO"
-
-msgctxt "Geoscape Hints/KEY_GEO_HINT_PROCESSING_DESC"
-msgid "Exotic resources are worthless unless refined by the correct processing site. You will need to conquer both the processing site and matching resource sites."
-msgstr "Los recursos exóticos no valen de nada si no se procesan en el lugar de procesado adecuado. Tendrás que conquistar tanto el sitio de procesado como los sitios de recursos correspondientes."
-
-msgctxt "Geoscape Hints/KEY_GEO_HINT_MORE_AIRCRAFT_TITLE"
-msgid "ACQUIRE MORE AIRCRAFT"
-msgstr "OBTÉN MÁS NAVES"
-
-msgctxt "Geoscape Hints/KEY_GEO_HINT_MORE_AIRCRAFT_DESC"
-msgid "In order to improve the reach and effectiveness of the Phoenix organisation you will need more aircraft. An aircraft with a small squad or vehicle can be used to explore. Having two or more full combat squads in different continents will improve your abilitiy to take on missions. You have two ways to get more aircraft:[LF][LF]BUILD: Building an aircraft is slow, so this is best done when you have 3 or more Fabrication Plants across your bases, and plenty of resources.[LF][LF]STEAL: The quickest way to get another aircraft is to steal it. You need a squad at the same location as another faction's aircraft. Then you can select the STEAL AIRCRAFT mission from the site menu, or the haven info screen. This will antagonize the faction owning the aircraft."
-msgstr "Para mejorar el alcance y efectividad de la organización Fénix, necesitarás más naves. Puedes usar una nave con un pelotón o pequeño para explorar, o bien un vehículo. Tener dos, o más, pelotones de combate completos en distintos continentes mejorará tu capacidad de superar misiones. Hay dos maneras de conseguir más naves:[LF] [LF] CONSTRUIR: Construir una nave es un proceso lento, así que esta opción es mejor dejarla para cuando tengas 3 o más plantas de fabricación en tus bases, además de muchos recursos.[LF] [LF] ROBAR: La forma más rápida de conseguir otra nave es robándola. Necesitarás a un pelotón en la misma ubicación que la nave de otra facción. Entonces, podrás seleccionar la misión de robar la nave desde el menú de lugares, o bien desde la pantalla de información del refugio. Esto pondrá a la facción poseedora de la nave en tu contra."
 
 msgctxt "Phoenixpedia/KEY_PHOENIXPEDIA_SECTION_GUIDE"
 msgid "GUIDE"
@@ -9045,6 +8929,142 @@ msgstr "Pulsa TAB para cambiar de objetivo"
 msgctxt "Tactical/KEY_FREE_AIM_TAB_TO_SWITCH_REBIND"
 msgid "[<color=#ECBA62>{[NextCharacter]}</color>] to switch target"
 msgstr "Pulsa [<color=#ECBA62>{[NextCharacter]}</color>] para cambiar de objetivo"
+
+msgctxt "Geoscape Hints/KEY_GEO_HINT_TECH_TITLE"
+msgid "TECH SHORTAGE"
+msgstr "ESCASEZ DE TECNOLOGÍA"
+
+msgctxt "Geoscape Hints/KEY_GEO_HINT_TECH_DESC"
+msgid "You are low on TECH which is the rarest resource to find. Here are some suggestions to relieve your shortage:[LF][LF]TRADE: Visit havens with the Tech resource symbol and trade Food or Materials for Tech.[LF]STEAL: Visit a haven with the Tech resource symbol and conduct a STEAL RESOURCES mission. WARNING: This will antagonize the controlling faction.[LF]SCAVENGE: Explore and locate more scavenging sites.[LF]SCRAP: You can scrap items, or demolish base facilities to recover Tech resources.[LF]REWARDS: Haven defence missions will get you Tech, but greater amounts from havens with RESEARCH zones, or SYNEDRION havens."
+msgstr "Tienes escasez en tecnología, el recurso más escaso de todos. Estas son algunas sugerencias para mitigar esa escasez:[LF] [LF] INTERCAMBIA: Visita refugios con el símbolo de la tecnología e intercambia comida o materiales por ella.[LF] ROBA: Visita un refugio con el símbolo de la tecnología y realiza una misión de robo de recursos. Advertencia: Esto pondrá a la facción del lugar en tu contra.[LF] BUSCA: Explora y encuentra más sitios de búsqueda.[LF] DESCARTA: Puedes descartar objetos o demoler bases para recuperar tecnología.[LF] RECOMPENSAS: Las misiones de defensa de refugios te otorgarán tecnología, pero obtendrás cantidades mayores de los refugios con zonas de investigación, o bien de los refugios de Synedrion."
+
+msgctxt "Geoscape Hints/KEY_GEO_HINT_MATERIALS_TITLE"
+msgid "MATERIALS SHORTAGE"
+msgstr "ESCASEZ DE MATERIALES"
+
+msgctxt "Geoscape Hints/KEY_GEO_HINT_MATERIALS_DESC"
+msgid "You are low on MATERIALS which is the most commonly needed resource. Here are some suggestions to relieve your shortage:[LF][LF]TRADE: Visit havens with the Materials resource symbol and trade Food or Tech for Materials.[LF]STEAL: Visit a haven with the Materials resource symbol and conduct a STEAL RESOURCES mission. WARNING: This will antagonize the controlling faction.[LF]SCAVENGE: Explore and locate more scavenging sites.[LF]SCRAP: You can scrap items, or demolish base facilities to recover Materials.[LF]REWARDS: Haven defence missions will get you Materials, but greater amounts from havens with FACTORY zones, or NEW JERICHO havens."
+msgstr "Tienes escasez en materiales, el recurso más necesitado de todos. Estas son algunas sugerencias para mitigar esa escasez:[LF] [LF] INTERCAMBIA: Visita refugios con el símbolo de la materiales e intercambia comida o tecnología por ellos.[LF] ROBA: Visita un refugio con el símbolo de los materiales y realiza una misión de robo de recursos. Advertencia: Esto pondrá a la facción del lugar en tu contra.[LF] BUSCA: Explora y encuentra más sitios de búsqueda.[LF] DESCARTA: Puedes descartar objetos o demoler bases para recuperar materiales.[LF] RECOMPENSAS: Las misiones de defensa de refugios te otorgarán materiales, pero obtendrás cantidades mayores de los refugios con fábricas, o bien de los refugios de Nueva Jericó."
+
+msgctxt "Geoscape Hints/KEY_GEO_HINT_FOOD_TITLE"
+msgid "FOOD SHORTAGE"
+msgstr "ESCASEZ DE COMIDA"
+
+msgctxt "Geoscape Hints/KEY_GEO_HINT_FOOD_DESC"
+msgid "You are low on FOOD which is needed to keep your soldiers alive and healthy. Here are some suggestions to relieve your shortage:[LF][LF]TRADE: Visit havens with the Food resource symbol and trade Tech or Materials for Food.[LF]STEAL: Visit a haven with the Food resource symbol and conduct a STEAL RESOURCES mission. WARNING: This will antagonize the controlling faction.[LF]SCAVENGE: Explore and locate more scavenging sites.[LF]REWARDS: Haven defence missions will get you Food, but greater amounts from havens with FOOD zones, or DISCIPLES OF ANU havens."
+msgstr "Tienes escasez en comida, el recurso más necesario para que tus soldados sigan vivos y sanos. Estas son algunas sugerencias para mitigar esa escasez:[LF][LF] INTERCAMBIA: Visita refugios con el símbolo de la comida e intercambia tecnología o materiales por ella.[LF] ROBA: Visita un refugio con el símbolo de la comida y realiza una misión de robo de recursos. Advertencia: Esto pondrá a la facción del lugar en tu contra.[LF] BUSCA: Explora y encuentra más sitios de búsqueda.[LF] RECOMPENSAS: Las misiones de defensa de refugios te otorgarán comida, pero obtendrás cantidades mayores de los refugios con zonas de comida, o bien de los refugios de los Discípulos de Anu."
+
+msgctxt "Geoscape Hints/KEY_GEO_HINT_CUSTOMIZE_TITLE"
+msgid "CUSTOMIZATION"
+msgstr "PERSONALIZACIÓN"
+
+msgctxt "Geoscape Hints/KEY_GEO_HINT_CUSTOMIZE_DESC"
+msgid "You can customize the appearance and names of your soldiers. You can use this to easily identify your key soldiers on the battlefield."
+msgstr "Puedes personalizar la apariencia y los nombres de tus soldados. Puedes usar esto para identificar fácilmente a tus soldados clave en el campo de batalla."
+
+msgctxt "Geoscape Hints/KEY_GEO_HINT_STARVATION_TITLE"
+msgid "STARVATION"
+msgstr "HAMBRUNA"
+
+msgctxt "Geoscape Hints/KEY_GEO_HINT_STARVATION_DESC"
+msgid "Most havens will be suffering from some degree of starvation, which will reduce the population meter over time. Food production is usually insufficient, and a small proportion of underfed populations will starve each day.[LF][LF]The starvation rate is dramatically increased if the haven is within a Pandoran mist zone, because scavenging for food becomes more hazardous."
+msgstr "La mayoría de los refugios sufrirán de algún grado de hambruna, lo cual reducirá el medidor de población con el paso del tiempo. La producción de comida suele ser insuficiente, y una pequeña proporción de la población desnutrida morirá de hambre cada día.[LF] [LF] El índice de hambruna aumenta considerablemente si el refugio se encuentra en una zona de niebla pandoriana, pues buscar comida se vuelve peligroso."
+
+msgctxt "Geoscape Hints/KEY_GEO_HINT_DIPLOMACY_BLOCKED_TITLE"
+msgid "DIPLOMACY PROGRESSION BLOCKED"
+msgstr "PROGRESO DE LA DIPLOMACIA BLOQUEADO"
+
+msgctxt "Geoscape Hints/KEY_GEO_HINT_DIP_ANU1_DESC"
+msgid "The attitude of the DISCIPLES OF ANU towards the Phoenix Project cannot improve further until you have completed their diplomancy mission. Check the DIPLOMACY tab for details. Once the mission is successfully completed, they will become SUPPORTIVE and reveal the locations of all their havens."
+msgstr "La actitud de los Discípulos de Anu hacia el Proyecto Fénix no puede mejorar hasta que hayas completado su misión de diplomacia. Comprueba la pestaña de diplomacia para ver más detalles. Cuando se haya completado la misión con éxito, se convertirán en simpatizantes y mostrarán la ubicación de todos sus refugios."
+
+msgctxt "Geoscape Hints/KEY_GEO_HINT_DIP_NJ1_DESC"
+msgid "The attitude of NEW JERICHO to the Phoenix Project cannot improve further until you have completed their diplomancy mission. Check the DIPLOMACY tab for details. Once the mission is successfully completed, they will become SUPPORTIVE and reveal the locations of all their havens."
+msgstr "La actitud de Nueva Jericó hacia el Proyecto Fénix no puede mejorar hasta que hayas completado su misión de diplomacia. Comprueba la pestaña de diplomacia para ver más detalles. Cuando se haya completado la misión con éxito, se convertirán en simpatizantes y mostrarán la ubicación de todos sus refugios."
+
+msgctxt "Geoscape Hints/KEY_GEO_HINT_DIP_SYN1_DESC"
+msgid "The attitude of SYNEDRION to the Phoenix Project cannot improve further until you have completed their diplomancy mission. Check the DIPLOMACY tab for details. Once the mission is successfully completed, they will become SUPPORTIVE and reveal the locations of all their havens."
+msgstr "La actitud de Synedrion hacia el Proyecto Fénix no puede mejorar hasta que hayas completado su misión de diplomacia. Comprueba la pestaña de diplomacia para ver más detalles. Cuando se haya completado la misión con éxito, se convertirán en simpatizantes y mostrarán la ubicación de todos sus refugios."
+
+msgctxt "Geoscape Hints/KEY_GEO_HINT_DIP_ANU2_DESC"
+msgid "The attitude of the DISCIPLES OF ANU towards the Phoenix Project cannot improve further until you have completed their next diplomancy mission. Check the DIPLOMACY tab for details. Once the mission is successfully completed, they will become ALIGNED and share their completed research with you."
+msgstr "La actitud de los Discípulos de Anu hacia el Proyecto Fénix no puede mejorar hasta que hayas completado su siguiente misión de diplomacia. Comprueba la pestaña de diplomacia para ver más detalles. Cuando se haya completado la misión con éxito, se convertirán en hermanados y compartirán toda su investigación contigo."
+
+msgctxt "Geoscape Hints/KEY_GEO_HINT_DIP_NJ2_DESC"
+msgid "The attitude of NEW JERICHO to the Phoenix Project cannot improve further until you have completed their next diplomancy mission. Check the DIPLOMACY tab for details. Once the mission is successfully completed, they will become ALIGNED and share their completed research with you."
+msgstr "La actitud de Nueva Jericó hacia el Proyecto Fénix no puede mejorar hasta que hayas completado su siguiente misión de diplomacia. Comprueba la pestaña de diplomacia para ver más detalles. Cuando se haya completado la misión con éxito, se convertirán en hermanados y compartirán toda su investigación contigo."
+
+msgctxt "Geoscape Hints/KEY_GEO_HINT_DIP_SYN2_DESC"
+msgid "The attitude of SYNEDRION to the Phoenix Project cannot improve further until you have completed their next diplomancy mission. Check the DIPLOMACY tab for details. Once the mission is successfully completed, they will become ALIGNED and share their completed research with you."
+msgstr "La actitud de Synedrion hacia el Proyecto Fénix no puede mejorar hasta que hayas completado su siguiente misión de diplomacia. Comprueba la pestaña de diplomacia para ver más detalles. Cuando se haya completado la misión con éxito, se convertirán en hermanados y compartirán toda su investigación contigo."
+
+msgctxt "Geoscape Hints/KEY_GEO_HINT_DIP_ANU3_DESC"
+msgid "The attitude of the DISCIPLES OF ANU towards the Phoenix Project cannot improve further until you have completed their next diplomancy mission. Check the DIPLOMACY tab for details. Once the mission is successfully completed, they will become ALLIED and you can find a solution to the Pandoran threat together."
+msgstr "La actitud de los Discípulos de Anu hacia el Proyecto Fénix no puede mejorar hasta que hayas completado su siguiente misión de diplomacia. Comprueba la pestaña de diplomacia para ver más detalles. Cuando se haya completado la misión con éxito, se convertirán en aliados y uniréis esfuerzos para encontrar una solución ante la amenaza pandoriana."
+
+msgctxt "Geoscape Hints/KEY_GEO_HINT_DIP_NJ3_DESC"
+msgid "The attitude of NEW JERICHO to the Phoenix Project cannot improve further until you have completed their next diplomacy mission. Check the DIPLOMACY tab for details. Once the mission is successfully completed, they will become ALLIED and you can find a solution to the Pandoran threat together."
+msgstr "La actitud de Nueva Jericó hacia el Proyecto Fénix no puede mejorar hasta que hayas completado su siguiente misión de diplomacia. Comprueba la pestaña de diplomacia para ver más detalles. Cuando se haya completado la misión con éxito, se convertirán en aliados y uniréis esfuerzos para encontrar una solución ante la amenaza pandoriana."
+
+msgctxt "Geoscape Hints/KEY_GEO_HINT_DIP_SYN3_DESC"
+msgid "The attitude of SYNEDRION to the Phoenix Project cannot improve further until you have completed their next diplomancy mission. Check the DIPLOMACY tab for details. Once the mission is successfully completed, they will become ALLIED and you can find a solution to the Pandoran threat together."
+msgstr "La actitud de Synedrion hacia el Proyecto Fénix no puede mejorar hasta que hayas completado su siguiente misión de diplomacia. Comprueba la pestaña de diplomacia para ver más detalles. Cuando se haya completado la misión con éxito, se convertirán en aliados y uniréis esfuerzos para encontrar una solución ante la amenaza pandoriana."
+
+msgctxt "Geoscape Hints/KEY_GEO_HINT_MORE_LABS_TITLE"
+msgid "BUILD MORE RESEARCH LABS"
+msgstr "CONSTRUYE MÁS LABORATORIOS DE INVESTIGACIÓN"
+
+msgctxt "Geoscape Hints/KEY_GEO_HINT_MORE_LABS_DESC"
+msgid "Research is critical for developing your forces and finding a solution for defeating the Pandoran menace permanently. The more labs you have, the faster research will be completed.[LF][LF]A quick way to gain more research labs is to activate a Phoenix base with a research lab. Make sure it is repaired if needed, and fully powered."
+msgstr "La investigación es vital para mejorar tus fuerzas y encontrar una solución con la que derrotar a la amenaza pandoriana de una vez por todas. Cuantos más laboratorios tengas, más rápido se completarán las investigaciones.[LF][LF] Una forma rápida de obtener más laboratorios de investigación es activar una base Fénix con un laboratorio de investigación. Asegúrate de que tenga energía suficiente para funcionar y de que esté reparada, si fuese necesario."
+
+msgctxt "Geoscape Hints/KEY_GEO_HINT_MORE_FABS_TITLE"
+msgid "BUILD MORE FABRICATION PLANTS"
+msgstr "CONSTRUYE MÁS PLANTAS DE PRODUCCIÓN"
+
+msgctxt "Geoscape Hints/KEY_GEO_HINT_MORE_FABS_DESC"
+msgid "Fabrication plants are important for building equipment and vehicles. The more you have, the quicker you will be able to produce things.[LF][LF]A quick way to gain more fabrication plants is to activate a Phoenix base containing one. Make sure it is repaired if needed, and fully powered."
+msgstr "Las plantas de producción son importantes para construir equipo y vehículos. Cuantas más tengas, más rápido podrás producir cosas.[LF] [LF] Una forma rápida de obtener más plantas de producción es activando una base Fénix que contenga alguna. Asegúrate de que tenga energía suficiente para funcionar y de que esté reparada, si fuese necesario."
+
+msgctxt "Geoscape Hints/KEY_GEO_HINT_MORE_BASES_TITLE"
+msgid "ACTIVATE A PHOENIX BASE"
+msgstr "ACTIVA UNA BASE FÉNIX"
+
+msgctxt "Geoscape Hints/KEY_GEO_HINT_MORE_BASES_DESC"
+msgid "You should consider activating another Phoenix base as soon as possible. Activate one near another mist outbreak, and make sure you build or repair a satellite uplink so you can scan areas covered by mist. This will locate havens potentially threatened by Pandoran attack.[LF][LF]Another consideration is to activate bases with valuable facilities - especially research labs."
+msgstr "Deberías considerar la activación de otra base Fénix lo antes posible. Activa una cerca de un brote de niebla y asegúrate de construir o reparar una conexión por satélite para poder escanear las zonas cubiertas de niebla. Esto localizará refugios potencialmente amenazados por el ataque pandoriano.[LF] [LF] Otra consideración es activar bases con instalaciones valiosas, sobre todo laboratorios de investigación."
+
+msgctxt "Geoscape Hints/KEY_GEO_HINT_LESS_BASES_TITLE"
+msgid "BASE ACTIVATION STRATEGY"
+msgstr "ESTRATEGIA PARA ACTIVAR BASES"
+
+msgctxt "Geoscape Hints/KEY_GEO_HINT_LESS_BASES_DESC"
+msgid "Be careful not to activate too many Phoenix bases too quickly. Your initial consideration should be to activate bases near mist outbreaks so you can scan for havens under attack. The next consideration is to gain valuable facilities, such as research labs."
+msgstr "Ten cuidado de no activar muchas bases Fénix demasiado rápido. Tu idea inicial debería ser activar bases cerca de los brotes de niebla para poder localizar los refugios bajo ataque. Lo siguiente a tener en cuenta es obtener instalaciones valiosas, como los laboratorios de investigación."
+
+msgctxt "Geoscape Hints/KEY_GEO_HINT_PHOENIX_PATH_TITLE"
+msgid "PATH OF THE PHOENIX"
+msgstr "LA SENDA DEL FÉNIX"
+
+msgctxt "Geoscape Hints/KEY_GEO_HINT_PHOENIX_PATH_DESC"
+msgid "Be warned - if you complete this research then only the Phoenix solution will be available to you. All endings provided by allied factions will be locked out. You have a chance to change your mind by cancelling this research. If you are sure that the Phoenix way is best, then continue."
+msgstr "Ten cuidado, pues, si completas esta investigación, la solución Fénix estará disponible solo para ti. Todos los finales posibles según las facciones que tengas como aliadas serán imposibles de obtener. Tienes la oportunidad de cambiar de idea cancelando esta investigación. Si tienes claro que la senda del Fénix es el camino a seguir, sigue adelante."
+
+msgctxt "Geoscape Hints/KEY_GEO_HINT_PROCESSING_TITLE"
+msgid "PROCESSING"
+msgstr "PROCESADO"
+
+msgctxt "Geoscape Hints/KEY_GEO_HINT_PROCESSING_DESC"
+msgid "Exotic resources are worthless unless refined by the correct processing site. You will need to conquer both the processing site and matching resource sites."
+msgstr "Los recursos exóticos no valen de nada si no se procesan en el lugar de procesado adecuado. Tendrás que conquistar tanto el sitio de procesado como los sitios de recursos correspondientes."
+
+msgctxt "Geoscape Hints/KEY_GEO_HINT_MORE_AIRCRAFT_TITLE"
+msgid "ACQUIRE MORE AIRCRAFT"
+msgstr "OBTÉN MÁS NAVES"
+
+msgctxt "Geoscape Hints/KEY_GEO_HINT_MORE_AIRCRAFT_DESC"
+msgid "In order to improve the reach and effectiveness of the Phoenix organisation you will need more aircraft. An aircraft with a small squad or vehicle can be used to explore. Having two or more full combat squads in different continents will improve your abilitiy to take on missions. You have two ways to get more aircraft:[LF][LF]BUILD: Building an aircraft is slow, so this is best done when you have 3 or more Fabrication Plants across your bases, and plenty of resources.[LF][LF]STEAL: The quickest way to get another aircraft is to steal it. You need a squad at the same location as another faction's aircraft. Then you can select the STEAL AIRCRAFT mission from the site menu, or the haven info screen. This will antagonize the faction owning the aircraft."
+msgstr "Para mejorar el alcance y efectividad de la organización Fénix, necesitarás más naves. Puedes usar una nave con un pelotón o pequeño para explorar, o bien un vehículo. Tener dos, o más, pelotones de combate completos en distintos continentes mejorará tu capacidad de superar misiones. Hay dos maneras de conseguir más naves:[LF] [LF] CONSTRUIR: Construir una nave es un proceso lento, así que esta opción es mejor dejarla para cuando tengas 3 o más plantas de fabricación en tus bases, además de muchos recursos.[LF] [LF] ROBAR: La forma más rápida de conseguir otra nave es robándola. Necesitarás a un pelotón en la misma ubicación que la nave de otra facción. Entonces, podrás seleccionar la misión de robar la nave desde el menú de lugares, o bien desde la pantalla de información del refugio. Esto pondrá a la facción poseedora de la nave en tu contra."
 
 msgctxt "Customization/KEY_CUSTOM_CUSTOMIZE"
 msgid "CUSTOMIZE"
