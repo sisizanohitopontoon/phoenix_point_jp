@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2021-05-29 14:24+0000\n"
+"PO-Revision-Date: 2021-05-29 14:28+0000\n"
 "Last-Translator: higema <ltdhyndsh@yahoo.co.jp>\n"
 "Language-Team: \n"
 "Language: ja\n"
@@ -4287,12 +4287,11 @@ msgctxt "DLC3 Behemoth/KEY_FS_AN_REINFORCED_BULKHEADS_MODULE_RESEARCHDEF_NAME"
 msgid "Reinforced Bulkheads"
 msgstr ""
 
-#, fuzzy
 #| msgctxt "Polaris/PX_BIOGAS_RESEARCHDEF_BENEFITS"
 #| msgid "Biogas Launcher and Biogas Grenades are available for production"
 msgctxt "DLC3 Behemoth/KEY_FS_AN_REINFORCED_BULKHEADS_MODULE_RESEARCHDEF_BENEFITS"
 msgid "Reinforced Bulkheads are available for production"
-msgstr "バイオガスランチャーおよびバイオガスグレネードが製造可能"
+msgstr "強化隔壁が製造可能"
 
 msgctxt "DLC3 Behemoth/KEY_FS_AN_ECM_JAMMER_MODULE_RESEARCHDEF_REVEAL"
 msgid "[null]"
@@ -4312,12 +4311,11 @@ msgctxt "DLC3 Behemoth/KEY_FS_AN_ECM_JAMMER_MODULE_RESEARCHDEF_NAME"
 msgid "ECM Jammer"
 msgstr ""
 
-#, fuzzy
 #| msgctxt "Polaris/PX_HELCANNON_RESEARCHDEF_BENEFITS"
 #| msgid "Hel II Cannon is available for production"
 msgctxt "DLC3 Behemoth/KEY_FS_AN_ECM_JAMMER_MODULE_RESEARCHDEF_BENEFITS"
 msgid "ECM Jammer is available for production"
-msgstr "ヘルIIキャノンが製造可能"
+msgstr "ECMジャマーが製造可能"
 
 msgctxt "DLC3 Behemoth/KEY_FS_AN_ORACLE_MODULE_RESEARCHDEF_REVEAL"
 msgid "[null]"
@@ -4338,12 +4336,11 @@ msgctxt "DLC3 Behemoth/KEY_FS_AN_ORACLE_MODULE_RESEARCHDEF_NAME"
 msgid "Oracle"
 msgstr ""
 
-#, fuzzy
 #| msgctxt "Polaris/PX_BLASTRESISTANCEVEST_RESEARCHDEF_BENEFITS"
 #| msgid "Blast-Res Vest is available for production"
 msgctxt "DLC3 Behemoth/KEY_FS_AN_ORACLE_MODULE_RESEARCHDEF_BENEFITS"
 msgid "Oracle is available for production"
-msgstr "対爆ベストが製造可能"
+msgstr "オラクルが製造可能"
 
 msgctxt "DLC3 Behemoth/KEY_FS_ALN_SMALL_FLYER_RESEARCHDEF_REVEAL"
 msgid "[null]"
@@ -4547,12 +4544,11 @@ msgctxt "DLC3 Behemoth/KEY_FS_SYN_AERIAL_WARFARE_RESEARCHDEF_NAME"
 msgid "Synedrion Sky Defense Ops"
 msgstr ""
 
-#, fuzzy
 #| msgctxt "Polaris/PX_BLASTRESISTANCEVEST_RESEARCHDEF_BENEFITS"
 #| msgid "Blast-Res Vest is available for production"
 msgctxt "DLC3 Behemoth/KEY_FS_SYN_AERIAL_WARFARE_RESEARCHDEF_BENEFITS"
 msgid "Battle-ready Helios is available for production"
-msgstr "対爆ベストが製造可能"
+msgstr "戦闘用ヘリオスが製造可能"
 
 msgctxt "DLC3 Behemoth/KEY_FS_AN_AERIAL_WARFARE_RESEARCHDEF_REVEAL"
 msgid "[null]"
@@ -4573,12 +4569,11 @@ msgctxt "DLC3 Behemoth/KEY_FS_AN_AERIAL_WARFARE_RESEARCHDEF_NAME"
 msgid "Anu Winged Warfare Doctrine"
 msgstr ""
 
-#, fuzzy
 #| msgctxt "Polaris/PX_BLASTRESISTANCEVEST_RESEARCHDEF_BENEFITS"
 #| msgid "Blast-Res Vest is available for production"
 msgctxt "DLC3 Behemoth/KEY_FS_AN_AERIAL_WARFARE_RESEARCHDEF_BENEFIT"
 msgid "Battle-ready Tiamat is available for production"
-msgstr "対爆ベストが製造可能"
+msgstr "戦闘用ティアマットが製造可能"
 
 msgctxt "DLC3 Behemoth/KEY_FS_NJ_AERIAL_WARFARE_RESEARCHDEF_REVEAL"
 msgid "[null]"
@@ -4602,12 +4597,11 @@ msgctxt "DLC3 Behemoth/KEY_FS_NJ_AERIAL_WARFARE_RESEARCHDEF_NAME"
 msgid "New Jericho Air Force Division"
 msgstr ""
 
-#, fuzzy
 #| msgctxt "Polaris/PX_AGL_RESEARCHDEF_BENEFITS"
 #| msgid "Vidar Grenade Launcher is available for production"
 msgctxt "DLC3 Behemoth/KEY_FS_NJ_AERIAL_WARFARE_RESEARCHDEF_BENEFITS"
 msgid "Battle-ready Thunderbird is available for production"
-msgstr "ヴィーザルグレネードランチャーが製造可能"
+msgstr "戦闘用サンダーバードが製造可能"
 
 msgctxt "DLC3 Behemoth/KEY_FS_PX_AERIAL_WARFARE_RESEARCHDEF_REVEAL"
 msgid "[null]"
@@ -4630,19 +4624,17 @@ msgctxt "DLC3 Behemoth/KEY_FS_PX_AERIAL_WARFARE_RESEARCHDEF_NAME"
 msgid "Phoenix Aerial Combat Program"
 msgstr ""
 
-#, fuzzy
 #| msgctxt "Polaris/PX_BLASTRESISTANCEVEST_RESEARCHDEF_BENEFITS"
 #| msgid "Blast-Res Vest is available for production"
 msgctxt "DLC3 Behemoth/KEY_FS_PX_AERIAL_WARFARE_RESEARCHDEF_BENEFITS"
 msgid "Battle-ready Manticore is available for production"
-msgstr "対爆ベストが製造可能"
+msgstr "戦闘用マンティコアが製造可能"
 
-#, fuzzy
 #| msgctxt "Research/PX_ALIENCRABMAN_RESEARCHDEF_NAME"
 #| msgid "Arthron Autopsy"
 msgctxt "DLC4 Hypnos/PX_ACHERON_DISSECTION_RESEARCHDEF_NAME"
 msgid "Acheron Autropsy"
-msgstr "アースロンの解剖"
+msgstr "アケローンの解剖"
 
 msgctxt "DLC4 Hypnos/PX_ACHERON_DISSECTION_RESEARCHDEF_UNLOCK"
 msgid ""
@@ -4661,19 +4653,17 @@ msgid ""
 "recommended that attacks of various nature are used on it simultaneously before it can adjust."
 msgstr ""
 
-#, fuzzy
 #| msgctxt "Polaris/PX_AGL_RESEARCHDEF_BENEFITS"
 #| msgid "Vidar Grenade Launcher is available for production"
 msgctxt "DLC4 Hypnos/PX_ACHERON_DISSECTION_RESEARCHDEF_BENEFITS"
 msgid "Mutagen Grenades available for production"
-msgstr "ヴィーザルグレネードランチャーが製造可能"
+msgstr "ミュータジェングレネードが製造可能"
 
-#, fuzzy
 #| msgctxt "Research/PX_ALIEN_LIVECRABMAN_RESEARCHDEF_NAME"
 #| msgid "Arthron Vivisection"
 msgctxt "DLC4 Hypnos/PX_ACHERON_VIVISECTION_RESEARCHDEF_NAME"
 msgid "Acheron Vivisection"
-msgstr "アースロン生体解剖"
+msgstr "アケローン生体解剖"
 
 msgctxt "DLC4 Hypnos/PX_ACHERON_VIVISECTION_RESEARCHDEF_UNLOCK"
 msgid ""
