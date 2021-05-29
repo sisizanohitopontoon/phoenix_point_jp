@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2021-05-29 13:04+0000\n"
+"PO-Revision-Date: 2021-05-29 13:08+0000\n"
 "Last-Translator: higema <ltdhyndsh@yahoo.co.jp>\n"
 "Language-Team: \n"
 "Language: ja\n"
@@ -1374,34 +1374,31 @@ msgctxt "DLC 3 - Behemoth/KEY_DLC3_INTERCEPTION_REPAIR_AIRCRAFT"
 msgid "Reach a Phoenix base in order to repair, reload and edit weapons and modules"
 msgstr ""
 
-#, fuzzy
 #| msgctxt "Missions/KEY_MISSION_ATTACKING_FORCES"
 #| msgid "ATTACKING FORCES"
 msgctxt "DLC 3 - Behemoth/KEY_DLC3_AIRFORCE"
 msgid "AIR FORCE"
-msgstr "攻撃部隊"
+msgstr "航空戦力"
 
 msgctxt "DLC 3 - Behemoth/KEY_DLC3_VEHICLE_ROSTER_IN_TRANSIT"
 msgid "In Transit"
 msgstr ""
 
-#, fuzzy
 #| msgctxt "Geoscape Objectives/KEY_GEOSCAPE_OBJECTIVE_ALIEN_STRUCTURES"
 #| msgid "Active Pandoran structures: {0}"
 msgctxt "DLC 3 - Behemoth/KEY_DLC3_GEO_OBJECTIVE_ALIEN_FLYERS"
 msgid "Active Pandoran Flyers: {0}"
-msgstr "アクティブなパンドラン構造物: {0}"
+msgstr "アクティブなパンドラ飛翔体: {0}"
 
 msgctxt "DLC 3 - Behemoth/KEY_DLC3_EILEEN_NAME"
 msgid "Citizen Eileen"
 msgstr ""
 
-#, fuzzy
 #| msgctxt "Diplomacy and Factions/KEY_DIPLOMACY_SYN"
 #| msgid "Synedrion Council"
 msgctxt "DLC 3 - Behemoth/KEY_DLC3_EILEEN_DESCRIPTION"
 msgid "Synedrion Pilot"
-msgstr "シネドリオン 評議会"
+msgstr "シネドリオン パイロット"
 
 msgctxt "DLC 3 - Behemoth/KEY_DLC3_INT_S1_P1"
 msgid "<color=#ECBA62>Manticore AI Core:</color> AIRBORNE HOSTILE DETECTED."
@@ -1411,12 +1408,11 @@ msgctxt "DLC 3 - Behemoth/KEY_DLC3_INT_S1_P2"
 msgid "<color=#ECBA62>Eileen:</color> What the hell? This thing is huge! Arm all weapons!"
 msgstr ""
 
-#, fuzzy
 #| msgctxt "Controls/KEY_CONTROLS_WARNING_CONFLICT"
 #| msgid "[<color=#ECBA62>{0}</color>] key is already reserved for \"\"{1}\"\"!"
 msgctxt "DLC 3 - Behemoth/KEY_DLC3_INT_S2_P1"
 msgid "<color=#ECBA62>Eileen:</color> We are under fire! "
-msgstr "[<color=#ECBA62>{0}</color>]キーは既に\"\"{1}\"\"に割り当てられています!"
+msgstr "<color=#ECBA62>アイリーン:</color> 攻撃を受けているわ!"
 
 msgctxt "DLC 3 - Behemoth/KEY_DLC3_INT_S2_P2"
 msgid "<color=#ECBA62>Manticore AI Core:</color> BRACE FOR IMPACT."
@@ -1434,12 +1430,11 @@ msgctxt "DLC 3 - Behemoth/KEY_DLC3_INT_S3_P1"
 msgid "<color=#ECBA62>Manticore AI Core:</color> NOMAD LAUNCHER OPERATIONAL.[LF]"
 msgstr ""
 
-#, fuzzy
 #| msgctxt "Tactical/KEY_FREE_AIM_TAB_TO_SWITCH_REBIND"
 #| msgid "[<color=#ECBA62>{[NextCharacter]}</color>] to switch target"
 msgctxt "DLC 3 - Behemoth/KEY_DLC3_INT_S3_P2"
 msgid "<color=#ECBA62>Eileen:</color> Return fire! "
-msgstr "[<color=#ECBA62>{[NextCharacter]}</color>]でターゲット切り替え"
+msgstr "<color=#ECBA62>アイリーン:</color> 応戦して!"
 
 msgctxt "DLC 3 - Behemoth/KEY_DLC3_INT_S3_P3_K"
 msgid "To aim a weapon system left click your Weapon, then left-click the target icon.[LF]"
