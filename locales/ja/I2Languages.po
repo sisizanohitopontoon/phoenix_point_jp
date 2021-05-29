@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2021-05-29 12:59+0000\n"
+"PO-Revision-Date: 2021-05-29 13:04+0000\n"
 "Last-Translator: higema <ltdhyndsh@yahoo.co.jp>\n"
 "Language-Team: \n"
 "Language: ja\n"
@@ -1302,40 +1302,35 @@ msgctxt "DLC 3 - Behemoth/KEY_ABILITY_INTERCEPT_DESCRIPTION"
 msgid "Engage enemy aircraft in air comabt"
 msgstr ""
 
-#, fuzzy
 #| msgctxt "Controls/KEY_CONTROLS_GEOSCAPE_RTHUMB_PRESS"
 #| msgid "OPEN AIRCRAFT MENU"
 msgctxt "DLC 3 - Behemoth/KEY_MESSAGE_NO_ENEMY_AIRCRAFTS"
 msgid "NO ENEMY AIRCRAFT IN RANGE"
-msgstr "航空機メニューを開く"
+msgstr "射程内に敵機体がいない"
 
-#, fuzzy
 #| msgctxt "Roster Screen/KEY_GEOROSTER_MOUNTS"
 #| msgid "MOUNTS"
 msgctxt "DLC 3 - Behemoth/KEY_DLC3_MOUNTEGG_NAME"
 msgid "MOUNT EGG"
-msgstr "マウント"
+msgstr "マウントエッグ"
 
-#, fuzzy
 #| msgctxt "Abilities/KEY_OVERWATCH_NAME"
 #| msgid "OVERWATCH"
 msgctxt "DLC 3 - Behemoth/KEY_DLC3_WEATHER_OVERCAST_NAME"
 msgid "OVERCAST"
-msgstr "監視"
+msgstr "曇り"
 
-#, fuzzy
 #| msgctxt "Damage types/KEY_DAMAGE_TYPE_MIST"
 #| msgid "MIST"
 msgctxt "DLC 3 - Behemoth/KEY_DLC3_WEATHER_MIST_NAME"
 msgid "MIST"
 msgstr "ミスト"
 
-#, fuzzy
 #| msgctxt "Base Screen/KEY_BASE_FACILITY_STORE_NAME"
 #| msgid "STORE"
 msgctxt "DLC 3 - Behemoth/KEY_DLC3_WEATHER_STORM_NAME"
 msgid "STORM"
-msgstr "倉庫"
+msgstr "嵐"
 
 msgctxt "DLC 3 - Behemoth/KEY_DLC3_WEATHER_CLEAR_NAME"
 msgid "CLEAR"
@@ -1349,12 +1344,11 @@ msgctxt "DLC 3 - Behemoth/KEY_DLC3_WEATHER_INTERCEPTION_NAME"
 msgid "WEATHER"
 msgstr ""
 
-#, fuzzy
 #| msgctxt "Arkham/KEY_OWNED_AIRCRAFTS"
 #| msgid "OWNED AIRCRAFT"
 msgctxt "DLC 3 - Behemoth/KEY_DLC3_INTERCEPTION_MISSION_TITLE"
 msgid "DESTROY ENEMY AIRCRAFT"
-msgstr "所有航空機"
+msgstr "敵航空機を撃墜する"
 
 msgctxt "DLC 3 - Behemoth/KEY_DLC3_INTERCEPTION_ENGAGE"
 msgid "ENGAGE"
@@ -1364,19 +1358,17 @@ msgctxt "DLC 3 - Behemoth/KEY_DLC3_INTERCEPTION_DISENGAGE"
 msgid "DISENGAGE"
 msgstr ""
 
-#, fuzzy
 #| msgctxt "Controls/KEY_CONTROLS_GEOSCAPE_DPAD_DOWN"
 #| msgid "AIRCRAFT SECTION"
 msgctxt "DLC 3 - Behemoth/KEY_DLC3_INTERCEPTION_AIRCRAFT_CONDITION"
 msgid "AIRCRAFT CONDITION"
-msgstr "航空機セクション"
+msgstr "航空機の状態"
 
-#, fuzzy
 #| msgctxt "Character Status/KEY_STATUS_MUTOG_ENRAGED_NAME"
 #| msgid "ENRAGED"
 msgctxt "DLC 3 - Behemoth/KEY_DLC3_INTERCEPTION_MISSION_RESULT_DISENGAGED"
 msgid "DISENGAGED"
-msgstr "激怒"
+msgstr "離脱した"
 
 msgctxt "DLC 3 - Behemoth/KEY_DLC3_INTERCEPTION_REPAIR_AIRCRAFT"
 msgid "Reach a Phoenix base in order to repair, reload and edit weapons and modules"
