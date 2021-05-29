@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2021-05-29 12:50+0000\n"
+"PO-Revision-Date: 2021-05-29 12:53+0000\n"
 "Last-Translator: higema <ltdhyndsh@yahoo.co.jp>\n"
 "Language-Team: \n"
 "Language: ja\n"
@@ -1088,18 +1088,16 @@ msgctxt "DLC 3 - Behemoth/KEY_DLC3_DAMAGE_REGULAR_DESCRIPTION"
 msgid "Damage done to aircraft's Hull Points"
 msgstr ""
 
-#, fuzzy
 #| msgctxt "Phoenixpedia/KEY_PHOENIXPEDIA_GUIDE_POISON_NAME"
 #| msgid "Poison Damage"
 msgctxt "DLC 3 - Behemoth/KEY_DLC3_DAMAGE_BIOWEAPON_NAME"
 msgid "Bioweapon damage"
-msgstr "毒ダメージ"
+msgstr "バイオウェポン ダメージ"
 
 msgctxt "DLC 3 - Behemoth/KEY_DLC3_DAMAGE_BIOWEAPON_DESCRIPTION"
 msgid "Damages the aircraft over time"
 msgstr ""
 
-#, fuzzy
 #| msgctxt "Phoenixpedia/KEY_PHOENIXPEDIA_GUIDE_FIRE_NAME"
 #| msgid "Fire Damage"
 msgctxt "DLC 3 - Behemoth/KEY_DLC3_DAMAGE_FIRE_NAME"
@@ -1110,7 +1108,6 @@ msgctxt "DLC 3 - Behemoth/KEY_DLC3_DAMAGE_FIRE_DESCRIPTION"
 msgid "Damages the aircraft over time"
 msgstr ""
 
-#, fuzzy
 #| msgctxt "Phoenixpedia/KEY_PHOENIXPEDIA_GUIDE_ACID_NAME"
 #| msgid "Acid Damage"
 msgctxt "DLC 3 - Behemoth/KEY_DLC3_DAMAGE_ACID_NAME"
@@ -1121,18 +1118,16 @@ msgctxt "DLC 3 - Behemoth/KEY_DLC3_DAMAGE_ACID_DESCRIPTION"
 msgid "Damages armor over time"
 msgstr ""
 
-#, fuzzy
 #| msgctxt "Phoenixpedia/KEY_PHOENIXPEDIA_GUIDE_POISON_NAME"
 #| msgid "Poison Damage"
 msgctxt "DLC 3 - Behemoth/KEY_DLC3_DAMAGE_EMP_NAME"
 msgid "EMP damage"
-msgstr "毒ダメージ"
+msgstr "EMPダメージ"
 
 msgctxt "DLC 3 - Behemoth/KEY_DLC3_DAMAGE_EMP_DESCRIPTION"
 msgid "Deals extra damage to non-organic aircraft"
 msgstr ""
 
-#, fuzzy
 #| msgctxt "Phoenixpedia/KEY_PHOENIXPEDIA_GUIDE_SHRED_NAME"
 #| msgid "Shred Damage"
 msgctxt "DLC 3 - Behemoth/KEY_DLC3_DAMAGE_SHRED_NAME"
@@ -1143,32 +1138,28 @@ msgctxt "DLC 3 - Behemoth/KEY_DLC3_DAMAGE_SHRED_DESCRIPTION"
 msgid "Damages armor upon impact"
 msgstr ""
 
-#, fuzzy
 #| msgctxt "Equipment/KEY_VIROPHADE_MEDKIT_NAME"
 #| msgid "Virophage Kit"
 msgctxt "DLC 3 - Behemoth/KEY_DLC3_DAMAGE_VIROPHAGE_NAME"
 msgid "Virophage damage"
-msgstr "バイロファージ キット"
+msgstr "バイロファージダメージ"
 
-#, fuzzy
 #| msgctxt "PH_Localization/KEY_ROSTER_LOCATION_AIRCRAFT_TT"
 #| msgid "Soldier is assigned to an aircraft"
 msgctxt "DLC 3 - Behemoth/KEY_DLC3_DAMAGE_VIROPHAGE_DESCRIPTION"
 msgid "Deals extra damage to organic aircraft"
-msgstr "兵士は航空機に配置された"
+msgstr "生物的な航空機に対して追加ダメージを与える"
 
-#, fuzzy
 #| msgctxt "Phoenixpedia/KEY_PHOENIXPEDIA_GUIDE_DAMAGE_SYSTEM_NAME"
 #| msgid "Standard Damage"
 msgctxt "DLC 3 - Behemoth/KEY_DLC3_DAMAGE_INCENDIARY_NAME"
 msgid "Incendiary damage"
-msgstr "通常ダメージ"
+msgstr "焼夷ダメージ"
 
 msgctxt "DLC 3 - Behemoth/KEY_DLC3_DAMAGE_INCENDIARY_DESCRIPTION"
 msgid "Has chance to cause a fire"
 msgstr ""
 
-#, fuzzy
 #| msgctxt "Phoenixpedia/KEY_PHOENIXPEDIA_GUIDE_SHOCK_NAME"
 #| msgid "Shock Damage"
 msgctxt "DLC 3 - Behemoth/KEY_DLC3_DAMAGE_SHOCK_NAME"
@@ -1179,12 +1170,11 @@ msgctxt "DLC 3 - Behemoth/KEY_DLC3_DAMAGE_SHOCK_DESCRIPTION"
 msgid "Temporarily disables modules"
 msgstr ""
 
-#, fuzzy
 #| msgctxt "Equipment/KEY_NEU_SNIPER_LEGS_DESCRIPTION"
 #| msgid "Sniper Leg Armor"
 msgctxt "DLC 3 - Behemoth/KEY_DLC3_DAMAGE_ARMOR_PENETRATION_NAME"
 msgid "Ignores Armor"
-msgstr "スナイパー レッグアーマー"
+msgstr "アーマー無視"
 
 msgctxt "DLC 3 - Behemoth/KEY_DLC3_STATUS_HIGH_WINDS_NAME"
 msgid "HIGH WINDS"
@@ -1194,23 +1184,21 @@ msgctxt "DLC 3 - Behemoth/KEY_DLC3_STATUS_HIGH_WINDS_DESCRIPTION"
 msgid "Grenades, grenade launchers, and missile launchers have halved range"
 msgstr ""
 
-#, fuzzy
 #| msgctxt "Controls/KEY_CONTROLS_TACTICAL_PC_ARROW_LEFT_NAME"
 #| msgid "LEFT ARROW"
 msgctxt "DLC 3 - Behemoth/KEY_LEFT_WING_NAME"
 msgid "LEFT WING"
-msgstr "←"
+msgstr "レフトウィング"
 
 msgctxt "DLC 3 - Behemoth/KEY_LEFT_WING_DESCRIPTION"
 msgid "These light wings allow the Myrmidon to fly"
 msgstr ""
 
-#, fuzzy
 #| msgctxt "Controls/KEY_CONTROLS_TACTICAL_PC_ARROW_RIGHT_NAME"
 #| msgid "RIGHT ARROW"
 msgctxt "DLC 3 - Behemoth/KEY_RIGHT_WING_NAME"
 msgid "RIGHT WING"
-msgstr "→"
+msgstr "ライトウィング"
 
 msgctxt "DLC 3 - Behemoth/KEY_RIGHT_WING_DESCRIPTION"
 msgid "These light wings allow the Myrmidon to fly"
