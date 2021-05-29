@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2021-05-29 13:49+0000\n"
+"PO-Revision-Date: 2021-05-29 13:54+0000\n"
 "Last-Translator: higema <ltdhyndsh@yahoo.co.jp>\n"
 "Language-Team: \n"
 "Language: ja\n"
@@ -11384,9 +11384,8 @@ msgctxt "Geoscape Hints/KEY_GEO_HINT_DIP_NJ1_DESC"
 msgid ""
 "The attitude of NEW JERICHO to the Phoenix Project cannot improve further until you have completed their diplomancy mission. Check the DIPLOMACY tab for details. Once the mission is successfully "
 "completed, they will become SUPPORTIVE and their havens will be revealed instantly upon discovering them."
-msgstr "ニュージェリコの外交ミッションを完了しないと、彼らのフェニックスプロジェクトに対する態度はこれ以上良くなりません。詳細を知るには外交タブをチェックしてください。ひとたび無事にミッションが完了すれば、ニュージェリコは「支持」状態となり、場所が判明している未探索地点に所属ヘイヴンが存在する場合は即座に明らかになります。"
+msgstr "ニュージェリコの外交ミッションを完了しないと、彼らのフェニックスプロジェクトに対する態度はこれ以上良くなりません。詳細を知るには外交タブをチェックしてください。ひとたび無事にミッションが完了すればニュージェリコは「支持」状態となり、場所が判明している未探索地点に所属ヘイヴンが存在する場合は即座に明らかになります。"
 
-#, fuzzy
 #| msgctxt "Geoscape Hints/KEY_GEO_HINT_DIP_SYN1_DESC"
 #| msgid ""
 #| "The attitude of SYNEDRION to the Phoenix Project cannot improve further until you have completed their diplomancy mission. Check the DIPLOMACY tab for details. Once the mission is successfully "
@@ -11395,7 +11394,7 @@ msgctxt "Geoscape Hints/KEY_GEO_HINT_DIP_SYN1_DESC"
 msgid ""
 "The attitude of SYNEDRION to the Phoenix Project cannot improve further until you have completed their diplomancy mission. Check the DIPLOMACY tab for details. Once the mission is successfully "
 "completed, they will become SUPPORTIVE and their havens will be revealed instantly upon discovering them."
-msgstr "シネドリオンの外交ミッションを完了しないと、彼らのフェニックスプロジェクトに対する態度はこれ以上良くなりません。詳細を知るには外交タブをチェックしてください。ひとたび無事にミッションが完了すれば、シネドリオンは「支持」状態となって全ての所属ヘイヴンを開示します。"
+msgstr "シネドリオンの外交ミッションを完了しないと、彼らのフェニックスプロジェクトに対する態度はこれ以上良くなりません。詳細を知るには外交タブをチェックしてください。ひとたび無事にミッションが完了すればシネドリオンは「支持」状態となり、場所が判明している未探索地点に所属ヘイヴンが存在する場合は即座に明らかになります。"
 
 msgctxt "Geoscape Hints/KEY_GEO_HINT_DIP_ANU2_DESC"
 msgid ""
@@ -19504,12 +19503,11 @@ msgctxt "Loading Tips/KEY_GEOSCAPE_LOADING_TIP_2"
 msgid "Defending havens from Pandoran attack is important for gaining favor with factions and earning resources."
 msgstr "パンドランの襲撃からヘイヴンを守ることは、 派閥からの支持を得て資源を獲得するうえで重要です。"
 
-#, fuzzy
 #| msgctxt "Loading Tips/KEY_GEOSCAPE_LOADING_TIP_3"
 #| msgid "When a faction becomes SUPPORTIVE (25+) it will give you the location of all of its havens."
 msgctxt "Loading Tips/KEY_GEOSCAPE_LOADING_TIP_3"
 msgid "When a faction becomes SUPPORTIVE (25+), its havens will be revealed instantly as you discover them."
-msgstr "派閥との関係が支持(25+)になると、 その派閥は全ての所属ヘイヴンの位置を開示してくれます。"
+msgstr "派閥との関係が支持(25+)になると、その派閥に所属するヘイヴンは 場所が判明した段階で即座に明らかになります。"
 
 msgctxt "Loading Tips/KEY_GEOSCAPE_LOADING_TIP_4"
 msgid "When faction relations reach 50 you are ALIGNED - that faction will share its research with you."
@@ -19963,7 +19961,6 @@ msgctxt "Body parts/KEY_SPAWNERY_BODY_NAME"
 msgid "BODY"
 msgstr "ボディ"
 
-#, fuzzy
 #| msgctxt "Body parts/KEY_SHELL"
 #| msgid "SHELL"
 msgctxt "Body parts/KEY_EGG_SHELL_NAME"
@@ -19998,12 +19995,11 @@ msgctxt "Body parts Aliens/KEY_YUGGOTH_EYE_DESCRIPTION_TEMP"
 msgid "Eye of Yuggoth"
 msgstr "ユゴスの眼"
 
-#, fuzzy
 #| msgctxt "Blood Titanium/KEY_SY_SHINOBI_BIO_HELMET_NAME2"
 #| msgid "Echo Head"
 msgctxt "Body parts Aliens/KEY_HEAD_DESCRIPTION_TEMP"
 msgid "Head"
-msgstr "エコー ヘッド"
+msgstr "頭部"
 
 msgctxt "Body parts Aliens/KEY_ROOTS_DESCRIPTION_TEMP"
 msgid "Roots"
@@ -20237,12 +20233,11 @@ msgctxt "Body parts Aliens/KEY_SIREN_TAIL_ORICHALCUM_DESCRIPTION_TEMP"
 msgid "Slightly improved durability and damage"
 msgstr "耐久性とダメージの若干の向上"
 
-#, fuzzy
 #| msgctxt "Equipment/KEY_MUTATION_PART_TORSO_SHOOT_NAME2"
 #| msgid "Venom Torso"
 msgctxt "Body parts Aliens/KEY_SIREN_TORSO_DESCRIPTION_TEMP"
 msgid "Siren Torso"
-msgstr "ベノム トルソー"
+msgstr "サイレンの胴体"
 
 msgctxt "Body parts Aliens/KEY_SIREN_ARM_INJECTOR_DESCRIPTION_TEMP"
 msgid "Inflicts standard and viral damage"
@@ -20276,12 +20271,11 @@ msgctxt "Body parts Aliens/KEY_SPAWNERY_SHELL_NAME_TEMP"
 msgid "SHELL"
 msgstr "シェル"
 
-#, fuzzy
 #| msgctxt "Characters and classes/KEY_ALN_SPAWNING_POOL_DESCRIPTION"
 #| msgid "Spawnery"
 msgctxt "Body parts Aliens/KEY_SPAWNERY_BODY_DESCRIPTION_TEMP"
 msgid "Spawnery hulk"
-msgstr "スポーンリィ"
+msgstr "スポーンリィの体部"
 
 #, fuzzy
 #| msgctxt "Characters and classes/KEY_ALN_SPAWNING_POOL_DESCRIPTION"
