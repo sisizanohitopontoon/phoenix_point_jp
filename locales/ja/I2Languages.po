@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2021-05-29 12:53+0000\n"
+"PO-Revision-Date: 2021-05-29 12:59+0000\n"
 "Last-Translator: higema <ltdhyndsh@yahoo.co.jp>\n"
 "Language-Team: \n"
 "Language: ja\n"
@@ -1212,23 +1212,21 @@ msgctxt "DLC 3 - Behemoth/KEY_SWARMER_JUMP_DESCRIPTION"
 msgid "The Myrmidon flies to a nearby location"
 msgstr ""
 
-#, fuzzy
 #| msgctxt "Body parts Aliens/KEY_SIREN_TORSO_ACID_NAME_TEMP"
 #| msgid "ACID TORSO"
 msgctxt "DLC 3 - Behemoth/KEY_SWARMER_ACID_EXPLOSION_DIE_NAME"
 msgid "ACID EXPLOSION"
-msgstr "アシッド トルソー"
+msgstr "酸性破裂"
 
 msgctxt "DLC 3 - Behemoth/KEY_SWARMER_ACID_EXPLOSION_DIE_DESCRIPTION"
 msgid "Upon death, the Myrmidon bursts in an acid explosion damaging nearby targets"
 msgstr ""
 
-#, fuzzy
 #| msgctxt "Abilities/KEY_POISON_RESISTANCE_NAME"
 #| msgid "POISON RESISTANT"
 msgctxt "DLC 3 - Behemoth/KEY_SWARMER_POISON_EXPLOSION_DIE_NAME"
 msgid "POISON EXPLOSION"
-msgstr "毒耐性"
+msgstr "毒性破裂"
 
 msgctxt "DLC 3 - Behemoth/KEY_SWARMER_POISON_EXPLOSION_DIE_DESCRIPTION"
 msgid "Upon death, the Myrmidon bursts in a poison explosion damaging nearby targets"
@@ -1242,41 +1240,37 @@ msgctxt "DLC 3 - Behemoth/KEY_CORRUPTION_NODE_BODY_DESCRIPTION"
 msgid "Corruption Node's body looks shapeless and alien"
 msgstr ""
 
-#, fuzzy
 #| msgctxt "Body parts Aliens/KEY_ARTHRON_VIRAL_GUN_NAME_TEMP"
 #| msgid "VIRAL GUN"
 msgctxt "DLC 3 - Behemoth/KEY_CORRUPTION_NODE_VIRAL_ATTACK_NAME"
 msgid "VIRAL PULSE"
-msgstr "ウイルスガン"
+msgstr "ウイルス・パルス"
 
 msgctxt "DLC 3 - Behemoth/KEY_CORRUPTION_NODE_VIRAL_ATTACK_DESCRIPTION"
 msgid "The Corruption Node spreads viral infection damaging nearby characters"
 msgstr ""
 
-#, fuzzy
 #| msgctxt "Geoscape/KEY_GEO_EXPLORE_SITE"
 #| msgid "EXPLORE"
 msgctxt "DLC 3 - Behemoth/KEY_EGG_EXPLOSIVE_EXPLODE_NAME"
 msgid "EXPLODE"
-msgstr "探索"
+msgstr "爆発"
 
 msgctxt "DLC 3 - Behemoth/KEY_EGG_EXPLOSIVE_EXPLODE_DESCRIPTION"
 msgid "The egg violently explodes damaging all nearby characters"
 msgstr ""
 
-#, fuzzy
 #| msgctxt "Missions/KEY_MISSION_OUTCOME_SDI_INCREASE"
 #| msgid "The ODI has increased by {0}"
 msgctxt "DLC 3 - Behemoth/KEY_DLC3_GEOBONUS_SPEED"
 msgid "Geoscape speed increased by {bonus}"
-msgstr "ODIが{0}増加した"
+msgstr "ジオスケープの速度が{bonus}増加"
 
-#, fuzzy
 #| msgctxt "Missions/KEY_MISSION_OUTCOME_SDI_INCREASE"
 #| msgid "The ODI has increased by {0}"
 msgctxt "DLC 3 - Behemoth/KEY_DLC3_GEOBONUS_RANGE"
 msgid "Geoscape range increased by {bonus}"
-msgstr "ODIが{0}増加した"
+msgstr "ジオスケープの範囲が{bonus}増加"
 
 msgctxt "DLC 3 - Behemoth/KEY_DLC3_GEOBONUS_RECUPERATION"
 msgid "Protects onboard personnel if the aircraft is destroyed"
@@ -1298,12 +1292,11 @@ msgctxt "DLC 3 - Behemoth/KEY_DLC3_GEOBONUS_ORACLE"
 msgid "Provides weapons with psychic guidance"
 msgstr ""
 
-#, fuzzy
 #| msgctxt "Objectives/KEY_OBJECTIVE_PROTECT_AIRCRAFT"
 #| msgid "PROTECT THE AIRCRAFT"
 msgctxt "DLC 3 - Behemoth/KEY_ABILITY_INTERCEPT_NAME"
 msgid "INTERCEPT ENEMY AIRCRAFT"
-msgstr "航空機を守る"
+msgstr "敵機体を迎撃"
 
 msgctxt "DLC 3 - Behemoth/KEY_ABILITY_INTERCEPT_DESCRIPTION"
 msgid "Engage enemy aircraft in air comabt"
