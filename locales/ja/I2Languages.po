@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2021-05-29 13:15+0000\n"
+"PO-Revision-Date: 2021-05-29 13:20+0000\n"
 "Last-Translator: higema <ltdhyndsh@yahoo.co.jp>\n"
 "Language-Team: \n"
 "Language: ja\n"
@@ -1626,12 +1626,11 @@ msgctxt "DLC 3 - Behemoth/KEY_SPAWN_SWARMER_DESCRIPTION"
 msgid "Give birth to a Myrmidon"
 msgstr "ミュルミドンを生む"
 
-#, fuzzy
 #| msgctxt "Arkham/KEY_SOLDIER_DISMISS"
 #| msgid "DISMISS"
 msgctxt "DLC 3 - Behemoth/KEY_DLC3_INT_MISS"
 msgid "MISS"
-msgstr "解雇"
+msgstr "MISS"
 
 msgctxt "DLC 3 - Behemoth/KEY_DLC3_INT_BLOCKED"
 msgid "BLOCKED"
@@ -1641,33 +1640,29 @@ msgctxt "DLC 3 - Behemoth/KEY_DLC3_INT_HIT"
 msgid "HIT"
 msgstr ""
 
-#, fuzzy
 #| msgctxt "Damage types/KEY_DAMAGE_TYPE_ELECTROSHOCK"
 #| msgid "SHOCK"
 msgctxt "DLC 3 - Behemoth/KEY_DLC3_INT_DMG_SHOCKED"
 msgid "SHOCKED"
 msgstr "ショック"
 
-#, fuzzy
 #| msgctxt "Abilities/KEY_ARMOUR_BREAK_NAME"
 #| msgid "ARMOR BREAK"
 msgctxt "DLC 3 - Behemoth/KEY_DLC3_INT_DMG_ARMOR_SHREDDED"
 msgid "ARMOR SHREDDED"
-msgstr "アーマーブレイク"
+msgstr "装甲破壊"
 
-#, fuzzy
 #| msgctxt "Abilities/KEY_ARMOUR_BREAK_NAME"
 #| msgid "ARMOR BREAK"
 msgctxt "DLC 3 - Behemoth/KEY_DLC3_INT_DMG_ARMOR_PIERCED"
 msgid "ARMOR PIERCED"
-msgstr "アーマーブレイク"
+msgstr "装甲貫通"
 
-#, fuzzy
 #| msgctxt "Abilities/KEY_FIRE_WEAPON_NAME"
 #| msgid "FIRE WEAPON"
 msgctxt "DLC 3 - Behemoth/KEY_DLC3_INT_DMG_FIRE"
 msgid "FIRE APPLIED"
-msgstr "射撃"
+msgstr "火炎ダメージ"
 
 msgctxt "DLC 3 - Behemoth/KEY_DLC3_INT_DMG_BIOWEAPON"
 msgid "BIOWEAPON APPLIED"
@@ -1701,26 +1696,23 @@ msgctxt "DLC 3 - Behemoth/KEY_DLC3_INT_WARNING_BIOWEAPON"
 msgid "WARNING: Bioweapon on board!"
 msgstr ""
 
-#, fuzzy
 #| msgctxt "Options Screen/KEY_OPTIONS_CHOOSE_MONITOR"
 #| msgid "CHOOSE MONITOR"
 msgctxt "DLC 3 - Behemoth/KEY_DLC3_INT_CHOSE_TARGET"
 msgid "CHOOSE A TARGET"
-msgstr "モニターを選択"
+msgstr "ターゲットを選択"
 
-#, fuzzy
 #| msgctxt "Missions/KEY_MISSION_STEAL_RESEARCH_VICTORY_NAME"
 #| msgid "RESEARCH ACQUIRED"
 msgctxt "DLC 3 - Behemoth/KEY_DLC3_INT_TARGET_ACQUIRED"
 msgid "TARGET ACQUIRED"
-msgstr "研究を取得した"
+msgstr "ターゲットを補足した"
 
-#, fuzzy
 #| msgctxt "Missions/KEY_MISSION_SUMMARY_ENEMY_DEFEATED"
 #| msgid "ENEMY DEFEATED"
 msgctxt "DLC 3 - Behemoth/KEY_DLC3_INT_ENEMY_MODULE_DESTROYED"
 msgid "ENEMY {0} DESTROYED"
-msgstr "敵を倒した"
+msgstr "敵の{0}が破壊された"
 
 msgctxt "DLC 3 - Behemoth/KEY_DLC3_INT_ENEMY_WEAPON_IN_RANGE"
 msgid "ENEMY {0} IN RANGE"
