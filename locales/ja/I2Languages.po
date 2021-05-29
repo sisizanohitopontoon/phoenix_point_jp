@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2021-05-29 12:29+0000\n"
+"PO-Revision-Date: 2021-05-29 12:34+0000\n"
 "Last-Translator: higema <ltdhyndsh@yahoo.co.jp>\n"
 "Language-Team: \n"
 "Language: ja\n"
@@ -537,12 +537,11 @@ msgctxt "DLC 3 - Behemoth/KEY_AIRCRAFT_ITEM_STAT_CHARGES"
 msgid "Charges"
 msgstr ""
 
-#, fuzzy
 #| msgctxt "Tutorial 2 to 4/KEY_TUT3_FRIENDLYFIRE_NAME"
 #| msgid "Caution!"
 msgctxt "DLC 3 - Behemoth/KEY_AIRCRAFT_ITEM_STAT_DURATION"
 msgid "Duration"
-msgstr "注意!"
+msgstr "持続時間"
 
 msgctxt "DLC 3 - Behemoth/KEY_AIRCRAFT_ITEM_STAT_PREPARATION"
 msgid "Preparation"
@@ -560,12 +559,11 @@ msgctxt "DLC 3 - Behemoth/KEY_DLC3_GUIDANCE_VISUAL"
 msgid "Visual Guidance"
 msgstr ""
 
-#, fuzzy
 #| msgctxt "Phoenixpedia/KEY_PHOENIXPEDIA_GUIDE_PSYCHIC_NAME"
 #| msgid "Psychic Damage"
 msgctxt "DLC 3 - Behemoth/KEY_DLC3_GUIDANCE_PHYCHIC"
 msgid "Psychic Guidance"
-msgstr "サイキックダメージ"
+msgstr "サイキック誘導"
 
 msgctxt "DLC 3 - Behemoth/KEY_DLC3_COUNTERMEASURE_ELECTRONIC"
 msgid "Counters radar-guided weapons"
@@ -597,12 +595,11 @@ msgid ""
 "This was my home haven, but... we need to go. Prepare for takeoff!\"\""
 msgstr ""
 
-#, fuzzy
 #| msgctxt "Missions/KEY_MISSION_START_MISSION"
 #| msgid "START MISSION"
 msgctxt "DLC 3 - Behemoth/KEY_DLC3_TAC_HINT_EILEEN_STORY_LOSE_NAME"
 msgid "TRANSMISSION"
-msgstr "ミッション開始"
+msgstr "通信"
 
 msgctxt "DLC 3 - Behemoth/KEY_DLC3_TAC_HINT_EILEEN_STORY_LOSE_DESCRIPTION"
 msgid ""
@@ -618,12 +615,11 @@ msgctxt "DLC 3 - Behemoth/KEY_DLC3_TAC_HINT_GILLS_DESCRIPTION"
 msgid "The behemoth's stomp puts our whole team in great danger. Disabling the creature's gills will hinder its breathing cycle and significantly slow it down."
 msgstr ""
 
-#, fuzzy
 #| msgctxt "Abilities/KEY_USE_ADVANCED_VIROPHAGE_KIT_NAME"
 #| msgid "VIROPHAGE MEDKIT"
 msgctxt "DLC 3 - Behemoth/KEY_DLC3_TAC_HINT_NJECTORS_NAME"
 msgid "VIROPHAGE INJECTION"
-msgstr "バイロファージ メディキット"
+msgstr "バイロファージ注入"
 
 msgctxt "DLC 3 - Behemoth/KEY_DLC3_TAC_HINT_INJECTORS_DESCRIPTION"
 msgid "Our operatives are armed with a powerful bioweapon. We should exploit the weak spots on the Behemoth's skin and inject the virophage agent there."
@@ -639,12 +635,11 @@ msgid ""
 " need to find another way out."
 msgstr ""
 
-#, fuzzy
 #| msgctxt "Missions/KEY_MISSION_STEAL_AIRCRAFT_BRIEFING_NAME"
 #| msgid "CAPTURE AIRCRAFT"
 msgctxt "DLC 3 - Behemoth/KEY_DLC3_TAC_HINT_MANTICORE_RUN_START_NAME"
 msgid "ARMED AIRCRAFT"
-msgstr "航空機を鹵獲する"
+msgstr "武装した航空機"
 
 msgctxt "DLC 3 - Behemoth/KEY_DLC3_TAC_HINT_MANTICORE_RUN_START_DESCRIPTION"
 msgid ""
@@ -652,12 +647,11 @@ msgid ""
 " unnecessary engagements with the enemy."
 msgstr ""
 
-#, fuzzy
 #| msgctxt "Missions/KEY_MISSION_START_MISSION"
 #| msgid "START MISSION"
 msgctxt "DLC 3 - Behemoth/KEY_DLC3_TAC_HINT_MANTICORE_RUN_HURRY_NAME"
 msgid "TRANSMISSION"
-msgstr "ミッション開始"
+msgstr "通信"
 
 msgctxt "DLC 3 - Behemoth/KEY_DLC3_TAC_HINT_MANTICORE_RUN_HURRY_DESCRIPTION"
 msgid "\"\"Phoenix? I see you're getting close. More crabmen are approaching from all sides, so hurry up! I'm waiting for you inside the Manticore.\"\""
