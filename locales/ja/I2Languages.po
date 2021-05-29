@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2021-05-29 13:08+0000\n"
+"PO-Revision-Date: 2021-05-29 13:15+0000\n"
 "Last-Translator: higema <ltdhyndsh@yahoo.co.jp>\n"
 "Language-Team: \n"
 "Language: ja\n"
@@ -1508,32 +1508,28 @@ msgctxt "DLC 3 - Behemoth/KEY_MISSION_CLEANSE_HAVEN"
 msgid "Destroy the Corruption Node"
 msgstr ""
 
-#, fuzzy
 #| msgctxt "Missions/KEY_MISSION_ATTACK_SCAVENGING_SITE_DEFEAT_NAME"
 #| msgid "SCAVENGING SITE ABANDONED"
 msgctxt "DLC 3 - Behemoth/KEY_MISSION_HAVEN_INFESTED_BRIEFING_NAME"
 msgid "HAVEN INFESTED BY PANDORANS"
-msgstr "スカベンジ地点は放棄された"
+msgstr "パンドランによってヘイヴンが浸食された"
 
 msgctxt "DLC 3 - Behemoth/KEY_DLC3_GEOSCAPE_MESSAGE_VEHICLE_REPAIRED"
 msgid "{0} and all modules fully repaired"
 msgstr ""
 
-#, fuzzy
 #| msgctxt "Polaris Home Scren/KEY_STEAM_HOME_NOTIFICATION_KEY_ALREADY_PRESENT"
 #| msgid "Code {0} was already redeemed!"
 msgctxt "DLC 3 - Behemoth/KEY_GEOSCAPE_MESSAGE_VEHICLE_RELOADED"
 msgid "{0} was rearmed"
-msgstr "コード {0} はすでに使用済みです!"
+msgstr "{0}は装備の補給を行った"
 
-#, fuzzy
 #| msgctxt "Game Over/KEY_GAME_SUMMARY_PHOENIX_FORCES"
 #| msgid "PHOENIX FORCES"
 msgctxt "DLC 3 - Behemoth/KEY_DLC3_GROUND_FORCES"
 msgid "GROUND FORCES"
-msgstr "フェニックス部隊"
+msgstr "地上部隊"
 
-#, fuzzy
 #| msgctxt "Base Screen/KEY_BASE_FACILITY_STORE_NAME"
 #| msgid "STORE"
 msgctxt "DLC 3 - Behemoth/KEY_DLC3_STORAGE"
@@ -1548,14 +1544,12 @@ msgctxt "DLC 3 - Behemoth/KEY_DLC3_FILTER_WEAPONS"
 msgid "Filter: Weapons"
 msgstr ""
 
-#, fuzzy
 #| msgctxt "Equipment/KEY_SY_MIST_REPEL_ATTACHMENT_NAME"
 #| msgid "Repeller Module"
 msgctxt "DLC 3 - Behemoth/KEY_DLC3_FILTER_MODULES"
 msgid "Filter: Modules"
-msgstr "リペラー モジュール"
+msgstr "フィルター: モジュール"
 
-#, fuzzy
 #| msgctxt "Game Over/KEY_GAME_SUMMARY_PROD_WEAPONS"
 #| msgid "WEAPONS"
 msgctxt "DLC 3 - Behemoth/KEY_DLC3_AIRCRAFT_ROSTER_WEAPONS"
@@ -1566,12 +1560,11 @@ msgctxt "DLC 3 - Behemoth/KEY_DLC3_AIRCRAFT_ROSTER_MODULE"
 msgid "MODULE"
 msgstr ""
 
-#, fuzzy
 #| msgctxt "Tactical/KEY_WILL_POINTS_CLEAN"
 #| msgid "WILL POINTS"
 msgctxt "DLC 3 - Behemoth/KEY_DLC3_HULL_POINTS"
 msgid "HULL POINTS"
-msgstr "ウィルポイント"
+msgstr "船体ポイント"
 
 msgctxt "DLC 3 - Behemoth/KEY_DLC3_ALN_SMALL_FLYER_NAME"
 msgid "CHARUN"
@@ -1611,30 +1604,27 @@ msgctxt "DLC 3 - Behemoth/KEY_DLC3_INTERCEPTION_FAILED"
 msgid "Your characters have suffered Stamina and Hit Point loss. Survivors will be transported to the nearest Phoenix base."
 msgstr ""
 
-#, fuzzy
 #| msgctxt "Controls/KEY_CONTROLS_GEOSCAPE_DPAD_DOWN"
 #| msgid "AIRCRAFT SECTION"
 msgctxt "DLC 3 - Behemoth/KEY_DLC3_ENEMY_AIRCRAFT_CONDITION"
 msgid "ENEMY AIRCRAFT CONDITION"
-msgstr "航空機セクション"
+msgstr "敵航空機の状態"
 
 msgctxt "DLC 3 - Behemoth/KEY_DLC3_LOSSES"
 msgid "LOSSES"
 msgstr ""
 
-#, fuzzy
 #| msgctxt "Abilities/KEY_SPAWN_MIST_ABILITY_NAME"
 #| msgid "SPAWN MIST"
 msgctxt "DLC 3 - Behemoth/KEY_SPAWN_SWARMER_NAME"
 msgid "SPAWN MYRMIDON"
-msgstr "スポーン・ミスト"
+msgstr "スポーン ミュルミドン"
 
-#, fuzzy
 #| msgctxt "Abilities/KEY_SPAWN_ACIDWORM_DESCRIPTION"
 #| msgid "Give birth to a Acidworm"
 msgctxt "DLC 3 - Behemoth/KEY_SPAWN_SWARMER_DESCRIPTION"
 msgid "Give birth to a Myrmidon"
-msgstr "アシッドワームを生む"
+msgstr "ミュルミドンを生む"
 
 #, fuzzy
 #| msgctxt "Arkham/KEY_SOLDIER_DISMISS"
