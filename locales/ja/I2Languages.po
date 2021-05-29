@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2021-05-29 13:54+0000\n"
+"PO-Revision-Date: 2021-05-29 13:57+0000\n"
 "Last-Translator: higema <ltdhyndsh@yahoo.co.jp>\n"
 "Language-Team: \n"
 "Language: ja\n"
@@ -20277,19 +20277,17 @@ msgctxt "Body parts Aliens/KEY_SPAWNERY_BODY_DESCRIPTION_TEMP"
 msgid "Spawnery hulk"
 msgstr "スポーンリィの体部"
 
-#, fuzzy
 #| msgctxt "Characters and classes/KEY_ALN_SPAWNING_POOL_DESCRIPTION"
 #| msgid "Spawnery"
 msgctxt "Body parts Aliens/KEY_SPAWNERY_EGG_POD_DESCRIPTION_TEMP"
 msgid "Spawnery pod"
-msgstr "スポーンリィ"
+msgstr "スポーンリィの卵莢"
 
-#, fuzzy
 #| msgctxt "Characters and classes/KEY_ALN_SPAWNING_POOL_DESCRIPTION"
 #| msgid "Spawnery"
 msgctxt "Body parts Aliens/KEY_SPAWNERY_SHELL_DESCRIPTION_TEMP"
 msgid "Spawnery shell"
-msgstr "スポーンリィ"
+msgstr "スポーンリィの甲殻"
 
 msgctxt "Body parts Aliens/KEY_ARTHRON_CARAPACE_NAME_TEMP"
 msgid "CARAPACE"
@@ -20339,12 +20337,11 @@ msgctxt "Body parts Aliens/KEY_ARTHRON_TORSO_NAME_TEMP"
 msgid "TORSO"
 msgstr "トルソー"
 
-#, fuzzy
 #| msgctxt "Body parts Aliens/KEY_CHIRON_TORSO_DESCRIPTION_TEMP"
 #| msgid "Chiron torso"
 msgctxt "Body parts Aliens/KEY_ARTHRON_TORSO_DESCRIPTION_TEMP"
 msgid "Arthron torso"
-msgstr "ケイロンの胴体部"
+msgstr "アースロンの胴体部"
 
 msgctxt "Body parts Aliens/KEY_ARTHRON_HEAD_SPITTER_NAME_TEMP"
 msgid "SPITTER HEAD"
@@ -20362,12 +20359,11 @@ msgctxt "Body parts Aliens/KEY_ARTHRON_CARAPACE_DESCRIPTION_TEMP"
 msgid "Arthron carapace"
 msgstr "アースロンの甲殻"
 
-#, fuzzy
 #| msgctxt "Equipment/KEY_MUTATION_PART_HEAD_ARMORED_NAME2"
 #| msgid "Armored Head"
 msgctxt "Body parts Aliens/KEY_HEAD_ELITE_DESCRIPTION_TEMP"
 msgid "Evolved Head"
-msgstr "アーマード ヘッド"
+msgstr "進化型頭部"
 
 msgctxt "Body parts Aliens/KEY_ARTHRON_ARM_DESCRIPTION_TEMP"
 msgid "Arthron arm"
@@ -20381,7 +20377,6 @@ msgctxt "Body parts Aliens/KEY_ARTHRON_SHIELD_ARM_DESCRIPTION_TEMP"
 msgid "Arthron shield"
 msgstr "アースロンの盾"
 
-#, fuzzy
 #| msgctxt "Blood Titanium/KEY_SHIELD_BIONIC_NAME"
 #| msgid "SHIELD"
 msgctxt "Body parts Aliens/KEY_ARTHRON_SHIELD_ARM_NAME_TEMP"
@@ -20620,12 +20615,11 @@ msgctxt "Body parts Aliens/KEY_BODY_NAME_TEMP"
 msgid "BODY"
 msgstr "ボディ"
 
-#, fuzzy
 #| msgctxt "Body parts/KEY_BODY_DESCRIPTION"
 #| msgid "Body"
 msgctxt "Body parts Aliens/KEY_BODY_DESCRIPTION_TEMP"
 msgid "Body"
-msgstr "ボディ"
+msgstr "体部"
 
 msgctxt "Body parts Aliens/KEY_ACIDWORM_EGG_NAME_TEMP"
 msgid "ACIDEWORM EGG"
@@ -20955,12 +20949,11 @@ msgctxt "Body parts Aliens/KEY_AC_ORICHALCUMSHIELD_TEMP"
 msgid "LIVING CRYSTAL SHIELD"
 msgstr "リビングクリスタル シールド"
 
-#, fuzzy
 #| msgctxt "Blood Titanium/KEY_NJ_EXO_BIO_LEGS_NAME2"
 #| msgid "Propeller Legs"
 msgctxt "Body parts Aliens/KEY_AC_LEG_HOPLITE_DESCRIPTION_TEMP"
 msgid "Hoplite Leg"
-msgstr "プロペラ レッグ"
+msgstr "ホプライトの脚部"
 
 msgctxt "Body parts Aliens/KEY_AC_DRILL_HOPLITE_DESCRIPTION_TEMP"
 msgid "Mutane-powered drill"
@@ -21054,34 +21047,31 @@ msgctxt "Body parts Aliens/KEY_AC_GUARDIANBEAM_PROTEAN_DESCRIPTION_TEMP"
 msgid "A devastating Protean Mutane powered beam"
 msgstr "プロティアンミューテーンで出力される圧倒的威力のビーム"
 
-#, fuzzy
 #| msgctxt "Body parts Aliens/KEY_SIREN_TORSO_ACID_NAME_TEMP"
 #| msgid "ACID TORSO"
 msgctxt "Body parts Aliens/KEY_WORM_ACID_TORSO_NAME"
 msgid "ACIDWORM TORSO"
-msgstr "アシッド トルソー"
+msgstr "アシッドワーム トルソー"
 
 msgctxt "Body parts Aliens/KEY_WORM_ACID_TORSO_DESCRIPTION"
 msgid "Explodes and damages nearby enemies with acid"
 msgstr ""
 
-#, fuzzy
 #| msgctxt "Characters and classes/KEY_FIREWORM_DESCRIPTION"
 #| msgid "FIREWORM"
 msgctxt "Body parts Aliens/KEY_WORM_FIRE_TORSO_NAME"
 msgid "FIREWORM TORSO"
-msgstr "ファイアワーム"
+msgstr "ファイアワーム トルソー"
 
 msgctxt "Body parts Aliens/KEY_WORM_FIRE_TORSO_DESCRIPTION"
 msgid "Explodes and sets nearby enemies ablaze"
 msgstr ""
 
-#, fuzzy
 #| msgctxt "Characters and classes/KEY_POISONWORM_NAME"
 #| msgid "POISONWORM"
 msgctxt "Body parts Aliens/KEY_WORM_POISON_TORSO_NAME"
 msgid "POISONWORM TORSO"
-msgstr "ポイズンワーム"
+msgstr "ポイズンワーム トルソー"
 
 msgctxt "Body parts Aliens/KEY_WORM_POISON_TORSO_DESCRIPTION"
 msgid "Explodes affects neaby enemies with poison"
