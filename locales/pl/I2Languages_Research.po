@@ -595,7 +595,7 @@ msgid "Advanced Shredding Technology"
 msgstr "Передовая бронебойная технология"
 
 msgctxt "Research/PX_ADVANCEDSHREDDINGTECH_RESEARCHDEF_UNLOCK"
-msgid "Combining New Jericho's explosive tech with the armor-shredding tech developed by the Disciples of Anu could in a new generation of extremely powerful weapons."
+msgid "Combining New Jericho's explosive tech with the armor-shredding tech developed by the Disciples of Anu could result in a new generation of extremely powerful weapons."
 msgstr "Благодаря сочетанию взрывной технологии Нового Иерихона и бронебойной технологии Последователей Ану можно создать чрезвычайно мощное оружие."
 
 msgctxt "Research/PX_ALIEN_ACIDWORM_RESEARCHDEF_COMPLETE"
@@ -663,12 +663,8 @@ msgid "Pandoran Evolution"
 msgstr "Эволюция пандоранов"
 
 msgctxt "Research/PX_ALIEN_EVOLVEDALIENS_RESEARCHDEF_UNLOCK"
-msgid "Field teams have reported seeing mutated versions of Arthrons and Tritons with evolved body parts. While similar in appearance to the original classifications, these new specimens are considerably tougher. We could be witnessing the emergence of several new types of Pandoran."
-msgstr "Группами полевых исследователей были обнаружены мутировавшие Артроны и Тритоны с измененными частями тела. Внешне новые особи практически не отличаются от описанных ранее, однако гораздо более живучи. Возможно, мы являемся свидетелями появления нескольких новых видов пандоранов."
-
-msgctxt "Research/PX_ALIEN_FIREWORM_RESEARCHDEF_COMPLETE"
-msgid "Summary: The fireworm contains multiple chambers of various chemicals, which are mixed on detection of an enemy to cause a large incendiary explosion. The creature kills itself in the process.[LF][LF]Genetic origins: 28% Annelid, 72% Unknown[LF][LF]Function: To inflict as much damage through an incendiary explosion as possible. Possibly a defensive mutation for Pandoran nests, but has been seen in offensive roles.[LF][LF]Mechanism: The powerful incendiary chemical mixture is combined via several internal chambers.[LF][LF]Mobility: Suprisingly agile, with limited high jump capability.[LF][LF]Strength: Immune to fire[LF][LF]Weakness: Relatively easy to kill - vulnerable to explosives."
-msgstr "Справка: в теле огненного червя находится множество полостей с различными химическими веществами, которые смешиваются при обнаружении врага, вызывая масштабный зажигательный взрыв. В результате взрыва существо погибает.[LF] [LF] Генетическое происхождение: на 28% Аннелида, на 72% неизвестно.[LF] [LF] Функция: нанести как можно больше урона с помощью взрыва. Возможно, является оборонительной мутацией пандоранских гнезд, однако были зафиксированы случаи использования в агрессивных целях.[LF] [LF] Механизм: мощная зажигательная смесь образуется в нескольких внутренних полостях.[LF] [LF] Движение: га удивление проворный, способен на небольшие прыжки.[LF] [LF] Сила: невосприимчив к огню.[LF] [LF] Слабость: относительно легко убить — восприимчив к взрывчатке."
+msgid "Summary: The fireworm contains multiple chambers of various chemicals, which are mixed on detection of an enemy to cause a large incendiary explosion. The creature kills itself in the process.[LF][LF]Genetic origins: 28% Annelid, 72% Unknown[LF][LF]Function: To inflict as much damage through an incendiary explosion as possible. Possibly a defensive mutation for Pandoran nests, but has been seen in offensive roles.[LF][LF]Mechanism: The powerful incendiary chemical mixture is combined via several internal chambers.[LF][LF]Mobility: Suprisingly agile, with limited high jump capability.[LF][LF]Strength: Immune to fire.[LF][LF]Weakness: Relatively easy to kill - vulnerable to explosives."
+msgstr "Справка: в теле огненного червя находится множество полостей с различными химическими веществами, которые смешиваются при обнаружении врага, вызывая масштабный зажигательный взрыв. В результате взрыва существо погибает.[LF] [LF] Генетическое происхождение: на 28% Аннелида, на 72% неизвестно.[LF] [LF] Функция: нанести как можно больше урона с помощью взрыва. Возможно, является оборонительной мутацией пандоранских гнезд, однако были зафиксированы случаи использования в агрессивных целях.[LF] [LF] Механизм: мощная зажигательная смесь образуется в нескольких внутренних полостях.[LF] [LF] Движение: на удивление проворный, способен на небольшие прыжки.[LF] [LF] Сила: невосприимчив к огню.[LF] [LF] Слабость: относительно легко убить — восприимчив к взрывчатке."
 
 msgctxt "Research/PX_ALIEN_FIREWORM_RESEARCHDEF_NAME"
 msgid "Fireworm Autopsy"
@@ -677,6 +673,10 @@ msgstr "Вскрытие огненного червя"
 msgctxt "Research/PX_ALIEN_FIREWORM_RESEARCHDEF_UNLOCK"
 msgid "The Fireworm appears to be a mobile incendiary bomb with a singular purpose."
 msgstr "Похоже, огненный червь представляет из себя подвижную зажигательную бомбу, у которой есть лишь одна цель."
+
+msgctxt "Research/PX_ALIEN_FIREWORM_RESEARCHDEF_COMPLETE"
+msgid "Summary: The fireworm contains multiple chambers of various chemicals, which are mixed on detection of an enemy to cause a large incendiary explosion. The creature kills itself in the process.[LF][LF]Genetic origins: 28% Annelid, 72% Unknown[LF][LF]Function: To inflict as much damage through an incendiary explosion as possible. Possibly a defensive mutation for Pandoran nests, but has been seen in offensive roles.[LF][LF]Mechanism: The powerful incendiary chemical mixture is combined via several internal chambers.[LF][LF]Mobility: Suprisingly agile, with limited high jump capability.[LF][LF]Strength: Immune to fire[LF][LF]Weakness: Relatively easy to kill - vulnerable to explosives."
+msgstr "Отчет: в теле огненного червя находится множество полостей с различными химическими веществами, которые смешиваются при обнаружении врага, вызывая масштабный зажигательный взрыв. В результате взрыва существо погибает.[LF][LF]Генетическое происхождение: 28% кольчатый червь, 72% неизвестный генетический материал.[LF][LF]Функция: нанесение максимального урона зажигательным взрывом. Возможно, является оборонительной мутацией пандоранских гнезд, однако были зафиксированы случаи использования в агрессивных целях.[LF][LF]Механизм: мощная зажигательная смесь образуется в нескольких внутренних полостях.[LF][LF]Подвижность: на удивление проворный, способен на небольшие прыжки.[LF][LF]Сильные стороны: невосприимчивость к огню.[LF][LF]Уязвимости: тносительно легко уничтожить — уязвим к взрывчатке."
 
 msgctxt "Research/PX_ALIEN_FISHMAN_RESEARCHDEF_COMPLETE"
 msgid "Summary: Early versions of this mutation were identified on video streams in 2027, and seen in greater numbers during the second mist of 2040. The current specimens have evolved to the extent that they are intelligent enough to use human equipment. In addition to human-like arms they have secondary appendages with varied and specialised functions. Other body parts also reveal extraordinary variations and adaptations. We are seeing increasing numbers of these creatures, often deployed alongside Arthrons. Given their more land-based adaptation we can infer that they are being gestated in land based structures within the bounds of the new mist outbreak.[LF][LF]Genetic origins: 12% myctophids, 8% other deep sea fish, 22% human, 58% Unknown[LF][LF]Function: Sufficient intelligence to use a variety of human weapons in sniper or assault roles, plus various stealth capabilities.[LF][LF]Offensive mutations: Good night vision and perception. Primary arms - dextrous enough for using rifles or handguns. Secondary arms with close combat capability - paralyzing, piercing.[LF][LF]Defensive mutations: Mist emission. Chameleon-like evasion in response to attack. Rapid regeneration.[LF][LF]Mobility: Agile variant has high jump capability.[LF][LF]Weakness:  The Triton's thick skin provides less protection than the Arthrons chitin plating."
@@ -899,7 +899,7 @@ msgid "At last we have a live specimen of this extraordinary creature for resear
 msgstr "Наконец, у нас появилась живая особь этого необычного существа для исследования. Это послужит дальнейшему пониманию пандоранской угрозы."
 
 msgctxt "Research/PX_ALIEN_MINDFRAGGER_RESEARCHDEF_COMPLETE"
-msgid "Summary: Mindfraggers are a bio-weapon designed to control, and possibly abduct human subjects. The creature's head detaches from the body during an attack, becoming permanently linked to its host. Fortunately, killing the attached creature will removed it safely, restoring the victim to a normal state of mind.[LF][LF]Genetic origins: 22% Arthropoid, 3% Human, 75% Unknown[LF][LF]Function: Mind control (the precise mechanism of control is unknown)[LF][LF]Reproduction: Eggs (from hatcheries in Pandoran colonies)[LF][LF]Mobility: Very fast - but unable to climb or jump high. Take the high ground.[LF][LF]Weakness: Easy to kill - very vulnerable to explosives. Once attached - dispatch it with a single shot weapon in order to minimise damage to victim."
+msgid "Summary: Mindfraggers are a bio-weapon designed to control, and possibly abduct human subjects. The creature's head detaches from the body during an attack, becoming permanently linked to its host. Fortunately, killing the attached creature will remove it safely, restoring the victim to a normal state of mind.[LF][LF]Genetic origins: 22% Arthropoid, 3% Human, 75% Unknown[LF][LF]Function: Mind control (the precise mechanism of control is unknown)[LF][LF]Reproduction: Eggs (from hatcheries in Pandoran colonies)[LF][LF]Mobility: Very fast - but unable to climb or jump high. Take the high ground.[LF][LF]Weakness: Easy to kill - very vulnerable to explosives. Once attached - dispatch it with a single shot weapon in order to minimise damage to victim."
 msgstr "Отчет: промыватели — это биологическое оружие, предназначенное для контроля и, возможно, похищения людей. Голова существа отрывается от тела во время нападения, становясь постоянно связанной с его хозяином. К счастью, если убить прикрепившееся существо, то жертва безопасно вернется в сознательное состояние.[LF][LF]Генетическое происхождение: 22% членистоногое, 3% человек, 75% неизвестный генетический материал.[LF][LF]Функция: контроль разума (точный механизм контроля неизвестен).[LF][LF]Размножение: яйца (из инкубаторов в пандоранских колониях).[LF][LF]Подвижность: очень быстрые — но не могут карабкаться и высоко прыгать. Занимают положение на высоте.[LF][LF]Уязвимости: легко уничтожить — очень уязвимы к взрывчатке. После прикрепления — уберите его одним выстрелом, чтобы свести к минимуму урон жертве."
 
 msgctxt "Research/PX_ALIEN_MINDFRAGGER_RESEARCHDEF_NAME"
@@ -1283,7 +1283,7 @@ msgid "An encrypted but partially corrupted file has been found in a reactivated
 msgstr "Зашифрованный, но частично поврежденный файл был обнаружен на перезапущеной базе Феникса. Он назывался «Допотопная протоцивилизация» и был помечен как особо ценный материал."
 
 msgctxt "Research/PX_PYSCHICATTACK_RESEARCHDEF_COMPLETE"
-msgid "Intense analysis has shown that the Pandoran ability to instill fear in humans is a direct result of an overstimulation of the amygdala through a form of infrasound combine with some kind of psychic influence. Based on current observations, only certain Pandoran species are able to produce the effect, although the exact method through which they do so remains unknown. A dampening module has been developed to negate this type of effect. "
+msgid "Intense analysis has shown that the Pandoran ability to instill fear in humans is a direct result of an overstimulation of the amygdala through a form of infrasound combined with some kind of psychic influence. Based on current observations, only certain Pandoran species are able to produce the effect, although the exact method through which they do so remains unknown. A dampening module has been developed to negate this type of effect. "
 msgstr "Интенсивный анализ показал, что способность пандоранов прививать страх людям является прямым следствием сверхстимуляции миндалин через инфразвук, который действует на людей на психологическом уровне. Данные, основанные на текущих исследованиях, говорят, что только некоторые особи пандоранов могут оказать такой эффект. Хотя точный метод, с помощью которого они это делают, остается неизвестным. Чтобы свети на нет этот эффект, разработан демпфирующий модуль. "
 
 msgctxt "Research/PX_PYSCHICATTACK_RESEARCHDEF_NAME"
@@ -1751,7 +1751,7 @@ msgid "Based on an abandoned New Jericho cybernetics project, bionics technology
 msgstr "Технологии бионических преобразований основаны на заброшенном кибернетическом проекте Нового Иерихона. Они позволяют расширить возможности человека с помощью новейших кибернетических имплантантов и протезов, превратив их носителей в мощнейшее оружие на поле боя."
 
 msgctxt "Blood Titanium/NJ_BIONICS1_RESEARCHDEF_COMPLETE"
-msgid "Vastly improved from the first new Jericho attempts, the technology no longer leaves the subjects dead or crippled. A new set of bio-implants have successfully been developed thanks to advancements in neural co-processors and light metal alloy development. The new implants allow personnel to withstand heavy amounts of damage, land safely from great heights, and even run through walls if needed."
+msgid "Vastly improved from the first New Jericho attempts, the technology no longer leaves the subjects dead or crippled. A new set of bio-implants have successfully been developed thanks to advancements in neural co-processors and light metal alloy development. The new implants allow personnel to withstand heavy amounts of damage, land safely from great heights, and even run through walls if needed."
 msgstr "После первых испытаний технология была значительно усовершенствована, уровень смертности и деформации подопытных снизились. Были успешно разработаны новые биоимплантанты благодаря достижениям в области нейронных сопроцессоров и улучшению сплавов легких металлов. Новые имплантанты позволяют выдерживать обширные повреждения, безопасно приземляться при прыжке с большой высоты и при необходимости даже разрушать стены."
 
 msgctxt "Blood Titanium/NJ_BIONICS1_RESEARCHDEF_BENEFITS"
@@ -2741,6 +2741,950 @@ msgstr "Проект «Слава»"
 msgctxt "DLC2 Necronomicon/PX_PROJECTGLORY_RESEARCHDEF_COMPLETE"
 msgid "Project Glory was a secretive attempt to study the nature of enigmatic ruins that predate Homo sapiens. Funded by the Phoenix Project and Vanadium Inc., it was led by the visionary archaeologist Dr. Helena Lewandowski.[LF] [LF] As often happens, the Phoenix Project and Vanadium Inc. had a fallout. It appears Tobias West used force to apprehend Helena Lewandowski."
 msgstr "Проект «Слава» был скрытой попыткой изучить природу загадочных руин, существовавших до Homo sapiens. Его возглавляла дальновидный археолог доктор Хелена Левандовски при финансовой поддержке со стороны Проекта Феникс и корпорации «Ванадий».[LF]  [LF] Как это часто бывает, у Проекта Феникс и корпорации «Ванадий» возникли разногласия. Похоже, Тобиас Вест применил силу, чтобы задержать Хелену Левандовски."
+
+msgctxt "DLC3 Behemoth/KEY_FS_PX_ALIEN_CORRUPTION_NODE_RESEARCHDEF_REVEAL"
+msgid "[null]"
+msgstr "[null]"
+
+msgctxt "DLC3 Behemoth/KEY_FS_PX_ALIEN_CORRUPTION_NODE_RESEARCHDEF_UNLOCK"
+msgid "Specimen: CORRUPTION NODE[LF]A species that look utterly alien, even compared to other highly mutated Pandorans. Its unusual anatomy and powerful brain activity, even after its death, need to be carefully studied."
+msgstr "Особь: УЗЕЛ ТЛЕНИЯ[LF]Совершенно чужеродное на вид существо даже по сравнению с другими сильно мутировавшими пандоранами. Его необычную анатомию и активную мозговую деятельность после смерти необходимо изучить со всей тщательностью."
+
+msgctxt "DLC3 Behemoth/KEY_FS_PX_ALIEN_CORRUPTION_NODE_RESEARCHDEF_COMPLETE"
+msgid "Summary: The first Corruption Node was discovered shortly after the emergence of the Behemoth, and our scientists speculate there is a strong connection between it and the Festering Skies. The shape of the creature is alien and unnatural, and the vast majority of its DNA structure does not resemble anything we've previously observed. Pandoran specialists speculate this creature is the most advanced form of Pandoravirus mutation, something the Disciples of Anu often refer to as \"\"The True Form\"\". It exhibits a very advanced and powerful form of intelligence, though all attempts to communicate with it, or even catch one alive, have been futile. All unarmed humans in contact with a Corruption Node have been telepathically overpowered to the point of complete loss of free will and their settlements overtaken.[LF][LF]Genetic origins: 6% teuthida, 5% octopoda, 2% caudata, 9% human, 78% unknown[LF][LF]Function: Attaches to human facilities to create some sort of symbiotic connection. Its powerful telepathic emission can mind-control humans and even take over human technology, something we haven't seen other Pandoran species attempt.[LF][LF]Offensive mutations: Takes over and controls entire human settlements and technology, including aircraft.[LF][LF]Defensive mutations: Spreads viral agents around it's body to fend off attackers.[LF][LF]Mobility: Once attached, the body remains completely immobile.[LF][LF]Weakness:  It seems to have one-sided telepathic connection with its victims. Once the body is dead, all mind-control connection with all entities is broken."
+msgstr "Сводка: первый Узел Тления был обнаружен вскоре после появления Бегемота, и наши ученые подозревают, что между ним и Гнойным Небом есть тесная связь. Его облик чужероден и неестественен, а подавляющая часть структуры его ДНК не похожа ни на что другое, о чем мы знаем. Специалисты предполагают, что он является вершиной эволюции пандоранов, которую Последователи Ану называют «Истинной формой». Он обладает крайне развитым интеллектом, хотя все попытки связаться с ним и даже поймать хотя бы одну из живых особей провалились. Узел Тления телепатически овладевает всеми невооруженными людьми, вступающими с ним в контакт, до такой степени, что они полностью теряют свободу воли и позволяют захватить их собственные поселения.[LF] [LF] Генетическое происхождение: 6% кальмар, 5% осьминог, 2% хвостатое земноводное, 9% человек, 78% неизвестный генетический материал.[LF] [LF] Функция: прикрепляется к строениям людей и создает своего рода симбиотическую связь. Своим мощным телепатическим излучением он может контролировать человеческий разум и даже захватывать технику, чего не наблюдалось у других видов пандоранов.[LF][LF] Агрессивные мутации: захватывает и контролирует целые поселения людей и технику, в том числе воздушные суда.[LF] [LF] Оборонительные мутации: распространяет вирусные агенты по своему телу, чтобы отражать атаки нападающих.[LF][LF] Подвижность: после прикрепления туловище остается полностью неподвижным.[LF][LF] Уязвимость: похоже, он устанавливает одностороннюю телепатическую связь со своими жертвами. Как только он умирает, его контроль над разумом других прекращается."
+
+msgctxt "DLC3 Behemoth/KEY_FS_PX_ALIEN_CORRUPTION_NODE_RESEARCHDEF_NAME"
+msgid "Corruption Node Autopsy"
+msgstr "Вскрытие Узла Тления"
+
+msgctxt "DLC3 Behemoth/KEY_FS_PX_ALIEN_CORRUPTION_NODE_RESEARCHDEF_BENEFITS"
+msgid "[null]"
+msgstr "[null]"
+
+msgctxt "DLC3 Behemoth/KEY_FS_PX_ALIEN_SWARMER_EGG_RESEARCHDEF_REVEAL"
+msgid "[null]"
+msgstr "[null]"
+
+msgctxt "DLC3 Behemoth/KEY_FS_PX_ALIEN_SWARMER_EGG_RESEARCHDEF_UNLOCK"
+msgid "The specimen is a large organic vessel that contains a single Myrmidon. At present, the exact method of how the egg is created and distributed remains unknown."
+msgstr "Образец представляет собой большой органический сосуд, в котором содержится один Мирмидон. В настоящее время точный метод формирования и распространения яйца остается неизвестным."
+
+msgctxt "DLC3 Behemoth/KEY_FS_PX_ALIEN_SWARMER_EGG_RESEARCHDEF_COMPLETE"
+msgid "The specimen’s service has shown resistance to various hostile elements, including acid and poison exposure. The egg contains strands of insectoid, Pandoran and unknown DNA. Close observation shows the egg is reactive to approaching humans and even machinery, and the shell serves more like a stasis pod, rather than an incubation or mutation chamber."
+msgstr "Образец показал устойчивость к различным враждебным условиям, включая воздействие кислоты и яда. В яйце содержатся нити насекомообразного, пандорана и неизвестной ДНК. При тщательном наблюдении можно заметить, что яйцо реагирует на приближение человека и даже техники, а его оболочка выполняет функцию, больше похожую на действие стазисной капсулы, чем инкубационной или мутационной камеры."
+
+msgctxt "DLC3 Behemoth/KEY_FS_PX_ALIEN_SWARMER_EGG_RESEARCHDEF_NAME"
+msgid "Myrmidon Egg"
+msgstr "Яйцо Мирмидона"
+
+msgctxt "DLC3 Behemoth/KEY_FS_PX_ALIEN_SWARMER_EGG_RESEARCHDEF_BENEFITS"
+msgid "[null]"
+msgstr "[null]"
+
+msgctxt "DLC3 Behemoth/KEY_FS_PX_ALIEN_SWARMER_RESEARCHDEF_REVEAL"
+msgid "[null]"
+msgstr "[null]"
+
+msgctxt "DLC3 Behemoth/KEY_FS_PX_ALIEN_SWARMER_RESEARCHDEF_UNLOCK"
+msgid "Myrmidons are small and nimble Pandorans often used to support attacks on human settlements."
+msgstr "Мирмидоны — быстрые пандораны небольшого размера, часто оказывающие поддержку при нападении на поселения людей."
+
+msgctxt "DLC3 Behemoth/KEY_FS_PX_ALIEN_SWARMER_RESEARCHDEF_COMPLETE"
+msgid "Summary: Myrmidons are relatively simple organisms, but their group tactics and strategic use of terrain suggests they are guided by some sort of hive mind intelligence. Remarkable feature of their bodies are their light wings capable of performing short-distance flights, making them the perfect reconnaissance trooper for the Pandorans. Their nimble legs provide stability and very fast walking speed. Closer inspection of their internal organs shows close resemblance with various Pandoran worm species.[LF][LF]Genetic origins: 12% oecophylla, 11% brachyura, 12% annelida, 65% unknown[LF][LF]Function: This small Pandoran mutation seems to excel in supporting raids by flanking targets and securing strategic zones.[LF][LF]Offensive mutations: Capable of releasing dangerous gas explosions.[LF][LF]Defensive mutations: These creatures move in large numbers but attack in groups of few, strategically reinforcing certain areas.[LF][LF]Mobility: Very nimble and capable of short-distance flight[LF][LF]Weakness: Vulnerable to gunfire"
+msgstr "Сводка: Мирмидоны — относительно простые организмы, но применение групповой тактики и стратегическое использование местности заставляют полагать, что ими руководит своего рода коллективный разум. Их примечательной особенностью являются легкие крылья, которые позволяют им совершать полеты на небольшие расстояния, что делает их идеальными разведчиками для пандоранов. Проворные ноги позволяют им сохранять равновесие и обеспечивают высокую скорость ходьбы. При более тщательном рассмотрении внутренних органов выявляется близкое сходство с различными видами пандоранов-червей.[LF]  [LF]  Генетическое происхождение: 12% муравей-ткач, 11% краб, 12% кольчатый червь, 65% неизвестный генетический материал.[LF]  [LF]  Функция: этот маленький пандоран, по всей видимости, с успехом оказывает поддержку при нападениях, обходя цели и захватывая стратегически важные зоны.[LF]  [LF]  Агрессивные мутации: взрывается, распространяя опасный газ.[LF]  [LF]  Оборонительные мутации: передвигается большими отрядами, но нападает группами по несколько особей, захватывая стратегически важные зоны.[LF]  [LF]  Подвижность: очень проворный и может летать на небольшие расстояния.[LF]  [LF]  Уязвимость: уязвим к стрельбе."
+
+msgctxt "DLC3 Behemoth/KEY_FS_PX_ALIEN_SWARMER_RESEARCHDEF_NAME"
+msgid "Myrmidon Autopsy"
+msgstr "Вскрытие Мирмидона"
+
+msgctxt "DLC3 Behemoth/KEY_FS_PX_ALIEN_SWARMER_RESEARCHDEF_BENEFITS"
+msgid "[null]"
+msgstr "[null]"
+
+msgctxt "DLC3 Behemoth/KEY_FS_PX_ALIEN_LIVE_SWARMER_RESEARCHDEF_REVEAL"
+msgid "A live Myrmidon specimen is required in order to continue with its research. The Myrmidon requires 1 free laboratory space in the Containment Facility."
+msgstr "Для продолжения исследования требуется живая особь Мирмидона. Мирмидон занимает 1 свободное лабораторное место в изоляционном комплексе."
+
+msgctxt "DLC3 Behemoth/KEY_FS_PX_ALIEN_LIVE_SWARMER_RESEARCHDEF_UNLOCK"
+msgid "Capturing a live Myrmidon brings valuable insight into the creature's behaviour outside of the coordinated strikes guided by a hive mind intelligence."
+msgstr "Поимка живого Мирмидона даст ценную информацию о его поведении вне контекста скоординированных нападений под руководством коллективного разума."
+
+msgctxt "DLC3 Behemoth/KEY_FS_PX_ALIEN_LIVE_SWARMER_RESEARCHDEF_COMPLETE"
+msgid "Summary: By studying the Myrmidon's behavior in captivity, we can determine that they are extremely dependant on the hive mind organism that controls them. Surrounded by other creatures of its kind, the Myrmidon will perform highly strategic movements aiming to reinforce key battlefield areas. Left on its own, the creature reverts back to its primal self-defense instincts and often bursts in an explosion of poisonous gas. [LF][LF]Countermeasures: All operatives who spot one of these creatures should exercise extreme caution, as they usually attack in groups, surrounding their target and quickly reinforcing key positions. Always attack Myrmidons from a safe distance."
+msgstr "Сводка: изучая поведение Мирмидона в неволе, мы можем определить, что он сильно зависит от коллективного разума, который его контролирует. В окружении других подобных ему особей Мирмидон будет выполнять стратегически рациональные действия с целью захвата ключевых зон на поле боя. Сам по себе он возвращается к своим основным инстинктам самозащиты и часто взрывается, распространяя ядовитый газ. [LF] [LF]Контрмеры: все оперативники, заметившие Мирмидона, должны проявлять предельную осторожность, поскольку он обычно нападает в группах, окружая свои цели и быстро укрепляя ключевые позиции. Всегда нападайте на него с безопасного расстояния."
+
+msgctxt "DLC3 Behemoth/KEY_FS_PX_ALIEN_LIVE_SWARMER_RESEARCHDEF_NAME"
+msgid "Myrmidon Vivisection"
+msgstr "Вивисекция Мирмидона"
+
+msgctxt "DLC3 Behemoth/KEY_FS_PX_ALIEN_LIVE_SWARMER_RESEARCHDEF_BENEFITS"
+msgid "Damage inflicted on Myrmidons is increased by 10%."
+msgstr "Урон, наносимый Мирмидонам, увеличен на 10%."
+
+msgctxt "DLC3 Behemoth/KEY_FS_PX_BASIC_MISSILE_MODULE_RESEARCHDEF_REVEAL"
+msgid "[null]"
+msgstr "[null]"
+
+msgctxt "DLC3 Behemoth/KEY_FS_PX_BASIC_MISSILE_MODULE_RESEARCHDEF_UNLOCK"
+msgid "Standard issue Manticore air-to-air missile"
+msgstr "Стандартная ракета «воздух — воздух» для ВС «Мантикора»"
+
+msgctxt "DLC3 Behemoth/KEY_FS_PX_BASIC_MISSILE_MODULE_RESEARCHDEF_COMPLETE"
+msgid "A large part of the launch of the Phoenix Aerial Combat Program has been the arming of transport Manticore vehicles for combat. The vanguard of our aerial operation has been equipped with powerful Nomad-class air-to-air missiles - Phoenix Project's choice of standard issue munitions due to their reliability and high accuracy."
+msgstr "В рамках запуска Программы воздушного боя Проекта Феникс была поставлена цель подготовить ВС «Мантикора» к ведению боевых действий. Авангард нашей воздушной операции был оснащен мощными ракетами «воздух — воздух» класса «Кочевник» — стандартным оружием, выбранным Проектом Феникс по причине его надежности и высокой точности."
+
+msgctxt "DLC3 Behemoth/KEY_FS_PX_BASIC_MISSILE_MODULE_RESEARCHDEF_NAME"
+msgid "Nomad AAM"
+msgstr "РВВ «Кочевник»"
+
+msgctxt "DLC3 Behemoth/KEY_FS_PX_BASIC_MISSILE_MODULE_RESEARCHDEF_BENEFITS"
+msgid "Nomad AAM is available for production"
+msgstr "РВВ «Кочевник» доступна для создания"
+
+msgctxt "DLC3 Behemoth/KEY_FS_PX_AUTOCANNON_MODULE_RESEARCHDEF_REVEAL"
+msgid "[null]"
+msgstr "[null]"
+
+msgctxt "DLC3 Behemoth/KEY_FS_PX_AUTOCANNON_MODULE_RESEARCHDEF_UNLOCK"
+msgid "Standard issue Manticore autocannon"
+msgstr "Стандартная автоматическая пушка для ВС «Мантикора»"
+
+msgctxt "DLC3 Behemoth/KEY_FS_PX_AUTOCANNON_MODULE_RESEARCHDEF_COMPLETE"
+msgid "A perfect compliment to the Nomad air-to-air missiles, the Brokkr Autocannon provides suppressing fire and is often employed to force the enemy to partake in unfavorable maneuvers to avoid the threat."
+msgstr "Автоматическая пушка «Брок», выступающая идеальным дополнением к ракетам «воздух — воздух» класса «Кочевник», применяется для стрельбы на подавление и зачастую вынуждает противника сделать невыгодный для него маневр, чтобы не получить еще больше урона."
+
+msgctxt "DLC3 Behemoth/KEY_FS_PX_AUTOCANNON_MODULE_RESEARCHDEF_NAME"
+msgid "Brokkr AC-3"
+msgstr "АП-3 «Брок»"
+
+msgctxt "DLC3 Behemoth/KEY_FS_PX_AUTOCANNON_MODULE_RESEARCHDEF_BENEFITS"
+msgid "Brokkr AC-3 is available for production"
+msgstr "АП-3 «Брок» доступна для создания"
+
+msgctxt "DLC3 Behemoth/KEY_FS_PX_HEAVY_CANNON_MODULE_RESEARCHDEF_REVEAL"
+msgid "[null]"
+msgstr "[null]"
+
+msgctxt "DLC3 Behemoth/KEY_FS_PX_HEAVY_CANNON_MODULE_RESEARCHDEF_UNLOCK"
+msgid "Manticore Heavy Cannon"
+msgstr "Тяжелая пушка для ВС «Мантикора»"
+
+msgctxt "DLC3 Behemoth/KEY_FS_PX_HEAVY_CANNON_MODULE_RESEARCHDEF_COMPLETE"
+msgid "The Orochi-pattern heavy cannons are highly effective against smaller aerial targets, making them the perfect tool for intercepting Pandoran raids."
+msgstr "Тяжелые пушки класса «Ороти» очень эффективны против воздушных целей небольшого размера, что делает их идеальным средством для пресечения налетов пандоранов."
+
+msgctxt "DLC3 Behemoth/KEY_FS_PX_HEAVY_CANNON_MODULE_RESEARCHDEF_NAME"
+msgid "Orochi HC-1"
+msgstr "ТП-1 «Ороти»"
+
+msgctxt "DLC3 Behemoth/KEY_FS_PX_HEAVY_CANNON_MODULE_RESEARCHDEF_BENEFITS"
+msgid "Orochi HC-1 is available for production"
+msgstr "ТП-1 «Ороти» доступна для создания"
+
+msgctxt "DLC3 Behemoth/KEY_FS_PX_VIROPHAGE_GUN_MODULE_RESEARCHDEF_REVEAL"
+msgid "[null]"
+msgstr "[null]"
+
+msgctxt "DLC3 Behemoth/KEY_FS_PX_VIROPHAGE_GUN_MODULE_RESEARCHDEF_UNLOCK"
+msgid "A powerful Manticore virophage rotary cannon"
+msgstr "Мощная вирофаговая вращающаяся пушка для ВС «Мантикора»"
+
+msgctxt "DLC3 Behemoth/KEY_FS_PX_VIROPHAGE_GUN_MODULE_RESEARCHDEF_COMPLETE"
+msgid "Our Aerial Combat Program team of researches has been employing data gathered from recent dogfight engagements in the air to develop a brand new style of weapon. The Fenrir RC-7, named after its characteristic burst of seven virophage-infused projectiles, is sure to increase our effectiveness when fighting airborne Pandorans."
+msgstr "Наша исследовательская группа из Программы воздушного боя использовала данные, собранные в ходе недавних баталий, с целью разработки совершенно нового класса оружия. ВП-7 «Фенрир», получившая свое название из-за характерного взрыва семи снарядов, начиненных вирофагом, наверняка повысит нашу эффективность в воздушной борьбе с пандоранами."
+
+msgctxt "DLC3 Behemoth/KEY_FS_PX_VIROPHAGE_GUN_MODULE_RESEARCHDEF_NAME"
+msgid "Fenrir RC-7"
+msgstr "ВП-7 «Фенрир»"
+
+msgctxt "DLC3 Behemoth/KEY_FS_PX_VIROPHAGE_GUN_MODULE_RESEARCHDEF_BENEFITS"
+msgid "Fenrir RC-7 is available for production"
+msgstr "ВП-7 «Фенрир» доступна для создания"
+
+msgctxt "DLC3 Behemoth/KEY_FS_PX_HYPERSONIC_MISSILE_MODULE_RESEARCHDEF_REVEAL"
+msgid "[null]"
+msgstr "[null]"
+
+msgctxt "DLC3 Behemoth/KEY_FS_PX_HYPERSONIC_MISSILE_MODULE_RESEARCHDEF_UNLOCK"
+msgid "Through an uncharacteristic sharing of valuable know-how between us, New Jericho, and the Disciples of Anu, our joint team has developed a unique aircraft weapon."
+msgstr "Нехарактерный обмен ценными знаниями и технологиями между нами, Новым Иерихоном и Последователями Ану позволил совместно сформированной группе разработать уникальное оружие для применения в воздухе."
+
+msgctxt "DLC3 Behemoth/KEY_FS_PX_HYPERSONIC_MISSILE_MODULE_RESEARCHDEF_COMPLETE"
+msgid "To Synedrion's great disbelief, the Disciples of Anu, New Jericho, and the Phoenix Project have been actively cooperating on the design and construction of a brand new weapon pattern. [LF][LF]Project \"\"Hand of Tyr\"\" is based on hypersonic technology that we successfully developed in conjunction with New Jericho tech experts and invaluable, if at times frustrating, guidance by a clique of innovation-minded priests of Anu.[LF][LF]One particularly excited engineer has jokingly proclaimed she's found the key to uniting two rival factions - a shared love for destruction."
+msgstr "Несмотря на большой скептицизм Синедриона, Последователи Ану, Новый Иерихон и Проект Феникс приняли активное участие в разработке и создании оружия совершенно нового класса. [LF] Проект «Рука Тюра» основан на гиперзвуковой технологии, которую мы успешно разработали совместно с техническими экспертами из Нового Иерихона и под бесценным, хотя временами и разочаровывающим руководством клики новаторски настроенных священников Ану.[LF] [LF] Одна из особенно деятельных инженеров в шутку выразила мысль, что наконец-то найдено качество, объединяющее две противоборствующие фракции — любовь к разрушению."
+
+msgctxt "DLC3 Behemoth/KEY_FS_PX_HYPERSONIC_MISSILE_MODULE_RESEARCHDEF_NAME"
+msgid "Hand of Tyr"
+msgstr "Рука Тюра"
+
+msgctxt "DLC3 Behemoth/KEY_FS_PX_HYPERSONIC_MISSILE_MODULE_RESEARCHDEF_BENEFITS"
+msgid "Hand of Tyr is available for production"
+msgstr "Рука Тюра доступна для создания"
+
+msgctxt "DLC3 Behemoth/KEY_FS_PX_ELECTROLASER_MODULE_RESEARCHDEF_REVEAL"
+msgid "[null]"
+msgstr "[null]"
+
+msgctxt "DLC3 Behemoth/KEY_FS_PX_ELECTROLASER_MODULE_RESEARCHDEF_UNLOCK"
+msgid "A powerful electrolaser weapon developed by New Jericho experts and based on Synedrion technology"
+msgstr "Мощное электролазерное оружие, разработанное экспертами из Нового Иерихона и основанное на технологиях Синедриона"
+
+msgctxt "DLC3 Behemoth/KEY_FS_PX_ELECTROLASER_MODULE_RESEARCHDEF_COMPLETE"
+msgid "The \"\"threat from above\"\" has made the Synedrion even more open to information-sharing and cooperation, and this has gotten the attention of New Jericho. The two, together with a team of Phoenix engineers have been hard at work perfecting a Synedrion-patent laser guiding system. Using the core principles of electrolaser guidance in combination with extremely powerful New Jericho generators, our joint team has successfully developed the state-of-the-art Thunderbolt HC-9. [LF]It's rumored that Tobias West himself, who was actively involved in the project, has begun referring to the weapon as \"\"the pinnacle of air-to-air warfare\"\". "
+msgstr "Угроза сверху сделала Синедрион еще более открытым к обмену информацией и сотрудничеству, что и привлекло внимание Нового Иерихона. Обе фракции, совместно с группой инженеров Проекта Феникс, усердно работали над усовершенствованием системы лазерного наведения, которой владел Синедрион. Используя основные принципы электролазерного наведения в сочетании с чрезвычайно мощными генераторами Нового Иерихона, наша совместная группа успешно разработала новейшую ТП-9 «Удар молнии». [LF] Ходят слухи, что сам Тобиас Вест, активно участвовавший в проекте, назвал оружие «апофеозом развития технологий ведения боевых действий в воздухе»."
+
+msgctxt "DLC3 Behemoth/KEY_FS_PX_ELECTROLASER_MODULE_RESEARCHDEF_NAME"
+msgid "Thunderbolt HC-9"
+msgstr "ТП-9 «Удар молнии»"
+
+msgctxt "DLC3 Behemoth/KEY_FS_PX_ELECTROLASER_MODULE_RESEARCHDEF_BENEFITS"
+msgid "Thunderbolt HC-9 is available for production"
+msgstr "ТП-9 «Удар молнии» доступна для создания"
+
+msgctxt "DLC3 Behemoth/KEY_FS_PX_AFTERBURNER_MODULE_RESEARCHDEF_REVEAL"
+msgid "[null]"
+msgstr "[null]"
+
+msgctxt "DLC3 Behemoth/KEY_FS_PX_AFTERBURNER_MODULE_RESEARCHDEF_UNLOCK"
+msgid "An upgrade to the Manticore's engines will make our aircraft significantly more nimble and manoeuvrable"
+msgstr "Модернизация двигателей ВС «Мантикора» сделает его намного более маневренным"
+
+msgctxt "DLC3 Behemoth/KEY_FS_PX_AFTERBURNER_MODULE_RESEARCHDEF_COMPLETE"
+msgid "The Manticores are small and nimble, and that's their greatest strength. With the new afterburner modules equipped, our ships can effortlessly maneuver around enemy gunfire and perform great feats of navigation. "
+msgstr "ВС «Мантикора» — небольшое и маневренное воздушное судно, и в этом его главная сила. С новыми форсажными модулями мы сможем достичь новых высот в навигации, а также легко маневрировать, огибая линии вражеского огня."
+
+msgctxt "DLC3 Behemoth/KEY_FS_PX_AFTERBURNER_MODULE_RESEARCHDEF_NAME"
+msgid "Afterburner is available for production"
+msgstr "Форсаж доступен для создания"
+
+msgctxt "DLC3 Behemoth/KEY_FS_PX_AFTERBURNER_MODULE_RESEARCHDEF_BENEFITS"
+msgid "Afterburner is available for production"
+msgstr "Форсаж доступен для создания"
+
+msgctxt "DLC3 Behemoth/KEY_FS_PX_FLARES_MODULE_RESEARCHDEF_REVEAL"
+msgid "[null]"
+msgstr "[null]"
+
+msgctxt "DLC3 Behemoth/KEY_FS_PX_FLARES_MODULE_RESEARCHDEF_UNLOCK"
+msgid "We can employ some of our knowledge of Pandoran biochemistry to significantly upgrade our flare fuel"
+msgstr "Мы можем применить кое-какие знания биохимии пандоранов, чтобы значительно улучшить топливную технологию."
+
+msgctxt "DLC3 Behemoth/KEY_FS_PX_FLARES_MODULE_RESEARCHDEF_COMPLETE"
+msgid "The Pandoran species known as Myrmidons are a recent discovery, but our scientist are putting it to good use. Using biochemical analysis of their entrails, we were able to synthesize a high-energy flare fuel that bursts with blinding light upon ignition. Using this technology, we designed specialized rockets that can be used not only as a signaling mechanism, but as an effective distraction to airborne enemies."
+msgstr "Мирмидоны, возможно и были обнаружены совсем недавно, но наши ученые уже нашли применение найденным у них свойствам. После биохимического анализа их внутренностей мы смогли синтезировать высокосортное факельное топливо, которое при возгорании образует ослепляющую вспышку. Применив эту технологию, мы разработали специальные ракеты, которые можно использовать не только для подачи сигналов, но и как эффективное средство для отвлечения внимания противника в воздухе."
+
+msgctxt "DLC3 Behemoth/KEY_FS_PX_FLARES_MODULE_RESEARCHDEF_NAME"
+msgid "Flares"
+msgstr "Вспышки"
+
+msgctxt "DLC3 Behemoth/KEY_FS_PX_FLARES_MODULE_RESEARCHDEF_BENEFITS"
+msgid "Flares are available for production"
+msgstr "Вспышки доступны для создания"
+
+msgctxt "DLC3 Behemoth/KEY_FS_PX_ESCAPE_PODS_MODULE_RESEARCHDEF_REVEAL"
+msgid "[null]"
+msgstr "[null]"
+
+msgctxt "DLC3 Behemoth/KEY_FS_PX_ESCAPE_PODS_MODULE_RESEARCHDEF_UNLOCK"
+msgid "This upgrade will protect all Phoenix operatives even if a Manticore is shot down from the sky"
+msgstr "Эта модернизация защитит всех оперативников Проекта Феникс, даже если ВС «Мантикора» собьют в воздухе"
+
+msgctxt "DLC3 Behemoth/KEY_FS_PX_ESCAPE_PODS_MODULE_RESEARCHDEF_COMPLETE"
+msgid "The PX Manticore aircraft is regarded as one of the safest state-of-the-art flying machines, and for a good reason. In times of crisis, our new escape pod models provide means of timely emergency ejection and safe landing for every onboard operative. Even if the machine is completely destroyed the odds of survival of the crew are practically guaranteed."
+msgstr "ВС «Мантикора», принадлежащее Проекту Феникс, считается одним из самых безопасных и технически оснащенных летательных аппаратов, и не зря. В чрезвычайной ситуации наши новые спасательные капсулы позволят каждому оперативнику на борту своевременно катапультироваться и безопасно приземлиться. Даже при полном уничтожении судна шансы на выживание экипажа практически гарантированы."
+
+msgctxt "DLC3 Behemoth/KEY_FS_PX_ESCAPE_PODS_MODULE_RESEARCHDEF_NAME"
+msgid "Escape Pods"
+msgstr "Спасательные капсулы"
+
+msgctxt "DLC3 Behemoth/KEY_FS_PX_ESCAPE_PODS_MODULE_RESEARCHDEF_BENEFITS"
+msgid "Escape Pods are available for production"
+msgstr "Спасательные капсулы доступны для создания"
+
+msgctxt "DLC3 Behemoth/KEY_FS_PX_MASKED_MANTICORE_RESEARCHDEF_REVEAL"
+msgid "[null]"
+msgstr "[null]"
+
+msgctxt "DLC3 Behemoth/KEY_FS_PX_MASKED_MANTICORE_RESEARCHDEF_UNLOCK"
+msgid "Using the experimental fusion of alloys and Pandoran DNA will allow us to reach the Festering Skies undetected."
+msgstr "Экспериментальное слияние металлической конструкции судна с пандоранской ДНК позволит нам незамеченными добраться до Гнойного Неба."
+
+msgctxt "DLC3 Behemoth/KEY_FS_PX_MASKED_MANTICORE_RESEARCHDEF_COMPLETE"
+msgid "One of our laboratories dedicated to studying the Festering Skies has recently made an exceptional breakthrough - a way to fuse Pandoran DNA with aircraft alloy. Influenced by the Tiamat technology that fuses living flesh with machinery, our team has perfected the method and added one huge advantage - testing proves that Pandorans can't distinguish the material from their own flesh. [LF][LF]This powerful technology now allows us to construct a new kind of masked aircraft and fly it straight to the Festering Skies without being attacked from all sides.  [LF][LF]Let's just hope that other factions share our enthusiasm for this genius contraption. If not, we'll have yet another airborne enemy to worry about."
+msgstr "Недавно в одной из наших лабораторий, посвященных исследованию Гнойного Неба, было сделано исключительное и прорывное открытие — был найден способ слить пандоранскую ДНК с металлической конструкцией воздушного судна. Опираясь на принцип ВС «Тиамат», в котором живая плоть соединена с техникой, наша группа усовершенствовала технологию и реализовала в ней одно значительное преимущество — в ходе испытаний было доказано, что пандораны не могут отличить материал, из которого изготовлено судно, от собственной плоти. [LF] [LF] Такая мощная технология позволит нам создать совершенно новое замаскированное воздушное судно и полететь прямо к Гнойному Небу так, чтобы на нас не напали со всех сторон. [LF] [LF] Будем надеяться, что другие фракции разделяют наш энтузиазм по поводу этой гениальной идеи. Если же нет, нам придется считаться с еще одним противником в воздухе."
+
+msgctxt "DLC3 Behemoth/KEY_FS_PX_MASKED_MANTICORE_RESEARCHDEF_NAME"
+msgid "Masked Manticore"
+msgstr "Замаскированная Мантикора"
+
+msgctxt "DLC3 Behemoth/KEY_FS_PX_MASKED_MANTICORE_RESEARCHDEF_BENEFITS"
+msgid "Masked Manticore is available for production"
+msgstr "Замаскированная Мантикора доступна для создания"
+
+msgctxt "DLC3 Behemoth/KEY_FS_NJ_RAILGUN_MODULE_RESEARCHDEF_REVEAL"
+msgid "[null]"
+msgstr "[null]"
+
+msgctxt "DLC3 Behemoth/KEY_FS_NJ_RAILGUN_MODULE_RESEARCHDEF_UNLOCK"
+msgid "New Jericho's standard-issue air-to-air railgun autocannon."
+msgstr "Стандартная автоматическая рельсовая пушка «воздух — воздух» Нового Иерихона"
+
+msgctxt "DLC3 Behemoth/KEY_FS_NJ_RAILGUN_MODULE_RESEARCHDEF_COMPLETE"
+msgid "When it comes to aerial combat, New Jericho is always looking for a the best weight-to-firepower ratio achievable. The standard-issue Marauder AC-4 autocannons are based on electromagnetic linear motors to launch bursts of heavy fire at impressive range."
+msgstr "Когда дело касается воздушного боя, Новый Иерихон всегда стремиться обеспечить наилучшее соотношение веса и огневой мощи. Технология стандартных автоматических пушек АП-4 «Мародер» основана на электромагнитных линейных моторах, предназначенных для ведения мощного огня с внушительного расстояния."
+
+msgctxt "DLC3 Behemoth/KEY_FS_NJ_RAILGUN_MODULE_RESEARCHDEF_NAME"
+msgid "Marauder AC-4"
+msgstr "АП-4 «Мародер»"
+
+msgctxt "DLC3 Behemoth/KEY_FS_NJ_RAILGUN_MODULE_RESEARCHDEF_BENEFITS"
+msgid "Marauder AC-4 is available for production"
+msgstr "АП-4 «Мародер» доступна для создания"
+
+msgctxt "DLC3 Behemoth/KEY_FS_NJ_FURY_POD_MODULE_RESEARCHDEF_REVEAL"
+msgid "[null]"
+msgstr "[null]"
+
+msgctxt "DLC3 Behemoth/KEY_FS_NJ_FURY_POD_MODULE_RESEARCHDEF_UNLOCK"
+msgid "A renowned fury pod pattern often employed by New Jericho pilots to lay heavy fire from short distances"
+msgstr "Широко известные капсулы ярости, часто используемые пилотами Нового Иерихона для ведения сильного огня с коротких расстояний"
+
+msgctxt "DLC3 Behemoth/KEY_FS_NJ_FURY_POD_MODULE_RESEARCHDEF_COMPLETE"
+msgid "A rotary cannon with formidable firepower, the Gadfly RC-6 is named so after the characteristic noise the drum is making while firing a volley of 6 destructive rounds in the air."
+msgstr "ВП-6 «Овод», вращающаяся пушка с грозной огневой мощью, получила свое название из-за характерного звука, производимого барабаном при стрельбе залпом из 6 разрушительных зарядов."
+
+msgctxt "DLC3 Behemoth/KEY_FS_NJ_FURY_POD_MODULE_RESEARCHDEF_NAME"
+msgid "Gadfly RC-6"
+msgstr "ВП-6 «Овод»"
+
+msgctxt "DLC3 Behemoth/KEY_FS_NJ_FURY_POD_MODULE_RESEARCHDEF_BENEFITS"
+msgid "Gadfly RC-6 is available for production"
+msgstr "ВП-6 «Овод» доступна для создания"
+
+msgctxt "DLC3 Behemoth/KEY_FS_NJ_TACTICAL_NUKE_MODULE_RESEARCHDEF_REVEAL"
+msgid "[null]"
+msgstr "[null]"
+
+msgctxt "DLC3 Behemoth/KEY_FS_NJ_TACTICAL_NUKE_MODULE_RESEARCHDEF_UNLOCK"
+msgid "The proudest invention of the New Jericho Air Force wears a name appropriate to its destructive firepower "
+msgstr "Самое амбициозное изобретение воздушных сил Нового Иерихона носит имя, соответствующее своей разрушительной огневой мощи"
+
+msgctxt "DLC3 Behemoth/KEY_FS_NJ_TACTICAL_NUKE_MODULE_RESEARCHDEF_COMPLETE"
+msgid "New Jericho spares no expense or man hours when it comes to improving its arsenal. Since the launch of the Air Force program, researchers have been exploring numerous ways of making their most powerful warheads light enough to be carried by aircraft and launched at close targets. By all accounts they've succeeded. [LF][LF]The Armageddon air-to-air missile is the pinnacle of New Jericho innovation and their ultimate answer to any and all airborne threats to humanity."
+msgstr "Когда дело доходит до модернизации своего арсенала, Новый Иерихон не жалеет на это ни средств, ни человеко-часов. С момента запуска программы воздушных сил исследователи изучали множество способов облегчить конструкцию своих самых мощных боеголовок, чтобы их можно было перевозить на судах и запускать по ближним целям. Судя по всему, им это удалось. [LF] [LF] РВВ «Армагеддон» — это вершина технологических инноваций Нового Иерихона и его окончательный ответ на все угрозы человечеству с воздуха."
+
+msgctxt "DLC3 Behemoth/KEY_FS_NJ_TACTICAL_NUKE_MODULE_RESEARCHDEF_NAME"
+msgid "Armageddon AAM"
+msgstr "РВВ «Армагеддон»"
+
+msgctxt "DLC3 Behemoth/KEY_FS_NJ_TACTICAL_NUKE_MODULE_RESEARCHDEF_BENEFITS"
+msgid "Armageddon AAM is available for production"
+msgstr "РВВ «Армагеддон» доступна для создания"
+
+msgctxt "DLC3 Behemoth/KEY_FS_NJ_ARMOR_PLATES_MODULE_RESEARCHDEF_REVEAL"
+msgid "[null]"
+msgstr "[null]"
+
+msgctxt "DLC3 Behemoth/KEY_FS_NJ_ARMOR_PLATES_MODULE_RESEARCHDEF_UNLOCK"
+msgid "This ultra-light reinforced plating ensures great stability and prevents impact damage to the aircraft's surface."
+msgstr "Эта ультралегкая усиленная защита обеспечивает большую устойчивость и предотвращает урон по поверхности воздушного судна."
+
+msgctxt "DLC3 Behemoth/KEY_FS_NJ_ARMOR_PLATES_MODULE_RESEARCHDEF_COMPLETE"
+msgid "New Jericho military innovation follows the same principles every weapon construction has obeyed since the prehistoric age - make it so you kill the enemy before it kills you. [LF][LF]The complex arming procedures of the Air Force program dictate equal parts of effort and attention are to be spent on offense and defense. The result of this balanced approach is the recent development of superior armor plating light enough to allow an aircraft to maneuver effortlessly, but strong enough to protect its hull from incoming gunfire."
+msgstr "Инновации Нового Иерихона следуют тем же принципам, которым подчиняются все военные технологии с доисторических времен, — уничтожить врага, прежде чем он уничтожит вас. [LF] [LF] Сложные порядки в исследовательской программе воздушных сил диктуют условие, что уделять времени и усилий на разработку технологий обороны нужно столько же, сколько и на нападение. Результатом такого уравновешенного похода стала недавняя разработка первоклассной бронезащиты, достаточно легкой для беспроблемного маневрирования воздушного судна и достаточно прочной для его защиты от вражеского огня."
+
+msgctxt "DLC3 Behemoth/KEY_FS_NJ_ARMOR_PLATES_MODULE_RESEARCHDEF_NAME"
+msgid "Armor Plates"
+msgstr "Бронезащита"
+
+msgctxt "DLC3 Behemoth/KEY_FS_NJ_ARMOR_PLATES_MODULE_RESEARCHDEF_BENEFITS"
+msgid "Armor Plates is available for production"
+msgstr "Бронезащита доступна для создания"
+
+msgctxt "DLC3 Behemoth/KEY_FS_NJ_FUEL_TANK_MODULE_RESEARCHDEF_REVEAL"
+msgid "[null]"
+msgstr "[null]"
+
+msgctxt "DLC3 Behemoth/KEY_FS_NJ_FUEL_TANK_MODULE_RESEARCHDEF_UNLOCK"
+msgid "This efficient module allows the aircraft to travel greater distances, while only negligibly increasing its overall weight "
+msgstr "Этот модуль, обладающий незначительным весом, позволяет воздушному судну преодолевать большие расстояния"
+
+msgctxt "DLC3 Behemoth/KEY_FS_NJ_FUEL_TANK_MODULE_RESEARCHDEF_COMPLETE"
+msgid "Modern flight technology owes big part of its development to earlier discoveries made for efficient land travel. One such discovery is efficient fuel consumption. Applying principles first tested on Armadillo armored transports, New Jericho aircraft can now optimize fuel consumption to drastically improve the range of its flying warmachines.  "
+msgstr "Во многом современные технологии полетов обязаны своим развитием более ранним открытиям, сделанным для упрощения передвижения по земле. Одним из таких открытий и является система экономичного расхода топлива. Впервые этот принцип был реализован в БТР «Броненосец», а теперь и в воздушном судне Нового Иерихона может использоваться оптимизация расхода топлива, которая значительно увеличивает дальность полета его боевых машин."
+
+msgctxt "DLC3 Behemoth/KEY_FS_NJ_FUEL_TANK_MODULE_RESEARCHDEF_NAME"
+msgid "Fuel Tank"
+msgstr "Топливный бак"
+
+msgctxt "DLC3 Behemoth/KEY_FS_NJ_FUEL_TANK_MODULE_RESEARCHDEF_BENEFITS"
+msgid "Fuel Tank is available for production"
+msgstr "Топливный бак доступен для создания"
+
+msgctxt "DLC3 Behemoth/KEY_FS_NJ_CRUISE_CONTROL_MODULE_RESEARCHDEF_REVEAL"
+msgid "[null]"
+msgstr "[null]"
+
+msgctxt "DLC3 Behemoth/KEY_FS_NJ_CRUISE_CONTROL_MODULE_RESEARCHDEF_UNLOCK"
+msgid "This superior navigation AI system allows aircraft to move faster and find optimal routes across enemy-infested skies."
+msgstr "Эта первоклассная навигационная ИИ-система позволяет воздушному судну лететь быстрее и находить оптимальные маршруты в кишащем врагами небе."
+
+msgctxt "DLC3 Behemoth/KEY_FS_NJ_CRUISE_CONTROL_MODULE_RESEARCHDEF_COMPLETE"
+msgid "Even if a machine's construction is flawless, there is always one big weakness in any navigation system - the human factor. Even the most experienced pilots are known to make impulsive decisions in times of crisis. Luckily, New Jericho's improved AI takes emotion out of the equation and makes sure every route selected is optimized. Using this tech, our aircraft can now reach their destinations faster, taking into account factors such as weather and even the presence of enemies."
+msgstr "Даже в полностью безупречной машине всегда найдется один большой недостаток, связанный с навигационной системой, — человеческий фактор. Даже самые опытные пилоты в чрезвычайных ситуациях склонны принимать импульсивные решения. К счастью, улучшенный искусственный интеллект Нового Иерихона лишен эмоций и выбирает наилучший маршрут. Эта технология позволяет воздушному судну быстрее добираться до мест назначения и одновременно с этим учитывать такие факторы, как погодные условия и даже присутствие врагов."
+
+msgctxt "DLC3 Behemoth/KEY_FS_NJ_CRUISE_CONTROL_MODULE_RESEARCHDEF_NAME"
+msgid "Cruise Control"
+msgstr "Круиз-контроль"
+
+msgctxt "DLC3 Behemoth/KEY_FS_NJ_CRUISE_CONTROL_MODULE_RESEARCHDEF_BENEFITS"
+msgid "Cruise Control is available for production"
+msgstr "Круиз-контроль доступен для создания"
+
+msgctxt "DLC3 Behemoth/KEY_FS_SYN_LASER_GUN_MODULE_RESEARCHDEF_REVEAL"
+msgid "[null]"
+msgstr "[null]"
+
+msgctxt "DLC3 Behemoth/KEY_FS_SYN_LASER_GUN_MODULE_RESEARCHDEF_UNLOCK"
+msgid "Synedrion's first choice of air-to-air weapon"
+msgstr "Оптимальное оружие класса «воздух — воздух» Синедриона"
+
+msgctxt "DLC3 Behemoth/KEY_FS_SYN_LASER_GUN_MODULE_RESEARCHDEF_COMPLETE"
+msgid "Poetically named after the ancient goddess of the hunt, the Artemis MK. I missiles perfectly embody the key traits of their namesake - accuracy, swiftness, and malice towards enemies."
+msgstr "Получившие поэтичное название в честь античной богини охоты, ракеты МК. 1 «Артемида» идеально воплощают в себе все ее ключевые качества — точность, ловкость и безжалостность к врагам."
+
+msgctxt "DLC3 Behemoth/KEY_FS_SYN_LASER_GUN_MODULE_RESEARCHDEF_NAME"
+msgid "Artemis MK. I"
+msgstr "МК. 1 «Артемида»"
+
+msgctxt "DLC3 Behemoth/KEY_FS_SYN_LASER_GUN_MODULE_RESEARCHDEF_BENEFITS"
+msgid "Artemis MK. I is available for production"
+msgstr "МК. 1 «Артемида» доступна для создания"
+
+msgctxt "DLC3 Behemoth/KEY_FS_SYN_EMP_MISSILE_MODULE_RESEARCHDEF_REVEAL"
+msgid "[null]"
+msgstr "[null]"
+
+msgctxt "DLC3 Behemoth/KEY_FS_SYN_EMP_MISSILE_MODULE_RESEARCHDEF_UNLOCK"
+msgid "Synedrion's special EMP air-to-air missile"
+msgstr "Особая ЭМИ-ракета класса «воздух — воздух» Синедриона"
+
+msgctxt "DLC3 Behemoth/KEY_FS_SYN_EMP_MISSILE_MODULE_RESEARCHDEF_COMPLETE"
+msgid "Based on electromagnetic pulse technology, this weapon is dedicated to seeking and destroying heavy machinery and electronics. While the Synedrion have been known to occasionally share such weapons with allies, the exact construction method and associated documentation are kept in utmost confidentiality. EMP tech is a prize possession that's earned, never granted."
+msgstr "Основанное на технологии электромагнитного импульса, это оружие предназначено для поиска и последующего уничтожения тяжелой техники и электроники. Хотя Синедрион иногда делится своим арсеналом с союзниками, точный способ его изготовления и связанная с ним документация держатся в строжайшей тайне. ЭМИ-технологии не так легко получить — достать их можно только усердным трудом."
+
+msgctxt "DLC3 Behemoth/KEY_FS_SYN_EMP_MISSILE_MODULE_RESEARCHDEF_NAME"
+msgid "Medusa AAM"
+msgstr "РВВ «Медуза»"
+
+msgctxt "DLC3 Behemoth/KEY_FS_SYN_EMP_MISSILE_MODULE_RESEARCHDEF_BENEFITS"
+msgid "Medusa AAM is available for production"
+msgstr "РВВ «Медуза» доступна для создания"
+
+msgctxt "DLC3 Behemoth/KEY_FS_SYN_INCINERATOR_MISSILE_MODULE_RESEARCHDEF_REVEAL"
+msgid "[null]"
+msgstr "[null]"
+
+msgctxt "DLC3 Behemoth/KEY_FS_SYN_INCINERATOR_MISSILE_MODULE_RESEARCHDEF_UNLOCK"
+msgid "Synedrion incinerator missile"
+msgstr "Ракета-сжигатель Синедриона"
+
+msgctxt "DLC3 Behemoth/KEY_FS_SYN_INCINERATOR_MISSILE_MODULE_RESEARCHDEF_COMPLETE"
+msgid "The Prometheus air-to-air incinerator is Synedrion's primary way of dealing with organic threats in the sky. Some speculate that the pain from the hellfire unleashed on flying Pandorans afflicts psychological damage to the supreme inteligence that's guiding them. Others deny this theory as supersticious wishful thinking. Whatever the case, the Prometheus AAM has proven to be an extremely effective weapon in aerial warfare."
+msgstr "Бороться с органическими угрозами в небе Синедрион предпочитает ракетами-сжигателями «воздух — воздух» класса «Прометей». Некоторые предполагают, что нестерпимая боль от адского пламени, обрушивающегося на пандоранов, наносит телепатический урон высшему разуму, который их ведет. Другие же считают, что эта теория является не чем иным, как суеверным принятием желаемого за действительное. В любом случае РВВ «Прометей» оказалась чрезвычайно эффективным оружием для ведения боевых действий в воздухе."
+
+msgctxt "DLC3 Behemoth/KEY_FS_SYN_INCINERATOR_MISSILE_MODULE_RESEARCHDEF_NAME"
+msgid "Prometheus AAM"
+msgstr "РВВ «Прометей»"
+
+msgctxt "DLC3 Behemoth/KEY_FS_SYN_INCINERATOR_MISSILE_MODULE_RESEARCHDEF_BENEFITS"
+msgid "Prometheus AAM is available for production"
+msgstr "РВВ «Прометей» доступна для создания"
+
+msgctxt "DLC3 Behemoth/KEY_FS_SYN_FIRE_SUPPRESSION_MODULE_RESEARCHDEF_REVEAL"
+msgid "[null]"
+msgstr "[null]"
+
+msgctxt "DLC3 Behemoth/KEY_FS_SYN_FIRE_SUPPRESSION_MODULE_RESEARCHDEF_UNLOCK"
+msgid "An effective fire prevention system that's standard issue for battle-ready Helios aircraft"
+msgstr "Эффективная противопожарная система, являющаяся частью стандартного оснащения ВС «Гелиос»"
+
+msgctxt "DLC3 Behemoth/KEY_FS_SYN_FIRE_SUPPRESSION_MODULE_RESEARCHDEF_COMPLETE"
+msgid "The utopian Synedrion deny the \"\"fight fire with fire\"\" maxim in both philosophical and practical ways. Many of their battle-ready aircraft come equipped with innovative fire suppression systems, as well as external shells crafted from hardened alloy, carefully designed to withstand the elements. This combination has proven to be extremely efficient. So much so, that other factions are currently in negotiations for commissioning modified versions of the pattern for their own vessels."
+msgstr "Утопический Синедрион отрицает принцип «бороться с огнем огнем» как с философской, так и с практической точки зрения. Его боевые воздушные суда оснащаются инновационными противопожарными системами, которые оказались настолько эффективными, что другие фракции уже ведут переговоры о том, чтобы внедрить модифицированные версии этих систем на своих воздушных судах."
+
+msgctxt "DLC3 Behemoth/KEY_FS_SYN_FIRE_SUPPRESSION_MODULE_RESEARCHDEF_NAME"
+msgid "Fire Suppression System"
+msgstr "Система пожаротушения"
+
+msgctxt "DLC3 Behemoth/KEY_FS_SYN_FIRE_SUPPRESSION_MODULE_RESEARCHDEF_BENEFITS"
+msgid "Fire Suppression System is available for production"
+msgstr "Система пожаротушения доступна для создания"
+
+msgctxt "DLC3 Behemoth/KEY_FS_SYN_HYBERNATION_PODS_MODULE_RESEARCHDEF_REVEAL"
+msgid "[null]"
+msgstr "[null]"
+
+msgctxt "DLC3 Behemoth/KEY_FS_SYN_HYBERNATION_PODS_MODULE_RESEARCHDEF_UNLOCK"
+msgid "Synedrion's advanced hibernation pod technology allows soldiers to effectively rest and recuperate mid-air"
+msgstr "Модернизированная технология капсул гибернации Синедриона позволяет солдатам полноценно отдыхать и восстанавливать свои силы в воздухе"
+
+msgctxt "DLC3 Behemoth/KEY_FS_SYN_HYBERNATION_PODS_MODULE_RESEARCHDEF_COMPLETE"
+msgid "Probably inspired by the advanced Pandoran egg evolutions, Synedrion researchers have been able to recreate the invigorating effect of stasis sleep in the form of hibernation pod chambers. Compact enough to be included in every type of aircraft, this miraculous invention allows personnel to fall in deep slumber for short durations of time while the onboard navigation AI is taking the aircraft to its destination. Some soldiers have been expressing preference for the pods over standard military beds, affectionately calling the facility \"\"the blanket fort\"\"."
+msgstr "Вдохновившись, вероятно, передовыми мутациями пандоранских яиц, исследователи из Синедриона смогли воссоздать бодрящее действие стазисного сна в виде камер с капсулами гибернации. Достаточно компактное для использования в любом воздушном судне, это чудесное изобретение позволит экипажу на короткое время погружаться в глубокий сон, пока бортовая навигационная ИИ-система ведет воздушное судно к месту назначения. Некоторые солдаты даже отдают предпочтение таким капсулам перед обычными военными койками, нежно называя их «замками из одеял»."
+
+msgctxt "DLC3 Behemoth/KEY_FS_SYN_HYBERNATION_PODS_MODULE_RESEARCHDEF_NAME"
+msgid "Hibernation Pods"
+msgstr "Капсулы гибернации"
+
+msgctxt "DLC3 Behemoth/KEY_FS_SYN_HYBERNATION_PODS_MODULE_RESEARCHDEF_BENEFITS"
+msgid "Hibernation Pods are available for production"
+msgstr "Капсулы гибернации доступны для создания"
+
+msgctxt "DLC3 Behemoth/KEY_FS_SYN_SECURITY_STATION_MODULE_RESEARCHDEF_REVEAL"
+msgid "[null]"
+msgstr "[null]"
+
+msgctxt "DLC3 Behemoth/KEY_FS_SYN_SECURITY_STATION_MODULE_RESEARCHDEF_UNLOCK"
+msgid "A complex security system protecting aircraft from bioweapon attacks"
+msgstr "Комплексная система безопасности, защищающая воздушное судно от атак биологическим оружием"
+
+msgctxt "DLC3 Behemoth/KEY_FS_SYN_SECURITY_STATION_MODULE_RESEARCHDEF_COMPLETE"
+msgid "Synedrion are very serious about the wellbeing of their people and are especially sensitive to bioweapon attacks, condemning them as war crimes. To prevent incidents, many Helios-pattern aircraft come equipped with a complex line of internal defenses, including modified weathertight doors and automated, motion-sensitive security drones. The network is capable of withstanding and neutralizing various biological weapon attacks, including even the Disciples of Anu's unorthodox use of Mutogs for aerial warfare."
+msgstr "Синедрион очень серьезно относится к благополучию своих людей, а атаки биологическим оружием считает не чем иным, как военным преступлением. Чтобы противостоять таким угрозам, многие ВС «Гелиос» оснащаются комплексным набором внутренних средств защиты, включая модифицированные непроницаемые двери и автоматизированные охранные дроны с датчиками движения. Такая сеть защитных механизмов способна свести к минимуму эффективность атак различным биологическим оружием, в том числе мутогами, которые Последователи Ану неправомерно используют в военных целях."
+
+msgctxt "DLC3 Behemoth/KEY_FS_SYN_SECURITY_STATION_MODULE_RESEARCHDEF_NAME"
+msgid "Security Station"
+msgstr "Защитная станция"
+
+msgctxt "DLC3 Behemoth/KEY_FS_SYN_SECURITY_STATION_MODULE_RESEARCHDEF_BENEFITS"
+msgid "Security Station is available for production"
+msgstr "Защитная станция доступна для создания"
+
+msgctxt "DLC3 Behemoth/KEY_FS_AN_BOMBARD_MODULE_RESEARCHDEF_REVEAL"
+msgid "[null]"
+msgstr "[null]"
+
+msgctxt "DLC3 Behemoth/KEY_FS_AN_BOMBARD_MODULE_RESEARCHDEF_UNLOCK"
+msgid "Disciples of Anu heavy air-to-air cannon"
+msgstr "Тяжелая пушка «воздух — воздух» Последователей Ану"
+
+msgctxt "DLC3 Behemoth/KEY_FS_AN_BOMBARD_MODULE_RESEARCHDEF_COMPLETE"
+msgid "Named after a a weapon of ancient myth, this heavy bombard exemplifies the Disciples' vengeance against airborne enemies. As the Rite of Winged Warfare dictated, the barrels of these special guns are inscribed with oaths of destruction and praises to the Dead God."
+msgstr "Получившая свое название из древнего мифа, эта тяжелая пушка для ведения воздушного боя воплощает в себе возмездие, которым преисполнены Последователи Ану. В результате Обряда Крылатой Брани стволы этого особого оружия исписаны клятвами истребления и хвалами Мертвому Богу."
+
+msgctxt "DLC3 Behemoth/KEY_FS_AN_BOMBARD_MODULE_RESEARCHDEF_NAME"
+msgid "Ninurta's Mace"
+msgstr "Булава Нинурты"
+
+msgctxt "DLC3 Behemoth/KEY_FS_AN_BOMBARD_MODULE_RESEARCHDEF_BENEFITS"
+msgid "Ninurta's Mace is available for production"
+msgstr "Булава Нинурты доступна для создания"
+
+msgctxt "DLC3 Behemoth/KEY_FS_AN_RAM_MODULE_RESEARCHDEF_REVEAL"
+msgid "[null]"
+msgstr "[null]"
+
+msgctxt "DLC3 Behemoth/KEY_FS_AN_RAM_MODULE_RESEARCHDEF_UNLOCK"
+msgid "Disciples of Anu ramming module"
+msgstr "Таранный модуль Последователей Ану"
+
+msgctxt "DLC3 Behemoth/KEY_FS_AN_RAM_MODULE_RESEARCHDEF_COMPLETE"
+msgid "The close-combat doctrine of Anu warfare is followed even in the air. Taking advantage of the Tiamat's large structure and high stability, the Disciples have found ways to ram into enemy aircraft - a tactic so surprising, that it almost always pays off."
+msgstr "Доктрину приверженности ближнему бою Последователи Ану соблюдают даже в воздухе. Используя большие размеры самого ВС «Тиамат» и его непревзойденную устойчивость, Последователи Ану нашли способ таранить вражеские воздушные суда, чем почти всегда удивляют противника и чем обуславливается их преимущество."
+
+msgctxt "DLC3 Behemoth/KEY_FS_AN_RAM_MODULE_RESEARCHDEF_NAME"
+msgid "Ravager "
+msgstr "Губитель"
+
+msgctxt "DLC3 Behemoth/KEY_FS_AN_RAM_MODULE_RESEARCHDEF_BENEFITS"
+msgid "Ravager is available for production"
+msgstr "Губитель доступен для создания"
+
+msgctxt "DLC3 Behemoth/KEY_FS_AN_MUTOG_CATAPULT_MODULE_RESEARCHDEF_REVEAL"
+msgid "[null]"
+msgstr "[null]"
+
+msgctxt "DLC3 Behemoth/KEY_FS_AN_MUTOG_CATAPULT_MODULE_RESEARCHDEF_UNLOCK"
+msgid "Disciples of Anu Mutog catapult"
+msgstr "Мутог-катапульта Последователей Ану"
+
+msgctxt "DLC3 Behemoth/KEY_FS_AN_MUTOG_CATAPULT_MODULE_RESEARCHDEF_COMPLETE"
+msgid "Hardly any other air-to-air contraption has stirred as much discussion among the scientific society as Ishara's Bane. Using live Mutogs as a weapon of aerial conflict has ran the gamut from praise of genius to outrage questioning the practice's humanity and even sanity.[LF][LF]So far, Anu priests have been closely monitoring the ongoing conversation on the subject - mostly for personal amusement, rather than public relations or scientific progress."
+msgstr "Вряд ли какое-либо другое приспособление для поражения воздушных целей вызывало столько дискуссий в научных кругах, как Бич Ишары. Реакции на использование живых мутогов в качестве оружия для воздушного боя варьировались от восхваления гениальности задумки до яростного возмущения, ставившего под сомнение гуманность и здравомыслие тех, кто до нее додумался.[LF][LF] И пока священники Ану внимательно следят за продолжающейся дискуссией на эту тему — в основном ради личной забавы, а не для каких-либо иных практичных целей."
+
+msgctxt "DLC3 Behemoth/KEY_FS_AN_MUTOG_CATAPULT_MODULE_RESEARCHDEF_NAME"
+msgid "Ishara's Bane"
+msgstr "Бич Ишары"
+
+msgctxt "DLC3 Behemoth/KEY_FS_AN_MUTOG_CATAPULT_MODULE_RESEARCHDEF_BENEFITS"
+msgid "Ishara's Bane is available for production"
+msgstr "Бич Ишары доступен для создания"
+
+msgctxt "DLC3 Behemoth/KEY_FS_AN_REINFORCED_BULKHEADS_MODULE_RESEARCHDEF_REVEAL"
+msgid "[null]"
+msgstr "[null]"
+
+msgctxt "DLC3 Behemoth/KEY_FS_AN_REINFORCED_BULKHEADS_MODULE_RESEARCHDEF_UNLOCK"
+msgid "A sizable upgrade to the aircraft's hull increases its durability in combat"
+msgstr "Важная модернизация корпуса воздушного судна, которая повышает его прочность в бою"
+
+msgctxt "DLC3 Behemoth/KEY_FS_AN_REINFORCED_BULKHEADS_MODULE_RESEARCHDEF_COMPLETE"
+msgid "The Disciples of Anu are very efficient in identifying and maximizing their strengths in battle. A good example are the reinforced bulkheads found on many Tiamats, allowing them to stay afloat longer and even ram enemies without risking critical damage to their own aircraft."
+msgstr "Последователи Ану отлично преуспевают в том, чтобы определять и использовать с максимальной выгодой свои сильные стороны в битве. Хорошим примером этому является использование усиленных переборок, которые можно найти на многих ВС «Тиамат» и которые позволяют дольше оставаться в воздухе и даже таранить противников без риска нанести критический урон по собственному воздушному судну."
+
+msgctxt "DLC3 Behemoth/KEY_FS_AN_REINFORCED_BULKHEADS_MODULE_RESEARCHDEF_NAME"
+msgid "Reinforced Bulkheads"
+msgstr "Усиленные переборки"
+
+msgctxt "DLC3 Behemoth/KEY_FS_AN_REINFORCED_BULKHEADS_MODULE_RESEARCHDEF_BENEFITS"
+msgid "Reinforced Bulkheads are available for production"
+msgstr "Усиленные переборки доступны для создания"
+
+msgctxt "DLC3 Behemoth/KEY_FS_AN_ECM_JAMMER_MODULE_RESEARCHDEF_REVEAL"
+msgid "[null]"
+msgstr "[null]"
+
+msgctxt "DLC3 Behemoth/KEY_FS_AN_ECM_JAMMER_MODULE_RESEARCHDEF_UNLOCK"
+msgid "Electromagnetic jammer module used to disable radar-guided missiles"
+msgstr "Модуль электромагнитного глушения, используемый для нейтрализации ракет с радиолокационным наведением"
+
+msgctxt "DLC3 Behemoth/KEY_FS_AN_ECM_JAMMER_MODULE_RESEARCHDEF_COMPLETE"
+msgid "The successful use of electromagnetic jammer technology is not something the enemies of Anu expect to see in combat, and that's where the genius of the device lies. Usable at short ranges, this special module completely shuts down radar guidance systems, making even the most advanced air-to-air warheads practically unusable."
+msgstr "Враги Последователей Ану точно не ожидают увидеть в бою технологии электромагнитного глушения, и в этом кроется вся гениальность изобретения. Предназначенный для использования на коротких расстояниях, этот специальный модуль полностью отключает радиолокационные системы, что делает практически бесполезными даже самые совершенные боеголовки «воздух — воздух»."
+
+msgctxt "DLC3 Behemoth/KEY_FS_AN_ECM_JAMMER_MODULE_RESEARCHDEF_NAME"
+msgid "ECM Jammer"
+msgstr "РЭЗ «Глушитель»"
+
+msgctxt "DLC3 Behemoth/KEY_FS_AN_ECM_JAMMER_MODULE_RESEARCHDEF_BENEFITS"
+msgid "ECM Jammer is available for production"
+msgstr "РЭЗ «Глушитель» доступна для создания"
+
+msgctxt "DLC3 Behemoth/KEY_FS_AN_ORACLE_MODULE_RESEARCHDEF_REVEAL"
+msgid "[null]"
+msgstr "[null]"
+
+msgctxt "DLC3 Behemoth/KEY_FS_AN_ORACLE_MODULE_RESEARCHDEF_UNLOCK"
+msgid "A special Disciples of Anu module granting weapons psychic guidance in battle"
+msgstr "Специальный модуль Последователей Ану, придающий оружию возможность телепатического наведения в бою"
+
+msgctxt "DLC3 Behemoth/KEY_FS_AN_ORACLE_MODULE_RESEARCHDEF_COMPLETE"
+msgid "The pinnacle of Anu innovation is appropriately dubbed the Oracle. Its complicated operation requires the following of specific installation procedures and spiritual attunement only performed by high priests. Once operational, the module allows a priest to telepathically guide air-to-air missiles in battle, rendering conventional countermeasures useless and making Anu a force to be reckoned with in aerial warfare."
+msgstr "Модуль «Оракул» можно по праву назвать вершиной технологических инноваций Последователей Ану. Его сложная эксплуатация требует особого порядка установки и духовной настройки, выполняемой только первосвященниками. После запуска модуль позволяет священнику телепатически направлять в бою ракеты «воздух — воздух», что делает обычные защитные меры противника бесполезными и благодаря чему Последователи Ану становятся силой, с которой приходится считаться в воздушном бою."
+
+msgctxt "DLC3 Behemoth/KEY_FS_AN_ORACLE_MODULE_RESEARCHDEF_NAME"
+msgid "Oracle"
+msgstr "Оракул"
+
+msgctxt "DLC3 Behemoth/KEY_FS_AN_ORACLE_MODULE_RESEARCHDEF_BENEFITS"
+msgid "Oracle is available for production"
+msgstr "Оракул доступен для создания"
+
+msgctxt "DLC3 Behemoth/KEY_FS_ALN_SMALL_FLYER_RESEARCHDEF_REVEAL"
+msgid "[null]"
+msgstr "Текст заполнителя"
+
+msgctxt "DLC3 Behemoth/KEY_FS_ALN_SMALL_FLYER_RESEARCHDEF_UNLOCK"
+msgid "[null]"
+msgstr "Текст заполнителя"
+
+msgctxt "DLC3 Behemoth/KEY_FS_ALN_SMALL_FLYER_RESEARCHDEF_COMPLETE"
+msgid "Species classification PF-1[LF]This newly discovered mutation of the Pandoravirus was first spotted after the hatching of the Behemoth. It is likely bred inside the Festering Skies. It shows signs of great intelligence, probably remotely guided by some sort of hive mind. Charun specimens are highly aggressive and are known to attack both airborne and stationary human targets. Threat level: high."
+msgstr "Классификация ПГ-1[LF]  Мутация пандоранов, которая впервые была обнаружена после появления Бегемота. По всей видимости, порождена Гнойным Небом. Демонстрирует признаки развитого интеллекта и, вероятно, с расстояния контролируется чем-то вроде коллективного разума. Проявляет ярко выраженную агрессию. Нападает как на воздушные, так и на неподвижные цели людей. Уровень угрозы: высокий."
+
+msgctxt "DLC3 Behemoth/KEY_FS_ALN_SMALL_FLYER_RESEARCHDEF_NAME"
+msgid "CHARUN"
+msgstr "ХАРУН"
+
+msgctxt "DLC3 Behemoth/KEY_FS_ALN_SMALL_FLYER_RESEARCHDEF_BENEFITS"
+msgid "[null]"
+msgstr "[null]"
+
+msgctxt "DLC3 Behemoth/KEY_FS_ALN_MEDIUM_FLYER_RESEARCHDEF_REVEAL"
+msgid "[null]"
+msgstr "Текст заполнителя"
+
+msgctxt "DLC3 Behemoth/KEY_FS_ALN_MEDIUM_FLYER_RESEARCHDEF_UNLOCK"
+msgid "[null]"
+msgstr "Текст заполнителя"
+
+msgctxt "DLC3 Behemoth/KEY_FS_ALN_MEDIUM_FLYER_RESEARCHDEF_COMPLETE"
+msgid "Species classification PF-M[LF]This new mutation spawned from the Festering Skies is aggressive and tenacious. Its well-coordinated flight patterns indicate a sinister sense of purpose. Field reports and collected footage shows that Berith strikes are carefully planned in advance and executed with alarming haste and precision. Threat level: very high."
+msgstr "Классификация ПГ-М[LF]  Новая мутация, порожденная Гнойным Небом. Проявляет выраженные агрессию и упорство. По всей видимости, выбирает осмысленные траектории для полетов. Согласно полевым докладам и имеющимся видеозаписям, тщательно планирует свои нападения и осуществляет их с настораживающими поспешностью и точностью. Уровень угрозы: очень высокий."
+
+msgctxt "DLC3 Behemoth/KEY_FS_ALN_MEDIUM_FLYER_RESEARCHDEF_NAME"
+msgid "BERITH"
+msgstr "ВЕРИФ"
+
+msgctxt "DLC3 Behemoth/KEY_FS_ALN_MEDIUM_FLYER_RESEARCHDEF_BENEFITS"
+msgid "[null]"
+msgstr "[null]"
+
+msgctxt "DLC3 Behemoth/KEY_FS_ALN_LARGE_FLYER_RESEARCHDEF_REVEAL"
+msgid "[null]"
+msgstr "Текст заполнителя"
+
+msgctxt "DLC3 Behemoth/KEY_FS_ALN_LARGE_FLYER_RESEARCHDEF_UNLOCK"
+msgid "[null]"
+msgstr "Текст заполнителя"
+
+msgctxt "DLC3 Behemoth/KEY_FS_ALN_LARGE_FLYER_RESEARCHDEF_COMPLETE"
+msgid "Species classification PF-Alpha[LF]The largest species of winged Pandoran discovered to date shows superior strength and intelligence. Its complex and unpredictable behavioral patterns make it the greatest airborne threat to humanity. The study of its movements is of utmost importance given its cunning and destructive potential. Threat level: critical."
+msgstr "Классификация ПГ-Альфа[LF]  Самый крупный вид летающих пандоранов, обнаруженный на сегодняшний день. Демонстрирует превосходящие силу и интеллект. Его сложные и непредсказуемые модели поведения делают его величайшей угрозой, с которой человечество может столкнуться в воздухе. Изучение его действий имеет первостепенное значение ввиду его хитрости и большой разрушительной мощи. Уровень угрозы: критический."
+
+msgctxt "DLC3 Behemoth/KEY_FS_ALN_LARGE_FLYER_RESEARCHDEF_NAME"
+msgid "ABADDON"
+msgstr "АВАДДОН"
+
+msgctxt "DLC3 Behemoth/KEY_FS_ALN_LARGE_FLYER_RESEARCHDEF_BENEFITS"
+msgid "[null]"
+msgstr "[null]"
+
+msgctxt "DLC3 Behemoth/KEY_FS_ALN_CORRUPTION_NODE_RESEARCHDEF_REVEAL"
+msgid "[null]"
+msgstr "[null]"
+
+msgctxt "DLC3 Behemoth/KEY_FS_ALN_CORRUPTION_NODE_RESEARCHDEF_UNLOCK"
+msgid "A monstrous entity whose anatomy doesn't resemble any Pandoravirus mutation in our database able to take over machines and entire settlements by telepathic attacks."
+msgstr "Чудовищная сущность, чья анатомия не похожа ни на одного из пандоранов в нашей базе данных и которая способна захватывать технику и целые поселения с помощью своих телепатических способностей."
+
+msgctxt "DLC3 Behemoth/KEY_FS_ALN_CORRUPTION_NODE_RESEARCHDEF_COMPLETE"
+msgid "Species classification CN-Alpha[LF]A highly evolved form of the Pandoravirus has been reported to attack human settlements by attaching itself to structures and machinery to form a powerful symbiotic connection. Affected havens are completely overtaken by the creature and all of their citizens are kept in a mindless state serving the Pandorans.[LF]Recent reports indicate Corruption Nodes are able to establish similar telepathic connection with AI-operated aircraft and using it to attack other humans. Despite the evidence of high intelligence, no attempt at peaceful contact with the creature has been successful yet."
+msgstr "Классификация УП-Альфа[LF] Эта высокоразвитая форма пандоранов нападает на поселения людей, прикрепляясь к технике и сооружениям, чем формирует мощную симбиотическую связь. Подвергшиеся нападению убежища становятся полностью ему подконтрольны, а их жители лишаются свободы воли и начинают служить пандоранам.[LF] Согласно недавним докладам, Узлы Тления могут устанавливать аналогичную телепатическую связь с воздушными судами, управляемыми искусственным интеллектом, и использовать их для нападения на других людей. Несмотря на очевидное наличие высокоразвитого интеллекта, ни одна попытка мирного контакта с этим существом пока не увенчалась успехом."
+
+msgctxt "DLC3 Behemoth/KEY_FS_ALN_CORRUPTION_NODE_RESEARCHDEF_NAME"
+msgid "CORRUPTION NODE"
+msgstr "УЗЕЛ ТЛЕНИЯ"
+
+msgctxt "DLC3 Behemoth/KEY_FS_ALN_CORRUPTION_NODE_RESEARCHDEF_BENEFITS"
+msgid "[null]"
+msgstr "[null]"
+
+msgctxt "DLC3 Behemoth/KEY_FS_ALN_SWARMER_EGG_RESEARCHDEF_REVEAL"
+msgid "[null]"
+msgstr "[null]"
+
+msgctxt "DLC3 Behemoth/KEY_FS_ALN_SWARMER_EGG_RESEARCHDEF_UNLOCK"
+msgid "An organism containing singular Myrmidon inside. Its shell shows great resistance to external dangers including acid and poison exposure."
+msgstr "Организм, в котором содержится одна особь Мирмидона. Его оболочка демонстрирует высокую устойчивость к внешним опасностям, включая воздействие кислоты и яда."
+
+msgctxt "DLC3 Behemoth/KEY_FS_ALN_SWARMER_EGG_RESEARCHDEF_COMPLETE"
+msgid "Species classification MYR-POD[LF]Field reports indicate the shell of this creature is harder to penetrate and even dissolve using acid. The egg is reactive to approaching humans and machines, and when threatened, shows ability to quickly release the Myrmidon hibernating  inside."
+msgstr "Классификация МИР-КОКОН[LF] [LF] Согласно полевым докладам, оболочку этого существа трудно пробить и даже растворить в кислоте. Яйцо реагирует на приближение человека и техники и при угрозе быстро выпускает спящего Мирмидона изнутри."
+
+msgctxt "DLC3 Behemoth/KEY_FS_ALN_SWARMER_EGG_RESEARCHDEF_NAME"
+msgid "MYRMIDON EGG"
+msgstr "ЯЙЦО МИРМИДОНА"
+
+msgctxt "DLC3 Behemoth/KEY_FS_ALN_SWARMER_EGG_RESEARCHDEF_BENEFITS"
+msgid "[null]"
+msgstr "[null]"
+
+msgctxt "DLC3 Behemoth/KEY_FS_ALN_BASIC_SWARMER_RESEARCHDEF_REVEAL"
+msgid "[null]"
+msgstr "заполнитель"
+
+msgctxt "DLC3 Behemoth/KEY_FS_ALN_BASIC_SWARMER_RESEARCHDEF_UNLOCK"
+msgid "A new, nimble mutation of the Pandoravirus brought by the Festering Skies."
+msgstr "Новая быстро передвигающаяся мутация пандоравируса, принесенная Гнойным Небом."
+
+msgctxt "DLC3 Behemoth/KEY_FS_ALN_BASIC_SWARMER_RESEARCHDEF_COMPLETE"
+msgid "Species classification MYR-1[LF]The Myrmidon creatures are known to take advantage of their large numbers and winged bodies to secure strategic locations and serve as armed reconnaissance troops for the Pandorans."
+msgstr "Классификация МИР-1[LF] Мирмидоны пользуются своими крыльями и численным преимуществом с целью вооруженной разведки и захвата стратегически важных зон для пандоранов."
+
+msgctxt "DLC3 Behemoth/KEY_FS_ALN_BASIC_SWARMER_RESEARCHDEF_NAME"
+msgid "MYRMIDON"
+msgstr "МИРМИДОН"
+
+msgctxt "DLC3 Behemoth/KEY_FS_ALN_BASIC_SWARMER_RESEARCHDEF_BENEFITS"
+msgid "[null]"
+msgstr "[null]"
+
+msgctxt "DLC3 Behemoth/KEY_FS_ALN_VENOMOUS_SWARMER_RESEARCHDEF_REVEAL"
+msgid "[null]"
+msgstr "[null]"
+
+msgctxt "DLC3 Behemoth/KEY_FS_ALN_VENOMOUS_SWARMER_RESEARCHDEF_UNLOCK"
+msgid "A new sub mutation of the Myrmidon species has been known to attack humans with bursts of poisonous gas."
+msgstr "Новая субмутация Мирмидона использует ядовитый газ для нападения на людей."
+
+msgctxt "DLC3 Behemoth/KEY_FS_ALN_VENOMOUS_SWARMER_RESEARCHDEF_COMPLETE"
+msgid "Species classification MYR-P[LF]An evolved form of the recently discovered Myrmidon mutants with internal chambers filled with chemicals similar to some known species of Pandoran worms. When threatened, the creature releases the chemicals to cause a powerful explosion of poisonous gas."
+msgstr "Классификация МИР-Я[LF] Развитая форма недавно открытых мутаций Мирмидона, обладающая внутренними камерами с химическими веществами, похожими на те, которые можно найти в некоторых из известных видов пандоранов-червей. При угрозе выпускает вещества, вызывающие мощный взрыв ядовитого газа."
+
+msgctxt "DLC3 Behemoth/KEY_FS_ALN_VENOMOUS_SWARMER_RESEARCHDEF_NAME"
+msgid "VENOMOUS MYRMIDON"
+msgstr "ЯДОВИТЫЙ МИРМИДОН"
+
+msgctxt "DLC3 Behemoth/KEY_FS_ALN_VENOMOUS_SWARMER_RESEARCHDEF_BENEFITS"
+msgid "[null]"
+msgstr "[null]"
+
+msgctxt "DLC3 Behemoth/KEY_FS_ALN_ACID_SWARMER_RESEARCHDEF_REVEAL"
+msgid "[null]"
+msgstr "[null]"
+
+msgctxt "DLC3 Behemoth/KEY_FS_ALN_ACID_SWARMER_RESEARCHDEF_UNLOCK"
+msgid "A new sub mutation of the Myrmidon species is reported to cause violent explosions of acid produced by special internal organs."
+msgstr "Новая субмутация Мирмидона вызывает сильные взрывы кислоты, выделяемой особыми внутренними органами."
+
+msgctxt "DLC3 Behemoth/KEY_FS_ALN_ACID_SWARMER_RESEARCHDEF_COMPLETE"
+msgid "Species classification MYR-A[LF]Placed higher in the Myrmidon's evolution chain, this species shows great cunning when performing its armed reconnaissance duties. What makes it exceptionally dangerous is its tendency to violently burst in an explosion of acid when threatened."
+msgstr "Классификация МИР-К[LF] Занимая более высокое место в эволюционной цепочке Мирмидонов, этот вид проявляет большую хитрость и прибегает к различным уловкам во время разведки. Исключительной опасностью его наделяет склонность взрываться с распространением опасной кислоты при угрозе."
+
+msgctxt "DLC3 Behemoth/KEY_FS_ALN_ACID_SWARMER_RESEARCHDEF_NAME"
+msgid "ACID MYRMIDON"
+msgstr "КИСЛОТНЫЙ МИРМИДОН"
+
+msgctxt "DLC3 Behemoth/KEY_FS_ALN_ACID_SWARMER_RESEARCHDEF_BENEFITS"
+msgid "[null]"
+msgstr "[null]"
+
+msgctxt "DLC3 Behemoth/KEY_FS_SYN_AERIAL_WARFARE_RESEARCHDEF_REVEAL"
+msgid "[null]"
+msgstr "[null]"
+
+msgctxt "DLC3 Behemoth/KEY_FS_SYN_AERIAL_WARFARE_RESEARCHDEF_UNLOCK"
+msgid "The Synedrion are deeply concerned about the Festering Skies and the unknown dangers they hide. In a rare display of almost unanimous agreement, they've elected a team of highly skilled pilots to form the Sky Defense Operation Corps."
+msgstr "Синедрион глубоко обеспокоен Гнойным Небом и неизвестными опасностями, которые оно скрывает. В редком проявлении почти единодушного согласия была выбрана группа высококвалифицированных пилотов для формирования Оперативного корпуса воздушной обороны."
+
+msgctxt "DLC3 Behemoth/KEY_FS_SYN_AERIAL_WARFARE_RESEARCHDEF_COMPLETE"
+msgid "The emergence of the Behemoth and the aerial raids on human settlements immediately became Synedrion's number one concern. Despite their great discomfort in making decisions in haste, an ad hoc council had to be quickly elected, agree on strategy, and set a course of action. Luckily, petty debates and interpersonal conflicts among council members were kept to a minimum. After a thoughtful and productive conversation, the council agreed that the skies belong to all humans and protecting them is the only way to ensure prosperity. [LF][LF]Some of the most talented engineers from across the globe were summoned and provided with extensive funding to equip Synedrion aircraft for combat. The Sky Defense Ops amassed popularity in the matter of days, and became celebrated as heroes of progress and defenders of humanity."
+msgstr "Появление Бегемота и воздушные налеты на поселения людей сразу же стали проблемой номер один для Синедриона. Несмотря на большое беспокойство, связанное с принятием решения в спешке, необходимо было быстро собрать чрезвычайный совет, согласовать стратегию и определить курс действий. К счастью, мелкие споры и межличностные конфликты между членами совета были сведены к минимуму. После вдумчивого и продуктивного обсуждения совет пришел к единодушному выводу, что небо принадлежит всем людям и его защита — единственный способ обеспечить процветание человеческого рода. [LF] [LF] Были созваны некоторые из самых талантливых инженеров со всего мира, которым было предоставлено обширное финансирование с целью подготовки воздушного судна к боевым действиям. За считанные дни Оперативный корпус воздушной обороны приобрел большую популярность, а его участников стали считать героями прогресса и защитниками человечества."
+
+msgctxt "DLC3 Behemoth/KEY_FS_SYN_AERIAL_WARFARE_RESEARCHDEF_NAME"
+msgid "Synedrion Sky Defense Ops"
+msgstr "Оперативный корпус воздушной обороны Синедриона"
+
+msgctxt "DLC3 Behemoth/KEY_FS_SYN_AERIAL_WARFARE_RESEARCHDEF_BENEFITS"
+msgid "Battle-ready Helios is available for production"
+msgstr "Боевое ВС «Гелиос» доступно для создания"
+
+msgctxt "DLC3 Behemoth/KEY_FS_AN_AERIAL_WARFARE_RESEARCHDEF_REVEAL"
+msgid "[null]"
+msgstr "[null]"
+
+msgctxt "DLC3 Behemoth/KEY_FS_AN_AERIAL_WARFARE_RESEARCHDEF_UNLOCK"
+msgid "The Gospel of the Exalted warns of a \"\"great enemy in the sky\"\" and offers clear instructions for waging aerial warfare."
+msgstr "В Евангелии от Возвышенной содержится предупреждение о «великом противнике в небе» и предлагаются четкие указания, как вести военные действия в воздухе."
+
+msgctxt "DLC3 Behemoth/KEY_FS_AN_AERIAL_WARFARE_RESEARCHDEF_COMPLETE"
+msgid "The Disciples of Anu have completed one of their most sacred rituals - the Rite of Winged Warfare. [LF][LF]The Gospel of the Exalted instructs this doctrine should be set in motion only if a great danger must be met high in the air. The rite includes anointments of airships for war and inscriptions of weaponry with oaths of vengeance. Multiple choirs of young children take turns chanting for days on end until the ceremony is complete."
+msgstr "Последователи Ану завершили один из своих самых священных ритуалов — Обряд Крылатой Брани. [LF] [LF] Согласно наставлению, данному в Евангелии от Возвышенной, к этой доктрине следует прибегнуть только в том случае, если в воздухе предстоит встретиться с большой опасностью. Обряд включает помазание воздушных судов для подготовки к войне и исписывание оружия клятвами возмездия. Маленькие хористы поочередно исполняют песнопения в течение многих дней, пока церемония не будет завершена."
+
+msgctxt "DLC3 Behemoth/KEY_FS_AN_AERIAL_WARFARE_RESEARCHDEF_NAME"
+msgid "Anu Winged Warfare Doctrine"
+msgstr "Доктрина Крылатой Брани Последователей Ану"
+
+msgctxt "DLC3 Behemoth/KEY_FS_AN_AERIAL_WARFARE_RESEARCHDEF_BENEFIT"
+msgid "Battle-ready Tiamat is available for production"
+msgstr "Боевое ВС «Тиамат» доступно для создания"
+
+msgctxt "DLC3 Behemoth/KEY_FS_NJ_AERIAL_WARFARE_RESEARCHDEF_REVEAL"
+msgid "[null]"
+msgstr "[null]"
+
+msgctxt "DLC3 Behemoth/KEY_FS_NJ_AERIAL_WARFARE_RESEARCHDEF_UNLOCK"
+msgid "Tobias West has ordered the formation of New Jericho Air Force Division tasked with taking on the new airborne threat. It appears the program has been secretly in development for years and only now revealed to the public."
+msgstr "Тобиас Вест отдал приказ сформировать Дивизию воздушных сил Нового Иерихона, перед которой была поставлена задача противостоять новой угрозе в воздухе. Похоже, программа тайно разрабатывалась в течение нескольких лет и только сейчас стала доступна общественности."
+
+msgctxt "DLC3 Behemoth/KEY_FS_NJ_AERIAL_WARFARE_RESEARCHDEF_COMPLETE"
+msgid "While ground warfare remains New Jericho's preferred method of Pandoran destruction, the faction has invested heavily in an Air Force Division. For the past few years their own innovation team, partnered with a collective of external researchers, has reached great progress in perfecting air-to-air weaponry, extra-light armor plating, and arming a large Thunderbird squadron for aerial conflict.[LF][LF]In a publicly broadcast speech, Tobias West has expressed great satisfaction with the developments of the Air Force program and announced a large military parade where he will personally test pilot a brand new Thunderbird pattern aircraft."
+msgstr "Хотя ведение боевых действий на земле остается предпочтительным способом, которым Новый Иерихон собирается искоренить пандоранов, фракция вложила значительные средства и время в формирование Дивизии воздушных сил. За последние несколько лет специальная группа по инновациям в сотрудничестве с коллективом сторонних исследователей достигла значительных успехов в модернизации оружия класса «воздух — воздух», разработке сверхлегкой бронезащиты и подготовке большой эскадрильи ВС «Гром-Птица» к ведению воздушного боя.[LF][LF] В своей публичной речи Тобиас Вест выразил большое удовлетворение развитием программы воздушных сил и объявил о грандиозном военном параде, на котором он лично испытает новое ВС «Гром-Птица»."
+
+msgctxt "DLC3 Behemoth/KEY_FS_NJ_AERIAL_WARFARE_RESEARCHDEF_NAME"
+msgid "New Jericho Air Force Division"
+msgstr "Дивизия ВВС Нового Иерихона"
+
+msgctxt "DLC3 Behemoth/KEY_FS_NJ_AERIAL_WARFARE_RESEARCHDEF_BENEFITS"
+msgid "Battle-ready Thunderbird is available for production"
+msgstr "Боевое ВС «Гром-Птица» доступно для создания"
+
+msgctxt "DLC3 Behemoth/KEY_FS_PX_AERIAL_WARFARE_RESEARCHDEF_REVEAL"
+msgid "[null]"
+msgstr "[null]"
+
+msgctxt "DLC3 Behemoth/KEY_FS_PX_AERIAL_WARFARE_RESEARCHDEF_UNLOCK"
+msgid "The attacks of the Behemoth and the lesser flying Pandorans require immediate retaliation. We need to mobilize and arm our Manticore squadron and prepare it for aerial combat."
+msgstr "Нападения Бегемота и летающих пандоранов меньшего размера требуют немедленного возмездия. Нам нужно мобилизовать и вооружить свою эскадрилью ВС «Мантикора», а также подготовить их к боевым действиям в воздухе."
+
+msgctxt "DLC3 Behemoth/KEY_FS_PX_AERIAL_WARFARE_RESEARCHDEF_COMPLETE"
+msgid "Our researchers have been tirelessly analyzing intelligence reports, footage, and witness testimonials to learn everything they can about the Behemoth, the newly discovered flying species, and the Festering Skies. The Pandorans seem to be organized by a higher form of intelligence and their flight patterns are far from random. Careful observation of air movements reveals the Pandorans complete very specific objectives such as reconnaissance, raids, and in many cases infestation of human settlements. [LF][LF]Our course of action is clear: arm a squadron of Manticores and systematically attack the Pandoran patrols to prevent their rampage. While we intercept the attacks, a dedicated researcher unit will be working around the clock to study the Pandorans' behavior further and make ongoing improvements to our air-to-air arsenal."
+msgstr "Наши исследователи неустанно проводили анализы разведывательных сводок, видеозаписей и свидетельских показаний, чтобы узнать все возможное о Гнойном Небе и Бегемоте — недавно обнаруженном летающем виде. Похоже, пандоранов организовывает высшая форма интеллекта и их траектории полетов далеки от случайных. Тщательное наблюдение за перемещениями в воздухе показывает, что пандораны способны выполнять довольно конкретные задачи, такие как разведка, налеты и, во многих случаях, нашествия на поселения людей. [LF] [LF] Наш курс действий ясен — оснастить эскадрилью ВС «Мантикора» и систематически нападать на патрули пандоранов, чтобы предотвратить их неистовство. Пока мы пресекаем нападения, специальное исследовательское подразделение будет круглосуточно работать над дальнейшим изучением поведения пандоранов и постоянными улучшениями нашего арсенала для ведения боевых действий в воздухе."
+
+msgctxt "DLC3 Behemoth/KEY_FS_PX_AERIAL_WARFARE_RESEARCHDEF_NAME"
+msgid "Phoenix Aerial Combat Program"
+msgstr "Программа ведения воздушного боя Проекта Феникс"
+
+msgctxt "DLC3 Behemoth/KEY_FS_PX_AERIAL_WARFARE_RESEARCHDEF_BENEFITS"
+msgid "Battle-ready Manticore is available for production"
+msgstr "Боевое ВС «Мантикора» доступно для создания"
+
+msgctxt "DLC4 Hypnos/PX_ACHERON_DISSECTION_RESEARCHDEF_NAME"
+msgid "Acheron Autropsy"
+msgstr "[null]"
+
+msgctxt "DLC4 Hypnos/PX_ACHERON_DISSECTION_RESEARCHDEF_UNLOCK"
+msgid "Specimen: ACHERON[LF]Acherons are vehicle sized creatures that focus more on affecting friends living creatures in a specific area than attacking directly. They are the only known Pandoran capable of spreading the new corrupted strain of pandoravirus."
+msgstr "[null]"
+
+msgctxt "DLC4 Hypnos/PX_ACHERON_DISSECTION_RESEARCHDEF_COMPLETE"
+msgid "Summary: There have been no sightings of this mutation prior to 2045. At present it remains unclear whether the creature evolved naturally or was the result of enhanced genetic experiments. All involved in the lab it broke out of have been found dead, and no research reconds have been recovered. The creature appears to be infected with an unseen strain of the Pandoravirus, capable of causing nightmares and slowly corrupting a person's sanity. As such a strict quarantene has been imposed while analyses continue.[LF][LF]Genetic origins: DNA of over 112 species has been found at present[LF][LF]Function: intelligence remains undetermined. It's speculated that its goal is to spread the new corrupted pandoravirus strain throughout the world[LF][LF]Offensive mutations: strong dispersal glands located on the creature's husk allow it to dispers biochemical droplets in a large area. Additionally the creature can squirt consetrated liquid through organs in its hands.[LF][LF]Mobility: the creature is fast and has the ability to jump at great distances[LF][LF]Weakness: the creature has been observed to adapt to any type of damage once dealt. it is recommended that attacks of various nature are used on it simultaneously before it can adjust."
+msgstr "[null]"
+
+msgctxt "DLC4 Hypnos/PX_ACHERON_DISSECTION_RESEARCHDEF_BENEFITS"
+msgid "Mutagen Grenades available for production"
+msgstr "[null]"
+
+msgctxt "DLC4 Hypnos/PX_ACHERON_VIVISECTION_RESEARCHDEF_NAME"
+msgid "Acheron Vivisection"
+msgstr "[null]"
+
+msgctxt "DLC4 Hypnos/PX_ACHERON_VIVISECTION_RESEARCHDEF_UNLOCK"
+msgid "Called the \"\"plague carrier,\"\" the specimen appears to be the only known pandoran that can adapt itself and others through biochemical elements of highly mutating nature. Due to its ability to spread corruption, its holding containment and research lab are quarantened and must undergo a full purge after use."
+msgstr "[null]"
+
+msgctxt "DLC4 Hypnos/PX_ACHERON_VIVISECTION_RESEARCHDEF_COMPLETE"
+msgid "Summary: There is no doubt that the specimen was artifically created. Analysis suggests that the primary goal of the creature was to spread a new strain of pandoravius (referred to as the Corruption). We can assume that the Acheron's ability to adapt to any threat and damage is a side effect of its body resisting the corruption's effects while still being able to spread it. Further tests suggest that unlike other Pandoran specimens this one might have been created in a human lab through the use of pandoran mutragens. The exact reason for this remains unknown.[LF][LF]Language: The specimen appears to have been constructed to mimic Pandoran forms of communication, despite it not being a Pandoran per se. This allows it to enter colonies unharmed and also call pandorans in vicinity to its location.[LF][LF]Countermeasures: tests have concluded that the Acheron becomes resistant to any type of weapon after receiving damage from it. The good news is that the creature's resistance doesn't improve further after that."
+msgstr "[null]"
+
+msgctxt "DLC4 Hypnos/PX_ACHERON_VIVISECTION_RESEARCHDEF_BENEFITS"
+msgid "Corruption treatment available"
+msgstr "[null]"
+
+msgctxt "DLC4 Hypnos/PX_MUTOID_RESEARCHDEF_NAME"
+msgid "Mutoid Genetics"
+msgstr "[null]"
+
+msgctxt "DLC4 Hypnos/PX_MUTOID_RESEARCHDEF_UNLOCK"
+msgid "Research materials found in the unknown genetic lag have found to reference a serious of projects relating to construction of autonomous genetic entities. Apparently someone was trying to merge human subjects with Pandoran DNA in a more controlled fashion in order to create the idea soldier."
+msgstr "[null]"
+
+msgctxt "DLC4 Hypnos/PX_MUTOID_RESEARCHDEF_COMPLETE"
+msgid "After significant research, the secrets behind the \"\"Mutoid\"\" project have been uncovered. Despite their lack of ethics, the original scientists have successfully managed to find a way to build artifical human soldiers through the use of cloning technology and Pandoran mutagens. The newly created Mutoid soldiers thus are immune to the corrupted strain of the pandora virus and are capable of learning all human skills, and many of tha Pandorans' as well (provided DNA samples are available). The information has allowed the construction of a Mutoid lab, where such soldiers can be built."
+msgstr "[null]"
+
+msgctxt "DLC4 Hypnos/PX_MUTOID_RESEARCHDEF_BENEFITS"
+msgid "Mutoid production available"
+msgstr "[null]"
+
+msgctxt "DLC4 Hypnos/PX_CORRUPTION_RESEARCHDEF_NAME"
+msgid "Corruption Research"
+msgstr "[null]"
+
+msgctxt "DLC4 Hypnos/PX_CORRUPTION_RESEARCHDEF_UNLOCK"
+msgid "Finding a way to treat the new strain of Pandoravirus could be vital for the survival of humanity. With luck a permanent cure could also be discovered."
+msgstr "[null]"
+
+msgctxt "DLC4 Hypnos/PX_CORRUPTION_RESEARCHDEF_COMPLETE"
+msgid "Thanks to the Phoenix Initiattiave's processing power, a solution to treat the Corruption has been found. Testing on living specimens has confirmed that genetically enhanced mutagens could be used to treat anyone infected by this dangerous pandoravirus strain. While all medical facilities have been equipped with the necessary equipment, the treatmet is highly indovidual and requires a fresh supply of mutagens. Finding a permanent cure would require access to an original sample of the new pandoravirus strain."
+msgstr "[null]"
+
+msgctxt "DLC4 Hypnos/PX_CORRUPTION_RESEARCHDEF_BENEFITS"
+msgid "Corruption Sample Mission available"
+msgstr "[null]"
 
 msgctxt "Polaris/PX_HELCANNON_RESEARCHDEF_NAME"
 msgid "Heavy Cannon Development"
