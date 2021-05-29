@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2021-05-29 13:29+0000\n"
+"PO-Revision-Date: 2021-05-29 13:35+0000\n"
 "Last-Translator: higema <ltdhyndsh@yahoo.co.jp>\n"
 "Language-Team: \n"
 "Language: ja\n"
@@ -2066,74 +2066,67 @@ msgctxt "DLC4 Hypnos/KEY_DLC4_TAC_HINT_ACHERON_ESCAPED_NAME"
 msgid "TRANSMISSION"
 msgstr "通信"
 
-#, fuzzy
 #| msgctxt "Tutorial/KEY_TUTORIAL_GEOSCAPE_NAME"
 #| msgid "The Geoscape"
 msgctxt "DLC4 Hypnos/KEY_DLC4_TAC_HINT_ACHERON_ESCAPED_DESCRIPTION"
 msgid "The Acheron escaped!!!"
-msgstr "ジオスケープ"
+msgstr ""
 
-#, fuzzy
 #| msgctxt "General Tactical Hints/KEY_TAC_HINT_STATUS_ALERTED_NAME"
 #| msgid "STATUS - ALERTED"
 msgctxt "DLC4 Hypnos/KEY_TAC_HINT_STATUS_CORRUPTED_NAME"
 msgid "STATUS - CORRUPTED"
-msgstr "ステータス-警戒"
+msgstr ""
 
 msgctxt "DLC4 Hypnos/KEY_TAC_HINT_STATUS_CORRUPTED_DESCRIPTION"
 msgid "Your soldier is corrupted, reducing their maximum Willpower. If Corruption becomes greater than the soldier’s maximum Willpower, the soldier will die."
 msgstr ""
 
-#, fuzzy
 #| msgctxt "General Tactical Hints/KEY_TAC_HINT_STATUS_BLEEDING_NAME"
 #| msgid "STATUS - BLEEDING"
 msgctxt "DLC4 Hypnos/KEY_TAC_HINT_STATUS_TREMBLING_NAME"
 msgid "STATUS - TREMBLING"
-msgstr "ステータス - 出血"
+msgstr ""
 
 msgctxt "DLC4 Hypnos/KEY_TAC_HINT_STATUS_TREMBLING_DESCRIPTION"
 msgid "Your soldier is trembling. While in this state the soldier's accuracy will be reduced bu [50%] for 1 turn."
 msgstr ""
 
-#, fuzzy
 #| msgctxt "General Tactical Hints/KEY_TAC_HINT_STATUS_GOOED_NAME"
 #| msgid "STATUS - GOOED"
 msgctxt "DLC4 Hypnos/KEY_TAC_HINT_STATUS_SLOWED_NAME"
 msgid "STATUS - SLOWED"
-msgstr "ステータス - 粘液付着"
+msgstr ""
 
 msgctxt "DLC4 Hypnos/KEY_TAC_HINT_STATUS_SLOWED_DESCRIPTION"
 msgid "Your soldier is slowed. While in this state the soldier's speed will be reduced bu [75%] for 1 turn."
 msgstr ""
 
-#, fuzzy
 #| msgctxt "General Tactical Hints/KEY_TAC_HINT_STATUS_TIRED_NAME"
 #| msgid "STATUS - TIRED"
 msgctxt "DLC4 Hypnos/KEY_TAC_HINT_STATUS_STRAINED_NAME"
 msgid "STATUS - STRAINED"
-msgstr "ステータス - 疲労"
+msgstr ""
 
 msgctxt "DLC4 Hypnos/KEY_TAC_HINT_STATUS_STRAINED_DESCRIPTION"
 msgid "Your soldier has been strained. One, or more, of the soldier's limbs are temporarily disabled for 1 turn."
 msgstr ""
 
-#, fuzzy
 #| msgctxt "General Tactical Hints/KEY_TAC_HINT_STATUS_DAZED_NAME"
 #| msgid "STATUS - DAZED"
 msgctxt "DLC4 Hypnos/KEY_TAC_HINT_STATUS_BLINDED_NAME"
 msgid "STATUS - BLINDED"
-msgstr "ステータス - 放心"
+msgstr ""
 
 msgctxt "DLC4 Hypnos/KEY_TAC_HINT_STATUS_BLINDED_DESCRIPTION"
 msgid "Your soldier is blinded. While in this state the soldier's perception will be reduced bu [75%] for 1 turn."
 msgstr ""
 
-#, fuzzy
 #| msgctxt "General Tactical Hints/KEY_TAC_HINT_ENEMY_SPECIAL_MORTAR_NAME"
 #| msgid "PANDORAN SUPPLEMENTAL - MORTAR"
 msgctxt "DLC4 Hypnos/KEY_TAC_HINT_ENEMY_SPECIAL_CORRUPTION_NAME"
 msgid "PANDORAN SUPPLEMENTAL - CORRUPTION DAMAGE"
-msgstr "パンドランの付属能力 - 迫撃"
+msgstr ""
 
 msgctxt "DLC4 Hypnos/KEY_TAC_HINT_ENEMY_SPECIAL_CORRUPTION_DESCRIPTION"
 msgid ""
@@ -2141,68 +2134,62 @@ msgid ""
 " will die."
 msgstr ""
 
-#, fuzzy
 #| msgctxt "General Tactical Hints/KEY_TAC_HINT_ENEMY_SPECIAL_ACIDGRENADE_NAME"
 #| msgid "PANDORAN SUPPLEMENTAL - ACID GRENADE"
 msgctxt "DLC4 Hypnos/KEY_TAC_HINT_ENEMY_SPECIAL_RESIST_NAME"
 msgid "PANDORAN SUPPLEMENTAL - DYNAMIC RESISTANCE"
-msgstr "パンドランの付属能力 - アシッドグレネード"
+msgstr ""
 
 msgctxt "DLC4 Hypnos/KEY_TAC_HINT_ENEMY_SPECIAL_RESIST_DESCRIPTION"
 msgid ""
 "Dynamic resistance allows a creature to adapt to any type of attack. After receiving damage of a certain type, creatures with dynamic resistance will only suffer 50% of that type of damage effect."
 msgstr ""
 
-#, fuzzy
 #| msgctxt "General Tactical Hints/KEY_TAC_HINT_ENEMY_SPECIAL_ACIDGRENADE_NAME"
 #| msgid "PANDORAN SUPPLEMENTAL - ACID GRENADE"
 msgctxt "DLC4 Hypnos/KEY_TAC_HINT_ENEMY_SPECIAL_REINFORCEMENTS_NAME"
 msgid "PANDORAN SUPPLEMENTAL - CALLING REINFORCEMENTS"
-msgstr "パンドランの付属能力 - アシッドグレネード"
+msgstr ""
 
 msgctxt "DLC4 Hypnos/KEY_TAC_HINT_ENEMY_SPECIAL_REINFORCEMENTS_DESCRIPTION"
 msgid "Calling reinforcements allows creatures to call pandorans instantly to the battlefield. The new reinforcements become active at the start of next turn."
 msgstr ""
 
-#, fuzzy
 #| msgctxt "General Tactical Hints/KEY_TAC_HINT_ENEMY_SPECIAL_MORTAR_NAME"
 #| msgid "PANDORAN SUPPLEMENTAL - MORTAR"
 msgctxt "DLC4 Hypnos/KEY_TAC_HINT_ENEMY_SPECIAL_RESTORE_ARMOR_NAME"
 msgid "PANDORAN SUPPLEMENTAL - RESTORE ARMOR"
-msgstr "パンドランの付属能力 - 迫撃"
+msgstr ""
 
 msgctxt "DLC4 Hypnos/KEY_TAC_HINT_ENEMY_SPECIAL_RESTORE_ARMOR_DESCRIPTION"
 msgid "Restoring armor repairs all the armor of a target creature as well as increasing it to +5 of its maximum value. Armor of all bodyparts is affected."
 msgstr ""
 
-#, fuzzy
 #| msgctxt "General Tactical Hints/KEY_TAC_HINT_ENEMY_SPECIAL_REGENERATE_NAME"
 #| msgid "PANDORAN SUPPLEMENTAL - REGENERATION"
 msgctxt "DLC4 Hypnos/KEY_TAC_HINT_ENEMY_SPECIAL_CO_CORRUPT_NAME"
 msgid "PANDORAN SUPPLEMENTAL - CO-CORRUPTION"
-msgstr "パンドランの付属能力 - リジェネレーション"
+msgstr ""
 
 msgctxt "DLC4 Hypnos/KEY_TAC_HINT_ENEMY_SPECIAL_CO_CORRUPT_DESCRIPTION"
 msgid "Co-corruption allows any other creature on the battlefield to be capable of corruption damage."
 msgstr ""
 
-#, fuzzy
 #| msgctxt "General Tactical Hints/KEY_TAC_HINT_ENEMY_SPECIAL_GOOLAUNCHER_NAME"
 #| msgid "PANDORAN SUPPLEMENTAL - GOO"
 msgctxt "DLC4 Hypnos/KEY_TAC_HINT_ENEMY_SPECIAL_GOO_ATTACK_NAME"
 msgid "PANDORAN SUPPLEMENTAL - GOO ATTACK"
-msgstr "パンドランの付属能力 - 粘液"
+msgstr ""
 
 msgctxt "DLC4 Hypnos/KEY_TAC_HINT_ENEMY_SPECIAL_GOO_ATTACK_DESCRIPTION"
 msgid "Goot attacks target one single target, gooing it to the ground. Direct goo attacks only work on small units and not on vehicles."
 msgstr ""
 
-#, fuzzy
 #| msgctxt "General Tactical Hints/KEY_TAC_HINT_ENEMY_SPECIAL_GRENADE_NAME"
 #| msgid "PANDORAN SUPPLEMENTAL - GRENADE"
 msgctxt "DLC4 Hypnos/KEY_TAC_HINT_ENEMY_SPECIAL_REMOVE_DEBUFF_NAME"
 msgid "PANDORAN SUPPLEMENTAL - REMOVE DEBUFF"
-msgstr "パンドランの付属能力 - グレネード"
+msgstr ""
 
 msgctxt "DLC4 Hypnos/KEY_TAC_HINT_ENEMY_SPECIAL_REMOVE_DEBUFF_DESCRIPTION"
 msgid ""
@@ -2210,12 +2197,11 @@ msgid ""
 "Tiredness, or Exhaustion."
 msgstr ""
 
-#, fuzzy
 #| msgctxt "General Tactical Hints/KEY_TAC_HINT_ENEMY_CHIRON_NAME"
 #| msgid "PANDORAN - CHIRON"
 msgctxt "DLC4 Hypnos/KEY_TAC_HINT_ENEMY_ACHERON_NAME"
 msgid "PANDORAN - ACHERON"
-msgstr "パンドラン - ケイロン"
+msgstr "パンドラン - アケローン"
 
 msgctxt "DLC4 Hypnos/KEY_TAC_HINT_ENEMY_ACHERON_DESCRIPTION"
 msgid "The Acheron is a large Pandoran unit capable of afflicting various conditions on friendly and enemy units in a large radius on the battlefield. Kill them as quickly as possible."
@@ -2229,75 +2215,65 @@ msgctxt "DLC4 Hypnos/KEY_TAC_HINT_ENEMY_MUTOID_DESCRIPTION"
 msgid "The Mutoid is an artificially creates class out of mutagens. It has the ability to learn all human and many Pandoran abilities."
 msgstr ""
 
-#, fuzzy
 #| msgctxt "DLC2 Necronomicon/KEY_BASE_FACILITY_ARCHAEOLOGYLAB_NAME"
 #| msgid "[null]"
 msgctxt "DLC4 Hypnos/KEY_GEO_HINT_ENEMY_SPECIAL_CORRUPTION_NAME"
 msgid "[null]"
-msgstr "[null]"
+msgstr ""
 
-#, fuzzy
 #| msgctxt "DLC2 Necronomicon/KEY_BASE_FACILITY_ARCHAEOLOGYLAB_NAME"
 #| msgid "[null]"
 msgctxt "DLC4 Hypnos/KEY_GEO_HINT_ENEMY_SPECIAL_CORRUPTION_DESCRIPTION"
 msgid "[null]"
-msgstr "[null]"
+msgstr ""
 
-#, fuzzy
 #| msgctxt "DLC2 Necronomicon/KEY_BASE_FACILITY_ARCHAEOLOGYLAB_NAME"
 #| msgid "[null]"
 msgctxt "DLC4 Hypnos/KEY_GEO_HINT_ENEMY_SPECIAL_MUTOID_NAME"
 msgid "[null]"
-msgstr "[null]"
+msgstr ""
 
-#, fuzzy
 #| msgctxt "DLC2 Necronomicon/KEY_BASE_FACILITY_ARCHAEOLOGYLAB_NAME"
 #| msgid "[null]"
 msgctxt "DLC4 Hypnos/KEY_GEO_HINT_ENEMY_SPECIAL_MUTOID_DESCRIPTION"
 msgid "[null]"
-msgstr "[null]"
+msgstr ""
 
-#, fuzzy
 #| msgctxt "DLC2 Necronomicon/KEY_BASE_FACILITY_ARCHAEOLOGYLAB_NAME"
 #| msgid "[null]"
 msgctxt "DLC4 Hypnos/KEY_GEO_HINT_ENEMY_SPECIAL_MUTOID_SCREEN_NAME"
 msgid "[null]"
-msgstr "[null]"
+msgstr ""
 
-#, fuzzy
 #| msgctxt "DLC2 Necronomicon/KEY_BASE_FACILITY_ARCHAEOLOGYLAB_NAME"
 #| msgid "[null]"
 msgctxt "DLC4 Hypnos/KEY_GEO_HINT_ENEMY_SPECIAL_MUTOID_SCREEN_DESCRIPTION"
 msgid "[null]"
-msgstr "[null]"
+msgstr ""
 
-#, fuzzy
 #| msgctxt "DLC2 Necronomicon/KEY_BASE_FACILITY_ARCHAEOLOGYLAB_NAME"
 #| msgid "[null]"
 msgctxt "DLC4 Hypnos/KEY_GEO_HINT_ENEMY_SPECIAL_CURE_NAME"
 msgid "[null]"
-msgstr "[null]"
+msgstr ""
 
-#, fuzzy
 #| msgctxt "DLC2 Necronomicon/KEY_BASE_FACILITY_ARCHAEOLOGYLAB_NAME"
 #| msgid "[null]"
 msgctxt "DLC4 Hypnos/KEY_GEO_HINT_ENEMY_SPECIAL_CURE_DESCRIPTION"
 msgid "[null]"
-msgstr "[null]"
+msgstr ""
 
-#, fuzzy
 #| msgctxt "DLC2 Necronomicon/KEY_BASE_FACILITY_ARCHAEOLOGYLAB_NAME"
 #| msgid "[null]"
 msgctxt "DLC4 Hypnos/KEY_GEO_HINT_ENEMY_SPECIAL_CORRUPTION_OVER_NAME"
 msgid "[null]"
-msgstr "[null]"
+msgstr ""
 
-#, fuzzy
 #| msgctxt "DLC2 Necronomicon/KEY_BASE_FACILITY_ARCHAEOLOGYLAB_NAME"
 #| msgid "[null]"
 msgctxt "DLC4 Hypnos/KEY_GEO_HINT_ENEMY_SPECIAL_CORRUPTION_OVER_DESCRIPTION"
 msgid "[null]"
-msgstr "[null]"
+msgstr ""
 
 msgctxt "Blood Titanium/KEY_ARTHRON_ACID_GRENADE_ARM_DESCRIPTION"
 msgid "Organic Grenade Launcher"
@@ -4876,7 +4852,6 @@ msgctxt "Abilities/KEY_ADRENALINE_RUSH_NAME"
 msgid "ADRENALINE RUSH"
 msgstr "アドレナリンラッシュ"
 
-#, fuzzy
 #| msgctxt "Abilities/KEY_TAKE_TWO_SHOTS_WITH_DOUBLE_ACCURACY"
 #| msgid "Take two shots with double accuracy"
 msgctxt "Abilities/KEY_DEADLY_DUO_DESCRIPTION"
@@ -4951,12 +4926,11 @@ msgctxt "Abilities/KEY_EAGLE_EYED_NAME"
 msgid "EAGLE EYED"
 msgstr "イーグルアイ化"
 
-#, fuzzy
 #| msgctxt "Abilities/KEY_ELECTRIC_STRIKE_DESCRIPTION"
 #| msgid "Target is dazed if shock value is greater than target's current Hit Points"
 msgctxt "Abilities/KEY_ELECTRIC_STRIKE_DESCRIPTION"
 msgid "Target is paralyzed if shock value is greater than target's current Hit Points"
-msgstr "与えたショック値がターゲットのヒットポイントを 上回った場合、放心状態にさせる"
+msgstr "与えたショック値がターゲットの現在ヒットポイントを上回った場合に麻痺させる"
 
 msgctxt "Abilities/KEY_ELECTRIC_STRIKE_NAME"
 msgid "ELECTRIC STRIKE"
@@ -5706,12 +5680,11 @@ msgctxt "Abilities/KEY_SIREN_VOMIT_ACID_NAME"
 msgid "ACID SPRAY"
 msgstr "アシッドスプレー"
 
-#, fuzzy
 #| msgctxt "Abilities/KEY_SNEAK_ATTACK_DESCRIPTION"
 #| msgid "Damage dealt while not spotted is increased by 100%"
 msgctxt "Abilities/KEY_SNEAK_ATTACK_DESCRIPTION"
 msgid "Damage dealt while not spotted is increased by 50%"
-msgstr "発見されていない間は、与ダメージが100％増加する"
+msgstr "発見されていない間、与えるダメージが50％増加する"
 
 msgctxt "Abilities/KEY_SNEAK_ATTACK_NAME"
 msgid "SNEAK ATTACK"
