@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2021-05-29 13:20+0000\n"
+"PO-Revision-Date: 2021-05-29 13:23+0000\n"
 "Last-Translator: higema <ltdhyndsh@yahoo.co.jp>\n"
 "Language-Team: \n"
 "Language: ja\n"
@@ -1554,7 +1554,7 @@ msgstr "フィルター: モジュール"
 #| msgid "WEAPONS"
 msgctxt "DLC 3 - Behemoth/KEY_DLC3_AIRCRAFT_ROSTER_WEAPONS"
 msgid "WEAPONS"
-msgstr "兵器"
+msgstr "武器"
 
 msgctxt "DLC 3 - Behemoth/KEY_DLC3_AIRCRAFT_ROSTER_MODULE"
 msgid "MODULE"
@@ -1726,12 +1726,11 @@ msgctxt "DLC 3 - Behemoth/KEY_DLC3_INT_MODULE_LOST"
 msgid "MODULE LOST"
 msgstr ""
 
-#, fuzzy
 #| msgctxt "Tactical/KEY_OUT_OF_AMMO__RELOAD"
 #| msgid "OUT OF AMMO - RELOAD"
 msgctxt "DLC 3 - Behemoth/KEY_DLC3_INT_OUT_OF_AMMO"
 msgid "{0} OUT OF AMMO"
-msgstr "弾切れ - リロードしてください"
+msgstr "{0}弾薬切れ"
 
 msgctxt "DLC 3 - Behemoth/KEY_DLC3_INT_OUT_OF_RANGE"
 msgid "{0} OUT OF RANGE"
@@ -1741,61 +1740,53 @@ msgctxt "DLC 3 - Behemoth/KEY_DLC3_INT_MODULE_NOT_READY"
 msgid "MODULE NOT READY"
 msgstr ""
 
-#, fuzzy
 #| msgctxt "Options Screen/KEY_OPTIONS_SCREEN_MODE"
 #| msgid "SCREEN MODE"
 msgctxt "DLC 3 - Behemoth/KEY_DLC3_INT_CHARGING_MODULE"
 msgid "CHARGING MODULE"
-msgstr "画面モード"
+msgstr "チャージ中のモジュール"
 
-#, fuzzy
 #| msgctxt "Game Over/KEY_GAME_SUMMARY_PROD_WEAPONS"
 #| msgid "WEAPONS"
 msgctxt "DLC 3 - Behemoth/KEY_DLC3_INT_WEAPON"
 msgid "WEAPON"
-msgstr "兵器"
+msgstr "武器"
 
-#, fuzzy
 #| msgctxt "Game Over/KEY_GAME_SUMMARY_PROD_WEAPONS"
 #| msgid "WEAPONS"
 msgctxt "DLC 3 - Behemoth/KEY_DLC3_INT_WEAPON_1"
 msgid "WEAPON 1"
-msgstr "兵器"
+msgstr "武器1"
 
-#, fuzzy
 #| msgctxt "Game Over/KEY_GAME_SUMMARY_PROD_WEAPONS"
 #| msgid "WEAPONS"
 msgctxt "DLC 3 - Behemoth/KEY_DLC3_INT_WEAPON_2"
 msgid "WEAPON 2"
-msgstr "兵器"
+msgstr "武器2"
 
-#, fuzzy
 #| msgctxt "Game Over/KEY_GAME_SUMMARY_PROD_WEAPONS"
 #| msgid "WEAPONS"
 msgctxt "DLC 3 - Behemoth/KEY_DLC3_INT_WEAPON_3"
 msgid "WEAPON 3"
-msgstr "兵器"
+msgstr "武器3"
 
-#, fuzzy
 #| msgctxt "Game Over/KEY_GAME_SUMMARY_PROD_WEAPONS"
 #| msgid "WEAPONS"
 msgctxt "DLC 3 - Behemoth/KEY_DLC3_INT_WEAPON_4"
 msgid "WEAPON 4"
-msgstr "兵器"
+msgstr "武器4"
 
-#, fuzzy
 #| msgctxt "Game Over/KEY_GAME_SUMMARY_PROD_WEAPONS"
 #| msgid "WEAPONS"
 msgctxt "DLC 3 - Behemoth/KEY_DLC3_INT_WEAPON_5"
 msgid "WEAPON 5"
-msgstr "兵器"
+msgstr "武器5"
 
-#, fuzzy
 #| msgctxt "Game Over/KEY_GAME_SUMMARY_PROD_WEAPONS"
 #| msgid "WEAPONS"
 msgctxt "DLC 3 - Behemoth/KEY_DLC3_INT_WEAPON_6"
 msgid "WEAPON 6"
-msgstr "兵器"
+msgstr "武器6"
 
 msgctxt "DLC 3 - Behemoth/KEY_DLC3_INT_MODULE"
 msgid "MODULE"
@@ -1805,23 +1796,21 @@ msgctxt "DLC 3 - Behemoth/KEY_DLC3_INT_TOGGLE_TIME_HOTKEY"
 msgid "Pause/Unpause"
 msgstr ""
 
-#, fuzzy
 #| msgctxt "Equipment/KEY_SY_MIST_REPEL_ATTACHMENT_NAME"
 #| msgid "Repeller Module"
 msgctxt "DLC 3 - Behemoth/KEY_DLC3_INT_USE_MODULE_HOTKEY"
 msgid "Use Module"
-msgstr "リペラー モジュール"
+msgstr "モジュールの使用"
 
 msgctxt "DLC 3 - Behemoth/KEY_DLC3_INT_TOGGLE_TOOLTIPS_HOTKEY"
 msgid "Show/Hide Tooltips"
 msgstr ""
 
-#, fuzzy
 #| msgctxt "Missions/KEY_MISSION_JOIN_BATTLE"
 #| msgid "JOIN BATTLE"
 msgctxt "DLC 3 - Behemoth/KEY_DLC3_INT_AUTO_BATTLE"
 msgid "AUTO-BATTLE"
-msgstr "戦闘に参加する"
+msgstr "オートバトル"
 
 msgctxt "DLC 3 - Behemoth/KEY_DLC3_CANT_REDIRECT_AIRCRAFT"
 msgid "Can't redirect a disengaging aircraft"
