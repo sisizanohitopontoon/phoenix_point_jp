@@ -460,11 +460,11 @@ msgstr "一座避难所被巨兽摧毁！"
 
 msgctxt "DLC 3 - Behemoth/KEY_GEOSCAPE_BEHEMOTH_DAMAGE_HAVEN_MESSAGE"
 msgid "A haven was damaged by the Behemoth!"
-msgstr "一个避风港被巨兽破坏了！"
+msgstr "一座避难所被巨兽破坏了！"
 
 msgctxt "DLC 3 - Behemoth/KEY_GEOSCAPE_BEHEMOTH_INFEST_MESSAGE"
 msgid "A haven was infested by the Behemoth!"
-msgstr "庞然大物出没了避风港！"
+msgstr "一座避难所被巨兽感染了！"
 
 msgctxt "DLC 3 - Behemoth/KEY_LAUNCH_MISSION_BEHEMOTH_DESCRIPTION"
 msgid "Deploy a squad against the Behemoth"
@@ -563,7 +563,7 @@ msgid "TRANSMISSION"
 msgstr "[null]"
 
 msgctxt "DLC 3 - Behemoth/KEY_DLC3_TAC_HINT_EILEEN_STORY_LOSE_DESCRIPTION"
-msgid "\"\"Phoenix, respond! Phoenix? Damn...[LF]If anybody receives this transmission: This is Citizen Eileen speaking. Your squad is missing, pressumed K.I.A. I am taking off with the armed Manticore. Stand by for future transmissions. Eileen out.\"\""
+msgid "\"\"Phoenix, respond! Phoenix? Damn...[LF]If anybody receives this transmission: This is Citizen Eileen speaking. Your squad is missing, presumed K.I.A. I am taking off with the armed Manticore. Stand by for future transmissions. Eileen out.\"\""
 msgstr "[null]"
 
 msgctxt "DLC 3 - Behemoth/KEY_DLC3_TAC_HINT_GILLS_NAME"
@@ -1127,7 +1127,7 @@ msgid "Protects onboard personnel if the aircraft is destroyed"
 msgstr "飞行器被摧毁时保护机上人员"
 
 msgctxt "DLC 3 - Behemoth/KEY_DLC3_GEOBONUS_STAMINA"
-msgid "Onbard personnel recovers Stamina"
+msgid "Onboard personnel recovers Stamina"
 msgstr "机上人员恢复耐力"
 
 msgctxt "DLC 3 - Behemoth/KEY_DLC3_GEOBONUS_HITPOINTS"
@@ -1147,7 +1147,7 @@ msgid "INTERCEPT ENEMY AIRCRAFT"
 msgstr "拦截敌方飞行器"
 
 msgctxt "DLC 3 - Behemoth/KEY_ABILITY_INTERCEPT_DESCRIPTION"
-msgid "Engage enemy aircraft in air comabt"
+msgid "Engage enemy aircraft in air combat"
 msgstr "与敌方飞行器空中交战"
 
 msgctxt "DLC 3 - Behemoth/KEY_MESSAGE_NO_ENEMY_AIRCRAFTS"
@@ -1399,8 +1399,8 @@ msgid "The largest species of winged Pandoran discovered to date shows superior 
 msgstr "迄今为止发现的体型最大的有翼潘多拉体物种。这种生物表现出超凡的力量和智慧，具有复杂且难以预测的行为模式，是人类面临的最大的空中威胁。"
 
 msgctxt "DLC 3 - Behemoth/KEY_DLC3_VEHICLE_ROSTER_NO_VEHICLES"
-msgid "No aircraft available. [LF]You can manufacture new aircraft in the MANUFACTORING tab."
-msgstr "没有可使用的飞行器。[LF] 你可以在技术中心制造新的飞行器。"
+msgid "No aircraft available. [LF]You can manufacture new aircraft in the MANUFACTURING tab."
+msgstr "没有可使用的飞行器。[LF] 你可以在制造标签栏中制造新的飞行器。"
 
 msgctxt "DLC 3 - Behemoth/KEY_DLC3_INTERCEPTION_FAILED"
 msgid "Your characters have suffered Stamina and Hit Point loss. Survivors will be transported to the nearest Phoenix base."
@@ -1758,165 +1758,1341 @@ msgctxt "DLC 3 - Behemoth/KEY_OBJECTIVE_B_BEHEMOTH_INJECTOR"
 msgid "INJECT THE VIROPHAGE AGENT [0/4]"
 msgstr "注射噬病毒体药剂 [0/4]"
 
+msgctxt "DLC 3 - Behemoth/KEY_RADIAL_TOOLTIP"
+msgid "MODULE RADIAL"
+msgstr "模块径向"
+
+msgctxt "DLC 3 - Behemoth/KEY_AUTO_BATTLE_TOOLTIP"
+msgid "AUTO-BATTLE ON/OFF"
+msgstr "自动战斗开/关"
+
+msgctxt "DLC 3 - Behemoth/KEY_RENAME_VEHICLE"
+msgid "Rename this vehicle?"
+msgstr "重命名这辆载具吗？"
+
 msgctxt "DLC4 Hypnos/KEY_DLC4_TAC_HINT_ACHERON_ESCAPED_NAME"
 msgid "TRANSMISSION"
-msgstr "[null]"
+msgstr "通讯传输"
 
 msgctxt "DLC4 Hypnos/KEY_DLC4_TAC_HINT_ACHERON_ESCAPED_DESCRIPTION"
-msgid "The Acheron escaped!!!"
-msgstr "[null]"
+msgid "The Acheron escaped!"
+msgstr "地狱战士逃跑了！"
 
 msgctxt "DLC4 Hypnos/KEY_TAC_HINT_STATUS_CORRUPTED_NAME"
-msgid "STATUS - CORRUPTED"
-msgstr "[null]"
+msgid "CORRUPTED"
+msgstr "腐化"
 
 msgctxt "DLC4 Hypnos/KEY_TAC_HINT_STATUS_CORRUPTED_DESCRIPTION"
-msgid "Your soldier is corrupted, reducing their maximum Willpower. If Corruption becomes greater than the soldier’s maximum Willpower, the soldier will die."
-msgstr "[null]"
+msgid "Your soldier is corrupted, reducing their Willpower. The lower a soldier's Willpower becomes, the more susceptible they are to panic or mind control. As an interesting side effect, corrupted soldiers deal additional 2% damage for every 1 point of corruption.[LF][LF]Corruption can be stacked, so if you soldiers are attacked multiple times by a corrupting Pandoran, their corruption will increase."
+msgstr "您的士兵被腐化了，他们的意志力降低了。士兵的意志力越低，就越容易受恐慌或精神控制影响。还有一个有趣的副作用，每 1 点腐败能使腐化士兵造成额外 2% 的伤害。[LF] [LF] 腐化可以叠加，所以如果您的士兵被腐化的潘多兰多次攻击，他们的腐化会提高。"
 
 msgctxt "DLC4 Hypnos/KEY_TAC_HINT_STATUS_TREMBLING_NAME"
-msgid "STATUS - TREMBLING"
-msgstr "[null]"
+msgid "TREMBLING"
+msgstr "瑟瑟发抖"
 
 msgctxt "DLC4 Hypnos/KEY_TAC_HINT_STATUS_TREMBLING_DESCRIPTION"
-msgid "Your soldier is trembling. While in this state the soldier's accuracy will be reduced bu [50%] for 1 turn."
-msgstr "[null]"
+msgid "Accuracy reduced by 50% for 1 turn."
+msgstr "在 1 个回合内，降低 50% 的准度。"
 
 msgctxt "DLC4 Hypnos/KEY_TAC_HINT_STATUS_SLOWED_NAME"
-msgid "STATUS - SLOWED"
-msgstr "[null]"
+msgid "SLOWED"
+msgstr "缓速"
 
 msgctxt "DLC4 Hypnos/KEY_TAC_HINT_STATUS_SLOWED_DESCRIPTION"
-msgid "Your soldier is slowed. While in this state the soldier's speed will be reduced bu [75%] for 1 turn."
-msgstr "[null]"
+msgid "Speed is reduced by 50% for 1 turn."
+msgstr "在 1 个回合内，降低 50% 的速度。"
 
 msgctxt "DLC4 Hypnos/KEY_TAC_HINT_STATUS_STRAINED_NAME"
-msgid "STATUS - STRAINED"
-msgstr "[null]"
+msgid "STRAINED"
+msgstr "弱化"
 
 msgctxt "DLC4 Hypnos/KEY_TAC_HINT_STATUS_STRAINED_DESCRIPTION"
-msgid "Your soldier has been strained. One, or more, of the soldier's limbs are temporarily disabled for 1 turn."
-msgstr "[null]"
+msgid "One, or more, limbs are temporarily disabled for 1 turn."
+msgstr "在 1 个回合内，损坏一个或者多个肢体。"
 
 msgctxt "DLC4 Hypnos/KEY_TAC_HINT_STATUS_BLINDED_NAME"
-msgid "STATUS - BLINDED"
-msgstr "[null]"
+msgid "BLINDED"
+msgstr "失明"
 
 msgctxt "DLC4 Hypnos/KEY_TAC_HINT_STATUS_BLINDED_DESCRIPTION"
-msgid "Your soldier is blinded. While in this state the soldier's perception will be reduced bu [75%] for 1 turn."
-msgstr "[null]"
+msgid "Perception is reduced by 75% for 1 turn."
+msgstr "在 1 个回合内，降低 75% 的感知。"
 
 msgctxt "DLC4 Hypnos/KEY_TAC_HINT_ENEMY_SPECIAL_CORRUPTION_NAME"
 msgid "PANDORAN SUPPLEMENTAL - CORRUPTION DAMAGE"
-msgstr "[null]"
+msgstr "补充潘多拉体 - 腐化伤害"
 
 msgctxt "DLC4 Hypnos/KEY_TAC_HINT_ENEMY_SPECIAL_CORRUPTION_DESCRIPTION"
-msgid "Corruption damage infects a soldier with corruption. Once infected, the corruption will grow, reducing the soldier's Willpower with time. When the corruption value exceeds the Willpower, the soldier will die."
-msgstr "[null]"
+msgid "Corruption damage infects a soldier with corruption. Once infected, the corruption will grow, reducing the soldier's Willpower over time. For every 1 point of corruption, damage dealt in combat increases by 2%."
+msgstr "腐化伤害会通过腐化毒株感染士兵。士兵受到感染后，腐化会增强，并随着时间的推移减少士兵的意志力点数。每 1 点腐化能使战斗中造成的伤害增加 2%。"
 
 msgctxt "DLC4 Hypnos/KEY_TAC_HINT_ENEMY_SPECIAL_RESIST_NAME"
 msgid "PANDORAN SUPPLEMENTAL - DYNAMIC RESISTANCE"
-msgstr "[null]"
+msgstr "补充潘多拉体 - 动态抗性"
 
 msgctxt "DLC4 Hypnos/KEY_TAC_HINT_ENEMY_SPECIAL_RESIST_DESCRIPTION"
-msgid "Dynamic resistance allows a creature to adapt to any type of attack. After receiving damage of a certain type, creatures with dynamic resistance will only suffer 50% of that type of damage effect."
-msgstr "[null]"
+msgid "This allows a creature to adapt to any type of attack. After receiving damage of a certain type, creatures with dynamic resistance will only suffer 50% of that type of damage effect."
+msgstr "可以让生物适应各种不同种类的攻击。拥有动态抗性的生物受到某种类型的伤害后，只会承受该类型 50% 的影响。"
 
 msgctxt "DLC4 Hypnos/KEY_TAC_HINT_ENEMY_SPECIAL_REINFORCEMENTS_NAME"
 msgid "PANDORAN SUPPLEMENTAL - CALLING REINFORCEMENTS"
-msgstr "[null]"
+msgstr "补充潘多拉体 - 呼叫增援"
 
 msgctxt "DLC4 Hypnos/KEY_TAC_HINT_ENEMY_SPECIAL_REINFORCEMENTS_DESCRIPTION"
-msgid "Calling reinforcements allows creatures to call pandorans instantly to the battlefield. The new reinforcements become active at the start of next turn."
-msgstr "[null]"
+msgid "This allows creatures to call Pandorans instantly to the battlefield. The new reinforcements become active at the start of next turn."
+msgstr "可以让生物立即呼叫潘多拉体加入战场。这些新的增援将在下一回合开始时被激活。"
 
 msgctxt "DLC4 Hypnos/KEY_TAC_HINT_ENEMY_SPECIAL_RESTORE_ARMOR_NAME"
 msgid "PANDORAN SUPPLEMENTAL - RESTORE ARMOR"
-msgstr "[null]"
+msgstr "补充潘多拉体 - 恢复护甲"
 
 msgctxt "DLC4 Hypnos/KEY_TAC_HINT_ENEMY_SPECIAL_RESTORE_ARMOR_DESCRIPTION"
-msgid "Restoring armor repairs all the armor of a target creature as well as increasing it to +5 of its maximum value. Armor of all bodyparts is affected."
-msgstr "[null]"
+msgid "This repairs all the armor of a target creature as well as increasing it to +5 of its maximum value. Armor of all body parts is affected."
+msgstr "完全修复目标的护甲并将最大护甲值提升 5 点。对所有的身体部位生效。"
 
 msgctxt "DLC4 Hypnos/KEY_TAC_HINT_ENEMY_SPECIAL_CO_CORRUPT_NAME"
 msgid "PANDORAN SUPPLEMENTAL - CO-CORRUPTION"
-msgstr "[null]"
+msgstr "补充潘多拉体 - 联合腐化"
 
 msgctxt "DLC4 Hypnos/KEY_TAC_HINT_ENEMY_SPECIAL_CO_CORRUPT_DESCRIPTION"
-msgid "Co-corruption allows any other creature on the battlefield to be capable of corruption damage."
-msgstr "[null]"
+msgid "This allows any other creature on the battlefield to be capable of corruption damage."
+msgstr "让战场上的生物拥有造成腐化伤害的能力。"
 
 msgctxt "DLC4 Hypnos/KEY_TAC_HINT_ENEMY_SPECIAL_GOO_ATTACK_NAME"
 msgid "PANDORAN SUPPLEMENTAL - GOO ATTACK"
-msgstr "[null]"
+msgstr "补充潘多拉体 - 黏液攻击"
 
 msgctxt "DLC4 Hypnos/KEY_TAC_HINT_ENEMY_SPECIAL_GOO_ATTACK_DESCRIPTION"
-msgid "Goot attacks target one single target, gooing it to the ground. Direct goo attacks only work on small units and not on vehicles."
-msgstr "[null]"
+msgid "Goo attacks target one single target, gooing it to the ground. Direct goo attacks only work on small units and not on vehicles."
+msgstr "黏液攻击将会把单体单位黏在地面上。黏液攻击只对小型目标有效，对载具无效。"
 
 msgctxt "DLC4 Hypnos/KEY_TAC_HINT_ENEMY_SPECIAL_REMOVE_DEBUFF_NAME"
 msgid "PANDORAN SUPPLEMENTAL - REMOVE DEBUFF"
-msgstr "[null]"
+msgstr "补充潘多拉体 - 移除负面效果"
 
 msgctxt "DLC4 Hypnos/KEY_TAC_HINT_ENEMY_SPECIAL_REMOVE_DEBUFF_DESCRIPTION"
-msgid "Debuff removal instantly removes all negative combat status effects of the affected target, including Bleeding, Acid, Poison, Panic, Paralyzed, and Mind Control. It has no effect on Corruption, Tiredness, or Exhaustion."
-msgstr "[null]"
+msgid "This instantly removes all negative combat status effects of the affected target, including Bleeding, Acid, Poison, Panic, Paralyzed, and Mind Control. It has no effect on Corruption, Tiredness, or Exhaustion."
+msgstr "立即移除所有对目标生效的负面战斗状态，包括流血、酸蚀、中毒、恐慌、麻痹和心灵控制。对腐化、疲劳度和精力消耗无效。"
 
 msgctxt "DLC4 Hypnos/KEY_TAC_HINT_ENEMY_ACHERON_NAME"
 msgid "PANDORAN - ACHERON"
-msgstr "[null]"
+msgstr "潘多拉体 - 地狱战士"
 
 msgctxt "DLC4 Hypnos/KEY_TAC_HINT_ENEMY_ACHERON_DESCRIPTION"
 msgid "The Acheron is a large Pandoran unit capable of afflicting various conditions on friendly and enemy units in a large radius on the battlefield. Kill them as quickly as possible."
-msgstr "[null]"
+msgstr "地狱战士是一种大型的潘多拉体，能够在战场上大范围影响本方和敌方单位的状态。要尽快击杀它们。"
 
 msgctxt "DLC4 Hypnos/KEY_TAC_HINT_ENEMY_MUTOID_NAME"
 msgid "ENEMY - MUTOID"
-msgstr "[null]"
+msgstr "敌人 - 突变者"
 
 msgctxt "DLC4 Hypnos/KEY_TAC_HINT_ENEMY_MUTOID_DESCRIPTION"
-msgid "The Mutoid is an artificially creates class out of mutagens. It has the ability to learn all human and many Pandoran abilities."
-msgstr "[null]"
+msgid "The Mutoid is an artificially creates abilities out of mutagens. It has the ability to learn all human and many Pandoran abilities."
+msgstr "突变者是一种人造生物，可通过突变原来获取技能。它们可以学习所有人类和潘多拉体的技能。"
 
 msgctxt "DLC4 Hypnos/KEY_GEO_HINT_ENEMY_SPECIAL_CORRUPTION_NAME"
-msgid "[null]"
-msgstr "[null]"
+msgid "CORRUPTION VIRUS STRAIN"
+msgstr "腐化病毒毒株"
 
 msgctxt "DLC4 Hypnos/KEY_GEO_HINT_ENEMY_SPECIAL_CORRUPTION_DESCRIPTION"
-msgid "[null]"
-msgstr "[null]"
+msgid "A new strain of corruption has appeared. Unlike the Pandoravirus it will infect people suffering physical attacks during battle or by entering CORRUPTED SITES (any site covered by mist). Each point of corruption eats away at the WILL of the infected, while also increasing the damage dealt as a side effect. Soldiers gain 2% bonus to their damage dealt for every 1 point of corruption.[LF]Recruits gained from corrupted sites will be infected with corruption."
+msgstr "一种新的腐化现象出现了。与潘多拉病毒不同，它会感染战斗中受到物理攻击的人，或者通过进入腐化地点（迷雾覆盖的任何地点）进行感染。每一点腐化都会侵蚀被感染者的意志力，作为副作用，同时也会提高造成的伤害。每 1 点腐化能使士兵获得 2% 的伤害加成。[LF]在腐化地点获得的新兵将感染上腐化。"
 
 msgctxt "DLC4 Hypnos/KEY_GEO_HINT_ENEMY_SPECIAL_MUTOID_NAME"
-msgid "[null]"
-msgstr "[null]"
+msgid "MUTOID SOLDIERS"
+msgstr "突变者士兵"
 
 msgctxt "DLC4 Hypnos/KEY_GEO_HINT_ENEMY_SPECIAL_MUTOID_DESCRIPTION"
-msgid "[null]"
-msgstr "[null]"
+msgid "Mutoids are artificially created humanoids bred using MUTAGENS. Immune to the Corruption they can learn abilities from all researched Soldier Classes, as well as some Pandoran abilities after an autopsy has been performed.[LF]While a Mutoid can learn many abilities, it can only select one Soldier ability and one Pandoran ability per level. For this additional Mutagens are required.[LF]Mutoids can only be healed at a base using MUTAGENS."
+msgstr "突变者是用突变原繁殖的人造类人生物。对腐化免疫，可以学习所有已获得的兵种技能；在执行尸检后，也可以学习某些潘多拉体技能。[LF]突变者可以学习多种技能，但在每一个等级只能选择一项士兵技能和一项潘多拉体技能。学习技能需要额外的突变原。[LF]突变者只能在基地通过突变原来治疗。"
 
 msgctxt "DLC4 Hypnos/KEY_GEO_HINT_ENEMY_SPECIAL_MUTOID_SCREEN_NAME"
-msgid "[null]"
-msgstr "[null]"
+msgid "MUTOID SCREEN"
+msgstr "突变者界面"
 
 msgctxt "DLC4 Hypnos/KEY_GEO_HINT_ENEMY_SPECIAL_MUTOID_SCREEN_DESCRIPTION"
-msgid "[null]"
-msgstr "[null]"
+msgid "Mutoid Soldiers have only five levels, each allowing them access to 1 Soldier and 1 Pandoran ability per level. While Mutoids gain experience the same way other soldiers do, they require Mutagens in order to learn new abilities.[LF][LF]Increasing statistics also requires Mutagens and is done in the same way as with other Soldiers."
+msgstr "突变者士兵有五个等级，每个等级可以学习 1 项士兵技能和 1 项潘多拉体技能。突变者获取经验的方式和其他士兵一样，但需要突变原才能学习新技能。[LF][LF] 突变者需要突变原才能提升属性，方式和其他士兵一样。"
 
 msgctxt "DLC4 Hypnos/KEY_GEO_HINT_ENEMY_SPECIAL_CURE_NAME"
-msgid "[null]"
-msgstr "[null]"
+msgid "CORRUPTION TREATMENT"
+msgstr "腐化治疗"
 
 msgctxt "DLC4 Hypnos/KEY_GEO_HINT_ENEMY_SPECIAL_CURE_DESCRIPTION"
-msgid "[null]"
-msgstr "[null]"
+msgid "Now that you have researched a cure for the Corruption strain, you can cure corrupted soldiers from your base.[LF][LF]In order to cure a corrupted soldier you need to pay 50 MUTAGENS for every 25% of Corruption that has affected the soldier."
+msgstr "你已经研究出治疗腐化毒株的方法，可以在基地治疗被腐化的士兵。[LF][LF] 在治疗时，每治愈一个被腐化士兵的 25% 的腐化值都需要消耗 50 突变原。"
 
 msgctxt "DLC4 Hypnos/KEY_GEO_HINT_ENEMY_SPECIAL_CORRUPTION_OVER_NAME"
+msgid "CORRUPTION VACCINE"
+msgstr "腐化疫苗"
+
+msgctxt "DLC4 Hypnos/KEY_GEO_HINT_ENEMY_SPECIAL_CORRUPTION_OVER_DESCRIPTION"
+msgid "After hours of research we have finally found a vaccine that will eliminate the corruption strain for good. As soldiers are being inoculated against the disease, our planes are spreading it over battlefields ensuring that the dead there pose no further threat.[LF][LF]Your soldiers can no longer become corrupted. Those that are currently corrupted still need treatment, though."
+msgstr "经过数小时的研究，我们终于找到了可以彻底消灭腐化毒株的疫苗。飞机正在四处分发疫苗，给正在对抗病毒士兵提供帮助，确保已经死亡的尸体不会再次传播病毒。[LF][LF] 你的士兵现在已经不会再被腐化。但已经感染的士兵，仍然需要在基地进行治疗。"
+
+msgctxt "DLC4 Hypnos/KEY_GEO_HINT_ACHERON_CAPTURE_NAME"
+msgid "CORRUPTION CURE RESEARCH FAILURE"
+msgstr "腐化治愈研究失败"
+
+msgctxt "DLC4 Hypnos/KEY_GEO_HINT_ACHERON_CAPTURE_DESCRIPTION"
+msgid "Despite our best efforts the finding a cure to the new corruption strain ended in failure. Apparently, the virus in all newer specimens has mutated to such a degree that it is useless for our needs. In order to be successful, we need to find one of the original specimens that escaped from the Lab."
+msgstr "尽管我们已竭尽全力，寻找治愈新腐化毒株的方法，可最终还是失败了。显然，这种寄宿在所有新样本中的病毒已经变异了，现在对我们来说毫无用处。而要想成功治愈它，就必须找回逃离实验室的原始样本。"
+
+msgctxt "DLC4 Hypnos/KEY_PX_HEAL_GRENADE_NAME"
+msgid "VITA GRENADE"
+msgstr "维他手雷"
+
+msgctxt "DLC4 Hypnos/KEY_PX_HEAL_GRENADE_DESCRIPTION"
+msgid "A healing grenade that removes the bleeding and poison, and restores 50 Hit Points to all organic creatures within 3 tiles of impact."
+msgstr "一种治疗类型的手雷，可以清除流血和中毒，并让 3 格内的所有有机生物恢复 50 点生命值。"
+
+msgctxt "DLC4 Hypnos/KEY_HUSK_NAME"
+msgid "HUSK"
+msgstr "外壳"
+
+msgctxt "DLC4 Hypnos/KEY_HUSK_DESCRIPTION"
+msgid "HUSK"
+msgstr "外壳"
+
+msgctxt "DLC4 Hypnos/KEY_HUSK_DESCRIPTION_TEMP"
+msgid "A large squid-like body part that can be mistaken for the Acheron's head. It is the source of all manner of cloud attacks."
+msgstr "一个外形像乌贼的大型身体部件，可能会被误认为是地狱战士的头部。是所有迷雾攻击的源头。"
+
+msgctxt "DLC4 Hypnos/KEY_ACHERON_ARM_DESCRIPTION_TEMP"
+msgid "A humanoid arm that allows the Acheron to launch biological agents at its targets."
+msgstr "一条人型手臂，可以让地狱战士对目标发射生物试剂。"
+
+msgctxt "DLC4 Hypnos/KEY_MUTOID_CLASS"
+msgid "MUTOID"
+msgstr "突变者"
+
+msgctxt "DLC4 Hypnos/KEY_MUTOID_CLASS_DESCRIPTION"
+msgid "MUTOID SOLDIER CLASS"
+msgstr "突变者兵种"
+
+msgctxt "DLC4 Hypnos/KEY_MUTOID_DESCRIPTION"
+msgid "Soldier class created through mutagens that can choose between all human skills and many Pandoran skills."
+msgstr "创建该兵种需要使用突变原。该兵种可以学习所有的人类技能和大部分潘多拉体技能。"
+
+msgctxt "DLC4 Hypnos/KEY_STATUS_BLINDED_NAME"
+msgid "BLINDED"
+msgstr "失明"
+
+msgctxt "DLC4 Hypnos/KEY_STATUS_BLINDED_DESCRIPTION"
+msgid "Perception reduced by 75%."
+msgstr "感知降低 75%。"
+
+msgctxt "DLC4 Hypnos/KEY_STATUS_TREMBLING_NAME"
+msgid "TREMBLING"
+msgstr "瑟瑟发抖"
+
+msgctxt "DLC4 Hypnos/KEY_STATUS_TREMBLING_DESCRIPTION"
+msgid "Accuracy reduced by 50%."
+msgstr "准度降低 50%。"
+
+msgctxt "DLC4 Hypnos/KEY_STATUS_STRAINED_NAME"
+msgid "STRAINED"
+msgstr "弱化"
+
+msgctxt "DLC4 Hypnos/KEY_STATUS_STRAINED_DESCRIPTION"
+msgid "A limb has been temporarily disabled."
+msgstr "一个肢体暂时损坏。"
+
+msgctxt "DLC4 Hypnos/KEY_STATUS_SLOWED_NAME"
+msgid "SLOWED"
+msgstr "缓速"
+
+msgctxt "DLC4 Hypnos/KEY_STATUS_SLOWED_DESCRIPTION"
+msgid "Speed is reduced by 50%."
+msgstr "速度降低 50%。"
+
+msgctxt "DLC4 Hypnos/KEY_STATUS_CORRUPTED_NAME"
+msgid "CORRUPTED"
+msgstr "腐化"
+
+msgctxt "DLC4 Hypnos/KEY_STATUS_CORRUPTED_DESCRIPTION"
+msgid "Will Power is reduced by the current amount of corruption. Additionally, damage done increases by 2% for every 1 point of corruption."
+msgstr "意志力被当前的腐化值降低。另外，每 1 点腐化使造成的伤害增加 2%。"
+
+msgctxt "DLC4 Hypnos/KEY_ALN_ACHERON_NAME"
+msgid "ACHERON"
+msgstr "地狱战士"
+
+msgctxt "DLC4 Hypnos/KEY_ALN_ACHERON_DESCRIPTION"
+msgid "Acheron"
+msgstr "地狱战士"
+
+msgctxt "DLC4 Hypnos/KEY_CORRUPTIVE_ATTACK_NAME"
+msgid "CORRUPTIVE ATTACK"
+msgstr "腐化攻击"
+
+msgctxt "DLC4 Hypnos/KEY_CORRUPTIVE_ATTACK_DESCRIPTION"
+msgid "Successful attacks spread corruption to organic units."
+msgstr "攻击成功将会腐化有机单位。"
+
+msgctxt "DLC4 Hypnos/KEY_CONTACT_CORRUPTION_NAME"
+msgid "CONTACT CORRUPTION"
+msgstr "接触腐化"
+
+msgctxt "DLC4 Hypnos/KEY_CONTACT_CORRUPTION_DESCRIPTION"
+msgid "Corrupts attacker when suffering Melee or Bash attacks."
+msgstr "在受到近战攻击或猛烈攻击后，攻击者会被腐化。"
+
+msgctxt "DLC4 Hypnos/KEY_DYNAMIC_RESISTANCE_NAME"
+msgid "DYNAMIC RESISTANCE"
+msgstr "动态抗性"
+
+msgctxt "DLC4 Hypnos/KEY_DYNAMIC_RESISTANCE_DESCRIPTION"
+msgid "Gives 50% temporary resistance to any type of damage or negative status effect suffered in combat."
+msgstr "针对任意类型的伤害或已受到的负面效果获得 50% 的抗性。"
+
+msgctxt "DLC4 Hypnos/KEY_CORRUPTIVE_SPRAY_NAME"
+msgid "CORRUPTIVE SPRAY"
+msgstr "腐化扩散"
+
+msgctxt "DLC4 Hypnos/KEY_CORRUPTIVE_SPRAY_DESCRIPTION"
+msgid "Organic targets will be corrupted in addition to the standard damage."
+msgstr "有机目标在受到标准伤害的同时，受到腐化效果。"
+
+msgctxt "DLC4 Hypnos/KEY_PEPPER_CLOUD_NAME"
+msgid "PEPPER CLOUD"
+msgstr "胡椒雾"
+
+msgctxt "DLC4 Hypnos/KEY_PEPPER_CLOUD_DESCRIPTION"
+msgid "Reduces Accuracy by 50% of all organic enemies within 5 tiles for 1 turn."
+msgstr "在 1 个回合内，将 5 格内所有有机敌人的准度降低 50%。"
+
+msgctxt "DLC4 Hypnos/KEY_CALL_REINFORCEMENTS_NAME"
+msgid "CALL REINFORCEMENTS"
+msgstr "呼叫增援"
+
+msgctxt "DLC4 Hypnos/KEY_CALL_REINFORCEMENTS_DESCRIPTION"
+msgid "Instantly call a group of reinforcements."
+msgstr "立即呼叫一队增援。"
+
+msgctxt "DLC4 Hypnos/KEY_RESTORE_PANDORAN_ARMOR_NAME"
+msgid "RESTORE PANDORAN ARMOR"
+msgstr "恢复潘多拉体护甲"
+
+msgctxt "DLC4 Hypnos/KEY_RESTORE_PANDORAN_ARMOR_DESCRIPTION"
+msgid "Add 10 armor to all Pandorans within 10 tiles."
+msgstr "为 10 格内所有的潘多拉体增加 10 点护甲。"
+
+msgctxt "DLC4 Hypnos/KEY_CO_CORRUPTION_NAME"
+msgid "CO-CORRUPTION"
+msgstr "联合腐化"
+
+msgctxt "DLC4 Hypnos/KEY_CO_CORRUPTION_DESCRIPTION"
+msgid "All Pandorans in battle gain Corruptive Attack."
+msgstr "所有战斗中的潘多拉体获得腐化攻击。"
+
+msgctxt "DLC4 Hypnos/KEY_CURE_SPRAY_NAME"
+msgid "CURE SPRAY"
+msgstr "治愈扩散"
+
+msgctxt "DLC4 Hypnos/KEY_CURE_SPRAY_DESCRIPTION"
+msgid "Removes all Paralysis, Bleeding, Poison, Strained, Infected, Dazed, and Slowed status effects from target ally and restores 50 Hit Points."
+msgstr "移除目标盟友的所有麻痹、流血、中毒、弱化、感染、眩晕和缓速状态效果并恢复 50 点生命值。"
+
+msgctxt "DLC4 Hypnos/KEY_CORRUPTIVE_CLOUD_NAME"
+msgid "CORRUPTIVE CLOUD"
+msgstr "腐化之雾"
+
+msgctxt "DLC4 Hypnos/KEY_CORRUPTIVE_CLOUD_DESCRIPTION"
+msgid "Corrupt all organic enemies within 10 tiles."
+msgstr "腐化 10 格之内的所有有机敌人。"
+
+msgctxt "DLC4 Hypnos/KEY_RESURRECT_CORPSES_NAME"
+msgid "RESURRECT CORPSES"
+msgstr "尸体复活"
+
+msgctxt "DLC4 Hypnos/KEY_RESURRECT_CORPSES_DESCRIPTION"
+msgid "Transform all human sized corpses within 10 tiles into Arthrons or Tritons."
+msgstr "将 10 格之内的所有人形尸体转换成蟹钳人或触手鱼人。"
+
+msgctxt "DLC4 Hypnos/KEY_GOO_SPRAY_NAME"
+msgid "GOO SPRAY"
+msgstr "黏液扩散"
+
+msgctxt "DLC4 Hypnos/KEY_GOO_SPRAY_DESCRIPTION"
+msgid "Spray goo at target or enemy. Targets will be gooed in addition to damage."
+msgstr "向敌人或目标喷射黏液，使其在受到伤害的同时被粘住。"
+
+msgctxt "DLC4 Hypnos/KEY_CURE_CLOUD_NAME"
+msgid "CURE CLOUD"
+msgstr "治疗之雾"
+
+msgctxt "DLC4 Hypnos/KEY_CURE_CLOUD_DESCRIPTION"
+msgid "Removes all Paralysis, Bleeding, Poison, Strained, Infected, Stunned, and Slowed status effects and restores 50 Hit Points for all allied units within 10 tiles."
+msgstr "移除所有麻痹、流血、中毒、弱化、感染、眩晕和缓速状态效果并恢复 10 格内所有盟友单位 50 点生命值。"
+
+msgctxt "DLC4 Hypnos/KEY_PARALYTIC_CLOUD_NAME"
+msgid "CONFUSION CLOUD"
+msgstr "迷惑云"
+
+msgctxt "DLC4 Hypnos/KEY_PARALYTIC_CLOUD_DESCRIPTION"
+msgid "Reduce enemy Speed and Accuracy by 50% to all organic enemy targets within 10 tiles for 1 turn."
+msgstr "降低 10 格内所有有机敌人目标的速度和准度 50%，持续 1 回合。"
+
+msgctxt "DLC4 Hypnos/KEY_PARALYTIC_SPRAY_NAME"
+msgid "NEUROTOXIC SPRAY"
+msgstr "神经毒性扩散"
+
+msgctxt "DLC4 Hypnos/KEY_PARALYTIC_SPRAY_DESCRIPTION"
+msgid "Disable target body part for 1 turn."
+msgstr "在 1 个回合内，损坏目标身体部件。"
+
+msgctxt "DLC4 Hypnos/KEY_BLINDNESS_CLOUD_NAME"
+msgid "BLINDNESS CLOUD"
+msgstr "致盲之雾"
+
+msgctxt "DLC4 Hypnos/KEY_BLINDNESS_CLOUD_DESCRIPTION"
+msgid "Reduce the perception of organic enemy targets within 10 tiles by 75% for 1 turn."
+msgstr "在 1 个回合内，将 10 格内所有有机敌方目标的感知降低 75%。"
+
+msgctxt "DLC4 Hypnos/KEY_CORROSIVE_CLOUD_NAME"
+msgid "CORROSIVE CLOUD"
+msgstr "酸蚀之雾"
+
+msgctxt "DLC4 Hypnos/KEY_CORROSIVE_CLOUD_DESCRIPTION"
+msgid "Deal 10 acid damage to all enemies within 10 tiles."
+msgstr "对 10 格内的所有敌人造成 10 点酸蚀伤害。"
+
+msgctxt "DLC4 Hypnos/KEY_MUTOID_CANNOT_BE_HEALED_NAME"
+msgid "CANNOT BE HEALED"
+msgstr "不能被治疗"
+
+msgctxt "DLC4 Hypnos/KEY_MUTOID_CANNOT_BE_HEALED_DESCRIPTION"
+msgid "Health can only be restored by Mutagens outside a mission"
+msgstr "只能在任务外用突变原恢复生命值"
+
+msgctxt "DLC4 Hypnos/KEY_CORRUPTION_IMMUNITY_NAME"
+msgid "CORRUPTION IMMUNITY"
+msgstr "腐化免疫"
+
+msgctxt "DLC4 Hypnos/KEY_CORRUPTION_IMMUNITY_DESCRIPTION"
+msgid "Immune to Corruption."
+msgstr "对腐化免疫。"
+
+msgctxt "DLC4 Hypnos/KEY_GEOROSTER_TAB_MUTOID"
+msgid "MUTOIDS"
+msgstr "突变者"
+
+msgctxt "DLC4 Hypnos/KEY_GEOROSTER_TAB_MUTOID_TOOLTIP"
+msgid "Create Mutoid soldiers"
+msgstr "创造突变者士兵"
+
+msgctxt "DLC4 Hypnos/KEY_DAMAGE_TYPE_CORRUPTION"
+msgid "CORRUPTION"
+msgstr "腐化"
+
+msgctxt "DLC4 Hypnos/KEY_DAMAGE_TYPE_CORRUPTION_DESC"
+msgid "Applies Corruption to the target."
+msgstr "对目标施加腐化。"
+
+msgctxt "DLC4 Hypnos/KEY_ROSTER_DEATH_CORRUPTED"
+msgid "CORRUPTION"
+msgstr "腐化"
+
+msgctxt "DLC4 Hypnos/KEY_CURE_CORRUPTION_DIALOG_TITLE"
+msgid "CURE"
+msgstr "治愈"
+
+msgctxt "DLC4 Hypnos/KEY_CURE_CORRUPTION_DIALOG_DESCRIPTION"
+msgid "Your soldier has {0}% Corruption damage."
+msgstr "你的士兵受到了 {0}% 腐化伤害。"
+
+msgctxt "DLC4 Hypnos/KEY_CURE_CORRUPTION_DIALOG_BOTTOM"
+msgid "Do you want to cure them now?"
+msgstr "你想要现在治愈他们吗？"
+
+msgctxt "DLC4 Hypnos/KEY_CURE_CORRUPTION_DIALOG_COST"
+msgid "CURING COST"
+msgstr "治愈花费"
+
+msgctxt "DLC4 Hypnos/KEY_HEAL_MUTOID_BUTTON"
+msgid "HEAL"
+msgstr "治疗"
+
+msgctxt "DLC4 Hypnos/KEY_HEAL_MUTOID_DIALOG_TITLE"
+msgid "HEAL MUTOID"
+msgstr "治疗突变者"
+
+msgctxt "DLC4 Hypnos/KEY_HEAL_MUTOID_DIALOG_DESCRIPTION"
+msgid "This Mutoid has suffered {0}% damage."
+msgstr "此突变者受到了 {0}% 伤害。"
+
+msgctxt "DLC4 Hypnos/KEY_HEAL_MUTOID_DIALOG_BOTTOM"
+msgid "Do you want to heal them now?"
+msgstr "你想要现在治疗他们吗？"
+
+msgctxt "DLC4 Hypnos/KEY_HEAL_MUTOID_DIALOG_COST"
+msgid "HEALING COST"
+msgstr "治疗花费"
+
+msgctxt "DLC4 Hypnos/KEY_GEOSCAPE_ABILITY_NO_MUTAGEN"
+msgid "YOU DON'T HAVE ENOUGH MUTAGENS TO ACQUIRE THIS ABILITY"
+msgstr "没有足够的突变原来获得此技能"
+
+msgctxt "DLC4 Hypnos/KEY_SYNEDRION_MUTOID_NAME"
+msgid "SYNEDRION MUTOID"
+msgstr "平衡议会突变者"
+
+msgctxt "DLC4 Hypnos/KEY_INDEPENDENT_MUTOID_NAME"
+msgid "INDEPENDENT MUTOID"
+msgstr "独立突变者"
+
+msgctxt "DLC4 Hypnos/KEY_CH_ONE_SCENE_1_1"
+msgid "Hello? Anyone?"
+msgstr "你好？有人吗？"
+
+msgctxt "DLC4 Hypnos/KEY_CH_ONE_SCENE_1_2"
+msgid "This is station sigma-seven-one. We need immediate evacuation."
+msgstr "这里是 Σ-7-1 号站点。我们需要立即疏散。"
+
+msgctxt "DLC4 Hypnos/KEY_CH_ONE_SCENE_1_3"
+msgid "I repeat. We need immediate evacuation."
+msgstr "重复一遍。我们需要立即疏散。"
+
+msgctxt "DLC4 Hypnos/KEY_CH_ONE_SCENE_2_1"
+msgid "The facility has been compromised."
+msgstr "这个设施已经被破坏了。"
+
+msgctxt "DLC4 Hypnos/KEY_CH_ONE_SCENE_2_2"
+msgid "Specimen two escaped containment chamber and is roaming throughout the lab!"
+msgstr "样本二号已经逃出了控制舱，跑去了实验室方向！"
+
+msgctxt "DLC4 Hypnos/KEY_CH_ONE_SCENE_3_1"
+msgid "You need to get us out of here and purge the entire facility!"
+msgstr "赶紧把我们都弄出去，然后净化整个设施！"
+
+msgctxt "DLC4 Hypnos/KEY_CH_ONE_SCENE_3_2"
+msgid "The specimen mustn’t be allowed to escape into the open! If it does—"
+msgstr "绝对不能让样本逃到外面去！否则的话--"
+
+msgctxt "DLC4 Hypnos/KEY_CH_ONE_SCENE_4_1"
+msgid "It’s has released the strain variant!"
+msgstr "它已经释放了毒株变体！"
+
+msgctxt "DLC4 Hypnos/KEY_CH_ONE_SCENE_4_2"
+msgid "I’m initiating the self-destruct procedure!"
+msgstr "我正在启动自毁程序！"
+
+msgctxt "DLC4 Hypnos/KEY_CH_ONE_SCENE_4_3"
+msgid "The strain must… not…"
+msgstr "这个毒株绝对…不能…"
+
+msgctxt "DLC4 Hypnos/KEY_CH_TWO_SCENE_1_1"
+msgid "Phoenix point, this is research team one. Area secure."
+msgstr "凤凰点，这里是研究团队一号。我们已经占领这片区域。"
+
+msgctxt "DLC4 Hypnos/KEY_CH_TWO_SCENE_1_2"
+msgid "No hostiles in sight."
+msgstr "没有发现敌人。"
+
+msgctxt "DLC4 Hypnos/KEY_CH_TWO_SCENE_1_3"
+msgid "We're heading into the facility this creature came from."
+msgstr "我们准备前往事故设施。"
+
+msgctxt "DLC4 Hypnos/KEY_CH_TWO_SCENE_1_4"
+msgid "Stand by for direct feed."
+msgstr "稍等，准备直接供电。"
+
+msgctxt "DLC4 Hypnos/KEY_CH_TWO_SCENE_2_1"
+msgid "No idea who owns this place, but they have some serious tech."
+msgstr "不知道这地方是谁的，但是这里的科技确实不错。"
+
+msgctxt "DLC4 Hypnos/KEY_CH_TWO_SCENE_2_2"
+msgid "We're seeing lots of bodies, not all of them human."
+msgstr "这里有许多尸体，有些不是人类的。"
+
+msgctxt "DLC4 Hypnos/KEY_CH_TWO_SCENE_2_3"
+msgid "Whatever broke out from here."
+msgstr "不管逃出去的是什么东西。"
+
+msgctxt "DLC4 Hypnos/KEY_CH_TWO_SCENE_3_1"
+msgid "Looks like gen-research."
+msgstr "看起来像是基因研究的产物。"
+
+msgctxt "DLC4 Hypnos/KEY_CH_TWO_SCENE_3_2"
+msgid "Whatever they were trying to make didn't like being kept in here.[CR]"
+msgstr "他们在这儿造的那个东西，不是很想被关在这里。"
+
+msgctxt "DLC4 Hypnos/KEY_CH_TWO_SCENE_3_3"
+msgid "Holy crap is this ugly! Moving in to further."
+msgstr "我去！这也太丑了！往前走往前走。"
+
+msgctxt "DLC4 Hypnos/KEY_CH_TWO_SCENE_3_4"
+msgid "I'm seeing, more tech here. Looks like… By the maker!"
+msgstr "发现了更多的科技成果。看起来像是…我的天呐！"
+
+msgctxt "DLC4 Hypnos/KEY_CH_TWO_SCENE_4_1"
+msgid "Phoenix Point, we've found something you might want to see."
+msgstr "凤凰点，有必要让你们看看这个东西。"
+
+msgctxt "DLC4 Hypnos/KEY_CH_TWO_SCENE_4_2"
+msgid "Get a lab ready, we're bringing some tech back to base."
+msgstr "准备好实验室，我们会带些科技成果回基地。"
+
+msgctxt "DLC4 Hypnos/KEY_CH_THREE_SCENE_1_1"
+msgid "Internal report seven-seven-dash-one."
+msgstr "内部报告 77-1。"
+
+msgctxt "DLC4 Hypnos/KEY_CH_THREE_SCENE_1_2"
+msgid "Mutoid technology has successfully been integrated in existing Phoenix facilities."
+msgstr "突变者技术已经被整合进了现存的凤凰设施中。"
+
+msgctxt "DLC4 Hypnos/KEY_CH_THREE_SCENE_1_3"
+msgid "After dozens of attempts we have finally succeeded."
+msgstr "数十次尝试之后，我们终于成功了。"
+
+msgctxt "DLC4 Hypnos/KEY_CH_THREE_SCENE_1_4"
+msgid "We have created the first artificially grown soldiers."
+msgstr "我们成功造出了人造士兵。"
+
+msgctxt "DLC4 Hypnos/KEY_CH_THREE_SCENE_2_1"
+msgid "Specimens are referred to as Mutoids, due to the vast amounts of mutagens required for their construction."
+msgstr "因为需要大量的突变原来建造，所以样品被称为突变者。"
+
+msgctxt "DLC4 Hypnos/KEY_CH_THREE_SCENE_2_2"
+msgid "Humanoid, they have the ability to learn any skill they are taught, and perfect it."
+msgstr "这种类人生物，教给他们的所有技能他们都能学会，还能让这些技能更加完善。"
+
+msgctxt "DLC4 Hypnos/KEY_CH_THREE_SCENE_3_1"
+msgid "Additional experimentation has shown them also capable"
+msgstr "额外的实验证明"
+
+msgctxt "DLC4 Hypnos/KEY_CH_THREE_SCENE_3_2"
+msgid "of acquiring the skills of Pandorans whose DNA we have injected them with."
+msgstr "给他们注射潘多拉体的 DNA，他们就能获取这些潘多拉体的技能。"
+
+msgctxt "DLC4 Hypnos/KEY_CH_THREE_SCENE_4_1"
+msgid "Some might view them as abominations, or a product of dubious morality,"
+msgstr "在某些人眼里，他们十分令人厌恶，或者有违道德，"
+
+msgctxt "DLC4 Hypnos/KEY_CH_THREE_SCENE_4_2"
+msgid "but they might prove to be our salvation: a new breed of soldiers,"
+msgstr "但他们也可能是我们的救赎：一种新的士兵，"
+
+msgctxt "DLC4 Hypnos/KEY_CH_THREE_SCENE_4_3"
+msgid "immune to the corruption strain, with the skills of humans and Pandorans alike,"
+msgstr "对腐化免疫，同时拥有人类和潘多拉体的技能，"
+
+msgctxt "DLC4 Hypnos/KEY_CH_THREE_SCENE_4_4"
+msgid "created entirely out of mutagens."
+msgstr "完全由突变原打造而成。"
+
+msgctxt "DLC4 Hypnos/KEY_CH_FOUR_SCENE_1_1"
+msgid "Finally, it is over."
+msgstr "总之，结束了。"
+
+msgctxt "DLC4 Hypnos/KEY_CH_FOUR_SCENE_1_2"
+msgid "After a fighting our way through the lair, we found the spawnery"
+msgstr "一路枪林弹雨通过了大巢穴之后，我们找到了这个产卵舱，"
+
+msgctxt "DLC4 Hypnos/KEY_CH_FOUR_SCENE_1_3"
+msgid "which the first Acheron had infected and obtained a clean sample of the corruption strain."
+msgstr "就是在这里，感染了第一个地狱战士，并且获得了一份腐化毒株的纯净样品。"
+
+msgctxt "DLC4 Hypnos/KEY_CH_FOUR_SCENE_2_1"
+msgid "It wasn't easy. The processing power of the entire Phoenix project"
+msgstr "这一点儿都不轻松。整个凤凰计划的算力"
+
+msgctxt "DLC4 Hypnos/KEY_CH_FOUR_SCENE_2_2"
+msgid "went into analysing a strain to find a cure, but we succeeded."
+msgstr "都用来分析毒株，想要找到治疗方法，但是我们成功了。"
+
+msgctxt "DLC4 Hypnos/KEY_CH_FOUR_SCENE_3_1"
+msgid "An inoculation process began, first on our troops, then our allies,"
+msgstr "接种过程已经开始了，先是我们的部队，然后是我们的盟友，"
+
+msgctxt "DLC4 Hypnos/KEY_CH_FOUR_SCENE_3_2"
+msgid "and finally on anyone who wished to have it."
+msgstr "最后无论谁想接种，都能接种。"
+
+msgctxt "DLC4 Hypnos/KEY_CH_FOUR_SCENE_4_1"
+msgid "Our aircraft flew over the globe,"
+msgstr "我们的飞行器飞过了整个星球，"
+
+msgctxt "DLC4 Hypnos/KEY_CH_FOUR_SCENE_4_2"
+msgid "releasing potent antiviral solutions over corpses and battlefield,"
+msgstr "向战场和尸体释放强力抗病毒试剂，"
+
+msgctxt "DLC4 Hypnos/KEY_CH_FOUR_SCENE_4_3"
+msgid "to eradicate every trace of corruption until there was none."
+msgstr "将每一处腐化的痕迹消灭殆尽。"
+
+msgctxt "DLC4 Hypnos/KEY_CH_FOUR_SCENE_5_1"
+msgid "Now, long after the first Acheron specimen escaped from"
+msgstr "到如今，距离第一个地狱战士样本逃出"
+
+msgctxt "DLC4 Hypnos/KEY_CH_FOUR_SCENE_5_2"
+msgid "an unknown research facility, the horror is over."
+msgstr "那个未知的设施，已经过去了很久，我们终于不用再为此感到恐惧了。"
+
+msgctxt "DLC4 Hypnos/KEY_CH_FOUR_SCENE_5_3"
+msgid "Humanity won this battle, but the larger war rages on…"
+msgstr "人性赢得了这场战斗，但一场更大的战火，依然还在燃烧…"
+
+msgctxt "DLC4 Hypnos/KEY_PROGRESSION_PHOENIX_SKILLS_TITLE"
+msgid "PHOENIX SKILLS"
+msgstr "凤凰技能"
+
+msgctxt "DLC4 Hypnos/KEY_PROGRESSION_PHOENIX_SKILLS_DESCRIPTION"
+msgid "Pick a Phoenix skill from the available specializations"
+msgstr "选择一项可用的凤凰技能"
+
+msgctxt "DLC4 Hypnos/KEY_PROGRESSION_PANDORAN_SKILLS_TITLE"
+msgid "PANDORAN SKILLS"
+msgstr "潘多拉体技能"
+
+msgctxt "DLC4 Hypnos/KEY_PROGRESSION_PANDORAN_SKILLS_DESCRIPTION"
+msgid "Pick a Pandoran skill from those available"
+msgstr "选择一项可用的潘多拉体技能"
+
+msgctxt "DLC4 Hypnos/KEY_PROGRESSION_NO_AVAILABLE_PANDORAN_ SPECIALIZATION"
+msgid "RESEARCH A PANDORAN AUTOPSY TO PROCEED"
+msgstr "研究潘多拉体尸检以继续"
+
+msgctxt "DLC4 Hypnos/KEY_PROGRESSION_MUTAGEN_COST"
+msgid "MUTAGEN COST"
+msgstr "突变原消耗"
+
+msgctxt "DLC4 Hypnos/KEY_PROGRESSION_SKILL_CANNOT_BE_LEARNED"
+msgid "ABILITY CANNOT BE ACQUIRED"
+msgstr "无法获取该技能"
+
+msgctxt "DLC4 Hypnos/KEY_INSPECT_SOLDIER_CORRUPTED"
+msgid "CLICK TO INSPECT"
+msgstr "点击进行调查"
+
+msgctxt "DLC4 Hypnos/KEY_CORRUPTION_STATUS"
+msgid "CORRUPTION STATUS"
+msgstr "腐化状态"
+
+msgctxt "DLC4 Hypnos/KEY_GEOSCAPE_CLEAN_LAIR_MISSION_OBJECTIVE_TITLE"
+msgid "Obtain Corruption Sample from Lair"
+msgstr "从大巢穴中获取腐化样本"
+
+msgctxt "DLC4 Hypnos/KEY_RESURRECT_NAME"
+msgid "RESURRECT"
+msgstr "复活"
+
+msgctxt "DLC4 Hypnos/KEY_RESURRECT_DESCRIPTION"
+msgid "Resurrect a single humanoid target as an Arthron or Triton"
+msgstr "将一个类人生物复活成蟹钳人或触手鱼人"
+
+msgctxt "DLC4 Hypnos/KEY_REDUCE_ENEMY_ACCURACY_NAME"
+msgid "PEPPER CLOUD"
+msgstr "胡椒雾"
+
+msgctxt "DLC4 Hypnos/KEY_REDUCE_ENEMY_ACCURACY_DESCRIPTION"
+msgid "Reduces Accuracy by 50% of all organic enemies within 5 tiles for 1 turn."
+msgstr "在 1 个回合内，将 5 格内所有有机敌人的准度降低 50%。"
+
+msgctxt "DLC4 Hypnos/KEY_REDUCE_ENEMY_SPEED_NAME"
+msgid "CONFUSION CLOUD"
+msgstr "迷惑云"
+
+msgctxt "DLC4 Hypnos/KEY_REDUCE_ENEMY_SPEED_DESCRIPTION"
+msgid "Reduce enemy Speed by 75% to all organic enemy targets within 10 tiles for 1 turn."
+msgstr "在 1 个回合内，将 10 格内所有有机敌方目标的速度降低 75%。"
+
+msgctxt "DLC4 Hypnos/KEY_PARALYZE_LIMB_NAME"
+msgid "PARALYZE LIMB"
+msgstr "肢体瘫痪"
+
+msgctxt "DLC4 Hypnos/KEY_PARALYZE_LIMB_DESCRIPTION"
+msgid "Disable target body part for 1 turn"
+msgstr "在 1 个回合内，损坏敌方身体部件"
+
+msgctxt "DLC4 Hypnos/KEY_LAUNCH_FIREWORM_NAME"
+msgid "LAUNCH FIREWORM"
+msgstr "释放火虫"
+
+msgctxt "DLC4 Hypnos/KEY_LAUNCH_FIREWORM_DESCRIPTION"
+msgid "Launch a Fireworm at a target area"
+msgstr "在目标区域内释放一只火虫"
+
+msgctxt "DLC4 Hypnos/KEY_LAUNCH_POISONWORM_NAME"
+msgid "LAUNCH POISONWORM"
+msgstr "释放毒虫"
+
+msgctxt "DLC4 Hypnos/KEY_LAUNCH_POISONWORM_DESCRIPTION"
+msgid "Launch a Poisonworm at a target area"
+msgstr "在目标区域内释放一只毒虫"
+
+msgctxt "DLC4 Hypnos/KEY_LAUNCH_ACIDWORM_NAME"
+msgid "LAUNCH ACIDWORM"
+msgstr "释放酸虫"
+
+msgctxt "DLC4 Hypnos/KEY_LAUNCH_ACIDWORM_DESCRIPTION"
+msgid "Launch an Acidworm at a target area"
+msgstr "在目标区域内释放一只酸虫"
+
+msgctxt "DLC4 Hypnos/KEY_LAUNCH_GOO_BOMB_NAME"
+msgid "LAUNCH GOO BOMB"
+msgstr "投下黏液炸弹"
+
+msgctxt "DLC4 Hypnos/KEY_LAUNCH_GOO_BOMB_DESCRIPTION"
+msgid "Launch a Goo Bomb at a target area"
+msgstr "在目标区域内投下一枚黏液炸弹"
+
+msgctxt "DLC4 Hypnos/KEY_MUTOID_GOO_SPIT_NAME"
+msgid "GOO SPIT"
+msgstr "黏液喷吐"
+
+msgctxt "DLC4 Hypnos/KEY_MUTOID_GOO_SPIT_DESCRIPTION"
+msgid "Spits goo at short range"
+msgstr "近距离喷吐黏液"
+
+msgctxt "DLC4 Hypnos/KEY_MUTOID_ACID_SPIT_NAME"
+msgid "ACID SPIT"
+msgstr "酸液喷吐"
+
+msgctxt "DLC4 Hypnos/KEY_MUTOID_ACID_SPIT_DESCRIPTION"
+msgid "Spits acid at short range"
+msgstr "近距离喷吐酸液"
+
+msgctxt "DLC4 Hypnos/KEY_MUTOID_SYPHON_ATTACK_NAME"
+msgid "SYPHON ATTACK"
+msgstr "虹吸攻击"
+
+msgctxt "DLC4 Hypnos/KEY_MUTOID_SYPHON_ATTACK_DESCRIPTION"
+msgid "Deal 50 melee damage and restore that many Hit Points"
+msgstr "造成 50 点近战伤害并回复 50 点生命值"
+
+msgctxt "DLC4 Hypnos/KEY_MUTOID_DEATH_BELCH_NAME"
+msgid "DEATH BELCH"
+msgstr "死亡之嗝"
+
+msgctxt "DLC4 Hypnos/KEY_MUTOID_DEATH_BELCH_DESCRIPTION"
+msgid "Spawn a Mindfragger on death"
+msgstr "死亡时孵化一只心控虫"
+
+msgctxt "DLC4 Hypnos/KEY_MUTOID_ACID_EXPLOSION_NAME"
+msgid "ACID EXPLOSION"
+msgstr "酸性爆炸"
+
+msgctxt "DLC4 Hypnos/KEY_MUTOID_ACID_EXPLOSION_DESCRIPTION"
+msgid "Deal Acid damage in surrounding area on death"
+msgstr "死亡时对周围区域造成酸性伤害"
+
+msgctxt "DLC4 Hypnos/KEY_MUTOID_FIRE_EXPLOSION_NAME"
+msgid "FIRE EXPLOSION"
+msgstr "火焰爆炸"
+
+msgctxt "DLC4 Hypnos/KEY_MUTOID_FIRE_EXPLOSION_DESCRIPTION"
+msgid "Deal Fire damage in surrounding area on death"
+msgstr "死亡时对周围区域造成火焰伤害"
+
+msgctxt "DLC4 Hypnos/KEY_MUTOID_POISON_EXPLOSION_NAME"
+msgid "POISON EXPLOSION"
+msgstr "剧毒爆炸"
+
+msgctxt "DLC4 Hypnos/KEY_MUTOID_POISON_EXPLOSION_DESCRIPTION"
+msgid "Deal Poison damage in surrounding area on death"
+msgstr "死亡时对周围区域造成中毒伤害"
+
+msgctxt "DLC4 Hypnos/KEY_MUTOID_VIRAL_EXPLOSION_NAME"
+msgid "VIRAL EXPLOSION"
+msgstr "病毒爆炸"
+
+msgctxt "DLC4 Hypnos/KEY_MUTOID_VIRAL_EXPLOSION_DESCRIPTION"
+msgid "Deal Virus damage in surrounding area on death"
+msgstr "死亡时对周围区域造成病毒伤害"
+
+msgctxt "DLC4 Hypnos/KEY_BUY_MUTOID_MUTOID_DESCRIPTION"
+msgid "Born through science, Mutoids are artificial humanoids created in a lab using mutagens. When combined with human DNA, they have the ability to acquire the abilities of trained soldiers or even dissected Pandorans."
+msgstr "突变者，是在实验室中通过科学手段，用突变原创造出来的人造类人生物。和人类 DNA 结合之后，他们可以获取训练有素的士兵的技能，甚至是经过解剖研究习得的潘多拉体技能。"
+
+msgctxt "DLC4 Hypnos/KEY_BUY_MUTOID_SPECIALIZATION_HEADING"
+msgid "CHOOSE MUTOID SPECIALIZATION"
+msgstr "选择突变者职业"
+
+msgctxt "DLC4 Hypnos/KEY_DLC_CORRUPTED_HORIZONS"
+msgid "CORRUPTED HORIZONS"
+msgstr "腐化地平线"
+
+msgctxt "DLC4 Hypnos/KEY_RECRUITS_DEPLOYMENT_TITLE"
+msgid "DEPLOYMENT"
+msgstr "部署"
+
+msgctxt "DLC4 Hypnos/KEY_RECRUITS_SCREEN_DESCRIPTION"
+msgid "Recruits come from armed groups that have managed to survive on their own in the wilderness. While most of them haven’t undergone official military training, they can be valuable assets for the battle against the Pandorans."
+msgstr "武装部队的新成员已凭借各自的力量，在荒野中存活了下来。虽然他们中的大多数都没有接受过正规的军事训练，但在与潘多拉体的战斗中，他们可以作为我们的宝贵财富。"
+
+msgctxt "DLC4 Hypnos/KEY_BASE_RECRUITS_TRAIN_ACTION"
+msgid "CREATE"
+msgstr "创造"
+
+msgctxt "DLC4 Hypnos/KEY_BASE_RECRUITS_TRAIN_MUTOID_CONFIRMATION"
+msgid "Are you sure you want to create this mutoid for {0}?"
+msgstr "确定要为{0}创造突变者吗？"
+
+msgctxt "DLC4 Hypnos/KEY_BASE_RECRUITS_BUY_MUTOID_NOTIFICATION"
+msgid "{0} {1} has been created and deployed to {2}"
+msgstr "已创造{0} {1}并将其部署到了{2}"
+
+msgctxt "DLC4 Hypnos/KEY_RECRUITS_RECRUITS_SPECIALIZAION_HEADING"
+msgid "CHOOSE RECRUIT SPECIALIZATION"
+msgstr "选择新成员职业"
+
+msgctxt "DLC4 Hypnos/KEY_MUTOID_HEAD_NAME"
+msgid "Mutoid Head"
+msgstr "突变者头部"
+
+msgctxt "DLC4 Hypnos/KEY_MUTOID_HEAD_DESCRIPTION"
+msgid "Genetically constructed Mutoid head"
+msgstr "基因构造的突变者头部"
+
+msgctxt "DLC4 Hypnos/KEY_OBJECTIVE_CAPTURE_ACHERON"
+msgid "CAPTURE THE ACHERON"
+msgstr "捕获地狱战士"
+
+msgctxt "DLC4 Hypnos/KEY_BRIEFING_INFECTED_AREA"
+msgid "CORRUPTED AREA"
+msgstr "腐化区域"
+
+msgctxt "DLC4 Hypnos/KEY_SOLDIER_CORRUPTION_STATUS_TOOLTIP"
+msgid "Dies in {0} days"
+msgstr "[null]"
+
+msgctxt "DLC4 Hypnos/KEY_SOLDIER_CORRUPTION_STATUS_SINGULAR_TOOLTIP"
+msgid "Dies in 1 day"
+msgstr "[null]"
+
+msgctxt "DLC4 Hypnos/KEY_OPTIONS_VEHICLE_AUTO_UNPAUSE"
+msgid "AIRCRAFT GEOSCAPE AUTO UNPAUSE MODE"
+msgstr "飞行器世界地图自动取消暂停模式"
+
+msgctxt "DLC4 Hypnos/KEY_OPTIONS_VEHICLE_UNPAUSE_ALWAYS"
+msgid "ALWAYS"
+msgstr "始终如此"
+
+msgctxt "DLC4 Hypnos/KEY_OPTIONS_VEHICLE_UNPAUSE_ONE_VEHICLE"
+msgid "SINGLE AIRCRAFT"
+msgstr "单个飞行器"
+
+msgctxt "DLC4 Hypnos/KEY_OPTIONS_VEHICLE_UNPAUSE_ALL_VEHICLE_TRAVEL"
+msgid "ALL AIRCRAFT  ARE TRAVELLING"
+msgstr "所有飞行器均在航行中"
+
+msgctxt "DLC4 Hypnos/KEY_OPTIONS_VEHICLE_UNPAUSE_NEVER"
+msgid "NEVER"
+msgstr "始终不"
+
+msgctxt "DLC4 Hypnos/KEY_SITE_INFO_ATTITUDE_PENALTY_AFTER"
+msgid "ATTITUDE CHANGE IN {0}"
+msgstr "{0}时态度转变"
+
+msgctxt "DLC4 Hypnos/KEY_SITE_INFO_ATTITUDE_GAIN_DESTROY"
+msgid "ATTITUDE CHANGE IF DESTROYED"
+msgstr "被毁后态度转变"
+
+msgctxt "DLC4 Hypnos/KEY_ALIEN_RESEARCH_DIPLOMACY_CHANGE"
+msgid "Attitude change due to havens falling within the influence range of revealed Pandoran bases:"
+msgstr "由暴露的潘多拉基地影响范围内的避难所坠落引起的态度转变"
+
+msgctxt "DLC4 Hypnos/KEY_RESEARCH_POINTS_TEXT"
+msgid "RESEARCH"
+msgstr "研究"
+
+msgctxt "DLC4 Hypnos/KEY_CORRUPTION_TICK_NOTIFICATION"
+msgid "The level of corruption has increased among the sick."
+msgstr "[null]"
+
+msgctxt "DLC4 Hypnos/KEY_CORRUPTION_SOLDIER_DIED_NOTIFICATION"
+msgid "The corruption has claimed more victims. {0} people have lost the battle against it."
+msgstr "[null]"
+
+msgctxt "DLC4 Hypnos/KEY_CORRUPTION_SOLDIER_DIED_SINGULAR_NOTIFICATION"
+msgid "The corruption has claimed another victim. A person has died as a result."
+msgstr "[null]"
+
+msgctxt "DLC4 Hypnos/KEY_RESEARCH_UNKNOWN"
+msgid "UNKNOWN"
+msgstr "未知"
+
+msgctxt "DLC4 Hypnos/KEY_MAIN_MENU_CINEMATICS_LIBRARY"
+msgid "CINEMATICS"
+msgstr "电影艺术"
+
+msgctxt "DLC4 Hypnos/KEY_DLC4_OBJECTIVE_TURRETS"
+msgid "Reboot the Security System"
+msgstr "重启安全系统"
+
+msgctxt "DLC4 Hypnos/KEY_DLC4_TAC_HINT_TURRETS_NAME"
+msgid "MISSION UPDATE"
+msgstr "任务更新"
+
+msgctxt "DLC4 Hypnos/KEY_DLC4_TAC_HINT_TURRETS_DESCRIPTION"
+msgid "Upon landing, we've immediately identified an extensive turret security system.[LF]However, it seems to be in a state of disarray.[LF]We've got two options: find a functioning console to reboot it, or activate every turret individually.[LF]Either way, we should hurry, as the system is already under Pandoran attack."
+msgstr "一着陆我们就发现了一个大规模的炮塔安全系统。[LF]然而，系统状态似乎非常混乱。[LF]我们有两个选项：找到一个正常工作的控制台重启系统，或者单独激活每个炮塔。[LF]不管怎样，我们都应该加快速度，因为系统正在被潘多兰体攻击。"
+
+msgctxt "DLC4 Hypnos/KEY_HAVEN_ALERT_COOLDOWN_TIMER"
+msgid "ALERT LEVEL REDUCTION IN {0}"
+msgstr "{0}警觉度等级下降"
+
+msgctxt "DLC4 Hypnos/KEY_DIPSHARESCREEN_TITLE"
+msgid "DIPLOMATIC BENEFITS"
+msgstr "民主利益"
+
+msgctxt "DLC4 Hypnos/KEY_DIPSHARESCREEN_RESEARCH_LIST"
+msgid "RESEARCH SHARED"
+msgstr "共享研究"
+
+msgctxt "DLC4 Hypnos/KEY_DIPSHARESCREEN_RESEARCH_DETAILS"
+msgid "RESEARCH DETAILS"
+msgstr "研究详情"
+
+msgctxt "DLC4 Hypnos/KEY_DIPSHARESCREEN_HINT_ANU"
+msgid "Go to the research tab to view research projects from the Disciples of Anu"
+msgstr "前往研究选项卡查看来自安努门徒教会的研究项目"
+
+msgctxt "DLC4 Hypnos/KEY_DIPSHARESCREEN_HINT_NJ"
+msgid "Go to the research tab to view research projects from New Jericho"
+msgstr "前往研究选项卡查看来自新耶利哥的研究项目"
+
+msgctxt "DLC4 Hypnos/KEY_DIPSHARESCREEN_HINT_SYN"
+msgid "Go to the research tab to view research projects from Synedrion"
+msgstr "前往研究选项卡查看来自平衡议会的研究项目"
+
+msgctxt "DLC4 Hypnos/KEY_DIPSHARESCREEN_ANU_1"
+msgid "The Disciples of Anu have appraised your excellent progress with hierarchy and are willing to share some of their secrets."
+msgstr "安努门徒教会赞赏了你在等级制度方面取得的杰出进步，他们愿意分享一些秘密。"
+
+msgctxt "DLC4 Hypnos/KEY_DIPSHARESCREEN_ANU_2"
+msgid "The Disciples or Anu honour your relationship with the order, and bestow upon you additional revelations of the Dead God's work."
+msgstr "安努门徒教会尊重你与教团的关系，他们还额外向你透露了死神的工作。"
+
+msgctxt "DLC4 Hypnos/KEY_DIPSHARESCREEN_ANU_3"
+msgid "The highest honors are bestowed upon the Phoenix Project for the benefit of our common cause."
+msgstr "为了我们共同的事业，凤凰计划被授予最高荣誉。"
+
+msgctxt "DLC4 Hypnos/KEY_DIPSHARESCREEN_ANU_4"
+msgid "Now that Phoenix is aligned with the Disciples of Anu, all current and future research will be shared with the Phoenix Project."
+msgstr "现在凤凰已与安努门徒教会保持一致，将与凤凰计划共享当前和未来的所有研究。"
+
+msgctxt "DLC4 Hypnos/KEY_DIPSHARESCREEN_ANU_5"
+msgid "Now that we have reached an alliance with the Disciples, all research is shared, and we can assist with any new research projects they may consider."
+msgstr "新耶利哥欢迎朋友与我们一起抗击共同的敌人，他们渴望与凤凰计划扩大合作。"
+
+msgctxt "DLC4 Hypnos/KEY_DIPSHARESCREEN_NJ_1"
+msgid "New Jericho welcome friends in the fight against our common foe, and are eager to extend cooperation with the Phoenix Project."
+msgstr "新耶利哥与我们共享了更多的重点研究项目，期待在不久的将来开展进一步合作。"
+
+msgctxt "DLC4 Hypnos/KEY_DIPSHARESCREEN_NJ_2"
+msgid "New Jericho have shared some more of their key research projects with us, in anticipation of further cooperation in the near future."
+msgstr "现在我们已与新耶利哥保持一致，他们正在与我们共享重要的研究。"
+
+msgctxt "DLC4 Hypnos/KEY_DIPSHARESCREEN_NJ_3"
+msgid "New Jericho see a common cause with the Phoenix Project, and are will to share more research with us."
+msgstr "新耶利哥看到了与凤凰项目的共同事业，他们并愿意与我们共享更多的研究。"
+
+msgctxt "DLC4 Hypnos/KEY_DIPSHARESCREEN_NJ_4"
+msgid "Now that Phoenix is aligned with New Jericho, all current and future research will be shared with the Phoenix Project."
+msgstr "现在凤凰已与新耶利哥保持一致，将与凤凰计划共享当前和未来的所有研究。"
+
+msgctxt "DLC4 Hypnos/KEY_DIPSHARESCREEN_NJ_5"
+msgid "An alliance with New Jericho offers a potential solution to the Pandoravirus problem. All their research is shared with us, and we may assist any new research projects they devise."
+msgstr "与新耶利哥结盟为潘多拉病毒问题提供了一个潜在的解决方案。他们与我们共享了他们的所有研究，我们可以为他们设计的任何新研究项目提供协助。"
+
+msgctxt "DLC4 Hypnos/KEY_DIPSHARESCREEN_SYN_1"
+msgid "As a celebration of friendship and cooperation, Synedrion has shared some of their key research with us."
+msgstr "为庆祝对友谊与合作，平衡议会与我们共享了他们的一些关键研究。"
+
+msgctxt "DLC4 Hypnos/KEY_DIPSHARESCREEN_SYN_2"
+msgid "Continued collaboration with Synedrion has resulted in further shared research projects."
+msgstr "与平衡议会的持续合作带来了进一步的共同研究项目。"
+
+msgctxt "DLC4 Hypnos/KEY_DIPSHARESCREEN_SYN_3"
+msgid "A common purpose makes us stronger. Synedrion have shared some key research with us."
+msgstr "共同的目标让我们更加强大。平衡议会与我们共享了一些关键研究。"
+
+msgctxt "DLC4 Hypnos/KEY_DIPSHARESCREEN_SYN_4"
+msgid "Now that Phoenix is aligned with Synedrion, all current and future research will be shared with the Phoenix Project."
+msgstr "现在凤凰已与平衡议会保持一致，将与凤凰计划共享当前和未来的所有研究。"
+
+msgctxt "DLC4 Hypnos/KEY_DIPSHARESCREEN_SYN_5"
+msgid "Now that an alliance has been forged with Synedrion, all research is shared and we may collaborate on any future research projects that Synedrion devise."
+msgstr "现在已与平衡议会结盟，共享所有研究，我们可以在平衡议会设计的任何进一步研究中开展合作。"
+
+msgctxt "DLC4 Hypnos/KEY_FACTION_SOLDIER_JOIN_TITLE"
+msgid "A SOLDIER WISHES TO JOIN YOUR FACTION"
+msgstr "一位士兵想要加入你的派系"
+
+msgctxt "DLC4 Hypnos/KEY_FACTION_SOLDIER_JOIN_CONFIRMATION"
+msgid "DO YOU WANT TO ALLLOW THE SOLDIER TO JOIN US?"
+msgstr "你想让这个士兵加入我们吗？"
+
+msgctxt "DLC4 Hypnos/KEY_HACK_ABILITY_NAME"
+msgid "INITIATE HACKING"
+msgstr "启动入侵"
+
+msgctxt "DLC4 Hypnos/KEY_HACK_ABILITY_DESCRIPTION"
+msgid "Initiate hacking routines on the nearby terminal to access secure data. The hacking process will take 2 turns, but can be interrupted."
+msgstr "在附近的终端上启动入侵程序可访问安全数据。入侵过程需要 2 个回合，但可以中断。"
+
+msgctxt "DLC4 Hypnos/KEY_CANCEL_HACKING_NAME"
+msgid "CANCEL HACKING"
+msgstr "取消入侵"
+
+msgctxt "DLC4 Hypnos/KEY_CANCEL_HACKING_DESCRIPTION"
+msgid "Stop hacking and ready weapon. Interrupted hacking attempts will need to be restarted."
+msgstr "停止入侵并准备武器。需要重新尝试中断入侵。"
+
+msgctxt "DLC4 Hypnos/KEY_HACKING_STATUS_NAME"
+msgid "HACKING"
+msgstr "正在入侵"
+
+msgctxt "DLC4 Hypnos/KEY_HACKING_STATUS_DESCRIPTION"
+msgid "This operative is in the process of hacking into a terminal. They won't be able to perform any other tasks for 2 turns."
+msgstr "这名特工正在入侵一个终端。其在 2 回合内无法执行其他任务。"
+
+msgctxt "DLC4 Hypnos/KEY_MIST_REPELLING_ABILITY_NAME"
+msgid "REPELLING MIST"
+msgstr "正在驱散迷雾"
+
+msgctxt "DLC4 Hypnos/KEY_MIST_REPELLING_ABILITY_DESCRIPTION"
+msgid "Remove all mist within a 2 tile radius while moving."
+msgstr "移动时驱散 2 格范围内的所有迷雾。"
+
+msgctxt "DLC4 Hypnos/KEY_CINEMATIC_BT_CUTSCENE_1"
+msgid "(BT) Echo from the Past"
+msgstr "(BT)过去的回声"
+
+msgctxt "DLC4 Hypnos/KEY_CINEMATIC_BT_CUTSCENE_2"
+msgid "(BT) An Enemy Forsaken"
+msgstr "(BT)被抛下的敌人"
+
+msgctxt "DLC4 Hypnos/KEY_CINEMATIC_BT_CUTSCENE_3"
+msgid "(BT) Secret Alliance"
+msgstr "(BT)秘密联盟"
+
+msgctxt "DLC4 Hypnos/KEY_CINEMATIC_BT_CUTSCENE_4"
+msgid "(BT) The Challenge"
+msgstr "(BT)挑战"
+
+msgctxt "DLC4 Hypnos/KEY_CINEMATIC_BT_CUTSCENE_5"
+msgid "(BT) Final Act"
+msgstr "(BT)最终法案"
+
+msgctxt "DLC4 Hypnos/KEY_CINEMATIC_DA_ENDING_CUTSCENE"
+msgid "World of the Exalted"
+msgstr "圣尊的世界"
+
+msgctxt "DLC4 Hypnos/KEY_CINEMATIC_DA_INTRO_CUTSCENE"
+msgid "Disciples of Anu"
+msgstr "安努门徒教会"
+
+msgctxt "DLC4 Hypnos/KEY_CINEMATIC_FS_CUTSCENE1DEF"
+msgid "(FS) Comet of the Cursed"
+msgstr "(FS)诅咒者的彗星"
+
+msgctxt "DLC4 Hypnos/KEY_CINEMATIC_FS_CUTSCENE2DEF"
+msgid "(FS) The Gift: Arrival"
+msgstr "(FS)礼物：到达"
+
+msgctxt "DLC4 Hypnos/KEY_CINEMATIC_FS_CUTSCENE2ENDDEF"
+msgid "(FS) The Gift: Leavetaking"
+msgstr "(FS)礼物：离开"
+
+msgctxt "DLC4 Hypnos/KEY_CINEMATIC_FS_CUTSCENE3DEF"
+msgid "(FS) The Festering Skies"
+msgstr "(FS)溃烂天空"
+
+msgctxt "DLC4 Hypnos/KEY_CINEMATIC_FS_CUTSCENE4DEF"
+msgid "(FS) Behemoth"
+msgstr "(FS)巨兽"
+
+msgctxt "DLC4 Hypnos/KEY_CINEMATIC_FS_CUTSCENE5DEF"
+msgid "(FS) A Gargantuan Triumph"
+msgstr "(FS)伟大的胜利"
+
+msgctxt "DLC4 Hypnos/KEY_CINEMATIC_GAME_INTRO_CUTSCENE"
+msgid "The Hottest Year"
+msgstr "最热的一年"
+
+msgctxt "DLC4 Hypnos/KEY_CINEMATIC_HYPNOS_CUTSCENE1DEF"
+msgid "(CH) Corruption Breach"
+msgstr "(CH)腐化缺口"
+
+msgctxt "DLC4 Hypnos/KEY_CINEMATIC_HYPNOS_CUTSCENE2DEF"
+msgid "(CH) Gene Ethics"
+msgstr "(CH)基因伦理"
+
+msgctxt "DLC4 Hypnos/KEY_CINEMATIC_HYPNOS_CUTSCENE3DEF"
+msgid "(CH) Soldiers in Vials"
+msgstr "(CH)维拉斯的士兵"
+
+msgctxt "DLC4 Hypnos/KEY_CINEMATIC_HYPNOS_CUTSCENE4DEF"
+msgid "(CH) The Cure"
+msgstr "(CH)治愈"
+
+msgctxt "DLC4 Hypnos/KEY_CINEMATIC_LOA_CUTSCENE_0"
+msgid "(LoA) Helena"
+msgstr "(LoA)海伦娜"
+
+msgctxt "DLC4 Hypnos/KEY_CINEMATIC_LOA_CUTSCENE_1"
+msgid "(LoA) The Antedeluvian Link"
+msgstr "(LoA)安特德鲁维安连接"
+
+msgctxt "DLC4 Hypnos/KEY_CINEMATIC_LOA_CUTSCENE_2"
+msgid "(LoA) The Adamantium Forge"
+msgstr "(LoA)安特德鲁维安熔炉"
+
+msgctxt "DLC4 Hypnos/KEY_CINEMATIC_LOA_CUTSCENE_3"
+msgid "(LoA) The Vapors of Life"
+msgstr "(LoA)生命蒸汽"
+
+msgctxt "DLC4 Hypnos/KEY_CINEMATIC_LOA_CUTSCENE_4"
+msgid "(LoA) The Crystal Fields"
+msgstr "(LoA)水晶之地"
+
+msgctxt "DLC4 Hypnos/KEY_CINEMATIC_LOA_CUTSCENE_5"
+msgid "(LoA) The Ancients' Solution"
+msgstr "(LoA)古人的谜底"
+
+msgctxt "DLC4 Hypnos/KEY_CINEMATIC_NJ_ENDING_CUTSCENE"
+msgid "World of Tobias West"
+msgstr "托拜厄斯·韦斯特的世界"
+
+msgctxt "DLC4 Hypnos/KEY_CINEMATIC_NJ_INTRO_CUTSCENE"
+msgid "New Jericho"
+msgstr "新耶利哥"
+
+msgctxt "DLC4 Hypnos/KEY_CINEMATIC_PP_ENDING_CUTSCENE"
+msgid "World of the Phoenix"
+msgstr "凤凰的世界"
+
+msgctxt "DLC4 Hypnos/KEY_CINEMATIC_PP_ENDING_PALACE_DEFEAT_CUTSCENE"
+msgid "Humanity's Fall"
+msgstr "人性的陨落"
+
+msgctxt "DLC4 Hypnos/KEY_CINEMATIC_PP_INTRO_CUTSCENE"
+msgid "The Phoenix Initiative"
+msgstr "凤凰计划"
+
+msgctxt "DLC4 Hypnos/KEY_CINEMATIC_PP_SYMES_ANTARCTIC_CUTSCENE"
+msgid "The Antartic Mission"
+msgstr "南极任务"
+
+msgctxt "DLC4 Hypnos/KEY_CINEMATIC_PP_SYMES_CHINESESINKHOLE_CUTSCENE"
+msgid "The Chinese Sinkhole"
+msgstr "中国落水洞"
+
+msgctxt "DLC4 Hypnos/KEY_CINEMATIC_PP_SYMES_CRYOLAB_CUTSCENE"
+msgid "The Cryolab"
+msgstr "低温实验室"
+
+msgctxt "DLC4 Hypnos/KEY_CINEMATIC_PP_SYMES_OGLETHORPE_CUTSCENE"
+msgid "The Oglethorpe Secret"
+msgstr "奥格尔绍普之谜"
+
+msgctxt "DLC4 Hypnos/KEY_CINEMATIC_PP_SYMES_PANDORAVIRUS_CUTSCENE"
+msgid "The Pandoravirus"
+msgstr "潘多拉病毒"
+
+msgctxt "DLC4 Hypnos/KEY_CINEMATIC_PP_SYMES_PHOENIXFILES_CUTSCENE"
+msgid "The Phoenix Archives"
+msgstr "凤凰档案"
+
+msgctxt "DLC4 Hypnos/KEY_CINEMATIC_PP_SYMES_RETREAT_CUTSCENE"
+msgid "Symes' Retreat"
+msgstr "赛姆斯隐居地"
+
+msgctxt "DLC4 Hypnos/KEY_CINEMATIC_PP_SYMES_SYBERIA_CUTSCENE"
+msgid "The Siberian Research"
+msgstr "西伯利亚研究"
+
+msgctxt "DLC4 Hypnos/KEY_CINEMATIC_PP_SYMES_YUGGOTHIANENTITY_CUTSCENE"
+msgid "The Yuggothian Entity"
+msgstr "犹格斯实体"
+
+msgctxt "DLC4 Hypnos/KEY_CINEMATIC_SYN_ENDING_PARLIAMENT_CUTSCENE"
+msgid "Synedrion's Brave New World"
+msgstr "平衡议会的勇敢新世界"
+
+msgctxt "DLC4 Hypnos/KEY_CINEMATIC_SYN_ENDING_TERRAFORM_CUTSCENE"
+msgid "Synedrion's Just New World"
+msgstr "平衡议会的公正新世界"
+
+msgctxt "DLC4 Hypnos/KEY_CINEMATIC_SYN_INTRO_CUTSCENE"
+msgid "Synedrion"
+msgstr "平衡议会"
+
+msgctxt "DLC4 Hypnos/TUTORIAL1_CUTSCENE"
+msgid "The Scarab"
+msgstr "圣甲虫"
+
+msgctxt "DLC4 Hypnos/TUTORIAL2_CUTSCENE"
+msgid "The Reclamation Station"
+msgstr "回收站"
+
+msgctxt "DLC4 Hypnos/TUTORIAL2_ITEMSFROMCRATE_C_CUTSCENE"
 msgid "[null]"
 msgstr "[null]"
 
-msgctxt "DLC4 Hypnos/KEY_GEO_HINT_ENEMY_SPECIAL_CORRUPTION_OVER_DESCRIPTION"
+msgctxt "DLC4 Hypnos/TUTORIAL2_ITEMSFROMCRATE_K_CUTSCENE"
 msgid "[null]"
 msgstr "[null]"
+
+msgctxt "DLC4 Hypnos/TUTORIAL2_OMARJUMP_C_CUTSCENE"
+msgid "[null]"
+msgstr "[null]"
+
+msgctxt "DLC4 Hypnos/TUTORIAL2_OMARJUMP_K_CUTSCENE"
+msgid "[null]"
+msgstr "[null]"
+
+msgctxt "DLC4 Hypnos/TUTORIAL3_CUTSCENE"
+msgid "The Battle of Phoenix Point"
+msgstr "Phoenix Point 之战"
+
+msgctxt "DLC4 Hypnos/TUTORIAL3_ROTATECAMERA_C_CUTSCENE"
+msgid "[null]"
+msgstr "[null]"
+
+msgctxt "DLC4 Hypnos/TUTORIAL3_ROTATECAMERA_K_CUTSCENE"
+msgid "[null]"
+msgstr "[null]"
+
+msgctxt "DLC4 Hypnos/TUTORIAL4_CUTSCENE"
+msgid "Our New Home"
+msgstr "我们的新家"
+
+msgctxt "DLC4 Hypnos/TUTORIAL4_TRADE_C_CUTSCENE"
+msgid "[null]"
+msgstr "[null]"
+
+msgctxt "DLC4 Hypnos/TUTORIAL4_TRADE_K_CUTSCENE"
+msgid "[null]"
+msgstr "[null]"
+
+msgctxt "DLC4 Hypnos/KEY_MUTOID_CURE_SPRAY_DESCRIPTION"
+msgid "Removes all Paralysis, Bleeding, Poison, Strained, Infected, Dazed, and Slowed status effects from target ally."
+msgstr "移除目标盟友的所有麻痹、流血、中毒、弱化、感染、眩晕和缓速状态效果。"
+
+msgctxt "DLC4 Hypnos/KEY_GEO_HINT_RESEARCH_SHARING_TITLE"
+msgid "RESEARCH SHARING"
+msgstr "正在共享研究"
+
+msgctxt "DLC4 Hypnos/KEY_GEO_HINT_RESEARCH_SHARING_DESCRIPTION"
+msgid "As your reputation improves with a faction, it will occasionally share some of its unique research with you.[LF][LF]You will still need to do some research on these shared items in order to fully understand them. Shared research is indicated in the research screen by the logo of the faction that shared it."
+msgstr "随着你的派系声誉提升，他们会偶尔与你共享一些他们的独家研究。[LF]你仍然需要对这些共享项目做一些研究，你才能完全理解它们。共享研究在研究页面中以共享研究的派系徽标表示。"
+
+msgctxt "DLC4 Hypnos/KEY_GEO_HINT_PANDORAN_BASE_DIPLOMACY_EFFECTS_TITLE"
+msgid "DIPLOMACY EFFECTS OF PANDORAN BASES"
+msgstr "潘多拉基地的外交影响"
+
+msgctxt "DLC4 Hypnos/KEY_GEO_HINT_PANDORAN_BASE_DIPLOMACY_EFFECTS_DESCRIPTION"
+msgid "Factions and haven leaders will react negatively to revealed Pandoran bases if you fail to destroy them. If a faction has havens within the influence range of a Pandoran base, the diplomacy penalty will be even greater. The diplomacy penalty will only become active on the next Pandoran research report, and then you will have four days to destroy the base before the penalty is applied on the subsequent Pandoran research report.[LF][LF]The Pandoran base information panel will show the faction diplomacy penalties (and the penalty for each haven leader) within the base’s influence range. It will also show how many days remaining before the effect applies. It will also show the diplomacy gains for destroying the base. While the panel is displayed you can see the influence range of the base as a purple circle on the globe."
+msgstr "如果你不能摧毁潘多拉基地，派系和避难所领袖会对已暴露的潘多拉基地做出负面反应。如果某个派系有避难所处于潘多拉影响范围内，将会造成更大的外交惩罚。外交惩罚将在下一次潘多拉研究报告中生效，在惩罚生效前，你有 4 天的时间摧毁基地。潘多拉基地信息面板会显示基地影响范围内派系的外交惩罚（以及每个避难所领袖的惩罚）。它还会显示效果生效前的剩余时间。它还会显示从摧毁基地中获得的外交收益。面板显示时，你可以在地球仪上看到紫色圆圈表示的基地影响范围。"
+
+msgctxt "DLC4 Hypnos/KEY_RESEARCH_SHARED_THROUGH_DIPLOMACY"
+msgid "A new research project has been shared with you"
+msgstr "一个新的研究项目已与您分享"
 
 msgctxt "Blood Titanium/KEY_ARTHRON_ACID_GRENADE_ARM_DESCRIPTION"
 msgid "Organic Grenade Launcher"
@@ -5171,8 +6347,8 @@ msgid "RAGE BURST"
 msgstr "愤怒爆发"
 
 msgctxt "Abilities/KEY_ONSLAUGHT_DESCRIPTION"
-msgid "An ally within 10 tiles recovers 2 Action Points"
-msgstr "一名 10 个方格以内的盟友恢复 2 点行动点数"
+msgid "An ally within 10 tiles recovers 2 Action Points. Limited to one use per turn."
+msgstr "一名 10 个方格以内的盟友恢复 2 点行动点数。每回合限用一次。"
 
 msgctxt "Abilities/KEY_ONSLAUGHT_NAME"
 msgid "ONSLAUGHT"
@@ -5464,11 +6640,11 @@ msgstr "使用医疗包"
 
 msgctxt "Abilities/KEY_USE_ADVANCED_MEDKIT_DESCRIPTION"
 msgid "Restore {GeneralHealAmount} Hit Points and remove bleeding, poison, and 50% paralysis"
-msgstr "[null]"
+msgstr "恢复 {GeneralHealAmount} 点生命值，并移除流血和中毒"
 
 msgctxt "Abilities/KEY_USE_ADVANCED_MEDKIT_NAME"
 msgid "USE MEDKIT"
-msgstr "[null]"
+msgstr "使用医疗包"
 
 msgctxt "Abilities/KEY_VANISH_DESCRIPTION"
 msgid "Move within 5 tiles and disappear from view for the next turn (or until spotted)"
@@ -5655,7 +6831,7 @@ msgid "EXTREME FOCUS"
 msgstr "极限聚焦"
 
 msgctxt "Abilities/KEY_SNIPER_QUICK_AIM_DESCRIPTION"
-msgid "The Action Point cost of the next shot with a proficient weapon is reduced by 1"
+msgid "The Action Point cost of the next shot with a proficient weapon is reduced by 1."
 msgstr "使用精通武器进行下次射击的行动点数消耗减少 1 点"
 
 msgctxt "Abilities/KEY_SNIPER_QUICK_AIM_NAME"
@@ -5663,7 +6839,7 @@ msgid "QUICK AIM"
 msgstr "快速瞄准"
 
 msgctxt "Abilities/KEY_SNIPER_WEAK_SPOT_DESCRIPTION"
-msgid "Disabling a body part also removes that body part's armor"
+msgid "Disabling a body part also removes that body part's armor."
 msgstr "某个身体部位被损坏时，该部位的护甲也会被移除"
 
 msgctxt "Abilities/KEY_SNIPER_WEAK_SPOT_NAME"
@@ -6035,7 +7211,7 @@ msgid "BRAWLER"
 msgstr "好斗者"
 
 msgctxt "Abilities/KEY_HEAVY_BRAWLER_DESCRIPTION"
-msgid "Get Melee weapon proficiency and perfrom Bash and Melee attacks with 50% increased damage."
+msgid "Get Melee weapon proficiency and perform Bash and Melee attacks with 50% increased damage."
 msgstr "获得近战武器精通，并且施展猛击与近战攻击时可额外造成 50% 的伤害。"
 
 msgctxt "Abilities/KEY_FISHMAN_DOUBLEBLADESTRIKE_ABILITY_NAME"
@@ -7724,7 +8900,7 @@ msgstr "迷雾代表潘多拉病毒在全球传播的进程。潘多拉变异体
 
 msgctxt "Tutorial/KEY_TUTORIAL_MIST_DESCRIPTION_2"
 msgid "The mist represents THE PROGRESSION OF THE PANDORAVIRUS as it spreads throughout the globe. The Pandoran mutations will attempt to build colonies on areas of land covered by the mist, which will then attack nearby havens.[LF][LF]To meet this threat you will need to produce equipment.[LF][LF]SELECT THE \"\"TECH CENTER\"\" BUTTON AND GO TO \"\"MANUFACTURING\"\"[LF]"
-msgstr "[null]"
+msgstr "迷雾代表潘多拉病毒在全球传播的进程。潘多拉变异体试图在迷雾覆盖的土地上建立殖民地，然后攻击附近的避难所。[LF][LF] 为了应对这一威胁，你需要生产各种设备。[LF][LF] 选择“技术中心”按钮并前往“制造”"
 
 msgctxt "Tutorial/KEY_TUTORIAL_DOOMCLOCK_NAME"
 msgid "Human Population"
@@ -8167,7 +9343,7 @@ msgid "Inventory"
 msgstr "物品栏"
 
 msgctxt "Tutorial 1 (Polaris)/KEY_TUT_INVENTORYACTION_DESCRIPTION"
-msgid "The Inventory shows everything carried by a soldier, and items on the ground or in adjacent crates.[CR][LF][CR][LF]ENCUMBRANCE[CR][LF]If the weight of all carried items and armor is greater than the soldier's Strength then the soldier suffers a movement penalty.[CR][LF]The tactical inventory display is divided into three sections.[CR][LF][CR][LF]READY: Contains items that are currently equipped and ready for immediate use.[CR][LF]BACKPACK: Holds all items carried, but not equipped.[CR][LF]GROUND: Items on the soldier’s tile, or in surrounding tiles."
+msgid "The Inventory shows everything carried by a soldier, and items on the ground or in adjacent crates.[LF][LF]ENCUMBRANCE[LF]If the weight of all carried items and armor is greater than the soldier's Strength then the soldier suffers a movement penalty.[LF]The tactical inventory display is divided into three sections.[LF][LF]READY: Contains items that are currently equipped and ready for immediate use.[LF]BACKPACK: Holds all items carried, but not equipped.[LF]GROUND: Items on the soldier’s tile, or in surrounding tiles."
 msgstr "物品栏显示士兵携带的所有物品以及地上和相邻箱子中的物品。[LF][LF] 负重[LF] 如果所有携带的物品和护甲的重量之和大于士兵的力量，士兵将受到移动惩罚。[LF]战术物品栏指示器分成三个分区。[LF][LF] 就绪区：包含当前装备并可立即使用的物品。[LF]背包区：包含所有已携带但未装备的物品。[LF]地面区：士兵所在方格或周围方格里的物品。"
 
 msgctxt "Tutorial 1 (Polaris)/KEY_TUT_INVENTORYNOAP_NAME"
@@ -8259,7 +9435,7 @@ msgid "Recover"
 msgstr "恢复"
 
 msgctxt "Tutorial 1 (Polaris)/KEY_TUT_RECOVER_DESCRIPTION"
-msgid "A soldier can recover half of their Will Points by spending all 4 Action Points on the RECOVER ability. Timing is key!"
+msgid "A soldier can recover half of their Will Points by spending all 4 Action Points on the RECOVER ability. This also grants them immunity to Panic for one turn. Timing is key!"
 msgstr "士兵可以使用恢复技能，花费全部的 4 点行动点数来恢复一半的意志力点数。使用时机至关重要！"
 
 msgctxt "Tutorial 1 (Polaris)/KEY_TUT_PANIC_NAME"
@@ -8475,7 +9651,7 @@ msgid "Action controls[LF][LF][LF]Select Action: Use <size=60>:RT:</size> to ent
 msgstr "行动控制[LF] [LF] 选择行动：使用 <size=60>:RT:</size> 进入行动条，用 <size=60>:DLEFT:</size> 和 <size=60>:DRIGHT:</size> 进行选择，并按 <size=60>:A:</size> 执行。[LF] [LF] 移动：按 <size=60>:A:</size> 然后选择“移动”即可前往选择标记位置"
 
 msgctxt "Tutorial 2 to 4/KEY_OPTIONS_SHOW_TACTICAL_HINTS"
-msgid "SHOW TACTICAL CONTEXT HINTS"
+msgid "SHOW CONTEXT HINTS"
 msgstr "显示战术环境提示"
 
 msgctxt "Tutorial 2 to 4/KEY_UI_HINTS_TOGGLE"
@@ -8971,8 +10147,8 @@ msgid "Tactical Tip: Bash"
 msgstr "战术提示：猛击"
 
 msgctxt "Tutorial 2 to 4/KEY_TUT3_BASH_DESCRIPTION"
-msgid "When your soldier is next to an enemy, you can perform the BASH (:BASH:) melee attack. [LF][LF]It only costs 1 Action Point, so you can usually Bash an enemy multiple times in the same turn.[LF][LF]If you're bashing a MINDFRAGGED SOLDIER, make sure you target the creature!"
-msgstr "当你的士兵位于敌人旁边时，可以发动猛击 (:BASH:) 近战攻击。[LF] [LF] 猛击只需花费 1 点行动点数，因此你通常可以多次向敌人发起猛击。[LF][LF] 如果你要对被心控虫控制的士兵发动猛击，一定要瞄准那个生物！"
+msgid "When your soldier is next to an enemy, you can perform the BASH (:BASH:) melee attack. [LF][LF]It only costs 1 Action Point, so you can usually Bash an enemy multiple times in the same turn."
+msgstr "当你的士兵位于敌人旁边时，可以发动猛击 (:BASH:) 近战攻击。[LF] [LF] 猛击只需花费 1 点行动点数，因此你通常可以多次向敌人发起猛击。"
 
 msgctxt "Tutorial 2 to 4/KEY_TUT_ASSAULT3_MALE"
 msgid "Takeshi Sato"
@@ -9047,8 +10223,8 @@ msgid "Will Points (WPs)"
 msgstr "意志力点数 (WP)"
 
 msgctxt "Tutorial 2 to 4/KEY_TUT4_WILLPOINTS_DESCRIPTION"
-msgid "Characters start battle with WILL POINTS (WPs) equal to their Willpower.[LF][LF]WPs are spent on SPECIAL ABILITIES such as Omar's Jet Jump.[LF]Soldiers lose WPs when their allies die, and recover WPs when using the RECOVER ability, open crates, or kill enemies. [LF]When a unit's WPs reach 0, it PANICS."
-msgstr "角色在战斗开始时拥有与其意志力属性相同的意志力点数 (WP)。[LF] [LF] 使用特殊技能需要消耗意志力点数，比如奥马尔的“喷射跳跃”。[LF]士兵在盟友死亡时会失去意志力点数，使用“恢复”技能、打开箱子或击杀敌人时可恢复意志力点数。[LF]当单位的意志力点数变为 0 时，就会陷入恐慌。"
+msgid "Characters start battle with WILL POINTS (WPs) equal to their Willpower.[LF][LF]WPs are spent on SPECIAL ABILITIES.[LF]Soldiers lose WPs when their allies die, and recover WPs when using the RECOVER ability, open crates, or kill enemies. [LF]When a character's WPs drop below 0, they PANIC."
+msgstr "角色在战斗开始时拥有与其意志力属性相同的意志力点数 (WP)。[LF] [LF] 使用特殊技能需要消耗意志力点数。[LF]士兵在盟友死亡时会失去意志力点数，使用“恢复”技能、打开箱子或击杀敌人时可恢复意志力点数。[LF]当单位的意志力点数变为 0 时，就会陷入恐慌。"
 
 msgctxt "Tutorial 2 to 4/KEY_TUT4_BODYPART_NAME"
 msgid "Body Part Disabled"
@@ -9267,7 +10443,7 @@ msgid "Status Effects"
 msgstr "状态效果"
 
 msgctxt "Phoenixpedia/KEY_PHOENIXPEDIA_GUIDE_STATUS_EFFECTS_DESCRIPTION"
-msgid "Status effects can apply to the entire character or only to a specific body part.[LF][LF]While the status effects of a unit is can be seen on the health indicator above the character's head, body part statuses are only visible from the Character Info screen. The only exceptions are when a body part is wounded or disabled, which are indicated on the damage display to the left of the health indicator.[LF][LF]STATUS EFFECTS SUMMARY[LF]ACID: Acid corrodes the armor by the Acid value (per turn). If there is no armor, then the damage is applied to the body part. Acid value reduces by 10 per turn.[LF]BLEEDING: Each turn, lose Hit Points equal to bleed value.[LF]BURNING: Fire damage is applied to each body part at the start of the turn, subtracting armor.[LF]FRENZIED: Speed increased by 50% and immune to panic.[LF]GOOED: Unable to move until Goo decays or is removed.[LF]INFECTED BY VIRUS: At start of turn virus is subtracted from Will Points, then virus value is reduced by 1.[LF]PANICKED: Unable to move for a turn, while recovering Will Points.[LF]POISONED: At start of turn, poison is subtracted from Hit Points, then poison value is reduced by 10.[LF]PREPARING: (Pandoran Sentinel and Egg only) Preparing to activate special ability on the next turn.[LF]BERSERK: (Mutog only) Mutog becomes wild, attacking friend or foe.[LF]ENRAGED: (Mutog only) Damage dealt and speed are increased by 50%. There's a 10% chance the Mutog will go Berserk at the start of each turn.[LF]ALERTED: (Enemy only). Enemy is aware of your presence.[LF]TIRED: (caused by entering a battle with low Stamina) -1 Action Point each turn.[LF]EXHAUSTED: (caused by entering a battle with low Stamina) -2 Action Point each turn.[LF]PARALYZED: Cannot move or perform any actions.[LF]PARALYSIS: Action Points are reduced by the proportion of paralysis value to Strength.[LF]DAZED: Action Points reduced to 1 and accuracy halved. Abilities requiring Will Points cannot be used.[LF]OVERWATCH: Enemies entering the overwatch cone will trigger an attack.[LF]SONIC: Dazes the target is the target's Will Points are less than the amount of Sonic Damage"
+msgid "Status effects can apply to the entire character or only to a specific body part.[LF][LF]While the status effects of a unit is can be seen on the health indicator above the character's head, body part statuses are only visible from the Character Info screen. The only exceptions are when a body part is wounded or disabled, which are indicated on the damage display to the left of the health indicator.[LF][LF]STATUS EFFECTS SUMMARY[LF]ACID: Acid corrodes the armor by the Acid value (per turn). If there is no armor, then the damage is applied to the body part. Acid value reduces by 10 per turn.[LF]BLEEDING: Each turn, lose Hit Points equal to bleed value.[LF]BURNING: Fire damage is applied to each body part at the start of the turn, subtracting armor.[LF]FRENZIED: Speed increased by 50% and immune to panic.[LF]GOOED: Unable to move until Goo decays or is removed.[LF]INFECTED BY VIRUS: At start of turn virus is subtracted from Will Points, then virus value is reduced by 1.[LF]PANICKED: Unable to move for a turn, while recovering Will Points.[LF]POISONED: At start of turn, poison is subtracted from Hit Points, then poison value is reduced by 10.[LF]PREPARING: (Pandoran Sentinel and Egg only) Preparing to activate special ability on the next turn.[LF]BERSERK: (Mutog only) Mutog becomes wild, attacking friend or foe.[LF]ENRAGED: (Mutog only) Damage dealt and speed are increased by 50%. There's a 10% chance the Mutog will go Berserk at the start of each turn.[LF]ALERTED: (Enemy only). Enemy is aware of your presence.[LF]TIRED: (caused by entering a battle with low Stamina) -1 Action Point each turn.[LF]EXHAUSTED: (caused by entering a battle with low Stamina) -2 Action Point each turn.[LF]PARALYZED: Cannot move or perform any actions.[LF]PARALYSIS: Action Points are reduced by the proportion of paralysis value to Strength.[LF]DAZED: Action Points reduced to 1 and accuracy halved. Abilities requiring Will Points cannot be used.[LF]OVERWATCH: Enemies entering the overwatch cone will trigger an attack.[LF]SONIC: Dazes the target if the target's Will Points are less than the amount of Sonic Damage"
 msgstr "状态效果可以施加于整个角色，也可以只施加于特定的身体部位。[LF][LF] 单位的状态效果可以在角色头部上方的健康指示器上查看，而身体部位的状态只能在角色信息界面上显示。不过，当某个身体部位受伤或损坏时，健康指示器左侧的伤害显示将会予以表明。[LF][LF] 状态效果概览[LF] 酸蚀：酸蚀每回合腐蚀 10 点护甲。如果没有护甲，伤害将直接作用于身体部位。酸蚀值每回合降低 10 点。[LF] 流血：每回合失去等同于流血数值的生命值。[LF]燃烧：回合开始时，将减去护甲之后的火焰伤害作用于所有身体部位。[LF]疯狂：速度增加 50% 并且免疫恐慌。[LF]粘住：在粘液消散或被移除前无法移动。[LF]病毒感染：回合开始时，意志力点数扣除病毒值，随后病毒值减少 1 点。[LF] 恐慌：恢复意志力点数时的一回合内无法移动。[LF]中毒：回合开始时，生命值扣除毒性值，随后毒性值减少 10 点。[LF] 准备中：（仅潘多拉哨兵和卵）准备在下一回合激活特殊技能。[LF]狂暴：（仅变异犬）变异犬陷入狂暴，不分敌我发动攻击。[LF]暴怒：（仅变异犬）造成的伤害和速度增加 50％。变异犬在每回合开始时有 10％ 几率变得“狂暴”。[LF] 警觉：（仅敌人）。敌人察觉到了你的存在。[LF]疲劳：（由进入战斗时耐力较低而造成）每回合 -1 点行动点数。[LF] 筋疲力尽：（由进入战斗时耐力较低而造成）每回合 -2 点行动点数。[LF] 麻痹：不能移动，也不能执行任何行动。[LF]麻痹：按照麻痹值与力量值的比例减少行动点数。[LF]眩晕：行动点数减少至 1 点且准度减半，无法使用意志力点数技能。[LF]警戒：进入锥形警戒区的敌人将触发一次攻击。"
 
 msgctxt "Phoenixpedia/KEY_PHOENIXPEDIA_GUIDE_HAVENS_NAME"
@@ -9283,8 +10459,8 @@ msgid "Advanced: Factions and Diplomacy"
 msgstr "高级：派系和外交"
 
 msgctxt "Phoenixpedia/KEY_PHOENIXPEDIA_GUIDE_FACTIONS_DESCRIPTION"
-msgid "Other than the Phoenix Project, three main factions remain in the world: New Jericho, Synedrion, and the Disciples of Anu. Each of them exerts substantial control over the majority of Havens that remain in the world.[LF][LF][LF]In the course of the game, each faction will offer series of Diplomacy missions. Completing these missions will allow you to improve relations with them. Important diplomacy missions are given at the highest point of relationship levels Friendly (24), Supportive (49) and Aligned (74).[LF][LF][LF]RELATIONSHIP LEVELS[LF]Allied: (attitude 75+) The Phoenix Project can research the allied faction's research projects. Attacking allied faction Havens puts you immediately At War.[LF]Aligned: (attitude 50 - 74) The faction shares all completed research projects with the Phoenix Project.[LF]Supportive: (attitude 25 - 49) When the Phoenix Project discovers a Haven, belonging to the faction, it will be revealed instantly.[LF]Friendly: (attitude 1 - 24) Standard relations.[LF]Unfriendly: (attitude -25  - 0) Cannot Trade or Recruit from Haven Leaders with such an attitude.[LF]Hostile: (attitude -25 - -49) No special effect.[LF]Aggressive: (attitude -50 - 74) No special effect.[LF]At War: (attitude -75) The faction will attempt to attack your bases. Relations cannot improve from this point."
-msgstr "除了凤凰计划之外，世界上还有三个主要派系：新耶利哥、平衡议会，以及安努门徒教会。世界上现存的大部分避难所都由这三个派系所控制着。[LF][LF]在游戏过程中，每个派系都会提供一系列外交任务。完成这些任务可提升你与这些派系之间的关系。在达到关系等级的最高点时（友好为 24 点，支持为 49 点，一致为 74 点）会触发重要的外交任务。[LF][LF]关系等级[LF]结盟：（态度 75+）凤凰计划可以研究盟友派系的研究项目。攻击结盟派系的避难所会使你立刻进入开战状态。[LF]一致：（态度 50 - 74）该派系会与凤凰计划共享所有已完成的研究项目。[LF]支持：（态度 25 - 49）当凤凰计划发现属于该派系的一个避难所时，它会立即显示位置。[LF]友好：（态度 1 - 24）标准关系。[LF]不友好：（态度 -25 - 0）不能与避难所领袖交易或进行招募。[LF]敌对：（态度 -25 - -49）无特殊效果。[LF]侵略：（态度 -50 - -74）无特殊效果。[LF]开战：（态度 -75）该派系将试图攻击你的基地。从这时起，关系将无法得到改善。"
+msgid "Other than the Phoenix Project, three main factions remain in the world: New Jericho, Synedrion, and the Disciples of Anu. Each of them exerts substantial control over the majority of Havens that remain in the world.[LF][LF]In the course of the game, each faction will offer series of Diplomacy missions. Completing these missions will allow you to improve relations with them. Important diplomacy missions are given at the highest point of relationship levels Friendly (24), Supportive (49) and Aligned (74).[LF][LF]RELATIONSHIP LEVELS[LF]Allied: (attitude 75+) The Phoenix Project can research all the allied faction's research projects. Attacking allied faction Havens puts you immediately At War.[LF]Aligned: (attitude 50 - 74) The faction shares significant research projects with the Phoenix Project.[LF]Supportive: (attitude 25 - 49) When the Phoenix Project discovers a Haven, belonging to the faction, it will be revealed instantly without exploration.[LF]Friendly: (attitude 1 - 24) Standard relations.[LF]Unfriendly: (attitude -25  - 0) Cannot Trade or Recruit from Haven Leaders with such an attitude.[LF]Hostile: (attitude -25 - -49) No special effect.[LF]Aggressive: (attitude -50 - 74) No special effect.[LF]At War: (attitude -75) The faction will attempt to attack your bases. Relations cannot improve from this point."
+msgstr "除了凤凰计划之外，世界上还有三个主要派系：新耶利哥、平衡议会，以及安努门徒教会。世界上现存的大部分避难所都由这三个派系所控制着。[LF][LF]在游戏过程中，每个派系都会提供一系列外交任务。完成这些任务可提升你与这些派系之间的关系。在达到关系等级的最高点时（友好为 24 点，支持为 49 点，一致为 74 点）会触发重要的外交任务。[LF][LF]关系等级[LF]结盟：（态度 75+）凤凰计划可以研究盟友派系的研究项目。攻击结盟派系的避难所会使你立刻进入开战状态。[LF]一致：（态度 50 - 74）该派系会与凤凰计划共享所有重要的研究项目。[LF]支持：（态度 25 - 49）当凤凰计划发现属于该派系的一个避难所时，它会立即显示位置。[LF]友好：（态度 1 - 24）标准关系。[LF]不友好：（态度 -25 - 0）不能与避难所领袖交易或进行招募。[LF]敌对：（态度 -25 - -49）无特殊效果。[LF]侵略：（态度 -50 - -74）无特殊效果。[LF]开战：（态度 -75）该派系将试图攻击你的基地。从这时起，关系将无法得到改善。"
 
 msgctxt "Phoenixpedia/KEY_PHOENIXPEDIA_GUIDE_SEARCH"
 msgid "Type here to search"
@@ -9452,19 +10628,19 @@ msgstr "卵会在受到打扰后的 1 回合内孵化。建议你在孵化开始
 
 msgctxt "General Tactical Hints/KEY_TAC_HINT_PERCEPTION_NAME"
 msgid "PERCEPTION"
-msgstr "[null]"
+msgstr "感知"
 
 msgctxt "General Tactical Hints/KEY_TAC_HINT_PERCEPTION_DESCRIPTION"
 msgid "A character's PERCEPTION determines the distance, in tiles, from which the unit can spot a human-sized enemy. [LF][LF]Perception is modified by the lighting conditions, mist, size and STEALTH value of the enemy."
-msgstr "[null]"
+msgstr "角色的感知将决定单位发现人形敌人的距离（即方格数）。[LF][LF] 感知能力将受到敌人的光照条件、迷雾、大小和潜行数值。"
 
 msgctxt "General Tactical Hints/KEY_TAC_HINT_STEALTH_NAME"
 msgid "STEALTH"
-msgstr "[null]"
+msgstr "潜行"
 
 msgctxt "General Tactical Hints/KEY_TAC_HINT_STEALTH_DESCRIPTION"
 msgid "The STEALTH value of a character modifies the Perception of enemies. The more Steath a character has, the more difficult they'll be spotted.[LF][LF][LF]Stealth is affected by the ARMOR WORN and some special abilities."
-msgstr "[null]"
+msgstr "角色的潜行数值会影响敌人的感知能力。潜行数值越高，角色就越难被敌人发现。[LF][LF] 潜行会受到穿戴的护甲和特殊技能的影响。"
 
 msgctxt "General Tactical Hints/KEY_TAC_HINT_ENEMY_EGG_NAME"
 msgid "PANDORAN - EGG"
@@ -9879,16 +11055,16 @@ msgid "HAVEN DEFENSE MISSION - CIVILIAN RESCUE"
 msgstr "避难所防守任务 - 营救平民"
 
 msgctxt "General Tactical Hints/KEY_TAC_HINT_MISSION_HAVENDEFENSE_CIVILIANS_DESCRIPTION"
-msgid "Defeat all enemy forces, while ensuring that the civilians remain alive. Moving next to a civilian will allow you to control them and evacuate them from the battlefield."
-msgstr "击败所有敌军，同时确保平民存活。靠近平民可以对其进行控制，将他们撤离战场。"
+msgid "Defeat all enemy forces, while ensuring that the civilians remain alive. Moving next to a civilian will allow you to control them and evacuate them from the battlefield.[LF][LF]One surviving haven defender may volunteer to join Phoenix."
+msgstr "击败所有敌军，同时确保平民存活。靠近平民可以对其进行控制，将他们撤离战场。[LF][LF]我们幸存的避难所防卫者有可能自愿加入凤凰。"
 
 msgctxt "General Tactical Hints/KEY_TAC_HINT_MISSION_HAVENDEFENSE_STRUCTURES_NAME"
 msgid "HAVEN DEFENSE MISSION - STRUCTURE DEFENSE"
 msgstr "避难所防守任务 - 建筑防御"
 
 msgctxt "General Tactical Hints/KEY_TAC_HINT_MISSION_HAVENDEFENSE_STRUCTURES_DESCRIPTION"
-msgid "Defeat all enemy forces before they damage the key structures of the Haven. You can take control of haven defenders by moving next to them, if you wish."
-msgstr "在敌人破坏避难所的关键建筑之前将其全部击败。如果你愿意的话，可以靠近避难所的防卫者来控制他们。"
+msgid "Defeat all enemy forces before they damage the key structures of the Haven. You can take control of haven defenders by moving next to them, if you wish.[LF][LF]One surviving haven defender may volunteer to join Phoenix."
+msgstr "在敌人破坏避难所的关键建筑之前将其全部击败。如果你愿意的话，可以靠近避难所的防卫者来控制他们。[LF][LF]我们幸存的避难所防卫者有可能自愿加入凤凰。"
 
 msgctxt "General Tactical Hints/KEY_TAC_HINT_MISSION_BASEDEFENSE_NAME"
 msgid "BASE DEFENSE MISSION"
@@ -9943,8 +11119,8 @@ msgid "STEAL RESEARCH MISSION"
 msgstr "窃取研究任务"
 
 msgctxt "General Tactical Hints/KEY_TAC_HINT_MISSION_STEAL_RESEARCH_DESCRIPTION"
-msgid "Get a soldier to the terminals, and activate the OBJECTIVE ability to collect any available research."
-msgstr "让一名士兵前往终端，激活“目标”技能来收集可用的研究。"
+msgid "Get soldiers to 3 different terminals and activate the HACK ability, then evacuate your squad."
+msgstr "将士兵带到 3 个不同的终端并激活 HACK 能力，然后疏散您的小队"
 
 msgctxt "General Tactical Hints/KEY_TAC_HINT_MISSION_STEAL_AIRCRAFT_NAME"
 msgid "STEAL AIRCRAFT MISSION"
@@ -9956,11 +11132,11 @@ msgstr "让一名士兵前往飞行器附近的目标标记处，并激活“目
 
 msgctxt "General Tactical Hints/KEY_TAC_HINT_MARK_OF_THE_VOID_NAME"
 msgid "MARK OF THE VOID"
-msgstr "[null]"
+msgstr "虚空印记"
 
 msgctxt "General Tactical Hints/KEY_TAC_HINT_MARK_OF_THE_VOID_DESCRIPTION"
 msgid "The Yuggothian Receptacle applies dangerous Marks of the Void to our operatives, damaging them and nearby allies every turn. We should aim for the creature's eyes. Disabling an eye will remove one of those Marks."
-msgstr "[null]"
+msgstr "犹格斯容器会给我们的特工打上危险的虚空印记，每回合都会对我们的特工和周围的盟友造成伤害。我们应该瞄准它的眼睛进行攻击。每破坏一个眼睛都会移除一个印记。"
 
 msgctxt "Tactical/KEY_NUMBER_OF_SHOTS"
 msgid "x {0} shots"
@@ -10513,6 +11689,54 @@ msgstr "获得更多飞行器"
 msgctxt "Geoscape Hints/KEY_GEO_HINT_MORE_AIRCRAFT_DESC"
 msgid "In order to improve the reach and effectiveness of the Phoenix organisation you will need more aircraft. An aircraft with a small squad or vehicle can be used to explore. Having two or more full combat squads in different continents will improve your abilitiy to take on missions. You have two ways to get more aircraft:[LF][LF]BUILD: Building an aircraft is slow, so this is best done when you have 3 or more Fabrication Plants across your bases, and plenty of resources.[LF][LF]STEAL: The quickest way to get another aircraft is to steal it. You need a squad at the same location as another faction's aircraft. Then you can select the STEAL AIRCRAFT mission from the site menu, or the haven info screen. This will antagonize the faction owning the aircraft."
 msgstr "为了提高凤凰组织的影响范围和效率，你需要更多的飞行器。搭乘小规模队伍或载具的飞行器可用于执行探索。在不同的大洲拥有至少两支完整的战斗小队将提高你执行任务的能力。你有两种方法来获得更多飞行器：[LF][LF] 建造：建造一架飞行器十分缓慢，因此你的基地中最好拥有 3 座或以上的制造厂，并且有足够的资源。[LF][LF] 窃取：获得另一架飞行器的最快途径就是窃取。你需要将一支小队与另一个派系的飞行器部署在同一位置。然后从地点菜单或避难所信息界面，选择“窃取飞行器”任务。这将激怒拥有该飞行器的派系。"
+
+msgctxt "Geoscape Hints/KEY_GEO_HINT_PHOENIX_QUEST_LINE_NAME"
+msgid "THE PHOENIX PATH"
+msgstr "凤凰之道"
+
+msgctxt "Geoscape Hints/KEY_GEO_HINT_PHOENIX_QUEST_LINE_DESCRIPTION"
+msgid "All critical Phoenix objectives are marked with the Phoenix Point symbol (:PXQUEST:) in the Objectives panel.[LF][LF]Completing these objectives will bring you closer to solving the Pandoravirus crisis.[LF][LF]Taking this course is NOT THE ONLY PATH TO VICTORY."
+msgstr "目标面板中的所有重要的凤凰目标都标有凤凰点标记（:PXQUEST:）。[LF][LF] 完成这些目标能让您进一步解决潘多拉病毒危机。[LF][LF] 这条路并不是通往胜利的唯一途径。"
+
+msgctxt "Geoscape Hints/KEY_GEO_HINT_NO_WEAPON_NOTIFICATION_NAME"
+msgid "EMPTY READY SLOTS"
+msgstr "就绪物品槽为空"
+
+msgctxt "Geoscape Hints/KEY_GEO_HINT_NO_WEAPON_NOTIFICATION_DESCRIPTION"
+msgid "An operative inside an aircaft has :NOWEAPON: NO WEAPONS IN ANY READY SLOT.[LF][LF]It is best to equip them with at least one weapon and other useful items such as ammo, grenades, or medkits before deploying them for their next mission.[LF][LF]The operative will be able to equip items found on the battlefield or carried in friendly soldiers' inventories."
+msgstr "飞行器内的特工拥有:NOWEAPON:就绪物品槽没有武器。[LF][LF] 在部署他们进行下一次任务之前，最好给他们至少装备一件武器和其他有用的物品，如弹药、手雷或医疗包。[LF][LF] 特工将能够装备战场上发现的物品或友军士兵库存中携带的物品。"
+
+msgctxt "Geoscape Hints/KEY_GEO_HINT_CYBERNETICS_LAB_BUILT_NAME"
+msgid "AUGMENTATION NOW AVAILABLE"
+msgstr "强化现在可用"
+
+msgctxt "Geoscape Hints/KEY_GEO_HINT_CYBERNETICS_LAB_BUILT_DESCRIPTION"
+msgid "The construction of your Cybernetics Lab is complete. You will now be able to AUGMENT SOLDIERS, replacing their natural limbs with powerful cybernetics.[LF][LF][LF]To Augment a soldier, navigate to the PERSONNEL tab, select EDIT UNIT and then select AUGMENT."
+msgstr "您的神经机械实验室已经完工。您现在可以强化士兵的力量，用强大的神经机械取代他们自己的肢体。[LF][LF] 若要强化士兵，请前往到“人员”选项卡，选择“编辑单位”，然后选择“强化”。"
+
+msgctxt "Geoscape Hints/KEY_GEO_HINT_AUGMENTATION_SCREEN_NAME"
+msgid "AUGMENTING A SOLDIER"
+msgstr "正在强化士兵"
+
+msgctxt "Geoscape Hints/KEY_GEO_HINT_AUGMENTATION_SCREEN_DESCRIPTION"
+msgid "You are about to augment your first soldier. A character can only have UP TO 2 BODY PARTS replaced this way.[LF][LF]Once an augmentation is installed, the soldier will not be able to revert back to their natural limbs. However, augmented body parts CAN BE SWAPPED with different cybernetic parts.[LF][LF]Augmented body parts are IMMUNE TO BLEEDING and RESISTANT TO VIRAL DAMAGE, POISON, AND PARALYSIS. Damaged cybernetics CAN BE REPAIRED after battle at the expense of Tech and Materials. "
+msgstr "您即将强化您的第一个士兵。一个角色最多只能通过这种方式替换 2 个身体部位。[LF] [LF] 一旦强化完成，士兵将无法重新恢复自己的肢体。但是，强化的身体部位可以与不同的神经机械部位交换。[LF][LF] 强化的身体部位可以免疫出血，抵抗病毒伤害、中毒和瘫痪。受损的神经机械可以在战斗后使用技术和材料进行修复。"
+
+msgctxt "Geoscape Hints/KEY_GEO_HINT_MUTATION_LAB_BUILT_NAME"
+msgid "MUTATION NOW AVAILABLE"
+msgstr "变异现在可用"
+
+msgctxt "Geoscape Hints/KEY_GEO_HINT_MUTATION_LAB_BUILT_DESCRIPTION"
+msgid "The construction of your Mutation Lab is complete. You will now be able to MUTATE SOLDIERS, replacing their natural limbs with ones enhanced by Pandoravirus mutation.[LF][LF][LF]To Mutate a soldier, navigate to the PERSONNEL tab, select EDIT UNIT and then select MUTATE."
+msgstr "您的变异实验室已经完工。您现在可以变异士兵，用被潘多拉变异加强的肢体取代他们自己的肢体。[LF][LF] 若要变异士兵，请前往到“人员”选项卡，选择“编辑单位”，然后选择“变异”。"
+
+msgctxt "Geoscape Hints/KEY_GEO_HINT_MUTATION_SCREEN_NAME"
+msgid "MUTATING A SOLDIER"
+msgstr "正在变异士兵"
+
+msgctxt "Geoscape Hints/KEY_GEO_HINT_MUTATION_SCREEN_DESCRIPTION"
+msgid "You are about to mutate your first soldier. A character can only have UP TO 2 BODY PARTS altered this way.[LF][LF]Once a mutation is applied, the operative won't be able to revert back to their natural limbs. However, mutated body parts CAN BE SWAPPED with different mutation variants.[LF][LF]The :PRIEST: PRIEST soldier class has access to UNIQUE HEAD MUTATIONS greatly enhancing their powers."
+msgstr "您即将变异您的第一个士兵。一个角色最多只能通过这种方式改变 2 个身体部位。[LF] [LF] 一旦变异完成，特工将无法重新恢复自己的肢体。但是，变异的身体部位可以与不同的变异部位交换。[LF][LF] :PRIEST:牧师士兵拥有与众不同的头部变异，可以大大增强他们的力量。"
 
 msgctxt "Customization/KEY_CUSTOM_CUSTOMIZE"
 msgid "CUSTOMIZE"
@@ -13039,12 +14263,12 @@ msgid "ZOOM OUT"
 msgstr "缩小"
 
 msgctxt "Controls/KEY_CONTROLS_TACTICAL_DPAD_RIGHT"
-msgid "INVENTORY[LF]SELECT ACTION RIGHT"
-msgstr "物品栏[LF] 选择行动右"
+msgid "UNIT INFO[LF]SELECT ACTION RIGHT"
+msgstr "单位信息  [LF] 选择行动右"
 
 msgctxt "Controls/KEY_CONTROLS_TACTICAL_DPAD_LEFT"
-msgid "UNIT INFO[LF]SELECT ACTION LEFT"
-msgstr "单位信息[LF] 选择行动左"
+msgid "INVENTORY[LF]SELECT ACTION LEFT"
+msgstr " 物品栏[LF] 选择行动左"
 
 msgctxt "Controls/KEY_CONTROLS_TACTICAL_BACK"
 msgid "OPEN GAME MENU"
@@ -14203,7 +15427,7 @@ msgid "PRIVACY POLICY [LF]Last updated December 09, 2020 [LF][LF][LF]Thank you f
 msgstr "隐私政策 [LF]最后更新日期 2020 年 12 月 9 日 [LF][LF][LF]感谢您选择成为 Snapshot Games Inc.（以下简称“公司”或“我们”）社区的一员。我们致力于保护您的个人信息和隐私权。如果您对我们的政策或我们对您个人信息的使用有任何问题或疑虑，请通过 contact@snapshotgames.com 与我们联系。[LF][LF]在本隐私政策中，我们力求以最清晰的方式向您解释我们会收集哪些信息、如何使用这些信息以及您对这些信息拥有的权利。[LF][LF]本隐私政策适用于我们在游戏（例如 Phoenix Point:Year One Edition）中收集的所有信息，我们在本隐私政策中统称为“游戏”。 任何相关服务，例如我们的网站、销售、营销或活动，都可能受到单独政策的约束 [LF][LF]请仔细阅读本隐私政策，这样有助于您在与我们分享个人信息方面作出明智决定。[LF][LF]目录 [LF]1.我们会收集哪些信息？[LF]2.我们如何使用您的信息？[LF]3.您的信息是否会被分享给任何人？[LF]4.您的信息是否会在国际间传输？[LF]5.我们会将您的信息保留多久？[LF]6.我们是否会收集未成年人的信息？[CR][LF]7.您有哪些隐私权？[CR][LF]8.禁止跟踪功能的控件 [CR][LF]9.加州居民是否有特定隐私权？[CR][LF]10.我们是否会更新本政策？[CR][LF]11.如果您要咨询有关本政策的问题，该如何联系我们？[LF][LF][LF][LF]1.我们会收集哪些信息？[LF][LF]匿名游戏数据 [LF]简言之：我们会收集有关您在游戏中所作决定和所采取行动的数据。这些数据经过匿名处理，不包含任何个人身份信息。[LF][LF][LF]您自愿披露的个人信息：[LF]简言之：如果您选择与我们分享，我们可能会收集您的电子邮件地址、姓名和其他可能的信息，例如您在我们销售游戏的各类服务中的用户 ID 等。我们不会在游戏中自动收集个人信息。而是只在您愿意时，由您选择加入并与我们分享此类信息。[LF][LF]您提供给我们的所有个人信息必须真实、完整和准确，并且必须在此类个人信息发生任何变更时通知我们。[LF][LF]自动收集的信息 [LF]简言之：当您访问我们的网站和/或包括营销、销售和活动在内的其他在线服务时，我们会自动收集一些信息，例如 IP 地址和/或浏览器和设备特征。[LF]当您访问、使用或浏览我们的 Web 服务时，我们会自动收集某些信息。这些信息不会透露您的具体身份（例如姓名或联系信息），但可能包括设备和使用信息，例如 IP 地址、浏览器和设备特征、操作系统、语言偏好、引荐网址、设备名称、国家/地区、位置、有关您如何以及何时使用我们的游戏和网络服务的信息，以及其他技术信息。这些信息主要用于维护游戏的安全性和运行，以及内部分析和报告目的。与许多企业一样，我们也会通过 Cookie 和类似技术来收集信息。[LF][LF][LF]2.我们如何使用您的信息？[LF]简言之：我们处理您信息的目的基于合法的商业利益、履行与您之间的合同、遵守我们的法律义务和/或您的同意。[LF]我们使用有关您在我们游戏中体验的匿名信息来改进游戏，并进行与商业和客户服务相关的统计分析。[LF][LF]我们将您通过游戏和网络服务与我们分享的个人信息用于以下所述的各种商业目的。出于这些目的，我们依据合法的商业利益处理您的个人信息，以便在您的同意下签订或履行与您之间的合同，和/或遵守我们的法律义务。我们在下文列出的每个目的旁注明我们的具体处理依据。[LF][LF]我们可能会将收集或接收的信息用于以下用途：[LF][LF]向您发送营销和促销信息。如果符合您的营销偏好，我们和/或我们的第三方营销合作伙伴可能会将您发送给我们的个人信息用于营销目的。您可以随时选择拒收我们的营销电子邮件（请参阅下文“您有哪些隐私权”）。[LF][LF]向您发送管理信息。我们可能会使用您的个人信息向您发送产品、服务及新功能信息和/或有关我们的条款、条件和政策变更的信息。[LF][LF][LF][LF]向您投放有针对性的广告。我们可能会使用您的信息来开发和显示适合您的兴趣和/或所在地的内容和广告（并与负责这些开发和显示的第三方合作），以及评估其有效性。[LF][LF]请求反馈。我们可能会使用您的信息来请求反馈，并与您取得联系以便咨询您对我们的游戏和其他服务的使用情况。[LF][LF]用于其他商业目的。我们可能会将您的信息用于其他商业目的，例如数据分析、识别使用趋势、确定促销活动的有效性以及评估和改善我们的游戏及其他服务、产品、营销和您的体验。我们可能会以汇总和匿名的形式使用和存储这些信息，使其不会关联到最终用户个体，并且不包含个人信息。未经您的同意，我们不会使用包含身份的个人信息。[LF][LF]3.您的信息是否会被分享给任何人？[LF]简言之：我们只会在经过您的同意、遵守法律、为您提供服务、保护您的权利或履行商业义务时分享信息。[LF][LF]我们可能会基于以下法律依据处理或分享数据：[LF]同意：如果您已明确允许我们将您的个人信息用于特定目的，我们可能会对您的数据进行处理。[LF][LF]合法权益：在实现我们的合法商业利益合理且必要时，我们可能会对您的数据进行处理。[LF][LF]履行合同：如果我们与您签订了合同，可能会对您的个人信息进行处理以履行合同条款。[LF][LF]法律义务：我们可能会在法律要求的情况下披露您的信息，以遵守适用法律、政府要求、司法程序、法院命令或法律程序，例如响应法院命令或传票（包括响应公共机构以满足国家安全或执法要求）。[LF][LF][LF]重要利益：我们可能会在我们认为有必要就可能违反我们的政策、涉嫌欺诈、涉及任何人身安全的潜在威胁和非法活动的情况进行调查、预防或采取行动时，或是在我们参与的诉讼中作为证据披露您的信息。[LF]更加确切地来说，我们在以下情况下可能需要处理您的数据或分享您的个人信息：[LF]供应商、顾问和其他第三方服务提供商。我们可能会与为我们或代表我们提供服务并需要访问此类信息以进行此类工作的第三方供应商、服务提供商、承包商或代理商共享您的数据。例如：付款处理、数据分析、电子邮件发送、托管服务、客户服务和营销活动。我们可能允许选定的第三方在我们的游戏或相关网络服务中使用跟踪技术，这会使他们能够收集有关您在一段时间内如何与此类游戏和服务交互的数据。这些信息可能会用于分析和跟踪数据、确定某些内容的受欢迎程度以及更好地理解在线活动等。除非本政策中有所描述，否则我们不会出于推广宣传目的，向第三方分享、出售、出租或交易您的任何信息。[LF][LF]业务转让。我们可能会在任何合并、出售公司资产、融资或另一家公司收购我们全部或部分业务的谈判期间分享或转让您的信息。[LF][LF]4.您的信息是否会在国际间传输？[LF]简言之：我们可能会与您所在国家/地区之外的其他国家/地区传输、存储和处理您自愿与我们分享的匿名数据和信息。[LF][LF]如果您是欧洲经济区的居民，这些国家/地区可能没有像您所在国家/地区那样全面的数据保护或其他法律。不过，我们会根据本隐私政策和适用法律，采取一切必要措施保护您的个人信息。[LF][LF]5.我们会将您的信息保留多久？[LF]简言之：除非法律另有要求，否则我们会根据实现本隐私政策中所述目的，保留您的匿名和自愿分享的个人信息。[LF]除非法律要求或允许更长的保留期限（例如税务、会计或其他法律要求），否则我们只会在本隐私政策规定的必要时间范围内保留您的个人信息。[LF]当我们没有需要处理您个人信息的现行合法业务时，我们会将这些信息删除或匿名处理，或者，如果无法做到（例如，由于您的个人信息已存储在备份档案中），我们会安全地存储您的个人信息，并将其隔离以防止任何进一步处理，直到其删除。[LF][LF]6.我们是否会收集未成年人的信息？[LF]简言之：我们不会有意收集 18 岁以下儿童的数据或向儿童推销。[LF]我们不会有意索取 18 岁以下儿童的数据或向儿童推销。使用我们的游戏和网络服务，即表示您至少年满 18 岁，或者您是该未成年人的父母或监护人，并同意受供养的未成年人使用本游戏。如果我们得知收集到 18 岁以下用户的个人信息，我们会停用该帐户并采取合理措施立即从我们的记录中删除这些数据。如果您发现我们收集任何 18 岁以下儿童的数据，请与我们联系：contact@snapshotgames.com。[LF]"
 
 msgctxt "Opening Screen/KEY_BSNAPSHOT_GAMES_INC_BACKER_BUILD_PP2"
-msgid "8. WHAT ARE YOUR PRIVACY RIGHTS?  [LF]In Short:  In some regions, such as the European Economic Area, you have rights that allow you greater access to and control over your personal information. You may review, change, or terminate your account at any time.   [LF]In some regions (like the European Economic Area), you have certain rights under applicable data protection laws. These may include the right (i) to request access and obtain a copy of your personal information, (ii) to request rectification or erasure; (iii) to restrict the processing of your personal information; and (iv) if applicable, to data portability. In certain circumstances, you may also have the right to object to the processing of your personal information. To make such a request, please use the contact details   provided below. We will consider and act upon any request in accordance with applicable data protection laws. [LF]If we are relying on your consent to process your personal information, you have the right to withdraw your consent at any time. Please note however that this will not affect the lawfulness of the processing before its withdrawal.   [LF]If you are resident in the European Economic Area and you believe we are unlawfully processing your personal information, you also have the right to complain to your local data protection supervisory authority. You can find their contact details here: http://ec.europa.eu/justice/data-protection/bodies/authorities/index_en.htm.   [LF] [LF]Account Information  [LF]If you would at any time like to review or change the information in your account or terminate your account, you can: [LF]    ■  Contact us using the contact information provided.  [LF]Upon your request to terminate your account, we will deactivate or delete your account and information from our active databases. However, some information may be retained in our files to prevent fraud, troubleshoot problems, assist with any investigations, enforce our Terms of Use and/or comply with legal requirements.     [LF]Cookies and similar technologies: Most Web browsers are set to accept cookies by default. If you prefer, you can usually choose to set your browser to remove cookies and to reject cookies. If you choose to remove cookies or reject cookies, this could affect certain features or services of our Services. To opt-out of interest-based advertising by advertisers on our Services visit http://www.aboutads.info/choices/  .       [LF]Opting out of email marketing: You can unsubscribe from our marketing email list at any time by clicking on the unsubscribe link in the emails that we send or by contacting us using the details provided below. You will then be removed from the marketing email list – however, we will still need to send you service-related emails that are necessary for the administration and use of your account. To otherwise opt-out, you may: [LF]    ■  Contact us using the contact information provided.    [LF][LF]9. CONTROLS FOR DO-NOT-TRACK FEATURES  [LF]Most web browsers and some mobile operating systems and mobile applications include a Do-Not-Track (“DNT”) feature or setting you can activate to signal your privacy preference not to have data about your online browsing activities monitored and collected. No uniform technology standard for recognizing and implementing DNT signals has been finalized. As such, we do not currently respond to DNT browser signals or any other mechanism that automatically communicates your choice not to be tracked online. If a standard for online tracking is adopted that we must follow in the future, we will inform you about that practice in a revised version of this privacy policy   .  [LF][LF]10. DO CALIFORNIA RESIDENTS HAVE SPECIFIC PRIVACY RIGHTS?  [LF]In Short:  Yes, if you are a resident of California, you are granted specific rights regarding access to your personal information.   [LF]California Civil Code Section 1798.83, also known as the “Shine The Light” law, permits our users who are California residents to request and obtain from us, once a year and free of charge, information about categories of personal information (if any) we disclosed to third parties for direct marketing purposes and the names and addresses of all third parties with which we shared personal information in the immediately preceding calendar year. If you are a California resident and would like to make such a request, please submit your request in writing to us using the contact information provided below. [LF]If you are under 18 years of age, reside in California, and have a registered account with the Services, you have the right to request removal of unwanted data that you publicly post on the Services. To request removal of such data, please contact us using the contact information provided below, and include the email address associated with your account and a statement that you reside in California. We will make sure the data is not publicly displayed on the Services, but please be aware that the data may not be completely or comprehensively removed from our systems.[LF][LF]11. DO WE MAKE UPDATES TO THIS POLICY?  [LF]In Short:  Yes, we will update this policy as necessary to stay compliant with relevant laws.  [LF]We may update this privacy policy from time to time. The updated version will be indicated by an updated “Revised” date and the updated version will be effective as soon as it is accessible. If we make material changes to this privacy policy, we may notify you either by prominently posting a notice of such changes or by directly sending you a notification. We encourage you to review this privacy policy frequently to be informed of how we are protecting your information.  [LF][LF]12. HOW CAN YOU CONTACT US ABOUT THIS POLICY?  [LF]If you have questions or comments about this policy, you may email us at contact@snapshotgames.com or by post to:[LF]Snapshot Games Inc.    [LF]145 S Fairfax Ave #200 [LF]Los Angeles, CA 90036    [LF]United States        [LF][LF] [LF]How can you review, update, or delete the data we collect from you?[LF]Based on the laws of some countries, you may have the right to request access to the personal information we collect from you, change that information, or delete it in some circumstances. To request to review, update, or delete your personal information, please submit a request form by filling the form here: https://app.termly.io/notify/1a128fcc-1960-429c-b87d-250e4fe413aa. We will respond to your request within 30 days.[LF]"
+msgid "7. WHAT ARE YOUR PRIVACY RIGHTS?  [LF]In Short:  In some regions, such as the European Economic Area, you have rights that allow you greater access to and control over your personal information. You may review, change, or terminate your account at any time.   [LF]In some regions (like the European Economic Area), you have certain rights under applicable data protection laws. These may include the right (i) to request access and obtain a copy of your personal information, (ii) to request rectification or erasure; (iii) to restrict the processing of your personal information; and (iv) if applicable, to data portability. In certain circumstances, you may also have the right to object to the processing of your personal information. To make such a request, please use the contact details   provided below. We will consider and act upon any request in accordance with applicable data protection laws. [LF]If we are relying on your consent to process your personal information, you have the right to withdraw your consent at any time. Please note however that this will not affect the lawfulness of the processing before its withdrawal.   [LF]If you are resident in the European Economic Area and you believe we are unlawfully processing your personal information, you also have the right to complain to your local data protection supervisory authority. You can find their contact details here: http://ec.europa.eu/justice/data-protection/bodies/authorities/index_en.htm.   [LF] [LF]Account Information  [LF]If you would at any time like to review or change the information in your account or terminate your account, you can: [LF]    ■  Contact us using the contact information provided.  [LF]Upon your request to terminate your account, we will deactivate or delete your account and information from our active databases. However, some information may be retained in our files to prevent fraud, troubleshoot problems, assist with any investigations, enforce our Terms of Use and/or comply with legal requirements.     [LF]Cookies and similar technologies: Most Web browsers are set to accept cookies by default. If you prefer, you can usually choose to set your browser to remove cookies and to reject cookies. If you choose to remove cookies or reject cookies, this could affect certain features or services of our Services. To opt-out of interest-based advertising by advertisers on our Services visit http://www.aboutads.info/choices/  .       [LF]Opting out of email marketing: You can unsubscribe from our marketing email list at any time by clicking on the unsubscribe link in the emails that we send or by contacting us using the details provided below. You will then be removed from the marketing email list – however, we will still need to send you service-related emails that are necessary for the administration and use of your account. To otherwise opt-out, you may: [LF]    ■  Contact us using the contact information provided.    [LF][LF]8. CONTROLS FOR DO-NOT-TRACK FEATURES  [LF]Most web browsers and some mobile operating systems and mobile applications include a Do-Not-Track (“DNT”) feature or setting you can activate to signal your privacy preference not to have data about your online browsing activities monitored and collected. No uniform technology standard for recognizing and implementing DNT signals has been finalized. As such, we do not currently respond to DNT browser signals or any other mechanism that automatically communicates your choice not to be tracked online. If a standard for online tracking is adopted that we must follow in the future, we will inform you about that practice in a revised version of this privacy policy   .  [LF][LF]9. DO CALIFORNIA RESIDENTS HAVE SPECIFIC PRIVACY RIGHTS?  [LF]In Short:  Yes, if you are a resident of California, you are granted specific rights regarding access to your personal information.   [LF]California Civil Code Section 1798.83, also known as the “Shine The Light” law, permits our users who are California residents to request and obtain from us, once a year and free of charge, information about categories of personal information (if any) we disclosed to third parties for direct marketing purposes and the names and addresses of all third parties with which we shared personal information in the immediately preceding calendar year. If you are a California resident and would like to make such a request, please submit your request in writing to us using the contact information provided below. [LF]If you are under 18 years of age, reside in California, and have a registered account with the Services, you have the right to request removal of unwanted data that you publicly post on the Services. To request removal of such data, please contact us using the contact information provided below, and include the email address associated with your account and a statement that you reside in California. We will make sure the data is not publicly displayed on the Services, but please be aware that the data may not be completely or comprehensively removed from our systems.[LF][LF]10. DO WE MAKE UPDATES TO THIS POLICY?  [LF]In Short:  Yes, we will update this policy as necessary to stay compliant with relevant laws.  [LF]We may update this privacy policy from time to time. The updated version will be indicated by an updated “Revised” date and the updated version will be effective as soon as it is accessible. If we make material changes to this privacy policy, we may notify you either by prominently posting a notice of such changes or by directly sending you a notification. We encourage you to review this privacy policy frequently to be informed of how we are protecting your information.  [LF][LF]11. HOW CAN YOU CONTACT US ABOUT THIS POLICY?  [LF]If you have questions or comments about this policy, you may email us at contact@snapshotgames.com or by post to:[LF]Snapshot Games Inc.    [LF]145 S Fairfax Ave #200 [LF]Los Angeles, CA 90036    [LF]United States        [LF][LF] [LF]How can you review, update, or delete the data we collect from you?[LF]Based on the laws of some countries, you may have the right to request access to the personal information we collect from you, change that information, or delete it in some circumstances. To request to review, update, or delete your personal information, please submit a request form by filling the form here: https://app.termly.io/notify/1a128fcc-1960-429c-b87d-250e4fe413aa. We will respond to your request within 30 days.[LF]"
 msgstr "7.您的隐私权是什么？简而言之：在某些地区，例如欧洲经济区，您拥有权利，可以使您更好地访问和控制您的个人信息。您可以随时查看，更改或终止您的帐户。在某些地区（例如欧洲经济区），根据适用的数据保护法律，您拥有某些权利。其中可能包括（i）请求访问并获取您的个人信息副本的权利（ii）请求更正或删除的权利； （iii）限制您的个人信息的处理； （iv）（如适用）数据可移植性。在某些情况下，您可能也有权反对处理您的个人信息。要提出这样的请求，请使用下面提供的联系方式。我们将根据适用的数据保护法律考虑并根据任何要求采取行动。如果我们依靠您的同意来处理您的个人信息，则您有权随时撤回您的同意。但是请注意，这不会影响处理在撤回之前的合法性。如果您居住在欧洲经济区，并且您认为我们在非法处理您的个人信息，那么您也有权向您当地的数据保护监督机构投诉。您可以在这里找到他们的联系方式：http://ec.europa.eu/justice/data-protection/bodies/authorities/index_en.htm。帐户信息如果您想随时查看或更改帐户中的信息或终止帐户，则可以：[LF]■使用提供的联系信息与我们联系。根据您要求终止您的帐户的要求，我们将停用或删除您的帐户以及我们活动数据库中的信息。但是，某些信息可能会保留在我们的文件中，以防止欺诈，解决问题，协助进行任何调查，执行我们的使用条款和/或遵守法律要求。 Cookie和类似技术：默认情况下，大多数Web浏览器都设置为接受Cookie。如果愿意，通常可以选择将浏览器设置为删除cookie并拒绝cookie。如果您选择删除cookie或拒绝cookie，这可能会影响我们服务的某些功能或服务。要选择退出广告客户在我们服务上基于兴趣的广告，请访问http://www.aboutads.info/choices/。选择退出电子邮件营销：您可以随时通过单击我们发送的电子邮件中的“取消订阅”链接或使用下面提供的详细信息与我们联系来取消订阅我们的营销电子邮件列表。然后，您将从营销电子邮件列表中删除-但是，我们仍然需要向您发送与服务相关的电子邮件，这对于管理和使用您的帐户是必需的。要选择退出，您可以：[LF]■使用提供的联系信息与我们联系。 [LF]8.禁止跟踪功能的控件大多数Web浏览器以及某些移动操作系统和移动应用程序都包含禁止跟踪（“ DNT”）功能，或者您可以激活该设置来表示您的隐私首选项，以不包含有关您的数据监视和收集在线浏览活动。尚未最终确定用于识别和实现DNT信号的统一技术标准。因此，我们目前不响应DNT浏览器信号或自动传达您选择不在线跟踪的任何其他机制。如果采用了我们将来必须遵循的在线跟踪标准，我们将在本隐私政策的修订版中告知您该做法。 [LF]9.加州居民是否有特定的隐私权？简而言之：是的，如果您是加利福尼亚州的居民，则将获得访问您的个人信息的特定权利。加利福尼亚州民法典第1798.83条（又称“光亮之光”法）允许加利福尼亚州居民的用户每年一次免费向我们索取并获取有关我们个人信息类别（如果有）的信息。出于直接营销目的向第三方披露的信息，以及在最近一个日历年中与我们共享个人信息的所有第三方的名称和地址。如果您是加利福尼亚州居民，并希望提出这样的请求，请使用下面提供的联系信息以书面形式向我们提交您的请求。如果您未满18周岁，居住在加利福尼亚州并且在“服务”中拥有注册帐户，则您有权要求删除在“服务”中公开发布的有害数据。要请求删除此类数据，请使用下面提供的联系信息与我们联系，并提供与您的帐户相关联的电子邮件地址以及您居住在加利福尼亚的声明。我们将确保数据不会在服务上公开显示，但是请注意，这些数据可能不会完全或全面地从我们的系统中删除。 [LF]10.我们是否会对此政策进行更新？简而言之：是的，我们将根据需要更新此政策，以遵守相关法律。我们可能会不时更新本隐私政策。更新的版本将以更新的“修订”日期表示，并且更新的版本只要可以访问就将生效。如果我们对此隐私政策进行了重大更改，则可以通过显着地发布有关此类更改的通知或直接向您发送通知来通知您。我们建议您经常阅读本隐私政策，以了解我们如何保护您的信息。 [LF]11.您如何就此政策与我们联系？如果您对此政策有任何疑问或意见，您可以发送电子邮件至contact@snapshotgames.com或邮寄至：[LF]Snapshot Games Inc. [LF]145 S Fairfax Ave＃200[LF]洛杉矶，CA 90036[LF]美国[LF]如何查看，更新或删除我们从您那里收集的数据？根据某些国家/地区的法律，您可能有权请求访问我们从您那里收集的个人信息，更改该信息或在某些情况下将其删除。要请求查看，更新或删除您的个人信息，请在此处填写表单以提交请求表：https://app.termly.io/notify/1a128fcc-1960-429c-b87d-250e4fe413aa。我们将在30天内回复您的请求。[LF][LF][LF]"
 
 msgctxt "Opening Screen/KEY_BSNAPSHOT_GAMES_INC_TOS_LABEL"
@@ -14463,16 +15687,16 @@ msgid "Created from Chiron DNA, the mutation grants additional +5 Strength, Stab
 msgstr "变异由喀戎 DNA 创造而成，给予额外 +5 力量、稳定姿态（保持姿态时远程准度提升 20%），以及踩踏攻击（影响 5 格范围的冲击攻击，如果冲击值 > 目标生命值，目标将被眩晕）。"
 
 msgctxt "Mutation Screen/KEY_MUTATION_PART_PRIEST1_LONG_DESCRIPTION"
-msgid "Based on DNA from the Synod of Yearning, the mutation restores 2 Will Points to all friendly living entities within 7 tiles at the start of each turn."
-msgstr "变异基于向往宗教 DNA；每回合开始时，使 7 格以内所有存活的友方实体恢复 2 点意志力点数。"
+msgid "Based on DNA from the Synod of Yearning, the mutation restores 2 Will Points to all friendly living entities within 7 tiles at the start of each turn. Additional +4 to Willpower."
+msgstr "变异基于向往宗教 DNA；每回合开始时，使 7 格以内所有存活的友方实体恢复 2 点意志力点数。意志力额外 +4。"
 
 msgctxt "Mutation Screen/KEY_MUTATION_PART_PRIEST2_LONG_DESCRIPTION"
-msgid "Created from DNA of from the Blind Legate, the mutation allows a priest to perform Instil Frenzy (increase Speed by 50% and make them immune to panic) on allied characters."
-msgstr "变异由盲目使节 DNA 创造而成，允许牧师对盟友角色灌输狂热（提升 50% 速度且免疫恐慌）。"
+msgid "Created from DNA of from the Blind Legate, the mutation allows a priest to perform Instil Frenzy (increase Speed by 50% and make them immune to panic) on allied characters. Additional +8 to Willpower."
+msgstr "变异由盲目使节 DNA 创造而成，允许牧师对盟友角色灌输狂热（提升 50% 速度且免疫恐慌）。意志力额外 +8。"
 
 msgctxt "Mutation Screen/KEY_MUTATION_PART_PRIEST3_LONG_DESCRIPTION"
-msgid "Engineered from the Keeper of the Threshhold’s DNA, the mutation grants the ability to perform a Psychic Scream (reduces the Will Points of all enemy units in an 8 tile radius)."
-msgstr "变异由殿门守护者 DNA 改造而成，给予施放心灵尖啸的能力（降低 8 格范围以内的所有敌方单位的意志力点数）。"
+msgid "Engineered from the Keeper of the Threshhold’s DNA, the mutation grants the ability to perform a Psychic Scream (reduces the Will Points of all enemy units in an 8 tile radius). Additional +4 to Willpower."
+msgstr "变异由殿门守护者 DNA 改造而成，给予施放心灵尖啸的能力（降低 8 格范围以内的所有敌方单位的意志力点数）。意志力额外 +4。"
 
 msgctxt "Mutation Screen/KEY_MUTATION_PART_TORSO_REGEN_LONG_DESCRIPTION"
 msgid "Based on Arthron DNA, the mutation has regeneration capabilities (restore 10 Hit Points to arms and torso at the end of each turn) and fire resistance."
@@ -15355,7 +16579,7 @@ msgid "All captured Pandorans held in the Containment facilities"
 msgstr "所有关押在控制设施中的潘多拉体"
 
 msgctxt "Roster Screen/KEY_READY_ITEM_SLOTS_USED_TT"
-msgid "EMPTY READY ITEM SLOTS {0}/{1}"
+msgid "NO WEAPON EQUIPPED"
 msgstr "空就绪物品槽 {0}/{1}"
 
 msgctxt "Roster Screen/KEY_ATTRIBUTES_MAX"
@@ -18295,7 +19519,7 @@ msgid "Defending havens from Pandoran attack is important for gaining favor with
 msgstr "帮助避难所抵御潘多拉体的进攻是获取派系支持度和资源的重要手段。"
 
 msgctxt "Loading Tips/KEY_GEOSCAPE_LOADING_TIP_3"
-msgid "When a faction becomes SUPPORTIVE (25+), its havens will be revealed instantly as you discover them."
+msgid "When a faction becomes SUPPORTIVE (25+), its havens will not require time consuming exploration when encountered."
 msgstr "当派系关系变成“支持”（25+）时，你在发现他的避难所后，避难所的位置会立即显示。"
 
 msgctxt "Loading Tips/KEY_GEOSCAPE_LOADING_TIP_4"
@@ -18756,1087 +19980,1091 @@ msgstr "外壳"
 
 msgctxt "Body parts Aliens/KEY_YUGGOTH_HEAVY_CARAPACE_NAME_TEMP"
 msgid "HEAVY CARAPACE"
-msgstr "[null]"
+msgstr "重型甲壳"
 
 msgctxt "Body parts Aliens/KEY_YUGGOTH_EYE_NAME_TEMP"
 msgid "EYE"
-msgstr "[null]"
+msgstr "眼睛"
 
 msgctxt "Body parts Aliens/KEY_HEAD_NAME_TEMP"
 msgid "HEAD"
-msgstr "[null]"
+msgstr "头"
 
 msgctxt "Body parts Aliens/KEY_ROOTS_NAME_TEMP"
 msgid "ROOTS"
-msgstr "[null]"
+msgstr "根"
 
 msgctxt "Body parts Aliens/KEY_YUGGOTH_TENTACLE_NAME_TEMP"
 msgid "TENTACLE"
-msgstr "[null]"
+msgstr "触须"
 
 msgctxt "Body parts Aliens/KEY_YUGGOTH_CARAPACE_DESCRIPTION_TEMP"
 msgid "Protects the brain of the Yuggothian Entity"
-msgstr "[null]"
+msgstr "保护犹格斯实体的大脑"
 
 msgctxt "Body parts Aliens/KEY_YUGGOTH_EYE_DESCRIPTION_TEMP"
 msgid "Eye of Yuggoth"
-msgstr "[null]"
+msgstr "犹格斯的眼睛"
 
 msgctxt "Body parts Aliens/KEY_HEAD_DESCRIPTION_TEMP"
 msgid "Head"
-msgstr "[null]"
+msgstr "头"
 
 msgctxt "Body parts Aliens/KEY_ROOTS_DESCRIPTION_TEMP"
 msgid "Roots"
-msgstr "[null]"
+msgstr "根"
 
 msgctxt "Body parts Aliens/KEY_YUGGOTH_TENTACLE_DESCRIPTION_TEMP"
 msgid "Covers the vulnerable eyes of the Yuggothian Entity"
-msgstr "[null]"
+msgstr "覆盖犹格斯实体脆弱的眼睛"
 
 msgctxt "Body parts Aliens/KEY_SCYLLA_ABDOMEN_BELCHER_NAME_TEMP"
 msgid "BELCHER ABDOMEN"
-msgstr "[null]"
+msgstr "贝尔彻腹"
 
 msgctxt "Body parts Aliens/KEY_SCYLLA_ABDOMEN_SPAWNER_NAME_TEMP"
 msgid "SPAWNING ABDOMEN"
-msgstr "[null]"
+msgstr "孵化腔"
 
 msgctxt "Body parts Aliens/KEY_SCYLLA_CARAPACE_CRYSTAL_NAME_TEMP"
 msgid "CRYSTAL CARAPACE"
-msgstr "[null]"
+msgstr "水晶甲壳"
 
 msgctxt "Body parts Aliens/KEY_SCYLLA_CARAPACE_HEAVY_NAME_TEMP"
 msgid "HEAVY CARAPACE"
-msgstr "[null]"
+msgstr "重型甲壳"
 
 msgctxt "Body parts Aliens/KEY_SCYLLA_CARAPACE_MIST_NAME_TEMP"
 msgid "MIST CARAPACE"
-msgstr "[null]"
+msgstr "迷雾甲壳"
 
 msgctxt "Body parts Aliens/KEY_SCYLLA_HEAD_HEAVY_NAME_TEMP"
 msgid "FURY HEAD"
-msgstr "[null]"
+msgstr "狂热头部"
 
 msgctxt "Body parts Aliens/KEY_SCYLLA_LEG_AGILE_NAME_TEMP"
 msgid "AGILE LEG"
-msgstr "[null]"
+msgstr "敏捷腿部"
 
 msgctxt "Body parts Aliens/KEY_SCYLLA_LEG_HEAVY_NAME_TEMP"
 msgid "HEAVY LEG"
-msgstr "[null]"
+msgstr "重型腿部"
 
 msgctxt "Body parts Aliens/KEY_SCYLLA_SMASHER_NAME_TEMP"
 msgid "SMASHER"
-msgstr "[null]"
+msgstr "粉碎巨钳"
 
 msgctxt "Body parts Aliens/KEY_SCYLLA_TORSO_NAME_TEMP"
 msgid "TORSO"
-msgstr "[null]"
+msgstr "躯干"
 
 msgctxt "Body parts Aliens/KEY_SCYLLA_QUEEN_ARM_BLASTER_NAME_TEMP"
 msgid "BLASTER CANNON"
-msgstr "[null]"
+msgstr "爆能炮"
 
 msgctxt "Body parts Aliens/KEY_SCYLLA_MIST_LAUNCHER_NAME_TEMP"
 msgid "MIST LAUNCHER"
-msgstr "[null]"
+msgstr "迷雾发射器"
 
 msgctxt "Body parts Aliens/KEY_SCYLLA_SONIC_HEAD_NAME_TEMP"
 msgid "SONIC HEAD"
-msgstr "[null]"
+msgstr "音波头"
 
 msgctxt "Body parts Aliens/KEY_SCYLLA_HEAD_SPITTER_NAME_TEMP"
 msgid "SPITTER HEAD"
-msgstr "[null]"
+msgstr "喷吐头部"
 
 msgctxt "Body parts Aliens/KEY_SCYLLA_ARM_BLASTER_NAME_TEMP"
 msgid "BLASTER CANNON"
-msgstr "[null]"
+msgstr "爆能炮"
 
 msgctxt "Body parts Aliens/KEY_SCYLLA_ABDOMEN_BELCHER_DESCRIPTION_TEMP"
 msgid "Releases multiple spawnlings on death"
-msgstr "[null]"
+msgstr "死亡时大量产卵"
 
 msgctxt "Body parts Aliens/KEY_SCYLLA_ABDOMEN_SPAWNER_DESCRIPTION_TEMP"
 msgid "Spawns mindfraggers"
-msgstr "[null]"
+msgstr "孵化心控虫"
 
 msgctxt "Body parts Aliens/KEY_SCYLLA_CARAPACE_CRYSTAL_DESCRIPTION_TEMP"
 msgid "Gives Living Crystal Supercharge ability"
-msgstr "[null]"
+msgstr "提供活体水晶超负荷技能"
 
 msgctxt "Body parts Aliens/KEY_SCYLLA_CARAPACE_HEAVY_DESCRIPTION_TEMP"
 msgid "Armored protective carapace"
-msgstr "[null]"
+msgstr "可提供保护的装甲甲壳"
 
 msgctxt "Body parts Aliens/KEY_SCYLLA_CARAPACE_MIST_DESCRIPTION_TEMP"
 msgid "Spawns a cloud of mist around the Scylla"
-msgstr "[null]"
+msgstr "在斯库拉周围产生一片迷雾"
 
 msgctxt "Body parts Aliens/KEY_SCYLLA_HEAD_HEAVY_DESCRIPTION_TEMP"
 msgid "Can instill frenzy on friendly characters"
-msgstr "[null]"
+msgstr "能够给友方单位灌输狂热"
 
 msgctxt "Body parts Aliens/KEY_SCYLLA_LEG_AGILE_DESCRIPTION_TEMP"
 msgid "Leaps to target location, destroying everything on its path"
-msgstr "[null]"
+msgstr "飞跃到目标位置，摧毁沿途的一切。"
 
 msgctxt "Body parts Aliens/KEY_SCYLLA_LEG_HEAVY_DESCRIPTION_TEMP"
 msgid "Heavy armored limb"
-msgstr "[null]"
+msgstr "重型装甲肢体"
 
 msgctxt "Body parts Aliens/KEY_SCYLLA_SMASHER_DESCRIPTION_TEMP"
 msgid "Capable of dealing heavy damage and destroying armor"
-msgstr "[null]"
+msgstr "能够造成大量伤害并破坏护甲"
 
 msgctxt "Body parts Aliens/KEY_SCYLLA_TORSO_DESCRIPTION_TEMP"
 msgid "Scylla torso"
-msgstr "[null]"
+msgstr "斯库拉躯干"
 
 msgctxt "Body parts Aliens/KEY_SCYLLA_QUEEN_ARM_BLASTER_DESCRIPTION_TEMP"
 msgid "A powerful multi-shot cannon"
-msgstr "[null]"
+msgstr "强大的连发炮"
 
 msgctxt "Body parts Aliens/KEY_SCYLLA_MIST_LAUNCHER_DESCRIPTION_TEMP"
 msgid "Launchers projectiles that generate mist"
-msgstr "[null]"
+msgstr "发射可制造迷雾的炮弹"
 
 msgctxt "Body parts Aliens/KEY_SCYLLA_SONIC_HEAD_DESCRIPTION_TEMP"
 msgid "Emits sonic blast that can daze a target"
-msgstr "[null]"
+msgstr "发出可使目标眩晕的声波冲击"
 
 msgctxt "Body parts Aliens/KEY_SCYLLA_HEAD_SPITTER_DESCRIPTION_TEMP"
 msgid "Spits poisonous goo in a narrow cone area"
-msgstr "[null]"
+msgstr "朝狭窄的锥形范围喷出有毒的粘液"
 
 msgctxt "Body parts Aliens/KEY_SCYLLA_ARM_BLASTER_DESCRIPTION_TEMP"
 msgid "A powerful multi-shot cannon"
-msgstr "[null]"
+msgstr "强大的连发炮"
 
 msgctxt "Body parts Aliens/KEY_TORSO_NAME_TEMP"
 msgid "TORSO"
-msgstr "[null]"
+msgstr "躯干"
 
 msgctxt "Body parts Aliens/KEY_SENTINEL_HATCHING_HEAD_NAME_TEMP"
 msgid "HATCHING HEAD"
-msgstr "[null]"
+msgstr "孵化头部"
 
 msgctxt "Body parts Aliens/KEY_TORSO_DESCRIPTION_TEMP"
 msgid "Torso"
-msgstr "[null]"
+msgstr "躯干"
 
 msgctxt "Body parts Aliens/KEY_SENTINEL_HATCHING_HEAD_DESCRIPTION_TEMP"
 msgid "Sends signal that hatches all nearby eggs"
-msgstr "[null]"
+msgstr "发出致使附近所有卵孵化的信号"
 
 msgctxt "Body parts Aliens/KEY_SENTINEL_MIST_HEAD_NAME_TEMP"
 msgid "MIST HEAD"
-msgstr "[null]"
+msgstr "迷雾头部"
 
 msgctxt "Body parts Aliens/KEY_SENTINEL_MIST_HEAD_DESCRIPTION_TEMP"
 msgid "Launches projectiles that generate mist"
-msgstr "[null]"
+msgstr "发射可制造迷雾的炮弹"
 
 msgctxt "Body parts Aliens/KEY_SENTINEL_TERROR_HEAD_NAME_TEMP"
 msgid "TERROR HEAD"
-msgstr "[null]"
+msgstr "恐怖头部"
 
 msgctxt "Body parts Aliens/KEY_SENTINEL_TERROR_HEAD_DESCRIPTION_TEMP"
 msgid "Emits psychic scream that reduces will points"
-msgstr "[null]"
+msgstr "发出可降低意志力点数的灵能尖啸"
 
 msgctxt "Body parts Aliens/KEY_SIREN_HEAD_BUFFER_NAME_TEMP"
 msgid "FURY HEAD"
-msgstr "[null]"
+msgstr "狂热头部"
 
 msgctxt "Body parts Aliens/KEY_SIREN_HEAD_ORICHALCUM_NAME_TEMP"
 msgid "ORICHALCUM HEAD"
-msgstr "[null]"
+msgstr "奥利哈刚头部"
 
 msgctxt "Body parts Aliens/KEY_SIREN_HEAD_SCREAMER_NAME_TEMP"
 msgid "SCREAMING HEAD"
-msgstr "[null]"
+msgstr "尖啸头部"
 
 msgctxt "Body parts Aliens/KEY_SIREN_TAIL_AGILE_NAME_TEMP"
 msgid "AGILE TAIL"
-msgstr "[null]"
+msgstr "敏捷尾巴"
 
 msgctxt "Body parts Aliens/KEY_SIREN_TAIL_HEAVY_NAME_TEMP"
 msgid "HEAVY TAIL"
-msgstr "[null]"
+msgstr "重装尾巴"
 
 msgctxt "Body parts Aliens/KEY_SIREN_TAIL_ORICHALCUM_NAME_TEMP"
 msgid "ORICHALCUM TAIL"
-msgstr "[null]"
+msgstr "奥利哈刚尾巴"
 
 msgctxt "Body parts Aliens/KEY_SIREN_TORSO_NAME_TEMP"
 msgid "TORSO"
-msgstr "[null]"
+msgstr "躯干"
 
 msgctxt "Body parts Aliens/KEY_SIREN_ARM_INJECTOR_NAME_TEMP"
 msgid "INJECTOR ARM"
-msgstr "[null]"
+msgstr "喷射器臂"
 
 msgctxt "Body parts Aliens/KEY_SIREN_ARM_ORICHALCUM_NAME_TEMP"
 msgid "ORICHALCUM ARM"
-msgstr "[null]"
+msgstr "奥利哈刚手臂"
 
 msgctxt "Body parts Aliens/KEY_SIREN_ARM_SLASHER_NAME_TEMP"
 msgid "SLASHER ARM"
-msgstr "[null]"
+msgstr "刀臂"
 
 msgctxt "Body parts Aliens/KEY_SIREN_TORSO_ACID_NAME_TEMP"
 msgid "ACID TORSO"
-msgstr "[null]"
+msgstr "奥利哈刚手臂"
 
 msgctxt "Body parts Aliens/KEY_SIREN_TORSO_ORICHALCUM_NAME_TEMP"
 msgid "ORICHALCUM TORSO"
-msgstr "[null]"
+msgstr "酸蚀躯干"
 
 msgctxt "Body parts Aliens/KEY_SIREN_HEAD_BUFFER_DESCRIPTION_TEMP"
 msgid "Can instill frenzy on friendly characters"
-msgstr "[null]"
+msgstr "奥利哈刚躯干"
 
 msgctxt "Body parts Aliens/KEY_SIREN_HEAD_ORICHALCUM_DESCRIPTION_TEMP"
 msgid "Slightly improved durability"
-msgstr "[null]"
+msgstr "能够给友方单位灌输狂热"
 
 msgctxt "Body parts Aliens/KEY_SIREN_HEAD_SCREAMER_DESCRIPTION_TEMP"
 msgid "Psychic scream incapacitates nearby enemies"
-msgstr "[null]"
+msgstr "略微提升耐久度"
 
 msgctxt "Body parts Aliens/KEY_SIREN_TAIL_AGILE_DESCRIPTION_TEMP"
 msgid "Increases speed of the creature"
-msgstr "[null]"
+msgstr "它的灵能尖啸能够使附近的敌人失去行动能力"
 
 msgctxt "Body parts Aliens/KEY_SIREN_TAIL_HEAVY_DESCRIPTION_TEMP"
 msgid "Tail is protected by armor"
-msgstr "[null]"
+msgstr "增加生物的速度"
 
 msgctxt "Body parts Aliens/KEY_SIREN_TAIL_ORICHALCUM_DESCRIPTION_TEMP"
 msgid "Slightly improved durability and damage"
-msgstr "[null]"
+msgstr "它的尾巴被装甲保护着"
 
 msgctxt "Body parts Aliens/KEY_SIREN_TORSO_DESCRIPTION_TEMP"
 msgid "Siren Torso"
-msgstr "[null]"
+msgstr "略微提升耐久度和伤害"
 
 msgctxt "Body parts Aliens/KEY_SIREN_ARM_INJECTOR_DESCRIPTION_TEMP"
 msgid "Inflicts standard and viral damage"
-msgstr "[null]"
+msgstr "塞壬躯干"
 
 msgctxt "Body parts Aliens/KEY_SIREN_ARM_ORICHALCUM_DESCRIPTION_TEMP"
 msgid "Slightly improved durability and damage"
-msgstr "[null]"
+msgstr "造成标准伤害和病毒伤害"
 
 msgctxt "Body parts Aliens/KEY_SIREN_ARM_SLASHER_DESCRIPTION_TEMP"
 msgid "Melee attack that can cause bleed if it deals damage"
-msgstr "[null]"
+msgstr "造成伤害后会施加流血效果"
 
 msgctxt "Body parts Aliens/KEY_SIREN_TORSO_ACID_DESCRIPTION_TEMP"
 msgid "Ejects acid over a short distance"
-msgstr "[null]"
+msgstr "可使用近战攻击，造成伤害后会施加流血效果"
 
 msgctxt "Body parts Aliens/KEY_SIREN_TORSO_ORICHALCUM_DESCRIPTION_TEMP"
 msgid "Slightly improved durability"
-msgstr "[null]"
+msgstr "近距离喷射酸液"
 
 msgctxt "Body parts Aliens/KEY_SPAWNERY_BODY_NAME_TEMP"
 msgid "BODY"
-msgstr "[null]"
+msgstr "略微提升耐久度"
 
 msgctxt "Body parts Aliens/KEY_SPAWNERY_EGG_POD_NAME_TEMP"
 msgid "EGG POD"
-msgstr "[null]"
+msgstr "卵腔"
 
 msgctxt "Body parts Aliens/KEY_SPAWNERY_SHELL_NAME_TEMP"
 msgid "SHELL"
-msgstr "[null]"
+msgstr "外壳"
 
 msgctxt "Body parts Aliens/KEY_SPAWNERY_BODY_DESCRIPTION_TEMP"
 msgid "Spawnery hulk"
-msgstr "[null]"
+msgstr "产卵腔机体"
 
 msgctxt "Body parts Aliens/KEY_SPAWNERY_EGG_POD_DESCRIPTION_TEMP"
 msgid "Spawnery pod"
-msgstr "[null]"
+msgstr "产卵腔舱体"
 
 msgctxt "Body parts Aliens/KEY_SPAWNERY_SHELL_DESCRIPTION_TEMP"
 msgid "Spawnery shell"
-msgstr "[null]"
+msgstr "产卵腔外壳"
 
 msgctxt "Body parts Aliens/KEY_ARTHRON_CARAPACE_NAME_TEMP"
 msgid "CARAPACE"
-msgstr "[null]"
+msgstr "甲壳"
 
 msgctxt "Body parts Aliens/KEY_ARTHRON_HEAD_ELITE_NAME_TEMP"
 msgid "HEAD"
-msgstr "[null]"
+msgstr "头"
 
 msgctxt "Body parts Aliens/KEY_ARTHRON_ACID_GRENADE_ARM_NAME_TEMP"
 msgid "ACID LAUNCHER"
-msgstr "[null]"
+msgstr "酸液发射器"
 
 msgctxt "Body parts Aliens/KEY_ARTHRON_ARM_NAME_TEMP"
 msgid "ARM"
-msgstr "[null]"
+msgstr "上肢"
 
 msgctxt "Body parts Aliens/KEY_ARTHRON_ARM_GRENADE_NAME_TEMP"
 msgid "GRENADE LAUNCHER"
-msgstr "[null]"
+msgstr "榴弹发射器"
 
 msgctxt "Body parts Aliens/KEY_ARTHRON_ARM_SHIELD_NAME_TEMP"
 msgid "SHIELD"
-msgstr "[null]"
+msgstr "护盾"
 
 msgctxt "Body parts Aliens/KEY_ARTHRON_LEG_AGILE_NAME_TEMP"
 msgid "AGILE LEG"
-msgstr "[null]"
+msgstr "敏捷腿部"
 
 msgctxt "Body parts Aliens/KEY_ARTHRON_LEG_HEAVY_NAME_TEMP"
 msgid "HEAVY LEG"
-msgstr "[null]"
+msgstr "重型腿部"
 
 msgctxt "Body parts Aliens/KEY_ARTHRON_MACHINE_GUN_NAME_TEMP"
 msgid "ARTHRON GUN"
-msgstr "[null]"
+msgstr "蟹钳人枪械"
 
 msgctxt "Body parts Aliens/KEY_ARTHRON_PINCER_NAME_TEMP"
 msgid "PINCER"
-msgstr "[null]"
+msgstr "钳"
 
 msgctxt "Body parts Aliens/KEY_ARTHRON_VIRAL_GUN_NAME_TEMP"
 msgid "VIRAL GUN"
-msgstr "[null]"
+msgstr "病毒枪械"
 
 msgctxt "Body parts Aliens/KEY_ARTHRON_TORSO_NAME_TEMP"
 msgid "TORSO"
-msgstr "[null]"
+msgstr "躯干"
 
 msgctxt "Body parts Aliens/KEY_ARTHRON_TORSO_DESCRIPTION_TEMP"
 msgid "Arthron torso"
-msgstr "[null]"
+msgstr "蟹钳人躯干"
 
 msgctxt "Body parts Aliens/KEY_ARTHRON_HEAD_SPITTER_NAME_TEMP"
 msgid "SPITTER HEAD"
-msgstr "[null]"
+msgstr "喷吐头部"
 
 msgctxt "Body parts Aliens/KEY_ARTHRON_GRENADE_ARM_NAME_TEMP"
 msgid "LAUNCHER ARM"
-msgstr "[null]"
+msgstr "发射臂"
 
 msgctxt "Body parts Aliens/KEY_ARTHRON_VIRAL_MACHINE_GUN_NAME_TEMP"
 msgid "VIRAL MACHINE GUN"
-msgstr "[null]"
+msgstr "病毒机关枪"
 
 msgctxt "Body parts Aliens/KEY_ARTHRON_CARAPACE_DESCRIPTION_TEMP"
 msgid "Arthron carapace"
-msgstr "[null]"
+msgstr "蟹钳人甲壳"
 
 msgctxt "Body parts Aliens/KEY_HEAD_ELITE_DESCRIPTION_TEMP"
 msgid "Evolved Head"
-msgstr "[null]"
+msgstr "进化头部"
 
 msgctxt "Body parts Aliens/KEY_ARTHRON_ARM_DESCRIPTION_TEMP"
 msgid "Arthron arm"
-msgstr "[null]"
+msgstr "蟹钳人手臂"
 
 msgctxt "Body parts Aliens/KEY_ARTHRON_GRENADE_ARM_DESCRIPTION_TEMP"
 msgid "Organic Grenade Launcher"
-msgstr "[null]"
+msgstr "有机手雷发射器"
 
 msgctxt "Body parts Aliens/KEY_ARTHRON_SHIELD_ARM_DESCRIPTION_TEMP"
 msgid "Arthron shield"
-msgstr "[null]"
+msgstr "蟹钳人护盾"
 
 msgctxt "Body parts Aliens/KEY_ARTHRON_SHIELD_ARM_NAME_TEMP"
 msgid "SHIELD"
-msgstr "[null]"
+msgstr "护盾"
 
 msgctxt "Body parts Aliens/KEY_ARTHRON_LEG_AGILE_DESCRIPTION_TEMP"
 msgid "Increases the creatures' speed"
-msgstr "[null]"
+msgstr "增加生物的速度"
 
 msgctxt "Body parts Aliens/KEY_ARTHRON_LEG_HEAVY_DESCRIPTION_TEMP"
 msgid "Heavy armored limb"
-msgstr "[null]"
+msgstr "重型装甲肢体"
 
 msgctxt "Body parts Aliens/KEY_ARTHRON_HEAD_SPITTER_DESCRIPTION_TEMP"
 msgid "Spits poison at short range"
-msgstr "[null]"
+msgstr "近距离喷吐毒物"
 
 msgctxt "Body parts Aliens/KEY_ARTHRON_ACID_GRENADE_ARM_DESCRIPTION_TEMP"
 msgid "Launches projectiles causing acid damage"
-msgstr "[null]"
+msgstr "发射能造成酸蚀伤害的炮弹"
 
 msgctxt "Body parts Aliens/KEY_ARTHRON_MACHINE_GUN_DESCRIPTION_TEMP"
 msgid "Organic Machine Gun"
-msgstr "[null]"
+msgstr "有机机枪"
 
 msgctxt "Body parts Aliens/KEY_ARTHRON_PINCER_DESCRIPTION_TEMP"
 msgid "Arthron melee attack pincer"
-msgstr "[null]"
+msgstr "蟹钳人近战攻击爪钳"
 
 msgctxt "Body parts Aliens/KEY_ARTHRON_VIRAL_MACHINE_GUN_DESCRIPTION_TEMP"
 msgid "Launches projectiles causing viral damage"
-msgstr "[null]"
+msgstr "发射能造成病毒伤害的炮弹"
 
 msgctxt "Body parts Aliens/KEY_ARTHRON_ELITE_CARAPACE_NAME_TEMP"
 msgid "EVOLVED CARAPACE"
-msgstr "[null]"
+msgstr "进化甲壳"
 
 msgctxt "Body parts Aliens/KEY_ARTHRON_ELITE_TORSO_NAME_TEMP"
 msgid "EVOLVED TORSO"
-msgstr "[null]"
+msgstr "进化躯干"
 
 msgctxt "Body parts Aliens/KEY_ARTHRON_ELITE_ACID_GRENADE_ARM_NAME_TEMP"
 msgid "EVOLVED ACID LAUNCHER ARM"
-msgstr "[null]"
+msgstr "进化酸液发射器手臂"
 
 msgctxt "Body parts Aliens/KEY_ARTHRON_ELITE_GRENADE_ARM_NAME_TEMP"
 msgid "EVOLVED LAUNCHER ARM"
-msgstr "[null]"
+msgstr "进化发射器手臂"
 
 msgctxt "Body parts Aliens/KEY_ARTHRON_ELITE_ARM_SHIELD_NAME_TEMP"
 msgid "EVOLVED SHIELD"
-msgstr "[null]"
+msgstr "进化护盾"
 
 msgctxt "Body parts Aliens/KEY_ARTHRON_ELITE_LEG_AGILE_NAME_TEMP"
 msgid "AGILE LEG"
-msgstr "[null]"
+msgstr "敏捷腿部"
 
 msgctxt "Body parts Aliens/KEY_ARTHRON_ELITE_LEG_HEAVY_NAME_TEMP"
 msgid "HEAVY LEG"
-msgstr "[null]"
+msgstr "重型腿部"
 
 msgctxt "Body parts Aliens/KEY_ARTHRON_ELITE_MACHINE_GUN_NAME_TEMP"
 msgid "EVOLVED ARTHRON GUN"
-msgstr "[null]"
+msgstr "进化蟹钳人枪械"
 
 msgctxt "Body parts Aliens/KEY_ARTHRON_ELITE_PINCER_NAME_TEMP"
 msgid "EVOLVED PINCER"
-msgstr "[null]"
+msgstr "进化爪钳"
 
 msgctxt "Body parts Aliens/KEY_ARTHRON_ELITE_HEAD_SPITTER_NAME_TEMP"
 msgid "EVOLVED SPITTER HEAD"
-msgstr "[null]"
+msgstr "进化喷吐头部"
 
 msgctxt "Body parts Aliens/KEY_ARTHRON_ELITE_VIRAL_MACHINE_GUN_NAME_TEMP"
 msgid "EVOLVED VIRAL MACHINE GUN"
-msgstr "[null]"
+msgstr "进化病毒机枪"
 
 msgctxt "Body parts Aliens/KEY_ARTHRON_ELITE_CARAPACE_DESCRIPTION_TEMP"
 msgid "Evolved Arthron carapace"
-msgstr "[null]"
+msgstr "进化蟹钳人甲壳"
 
 msgctxt "Body parts Aliens/KEY_ARTHRON_ELITE_TORSO_DESCRIPTION_TEMP"
 msgid "Evolved Artrhron torso"
-msgstr "[null]"
+msgstr "进化蟹钳人躯干"
 
 msgctxt "Body parts Aliens/KEY_ARTHRON_ELITE_ACID_GRENADE_ARM_DESCRIPTION_TEMP"
 msgid "Launches acid grenades"
-msgstr "[null]"
+msgstr "发射酸蚀手雷"
 
 msgctxt "Body parts Aliens/KEY_ARTHRON_ELITE_GRENADE_ARM_DESCRIPTION_TEMP"
 msgid "Organic Grenade Launcher"
-msgstr "[null]"
+msgstr "有机榴弹发射器"
 
 msgctxt "Body parts Aliens/KEY_ARTHRON_ELITE_ARM_SHIELD_DESCRIPTION_TEMP"
 msgid "Evolved Arthron shield"
-msgstr "[null]"
+msgstr "进化蟹钳人护盾"
 
 msgctxt "Body parts Aliens/KEY_ARTHRON_ELITE_LEG_AGILE_DESCRIPTION_TEMP"
 msgid "Increases the creatures' speed"
-msgstr "[null]"
+msgstr "增加生物的速度"
 
 msgctxt "Body parts Aliens/KEY_ARTHRON_ELITE_LEG_HEAVY_DESCRIPTION_TEMP"
 msgid "Heavy armoured limb"
-msgstr "[null]"
+msgstr "重型装甲肢体"
 
 msgctxt "Body parts Aliens/KEY_ARTHRON_ELITE_HEAD_SPITTER_DESCRIPTION_TEMP"
 msgid "Spits poison at short range"
-msgstr "[null]"
+msgstr "近距离喷吐毒物"
 
 msgctxt "Body parts Aliens/KEY_ARTHRON_ELITE_MACHINE_GUN_DESCRIPTION_TEMP"
 msgid "Evolved organic machine gun"
-msgstr "[null]"
+msgstr "进化的有机机枪"
 
 msgctxt "Body parts Aliens/KEY_ARTHRON_ELITE_PINCER_DESCRIPTION_TEMP"
 msgid "Evolved Arthron pincer"
-msgstr "[null]"
+msgstr "进化的蟹钳人爪钳"
 
 msgctxt "Body parts Aliens/KEY_ARTHRON_ELITE_VIRAL_MACHINE_GUN_DESCRIPTION_TEMP"
 msgid "Launches projectiles causing viral damage"
-msgstr "[null]"
+msgstr "发射能造成病毒伤害的炮弹"
 
 msgctxt "Body parts Aliens/KEY_CHIRON_LEG_AGILE_NAME_TEMP"
 msgid "AGILE LEG"
-msgstr "[null]"
+msgstr "敏捷腿部"
 
 msgctxt "Body parts Aliens/KEY_CHIRON_LEG_BURROWING_NAME_TEMP"
 msgid "BURROWING LEG"
-msgstr "[null]"
+msgstr "掘穴腿部"
 
 msgctxt "Body parts Aliens/KEY_CHIRON_LEG_STOMPING_NAME_TEMP"
 msgid "STOMPING LEG"
-msgstr "[null]"
+msgstr "践踏腿部"
 
 msgctxt "Body parts Aliens/KEY_CHIRON_HEAD_NAME_TEMP"
 msgid "HEAD"
-msgstr "[null]"
+msgstr "头"
 
 msgctxt "Body parts Aliens/KEY_CHIRON_LEG_HEAVY_NAME_TEMP"
 msgid "HEAVY LEG"
-msgstr "[null]"
+msgstr "重型腿部"
 
 msgctxt "Body parts Aliens/KEY_CHIRON_LEG_NAME_TEMP"
 msgid "HEAVY LEG"
-msgstr "[null]"
+msgstr "重型腿部"
 
 msgctxt "Body parts Aliens/KEY_CHIRON_TORSO_NAME_TEMP"
 msgid "TORSO"
-msgstr "[null]"
+msgstr "躯干"
 
 msgctxt "Body parts Aliens/KEY_CHIRON_TORSO_ACID_MORTAR_NAME_TEMP"
 msgid "ACID ABDOMEN"
-msgstr "[null]"
+msgstr "酸蚀腹部"
 
 msgctxt "Body parts Aliens/KEY_CHIRON_TORSO_ACIDWORM_NAME_TEMP"
 msgid "ACIDWORM ABDOMEN"
-msgstr "[null]"
+msgstr "酸虫腹部"
 
 msgctxt "Body parts Aliens/KEY_CHIRON_TORSO_MORTAR_NAME_TEMP"
 msgid "EXPLOSIVE BOMB ABDOMEN"
-msgstr "[null]"
+msgstr "爆炸型炸弹腹部"
 
 msgctxt "Body parts Aliens/KEY_CHIRON_TORSO_FIREWORM_NAME_TEMP"
 msgid "FIREWORM ABDOMEN"
-msgstr "[null]"
+msgstr "火虫腹部"
 
 msgctxt "Body parts Aliens/KEY_CHIRON_TORSO_GOO_NAME_TEMP"
 msgid "GOO ABDOMEN"
-msgstr "[null]"
+msgstr "粘液腹部"
 
 msgctxt "Body parts Aliens/KEY_CHIRON_TORSO_POISONWORM_NAME_TEMP"
 msgid "POISONWORM ABDOMEN"
-msgstr "[null]"
+msgstr "毒虫腹部"
 
 msgctxt "Body parts Aliens/KEY_CHIRON_SMASHER_NAME_TEMP"
 msgid "HEAVY LEG"
-msgstr "[null]"
+msgstr "重型腿部"
 
 msgctxt "Body parts Aliens/KEY_CHIRON_LEG_AGILE_DESCRIPTION_TEMP"
 msgid "Leaps to target location, destroying everything on its path"
-msgstr "[null]"
+msgstr "飞跃到目标位置，摧毁沿途的一切。"
 
 msgctxt "Body parts Aliens/KEY_CHIRON_LEG_BURROWING_DESCRIPTION_TEMP"
 msgid "Gives stability stance, increasing accuracy and rate of fire"
-msgstr "[null]"
+msgstr "可采取能增加稳定性、准度和射击速度的姿态。"
 
 msgctxt "Body parts Aliens/KEY_CHIRON_LEG_STOMPING_DESCRIPTION_TEMP"
 msgid "Area attack that can daze multiple targets"
-msgstr "[null]"
+msgstr "可眩晕多个目标的范围攻击"
 
 msgctxt "Body parts Aliens/KEY_CHIRON_HEAD_DESCRIPTION_TEMP"
 msgid "Chiron head"
-msgstr "[null]"
+msgstr "喀戎头部"
 
 msgctxt "Body parts Aliens/KEY_CHIRON_LEG_HEAVY_DESCRIPTION_TEMP"
 msgid "Heavy armored limb"
-msgstr "[null]"
+msgstr "重型装甲肢体"
 
 msgctxt "Body parts Aliens/KEY_CHIRON_LEG_DESCRIPTION_TEMP"
 msgid "Inflicts heavy damage and destroys armor"
-msgstr "[null]"
+msgstr "造成大量伤害并破坏护甲"
 
 msgctxt "Body parts Aliens/KEY_CHIRON_TORSO_DESCRIPTION_TEMP"
 msgid "Chiron torso"
-msgstr "[null]"
+msgstr "喀戎躯干"
 
 msgctxt "Body parts Aliens/KEY_CHIRON_TORSO_ACID_MORTAR_DESCRIPTION_TEMP"
 msgid "Launches 3 acid bombs"
-msgstr "[null]"
+msgstr "发射 3 枚酸蚀炸弹"
 
 msgctxt "Body parts Aliens/KEY_CHIRON_TORSO_ACIDWORM_DESCRIPTION_TEMP"
 msgid "Launch 3 Acidworms at long range"
-msgstr "[null]"
+msgstr "远距离发射 3 只酸虫"
 
 msgctxt "Body parts Aliens/KEY_CHIRON_TORSO_MORTAR_DESCRIPTION_TEMP"
 msgid "Launches 3 explosive projectiles"
-msgstr "[null]"
+msgstr "发射 3 枚爆炸炮弹"
 
 msgctxt "Body parts Aliens/KEY_CHIRON_TORSO_FIREWORM_DESCRIPTION_TEMP"
 msgid "Launch 3 Fireworms at long range"
-msgstr "[null]"
+msgstr "远距离发射 3 只火虫"
 
 msgctxt "Body parts Aliens/KEY_CHIRON_TORSO_GOO_DESCRIPTION_TEMP"
 msgid "Launches 3 goo bombs at long range"
-msgstr "[null]"
+msgstr "远距离发射 3 枚粘液炸弹"
 
 msgctxt "Body parts Aliens/KEY_CHIRON_TORSO_POISONWORM_DESCRIPTION_TEMP"
 msgid "Launch 3 Poisonworms at long range"
-msgstr "[null]"
+msgstr "远距离发射 3 只毒虫"
 
 msgctxt "Body parts Aliens/KEY_CHIRON_SMASHER_DESCRIPTION_TEMP"
 msgid "Inflicts heavy damage and destroys armor"
-msgstr "[null]"
+msgstr "造成大量伤害并破坏护甲"
 
 msgctxt "Body parts Aliens/KEY_BODY_NAME_TEMP"
 msgid "BODY"
-msgstr "[null]"
+msgstr "身体"
 
 msgctxt "Body parts Aliens/KEY_BODY_DESCRIPTION_TEMP"
 msgid "Body"
-msgstr "[null]"
+msgstr "身体"
 
 msgctxt "Body parts Aliens/KEY_ACIDWORM_EGG_NAME_TEMP"
-msgid "ACIDEWORM EGG"
-msgstr "[null]"
+msgid "ACIDWORM EGG"
+msgstr "酸虫卵"
 
 msgctxt "Body parts Aliens/KEY_FACEHUGGER_EGG_NAME_TEMP"
 msgid "MINDFRAGGER EGG"
-msgstr "[null]"
+msgstr "心控虫蛋"
 
 msgctxt "Body parts Aliens/KEY_FIREWORM_EGG_NAME_TEMP"
 msgid "FIREWORM EGG"
-msgstr "[null]"
+msgstr "酸虫卵"
 
 msgctxt "Body parts Aliens/KEY_POISONWORM_EGG_NAME_TEMP"
 msgid "POISONWORM EGG"
-msgstr "[null]"
+msgstr "毒虫卵"
 
 msgctxt "Body parts Aliens/KEY_SWARMER_EGG_NAME_TEMP"
-msgid "SWARMER EGG"
-msgstr "[null]"
+msgid "MYRMIDON EGG"
+msgstr "侍从卵"
 
 msgctxt "Body parts Aliens/KEY_ACIDWORM_EGG_DESCRIPTION_TEMP"
 msgid "Hatches an Acidworm"
-msgstr "[null]"
+msgstr "孵化出一只酸虫"
 
 msgctxt "Body parts Aliens/KEY_FACEHUGGER_EGG_DESCRIPTION_TEMP"
 msgid "Hatches a Mindfragger"
-msgstr "[null]"
+msgstr "孵化出一只心控虫"
 
 msgctxt "Body parts Aliens/KEY_FIREWORM_EGG_DESCRIPTION_TEMP"
 msgid "Hatches a Fireworm"
-msgstr "[null]"
+msgstr "孵化出一只火虫"
 
 msgctxt "Body parts Aliens/KEY_POISONWORM_EGG_DESCRIPTION_TEMP"
 msgid "Hatches a Poisonworm"
-msgstr "[null]"
+msgstr "孵化出一只毒虫"
 
 msgctxt "Body parts Aliens/KEY_SWARMER_EGG_DESCRIPTION_TEMP"
-msgid "Hatches a Swarmer"
-msgstr "[null]"
+msgid "Hatches a Myrmidon "
+msgstr "孵化出一只异形飞蜂"
 
 msgctxt "Body parts Aliens/KEY_LEG_NAME_TEMP"
 msgid "LEG"
-msgstr "[null]"
+msgstr "腿"
 
 msgctxt "Body parts Aliens/KEY_FACEHUGGER_HEAD_NAME_TEMP"
 msgid "MINDFRAGGER HEAD"
-msgstr "[null]"
+msgstr "心控虫头部"
 
 msgctxt "Body parts Aliens/KEY_LEG_DESCRIPTION_TEMP"
 msgid "Leg"
-msgstr "[null]"
+msgstr "腿"
 
 msgctxt "Body parts Aliens/KEY_FACEHUGGER_HEAD_DESCRIPTION_TEMP"
 msgid "Attaches to enemy unit's head and mind controls him"
-msgstr "[null]"
+msgstr "附着在敌方单位的头部，并对其进行心灵控制"
 
 msgctxt "Body parts Aliens/KEY_TRITON_SENSOR_HEAD_NAME_TEMP"
 msgid "SENSOR HEAD"
-msgstr "[null]"
+msgstr "传感器头部"
 
 msgctxt "Body parts Aliens/KEY_TRITON_SOUND_HEAD_NAME_TEMP"
 msgid "SILENCE HEAD"
-msgstr "[null]"
+msgstr "消音头部"
 
 msgctxt "Body parts Aliens/KEY_TRITON_LEG_AGILE_NAME_TEMP"
 msgid "AGILE LEG"
-msgstr "[null]"
+msgstr "敏捷腿部"
 
 msgctxt "Body parts Aliens/KEY_TRITON_LEG_STEALTH_NAME_TEMP"
 msgid "STEALTH LEG"
-msgstr "[null]"
+msgstr "潜行腿部"
 
 msgctxt "Body parts Aliens/KEY_TRITON_ARM_REGENERATION_NAME_TEMP"
 msgid "REGENERATION ARM"
-msgstr "[null]"
+msgstr "再生手臂"
 
 msgctxt "Body parts Aliens/KEY_TRITON_ARM_SHROWDER_NAME_TEMP"
 msgid "PAIN CHAMELEON ARM"
-msgstr "[null]"
+msgstr "应激反应手臂"
 
 msgctxt "Body parts Aliens/KEY_TRITON_TORSO_REGENERATION_NAME_TEMP"
 msgid "REGENERATION TORSO"
-msgstr "[null]"
+msgstr "再生躯干"
 
 msgctxt "Body parts Aliens/KEY_TRITON_TORSO_SHROWDER_NAME_TEMP"
 msgid "PAIN CHAMELEON TORSO"
-msgstr "[null]"
+msgstr "应激反应躯干"
 
 msgctxt "Body parts Aliens/KEY_TRITON_ARM_BLOODSUCKER_NAME_TEMP"
 msgid "BLOODSUCKING ARM"
-msgstr "[null]"
+msgstr "吸血手臂"
 
 msgctxt "Body parts Aliens/KEY_TRITON_ARM_MIST_NAME_TEMP"
 msgid "MIST EMITTER ARM"
-msgstr "[null]"
+msgstr "迷雾散发器手臂"
 
 msgctxt "Body parts Aliens/KEY_TRITON_ARM_PARALYZING_NAME_TEMP"
 msgid "PARALYZING ARM"
-msgstr "[null]"
+msgstr "麻痹手臂"
 
 msgctxt "Body parts Aliens/KEY_TRITON_SENSOR_HEAD_DESCRIPTION_TEMP"
 msgid "Doubles creature's perception"
-msgstr "[null]"
+msgstr "生物的感知加倍"
 
 msgctxt "Body parts Aliens/KEY_TRITON_SOUND_HEAD_DESCRIPTION_TEMP"
 msgid "Silences weapon attacks"
-msgstr "[null]"
+msgstr "武器攻击消音"
 
 msgctxt "Body parts Aliens/KEY_TRITON_LEG_AGILE_DESCRIPTION_TEMP"
 msgid "Increases creature's speed"
-msgstr "[null]"
+msgstr "增加生物的速度"
 
 msgctxt "Body parts Aliens/KEY_TRITON_LEG_STEALTH_DESCRIPTION_TEMP"
 msgid "Creature becomes invisible when dealt damage"
-msgstr "[null]"
+msgstr "造成伤害时使该生物隐形"
 
 msgctxt "Body parts Aliens/KEY_TRITON_ARM_REGENERATION_DESCRIPTION_TEMP"
 msgid "Restores health to damaged limbs"
-msgstr "[null]"
+msgstr "恢复受损肢体的生命值"
 
 msgctxt "Body parts Aliens/KEY_TRITON_ARM_SHROWDER_DESCRIPTION_TEMP"
 msgid "Creature becomes invisible when dealt damage"
-msgstr "[null]"
+msgstr "造成伤害时使该生物隐形"
 
 msgctxt "Body parts Aliens/KEY_TRITON_TORSO_REGENERATION_DESCRIPTION_TEMP"
 msgid "Restores health to damaged limbs"
-msgstr "[null]"
+msgstr "恢复受损肢体的生命值"
 
 msgctxt "Body parts Aliens/KEY_TRITON_TORSO_SHROWDER_DESCRIPTION_TEMP"
 msgid "Creature becomes invisible when dealt damage"
-msgstr "[null]"
+msgstr "造成伤害时使该生物隐形"
 
 msgctxt "Body parts Aliens/KEY_TRITON_ARM_BLOODSUCKER_DESCRIPTION_TEMP"
 msgid "Damages the enemy and regenerates the creature"
-msgstr "[null]"
+msgstr "对敌人造成伤害并治疗该生物"
 
 msgctxt "Body parts Aliens/KEY_TRITON_ARM_MIST_DESCRIPTION_TEMP"
 msgid "Launches projectiles that generate mist"
-msgstr "[null]"
+msgstr "发射可制造迷雾的炮弹"
 
 msgctxt "Body parts Aliens/KEY_TRITON_ARM_PARALYZING_DESCRIPTION_TEMP"
 msgid "Injects paralyzing agents into the enemy"
-msgstr "[null]"
+msgstr "对敌人注射麻痹药剂"
 
 msgctxt "Body parts Aliens/KEY_TRITON_ELITE_SENSOR_HEAD_NAME_TEMP"
 msgid "EVOLVED SENSOR HEAD"
-msgstr "[null]"
+msgstr "进化传感器头部"
 
 msgctxt "Body parts Aliens/KEY_TRITON_ELITE_SILENCE_HEAD_NAME_TEMP"
 msgid "EVOLVED SILENCE HEAD"
-msgstr "[null]"
+msgstr "进化消音头部"
 
 msgctxt "Body parts Aliens/KEY_TRITON_ELITE_LEG_AGILE_NAME_TEMP"
 msgid "EVOLVED AGILE LEG"
-msgstr "[null]"
+msgstr "进化敏捷腿部"
 
 msgctxt "Body parts Aliens/KEY_TRITON_ELITE_LEG_HEAVY_NAME_TEMP"
 msgid "EVOLVED STEALTH LEG"
-msgstr "[null]"
+msgstr "进化潜行腿部"
 
 msgctxt "Body parts Aliens/KEY_TRITON_ELITE_ARM_REGENERATION_NAME_TEMP"
 msgid "EVOLVED REGENERATION ARM"
-msgstr "[null]"
+msgstr "进化再生手臂"
 
 msgctxt "Body parts Aliens/KEY_TRITON_ELITE_ARM_SHROWDER_NAME_TEMP"
 msgid "EVOLVED PAIN CHAMELEON ARM"
-msgstr "[null]"
+msgstr "进化应激反应手臂"
 
 msgctxt "Body parts Aliens/KEY_TRITON_ELITE_SHROWDER_TORSO_NAME_TEMP"
 msgid "EVOLVED PAIN CHAMELEON TORSO"
-msgstr "[null]"
+msgstr "进化应激反应躯干"
 
 msgctxt "Body parts Aliens/KEY_TRITON_ELITE_REGENERATION_TORSO_NAME_TEMP"
 msgid "EVOLVED REGENERATION TORSO"
-msgstr "[null]"
+msgstr "进化再生躯干"
 
 msgctxt "Body parts Aliens/KEY_TRITON_ELITE_ARM_BLOODSUCKER_NAME_TEMP"
 msgid "EVOLVED BLOODSUCKING ARM"
-msgstr "[null]"
+msgstr "进化吸血手臂"
 
 msgctxt "Body parts Aliens/KEY_TRITON_ELITE_ARM_MIST_NAME_TEMP"
 msgid "EVOLVED MIST EMITTER ARM"
-msgstr "[null]"
+msgstr "进化迷雾散发器手臂"
 
 msgctxt "Body parts Aliens/KEY_TRITON_ELITE_ARM_PARALYZING_NAME_TEMP"
 msgid "EVOLVED PARALYZING ARM"
-msgstr "[null]"
+msgstr "进化麻痹手臂"
 
 msgctxt "Body parts Aliens/KEY_TRITON_ELITE_SENSOR_HEAD_DESCRIPTION_TEMP"
 msgid "Doubles creature's perception"
-msgstr "[null]"
+msgstr "生物的感知加倍"
 
 msgctxt "Body parts Aliens/KEY_TRITON_ELITE_SILENCE_HEAD_DESCRIPTION_TEMP"
 msgid "Silences weapon attacks"
-msgstr "[null]"
+msgstr "武器攻击消音"
 
 msgctxt "Body parts Aliens/KEY_TRITON_ELITE_LEG_AGILE_DESCRIPTION_TEMP"
 msgid "Increases creature's speed"
-msgstr "[null]"
+msgstr "增加生物的速度"
 
 msgctxt "Body parts Aliens/KEY_TRITON_ELITE_LEG_HEAVY_DESCRIPTION_TEMP"
 msgid "Creature becomes invisible when dealt damage"
-msgstr "[null]"
+msgstr "造成伤害时使该生物隐形"
 
 msgctxt "Body parts Aliens/KEY_TRITON_ELITE_ARM_REGENERATION_DESCRIPTION_TEMP"
 msgid "Restores health to damaged limbs"
-msgstr "[null]"
+msgstr "恢复受损肢体的生命值"
 
 msgctxt "Body parts Aliens/KEY_TRITON_ELITE_ARM_SHROWDER_DESCRIPTION_TEMP"
 msgid "Creature becomes invisible when dealt damage"
-msgstr "[null]"
+msgstr "造成伤害时使该生物隐形"
 
 msgctxt "Body parts Aliens/KEY_TRITON_ELITE_TORSO_SHROWDER_DESCRIPTION_TEMP"
 msgid "Creature becomes invisible when dealt damage"
-msgstr "[null]"
+msgstr "造成伤害时使该生物隐形"
 
 msgctxt "Body parts Aliens/KEY_TRITON_ELITE_TORSO_REGENERATION_DESCRIPTION_TEMP"
 msgid "Restores health to damaged limbs"
-msgstr "[null]"
+msgstr "恢复受损肢体的生命值"
 
 msgctxt "Body parts Aliens/KEY_TRITON_ELITE_ARM_BLOODSUCKER_DESCRIPTION_TEMP"
 msgid "Damages the enemy and regenerates the creature"
-msgstr "[null]"
+msgstr "对敌人造成伤害并治疗该生物"
 
 msgctxt "Body parts Aliens/KEY_TRITON_ELITE_ARM_MIST_DESCRIPTION_TEMP"
 msgid "Launches projectiles that generate mist"
-msgstr "[null]"
+msgstr "发射可制造迷雾的炮弹"
 
 msgctxt "Body parts Aliens/KEY_TRITON_ELITE_ARM_PARALYZING_DESCRIPTION_TEMP"
 msgid "Injects paralyzing agents into the enemy"
-msgstr "[null]"
+msgstr "对敌人注射麻痹药剂"
 
 msgctxt "Body parts Aliens/KEY_MUTOG_LEG_AGILE_NAME_TEMP"
 msgid "AGILE LEG"
-msgstr "[null]"
+msgstr "敏捷腿部"
 
 msgctxt "Body parts Aliens/KEY_MUTOG_LEG_REGENERATION_NAME_TEMP"
 msgid "REGENERATION LEG"
-msgstr "[null]"
+msgstr "再生腿部"
 
 msgctxt "Body parts Aliens/KEY_MUTOG_HEAD_RAMMING_NAME_TEMP"
 msgid "RAMMING HEAD"
-msgstr "[null]"
+msgstr "冲撞头部"
 
 msgctxt "Body parts Aliens/KEY_MUTOG_TORSO_NAME_TEMP"
 msgid "TORSO"
-msgstr "[null]"
+msgstr "躯干"
 
 msgctxt "Body parts Aliens/KEY_MUTOG_HEAD_VENOM_NAME_TEMP"
 msgid "VENOMOUS HEAD"
-msgstr "[null]"
+msgstr "剧毒头部"
 
 msgctxt "Body parts Aliens/KEY_MUTOG_TAIL_BASHER_NAME_TEMP"
 msgid "BASHER TAIL"
-msgstr "[null]"
+msgstr "破坏者尾巴"
 
 msgctxt "Body parts Aliens/KEY_MUTOG_TAIL_SMASHER_NAME_TEMP"
 msgid "SLASHER TAIL"
-msgstr "[null]"
+msgstr "刀尾"
 
 msgctxt "Body parts Aliens/KEY_MUTOG_LEG_AGILE_DESCRIPTION_TEMP"
 msgid "Increases the speed of the mutog"
-msgstr "[null]"
+msgstr "增加变异犬的速度"
 
 msgctxt "Body parts Aliens/KEY_MUTOG_LEG_REGENERATION_DESCRIPTION_TEMP"
 msgid "Regenerates injuries every turn"
-msgstr "[null]"
+msgstr "每回合治愈伤口"
 
 msgctxt "Body parts Aliens/KEY_MUTOG_HEAD_RAMMING_DESCRIPTION_TEMP"
 msgid "Capable of shredding armor and dazing the enemy"
-msgstr "[null]"
+msgstr "能够粉碎护甲并眩晕敌人"
 
 msgctxt "Body parts Aliens/KEY_MUTOG_TORSO_DESCRIPTION_TEMP"
 msgid "Mutog torso"
-msgstr "[null]"
+msgstr "变异犬躯干"
 
 msgctxt "Body parts Aliens/KEY_MUTOG_HEAD_VENOM_DESCRIPTION_TEMP"
 msgid "Performs attack that injects venom into the enemy"
-msgstr "[null]"
+msgstr "施展能够对敌人注射剧毒的攻击"
 
 msgctxt "Body parts Aliens/KEY_MUTOG_TAIL_BASHER_DESCRIPTION_TEMP"
 msgid "Performs attack that can daze the enemy"
-msgstr "[null]"
+msgstr "施展能够眩晕敌人的攻击"
 
 msgctxt "Body parts Aliens/KEY_MUTOG_TAIL_SMASHER_DESCRIPTION_TEMP"
 msgid "Performs attack that can cause bleeding"
-msgstr "[null]"
+msgstr "施展能够施加流血效果的攻击"
 
 msgctxt "Body parts Aliens/KEY_AC_TORSO_SHIELDS_HOPLITE_NAME_TEMP"
 msgid "SHIELD HOPLITE"
-msgstr "[null]"
+msgstr "持盾重装步兵"
 
 msgctxt "Body parts Aliens/KEY_AC_TORSO_SHIELDS_HOPLITE_DESCRIPTION_TEMP"
 msgid "Armoured ancient guardian"
-msgstr "[null]"
+msgstr "装甲古代守护者"
 
 msgctxt "Body parts Aliens/KEY_AC_TORSO_DRILL_HOPLITE_NAME_TEMP"
 msgid "DRILL HOPLITE"
-msgstr "[null]"
+msgstr "钻机重装步兵"
 
 msgctxt "Body parts Aliens/KEY_AC_TORSO_DRILL_HOPLITE_DECRTIPTION_TEMP"
 msgid "Drill wielding ancient guardian"
-msgstr "[null]"
+msgstr "持钻机的古代守护者"
 
 msgctxt "Body parts Aliens/KEY_AC_LEG_HOPLITE_NAME_TEMP"
 msgid "GUARDIAN LEG"
-msgstr "[null]"
+msgstr "守护者腿部"
 
 msgctxt "Body parts Aliens/KEY_AC_DRILL_HOPLITE_NAME_TEMP"
 msgid "DRILL"
-msgstr "[null]"
+msgstr "钻机"
 
 msgctxt "Body parts Aliens/KEY_AC_SHIELD_HOPLITE_NAME_TEMP"
 msgid "ORICHALCUM SHIELDS"
-msgstr "[null]"
+msgstr "奥利哈刚护盾"
 
 msgctxt "Body parts Aliens/KEY_AC_POWERDRILL_TEMP"
 msgid "MUTANE-POWERED DRILL"
-msgstr "[null]"
+msgstr "突变烷动力钻机"
 
 msgctxt "Body parts Aliens/KEY_AC_GUARDIANBEAM_TEMP"
 msgid "GUARDIAN BEAM"
-msgstr "[null]"
+msgstr "守护者光束"
 
 msgctxt "Body parts Aliens/KEY_AC_ORICHALCUMSHIELD_TEMP"
 msgid "LIVING CRYSTAL SHIELD"
-msgstr "[null]"
+msgstr "活体水晶盾牌"
 
 msgctxt "Body parts Aliens/KEY_AC_LEG_HOPLITE_DESCRIPTION_TEMP"
 msgid "Hoplite Leg"
-msgstr "[null]"
+msgstr "重装步兵腿部"
 
 msgctxt "Body parts Aliens/KEY_AC_DRILL_HOPLITE_DESCRIPTION_TEMP"
 msgid "Mutane-powered drill"
-msgstr "[null]"
+msgstr "突变烷动力钻机"
 
 msgctxt "Body parts Aliens/KEY_AC_SHIELD_HOPLITE_DESCRIPTION_TEMP"
 msgid "Sharp-edged shields made of Orichalcum"
-msgstr "[null]"
+msgstr "由奥利哈刚制成的尖角盾牌"
 
 msgctxt "Body parts Aliens/KEY_AC_POWERDRILL_DESCRIPTION_TEMP"
 msgid "A drill powered by Protean Mutane turbine"
-msgstr "[null]"
+msgstr "由普罗透斯突变烷涡轮驱动的钻机"
 
 msgctxt "Body parts Aliens/KEY_AC_GUARDIANBEAM_DESCRIPTION_TEMP"
 msgid "A devastating beam weapon"
-msgstr "[null]"
+msgstr "毁灭性极强的光束武器"
 
 msgctxt "Body parts Aliens/KEY_AC_ORICHALCUMSHIELD_DESCRIPTION_TEMP"
 msgid "A sharp-edged shield made of Living Crystal"
-msgstr "[null]"
+msgstr "由活体水晶制成的尖角盾牌"
 
 msgctxt "Body parts Aliens/KEY_AC_LEG_CRYSTAL_GUARDIAN_NAME_TEMP"
 msgid "LIVING CRYSTAL LEG"
-msgstr "[null]"
+msgstr "活体水晶腿部"
 
 msgctxt "Body parts Aliens/KEY_AC_LEG_ORICHALCUM_GUARDIAN_NAME_TEMP"
 msgid "ORICHALCUM LEG"
-msgstr "[null]"
+msgstr "奥利哈刚腿部"
 
 msgctxt "Body parts Aliens/KEY_AC_LEG_PROTEAN_GUARDIAN_NAME_TEMP"
 msgid "PROTEAN MUTANE LEG"
-msgstr "[null]"
+msgstr "普罗透斯突变烷腿部"
 
 msgctxt "Body parts Aliens/KEY_AC_TORSO_CRYSTAL_GUARDIAN_NAME_TEMP"
 msgid "LIVING CRYSTAL CYCLOPS"
-msgstr "[null]"
+msgstr "活体水晶独眼巨人"
 
 msgctxt "Body parts Aliens/KEY_AC_TORSO_ORICHALCUM_GUARDIAN_NAME_TEMP"
 msgid "ORICHALCYM CYCLOPS"
-msgstr "[null]"
+msgstr "奥利哈刚独眼巨人"
 
 msgctxt "Body parts Aliens/KEY_AC_TORSO_PROTEAN_GUARDIAN_NAME_TEMP"
 msgid "PROTEAN MUTANE CYCLOPS"
-msgstr "[null]"
+msgstr "普罗透斯突变烷独眼巨人"
 
 msgctxt "Body parts Aliens/KEY_AC_GUARDIANBEAM_CRYSTAL_NAME_TEMP"
 msgid "LIVING CRYSTAL BEAM"
-msgstr "[null]"
+msgstr "活体水晶光束"
 
 msgctxt "Body parts Aliens/KEY_AC_GUARDIANBEAM_ORICHALCUM_NAME_TEMP"
 msgid "ORICHALCUM BEAM"
-msgstr "[null]"
+msgstr "奥利哈刚光束"
 
 msgctxt "Body parts Aliens/KEY_AC_GUARDIANBEAM_PROTEAN_NAME_TEMP"
 msgid "PROTEAN MUTANE BEAM"
-msgstr "[null]"
+msgstr "普罗透斯突变烷光束"
 
 msgctxt "Body parts Aliens/KEY_AC_LEG_CRYSTAL_GUARDIAN_DESCRIPTION_TEMP"
 msgid "Limb made of Living Crystal"
-msgstr "[null]"
+msgstr "由活体水晶制成的肢体"
 
 msgctxt "Body parts Aliens/KEY_AC_LEG_ORICHALCUM_GUARDIAN_DESCRIPTION_TEMP"
 msgid "Limb made of Orichalcum"
-msgstr "[null]"
+msgstr "由奥利哈刚制成的肢体"
 
 msgctxt "Body parts Aliens/KEY_AC_LEG_PROTEAN_GUARDIAN_DESCRIPTION_TEMP"
 msgid "Limb powered by Protean Mutane Gas"
-msgstr "[null]"
+msgstr "由普罗透斯突变烷气体驱动的肢体"
 
 msgctxt "Body parts Aliens/KEY_AC_TORSO_CRYSTAL_GUARDIAN_DESCRIPTION_TEMP"
 msgid "Ancient Guardian made of Living Crystal"
-msgstr "[null]"
+msgstr "由活体水晶制成的古代守护者"
 
 msgctxt "Body parts Aliens/KEY_AC_TORSO_ORICHALCUM_GUARDIAN_DESCRIPTION_TEMP"
 msgid "Ancient Guardian made of Orichalcum"
-msgstr "[null]"
+msgstr "由奥利哈刚制成的古代守护者"
 
 msgctxt "Body parts Aliens/KEY_AC_TORSO_PROTEAN_GUARDIAN_DESCRIPTION_TEMP"
 msgid "Ancient Guardian powered by Protean Mutane Gas"
-msgstr "[null]"
+msgstr "由普罗透斯突变烷气体驱动的古代守护者"
 
 msgctxt "Body parts Aliens/KEY_AC_GUARDIANBEAM_CRYSTAL_DESCRIPTION_TEMP"
 msgid "A devastating Living Crystal powered beam"
-msgstr "[null]"
+msgstr "毁灭性极强的光束，以活体水晶驱动"
 
 msgctxt "Body parts Aliens/KEY_AC_GUARDIANBEAM_ORICHALCUM_DESCRIPTION_TEMP"
 msgid "A devastating Orichalcum powered beam"
-msgstr "[null]"
+msgstr "毁灭性极强的光束，以奥利哈刚驱动"
 
 msgctxt "Body parts Aliens/KEY_AC_GUARDIANBEAM_PROTEAN_DESCRIPTION_TEMP"
 msgid "A devastating Protean Mutane powered beam"
-msgstr "[null]"
+msgstr "毁灭性极强的光束，以普罗透斯突变烷驱动"
 
 msgctxt "Body parts Aliens/KEY_WORM_ACID_TORSO_NAME"
 msgid "ACIDWORM TORSO"
-msgstr "[null]"
+msgstr "酸虫躯干"
 
 msgctxt "Body parts Aliens/KEY_WORM_ACID_TORSO_DESCRIPTION"
 msgid "Explodes and damages nearby enemies with acid"
-msgstr "[null]"
+msgstr "爆炸并以强酸伤害附近的敌人。"
 
 msgctxt "Body parts Aliens/KEY_WORM_FIRE_TORSO_NAME"
 msgid "FIREWORM TORSO"
-msgstr "[null]"
+msgstr "火虫躯干"
 
 msgctxt "Body parts Aliens/KEY_WORM_FIRE_TORSO_DESCRIPTION"
 msgid "Explodes and sets nearby enemies ablaze"
-msgstr "[null]"
+msgstr "爆炸并引燃附近的敌人。"
 
 msgctxt "Body parts Aliens/KEY_WORM_POISON_TORSO_NAME"
 msgid "POISONWORM TORSO"
-msgstr "[null]"
+msgstr "毒虫躯干"
 
 msgctxt "Body parts Aliens/KEY_WORM_POISON_TORSO_DESCRIPTION"
 msgid "Explodes affects neaby enemies with poison"
-msgstr "[null]"
+msgstr "爆炸并对附近敌人施加剧毒。"
+
+msgctxt "Body parts Aliens/KEY_AC_LEG_HOPLITE_NAME"
+msgid "GUARDIAN LEG"
+msgstr "守护者腿部"
 
 msgctxt "Equipment/KEY_AMMO_AN_ACID_HANDGUN_DESCRIPTION"
 msgid "Disciples of Anu Acid Handgun Magazine"

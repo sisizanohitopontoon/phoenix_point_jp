@@ -654,17 +654,17 @@ msgctxt "Research/PX_ALIEN_COLONY_RESEARCHDEF_UNLOCK"
 msgid "The underground breeding sites of the Pandorans must form a crucial part of their biology, and should be investigated as soon as possible."
 msgstr "Les sites souterrains de reproduction des Pandoriens doivent former une partie cruciale de leur biologie, et devraient être examinés au plus vite."
 
-msgctxt "Research/PX_ALIEN_EVOLVEDALIENS_RESEARCHDEF_COMPLETE"
-msgid "Field reports are indicating that some Pandorans of the Arthron and Triton types are gradually developing resistances and counters to our weaponry. While this process in some ways resembles traditional evolution, it is clearly a much more directed process. Rather than adapting to evolutionary pressure, the Pandorans are being adapted with a goal in mind - the eradication of humanity."
-msgstr "Les rapports sur le terrain indiquent que des Pandoriens des types Arthron et Triton développent progressivement des résistances et des contres à notre arsenal. Ce processus ressemble en quelque sorte à une évolution traditionnelle, mais il est clairement plus direct. Au lieu de s'adapter à la pression de la sélection, les Pandoriens s'adaptent avec un objectif à l'esprit – l'éradication de l'humanité."
-
 msgctxt "Research/PX_ALIEN_EVOLVEDALIENS_RESEARCHDEF_NAME"
 msgid "Pandoran Evolution"
 msgstr "Évolution pandorienne"
 
 msgctxt "Research/PX_ALIEN_EVOLVEDALIENS_RESEARCHDEF_UNLOCK"
-msgid "Summary: The fireworm contains multiple chambers of various chemicals, which are mixed on detection of an enemy to cause a large incendiary explosion. The creature kills itself in the process.[LF][LF]Genetic origins: 28% Annelid, 72% Unknown[LF][LF]Function: To inflict as much damage through an incendiary explosion as possible. Possibly a defensive mutation for Pandoran nests, but has been seen in offensive roles.[LF][LF]Mechanism: The powerful incendiary chemical mixture is combined via several internal chambers.[LF][LF]Mobility: Suprisingly agile, with limited high jump capability.[LF][LF]Strength: Immune to fire.[LF][LF]Weakness: Relatively easy to kill - vulnerable to explosives."
-msgstr "Synthèse : le Ver de feu contient plusieurs chambres de substances chimiques différentes, qui sont mélangées lorsqu'un ennemi est détecté. Cela produit une grosse explosion incendiaire. La créature se sacrifie dans le processus.[LF] [LF] Origines génétiques : 28 % annélide, 72 % inconnu.[LF] [LF] Fonction : infliger le plus de dégâts possible dans une explosion incendiaire. Potentiellement une mutation défensive pour les Nids pandoriens, mais a été observée dans des rôles offensifs.[LF][LF] Mécanisme : le mélange incendiaire puissant est combiné au moyen de plusieurs chambres internes.[LF] [LF] Mobilité : étonnamment agile, avec une capacité limitée de saut en hauteur.[LF] [LF] Point fort : immunité contre le feu.[LF] [LF] Point faible : relativement facile à éliminer – vulnérable aux explosifs."
+msgid "Field teams have reported seeing mutated versions of Arthrons and Tritons with evolved body parts. While similar in appearance to the original classifications, these new specimens are considerably tougher. We could be witnessing the emergence of several new types of Pandoran."
+msgstr "Les équipes sur le terrain ont signalé avoir vu des versions mutantes d'Arthrons et de Tritons avec des parties du corps ayant subi une évolution. Bien qu'ils soient similaires en apparence aux classifications d'origine, ces nouveaux spécimens sont considérablement plus robustes. Nous pourrions observer l'émergence de plusieurs nouveaux types de Pandoriens."
+
+msgctxt "Research/PX_ALIEN_EVOLVEDALIENS_RESEARCHDEF_COMPLETE"
+msgid "Field reports are indicating that some Pandorans of the Arthron and Triton types are gradually developing resistances and counters to our weaponry. While this process in some ways resembles traditional evolution, it is clearly a much more directed process. Rather than adapting to evolutionary pressure, the Pandorans are being adapted with a goal in mind - the eradication of humanity."
+msgstr "Les rapports sur le terrain indiquent que des Pandoriens des types Arthron et Triton développent progressivement des résistances et des contres à notre arsenal. Ce processus ressemble en quelque sorte à une évolution traditionnelle, mais il est clairement plus direct. Au lieu de s'adapter à la pression de la sélection, les Pandoriens s'adaptent avec un objectif à l'esprit – l'éradication de l'humanité."
 
 msgctxt "Research/PX_ALIEN_FIREWORM_RESEARCHDEF_NAME"
 msgid "Fireworm Autopsy"
@@ -1463,7 +1463,7 @@ msgid "Mist Repeller technology would be a significant step towards keeping sett
 msgstr "Un repousseur de brume serait un atout technologique de taille pour aider à protéger les colonies et les bases contre les incursions."
 
 msgctxt "Research/SYN_MOONDATAANALYSIS_RESEARCHDEF_BENEFITS"
-msgid "Damage done to Pandoran structures is increased by 10%."
+msgid "Damage done to all pandoran units is increased by 10%."
 msgstr "Les dégâts infligés aux installations pandoriennes augmentent de 10 %."
 
 msgctxt "Research/SYN_MOONDATAANALYSIS_RESEARCHDEF_COMPLETE"
@@ -3191,7 +3191,7 @@ msgid "Synedrion incinerator missile"
 msgstr "Missile incinérateur du Synédrion."
 
 msgctxt "DLC3 Behemoth/KEY_FS_SYN_INCINERATOR_MISSILE_MODULE_RESEARCHDEF_COMPLETE"
-msgid "The Prometheus air-to-air incinerator is Synedrion's primary way of dealing with organic threats in the sky. Some speculate that the pain from the hellfire unleashed on flying Pandorans afflicts psychological damage to the supreme inteligence that's guiding them. Others deny this theory as supersticious wishful thinking. Whatever the case, the Prometheus AAM has proven to be an extremely effective weapon in aerial warfare."
+msgid "The Prometheus air-to-air incinerator is Synedrion's primary way of dealing with organic threats in the sky. Some speculate that the pain from the hellfire unleashed on flying Pandorans afflicts psychological damage to the supreme intelligence that's guiding them. Others deny this theory as superstitious wishful thinking. Whatever the case, the Prometheus AAM has proven to be an extremely effective weapon in aerial warfare."
 msgstr "L'incinérateur aérien Prométhée est l'arme que le Synédrion utilise principalement pour éliminer les ennemis organiques du ciel. Certains avancent que la douleur des feux de l'enfer déversés sur les Pandoriens volants cause des dégâts psychologiques à l'intelligence suprême qui les guide. D'autres réfutent cette théorie qu'ils voient comme un optimisme superstitieux. Peu importe qui a raison, le Prométhée AAM s'avère d'une efficacité extrême dans la guerre aérienne."
 
 msgctxt "DLC3 Behemoth/KEY_FS_SYN_INCINERATOR_MISSILE_MODULE_RESEARCHDEF_NAME"
@@ -3622,69 +3622,157 @@ msgctxt "DLC3 Behemoth/KEY_FS_PX_AERIAL_WARFARE_RESEARCHDEF_BENEFITS"
 msgid "Battle-ready Manticore is available for production"
 msgstr "La Manticore de combat est disponible à la production"
 
+msgctxt "DLC4 Hypnos/KEY_CH_ALN_ACHERON_RESEARCHDEF_NAME"
+msgid "ACHERON"
+msgstr "ACHERON"
+
+msgctxt "DLC4 Hypnos/KEY_CH_ALN_ACHERON_RESEARCHDEF_COMPLETE"
+msgid "Species classification AC-1[LF]A previously unknown creature discovered in a secret genetics laboratory. It was named the Acheron due to its ability to spread corruption affecting people's minds and will. Unlike other Pandoran specimens, this one does not rely on direct attack, rather affecting targets in an area around it. The Acheron has the ability to temporarily affect human accuracy, as well as call Pandoran reinforcements."
+msgstr "Classification de l'espèce AC-1[LF] Une créature auparavant inconnue découverte dans un laboratoire génétique secret. Elle a été nommée Acheron pour sa capacité à répandre la corruption, affectant l'esprit des gens et leur volonté. Contrairement aux autres spécimens de Pandoriens, celui-ci ne compte pas sur les attaques directes. Au lieu de cela, il affecte les cibles dans la zone environnante. L'Acheron peut temporairement affecter la précision humaine, ainsi qu'appeler des renforts pandoriens."
+
+msgctxt "DLC4 Hypnos/KEY_CH_ALN_ACHERON_PRIME_RESEARCHDEF_NAME"
+msgid "ACHERON PRIME"
+msgstr "ACHERON ACCOMPLI"
+
+msgctxt "DLC4 Hypnos/KEY_CH_ALN_ACHERON_PRIME_RESEARCHDEF_COMPLETE"
+msgid "Species classification AC-2[LF]A mutation of the Acheron, capable of corrupting soldiers on touch as well as release a regenerative substance in a large area that restores Pandoran armor. "
+msgstr "Une mutation de l'Acheron, capable de corrompre les soldats par le toucher et de libérer une substance régénératrice sur une vaste zone qui restaure l'armure des Pandoriens."
+
+msgctxt "DLC4 Hypnos/KEY_CH_ALN_ACHERON_ASCLEPIUS_RESEARCHDEF_NAME"
+msgid "ACHERON ASCLEPIUS"
+msgstr "ACHERON ASCLEPIUS"
+
+msgctxt "DLC4 Hypnos/KEY_CH_ALN_ACHERON_ASCLEPIUS_RESEARCHDEF_COMPLETE"
+msgid "Species classification AC-Alpha-1[LF]An advanced form of Acheron, this specimen has mutated to use regenerative spray to remove negative status effects from enemies as well as restore their armor. The greatest threat of the entity is its ability to mutate and transform corpses into Tritons and Arthrons. While on the battlefield, the creature releases organic chemicals, allowing all Pandorans to spread corruption."
+msgstr "Classification de l'espèce AC-Alpha-1[LF] Une forme avancée de l'Acheron, ce spécimen a muté pour utiliser un jet régénérateur afin de supprimer les effets d'états négatifs et de restaurer l'armure. Son plus gros point fort réside dans sa capacité à muter et à transformer les cadavres en Tritons et Arthrons. Sur le champ de bataille, cette créature libère des substances chimiques organiques, permettant à tous les Pandoriens de répandre la Corruption."
+
+msgctxt "DLC4 Hypnos/KEY_CH_ALN_ACHERON_ASCLEPIUS_CHAMPION_RESEARCHDEF_NAME"
+msgid "ACHERON ASCLEPIUS CHAMPION"
+msgstr "ACHERON ASCLEPIUS CHAMPION"
+
+msgctxt "DLC4 Hypnos/KEY_CH_ALN_ACHERON_ASCLEPIUS_CHAMPION_RESEARCHDEF_COMPLETE"
+msgid "Species classification AC-Alpha-2[LF]Considered a superior version of the Acheron Asclepius the specimen is of superior strength as well as capable of shooting goo at enemies to immobilise them. The creature retains the ability to recover the health and armor of other Pandorans, as well as grant them the ability to inflict corruption in combat. The Acheron is also capable of mutating living Pandorans out of dead bodies."
+msgstr "Classification de l'espèce AC-Alpha-2[LF] Considéré comme une version supérieur de l'Acheron Asclepius, ce spécimen a une force décuplée et peut projeter de la gelée sur ses ennemis pour les immobiliser. Cette créature a préservé sa capacité de restauration de santé et d'armure des autres Pandoriens, et peut toujours leur octroyer la capacité d'infliger la Corruption en combat. Cet Acheron est également capable de muter des Pandoriens vivants à partir de cadavres."
+
+msgctxt "DLC4 Hypnos/KEY_CH_ALN_ACHERON_ACHLYS_RESEARCHDEF_NAME"
+msgid "ACHERON ACHLYS"
+msgstr "ACHERON ACHLYS"
+
+msgctxt "DLC4 Hypnos/KEY_CH_ALN_ACHERON_ACHLYS_RESEARCHDEF_COMPLETE"
+msgid "Species classification AC-Beta-1[LF]An enhanced species of Acheron that has evolved to release chemicals capable of partially paralysing humans by temporarily reducing their speed or disabling a limb. Field observations have found that the creature is also capable of granting Pandorans the ability to inflict corruption on people, and also can mutate dead corpses, transforming them into Arthrons and Tritons. To be dealt with caution."
+msgstr "Classification de l'espèce AC-Bêta-1[LF] Une espèce améliorée de l'Acheron qui a évolué pour libérer des substances chimiques qui paralysent partiellement les humains en réduisant temporairement leur vitesse ou en désactivant un membre du corps. Les observations sur le terrain concluent que ces créatures peuvent également accorder aux Pandoriens la capacité d'infliger la Corruption aux gens et de transformer des cadavres en Arthrons et Tritons. À approcher avec prudence."
+
+msgctxt "DLC4 Hypnos/KEY_CH_ALN_ACHERON_ACHLYS_CHAMPION_RESEARCHDEF_NAME"
+msgid "ACHERON ACHLYS CHAMPION"
+msgstr "ACHERON ACHLYS CHAMPION"
+
+msgctxt "DLC4 Hypnos/KEY_CH_ALN_ACHERON_ACHLYS_CHAMPION_RESEARCHDEF_COMPLETE"
+msgid "Species classification AC-Beta-2[LF]Considered the most lethal specimen of Acheron, the creature is capable of releasing bio chemicals that cause humans to get corrupted, go temporarily blind, or even become gooed to the ground. The specimen can mutate and transform corpses into Pandorans, and also release corrosive substances in a large area affecting everything within. To be killed from a distance."
+msgstr "Classification de l'espèce AC-Bêta-2[LF] Considérée comme le spécimen d'Acheron le plus meurtrier, cette créature est capable de libérer des composants biochimiques qui peuvent contaminer les humains, provoquant un aveuglement temporaire ou en les collant au sol avec de la gelée. Ce spécimen peut muter et transformer des corps en Pandoriens, ainsi que libérer des substances corrosives sur une large zone, affectant tout en son sein. À éliminer à distance."
+
 msgctxt "DLC4 Hypnos/PX_ACHERON_DISSECTION_RESEARCHDEF_NAME"
-msgid "Acheron Autropsy"
-msgstr "[null]"
+msgid "Acheron Autopsy"
+msgstr "Autopsie d'Acheron"
 
 msgctxt "DLC4 Hypnos/PX_ACHERON_DISSECTION_RESEARCHDEF_UNLOCK"
-msgid "Specimen: ACHERON[LF]Acherons are vehicle sized creatures that focus more on affecting friends living creatures in a specific area than attacking directly. They are the only known Pandoran capable of spreading the new corrupted strain of pandoravirus."
-msgstr "[null]"
+msgid "Specimen: ACHERON[LF]Acherons are large sized creatures that focus more on affecting living creatures in a specific area than attacking directly. They are the only known Pandoran capable of spreading the new corrupted strain of Pandoravirus."
+msgstr "Spécimen : ACHERON[LF] Les Acherons sont de grandes créatures qui veulent davantage affecter des créatures vivantes dans une zone particulière que réaliser des attaques directes. C'est le seul Pandorien capable de répandre la nouvelle souche Corruption du Pandoravirus."
 
 msgctxt "DLC4 Hypnos/PX_ACHERON_DISSECTION_RESEARCHDEF_COMPLETE"
-msgid "Summary: There have been no sightings of this mutation prior to 2045. At present it remains unclear whether the creature evolved naturally or was the result of enhanced genetic experiments. All involved in the lab it broke out of have been found dead, and no research reconds have been recovered. The creature appears to be infected with an unseen strain of the Pandoravirus, capable of causing nightmares and slowly corrupting a person's sanity. As such a strict quarantene has been imposed while analyses continue.[LF][LF]Genetic origins: DNA of over 112 species has been found at present[LF][LF]Function: intelligence remains undetermined. It's speculated that its goal is to spread the new corrupted pandoravirus strain throughout the world[LF][LF]Offensive mutations: strong dispersal glands located on the creature's husk allow it to dispers biochemical droplets in a large area. Additionally the creature can squirt consetrated liquid through organs in its hands.[LF][LF]Mobility: the creature is fast and has the ability to jump at great distances[LF][LF]Weakness: the creature has been observed to adapt to any type of damage once dealt. it is recommended that attacks of various nature are used on it simultaneously before it can adjust."
-msgstr "[null]"
+msgid "Summary: There have been no sightings of this mutation prior to 2045. At present it remains unclear whether the creature evolved naturally or was the result of enhanced genetic experiments. All involved in the lab it broke out of have been found dead, and no research records have been recovered. The creature appears to be infected with an unseen strain of the Pandoravirus, capable of causing nightmares and slowly corrupting a person's sanity. As such a strict quarantine has been imposed while analyses continue.[LF][LF]Genetic origins: DNA of over 112 species has been found at present[LF][LF]Function: intelligence remains undetermined. It's speculated that its goal is to spread the new corrupted pandoravirus strain throughout the world[LF][LF]Offensive mutations: strong dispersal glands located on the creature's husk allow it to disperse biochemical droplets in a large area. Additionally the creature can squirt concentrated liquid through organs in its hands.[LF][LF]Mobility: the creature is fast and has the ability to jump at great distances[LF][LF]Weakness: the creature has been observed to adapt to any type of damage once dealt. it is recommended that attacks of various nature are used on it simultaneously before it can adjust."
+msgstr "Synthèse : Nous n'avons trouvé aucun rapport de cette mutation avant 2045. À l'heure actuelle, nous ne savons pas encore bien si la créature a évolué naturellement ou si c'est le résultat d'expériences génétiques avancées. Tous les chercheurs qui travaillaient dans le laboratoire duquel il s'est échappé ont été retrouvés morts et nous n'avons pu trouver aucune recherche. La créature semble infectée par une souche jusque là inconnue du Pandoravirus ; une souche capable de provoquer des cauchemars et de corrompre à petit feu la santé mentale d'une personne. Nous avons donc imposé une quarantaine stricte pour la durée de notre analyse.[LF] [LF] Origines génétiques : jusqu'ici, les ADN de plus de 112 espèces ont été trouvés.[LF] [LF] Fonction : son intelligence reste indéterminée. D'après les hypothèses avancées, son but serait de répandre la nouvelle souche corrompue du Pandoravirus dans le monde.[LF] [LF] Mutations offensives : des glandes proactives de propagation sont situées sur la coquille de la créature, celles-ci lui permettent de pulvériser des gouttelettes biochimiques sur de grandes zones. En outre, la créature peut jeter du liquide concentré par le biais d'organes dans ses mains.[LF] [LF] Mobilité : cette créature est rapide et peut faire des sauts d'une grande distance.[LF] [LF] Points faibles : selon nos observations, la créature s'adapte à tout type de dégâts qu'elle subit. Il est recommandé d'utiliser plusieurs attaques différentes simultanément avant qu'elle ne puisse s'adapter."
 
 msgctxt "DLC4 Hypnos/PX_ACHERON_DISSECTION_RESEARCHDEF_BENEFITS"
-msgid "Mutagen Grenades available for production"
-msgstr "[null]"
-
-msgctxt "DLC4 Hypnos/PX_ACHERON_VIVISECTION_RESEARCHDEF_NAME"
-msgid "Acheron Vivisection"
-msgstr "[null]"
-
-msgctxt "DLC4 Hypnos/PX_ACHERON_VIVISECTION_RESEARCHDEF_UNLOCK"
-msgid "Called the \"\"plague carrier,\"\" the specimen appears to be the only known pandoran that can adapt itself and others through biochemical elements of highly mutating nature. Due to its ability to spread corruption, its holding containment and research lab are quarantened and must undergo a full purge after use."
-msgstr "[null]"
-
-msgctxt "DLC4 Hypnos/PX_ACHERON_VIVISECTION_RESEARCHDEF_COMPLETE"
-msgid "Summary: There is no doubt that the specimen was artifically created. Analysis suggests that the primary goal of the creature was to spread a new strain of pandoravius (referred to as the Corruption). We can assume that the Acheron's ability to adapt to any threat and damage is a side effect of its body resisting the corruption's effects while still being able to spread it. Further tests suggest that unlike other Pandoran specimens this one might have been created in a human lab through the use of pandoran mutragens. The exact reason for this remains unknown.[LF][LF]Language: The specimen appears to have been constructed to mimic Pandoran forms of communication, despite it not being a Pandoran per se. This allows it to enter colonies unharmed and also call pandorans in vicinity to its location.[LF][LF]Countermeasures: tests have concluded that the Acheron becomes resistant to any type of weapon after receiving damage from it. The good news is that the creature's resistance doesn't improve further after that."
-msgstr "[null]"
-
-msgctxt "DLC4 Hypnos/PX_ACHERON_VIVISECTION_RESEARCHDEF_BENEFITS"
 msgid "Corruption treatment available"
-msgstr "[null]"
+msgstr "Traitement contre la Corruption disponible"
+
+msgctxt "DLC4 Hypnos/PX_ALIEN_LIVEACHERON_RESEARCHDEF_NAME"
+msgid "Acheron Vivisection"
+msgstr "Vivisection d'Acheron"
+
+msgctxt "DLC4 Hypnos/PX_ALIEN_LIVEACHERON_RESEARCHDEF_UNLOCK"
+msgid "Called the \"\"plague carrier,\"\" the specimen appears to be the only known pandoran that can adapt itself and others through biochemical elements of highly mutating nature. Due to its ability to spread corruption, its holding containment and research lab are quarantined and must undergo a full purge after use."
+msgstr "Appelé le « porteur du fléau », ce spécimen semble être le seul Pandorien connu qui puisse s'adapter et aider les autres à s'adapter également à l'aide d'éléments biochimiques d'un haut niveau mutatif. En raison de sa capacité à contaminer, sa zone de confinement et le labo de recherche sont en quarantaine et doivent passer par un nettoyage complet après utilisation."
+
+msgctxt "DLC4 Hypnos/PX_ALIEN_LIVEACHERON_RESEARCHDEF_COMPLETE"
+msgid "Summary: There is no doubt that the specimen was artificially created. Analysis suggests that the primary goal of the creature was to spread a new strain of Pandoravirus (referred to as the Corruption). We can assume that the Acheron's ability to adapt to any threat and damage is a side effect of its body resisting the corruption's effects while still being able to spread it. Further tests suggest that unlike other Pandoran specimens this one might have been created in a human lab through the use of pandoran mutagens. The exact reason for this remains unknown.[LF][LF]Language: The specimen appears to have been constructed to mimic Pandoran forms of communication, despite it not being a Pandoran per se. This allows it to enter colonies unharmed and also call Pandorans in vicinity to its location.[LF][LF]Countermeasures: tests have concluded that the Acheron becomes resistant to any type of weapon after receiving damage from it. The good news is that the creature's resistance doesn't improve further after that."
+msgstr "Synthèse : Il ne fait aucun doute que ce spécimen a été créé artificiellement. Les analyses suggèrent que l'objectif premier de cette créature est de répandre une nouvelle souche du Pandoravirus (que l'on appelle la Corruption). Nous pouvons supposer que la capacité de l'Acheron à s'adapter à toute menace est un effet secondaire de sa résistance corporelle aux effets de la Corruption tout en étant capable de la répandre. Des tests approfondis suggèrent que contrairement aux autres spécimens de Pandoriens, celui-ci pourrait avoir été créé dans un laboratoire humain à l'aide de mutagènes pandoriens. La raison exacte de cette création reste inconnue.[LF] [LF] Langage : ce spécimen semble avoir été créé pour imiter les formes de communication pandoriennes, bien que ce ne soit pas un Pandorien en soi. Ceci lui permet d'entrer dans les colonies sans être attaqué, mais également d'appeler les Pandoriens à proximité de sa position.[LF] [LF] Contremesures : les tests concluent que cet Acheron gagne en résistance contre tout type d'arme une fois qu'il en subit des dégâts. La bonne nouvelle, c'est que sa résistance ne croît pas plus que ça."
+
+msgctxt "DLC4 Hypnos/PX_ALIEN_LIVEACHERON_RESEARCHDEF_BENEFITS"
+msgid "Damage inflicted on Acherons is increased by 10%."
+msgstr "Les dégâts infligés aux Acherons augmentent de 10 %."
 
 msgctxt "DLC4 Hypnos/PX_MUTOID_RESEARCHDEF_NAME"
 msgid "Mutoid Genetics"
-msgstr "[null]"
+msgstr "Génétique mutoïde"
 
 msgctxt "DLC4 Hypnos/PX_MUTOID_RESEARCHDEF_UNLOCK"
-msgid "Research materials found in the unknown genetic lag have found to reference a serious of projects relating to construction of autonomous genetic entities. Apparently someone was trying to merge human subjects with Pandoran DNA in a more controlled fashion in order to create the idea soldier."
-msgstr "[null]"
+msgid "Research materials found in the unknown genetic lab have found to reference a series of projects relating to construction of autonomous genetic entities. Apparently someone was trying to merge human subjects with Pandoran DNA in a more controlled fashion in order to create the ideal soldier."
+msgstr "Le matériel de recherche trouvé dans le labo génétique inconnu fait référence à une série de projets en lien avec la création d'entités génétiques autonomes. Apparemment, quelqu'un essayait de fusionner des sujets humains et de l'ADN pandorien selon une méthode plus contrôlée afin de créer le soldat parfait."
 
 msgctxt "DLC4 Hypnos/PX_MUTOID_RESEARCHDEF_COMPLETE"
-msgid "After significant research, the secrets behind the \"\"Mutoid\"\" project have been uncovered. Despite their lack of ethics, the original scientists have successfully managed to find a way to build artifical human soldiers through the use of cloning technology and Pandoran mutagens. The newly created Mutoid soldiers thus are immune to the corrupted strain of the pandora virus and are capable of learning all human skills, and many of tha Pandorans' as well (provided DNA samples are available). The information has allowed the construction of a Mutoid lab, where such soldiers can be built."
-msgstr "[null]"
+msgid "After significant research, the secrets behind the \"\"Mutoid\"\" project have been uncovered. Despite their lack of ethics, the original scientists have successfully managed to find a way to build artificial human soldiers through the use of cloning technology and Pandoran mutagens. The newly created Mutoid soldiers thus are immune to the corrupted strain of the Pandoravirus and are capable of learning all human skills, and many of the Pandorans' as well (provided DNA samples are available)."
+msgstr "Après des recherches considérables, les secrets du projet « Mutoïde » ont été découverts. Malgré le manque d'éthique, les scientifiques d'origine ont réussi à trouver un moyen de créer des soldats humains artificiels à l'aide du clonage et de mutagènes pandoriens. Ces soldats mutoïdes sont immunisés contre la souche Corruption du Pandoravirus et sont capables d'apprendre des compétences humaines et de nombreuses capacités de Pandoriens (à condition que des échantillons d'ADN soient disponibles). "
 
 msgctxt "DLC4 Hypnos/PX_MUTOID_RESEARCHDEF_BENEFITS"
 msgid "Mutoid production available"
-msgstr "[null]"
+msgstr "La production de Mutoïdes est disponible"
 
 msgctxt "DLC4 Hypnos/PX_CORRUPTION_RESEARCHDEF_NAME"
 msgid "Corruption Research"
-msgstr "[null]"
+msgstr "Recherches sur la Corruption"
 
 msgctxt "DLC4 Hypnos/PX_CORRUPTION_RESEARCHDEF_UNLOCK"
 msgid "Finding a way to treat the new strain of Pandoravirus could be vital for the survival of humanity. With luck a permanent cure could also be discovered."
-msgstr "[null]"
+msgstr "Trouver un moyen de traiter la nouvelle souche du Pandoravirus pourrait s'avérer vital pour la survie de l'humanité. Avec un peu de chance, on pourrait découvrir un remède permanent."
 
 msgctxt "DLC4 Hypnos/PX_CORRUPTION_RESEARCHDEF_COMPLETE"
-msgid "Thanks to the Phoenix Initiattiave's processing power, a solution to treat the Corruption has been found. Testing on living specimens has confirmed that genetically enhanced mutagens could be used to treat anyone infected by this dangerous pandoravirus strain. While all medical facilities have been equipped with the necessary equipment, the treatmet is highly indovidual and requires a fresh supply of mutagens. Finding a permanent cure would require access to an original sample of the new pandoravirus strain."
-msgstr "[null]"
+msgid "Thanks to the Phoenix Initiative's processing power, a solution to treat the Corruption has been found. Testing on living specimens has confirmed that genetically enhanced mutagens could be used to treat anyone infected by this dangerous pandoravirus strain. While all medical facilities have been equipped with the necessary equipment, the treatment is highly individual and requires a fresh supply of mutagens. Finding a permanent cure would require access to an original sample of the new Pandoravirus strain."
+msgstr "Grâce à la puissance de traitement de l'Initiative Phoenix, nous avons trouvé un remède contre la Corruption. Les tests sur des spécimens vivants confirment que les mutagènes génétiquement améliorés peuvent être utilisés pour traiter toutes les personnes infectées par cette dangereuse souche du Pandoravirus. Tous les centres médicaux ont été équipés avec le nécessaire, mais le traitement est largement individuel et demande un nouveau stock de mutagènes. Pour trouver un remède permanent, il nous faudra accéder à l'échantillon d'origine de la nouvelle souche."
 
 msgctxt "DLC4 Hypnos/PX_CORRUPTION_RESEARCHDEF_BENEFITS"
 msgid "Corruption Sample Mission available"
-msgstr "[null]"
+msgstr "Mission Échantillon de Corruption disponible"
+
+msgctxt "DLC4 Hypnos/PX_ALIEN_LIVEACHERON_RESEARCHDEF_REVEAL"
+msgid "An Acheron specimen is required for the research to take place."
+msgstr "Un spécimen d'Acheron est requis pour ces recherches."
+
+msgctxt "DLC4 Hypnos/PX_HEAL_GRENADE_RESEARCHDEF_NAME"
+msgid "Vita Grenade"
+msgstr "Grenade Vita"
+
+msgctxt "DLC4 Hypnos/PX_HEAL_GRENADE_RESEARCHDEF_UNLOCK"
+msgid "Discoveries made during the Acheron autopsy have allowed us to make a theoretical model of a grenade with the ability to heal soldiers at a distance. Making a prototype of this is a key priority!"
+msgstr "Les découvertes réalisées lors de l'autopsie de l'Acheron nous ont permis de créer un modèle théorique de grenade qui peut soigner les soldats à distance. La fabrication du prototype est une priorité absolue !"
+
+msgctxt "DLC4 Hypnos/PX_HEAL_GRENADE_RESEARCHDEF_COMPLETE"
+msgid "After dozens of attempts we have finally discovered a way to make the Acheron spray useful in grenade form. Compact and efficient, the Vita grenade has the power to close minor wounds of all organic beings in a radius of several meters."
+msgstr "Après des dizaines de tentatives, nous avons enfin découvert un moyen de rendre le pulvérisateur d'Acheron utile sous forme de grenade. Compacte et efficace, la grenade Vita a le pouvoir de refermer les petites blessures de tous les êtres organiques dans un rayon de plusieurs mètres."
+
+msgctxt "DLC4 Hypnos/PX_HEAL_GRENADE_RESEARCHDEF_BENEFITS"
+msgid "VIta Grenades available for production"
+msgstr "Les grenades Vita sont disponibles à la production"
+
+msgctxt "DLC4 Hypnos/PX_ORIGINAL_ACHERON_RESEARCHDEF_NAME"
+msgid "Specimen 0"
+msgstr "Spécimen 0"
+
+msgctxt "DLC4 Hypnos/PX_ORIGINAL_ACHERON_RESEARCHDEF_UNLOCK"
+msgid "We have finally found one of the original Acheron specimens that escaped the rogue lab facility. Named, Specimen 0, this Acheron is one of the few Pandorans that have an original unmutated version of the corruption virus. Now that we have it in our facility, our efforts to find a cure can begin. "
+msgstr "Nous avons enfin trouvé l'un des premiers spécimens d'Acheron qui se sont échappés du laboratoire secret. Nommé Spécimen 0, cet Acheron est l'un des quelques Pandoriens dotés d'une version non mutée du virus de corruption. Maintenant que nous l'avons dans notre centre, nous pouvons commencer à chercher un remède."
+
+msgctxt "DLC4 Hypnos/PX_ORIGINAL_ACHERON_RESEARCHDEF_COMPLETE"
+msgid "The successful capture of Specimen 0 has led to a number of scientific breakthroughs. Thanks to the Phoenix Initiative's processing power, a solution to treat the Corruption has been found. Testing on living specimens has confirmed that genetically enhanced mutagens could be used to treat anyone infected by this dangerous Pandoravirus strain. While all medical facilities have been equipped with the necessary equipment, the treatment is highly individual and requires a fresh supply of mutagens. Finding a permanent cure would require access to an original sample of the new Pandoravirus strain."
+msgstr "La capture du Spécimen 0 a entraîné un certain nombre d'avancées scientifiques. Grâce à la puissance de traitement de l'Initiative Phoenix, un remède contre la Corruption a été trouvé. Les tests sur des spécimens vivants confirment que les mutagènes génétiquement améliorés pourraient être utilisés pour traiter toutes les personnes infectées par cette dangereuse souche du Pandoravirus. Tous les centres médicaux ont été équipés avec le nécessaire, mais le traitement est largement individuel et demanderait un nouveau stock de mutagènes. Pour trouver un remède permanent, il nous faudra accéder à l'échantillon d'origine de la nouvelle souche."
+
+msgctxt "DLC4 Hypnos/PX_ORIGINAL_ACHERON_RESEARCHDEF_BENEFITS"
+msgid "Corruption Sample Mission available"
+msgstr "Mission Échantillon de Corruption disponible"
+
+msgctxt "DLC4 Hypnos/PX_ALIEN_LIVEACHERON_RESEARCHDEF_SHORT"
+msgid "Capture 1 Acheron"
+msgstr "Capturer 1 Acheron"
 
 msgctxt "Polaris/PX_HELCANNON_RESEARCHDEF_NAME"
 msgid "Heavy Cannon Development"

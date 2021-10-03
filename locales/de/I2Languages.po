@@ -464,7 +464,7 @@ msgstr "Un rifugio è stato danneggiato dal Behemoth!"
 
 msgctxt "DLC 3 - Behemoth/KEY_GEOSCAPE_BEHEMOTH_INFEST_MESSAGE"
 msgid "A haven was infested by the Behemoth!"
-msgstr "[CR][LF]Un rifugio è stato infestato dal Behemoth!"
+msgstr "Un rifugio è stato infestato dal Behemoth!"
 
 msgctxt "DLC 3 - Behemoth/KEY_LAUNCH_MISSION_BEHEMOTH_DESCRIPTION"
 msgid "Deploy a squad against the Behemoth"
@@ -563,7 +563,7 @@ msgid "TRANSMISSION"
 msgstr "[null]"
 
 msgctxt "DLC 3 - Behemoth/KEY_DLC3_TAC_HINT_EILEEN_STORY_LOSE_DESCRIPTION"
-msgid "\"\"Phoenix, respond! Phoenix? Damn...[LF]If anybody receives this transmission: This is Citizen Eileen speaking. Your squad is missing, pressumed K.I.A. I am taking off with the armed Manticore. Stand by for future transmissions. Eileen out.\"\""
+msgid "\"\"Phoenix, respond! Phoenix? Damn...[LF]If anybody receives this transmission: This is Citizen Eileen speaking. Your squad is missing, presumed K.I.A. I am taking off with the armed Manticore. Stand by for future transmissions. Eileen out.\"\""
 msgstr "[null]"
 
 msgctxt "DLC 3 - Behemoth/KEY_DLC3_TAC_HINT_GILLS_NAME"
@@ -1127,7 +1127,7 @@ msgid "Protects onboard personnel if the aircraft is destroyed"
 msgstr "Protegge il personale a bordo in caso di distruzione del velivolo"
 
 msgctxt "DLC 3 - Behemoth/KEY_DLC3_GEOBONUS_STAMINA"
-msgid "Onbard personnel recovers Stamina"
+msgid "Onboard personnel recovers Stamina"
 msgstr "Il personale a bordo recupera resistenza"
 
 msgctxt "DLC 3 - Behemoth/KEY_DLC3_GEOBONUS_HITPOINTS"
@@ -1147,7 +1147,7 @@ msgid "INTERCEPT ENEMY AIRCRAFT"
 msgstr "INTERCETTA VELIVOLO NEMICO"
 
 msgctxt "DLC 3 - Behemoth/KEY_ABILITY_INTERCEPT_DESCRIPTION"
-msgid "Engage enemy aircraft in air comabt"
+msgid "Engage enemy aircraft in air combat"
 msgstr "Ingaggia un velivolo nemico in un combattimento aereo"
 
 msgctxt "DLC 3 - Behemoth/KEY_MESSAGE_NO_ENEMY_AIRCRAFTS"
@@ -1399,8 +1399,8 @@ msgid "The largest species of winged Pandoran discovered to date shows superior 
 msgstr "La specie più grossa di Pandora alati conosciuta ad oggi. Mostrano una forza e un'intelligenza superiori, e i loro schemi comportamentali complessi e imprevedibili li rendono la peggiore minaccia aerea per gli esseri umani."
 
 msgctxt "DLC 3 - Behemoth/KEY_DLC3_VEHICLE_ROSTER_NO_VEHICLES"
-msgid "No aircraft available. [LF]You can manufacture new aircraft in the MANUFACTORING tab."
-msgstr "Nessun velivolo disponibile.[LF] Puoi fabbricare un nuovo velivolo nel CENTRO TECNOLOGICO."
+msgid "No aircraft available. [LF]You can manufacture new aircraft in the MANUFACTURING tab."
+msgstr "Nessun velivolo disponibile. [LF] Puoi fabbricare un nuovo velivolo nella scheda FABBRICAZIONE."
 
 msgctxt "DLC 3 - Behemoth/KEY_DLC3_INTERCEPTION_FAILED"
 msgid "Your characters have suffered Stamina and Hit Point loss. Survivors will be transported to the nearest Phoenix base."
@@ -1758,165 +1758,1341 @@ msgctxt "DLC 3 - Behemoth/KEY_OBJECTIVE_B_BEHEMOTH_INJECTOR"
 msgid "INJECT THE VIROPHAGE AGENT [0/4]"
 msgstr "INIETTA L'AGENTE VIROFAGO [0/4]"
 
+msgctxt "DLC 3 - Behemoth/KEY_RADIAL_TOOLTIP"
+msgid "MODULE RADIAL"
+msgstr "RADIALE MODULI"
+
+msgctxt "DLC 3 - Behemoth/KEY_AUTO_BATTLE_TOOLTIP"
+msgid "AUTO-BATTLE ON/OFF"
+msgstr "COMBATTIMENTO AUTOMATICO ON/OFF"
+
+msgctxt "DLC 3 - Behemoth/KEY_RENAME_VEHICLE"
+msgid "Rename this vehicle?"
+msgstr "Vuoi rinominare questo veicolo?"
+
 msgctxt "DLC4 Hypnos/KEY_DLC4_TAC_HINT_ACHERON_ESCAPED_NAME"
 msgid "TRANSMISSION"
-msgstr "[null]"
+msgstr "TRASMISSIONE"
 
 msgctxt "DLC4 Hypnos/KEY_DLC4_TAC_HINT_ACHERON_ESCAPED_DESCRIPTION"
-msgid "The Acheron escaped!!!"
-msgstr "[null]"
+msgid "The Acheron escaped!"
+msgstr "L'Acheron è fuggito!"
 
 msgctxt "DLC4 Hypnos/KEY_TAC_HINT_STATUS_CORRUPTED_NAME"
-msgid "STATUS - CORRUPTED"
-msgstr "[null]"
+msgid "CORRUPTED"
+msgstr "CORRUZIONE"
 
 msgctxt "DLC4 Hypnos/KEY_TAC_HINT_STATUS_CORRUPTED_DESCRIPTION"
-msgid "Your soldier is corrupted, reducing their maximum Willpower. If Corruption becomes greater than the soldier’s maximum Willpower, the soldier will die."
-msgstr "[null]"
+msgid "Your soldier is corrupted, reducing their Willpower. The lower a soldier's Willpower becomes, the more susceptible they are to panic or mind control. As an interesting side effect, corrupted soldiers deal additional 2% damage for every 1 point of corruption.[LF][LF]Corruption can be stacked, so if you soldiers are attacked multiple times by a corrupting Pandoran, their corruption will increase."
+msgstr "Il tuo soldato è corrotto, ciò riduce la sua volontà. Man mano che la volontà dei soldati si riduce, essi diventeranno più vulnerabili al panico e al controllo della mente. Un interessante effetto collaterale è che i soldati corrotti infliggono il 2% di danni addizionali per ogni punto di corruzione.[LF] [LF] La corruzione si accumula, per cui se i tuoi soldati subiscono vari attacchi da un Pandora corrotto, la loro corruzione aumenterà."
 
 msgctxt "DLC4 Hypnos/KEY_TAC_HINT_STATUS_TREMBLING_NAME"
-msgid "STATUS - TREMBLING"
-msgstr "[null]"
+msgid "TREMBLING"
+msgstr "TREMITO"
 
 msgctxt "DLC4 Hypnos/KEY_TAC_HINT_STATUS_TREMBLING_DESCRIPTION"
-msgid "Your soldier is trembling. While in this state the soldier's accuracy will be reduced bu [50%] for 1 turn."
-msgstr "[null]"
+msgid "Accuracy reduced by 50% for 1 turn."
+msgstr "La precisione è ridotta del 50% per 1 turno."
 
 msgctxt "DLC4 Hypnos/KEY_TAC_HINT_STATUS_SLOWED_NAME"
-msgid "STATUS - SLOWED"
-msgstr "[null]"
+msgid "SLOWED"
+msgstr "RALLENTAMENTO"
 
 msgctxt "DLC4 Hypnos/KEY_TAC_HINT_STATUS_SLOWED_DESCRIPTION"
-msgid "Your soldier is slowed. While in this state the soldier's speed will be reduced bu [75%] for 1 turn."
-msgstr "[null]"
+msgid "Speed is reduced by 50% for 1 turn."
+msgstr "La velocità è ridotta del 50% per 1 turno."
 
 msgctxt "DLC4 Hypnos/KEY_TAC_HINT_STATUS_STRAINED_NAME"
-msgid "STATUS - STRAINED"
-msgstr "[null]"
+msgid "STRAINED"
+msgstr "LOGORAMENTO"
 
 msgctxt "DLC4 Hypnos/KEY_TAC_HINT_STATUS_STRAINED_DESCRIPTION"
-msgid "Your soldier has been strained. One, or more, of the soldier's limbs are temporarily disabled for 1 turn."
-msgstr "[null]"
+msgid "One, or more, limbs are temporarily disabled for 1 turn."
+msgstr "Uno o più arti sono temporaneamente fuori uso, per 1 turno."
 
 msgctxt "DLC4 Hypnos/KEY_TAC_HINT_STATUS_BLINDED_NAME"
-msgid "STATUS - BLINDED"
-msgstr "[null]"
+msgid "BLINDED"
+msgstr "ACCECAMENTO"
 
 msgctxt "DLC4 Hypnos/KEY_TAC_HINT_STATUS_BLINDED_DESCRIPTION"
-msgid "Your soldier is blinded. While in this state the soldier's perception will be reduced bu [75%] for 1 turn."
-msgstr "[null]"
+msgid "Perception is reduced by 75% for 1 turn."
+msgstr "La percezione è ridotta del 75% per 1 turno."
 
 msgctxt "DLC4 Hypnos/KEY_TAC_HINT_ENEMY_SPECIAL_CORRUPTION_NAME"
 msgid "PANDORAN SUPPLEMENTAL - CORRUPTION DAMAGE"
-msgstr "[null]"
+msgstr "SUPPLEMENTO PANDORA - DANNI DA CORRUZIONE"
 
 msgctxt "DLC4 Hypnos/KEY_TAC_HINT_ENEMY_SPECIAL_CORRUPTION_DESCRIPTION"
-msgid "Corruption damage infects a soldier with corruption. Once infected, the corruption will grow, reducing the soldier's Willpower with time. When the corruption value exceeds the Willpower, the soldier will die."
-msgstr "[null]"
+msgid "Corruption damage infects a soldier with corruption. Once infected, the corruption will grow, reducing the soldier's Willpower over time. For every 1 point of corruption, damage dealt in combat increases by 2%."
+msgstr "I danni da corruzione infettano il soldato con la corruzione. Una volta infetto, la corruzione aumenta, riducendo nel tempo la volontà del soldato. Per ogni punto di corruzione, i danni inflitti in combattimento aumentano del 2%."
 
 msgctxt "DLC4 Hypnos/KEY_TAC_HINT_ENEMY_SPECIAL_RESIST_NAME"
 msgid "PANDORAN SUPPLEMENTAL - DYNAMIC RESISTANCE"
-msgstr "[null]"
+msgstr "SUPPLEMENTO PANDORA - RESISTENZA DINAMICA"
 
 msgctxt "DLC4 Hypnos/KEY_TAC_HINT_ENEMY_SPECIAL_RESIST_DESCRIPTION"
-msgid "Dynamic resistance allows a creature to adapt to any type of attack. After receiving damage of a certain type, creatures with dynamic resistance will only suffer 50% of that type of damage effect."
-msgstr "[null]"
+msgid "This allows a creature to adapt to any type of attack. After receiving damage of a certain type, creatures with dynamic resistance will only suffer 50% of that type of damage effect."
+msgstr "Permette alla creatura di adattarsi a ogni tipo di attacco. Dopo aver subito danni di un certo tipo, la creatura dotata di resistenza dinamica subirà successivamente soltanto il 50% dell'effetto di quel tipo di danni."
 
 msgctxt "DLC4 Hypnos/KEY_TAC_HINT_ENEMY_SPECIAL_REINFORCEMENTS_NAME"
 msgid "PANDORAN SUPPLEMENTAL - CALLING REINFORCEMENTS"
-msgstr "[null]"
+msgstr "SUPPLEMENTO PANDORA - CHIAMATA RINFORZI"
 
 msgctxt "DLC4 Hypnos/KEY_TAC_HINT_ENEMY_SPECIAL_REINFORCEMENTS_DESCRIPTION"
-msgid "Calling reinforcements allows creatures to call pandorans instantly to the battlefield. The new reinforcements become active at the start of next turn."
-msgstr "[null]"
+msgid "This allows creatures to call Pandorans instantly to the battlefield. The new reinforcements become active at the start of next turn."
+msgstr "Permette alla creatura di chiamare immediatamente dei Pandora sul campo di battaglia. Questi nuovi rinforzi diventano attivi all'inizio del turno successivo."
 
 msgctxt "DLC4 Hypnos/KEY_TAC_HINT_ENEMY_SPECIAL_RESTORE_ARMOR_NAME"
 msgid "PANDORAN SUPPLEMENTAL - RESTORE ARMOR"
-msgstr "[null]"
+msgstr "SUPPLEMENTO PANDORA - RIPRISTINO ARMATURA"
 
 msgctxt "DLC4 Hypnos/KEY_TAC_HINT_ENEMY_SPECIAL_RESTORE_ARMOR_DESCRIPTION"
-msgid "Restoring armor repairs all the armor of a target creature as well as increasing it to +5 of its maximum value. Armor of all bodyparts is affected."
-msgstr "[null]"
+msgid "This repairs all the armor of a target creature as well as increasing it to +5 of its maximum value. Armor of all body parts is affected."
+msgstr "Ripara completamente l'armatura del bersaglio e aumenta il suo valore massimo di +5. La modifica riguarda l'armatura di tutte le parti del corpo."
 
 msgctxt "DLC4 Hypnos/KEY_TAC_HINT_ENEMY_SPECIAL_CO_CORRUPT_NAME"
 msgid "PANDORAN SUPPLEMENTAL - CO-CORRUPTION"
-msgstr "[null]"
+msgstr "SUPPLEMENTO PANDORA - CO-CORRUZIONE"
 
 msgctxt "DLC4 Hypnos/KEY_TAC_HINT_ENEMY_SPECIAL_CO_CORRUPT_DESCRIPTION"
-msgid "Co-corruption allows any other creature on the battlefield to be capable of corruption damage."
-msgstr "[null]"
+msgid "This allows any other creature on the battlefield to be capable of corruption damage."
+msgstr "Permette a qualsiasi creatura sul campo di battaglia di infliggere danni da corruzione."
 
 msgctxt "DLC4 Hypnos/KEY_TAC_HINT_ENEMY_SPECIAL_GOO_ATTACK_NAME"
 msgid "PANDORAN SUPPLEMENTAL - GOO ATTACK"
-msgstr "[null]"
+msgstr "SUPPLEMENTO PANDORA - ATTACCO MELMA"
 
 msgctxt "DLC4 Hypnos/KEY_TAC_HINT_ENEMY_SPECIAL_GOO_ATTACK_DESCRIPTION"
-msgid "Goot attacks target one single target, gooing it to the ground. Direct goo attacks only work on small units and not on vehicles."
-msgstr "[null]"
+msgid "Goo attacks target one single target, gooing it to the ground. Direct goo attacks only work on small units and not on vehicles."
+msgstr "Gli attacchi melma colpiscono una singola unità, incollandola al terreno. Gli attacchi melma diretti funzionano solo su bersagli piccoli, non sui veicoli."
 
 msgctxt "DLC4 Hypnos/KEY_TAC_HINT_ENEMY_SPECIAL_REMOVE_DEBUFF_NAME"
 msgid "PANDORAN SUPPLEMENTAL - REMOVE DEBUFF"
-msgstr "[null]"
+msgstr "SUPPLEMENTO PANDORA - RIMOZIONE DEBUFF"
 
 msgctxt "DLC4 Hypnos/KEY_TAC_HINT_ENEMY_SPECIAL_REMOVE_DEBUFF_DESCRIPTION"
-msgid "Debuff removal instantly removes all negative combat status effects of the affected target, including Bleeding, Acid, Poison, Panic, Paralyzed, and Mind Control. It has no effect on Corruption, Tiredness, or Exhaustion."
-msgstr "[null]"
+msgid "This instantly removes all negative combat status effects of the affected target, including Bleeding, Acid, Poison, Panic, Paralyzed, and Mind Control. It has no effect on Corruption, Tiredness, or Exhaustion."
+msgstr "Rimuove immediatamente dal bersaglio tutti gli effetti di stato di combattimento negativi, compresi sanguinamento, acido, veleno, panico, paralisi e controllo della mente. Corruzione, stanchezza e sfinimento non sono influenzati."
 
 msgctxt "DLC4 Hypnos/KEY_TAC_HINT_ENEMY_ACHERON_NAME"
 msgid "PANDORAN - ACHERON"
-msgstr "[null]"
+msgstr "PANDORA - ACHERON"
 
 msgctxt "DLC4 Hypnos/KEY_TAC_HINT_ENEMY_ACHERON_DESCRIPTION"
 msgid "The Acheron is a large Pandoran unit capable of afflicting various conditions on friendly and enemy units in a large radius on the battlefield. Kill them as quickly as possible."
-msgstr "[null]"
+msgstr "Gli Acheron sono una unità Pandora di grandi dimensioni in grado di infliggere a unità alleate e nemiche una varietà di condizioni, su un ampio raggio del campo di battaglia. Falli fuori più velocemente che puoi."
 
 msgctxt "DLC4 Hypnos/KEY_TAC_HINT_ENEMY_MUTOID_NAME"
 msgid "ENEMY - MUTOID"
-msgstr "[null]"
+msgstr "NEMICO - MUTOIDE"
 
 msgctxt "DLC4 Hypnos/KEY_TAC_HINT_ENEMY_MUTOID_DESCRIPTION"
-msgid "The Mutoid is an artificially creates class out of mutagens. It has the ability to learn all human and many Pandoran abilities."
-msgstr "[null]"
+msgid "The Mutoid is an artificially creates abilities out of mutagens. It has the ability to learn all human and many Pandoran abilities."
+msgstr "I mutoidi vengono creati artificialmente e possono servirsi dei mutageni per acquisire abilità. Sono in grado di imparare tutte le abilità umane e Pandora."
 
 msgctxt "DLC4 Hypnos/KEY_GEO_HINT_ENEMY_SPECIAL_CORRUPTION_NAME"
-msgid "[null]"
-msgstr "[null]"
+msgid "CORRUPTION VIRUS STRAIN"
+msgstr "CEPPO DEL VIRUS DI CORRUZIONE"
 
 msgctxt "DLC4 Hypnos/KEY_GEO_HINT_ENEMY_SPECIAL_CORRUPTION_DESCRIPTION"
-msgid "[null]"
-msgstr "[null]"
+msgid "A new strain of corruption has appeared. Unlike the Pandoravirus it will infect people suffering physical attacks during battle or by entering CORRUPTED SITES (any site covered by mist). Each point of corruption eats away at the WILL of the infected, while also increasing the damage dealt as a side effect. Soldiers gain 2% bonus to their damage dealt for every 1 point of corruption.[LF]Recruits gained from corrupted sites will be infected with corruption."
+msgstr "È emerso un nuovo ceppo di corruzione. A differenza del Pandoravirus, infetta coloro che subiscono attacchi fisici durante la battaglia o entrando in SITI CORROTTI (qualsiasi sito coperto dalla bruma). Ogni punto di corruzione consuma la VOLONTÀ del soggetto infetto e, come effetto collaterale, aumenta i danni inflitti. Per ogni punto di corruzione, i soldati ottengono un bonus del 2% ai loro danni inflitti.[LF] Le reclute ottenute dai siti corrotti saranno infettate dalla corruzione."
 
 msgctxt "DLC4 Hypnos/KEY_GEO_HINT_ENEMY_SPECIAL_MUTOID_NAME"
-msgid "[null]"
-msgstr "[null]"
+msgid "MUTOID SOLDIERS"
+msgstr "SOLDATI MUTOIDI"
 
 msgctxt "DLC4 Hypnos/KEY_GEO_HINT_ENEMY_SPECIAL_MUTOID_DESCRIPTION"
-msgid "[null]"
-msgstr "[null]"
+msgid "Mutoids are artificially created humanoids bred using MUTAGENS. Immune to the Corruption they can learn abilities from all researched Soldier Classes, as well as some Pandoran abilities after an autopsy has been performed.[LF]While a Mutoid can learn many abilities, it can only select one Soldier ability and one Pandoran ability per level. For this additional Mutagens are required.[LF]Mutoids can only be healed at a base using MUTAGENS."
+msgstr "I mutoidi sono umanoidi creati artificialmente tramite il ricorso ai MUTAGENI. Sono immuni alla Corruzione e possono apprendere abilità da tutte le classi di soldati documentate e anche alcune abilità Pandora, dopo aver eseguito un'autopsia.[LF] Sebbene possa acquisire diverse abilità, un mutoide può selezionare soltanto una abilità soldato e una abilità Pandora per livello. Per questo sono richiesti dei mutageni aggiuntivi.[LF] I mutoidi possono essere curati soltanto nella base utilizzando i MUTAGENI."
 
 msgctxt "DLC4 Hypnos/KEY_GEO_HINT_ENEMY_SPECIAL_MUTOID_SCREEN_NAME"
-msgid "[null]"
-msgstr "[null]"
+msgid "MUTOID SCREEN"
+msgstr "SCHERMO MUTOIDE"
 
 msgctxt "DLC4 Hypnos/KEY_GEO_HINT_ENEMY_SPECIAL_MUTOID_SCREEN_DESCRIPTION"
-msgid "[null]"
-msgstr "[null]"
+msgid "Mutoid Soldiers have only five levels, each allowing them access to 1 Soldier and 1 Pandoran ability per level. While Mutoids gain experience the same way other soldiers do, they require Mutagens in order to learn new abilities.[LF][LF]Increasing statistics also requires Mutagens and is done in the same way as with other Soldiers."
+msgstr "I soldati mutoidi hanno cinque livelli, ognuno dei quali permette loro di aver accesso ad 1 abilità soldato e 1 abilità Pandora. Nonostante i mutoidi possano acquisire esperienza nella stessa maniera degli altri soldati, necessitano però dei mutageni per apprendere nuove abilità.[LF] [LF] I mutageni sono richiesti anche per il miglioramento delle statistiche, che per il resto avviene come per i normali soldati."
 
 msgctxt "DLC4 Hypnos/KEY_GEO_HINT_ENEMY_SPECIAL_CURE_NAME"
-msgid "[null]"
-msgstr "[null]"
+msgid "CORRUPTION TREATMENT"
+msgstr "TRATTAMENTO ANTI-CORRUZIONE"
 
 msgctxt "DLC4 Hypnos/KEY_GEO_HINT_ENEMY_SPECIAL_CURE_DESCRIPTION"
-msgid "[null]"
-msgstr "[null]"
+msgid "Now that you have researched a cure for the Corruption strain, you can cure corrupted soldiers from your base.[LF][LF]In order to cure a corrupted soldier you need to pay 50 MUTAGENS for every 25% of Corruption that has affected the soldier."
+msgstr "Ora che hai sviluppato un trattamento contro il ceppo della Corruzione, puoi curare i tuoi soldati corrotti presso la tua base.[LF] [LF] Per curare un soldato corrotto, è necessario pagare 50 MUTAGENI per ogni 25% di corruzione che affligge il soldato."
 
 msgctxt "DLC4 Hypnos/KEY_GEO_HINT_ENEMY_SPECIAL_CORRUPTION_OVER_NAME"
+msgid "CORRUPTION VACCINE"
+msgstr "VACCINO ANTI-CORRUZIONE"
+
+msgctxt "DLC4 Hypnos/KEY_GEO_HINT_ENEMY_SPECIAL_CORRUPTION_OVER_DESCRIPTION"
+msgid "After hours of research we have finally found a vaccine that will eliminate the corruption strain for good. As soldiers are being inoculated against the disease, our planes are spreading it over battlefields ensuring that the dead there pose no further threat.[LF][LF]Your soldiers can no longer become corrupted. Those that are currently corrupted still need treatment, though."
+msgstr "Dopo svariate ore di ricerca abbiamo finalmente trovato un vaccino che eliminerà il ceppo della Corruzione per sempre. Mentre i nostri soldati vengono vaccinati contro la malattia, degli aeroplani cospargono i campi di battaglia con il rimedio, per assicurarci che i morti non costituiscano una minaccia.[LF] [LF]I soggetti che sono corrotti necessitano però ancora del trattamento."
+
+msgctxt "DLC4 Hypnos/KEY_GEO_HINT_ACHERON_CAPTURE_NAME"
+msgid "CORRUPTION CURE RESEARCH FAILURE"
+msgstr "RICERCA DI UNA CURA PER LA CORRUZIONE FALLITA"
+
+msgctxt "DLC4 Hypnos/KEY_GEO_HINT_ACHERON_CAPTURE_DESCRIPTION"
+msgid "Despite our best efforts the finding a cure to the new corruption strain ended in failure. Apparently, the virus in all newer specimens has mutated to such a degree that it is useless for our needs. In order to be successful, we need to find one of the original specimens that escaped from the Lab."
+msgstr "Nonostante i nostri sforzi, il tentativo di trovare una cura per il nuovo ceppo di corruzione è fallito. A quanto pare, tutti i nuovi esemplari di virus sono mutati a tal punto da essere inutili per i nostri scopi. Per riuscire nel nostro intento, dobbiamo trovare uno degli esemplari originali che sono fuggiti dal laboratorio."
+
+msgctxt "DLC4 Hypnos/KEY_PX_HEAL_GRENADE_NAME"
+msgid "VITA GRENADE"
+msgstr "GRANATA VITA"
+
+msgctxt "DLC4 Hypnos/KEY_PX_HEAL_GRENADE_DESCRIPTION"
+msgid "A healing grenade that removes the bleeding and poison, and restores 50 Hit Points to all organic creatures within 3 tiles of impact."
+msgstr "Una granata guaritrice che rimuove il sanguinamento e il veleno e ripristina 50 punti ferita in tutte le creature organiche nel raggio di 3 caselle."
+
+msgctxt "DLC4 Hypnos/KEY_HUSK_NAME"
+msgid "HUSK"
+msgstr "GUSCIO"
+
+msgctxt "DLC4 Hypnos/KEY_HUSK_DESCRIPTION"
+msgid "HUSK"
+msgstr "GUSCIO"
+
+msgctxt "DLC4 Hypnos/KEY_HUSK_DESCRIPTION_TEMP"
+msgid "A large squid-like body part that can be mistaken for the Acheron's head. It is the source of all manner of cloud attacks."
+msgstr "Una grossa parte del corpo che ricorda un calamaro, che può essere confusa per la testa dell'Acheron. È la fonte di tutti i tipi di attacchi a nube."
+
+msgctxt "DLC4 Hypnos/KEY_ACHERON_ARM_DESCRIPTION_TEMP"
+msgid "A humanoid arm that allows the Acheron to launch biological agents at its targets."
+msgstr "Un braccio umanoide che permette all'Acheron di lanciare agenti biologici contro i suoi bersagli."
+
+msgctxt "DLC4 Hypnos/KEY_MUTOID_CLASS"
+msgid "MUTOID"
+msgstr "MUTOIDE"
+
+msgctxt "DLC4 Hypnos/KEY_MUTOID_CLASS_DESCRIPTION"
+msgid "MUTOID SOLDIER CLASS"
+msgstr "SOLDATO CLASSE MUTOIDE"
+
+msgctxt "DLC4 Hypnos/KEY_MUTOID_DESCRIPTION"
+msgid "Soldier class created through mutagens that can choose between all human skills and many Pandoran skills."
+msgstr "Classe di soldati creata usando mutageni. Possono scegliere tra tutte le abilità umane e molte abilità Pandora."
+
+msgctxt "DLC4 Hypnos/KEY_STATUS_BLINDED_NAME"
+msgid "BLINDED"
+msgstr "ACCECAMENTO"
+
+msgctxt "DLC4 Hypnos/KEY_STATUS_BLINDED_DESCRIPTION"
+msgid "Perception reduced by 75%."
+msgstr "Percezione ridotta del 75%."
+
+msgctxt "DLC4 Hypnos/KEY_STATUS_TREMBLING_NAME"
+msgid "TREMBLING"
+msgstr "TREMITO"
+
+msgctxt "DLC4 Hypnos/KEY_STATUS_TREMBLING_DESCRIPTION"
+msgid "Accuracy reduced by 50%."
+msgstr "Precisione ridotta del 50%."
+
+msgctxt "DLC4 Hypnos/KEY_STATUS_STRAINED_NAME"
+msgid "STRAINED"
+msgstr "LOGORAMENTO"
+
+msgctxt "DLC4 Hypnos/KEY_STATUS_STRAINED_DESCRIPTION"
+msgid "A limb has been temporarily disabled."
+msgstr "Un arto è messo temporaneamente fuori uso."
+
+msgctxt "DLC4 Hypnos/KEY_STATUS_SLOWED_NAME"
+msgid "SLOWED"
+msgstr "RALLENTAMENTO"
+
+msgctxt "DLC4 Hypnos/KEY_STATUS_SLOWED_DESCRIPTION"
+msgid "Speed is reduced by 50%."
+msgstr "Velocità ridotta del 50%."
+
+msgctxt "DLC4 Hypnos/KEY_STATUS_CORRUPTED_NAME"
+msgid "CORRUPTED"
+msgstr "CORRUZIONE"
+
+msgctxt "DLC4 Hypnos/KEY_STATUS_CORRUPTED_DESCRIPTION"
+msgid "Will Power is reduced by the current amount of corruption. Additionally, damage done increases by 2% for every 1 point of corruption."
+msgstr "La volontà viene ridotta dalla quantità attuale di corruzione. Inoltre, i danni inflitti aumentano del 2% per ogni punto di corruzione."
+
+msgctxt "DLC4 Hypnos/KEY_ALN_ACHERON_NAME"
+msgid "ACHERON"
+msgstr "ACHERON"
+
+msgctxt "DLC4 Hypnos/KEY_ALN_ACHERON_DESCRIPTION"
+msgid "Acheron"
+msgstr "Acheron"
+
+msgctxt "DLC4 Hypnos/KEY_CORRUPTIVE_ATTACK_NAME"
+msgid "CORRUPTIVE ATTACK"
+msgstr "ATTACCO CORRUTTORE"
+
+msgctxt "DLC4 Hypnos/KEY_CORRUPTIVE_ATTACK_DESCRIPTION"
+msgid "Successful attacks spread corruption to organic units."
+msgstr "Gli attacchi che vanno a segno diffondono la corruzione tra le unità organiche."
+
+msgctxt "DLC4 Hypnos/KEY_CONTACT_CORRUPTION_NAME"
+msgid "CONTACT CORRUPTION"
+msgstr "CORRUZIONE DA CONTATTO"
+
+msgctxt "DLC4 Hypnos/KEY_CONTACT_CORRUPTION_DESCRIPTION"
+msgid "Corrupts attacker when suffering Melee or Bash attacks."
+msgstr "Corrompe l'aggressore quando subisce attacchi in mischia o colpi contundenti."
+
+msgctxt "DLC4 Hypnos/KEY_DYNAMIC_RESISTANCE_NAME"
+msgid "DYNAMIC RESISTANCE"
+msgstr "RESISTENZA DINAMICA"
+
+msgctxt "DLC4 Hypnos/KEY_DYNAMIC_RESISTANCE_DESCRIPTION"
+msgid "Gives 50% temporary resistance to any type of damage or negative status effect suffered in combat."
+msgstr "Dona un 50% di resistenza temporanea a qualsiasi tipo di danno o effetto di stato negativo subito precedentemente in battaglia."
+
+msgctxt "DLC4 Hypnos/KEY_CORRUPTIVE_SPRAY_NAME"
+msgid "CORRUPTIVE SPRAY"
+msgstr "SPRUZZO CORRUTTORE"
+
+msgctxt "DLC4 Hypnos/KEY_CORRUPTIVE_SPRAY_DESCRIPTION"
+msgid "Organic targets will be corrupted in addition to the standard damage."
+msgstr "I bersagli organici subiscono la corruzione in aggiunta ai danni standard."
+
+msgctxt "DLC4 Hypnos/KEY_PEPPER_CLOUD_NAME"
+msgid "PEPPER CLOUD"
+msgstr "NUBE URTICANTE"
+
+msgctxt "DLC4 Hypnos/KEY_PEPPER_CLOUD_DESCRIPTION"
+msgid "Reduces Accuracy by 50% of all organic enemies within 5 tiles for 1 turn."
+msgstr "La precisione di tutti i nemici organici entro 5 caselle è ridotta del 50% per 1 turno."
+
+msgctxt "DLC4 Hypnos/KEY_CALL_REINFORCEMENTS_NAME"
+msgid "CALL REINFORCEMENTS"
+msgstr "CHIAMATA DI RINFORZI"
+
+msgctxt "DLC4 Hypnos/KEY_CALL_REINFORCEMENTS_DESCRIPTION"
+msgid "Instantly call a group of reinforcements."
+msgstr "Chiama istantaneamente un gruppo di rinforzi."
+
+msgctxt "DLC4 Hypnos/KEY_RESTORE_PANDORAN_ARMOR_NAME"
+msgid "RESTORE PANDORAN ARMOR"
+msgstr "RIPRISTINO ARMATURA PANDORA"
+
+msgctxt "DLC4 Hypnos/KEY_RESTORE_PANDORAN_ARMOR_DESCRIPTION"
+msgid "Add 10 armor to all Pandorans within 10 tiles."
+msgstr "Aggiunge 10 punti armatura a tutti i Pandora entro 10 caselle."
+
+msgctxt "DLC4 Hypnos/KEY_CO_CORRUPTION_NAME"
+msgid "CO-CORRUPTION"
+msgstr "CO-CORRUZIONE"
+
+msgctxt "DLC4 Hypnos/KEY_CO_CORRUPTION_DESCRIPTION"
+msgid "All Pandorans in battle gain Corruptive Attack."
+msgstr "Tutti i Pandora che combattono guadagnano Attacco corruttore."
+
+msgctxt "DLC4 Hypnos/KEY_CURE_SPRAY_NAME"
+msgid "CURE SPRAY"
+msgstr "SPRUZZO CURATIVO"
+
+msgctxt "DLC4 Hypnos/KEY_CURE_SPRAY_DESCRIPTION"
+msgid "Removes all Paralysis, Bleeding, Poison, Strained, Infected, Dazed, and Slowed status effects from target ally and restores 50 Hit Points."
+msgstr "Rimuove gli effetti di stato paralisi, sanguinamento, veleno, logoramento, infezione, stordimento e rallentamento dal bersaglio alleato e ripristina 50 punti ferita."
+
+msgctxt "DLC4 Hypnos/KEY_CORRUPTIVE_CLOUD_NAME"
+msgid "CORRUPTIVE CLOUD"
+msgstr "NUBE CORRUTTRICE"
+
+msgctxt "DLC4 Hypnos/KEY_CORRUPTIVE_CLOUD_DESCRIPTION"
+msgid "Corrupt all organic enemies within 10 tiles."
+msgstr "Corrompe tutti i nemici organici entro 10 caselle."
+
+msgctxt "DLC4 Hypnos/KEY_RESURRECT_CORPSES_NAME"
+msgid "RESURRECT CORPSES"
+msgstr "RESUSCITA CADAVERI"
+
+msgctxt "DLC4 Hypnos/KEY_RESURRECT_CORPSES_DESCRIPTION"
+msgid "Transform all human sized corpses within 10 tiles into Arthrons or Tritons."
+msgstr "Trasforma in Arthron o Tritoni tutti i cadaveri di dimensioni umane che si trovano entro 10 caselle."
+
+msgctxt "DLC4 Hypnos/KEY_GOO_SPRAY_NAME"
+msgid "GOO SPRAY"
+msgstr "SPRUZZO DI MELMA"
+
+msgctxt "DLC4 Hypnos/KEY_GOO_SPRAY_DESCRIPTION"
+msgid "Spray goo at target or enemy. Targets will be gooed in addition to damage."
+msgstr "Spruzza melma contro un obiettivo o un nemico. I bersagli, oltre a subire i danni, diventano intralciati."
+
+msgctxt "DLC4 Hypnos/KEY_CURE_CLOUD_NAME"
+msgid "CURE CLOUD"
+msgstr "NUBE CURATIVA"
+
+msgctxt "DLC4 Hypnos/KEY_CURE_CLOUD_DESCRIPTION"
+msgid "Removes all Paralysis, Bleeding, Poison, Strained, Infected, Stunned, and Slowed status effects and restores 50 Hit Points for all allied units within 10 tiles."
+msgstr "Rimuove gli effetti di stato paralisi, sanguinamento, veleno, logoramento, infezione, stordimento e rallentamento e ripristina 50 punti ferita di tutte le unità alleate entro 10 caselle."
+
+msgctxt "DLC4 Hypnos/KEY_PARALYTIC_CLOUD_NAME"
+msgid "CONFUSION CLOUD"
+msgstr "NUBE CONFUSIONALE"
+
+msgctxt "DLC4 Hypnos/KEY_PARALYTIC_CLOUD_DESCRIPTION"
+msgid "Reduce enemy Speed and Accuracy by 50% to all organic enemy targets within 10 tiles for 1 turn."
+msgstr "La velocità e la precisione di tutti i nemici organici entro 10 caselle sono ridotte del 50% per 1 turno."
+
+msgctxt "DLC4 Hypnos/KEY_PARALYTIC_SPRAY_NAME"
+msgid "NEUROTOXIC SPRAY"
+msgstr "SPRUZZO NEUROTOSSICO"
+
+msgctxt "DLC4 Hypnos/KEY_PARALYTIC_SPRAY_DESCRIPTION"
+msgid "Disable target body part for 1 turn."
+msgstr "Mette fuori uso per 1 turno una parte del corpo del bersaglio."
+
+msgctxt "DLC4 Hypnos/KEY_BLINDNESS_CLOUD_NAME"
+msgid "BLINDNESS CLOUD"
+msgstr "NUBE ACCECANTE"
+
+msgctxt "DLC4 Hypnos/KEY_BLINDNESS_CLOUD_DESCRIPTION"
+msgid "Reduce the perception of organic enemy targets within 10 tiles by 75% for 1 turn."
+msgstr "Riduce del 75% la percezione di tutti i bersagli nemici organici entro 10 caselle, per 1 turno."
+
+msgctxt "DLC4 Hypnos/KEY_CORROSIVE_CLOUD_NAME"
+msgid "CORROSIVE CLOUD"
+msgstr "NUBE CORROSIVA"
+
+msgctxt "DLC4 Hypnos/KEY_CORROSIVE_CLOUD_DESCRIPTION"
+msgid "Deal 10 acid damage to all enemies within 10 tiles."
+msgstr "Infligge 10 danni acidi a tutte i nemici entro 10 caselle."
+
+msgctxt "DLC4 Hypnos/KEY_MUTOID_CANNOT_BE_HEALED_NAME"
+msgid "CANNOT BE HEALED"
+msgstr "CURA IMPOSSIBILE"
+
+msgctxt "DLC4 Hypnos/KEY_MUTOID_CANNOT_BE_HEALED_DESCRIPTION"
+msgid "Health can only be restored by Mutagens outside a mission"
+msgstr "La salute può essere ripristinata solo dai mutageni fuori da una missione"
+
+msgctxt "DLC4 Hypnos/KEY_CORRUPTION_IMMUNITY_NAME"
+msgid "CORRUPTION IMMUNITY"
+msgstr "IMMUNITÀ ALLA CORRUZIONE"
+
+msgctxt "DLC4 Hypnos/KEY_CORRUPTION_IMMUNITY_DESCRIPTION"
+msgid "Immune to Corruption."
+msgstr "Immunità alla corruzione."
+
+msgctxt "DLC4 Hypnos/KEY_GEOROSTER_TAB_MUTOID"
+msgid "MUTOIDS"
+msgstr "MUTOIDI"
+
+msgctxt "DLC4 Hypnos/KEY_GEOROSTER_TAB_MUTOID_TOOLTIP"
+msgid "Create Mutoid soldiers"
+msgstr "Crea soldati mutoidi"
+
+msgctxt "DLC4 Hypnos/KEY_DAMAGE_TYPE_CORRUPTION"
+msgid "CORRUPTION"
+msgstr "CORRUZIONE"
+
+msgctxt "DLC4 Hypnos/KEY_DAMAGE_TYPE_CORRUPTION_DESC"
+msgid "Applies Corruption to the target."
+msgstr "Infligge corruzione al bersaglio."
+
+msgctxt "DLC4 Hypnos/KEY_ROSTER_DEATH_CORRUPTED"
+msgid "CORRUPTION"
+msgstr "CORRUZIONE"
+
+msgctxt "DLC4 Hypnos/KEY_CURE_CORRUPTION_DIALOG_TITLE"
+msgid "CURE"
+msgstr "CURA"
+
+msgctxt "DLC4 Hypnos/KEY_CURE_CORRUPTION_DIALOG_DESCRIPTION"
+msgid "Your soldier has {0}% Corruption damage."
+msgstr "Il tuo soldato ha {0}% di danni da corruzione."
+
+msgctxt "DLC4 Hypnos/KEY_CURE_CORRUPTION_DIALOG_BOTTOM"
+msgid "Do you want to cure them now?"
+msgstr "Vuoi curarlo subito?"
+
+msgctxt "DLC4 Hypnos/KEY_CURE_CORRUPTION_DIALOG_COST"
+msgid "CURING COST"
+msgstr "COSTO DELLA CURA"
+
+msgctxt "DLC4 Hypnos/KEY_HEAL_MUTOID_BUTTON"
+msgid "HEAL"
+msgstr "GUARISCI"
+
+msgctxt "DLC4 Hypnos/KEY_HEAL_MUTOID_DIALOG_TITLE"
+msgid "HEAL MUTOID"
+msgstr "CURA MUTOIDE"
+
+msgctxt "DLC4 Hypnos/KEY_HEAL_MUTOID_DIALOG_DESCRIPTION"
+msgid "This Mutoid has suffered {0}% damage."
+msgstr "Il mutoide ha subito {0}% danni."
+
+msgctxt "DLC4 Hypnos/KEY_HEAL_MUTOID_DIALOG_BOTTOM"
+msgid "Do you want to heal them now?"
+msgstr "Vuoi guarirlo subito?"
+
+msgctxt "DLC4 Hypnos/KEY_HEAL_MUTOID_DIALOG_COST"
+msgid "HEALING COST"
+msgstr "COSTO DI GUARIGIONE"
+
+msgctxt "DLC4 Hypnos/KEY_GEOSCAPE_ABILITY_NO_MUTAGEN"
+msgid "YOU DON'T HAVE ENOUGH MUTAGENS TO ACQUIRE THIS ABILITY"
+msgstr "NON HAI ABBASTANZA MUTAGENI PER ACQUISIRE QUESTA ABILITÀ"
+
+msgctxt "DLC4 Hypnos/KEY_SYNEDRION_MUTOID_NAME"
+msgid "SYNEDRION MUTOID"
+msgstr "MUTOIDE SYNEDRION"
+
+msgctxt "DLC4 Hypnos/KEY_INDEPENDENT_MUTOID_NAME"
+msgid "INDEPENDENT MUTOID"
+msgstr "MOTOIDE INDIPENDENTE"
+
+msgctxt "DLC4 Hypnos/KEY_CH_ONE_SCENE_1_1"
+msgid "Hello? Anyone?"
+msgstr "Pronto? Mi riceve qualcuno?"
+
+msgctxt "DLC4 Hypnos/KEY_CH_ONE_SCENE_1_2"
+msgid "This is station sigma-seven-one. We need immediate evacuation."
+msgstr "Parla la stazione sigma-sette-uno. Richiediamo evacuazione immediata."
+
+msgctxt "DLC4 Hypnos/KEY_CH_ONE_SCENE_1_3"
+msgid "I repeat. We need immediate evacuation."
+msgstr "Ripeto. Richiediamo evacuazione immediata."
+
+msgctxt "DLC4 Hypnos/KEY_CH_ONE_SCENE_2_1"
+msgid "The facility has been compromised."
+msgstr "La struttura è stata compromessa."
+
+msgctxt "DLC4 Hypnos/KEY_CH_ONE_SCENE_2_2"
+msgid "Specimen two escaped containment chamber and is roaming throughout the lab!"
+msgstr "L'esemplare due è scappato dalla camera di contenimento e sta vagando per il laboratorio!"
+
+msgctxt "DLC4 Hypnos/KEY_CH_ONE_SCENE_3_1"
+msgid "You need to get us out of here and purge the entire facility!"
+msgstr "Ci dovete tirare fuori di qui e ripulire tutta la struttura!"
+
+msgctxt "DLC4 Hypnos/KEY_CH_ONE_SCENE_3_2"
+msgid "The specimen mustn’t be allowed to escape into the open! If it does—"
+msgstr "L'esemplare non deve riuscire a fuggire da qui! Se ci riesce..."
+
+msgctxt "DLC4 Hypnos/KEY_CH_ONE_SCENE_4_1"
+msgid "It’s has released the strain variant!"
+msgstr "Ha liberato la variante del ceppo!"
+
+msgctxt "DLC4 Hypnos/KEY_CH_ONE_SCENE_4_2"
+msgid "I’m initiating the self-destruct procedure!"
+msgstr "Avvio la procedura di autodistruzione!"
+
+msgctxt "DLC4 Hypnos/KEY_CH_ONE_SCENE_4_3"
+msgid "The strain must… not…"
+msgstr "La variante non... deve..."
+
+msgctxt "DLC4 Hypnos/KEY_CH_TWO_SCENE_1_1"
+msgid "Phoenix point, this is research team one. Area secure."
+msgstr "Phoenix Point, parla la squadra di ricerca uno. L'area è sicura."
+
+msgctxt "DLC4 Hypnos/KEY_CH_TWO_SCENE_1_2"
+msgid "No hostiles in sight."
+msgstr "Nessun nemico in vista."
+
+msgctxt "DLC4 Hypnos/KEY_CH_TWO_SCENE_1_3"
+msgid "We're heading into the facility this creature came from."
+msgstr "Siamo diretti alla struttura da cui è scappata questa creatura."
+
+msgctxt "DLC4 Hypnos/KEY_CH_TWO_SCENE_1_4"
+msgid "Stand by for direct feed."
+msgstr "Restate collegati per gli aggiornamenti."
+
+msgctxt "DLC4 Hypnos/KEY_CH_TWO_SCENE_2_1"
+msgid "No idea who owns this place, but they have some serious tech."
+msgstr "Non so di chi sia questo posto, ma qua c'è della tecnologia di alto livello."
+
+msgctxt "DLC4 Hypnos/KEY_CH_TWO_SCENE_2_2"
+msgid "We're seeing lots of bodies, not all of them human."
+msgstr "Stiamo vedendo molti corpi, non tutti umani."
+
+msgctxt "DLC4 Hypnos/KEY_CH_TWO_SCENE_2_3"
+msgid "Whatever broke out from here."
+msgstr "Quel coso è scappato da qui."
+
+msgctxt "DLC4 Hypnos/KEY_CH_TWO_SCENE_3_1"
+msgid "Looks like gen-research."
+msgstr "Sembrerebbe ricerca genetica."
+
+msgctxt "DLC4 Hypnos/KEY_CH_TWO_SCENE_3_2"
+msgid "Whatever they were trying to make didn't like being kept in here.[CR]"
+msgstr "Non so cosa stessero provando a creare, ma qualunque cosa fosse non le piaceva stare chiusa qui."
+
+msgctxt "DLC4 Hypnos/KEY_CH_TWO_SCENE_3_3"
+msgid "Holy crap is this ugly! Moving in to further."
+msgstr "Porca miseria, è orribile! Procediamo."
+
+msgctxt "DLC4 Hypnos/KEY_CH_TWO_SCENE_3_4"
+msgid "I'm seeing, more tech here. Looks like… By the maker!"
+msgstr "Vedo altra tecnologia, qui. Sembrerebbe... Mio Dio!"
+
+msgctxt "DLC4 Hypnos/KEY_CH_TWO_SCENE_4_1"
+msgid "Phoenix Point, we've found something you might want to see."
+msgstr "Phoenix Point, abbiamo trovato qualcosa che penso dobbiate vedere."
+
+msgctxt "DLC4 Hypnos/KEY_CH_TWO_SCENE_4_2"
+msgid "Get a lab ready, we're bringing some tech back to base."
+msgstr "Preparate il laboratorio, riporteremo alla base un po' di tecnologia."
+
+msgctxt "DLC4 Hypnos/KEY_CH_THREE_SCENE_1_1"
+msgid "Internal report seven-seven-dash-one."
+msgstr "Rapporto interno sette-sette-trattino-uno."
+
+msgctxt "DLC4 Hypnos/KEY_CH_THREE_SCENE_1_2"
+msgid "Mutoid technology has successfully been integrated in existing Phoenix facilities."
+msgstr "La tecnologia mutoide è stata integrata con successo nelle strutture Phoenix esistenti."
+
+msgctxt "DLC4 Hypnos/KEY_CH_THREE_SCENE_1_3"
+msgid "After dozens of attempts we have finally succeeded."
+msgstr "Dopo decine di tentativi, finalmente ci siamo riusciti."
+
+msgctxt "DLC4 Hypnos/KEY_CH_THREE_SCENE_1_4"
+msgid "We have created the first artificially grown soldiers."
+msgstr "Abbiamo creato i primi soldati sviluppati artificialmente."
+
+msgctxt "DLC4 Hypnos/KEY_CH_THREE_SCENE_2_1"
+msgid "Specimens are referred to as Mutoids, due to the vast amounts of mutagens required for their construction."
+msgstr "Gli esemplari sono definiti \"\"Mutoidi\"\", per la grande mole di mutageni richiesti per la loro produzione."
+
+msgctxt "DLC4 Hypnos/KEY_CH_THREE_SCENE_2_2"
+msgid "Humanoid, they have the ability to learn any skill they are taught, and perfect it."
+msgstr "Sono umanoidi, in grado di acquisire e perfezionare qualsiasi abilità venga loro insegnata."
+
+msgctxt "DLC4 Hypnos/KEY_CH_THREE_SCENE_3_1"
+msgid "Additional experimentation has shown them also capable"
+msgstr "Un'ulteriore sperimentazione ha inoltre evidenziato che sono capaci"
+
+msgctxt "DLC4 Hypnos/KEY_CH_THREE_SCENE_3_2"
+msgid "of acquiring the skills of Pandorans whose DNA we have injected them with."
+msgstr "di acquisire le abilità dei Pandora se ricevono iniezioni del loro DNA."
+
+msgctxt "DLC4 Hypnos/KEY_CH_THREE_SCENE_4_1"
+msgid "Some might view them as abominations, or a product of dubious morality,"
+msgstr "Qualcuno forse li considererà degli abomini o il frutto di una morale discutibile,"
+
+msgctxt "DLC4 Hypnos/KEY_CH_THREE_SCENE_4_2"
+msgid "but they might prove to be our salvation: a new breed of soldiers,"
+msgstr "ma potrebbero rivelarsi la nostra salvezza: una nuova razza di soldati,"
+
+msgctxt "DLC4 Hypnos/KEY_CH_THREE_SCENE_4_3"
+msgid "immune to the corruption strain, with the skills of humans and Pandorans alike,"
+msgstr "immuni al ceppo della corruzione, dotati delle abilità sia degli umani che dei Pandora,"
+
+msgctxt "DLC4 Hypnos/KEY_CH_THREE_SCENE_4_4"
+msgid "created entirely out of mutagens."
+msgstr "creati interamente usando mutageni."
+
+msgctxt "DLC4 Hypnos/KEY_CH_FOUR_SCENE_1_1"
+msgid "Finally, it is over."
+msgstr "Finalmente è finita."
+
+msgctxt "DLC4 Hypnos/KEY_CH_FOUR_SCENE_1_2"
+msgid "After a fighting our way through the lair, we found the spawnery"
+msgstr "Dopo esserci fatti strada nella tana combattendo, abbiamo trovato l'incubatrice"
+
+msgctxt "DLC4 Hypnos/KEY_CH_FOUR_SCENE_1_3"
+msgid "which the first Acheron had infected and obtained a clean sample of the corruption strain."
+msgstr "che il primo Acheron ha infettato, e abbiamo ottenuto un campione del ceppo della corruzione."
+
+msgctxt "DLC4 Hypnos/KEY_CH_FOUR_SCENE_2_1"
+msgid "It wasn't easy. The processing power of the entire Phoenix project"
+msgstr "Non è stato facile. La potenza di calcolo di tutto il Progetto Phoenix"
+
+msgctxt "DLC4 Hypnos/KEY_CH_FOUR_SCENE_2_2"
+msgid "went into analysing a strain to find a cure, but we succeeded."
+msgstr "è stata utilizzata per analizzare il ceppo e trovare una cura, ma ce l'abbiamo fatta."
+
+msgctxt "DLC4 Hypnos/KEY_CH_FOUR_SCENE_3_1"
+msgid "An inoculation process began, first on our troops, then our allies,"
+msgstr "È iniziato un processo di inoculazione, prima sulle nostre truppe, poi sugli alleati,"
+
+msgctxt "DLC4 Hypnos/KEY_CH_FOUR_SCENE_3_2"
+msgid "and finally on anyone who wished to have it."
+msgstr "e infine su chiunque ne faccia richiesta."
+
+msgctxt "DLC4 Hypnos/KEY_CH_FOUR_SCENE_4_1"
+msgid "Our aircraft flew over the globe,"
+msgstr "Il nostro velivolo ha sorvolato il pianeta,"
+
+msgctxt "DLC4 Hypnos/KEY_CH_FOUR_SCENE_4_2"
+msgid "releasing potent antiviral solutions over corpses and battlefield,"
+msgstr "rilasciando la potente soluzione antivirale sui cadaveri e sui campi di battaglia,"
+
+msgctxt "DLC4 Hypnos/KEY_CH_FOUR_SCENE_4_3"
+msgid "to eradicate every trace of corruption until there was none."
+msgstr "per sradicare ogni traccia di corruzione fino a eliminarla completamente."
+
+msgctxt "DLC4 Hypnos/KEY_CH_FOUR_SCENE_5_1"
+msgid "Now, long after the first Acheron specimen escaped from"
+msgstr "Adesso, dopo molto tempo dalla fuga del primo esemplare Acheron da"
+
+msgctxt "DLC4 Hypnos/KEY_CH_FOUR_SCENE_5_2"
+msgid "an unknown research facility, the horror is over."
+msgstr "una struttura di ricerca sconosciuta, l'incubo è finito."
+
+msgctxt "DLC4 Hypnos/KEY_CH_FOUR_SCENE_5_3"
+msgid "Humanity won this battle, but the larger war rages on…"
+msgstr "L'umanità ha vinto questa battaglia, ma la guerra impazza ancora..."
+
+msgctxt "DLC4 Hypnos/KEY_PROGRESSION_PHOENIX_SKILLS_TITLE"
+msgid "PHOENIX SKILLS"
+msgstr "ABILITÀ PHOENIX"
+
+msgctxt "DLC4 Hypnos/KEY_PROGRESSION_PHOENIX_SKILLS_DESCRIPTION"
+msgid "Pick a Phoenix skill from the available specializations"
+msgstr "Scegli un'abilità Phoenix tra le specializzazioni disponibili"
+
+msgctxt "DLC4 Hypnos/KEY_PROGRESSION_PANDORAN_SKILLS_TITLE"
+msgid "PANDORAN SKILLS"
+msgstr "ABILITÀ PANDORA"
+
+msgctxt "DLC4 Hypnos/KEY_PROGRESSION_PANDORAN_SKILLS_DESCRIPTION"
+msgid "Pick a Pandoran skill from those available"
+msgstr "Scegli un'abilità Pandora tra quelle disponibili"
+
+msgctxt "DLC4 Hypnos/KEY_PROGRESSION_NO_AVAILABLE_PANDORAN_ SPECIALIZATION"
+msgid "RESEARCH A PANDORAN AUTOPSY TO PROCEED"
+msgstr "RICERCA UN'AUTOPSIA PANDORA PER PROCEDERE"
+
+msgctxt "DLC4 Hypnos/KEY_PROGRESSION_MUTAGEN_COST"
+msgid "MUTAGEN COST"
+msgstr "COSTO IN MUTAGENI"
+
+msgctxt "DLC4 Hypnos/KEY_PROGRESSION_SKILL_CANNOT_BE_LEARNED"
+msgid "ABILITY CANNOT BE ACQUIRED"
+msgstr "L'ABILITÀ NON PUÒ ESSERE ACQUISITA"
+
+msgctxt "DLC4 Hypnos/KEY_INSPECT_SOLDIER_CORRUPTED"
+msgid "CLICK TO INSPECT"
+msgstr "CLICCA PER ISPEZIONARE"
+
+msgctxt "DLC4 Hypnos/KEY_CORRUPTION_STATUS"
+msgid "CORRUPTION STATUS"
+msgstr "STATO CORRUZIONE"
+
+msgctxt "DLC4 Hypnos/KEY_GEOSCAPE_CLEAN_LAIR_MISSION_OBJECTIVE_TITLE"
+msgid "Obtain Corruption Sample from Lair"
+msgstr "Ottieni un campione di corruzione dalla tana"
+
+msgctxt "DLC4 Hypnos/KEY_RESURRECT_NAME"
+msgid "RESURRECT"
+msgstr "RESUSCITA"
+
+msgctxt "DLC4 Hypnos/KEY_RESURRECT_DESCRIPTION"
+msgid "Resurrect a single humanoid target as an Arthron or Triton"
+msgstr "Resuscita un singolo umanoide come Arthron o Tritone"
+
+msgctxt "DLC4 Hypnos/KEY_REDUCE_ENEMY_ACCURACY_NAME"
+msgid "PEPPER CLOUD"
+msgstr "NUBE URTICANTE"
+
+msgctxt "DLC4 Hypnos/KEY_REDUCE_ENEMY_ACCURACY_DESCRIPTION"
+msgid "Reduces Accuracy by 50% of all organic enemies within 5 tiles for 1 turn."
+msgstr "La precisione di tutti i nemici organici entro 5 caselle è ridotta del 50% per 1 turno."
+
+msgctxt "DLC4 Hypnos/KEY_REDUCE_ENEMY_SPEED_NAME"
+msgid "CONFUSION CLOUD"
+msgstr "NUBE CONFUSIONALE"
+
+msgctxt "DLC4 Hypnos/KEY_REDUCE_ENEMY_SPEED_DESCRIPTION"
+msgid "Reduce enemy Speed by 75% to all organic enemy targets within 10 tiles for 1 turn."
+msgstr "La velocità di tutti i nemici organici entro 10 caselle è ridotta, per 1 turno, del 75%."
+
+msgctxt "DLC4 Hypnos/KEY_PARALYZE_LIMB_NAME"
+msgid "PARALYZE LIMB"
+msgstr "PARALIZZA ARTO"
+
+msgctxt "DLC4 Hypnos/KEY_PARALYZE_LIMB_DESCRIPTION"
+msgid "Disable target body part for 1 turn"
+msgstr "Mette fuori uso per 1 turno la parte del corpo colpita"
+
+msgctxt "DLC4 Hypnos/KEY_LAUNCH_FIREWORM_NAME"
+msgid "LAUNCH FIREWORM"
+msgstr "LANCIA VERME DI FUOCO"
+
+msgctxt "DLC4 Hypnos/KEY_LAUNCH_FIREWORM_DESCRIPTION"
+msgid "Launch a Fireworm at a target area"
+msgstr "Lancia un verme di fuoco in un'area bersaglio"
+
+msgctxt "DLC4 Hypnos/KEY_LAUNCH_POISONWORM_NAME"
+msgid "LAUNCH POISONWORM"
+msgstr "LANCIA VERME VELENOSO"
+
+msgctxt "DLC4 Hypnos/KEY_LAUNCH_POISONWORM_DESCRIPTION"
+msgid "Launch a Poisonworm at a target area"
+msgstr "Lancia un verme velenoso in un'area bersaglio"
+
+msgctxt "DLC4 Hypnos/KEY_LAUNCH_ACIDWORM_NAME"
+msgid "LAUNCH ACIDWORM"
+msgstr "LANCIA VERME ACIDO"
+
+msgctxt "DLC4 Hypnos/KEY_LAUNCH_ACIDWORM_DESCRIPTION"
+msgid "Launch an Acidworm at a target area"
+msgstr "Lancia un verme acido in un'area bersaglio"
+
+msgctxt "DLC4 Hypnos/KEY_LAUNCH_GOO_BOMB_NAME"
+msgid "LAUNCH GOO BOMB"
+msgstr "LANCIA BOMBA DI MELMA"
+
+msgctxt "DLC4 Hypnos/KEY_LAUNCH_GOO_BOMB_DESCRIPTION"
+msgid "Launch a Goo Bomb at a target area"
+msgstr "Lancia una bomba di melma in un'area bersaglio"
+
+msgctxt "DLC4 Hypnos/KEY_MUTOID_GOO_SPIT_NAME"
+msgid "GOO SPIT"
+msgstr "SALIVA MELMOSA"
+
+msgctxt "DLC4 Hypnos/KEY_MUTOID_GOO_SPIT_DESCRIPTION"
+msgid "Spits goo at short range"
+msgstr "Sputa melma a corto raggio"
+
+msgctxt "DLC4 Hypnos/KEY_MUTOID_ACID_SPIT_NAME"
+msgid "ACID SPIT"
+msgstr "SALIVA ACIDA"
+
+msgctxt "DLC4 Hypnos/KEY_MUTOID_ACID_SPIT_DESCRIPTION"
+msgid "Spits acid at short range"
+msgstr "Sputa acido a corto raggio"
+
+msgctxt "DLC4 Hypnos/KEY_MUTOID_SYPHON_ATTACK_NAME"
+msgid "SYPHON ATTACK"
+msgstr "ATTACCO RISUCCHIANTE"
+
+msgctxt "DLC4 Hypnos/KEY_MUTOID_SYPHON_ATTACK_DESCRIPTION"
+msgid "Deal 50 melee damage and restore that many Hit Points"
+msgstr "Infligge 50 danni mischia e ripristina 50 punti ferita"
+
+msgctxt "DLC4 Hypnos/KEY_MUTOID_DEATH_BELCH_NAME"
+msgid "DEATH BELCH"
+msgstr "ESALAZIONE MORTALE"
+
+msgctxt "DLC4 Hypnos/KEY_MUTOID_DEATH_BELCH_DESCRIPTION"
+msgid "Spawn a Mindfragger on death"
+msgstr "Alla morte, genera uno Strappamente"
+
+msgctxt "DLC4 Hypnos/KEY_MUTOID_ACID_EXPLOSION_NAME"
+msgid "ACID EXPLOSION"
+msgstr "ESPLOSIONE ACIDA"
+
+msgctxt "DLC4 Hypnos/KEY_MUTOID_ACID_EXPLOSION_DESCRIPTION"
+msgid "Deal Acid damage in surrounding area on death"
+msgstr "Alla morte, infligge danni acidi nell'area circostante"
+
+msgctxt "DLC4 Hypnos/KEY_MUTOID_FIRE_EXPLOSION_NAME"
+msgid "FIRE EXPLOSION"
+msgstr "ESPLOSIONE DI FIAMME"
+
+msgctxt "DLC4 Hypnos/KEY_MUTOID_FIRE_EXPLOSION_DESCRIPTION"
+msgid "Deal Fire damage in surrounding area on death"
+msgstr "Alla morte, infligge danni da fuoco nell'area circostante"
+
+msgctxt "DLC4 Hypnos/KEY_MUTOID_POISON_EXPLOSION_NAME"
+msgid "POISON EXPLOSION"
+msgstr "ESPLOSIONE DI VELENO"
+
+msgctxt "DLC4 Hypnos/KEY_MUTOID_POISON_EXPLOSION_DESCRIPTION"
+msgid "Deal Poison damage in surrounding area on death"
+msgstr "Alla morte, infligge danni da veleno nell'area circostante"
+
+msgctxt "DLC4 Hypnos/KEY_MUTOID_VIRAL_EXPLOSION_NAME"
+msgid "VIRAL EXPLOSION"
+msgstr "ESPLOSIONE VIRALE"
+
+msgctxt "DLC4 Hypnos/KEY_MUTOID_VIRAL_EXPLOSION_DESCRIPTION"
+msgid "Deal Virus damage in surrounding area on death"
+msgstr "Alla morte, infligge danni virali nell'area circostante"
+
+msgctxt "DLC4 Hypnos/KEY_BUY_MUTOID_MUTOID_DESCRIPTION"
+msgid "Born through science, Mutoids are artificial humanoids created in a lab using mutagens. When combined with human DNA, they have the ability to acquire the abilities of trained soldiers or even dissected Pandorans."
+msgstr "Generati dalla scienza, i mutoidi sono degli umanoidi artificiali creati in laboratorio usando mutageni. Se combinati con DNA umano, possono acquisire le abilità di soldati addestrati o perfino dei Pandora sezionati."
+
+msgctxt "DLC4 Hypnos/KEY_BUY_MUTOID_SPECIALIZATION_HEADING"
+msgid "CHOOSE MUTOID SPECIALIZATION"
+msgstr "SCEGLI SPECIALIZZAZIONE MUTOIDE"
+
+msgctxt "DLC4 Hypnos/KEY_DLC_CORRUPTED_HORIZONS"
+msgid "CORRUPTED HORIZONS"
+msgstr "ORIZZONTI CORROTTI"
+
+msgctxt "DLC4 Hypnos/KEY_RECRUITS_DEPLOYMENT_TITLE"
+msgid "DEPLOYMENT"
+msgstr "SCHIERAMENTO"
+
+msgctxt "DLC4 Hypnos/KEY_RECRUITS_SCREEN_DESCRIPTION"
+msgid "Recruits come from armed groups that have managed to survive on their own in the wilderness. While most of them haven’t undergone official military training, they can be valuable assets for the battle against the Pandorans."
+msgstr "Le reclute vengono da gruppi armati che sono riusciti a sopravvivere da soli nelle terre desolate. Anche se la maggior parte di loro non ha mai ricevuto un addestramento militare ufficiale, possono essere una risorsa preziosa nella battaglia contro i Pandora."
+
+msgctxt "DLC4 Hypnos/KEY_BASE_RECRUITS_TRAIN_ACTION"
+msgid "CREATE"
+msgstr "CREA"
+
+msgctxt "DLC4 Hypnos/KEY_BASE_RECRUITS_TRAIN_MUTOID_CONFIRMATION"
+msgid "Are you sure you want to create this mutoid for {0}?"
+msgstr "Vuoi davvero creare questo mutoide per {0}?"
+
+msgctxt "DLC4 Hypnos/KEY_BASE_RECRUITS_BUY_MUTOID_NOTIFICATION"
+msgid "{0} {1} has been created and deployed to {2}"
+msgstr "Creazione di {0} {1} da schierare presso {2}"
+
+msgctxt "DLC4 Hypnos/KEY_RECRUITS_RECRUITS_SPECIALIZAION_HEADING"
+msgid "CHOOSE RECRUIT SPECIALIZATION"
+msgstr "SCEGLI SPECIALIZZAZIONE RECLUTA"
+
+msgctxt "DLC4 Hypnos/KEY_MUTOID_HEAD_NAME"
+msgid "Mutoid Head"
+msgstr "Testa del mutoide"
+
+msgctxt "DLC4 Hypnos/KEY_MUTOID_HEAD_DESCRIPTION"
+msgid "Genetically constructed Mutoid head"
+msgstr "Testa del mutoide creata geneticamente"
+
+msgctxt "DLC4 Hypnos/KEY_OBJECTIVE_CAPTURE_ACHERON"
+msgid "CAPTURE THE ACHERON"
+msgstr "CATTURA L'ACHERON"
+
+msgctxt "DLC4 Hypnos/KEY_BRIEFING_INFECTED_AREA"
+msgid "CORRUPTED AREA"
+msgstr "AREA CORROTTA"
+
+msgctxt "DLC4 Hypnos/KEY_SOLDIER_CORRUPTION_STATUS_TOOLTIP"
+msgid "Dies in {0} days"
+msgstr "[null]"
+
+msgctxt "DLC4 Hypnos/KEY_SOLDIER_CORRUPTION_STATUS_SINGULAR_TOOLTIP"
+msgid "Dies in 1 day"
+msgstr "[null]"
+
+msgctxt "DLC4 Hypnos/KEY_OPTIONS_VEHICLE_AUTO_UNPAUSE"
+msgid "AIRCRAFT GEOSCAPE AUTO UNPAUSE MODE"
+msgstr "MODALITÀ RIPRESA AUTOMATICA VELIVOLO GLOBO"
+
+msgctxt "DLC4 Hypnos/KEY_OPTIONS_VEHICLE_UNPAUSE_ALWAYS"
+msgid "ALWAYS"
+msgstr "SEMPRE"
+
+msgctxt "DLC4 Hypnos/KEY_OPTIONS_VEHICLE_UNPAUSE_ONE_VEHICLE"
+msgid "SINGLE AIRCRAFT"
+msgstr "VELIVOLO SINGOLO"
+
+msgctxt "DLC4 Hypnos/KEY_OPTIONS_VEHICLE_UNPAUSE_ALL_VEHICLE_TRAVEL"
+msgid "ALL AIRCRAFT  ARE TRAVELLING"
+msgstr "TUTTI I VELIVOLI SONO IN VIAGGIO"
+
+msgctxt "DLC4 Hypnos/KEY_OPTIONS_VEHICLE_UNPAUSE_NEVER"
+msgid "NEVER"
+msgstr "MAI"
+
+msgctxt "DLC4 Hypnos/KEY_SITE_INFO_ATTITUDE_PENALTY_AFTER"
+msgid "ATTITUDE CHANGE IN {0}"
+msgstr "CAMBIO DI DISPOSIZIONE TRA {0}"
+
+msgctxt "DLC4 Hypnos/KEY_SITE_INFO_ATTITUDE_GAIN_DESTROY"
+msgid "ATTITUDE CHANGE IF DESTROYED"
+msgstr "CAMBIO DI DISPOSIZIONE IN CASO DI DISTRUZIONE"
+
+msgctxt "DLC4 Hypnos/KEY_ALIEN_RESEARCH_DIPLOMACY_CHANGE"
+msgid "Attitude change due to havens falling within the influence range of revealed Pandoran bases:"
+msgstr "La disposizione cambia nel caso della caduta dei rifugi nel raggio di influenza delle basi Pandora scoperte:"
+
+msgctxt "DLC4 Hypnos/KEY_RESEARCH_POINTS_TEXT"
+msgid "RESEARCH"
+msgstr "RICERCA"
+
+msgctxt "DLC4 Hypnos/KEY_CORRUPTION_TICK_NOTIFICATION"
+msgid "The level of corruption has increased among the sick."
+msgstr "[null]"
+
+msgctxt "DLC4 Hypnos/KEY_CORRUPTION_SOLDIER_DIED_NOTIFICATION"
+msgid "The corruption has claimed more victims. {0} people have lost the battle against it."
+msgstr "[null]"
+
+msgctxt "DLC4 Hypnos/KEY_CORRUPTION_SOLDIER_DIED_SINGULAR_NOTIFICATION"
+msgid "The corruption has claimed another victim. A person has died as a result."
+msgstr "[null]"
+
+msgctxt "DLC4 Hypnos/KEY_RESEARCH_UNKNOWN"
+msgid "UNKNOWN"
+msgstr "SCONOSCIUTO"
+
+msgctxt "DLC4 Hypnos/KEY_MAIN_MENU_CINEMATICS_LIBRARY"
+msgid "CINEMATICS"
+msgstr "FILMATI"
+
+msgctxt "DLC4 Hypnos/KEY_DLC4_OBJECTIVE_TURRETS"
+msgid "Reboot the Security System"
+msgstr "Riavvia il sistema di sicurezza"
+
+msgctxt "DLC4 Hypnos/KEY_DLC4_TAC_HINT_TURRETS_NAME"
+msgid "MISSION UPDATE"
+msgstr "AGGIORNAMENTO MISSIONE"
+
+msgctxt "DLC4 Hypnos/KEY_DLC4_TAC_HINT_TURRETS_DESCRIPTION"
+msgid "Upon landing, we've immediately identified an extensive turret security system.[LF]However, it seems to be in a state of disarray.[LF]We've got two options: find a functioning console to reboot it, or activate every turret individually.[LF]Either way, we should hurry, as the system is already under Pandoran attack."
+msgstr "Durante l'atterraggio abbiamo immediatamente individuato un esteso sistema di sicurezza dotato di torrette.[LF] Tuttavia, sembra che abbia subito un malfunzionamento.[LF]Abbiamo due opzioni: trovare un terminale funzionante e riavviarlo, oppure attivare ogni torretta individualmente.[LF] In ogni caso dovremmo affrettarci, poiché il sistema è già sotto attacco dei Pandora."
+
+msgctxt "DLC4 Hypnos/KEY_HAVEN_ALERT_COOLDOWN_TIMER"
+msgid "ALERT LEVEL REDUCTION IN {0}"
+msgstr "RIDUZIONE DEL LIVELLO DI ALLERTA TRA {0}"
+
+msgctxt "DLC4 Hypnos/KEY_DIPSHARESCREEN_TITLE"
+msgid "DIPLOMATIC BENEFITS"
+msgstr "BENEFICI DIPLOMATICI"
+
+msgctxt "DLC4 Hypnos/KEY_DIPSHARESCREEN_RESEARCH_LIST"
+msgid "RESEARCH SHARED"
+msgstr "RICERCHE CONDIVISE"
+
+msgctxt "DLC4 Hypnos/KEY_DIPSHARESCREEN_RESEARCH_DETAILS"
+msgid "RESEARCH DETAILS"
+msgstr "DETTAGLI DI RICERCA"
+
+msgctxt "DLC4 Hypnos/KEY_DIPSHARESCREEN_HINT_ANU"
+msgid "Go to the research tab to view research projects from the Disciples of Anu"
+msgstr "Apri la scheda Ricerca per vedere i progetti di ricerca dei Discepoli di Anu."
+
+msgctxt "DLC4 Hypnos/KEY_DIPSHARESCREEN_HINT_NJ"
+msgid "Go to the research tab to view research projects from New Jericho"
+msgstr "Apri la scheda Ricerca per vedere i progetti di ricerca di Nuova Gerico."
+
+msgctxt "DLC4 Hypnos/KEY_DIPSHARESCREEN_HINT_SYN"
+msgid "Go to the research tab to view research projects from Synedrion"
+msgstr "Apri la scheda Ricerca per vedere i progetti di ricerca di Synedrion."
+
+msgctxt "DLC4 Hypnos/KEY_DIPSHARESCREEN_ANU_1"
+msgid "The Disciples of Anu have appraised your excellent progress with hierarchy and are willing to share some of their secrets."
+msgstr "I Discepoli di Anu hanno valutato i tuoi progressi eccellenti con la gerarchia e sono disposti a condividere alcuni dei loro segreti."
+
+msgctxt "DLC4 Hypnos/KEY_DIPSHARESCREEN_ANU_2"
+msgid "The Disciples or Anu honour your relationship with the order, and bestow upon you additional revelations of the Dead God's work."
+msgstr "I Discepoli di Anu onorano il tuo rapporto con l'ordine e ti forniscono ulteriori rivelazioni sull'operato del Dio morto."
+
+msgctxt "DLC4 Hypnos/KEY_DIPSHARESCREEN_ANU_3"
+msgid "The highest honors are bestowed upon the Phoenix Project for the benefit of our common cause."
+msgstr "In nome della causa comune, al Progetto Phoenix è concesso il massimo degli onori."
+
+msgctxt "DLC4 Hypnos/KEY_DIPSHARESCREEN_ANU_4"
+msgid "Now that Phoenix is aligned with the Disciples of Anu, all current and future research will be shared with the Phoenix Project."
+msgstr "Ora che i Discepoli di Anu sono allineati con Phoenix, tutte le ricerche attuali e future verranno condivise con il Progetto Phoenix."
+
+msgctxt "DLC4 Hypnos/KEY_DIPSHARESCREEN_ANU_5"
+msgid "Now that we have reached an alliance with the Disciples, all research is shared, and we can assist with any new research projects they may consider."
+msgstr "Nuova Gerico dà il benvenuto agli amici che lottano contro il nemico comune ed è pronta a rafforzare la sua cooperazione con il Progetto Phoenix."
+
+msgctxt "DLC4 Hypnos/KEY_DIPSHARESCREEN_NJ_1"
+msgid "New Jericho welcome friends in the fight against our common foe, and are eager to extend cooperation with the Phoenix Project."
+msgstr "Nuova Gerico ha condiviso alcuni dei suoi progetti di ricerca principali con noi, in vista di una maggior cooperazione nel futuro prossimo."
+
+msgctxt "DLC4 Hypnos/KEY_DIPSHARESCREEN_NJ_2"
+msgid "New Jericho have shared some more of their key research projects with us, in anticipation of further cooperation in the near future."
+msgstr "Ora che siamo allineati con Nuova Gerico, condivide con noi ricerche importanti."
+
+msgctxt "DLC4 Hypnos/KEY_DIPSHARESCREEN_NJ_3"
+msgid "New Jericho see a common cause with the Phoenix Project, and are will to share more research with us."
+msgstr "Nuova Gerico riconosce la causa comune che l'avvicina al Progetto Phoenix e vuole condividere più ricerche con noi."
+
+msgctxt "DLC4 Hypnos/KEY_DIPSHARESCREEN_NJ_4"
+msgid "Now that Phoenix is aligned with New Jericho, all current and future research will be shared with the Phoenix Project."
+msgstr "Ora che Nuova Gerico è allineata con Phoenix, tutte le ricerche attuali e future verranno condivise con il Progetto Phoenix."
+
+msgctxt "DLC4 Hypnos/KEY_DIPSHARESCREEN_NJ_5"
+msgid "An alliance with New Jericho offers a potential solution to the Pandoravirus problem. All their research is shared with us, and we may assist any new research projects they devise."
+msgstr "Un'alleanza con Nuova Gerico rappresenta una potenziale soluzione al problema del Pandoravirus. Tutte le loro ricerche verranno condivise con noi e potremmo assisterli in ogni nuovo progetto di ricerca."
+
+msgctxt "DLC4 Hypnos/KEY_DIPSHARESCREEN_SYN_1"
+msgid "As a celebration of friendship and cooperation, Synedrion has shared some of their key research with us."
+msgstr "Synedrion ha condiviso alcune delle sue ricerche principali per celebrare la nostra amicizia e cooperazione."
+
+msgctxt "DLC4 Hypnos/KEY_DIPSHARESCREEN_SYN_2"
+msgid "Continued collaboration with Synedrion has resulted in further shared research projects."
+msgstr "Grazie alla collaborazione continua con Synedrion, sono stati condivisi altri progetti di ricerca."
+
+msgctxt "DLC4 Hypnos/KEY_DIPSHARESCREEN_SYN_3"
+msgid "A common purpose makes us stronger. Synedrion have shared some key research with us."
+msgstr "Uno scopo comune ci rende più forti. Synedrion ha condiviso alcune delle sue ricerche principali con noi."
+
+msgctxt "DLC4 Hypnos/KEY_DIPSHARESCREEN_SYN_4"
+msgid "Now that Phoenix is aligned with Synedrion, all current and future research will be shared with the Phoenix Project."
+msgstr "Ora che Phoenix è allineata con Synedrion, tutte le ricerche attuali e future verranno condivise con il Progetto Phoenix."
+
+msgctxt "DLC4 Hypnos/KEY_DIPSHARESCREEN_SYN_5"
+msgid "Now that an alliance has been forged with Synedrion, all research is shared and we may collaborate on any future research projects that Synedrion devise."
+msgstr "Ora che abbiamo forgiato un'alleanza con Synedrion, tutte le ricerche verranno condivise e potremo collaborare su ogni futuro progetto di ricerca elaborato da Synedrion."
+
+msgctxt "DLC4 Hypnos/KEY_FACTION_SOLDIER_JOIN_TITLE"
+msgid "A SOLDIER WISHES TO JOIN YOUR FACTION"
+msgstr "UN SOLDATO DESIDERA UNIRSI ALLA TUA FAZIONE"
+
+msgctxt "DLC4 Hypnos/KEY_FACTION_SOLDIER_JOIN_CONFIRMATION"
+msgid "DO YOU WANT TO ALLLOW THE SOLDIER TO JOIN US?"
+msgstr "VUOI PERMETTERE AL SOLDATO DI UNIRSI A NOI?"
+
+msgctxt "DLC4 Hypnos/KEY_HACK_ABILITY_NAME"
+msgid "INITIATE HACKING"
+msgstr "LANCIA ATTACCO INFORMATICO"
+
+msgctxt "DLC4 Hypnos/KEY_HACK_ABILITY_DESCRIPTION"
+msgid "Initiate hacking routines on the nearby terminal to access secure data. The hacking process will take 2 turns, but can be interrupted."
+msgstr "Lancia attacchi informatici sui terminali nelle vicinanze per accedere a dati protetti. Il processo di attacco informatico dura 2 turni, ma può essere interrotto."
+
+msgctxt "DLC4 Hypnos/KEY_CANCEL_HACKING_NAME"
+msgid "CANCEL HACKING"
+msgstr "ANNULLA ATTACCO INFORMATICO"
+
+msgctxt "DLC4 Hypnos/KEY_CANCEL_HACKING_DESCRIPTION"
+msgid "Stop hacking and ready weapon. Interrupted hacking attempts will need to be restarted."
+msgstr "Annulla l'attacco informatico e prepara l'arma. Gli attacchi informatici interrotti dovranno essere riavviati."
+
+msgctxt "DLC4 Hypnos/KEY_HACKING_STATUS_NAME"
+msgid "HACKING"
+msgstr "ATTACCO INFORMATICO"
+
+msgctxt "DLC4 Hypnos/KEY_HACKING_STATUS_DESCRIPTION"
+msgid "This operative is in the process of hacking into a terminal. They won't be able to perform any other tasks for 2 turns."
+msgstr "L'agente sta eseguendo un attacco informatico su un terminale. Non potrà eseguire altre azioni per i prossimi 2 turni."
+
+msgctxt "DLC4 Hypnos/KEY_MIST_REPELLING_ABILITY_NAME"
+msgid "REPELLING MIST"
+msgstr "REPELLI-BRUMA"
+
+msgctxt "DLC4 Hypnos/KEY_MIST_REPELLING_ABILITY_DESCRIPTION"
+msgid "Remove all mist within a 2 tile radius while moving."
+msgstr "Rimuove tutta la bruma nel raggio di 2 caselle mentre è in movimento."
+
+msgctxt "DLC4 Hypnos/KEY_CINEMATIC_BT_CUTSCENE_1"
+msgid "(BT) Echo from the Past"
+msgstr "(ST) Eco dal passato"
+
+msgctxt "DLC4 Hypnos/KEY_CINEMATIC_BT_CUTSCENE_2"
+msgid "(BT) An Enemy Forsaken"
+msgstr "(ST) Un nemico abbandonato"
+
+msgctxt "DLC4 Hypnos/KEY_CINEMATIC_BT_CUTSCENE_3"
+msgid "(BT) Secret Alliance"
+msgstr "(ST) Alleanza segreta"
+
+msgctxt "DLC4 Hypnos/KEY_CINEMATIC_BT_CUTSCENE_4"
+msgid "(BT) The Challenge"
+msgstr "(ST) La sfida"
+
+msgctxt "DLC4 Hypnos/KEY_CINEMATIC_BT_CUTSCENE_5"
+msgid "(BT) Final Act"
+msgstr "(ST) Ultimo atto"
+
+msgctxt "DLC4 Hypnos/KEY_CINEMATIC_DA_ENDING_CUTSCENE"
+msgid "World of the Exalted"
+msgstr "Il mondo della Suprema"
+
+msgctxt "DLC4 Hypnos/KEY_CINEMATIC_DA_INTRO_CUTSCENE"
+msgid "Disciples of Anu"
+msgstr "Discepoli di Anu"
+
+msgctxt "DLC4 Hypnos/KEY_CINEMATIC_FS_CUTSCENE1DEF"
+msgid "(FS) Comet of the Cursed"
+msgstr "(CI) La cometa dei dannati"
+
+msgctxt "DLC4 Hypnos/KEY_CINEMATIC_FS_CUTSCENE2DEF"
+msgid "(FS) The Gift: Arrival"
+msgstr "(CI) Il dono: venuta"
+
+msgctxt "DLC4 Hypnos/KEY_CINEMATIC_FS_CUTSCENE2ENDDEF"
+msgid "(FS) The Gift: Leavetaking"
+msgstr "(CI) Il dono: congedo"
+
+msgctxt "DLC4 Hypnos/KEY_CINEMATIC_FS_CUTSCENE3DEF"
+msgid "(FS) The Festering Skies"
+msgstr "(CI) I cieli infetti"
+
+msgctxt "DLC4 Hypnos/KEY_CINEMATIC_FS_CUTSCENE4DEF"
+msgid "(FS) Behemoth"
+msgstr "(CI) Behemoth"
+
+msgctxt "DLC4 Hypnos/KEY_CINEMATIC_FS_CUTSCENE5DEF"
+msgid "(FS) A Gargantuan Triumph"
+msgstr "(CI) Un colossale trionfo"
+
+msgctxt "DLC4 Hypnos/KEY_CINEMATIC_GAME_INTRO_CUTSCENE"
+msgid "The Hottest Year"
+msgstr "L'anno più caldo"
+
+msgctxt "DLC4 Hypnos/KEY_CINEMATIC_HYPNOS_CUTSCENE1DEF"
+msgid "(CH) Corruption Breach"
+msgstr "(OC) Corruzione incontrollata"
+
+msgctxt "DLC4 Hypnos/KEY_CINEMATIC_HYPNOS_CUTSCENE2DEF"
+msgid "(CH) Gene Ethics"
+msgstr "(OC) Etica genetica"
+
+msgctxt "DLC4 Hypnos/KEY_CINEMATIC_HYPNOS_CUTSCENE3DEF"
+msgid "(CH) Soldiers in Vials"
+msgstr "(OC) Soldati in provetta"
+
+msgctxt "DLC4 Hypnos/KEY_CINEMATIC_HYPNOS_CUTSCENE4DEF"
+msgid "(CH) The Cure"
+msgstr "(OC) La cura"
+
+msgctxt "DLC4 Hypnos/KEY_CINEMATIC_LOA_CUTSCENE_0"
+msgid "(LoA) Helena"
+msgstr "(EdA) Helena"
+
+msgctxt "DLC4 Hypnos/KEY_CINEMATIC_LOA_CUTSCENE_1"
+msgid "(LoA) The Antedeluvian Link"
+msgstr "(EdA) Il collegamento antidiluviano"
+
+msgctxt "DLC4 Hypnos/KEY_CINEMATIC_LOA_CUTSCENE_2"
+msgid "(LoA) The Adamantium Forge"
+msgstr "(EdA) La forgia di adamantio"
+
+msgctxt "DLC4 Hypnos/KEY_CINEMATIC_LOA_CUTSCENE_3"
+msgid "(LoA) The Vapors of Life"
+msgstr "(EdA) I vapori della vita"
+
+msgctxt "DLC4 Hypnos/KEY_CINEMATIC_LOA_CUTSCENE_4"
+msgid "(LoA) The Crystal Fields"
+msgstr "(EdA) I campi di cristallo"
+
+msgctxt "DLC4 Hypnos/KEY_CINEMATIC_LOA_CUTSCENE_5"
+msgid "(LoA) The Ancients' Solution"
+msgstr "(EdA) La soluzione degli Antichi"
+
+msgctxt "DLC4 Hypnos/KEY_CINEMATIC_NJ_ENDING_CUTSCENE"
+msgid "World of Tobias West"
+msgstr "Il mondo di Tobias West"
+
+msgctxt "DLC4 Hypnos/KEY_CINEMATIC_NJ_INTRO_CUTSCENE"
+msgid "New Jericho"
+msgstr "Nuova Gerico"
+
+msgctxt "DLC4 Hypnos/KEY_CINEMATIC_PP_ENDING_CUTSCENE"
+msgid "World of the Phoenix"
+msgstr "Il mondo di Phoenix"
+
+msgctxt "DLC4 Hypnos/KEY_CINEMATIC_PP_ENDING_PALACE_DEFEAT_CUTSCENE"
+msgid "Humanity's Fall"
+msgstr "La caduta dell'umanità"
+
+msgctxt "DLC4 Hypnos/KEY_CINEMATIC_PP_INTRO_CUTSCENE"
+msgid "The Phoenix Initiative"
+msgstr "L'iniziativa Phoenix"
+
+msgctxt "DLC4 Hypnos/KEY_CINEMATIC_PP_SYMES_ANTARCTIC_CUTSCENE"
+msgid "The Antartic Mission"
+msgstr "La missione antartica"
+
+msgctxt "DLC4 Hypnos/KEY_CINEMATIC_PP_SYMES_CHINESESINKHOLE_CUTSCENE"
+msgid "The Chinese Sinkhole"
+msgstr "La dolina cinese"
+
+msgctxt "DLC4 Hypnos/KEY_CINEMATIC_PP_SYMES_CRYOLAB_CUTSCENE"
+msgid "The Cryolab"
+msgstr "Il laboratorio criogenico"
+
+msgctxt "DLC4 Hypnos/KEY_CINEMATIC_PP_SYMES_OGLETHORPE_CUTSCENE"
+msgid "The Oglethorpe Secret"
+msgstr "Il segreto della Oglethorpe"
+
+msgctxt "DLC4 Hypnos/KEY_CINEMATIC_PP_SYMES_PANDORAVIRUS_CUTSCENE"
+msgid "The Pandoravirus"
+msgstr "Il Pandoravirus"
+
+msgctxt "DLC4 Hypnos/KEY_CINEMATIC_PP_SYMES_PHOENIXFILES_CUTSCENE"
+msgid "The Phoenix Archives"
+msgstr "Gli archivi Phoenix"
+
+msgctxt "DLC4 Hypnos/KEY_CINEMATIC_PP_SYMES_RETREAT_CUTSCENE"
+msgid "Symes' Retreat"
+msgstr "Il rifugio di Symes"
+
+msgctxt "DLC4 Hypnos/KEY_CINEMATIC_PP_SYMES_SYBERIA_CUTSCENE"
+msgid "The Siberian Research"
+msgstr "La ricerca siberiana"
+
+msgctxt "DLC4 Hypnos/KEY_CINEMATIC_PP_SYMES_YUGGOTHIANENTITY_CUTSCENE"
+msgid "The Yuggothian Entity"
+msgstr "L'Entità yuggothiana"
+
+msgctxt "DLC4 Hypnos/KEY_CINEMATIC_SYN_ENDING_PARLIAMENT_CUTSCENE"
+msgid "Synedrion's Brave New World"
+msgstr "Il nuovo mondo di Synedrion"
+
+msgctxt "DLC4 Hypnos/KEY_CINEMATIC_SYN_ENDING_TERRAFORM_CUTSCENE"
+msgid "Synedrion's Just New World"
+msgstr "Il nuovo e giusto mondo di Synedrion"
+
+msgctxt "DLC4 Hypnos/KEY_CINEMATIC_SYN_INTRO_CUTSCENE"
+msgid "Synedrion"
+msgstr "Synedrion"
+
+msgctxt "DLC4 Hypnos/TUTORIAL1_CUTSCENE"
+msgid "The Scarab"
+msgstr "Lo Scarabeo"
+
+msgctxt "DLC4 Hypnos/TUTORIAL2_CUTSCENE"
+msgid "The Reclamation Station"
+msgstr "La stazione di riconquista"
+
+msgctxt "DLC4 Hypnos/TUTORIAL2_ITEMSFROMCRATE_C_CUTSCENE"
 msgid "[null]"
 msgstr "[null]"
 
-msgctxt "DLC4 Hypnos/KEY_GEO_HINT_ENEMY_SPECIAL_CORRUPTION_OVER_DESCRIPTION"
+msgctxt "DLC4 Hypnos/TUTORIAL2_ITEMSFROMCRATE_K_CUTSCENE"
 msgid "[null]"
 msgstr "[null]"
+
+msgctxt "DLC4 Hypnos/TUTORIAL2_OMARJUMP_C_CUTSCENE"
+msgid "[null]"
+msgstr "[null]"
+
+msgctxt "DLC4 Hypnos/TUTORIAL2_OMARJUMP_K_CUTSCENE"
+msgid "[null]"
+msgstr "[null]"
+
+msgctxt "DLC4 Hypnos/TUTORIAL3_CUTSCENE"
+msgid "The Battle of Phoenix Point"
+msgstr "La battaglia di Phoenix Point"
+
+msgctxt "DLC4 Hypnos/TUTORIAL3_ROTATECAMERA_C_CUTSCENE"
+msgid "[null]"
+msgstr "[null]"
+
+msgctxt "DLC4 Hypnos/TUTORIAL3_ROTATECAMERA_K_CUTSCENE"
+msgid "[null]"
+msgstr "[null]"
+
+msgctxt "DLC4 Hypnos/TUTORIAL4_CUTSCENE"
+msgid "Our New Home"
+msgstr "La nostra nuova casa"
+
+msgctxt "DLC4 Hypnos/TUTORIAL4_TRADE_C_CUTSCENE"
+msgid "[null]"
+msgstr "[null]"
+
+msgctxt "DLC4 Hypnos/TUTORIAL4_TRADE_K_CUTSCENE"
+msgid "[null]"
+msgstr "[null]"
+
+msgctxt "DLC4 Hypnos/KEY_MUTOID_CURE_SPRAY_DESCRIPTION"
+msgid "Removes all Paralysis, Bleeding, Poison, Strained, Infected, Dazed, and Slowed status effects from target ally."
+msgstr "Rimuove gli effetti di stato paralisi, sanguinamento, veleno, logoramento, infezione, stordimento e rallentamento dal bersaglio alleato."
+
+msgctxt "DLC4 Hypnos/KEY_GEO_HINT_RESEARCH_SHARING_TITLE"
+msgid "RESEARCH SHARING"
+msgstr "CONDIVISIONE RICERCA"
+
+msgctxt "DLC4 Hypnos/KEY_GEO_HINT_RESEARCH_SHARING_DESCRIPTION"
+msgid "As your reputation improves with a faction, it will occasionally share some of its unique research with you.[LF][LF]You will still need to do some research on these shared items in order to fully understand them. Shared research is indicated in the research screen by the logo of the faction that shared it."
+msgstr "Quando migliora la tua reputazione con una fazione, ogni tanto essa condividerà con te le sue ricerche uniche.[LF]Dovrai condurre ulteriori ricerche su questi oggetti condivisi per poterli comprendere appieno. Le ricerche condivise sono mostrate nello schermo ricerca di fianco al logo della fazione a cui appartengono."
+
+msgctxt "DLC4 Hypnos/KEY_GEO_HINT_PANDORAN_BASE_DIPLOMACY_EFFECTS_TITLE"
+msgid "DIPLOMACY EFFECTS OF PANDORAN BASES"
+msgstr "GLI EFFETTI SULLA DIPLOMAZIA DELLE BASI PANDORA"
+
+msgctxt "DLC4 Hypnos/KEY_GEO_HINT_PANDORAN_BASE_DIPLOMACY_EFFECTS_DESCRIPTION"
+msgid "Factions and haven leaders will react negatively to revealed Pandoran bases if you fail to destroy them. If a faction has havens within the influence range of a Pandoran base, the diplomacy penalty will be even greater. The diplomacy penalty will only become active on the next Pandoran research report, and then you will have four days to destroy the base before the penalty is applied on the subsequent Pandoran research report.[LF][LF]The Pandoran base information panel will show the faction diplomacy penalties (and the penalty for each haven leader) within the base’s influence range. It will also show how many days remaining before the effect applies. It will also show the diplomacy gains for destroying the base. While the panel is displayed you can see the influence range of the base as a purple circle on the globe."
+msgstr "Le fazioni e i leader dei rifugi reagiranno male alla rivelazione delle basi Pandora se non riesci a distruggerle. Se una fazione ha dei rifugi nel raggio di influenza di una base Pandora, subirai una penalità sulla diplomazia ancora più alta. La penalità sulla diplomazia entrerà in vigore solo dopo il rapporto di ricerca Pandora seguente; da allora, avrai quattro giorni per distruggere la base prima che la penalità venga applicata al rapporto di ricerca Pandora successivo. Il pannello informativo della base Pandora ti mostrerà le penalità di fazione sulla diplomazia (e la penalità per ogni leader del rifugio) entro il raggio di influenza della base. Ti mostrerà anche quanti giorni rimangono prima che gli effetti vengano applicati e i vantaggi diplomatici che otterrai se distruggi la base. Mentre il pannello è in uso, puoi vedere il raggio di influenza della base, rappresentato da un cerchio viola sul globo."
+
+msgctxt "DLC4 Hypnos/KEY_RESEARCH_SHARED_THROUGH_DIPLOMACY"
+msgid "A new research project has been shared with you"
+msgstr "Un nuovo progetto di ricerca è stato condiviso con te"
 
 msgctxt "Blood Titanium/KEY_ARTHRON_ACID_GRENADE_ARM_DESCRIPTION"
 msgid "Organic Grenade Launcher"
@@ -4280,15 +5456,15 @@ msgstr "CLASSIFICAZIONE DELLE SPECIE"
 
 msgctxt "Cthulhu/KEY_CHARACTERNAME_SIRENPRAETORIAN"
 msgid "SIREN PRAETORIAN"
-msgstr "SIRENA PRAETORIAN"
+msgstr "Siren Praetorian."
 
 msgctxt "Cthulhu/KEY_CHARACTERNAME_CHIRONASTERIA"
 msgid "CHIRON ASTERIA"
-msgstr "CHIRON ASTERIA"
+msgstr "Chiron Asteria."
 
 msgctxt "Cthulhu/KEY_GEOSCAPE_MESSAGE_HAVEN_ZONE_ATTRITION"
 msgid "Zone {0} in haven {2} ({1}) has fallen into disrepair"
-msgstr "Zona {0} in paradiso {2} ({1}) è caduto in rovina"
+msgstr "Zona {0} a Haven {2} ({1}) è caduto in rovina"
 
 msgctxt "Cthulhu/KEY_BASE_RECRUITS_AVAILABLE_1DAY"
 msgid "RECRUITS AVAILABLE IN 1 DAY"
@@ -5171,8 +6347,8 @@ msgid "RAGE BURST"
 msgstr "SCATTO D'IRA"
 
 msgctxt "Abilities/KEY_ONSLAUGHT_DESCRIPTION"
-msgid "An ally within 10 tiles recovers 2 Action Points"
-msgstr "Un alleato entro 10 caselle recupera 2 punti azione"
+msgid "An ally within 10 tiles recovers 2 Action Points. Limited to one use per turn."
+msgstr "Un alleato entro 10 caselle recupera 2 punti azione. Si può usare soltanto una volta per turno."
 
 msgctxt "Abilities/KEY_ONSLAUGHT_NAME"
 msgid "ONSLAUGHT"
@@ -5464,11 +6640,11 @@ msgstr "USA KIT MEDICO"
 
 msgctxt "Abilities/KEY_USE_ADVANCED_MEDKIT_DESCRIPTION"
 msgid "Restore {GeneralHealAmount} Hit Points and remove bleeding, poison, and 50% paralysis"
-msgstr "[null]"
+msgstr "Ripristina punti ferita pari a {GeneralHealAmount} e rimuove sanguinamento e veleno."
 
 msgctxt "Abilities/KEY_USE_ADVANCED_MEDKIT_NAME"
 msgid "USE MEDKIT"
-msgstr "[null]"
+msgstr "USA KIT MEDICO"
 
 msgctxt "Abilities/KEY_VANISH_DESCRIPTION"
 msgid "Move within 5 tiles and disappear from view for the next turn (or until spotted)"
@@ -5655,7 +6831,7 @@ msgid "EXTREME FOCUS"
 msgstr "CONCENTRAZIONE ESTREMA"
 
 msgctxt "Abilities/KEY_SNIPER_QUICK_AIM_DESCRIPTION"
-msgid "The Action Point cost of the next shot with a proficient weapon is reduced by 1"
+msgid "The Action Point cost of the next shot with a proficient weapon is reduced by 1."
 msgstr "Il costo in punti azione del prossimo colpo con un arma che si padroneggia è ridotto di 1"
 
 msgctxt "Abilities/KEY_SNIPER_QUICK_AIM_NAME"
@@ -5663,7 +6839,7 @@ msgid "QUICK AIM"
 msgstr "MIRA VELOCE"
 
 msgctxt "Abilities/KEY_SNIPER_WEAK_SPOT_DESCRIPTION"
-msgid "Disabling a body part also removes that body part's armor"
+msgid "Disabling a body part also removes that body part's armor."
 msgstr "Mettendo fuori uso una parte del corpo si rimuove anche la relativa parte di armatura."
 
 msgctxt "Abilities/KEY_SNIPER_WEAK_SPOT_NAME"
@@ -6035,7 +7211,7 @@ msgid "BRAWLER"
 msgstr "LOTTATORE"
 
 msgctxt "Abilities/KEY_HEAVY_BRAWLER_DESCRIPTION"
-msgid "Get Melee weapon proficiency and perfrom Bash and Melee attacks with 50% increased damage."
+msgid "Get Melee weapon proficiency and perform Bash and Melee attacks with 50% increased damage."
 msgstr "Ottieni la padronanza delle armi da mischia e infliggi il 50% di danni in più quando esegui colpi contundenti e attacchi in mischia."
 
 msgctxt "Abilities/KEY_FISHMAN_DOUBLEBLADESTRIKE_ABILITY_NAME"
@@ -7724,7 +8900,7 @@ msgstr "La bruma rappresenta la diffusione del Pandoravirus, che si estende per 
 
 msgctxt "Tutorial/KEY_TUTORIAL_MIST_DESCRIPTION_2"
 msgid "The mist represents THE PROGRESSION OF THE PANDORAVIRUS as it spreads throughout the globe. The Pandoran mutations will attempt to build colonies on areas of land covered by the mist, which will then attack nearby havens.[LF][LF]To meet this threat you will need to produce equipment.[LF][LF]SELECT THE \"\"TECH CENTER\"\" BUTTON AND GO TO \"\"MANUFACTURING\"\"[LF]"
-msgstr "[null]"
+msgstr "La bruma rappresenta LA DIFFUSIONE DEL PANDORAVIRUS, che si estende per tutto il globo. Le mutazioni Pandora cercheranno di creare colonie nelle zone coperte dalla bruma, per poi attaccare i rifugi vicini.[LF] [LF] Per far fronte a questa minaccia, dovrai creare degli equipaggiamenti.[LF] [LF] SELEZIONA IL PULSANTE \"\"CENTRO TECNOLOGICO\"\" E VAI SU \"\"FABBRICAZIONE\"\""
 
 msgctxt "Tutorial/KEY_TUTORIAL_DOOMCLOCK_NAME"
 msgid "Human Population"
@@ -8136,7 +9312,7 @@ msgstr "Copertura bassa"
 
 msgctxt "Tutorial 1 (Polaris)/KEY_TUT_LOWCOVER_DESCRIPTION"
 msgid "An operative will always kneel behind low terrain to assume LOW COVER. This obscures parts of the soldier, potentially blocking some of the incoming shots.[LF][LF][LF]A soldier in low cover will STAND UP to shoot."
-msgstr "Un agente si inginocchierà sempre dietro a un terreno basso per entrare in COPERTURA BASSA. Ciò nasconde parti del soldato, bloccando potenzialmente alcuni degli spari in arrivo.[LF] [LF] Un soldato in copertura bassa dovrà ALZARSI per sparare."
+msgstr "Un agente si inginocchierà sempre dietro a un terreno basso per entrare in COPERTURA BASSA. Ciò nasconde parti del soldato, bloccando potenzialmente alcuni degli spari in arrivo.[LF] [LF]Un soldato in copertura bassa dovrà ALZARSI per sparare."
 
 msgctxt "Tutorial 1 (Polaris)/KEY_TUT_HIGHCOVER_NAME"
 msgid "High Cover"
@@ -8167,7 +9343,7 @@ msgid "Inventory"
 msgstr "Inventario"
 
 msgctxt "Tutorial 1 (Polaris)/KEY_TUT_INVENTORYACTION_DESCRIPTION"
-msgid "The Inventory shows everything carried by a soldier, and items on the ground or in adjacent crates.[CR][LF][CR][LF]ENCUMBRANCE[CR][LF]If the weight of all carried items and armor is greater than the soldier's Strength then the soldier suffers a movement penalty.[CR][LF]The tactical inventory display is divided into three sections.[CR][LF][CR][LF]READY: Contains items that are currently equipped and ready for immediate use.[CR][LF]BACKPACK: Holds all items carried, but not equipped.[CR][LF]GROUND: Items on the soldier’s tile, or in surrounding tiles."
+msgid "The Inventory shows everything carried by a soldier, and items on the ground or in adjacent crates.[LF][LF]ENCUMBRANCE[LF]If the weight of all carried items and armor is greater than the soldier's Strength then the soldier suffers a movement penalty.[LF]The tactical inventory display is divided into three sections.[LF][LF]READY: Contains items that are currently equipped and ready for immediate use.[LF]BACKPACK: Holds all items carried, but not equipped.[LF]GROUND: Items on the soldier’s tile, or in surrounding tiles."
 msgstr "L'inventario mostra tutto ciò che viene trasportato da un soldato, ma anche gli oggetti sul terreno o in casse adiacenti.[LF] [LF] INGOMBRO[LF] Se il peso di tutti gli oggetti trasportati e dell'armatura è superiore alla forza del soldato, il soldato riceve una penalità sul movimento.[LF] La schermata dell'inventario tecnico è divisa in tre sezioni.[LF] [LF] PRONTO: Contiene oggetti attualmente equipaggiati e pronti all'uso immediato.[LF] ZAINO: Contiene tutti gli oggetti trasportati, ma non equipaggiati.[LF] TERRENO: Oggetti sulla casella del soldato o nelle caselle circostanti."
 
 msgctxt "Tutorial 1 (Polaris)/KEY_TUT_INVENTORYNOAP_NAME"
@@ -8259,7 +9435,7 @@ msgid "Recover"
 msgstr "Recupero"
 
 msgctxt "Tutorial 1 (Polaris)/KEY_TUT_RECOVER_DESCRIPTION"
-msgid "A soldier can recover half of their Will Points by spending all 4 Action Points on the RECOVER ability. Timing is key!"
+msgid "A soldier can recover half of their Will Points by spending all 4 Action Points on the RECOVER ability. This also grants them immunity to Panic for one turn. Timing is key!"
 msgstr "Un soldato può recuperare la metà dei suoi punti volontà spendendo tutti e 4 i punti azione per l'abilità RECUPERA. Il tempismo è fondamentale!"
 
 msgctxt "Tutorial 1 (Polaris)/KEY_TUT_PANIC_NAME"
@@ -8475,7 +9651,7 @@ msgid "Action controls[LF][LF][LF]Select Action: Use <size=60>:RT:</size> to ent
 msgstr "Comandi azione[LF] [LF] Seleziona azione: usa <size=60>:RT:</size> per accedere alla barra azione e <size=60>:DLEFT:</size> e <size=60>:DRIGHT:</size> per selezionare e <size=60>:A:</size> per eseguire l'azione.[LF] [LF] Movimento: <size=60>:A:</size>, poi seleziona MUOVI per spostarti nella posizione con l'indicatore di selezione"
 
 msgctxt "Tutorial 2 to 4/KEY_OPTIONS_SHOW_TACTICAL_HINTS"
-msgid "SHOW TACTICAL CONTEXT HINTS"
+msgid "SHOW CONTEXT HINTS"
 msgstr "MOSTRA SUGGERIMENTI DI CONTESTO TATTICI"
 
 msgctxt "Tutorial 2 to 4/KEY_UI_HINTS_TOGGLE"
@@ -8971,8 +10147,8 @@ msgid "Tactical Tip: Bash"
 msgstr "Consiglio tattico: Colpo contundente"
 
 msgctxt "Tutorial 2 to 4/KEY_TUT3_BASH_DESCRIPTION"
-msgid "When your soldier is next to an enemy, you can perform the BASH (:BASH:) melee attack. [LF][LF]It only costs 1 Action Point, so you can usually Bash an enemy multiple times in the same turn.[LF][LF]If you're bashing a MINDFRAGGED SOLDIER, make sure you target the creature!"
-msgstr "Quando il tuo soldato è vicino a un nemico, puoi eseguire l'attacco in mischia COLPO CONTUNDENTE (:BASH:). [LF] [LF] Costa solo 1 punto azione, quindi, di norma, puoi usare il colpo contundente su un nemico più volte nello stesso turno.[LF] [LF] Se usi il colpo contundente su un SOLDATO COLPITO DA UNO STRAPPAMENTE, assicurati di mirare alla creatura!"
+msgid "When your soldier is next to an enemy, you can perform the BASH (:BASH:) melee attack. [LF][LF]It only costs 1 Action Point, so you can usually Bash an enemy multiple times in the same turn."
+msgstr "Quando il tuo soldato è vicino a un nemico, puoi eseguire l'attacco in mischia COLPO CONTUNDENTE (:BASH:). [LF] [LF]Costa solo 1 punto azione, quindi, di norma, puoi usare il colpo contundente su un nemico più volte nello stesso turno."
 
 msgctxt "Tutorial 2 to 4/KEY_TUT_ASSAULT3_MALE"
 msgid "Takeshi Sato"
@@ -9047,8 +10223,8 @@ msgid "Will Points (WPs)"
 msgstr "Punti volontà (PV)"
 
 msgctxt "Tutorial 2 to 4/KEY_TUT4_WILLPOINTS_DESCRIPTION"
-msgid "Characters start battle with WILL POINTS (WPs) equal to their Willpower.[LF][LF]WPs are spent on SPECIAL ABILITIES such as Omar's Jet Jump.[LF]Soldiers lose WPs when their allies die, and recover WPs when using the RECOVER ability, open crates, or kill enemies. [LF]When a unit's WPs reach 0, it PANICS."
-msgstr "I personaggi iniziano la battaglia con PUNTI VOLONTÀ (PV) pari alla loro volontà.[LF] [LF] I PV vengono spesi per ABILITÀ SPECIALI come il Salto jet di Omar.[LF] I soldati perdono PV quando i loro alleati muoiono e recuperano PV quando usano l'abilità RECUPERA, aprono casse o uccidono nemici. [LF]Quando i PV di un'unità sono a 0, essa VA IN PANICO."
+msgid "Characters start battle with WILL POINTS (WPs) equal to their Willpower.[LF][LF]WPs are spent on SPECIAL ABILITIES.[LF]Soldiers lose WPs when their allies die, and recover WPs when using the RECOVER ability, open crates, or kill enemies. [LF]When a character's WPs drop below 0, they PANIC."
+msgstr "I personaggi iniziano la battaglia con PUNTI VOLONTÀ (PV) pari alla loro volontà.[LF] [LF] I PV vengono spesi per ABILITÀ SPECIALI.[LF] I soldati perdono PV quando i loro alleati muoiono e recuperano PV quando usano l'abilità RECUPERA, aprono casse o uccidono nemici.[LF] Quando i suoi PV scendono sotto lo 0, il personaggio va nel PANICO."
 
 msgctxt "Tutorial 2 to 4/KEY_TUT4_BODYPART_NAME"
 msgid "Body Part Disabled"
@@ -9267,7 +10443,7 @@ msgid "Status Effects"
 msgstr "Effetti di stato"
 
 msgctxt "Phoenixpedia/KEY_PHOENIXPEDIA_GUIDE_STATUS_EFFECTS_DESCRIPTION"
-msgid "Status effects can apply to the entire character or only to a specific body part.[LF][LF]While the status effects of a unit is can be seen on the health indicator above the character's head, body part statuses are only visible from the Character Info screen. The only exceptions are when a body part is wounded or disabled, which are indicated on the damage display to the left of the health indicator.[LF][LF]STATUS EFFECTS SUMMARY[LF]ACID: Acid corrodes the armor by the Acid value (per turn). If there is no armor, then the damage is applied to the body part. Acid value reduces by 10 per turn.[LF]BLEEDING: Each turn, lose Hit Points equal to bleed value.[LF]BURNING: Fire damage is applied to each body part at the start of the turn, subtracting armor.[LF]FRENZIED: Speed increased by 50% and immune to panic.[LF]GOOED: Unable to move until Goo decays or is removed.[LF]INFECTED BY VIRUS: At start of turn virus is subtracted from Will Points, then virus value is reduced by 1.[LF]PANICKED: Unable to move for a turn, while recovering Will Points.[LF]POISONED: At start of turn, poison is subtracted from Hit Points, then poison value is reduced by 10.[LF]PREPARING: (Pandoran Sentinel and Egg only) Preparing to activate special ability on the next turn.[LF]BERSERK: (Mutog only) Mutog becomes wild, attacking friend or foe.[LF]ENRAGED: (Mutog only) Damage dealt and speed are increased by 50%. There's a 10% chance the Mutog will go Berserk at the start of each turn.[LF]ALERTED: (Enemy only). Enemy is aware of your presence.[LF]TIRED: (caused by entering a battle with low Stamina) -1 Action Point each turn.[LF]EXHAUSTED: (caused by entering a battle with low Stamina) -2 Action Point each turn.[LF]PARALYZED: Cannot move or perform any actions.[LF]PARALYSIS: Action Points are reduced by the proportion of paralysis value to Strength.[LF]DAZED: Action Points reduced to 1 and accuracy halved. Abilities requiring Will Points cannot be used.[LF]OVERWATCH: Enemies entering the overwatch cone will trigger an attack.[LF]SONIC: Dazes the target is the target's Will Points are less than the amount of Sonic Damage"
+msgid "Status effects can apply to the entire character or only to a specific body part.[LF][LF]While the status effects of a unit is can be seen on the health indicator above the character's head, body part statuses are only visible from the Character Info screen. The only exceptions are when a body part is wounded or disabled, which are indicated on the damage display to the left of the health indicator.[LF][LF]STATUS EFFECTS SUMMARY[LF]ACID: Acid corrodes the armor by the Acid value (per turn). If there is no armor, then the damage is applied to the body part. Acid value reduces by 10 per turn.[LF]BLEEDING: Each turn, lose Hit Points equal to bleed value.[LF]BURNING: Fire damage is applied to each body part at the start of the turn, subtracting armor.[LF]FRENZIED: Speed increased by 50% and immune to panic.[LF]GOOED: Unable to move until Goo decays or is removed.[LF]INFECTED BY VIRUS: At start of turn virus is subtracted from Will Points, then virus value is reduced by 1.[LF]PANICKED: Unable to move for a turn, while recovering Will Points.[LF]POISONED: At start of turn, poison is subtracted from Hit Points, then poison value is reduced by 10.[LF]PREPARING: (Pandoran Sentinel and Egg only) Preparing to activate special ability on the next turn.[LF]BERSERK: (Mutog only) Mutog becomes wild, attacking friend or foe.[LF]ENRAGED: (Mutog only) Damage dealt and speed are increased by 50%. There's a 10% chance the Mutog will go Berserk at the start of each turn.[LF]ALERTED: (Enemy only). Enemy is aware of your presence.[LF]TIRED: (caused by entering a battle with low Stamina) -1 Action Point each turn.[LF]EXHAUSTED: (caused by entering a battle with low Stamina) -2 Action Point each turn.[LF]PARALYZED: Cannot move or perform any actions.[LF]PARALYSIS: Action Points are reduced by the proportion of paralysis value to Strength.[LF]DAZED: Action Points reduced to 1 and accuracy halved. Abilities requiring Will Points cannot be used.[LF]OVERWATCH: Enemies entering the overwatch cone will trigger an attack.[LF]SONIC: Dazes the target if the target's Will Points are less than the amount of Sonic Damage"
 msgstr "Gli effetti di stato possono essere applicati al personaggio intero o a una sua parte del corpo specifica.[LF] [LF] Gli effetti di stato di un'unità possono essere visualizzati sull'indicatore salute sopra la testa del personaggio, mentre lo stato delle parti del corpo sono visibili soltanto nella schermata Info personaggio. Fanno eccezione solo i casi in cui una parte del corpo è ferita o fuori uso, in questo caso essi vengono visualizzati sulla visuale danni a sinistra dell'indicatore salute.[LF] [LF] EFFETTI DI STATO IN SINTESI[LF]ACIDO: l'acido corrode l'armatura di tanti punti quanto il valore dell'acido (ogni turno). Se non c'è armatura, i danni vengono inflitti sulla parte del corpo. Il valore si riduce quindi di 10 per turno.[LF] SANGUINAMENTO: a ogni turno, perdi una quantità di punti ferita pari al valore di sanguinamento.[LF]FUOCO: i danni da fuoco vengono inflitti su ogni parte del corpo all'inizio del turno, riducendo l'armatura.[LF] FRENESIA: velocità incrementata del 50% e immunità al panico.[LF] INTRALCIO: impossibile muoversi finché la melma non si esaurisce o viene rimossa.[LF] INFEZIONE VIRALE: all'inizio del turno, il virus è sottratto dai punti volontà, quindi il valore del virus è ridotto di 1.[LF] NEL PANICO: impossibile muoversi per un turno mentre si recuperano punti volontà.[LF] AVVELENAMENTO: all'inizio del turno, il veleno è sottratto dai punti ferita, quindi il valore del veleno è ridotto di 10.[LF] IN PREPARAZIONE: (soltanto sentinella e uovo Pandora) preparati ad attivare un'abilità speciale per il turno successivo.[LF] BERSERK: (soltanto Mutog) il Mutog impazzisce e attacca tutti senza distinzione.[LF] FURIA: (soltanto Mutog) i danni inflitti e la velocità aumentano del 50%. C'è una possibilità del 10% che il Mutog scateni la sua furia all'inizio di ogni turno.[LF] IN ALLERTA: (soltanto nemico) il nemico è consapevole della tua presenza.[LF]STANCHEZZA: (provocato dall'entrata in battaglia con resistenza bassa) -1 punto azione a ogni turno.[LF] ESAURIMENTO: (provocato dall'entrata in battaglia con resistenza bassa) -2 punti azione a ogni turno.[LF] PARALIZZATO: impossibile muoversi o compiere azioni.[LF] PARALISI: i punti azione sono ridotti di un numero pari al rapporto tra valore della paralisi e forza.[LF] STORDIMENTO: punti azione ridotti a 1 e precisione dimezzata. Impossibile usare le abilità che richiedono punti volontà.[LF] GUARDIA: I nemici provocano un attacco se entrano nel cono di guardia."
 
 msgctxt "Phoenixpedia/KEY_PHOENIXPEDIA_GUIDE_HAVENS_NAME"
@@ -9283,8 +10459,8 @@ msgid "Advanced: Factions and Diplomacy"
 msgstr "Avanzato: Fazioni e diplomazia"
 
 msgctxt "Phoenixpedia/KEY_PHOENIXPEDIA_GUIDE_FACTIONS_DESCRIPTION"
-msgid "Other than the Phoenix Project, three main factions remain in the world: New Jericho, Synedrion, and the Disciples of Anu. Each of them exerts substantial control over the majority of Havens that remain in the world.[LF][LF][LF]In the course of the game, each faction will offer series of Diplomacy missions. Completing these missions will allow you to improve relations with them. Important diplomacy missions are given at the highest point of relationship levels Friendly (24), Supportive (49) and Aligned (74).[LF][LF][LF]RELATIONSHIP LEVELS[LF]Allied: (attitude 75+) The Phoenix Project can research the allied faction's research projects. Attacking allied faction Havens puts you immediately At War.[LF]Aligned: (attitude 50 - 74) The faction shares all completed research projects with the Phoenix Project.[LF]Supportive: (attitude 25 - 49) When the Phoenix Project discovers a Haven, belonging to the faction, it will be revealed instantly.[LF]Friendly: (attitude 1 - 24) Standard relations.[LF]Unfriendly: (attitude -25  - 0) Cannot Trade or Recruit from Haven Leaders with such an attitude.[LF]Hostile: (attitude -25 - -49) No special effect.[LF]Aggressive: (attitude -50 - 74) No special effect.[LF]At War: (attitude -75) The faction will attempt to attack your bases. Relations cannot improve from this point."
-msgstr "Oltre al Progetto Phoenix, nel mondo restano tre fazioni principali: Nuova Gerico, Synedrion e i Discepoli di Anu. Esse nel complesso esercitano il sostanziale controllo della maggior parte dei rifugi superstiti sulla terra.[LF][LF]Nel corso del gioco, ogni fazione offrirà una serie di missioni di Diplomazia. Le tue relazioni con loro miglioreranno portando a termine tali missioni. Le missioni diplomatiche più importanti vengono affidate in corrispondenza dei punti più alti delle relazioni Amichevole (24), Cooperante (49) e Allineata (74).[LF][LF]LIVELLI DI RELAZIONE[LF]Alleata: (disposizione 75+) Il Progetto Phoenix può fare ricerca sui progetti di ricerca della fazione alleata. Se si attaccano rifugi della fazione alleata si entra immediatamente In guerra.[LF]Allineata: (disposizione 50 - 74) La fazione condivide tutti i progetti di ricerca ultimati con il Progetto Phoenix.[LF]Cooperante: (disposizione 25 - 49) Quando il Progetto Phoenix scopre un rifugio che appartiene alla fazione, verrà svelato immediatamente.[LF]Amichevole: (disposizione 1 - 24) Relazioni standard[LF]Fredda: (disposizione -25 - 0) Impossibile fare scambi o reclutare con leader di rifugio con tale disposizione.[LF]Ostile: (disposizione -25 - -49) Nessun effetto particolare.[LF]Aggressiva: (disposizione -50 - -74) Nessun effetto particolare.[LF]In guerra: (disposizione -75) La fazione proverà ad attaccare le tue basi. Da questo punto, le relazioni non possono migliorare."
+msgid "Other than the Phoenix Project, three main factions remain in the world: New Jericho, Synedrion, and the Disciples of Anu. Each of them exerts substantial control over the majority of Havens that remain in the world.[LF][LF]In the course of the game, each faction will offer series of Diplomacy missions. Completing these missions will allow you to improve relations with them. Important diplomacy missions are given at the highest point of relationship levels Friendly (24), Supportive (49) and Aligned (74).[LF][LF]RELATIONSHIP LEVELS[LF]Allied: (attitude 75+) The Phoenix Project can research all the allied faction's research projects. Attacking allied faction Havens puts you immediately At War.[LF]Aligned: (attitude 50 - 74) The faction shares significant research projects with the Phoenix Project.[LF]Supportive: (attitude 25 - 49) When the Phoenix Project discovers a Haven, belonging to the faction, it will be revealed instantly without exploration.[LF]Friendly: (attitude 1 - 24) Standard relations.[LF]Unfriendly: (attitude -25  - 0) Cannot Trade or Recruit from Haven Leaders with such an attitude.[LF]Hostile: (attitude -25 - -49) No special effect.[LF]Aggressive: (attitude -50 - 74) No special effect.[LF]At War: (attitude -75) The faction will attempt to attack your bases. Relations cannot improve from this point."
+msgstr "Oltre al Progetto Phoenix, nel mondo restano tre fazioni principali: Nuova Gerico, Synedrion e i Discepoli di Anu. Esse nel complesso esercitano il sostanziale controllo della maggior parte dei rifugi superstiti sulla terra.[LF][LF]Nel corso del gioco, ogni fazione offrirà una serie di missioni di Diplomazia. Le tue relazioni con loro miglioreranno portando a termine tali missioni. Le missioni diplomatiche più importanti vengono affidate in corrispondenza dei punti più alti delle relazioni Amichevole (24), Cooperante (49) e Allineata (74).[LF][LF]LIVELLI DI RELAZIONE[LF]Alleata: (disposizione 75+) Il Progetto Phoenix può fare ricerca su tutti i progetti di ricerca della fazione alleata. Se si attaccano rifugi della fazione alleata si entra immediatamente In guerra.[LF]Allineata: (disposizione 50 - 74) La fazione condivide progetti di ricerca importanti con il Progetto Phoenix.[LF]Cooperante: (disposizione 25 - 49) Quando il Progetto Phoenix scopre un rifugio che appartiene alla fazione, verrà svelato immediatamente, senza che debba essere esplorato.[LF]Amichevole: (disposizione 1 - 24) Relazioni standard.[LF]Fredda: (disposizione -25 - 0) Impossibile fare scambi o reclutare leader del rifugio con tale disposizione.[LF]Ostile: (disposizione -25 - -49) Nessun effetto particolare.[LF]Aggressiva: (disposizione -50 - -74) Nessun effetto particolare.[LF]In guerra: (disposizione -75) La fazione proverà ad attaccare le tue basi. Da questo punto, le relazioni non possono migliorare."
 
 msgctxt "Phoenixpedia/KEY_PHOENIXPEDIA_GUIDE_SEARCH"
 msgid "Type here to search"
@@ -9452,19 +10628,19 @@ msgstr "Le uova si schiuderanno entro 1 turno da quando vengono disturbate. Si c
 
 msgctxt "General Tactical Hints/KEY_TAC_HINT_PERCEPTION_NAME"
 msgid "PERCEPTION"
-msgstr "[null]"
+msgstr "PERCEZIONE"
 
 msgctxt "General Tactical Hints/KEY_TAC_HINT_PERCEPTION_DESCRIPTION"
 msgid "A character's PERCEPTION determines the distance, in tiles, from which the unit can spot a human-sized enemy. [LF][LF]Perception is modified by the lighting conditions, mist, size and STEALTH value of the enemy."
-msgstr "[null]"
+msgstr "La PERCEZIONE di un personaggio determina la distanza, in caselle, da cui l'unità può individuare un nemico di grandezza umana. [LF] [LF] La percezione è modificata dalle condizioni di illuminazione, dalla bruma, dalla dimensione e dal valore FURTIVITÀ del nemico."
 
 msgctxt "General Tactical Hints/KEY_TAC_HINT_STEALTH_NAME"
 msgid "STEALTH"
-msgstr "[null]"
+msgstr "FURTIVITÀ"
 
 msgctxt "General Tactical Hints/KEY_TAC_HINT_STEALTH_DESCRIPTION"
 msgid "The STEALTH value of a character modifies the Perception of enemies. The more Steath a character has, the more difficult they'll be spotted.[LF][LF][LF]Stealth is affected by the ARMOR WORN and some special abilities."
-msgstr "[null]"
+msgstr "Il valore FURTIVITÀ di un personaggio modifica la percezione dei nemici. Più un personaggio ha furtività, più difficilmente verrà individuato.[LF][LF] La furtività è influenzata dall'ARMATURA INDOSSATA e da alcune abilità speciali."
 
 msgctxt "General Tactical Hints/KEY_TAC_HINT_ENEMY_EGG_NAME"
 msgid "PANDORAN - EGG"
@@ -9879,16 +11055,16 @@ msgid "HAVEN DEFENSE MISSION - CIVILIAN RESCUE"
 msgstr "MISSIONE DI DIFESA DEL RIFUGIO - SALVATAGGIO CIVILE"
 
 msgctxt "General Tactical Hints/KEY_TAC_HINT_MISSION_HAVENDEFENSE_CIVILIANS_DESCRIPTION"
-msgid "Defeat all enemy forces, while ensuring that the civilians remain alive. Moving next to a civilian will allow you to control them and evacuate them from the battlefield."
-msgstr "Sconfiggi tutte le forze nemiche mentre ti assicuri che tutti i civili sopravvivano. Spostarti accanto a un civile ti permette di controllarlo e di farlo uscire dal campo di battaglia."
+msgid "Defeat all enemy forces, while ensuring that the civilians remain alive. Moving next to a civilian will allow you to control them and evacuate them from the battlefield.[LF][LF]One surviving haven defender may volunteer to join Phoenix."
+msgstr "Sconfiggi tutte le forze nemiche mentre ti assicuri che tutti i civili sopravvivano. Spostarti accanto a un civile ti permette di controllarlo e di farlo uscire dal campo di battaglia.[LF][LF]Un difensore sopravvissuto del rifugio potrebbe offrirsi volontario per unirsi a Phoenix."
 
 msgctxt "General Tactical Hints/KEY_TAC_HINT_MISSION_HAVENDEFENSE_STRUCTURES_NAME"
 msgid "HAVEN DEFENSE MISSION - STRUCTURE DEFENSE"
 msgstr "MISSIONE DI DIFESA DEL RIFUGIO - DIFESA STRUTTURA"
 
 msgctxt "General Tactical Hints/KEY_TAC_HINT_MISSION_HAVENDEFENSE_STRUCTURES_DESCRIPTION"
-msgid "Defeat all enemy forces before they damage the key structures of the Haven. You can take control of haven defenders by moving next to them, if you wish."
-msgstr "Sconfiggi tutte le forze nemiche prima che danneggino le strutture chiave del rifugio. Se vuoi, puoi assumere il controllo dei difensori del rifugio spostandoti accanto a loro."
+msgid "Defeat all enemy forces before they damage the key structures of the Haven. You can take control of haven defenders by moving next to them, if you wish.[LF][LF]One surviving haven defender may volunteer to join Phoenix."
+msgstr "Sconfiggi tutte le forze nemiche prima che danneggino le strutture chiave del rifugio. Se vuoi, puoi assumere il controllo dei difensori del rifugio spostandoti accanto a loro.[LF][LF]Un difensore sopravvissuto del rifugio potrebbe offrirsi volontario per unirsi a Phoenix."
 
 msgctxt "General Tactical Hints/KEY_TAC_HINT_MISSION_BASEDEFENSE_NAME"
 msgid "BASE DEFENSE MISSION"
@@ -9943,8 +11119,8 @@ msgid "STEAL RESEARCH MISSION"
 msgstr "MISSIONE FURTO DI RICERCA"
 
 msgctxt "General Tactical Hints/KEY_TAC_HINT_MISSION_STEAL_RESEARCH_DESCRIPTION"
-msgid "Get a soldier to the terminals, and activate the OBJECTIVE ability to collect any available research."
-msgstr "Porta un soldato ai terminali e attiva l'abilità OBIETTIVO per raccogliere qualsiasi risorsa disponibile."
+msgid "Get soldiers to 3 different terminals and activate the HACK ability, then evacuate your squad."
+msgstr "Porta i soldati in 3 terminali diversi e attiva l'abilità HACK, quindi evacua la tua squadra."
 
 msgctxt "General Tactical Hints/KEY_TAC_HINT_MISSION_STEAL_AIRCRAFT_NAME"
 msgid "STEAL AIRCRAFT MISSION"
@@ -9956,11 +11132,11 @@ msgstr "Porta un soldato all'indicatore obiettivo vicino al velivolo, poi attiva
 
 msgctxt "General Tactical Hints/KEY_TAC_HINT_MARK_OF_THE_VOID_NAME"
 msgid "MARK OF THE VOID"
-msgstr "[null]"
+msgstr "MARCHIO DEL VUOTO"
 
 msgctxt "General Tactical Hints/KEY_TAC_HINT_MARK_OF_THE_VOID_DESCRIPTION"
 msgid "The Yuggothian Receptacle applies dangerous Marks of the Void to our operatives, damaging them and nearby allies every turn. We should aim for the creature's eyes. Disabling an eye will remove one of those Marks."
-msgstr "[null]"
+msgstr "Il Ricettacolo yuggothiano imprime pericolosi marchi del vuoto sui nostri agenti, infliggendo a ogni turno danni su di loro e sugli alleati vicini. Dobbiamo mirare agli occhi della creatura. Mettendo fuori uso un occhio, viene rimosso uno di quei marchi."
 
 msgctxt "Tactical/KEY_NUMBER_OF_SHOTS"
 msgid "x {0} shots"
@@ -10513,6 +11689,54 @@ msgstr "ACQUISISCI PIÙ VELIVOLI"
 msgctxt "Geoscape Hints/KEY_GEO_HINT_MORE_AIRCRAFT_DESC"
 msgid "In order to improve the reach and effectiveness of the Phoenix organisation you will need more aircraft. An aircraft with a small squad or vehicle can be used to explore. Having two or more full combat squads in different continents will improve your abilitiy to take on missions. You have two ways to get more aircraft:[LF][LF]BUILD: Building an aircraft is slow, so this is best done when you have 3 or more Fabrication Plants across your bases, and plenty of resources.[LF][LF]STEAL: The quickest way to get another aircraft is to steal it. You need a squad at the same location as another faction's aircraft. Then you can select the STEAL AIRCRAFT mission from the site menu, or the haven info screen. This will antagonize the faction owning the aircraft."
 msgstr "Al fine di migliorare la portata e l'efficacia dell'organizzazione Phoenix avrai bisogno di più velivoli. Un velivolo con una piccola squadra o un veicolo possono essere usati per esplorare. Avendo due o più squadre di combattimento complete in diversi continenti, migliorerai la tua abilità di affrontare le missioni. Hai due modi per ottenere più velivoli:[LF] [LF]COSTRUISCI: costruire un velivolo è un processo lento, perciò è meglio farlo se hai 3 o più impianti di fabbricazione sparsi per le tue basi e moltissime risorse.[LF] [LF] RUBA: il modo più rapido per ottenere un altro velivolo è rubarlo. Ti serve una squadra nella stessa posizione del velivolo di un'altra fazione. Poi puoi selezionare la missione FURTO DI VELIVOLO dal menu del sito o dalla schermata di informazioni del rifugio. In questo modo ti inimicherai la fazione proprietaria del velivolo."
+
+msgctxt "Geoscape Hints/KEY_GEO_HINT_PHOENIX_QUEST_LINE_NAME"
+msgid "THE PHOENIX PATH"
+msgstr "LA VIA DI PHOENIX"
+
+msgctxt "Geoscape Hints/KEY_GEO_HINT_PHOENIX_QUEST_LINE_DESCRIPTION"
+msgid "All critical Phoenix objectives are marked with the Phoenix Point symbol (:PXQUEST:) in the Objectives panel.[LF][LF]Completing these objectives will bring you closer to solving the Pandoravirus crisis.[LF][LF]Taking this course is NOT THE ONLY PATH TO VICTORY."
+msgstr "Gli obiettivi Phoenix fondamentali sono indicati dal simbolo Phoenix Point (:PXQUEST:) nel pannello degli Obiettivi.[LF] [LF] Completare questi obiettivi ti avvicinerà alla risoluzione della crisi del Pandoravirus.[LF] [LF] Questo percorso NON È L'UNICA STRADA PER LA VITTORIA."
+
+msgctxt "Geoscape Hints/KEY_GEO_HINT_NO_WEAPON_NOTIFICATION_NAME"
+msgid "EMPTY READY SLOTS"
+msgstr "SLOT PRONTI VUOTI"
+
+msgctxt "Geoscape Hints/KEY_GEO_HINT_NO_WEAPON_NOTIFICATION_DESCRIPTION"
+msgid "An operative inside an aircaft has :NOWEAPON: NO WEAPONS IN ANY READY SLOT.[LF][LF]It is best to equip them with at least one weapon and other useful items such as ammo, grenades, or medkits before deploying them for their next mission.[LF][LF]The operative will be able to equip items found on the battlefield or carried in friendly soldiers' inventories."
+msgstr "Un agente in un velivolo :NOWEAPON: NON HA ALCUNA ARMA NEGLI SLOT PRONTI.[LF][LF] Prima che inizi la sua prossima missione, sarebbe meglio fornire all'agente almeno un'arma e altri oggetti utili come munizioni, granate o kit medici.[LF][LF] L'agente potrà equipaggiarsi degli oggetti trovati sul campo di battaglia o trasportati negli inventari dei soldati alleati."
+
+msgctxt "Geoscape Hints/KEY_GEO_HINT_CYBERNETICS_LAB_BUILT_NAME"
+msgid "AUGMENTATION NOW AVAILABLE"
+msgstr "INNESTO ORA DISPONIBILE"
+
+msgctxt "Geoscape Hints/KEY_GEO_HINT_CYBERNETICS_LAB_BUILT_DESCRIPTION"
+msgid "The construction of your Cybernetics Lab is complete. You will now be able to AUGMENT SOLDIERS, replacing their natural limbs with powerful cybernetics.[LF][LF][LF]To Augment a soldier, navigate to the PERSONNEL tab, select EDIT UNIT and then select AUGMENT."
+msgstr "La costruzione del tuo Laboratorio di cibernetica è stata completata. Ora hai la possibilità di impiantare INNESTI AI SOLDATI, sostituendo i loro arti naturali con potenti impianti cibernetici.[LF] [LF] Per impiantare un innesto a un soldato, vai alla scheda PERSONALE, seleziona MODIFICA UNITÀ e poi seleziona INNESTA."
+
+msgctxt "Geoscape Hints/KEY_GEO_HINT_AUGMENTATION_SCREEN_NAME"
+msgid "AUGMENTING A SOLDIER"
+msgstr "IMPIANTARE UN INNESTO A UN SOLDATO"
+
+msgctxt "Geoscape Hints/KEY_GEO_HINT_AUGMENTATION_SCREEN_DESCRIPTION"
+msgid "You are about to augment your first soldier. A character can only have UP TO 2 BODY PARTS replaced this way.[LF][LF]Once an augmentation is installed, the soldier will not be able to revert back to their natural limbs. However, augmented body parts CAN BE SWAPPED with different cybernetic parts.[LF][LF]Augmented body parts are IMMUNE TO BLEEDING and RESISTANT TO VIRAL DAMAGE, POISON, AND PARALYSIS. Damaged cybernetics CAN BE REPAIRED after battle at the expense of Tech and Materials. "
+msgstr "Stai per impiantare un innesto al tuo primo soldato. Un personaggio può avere al massimo 2 PARTI DEL CORPO sostituite con questo metodo.[LF] [LF] Una volta che l'innesto viene impiantato, il soldato non potrà più recuperare i suoi arti naturali. Tuttavia, i potenziamenti innestati POSSONO ESSERE SCAMBIATI con impianti cibernetici diversi.[LF] [LF] Gli impianti cibernetici sono IMMUNI AL SANGUINAMENTO e RESISTENTI AI DANNI VIRALI, AL VELENO E ALLA PARALISI. Dopo la battaglia, le parti cibernetiche POSSONO ESSERE RIPARATE spendendo tecnologia e materiali."
+
+msgctxt "Geoscape Hints/KEY_GEO_HINT_MUTATION_LAB_BUILT_NAME"
+msgid "MUTATION NOW AVAILABLE"
+msgstr "MUTAZIONE ORA DISPONIBILE"
+
+msgctxt "Geoscape Hints/KEY_GEO_HINT_MUTATION_LAB_BUILT_DESCRIPTION"
+msgid "The construction of your Mutation Lab is complete. You will now be able to MUTATE SOLDIERS, replacing their natural limbs with ones enhanced by Pandoravirus mutation.[LF][LF][LF]To Mutate a soldier, navigate to the PERSONNEL tab, select EDIT UNIT and then select MUTATE."
+msgstr "La costruzione del tuo Laboratorio mutazioni è stata completata. Ora hai la possibilità di far MUTARE I SOLDATI, sostituendo i loro arti naturali con arti migliorati dalla mutazione del Pandoravirus.[LF] [LF] Per far mutare un soldato, vai alla scheda PERSONALE, seleziona MODIFICA UNITÀ e poi seleziona MUTA."
+
+msgctxt "Geoscape Hints/KEY_GEO_HINT_MUTATION_SCREEN_NAME"
+msgid "MUTATING A SOLDIER"
+msgstr "FAR MUTARE UN SOLDATO"
+
+msgctxt "Geoscape Hints/KEY_GEO_HINT_MUTATION_SCREEN_DESCRIPTION"
+msgid "You are about to mutate your first soldier. A character can only have UP TO 2 BODY PARTS altered this way.[LF][LF]Once a mutation is applied, the operative won't be able to revert back to their natural limbs. However, mutated body parts CAN BE SWAPPED with different mutation variants.[LF][LF]The :PRIEST: PRIEST soldier class has access to UNIQUE HEAD MUTATIONS greatly enhancing their powers."
+msgstr "Stai per far mutare il tuo primo soldato. Un personaggio può avere al massimo 2 PARTI DEL CORPO sostituite con questo metodo.[LF] [LF] Una volta subita la mutazione, l'agente non potrà più recuperare i suoi arti naturali. Tuttavia, le parti del corpo mutate POSSONO ESSERE SCAMBIATE con varianti di mutazione diverse.[LF] [LF] Il soldato classe :PRIEST: SACERDOTE ha accesso a MUTAZIONI TESTA UNICHE in grado di migliorarne notevolmente i poteri."
 
 msgctxt "Customization/KEY_CUSTOM_CUSTOMIZE"
 msgid "CUSTOMIZE"
@@ -13039,12 +14263,12 @@ msgid "ZOOM OUT"
 msgstr "ZOOM INDIETRO"
 
 msgctxt "Controls/KEY_CONTROLS_TACTICAL_DPAD_RIGHT"
-msgid "INVENTORY[LF]SELECT ACTION RIGHT"
-msgstr "INVENTARIO[LF] SELEZIONA AZIONE A DESTRA"
+msgid "UNIT INFO[LF]SELECT ACTION RIGHT"
+msgstr "INFO UNITÀ[LF] SELEZIONA AZIONE A DESTRA"
 
 msgctxt "Controls/KEY_CONTROLS_TACTICAL_DPAD_LEFT"
-msgid "UNIT INFO[LF]SELECT ACTION LEFT"
-msgstr "INFO UNITÀ[LF] SELEZIONA AZIONE A SINISTRA"
+msgid "INVENTORY[LF]SELECT ACTION LEFT"
+msgstr "INVENTARIO[LF] SELEZIONA AZIONE A SINISTRA"
 
 msgctxt "Controls/KEY_CONTROLS_TACTICAL_BACK"
 msgid "OPEN GAME MENU"
@@ -14203,7 +15427,7 @@ msgid "PRIVACY POLICY [LF]Last updated December 09, 2020 [LF][LF][LF]Thank you f
 msgstr "INFORMATIVA SULLA PRIVACY [LF]Ultimo aggiornamento 9 dicembre 2020 [LF][LF][LF]Grazie per aver scelto di far parte della nostra comunità di Snapshot Games Inc. (\"\"azienda\"\", \"\"noi\"\", \"\"ci\"\" o \"\"nostro\"\"). Ci impegniamo a proteggere i dati dell'utente e il suo diritto alla privacy. In caso di domande o dubbi sulla nostra politica o sulle nostre pratiche in merito ai dati personali, contattateci all'indirizzo contact@snapshotgames.com. [LF][LF]Nella presente Informativa sulla privacy, cerchiamo di spiegare, nel modo più chiaro possibile, quali dati raccogliamo, come li usiamo e quali sono i diritti dell'utente in relazione agli stessi. [LF][LF]Questa Informativa sulla privacy si applica a tutti i dati raccolti nei nostri giochi (come Phoenix Point: Year One Edition), definiti collettivamente \"\"giochi\"\" nel presente documento. Gli altri servizi correlati, come i nostri siti Web, di vendita, marketing o eventi, potrebbero essere regolati da altre politiche specifiche. [LF][LF]Si prega di leggere attentamente la presente Informativa sulla privacy poiché sarà utile per prendere decisioni consapevoli sulla condivisione dei dati personali con noi. [LF][LF]INDICE GENERALE [LF]1. QUALI DATI VENGONO RACCOLTI? [LF]2. COME UTILIZZIAMO I DATI DELL'UTENTE? [LF]3. CON CHI VENGONO CONDIVISI I DATI DELL'UTENTE? [LF]4. I DATI DELL'UTENTE VENGONO TRASFERITI A LIVELLO INTERNAZIONALE? [LF]5. PER QUANTO TEMPO CONSERVIAMO I DATI DELL'UTENTE? [LF]6. RACCOGLIAMO DATI RELATIVI A MINORI? [LF]7. QUALI SONO I DIRITTI DELL'UTENTE SULLA PRIVACY? [LF]8. FUNZIONI DI NON RILEVAMENTO [LF]9. I RESIDENTI IN CALIFORNIA HANNO DIRITTI SPECIFICI SULLA PRIVACY? [LF]10. QUESTA INFORMATIVA VIENE AGGIORNATA? [LF]11. COME CONTATTARCI SU QUESTA POLITICA?  [LF][LF][LF][LF]1. QUALI DATI VENGONO RACCOLTI? [LF][LF]Dati di gioco anonimi [LF]In breve Raccogliamo dati riguardanti le decisioni e le azioni intraprese dagli utenti nel nostro gioco. Tali dati sono anonimi e non contengono informazioni personali identificabili. [LF][LF][LF]Dati personali divulgati volontariamente dall'utente: [LF]In breve Se l'utente sceglie di condividerli, potremmo raccogliere l'indirizzo e-mail, il nome e potenzialmente altre informazioni, come l'ID utente, per vari servizi usati per fornire i nostri giochi. I nostri giochi non raccolgono automaticamente i dati personali. Saranno gli utenti a poter accettare o meno di condividere tali informazioni con noi. [LF][LF]Tutti i dati personali che ci vengono forniti devono essere veritieri, completi e accurati e l'utente è tenuto a informarci di eventuali modifiche a tali informazioni. [LF][LF]Dati raccolti automaticamente [LF]In breve Quando l'utente visita il nostro sito Web e/o altri servizi online, inclusi i servizi di marketing, vendite ed eventi, alcune informazioni, come l'indirizzo IP e/o le caratteristiche del browser e del dispositivo, vengono raccolte automaticamente. [LF]Alcuni dati vengono raccolti automaticamente quando l'utente visita, utilizza o naviga nei nostri servizi Web. Tali dati non rivelano l'identità specifica (come il nome o il recapito) ma possono includere dettagli sul dispositivo e sull'utilizzo, come indirizzo IP, browser e caratteristiche del dispositivo, sistema operativo, preferenza linguistica, URL di riferimento, nome del dispositivo, Paese, posizione, informazioni su come e quando vengono utilizzati i nostri giochi e servizi web, e altri dati tecnici. Queste informazioni sono principalmente necessarie per mantenere la sicurezza e il funzionamento dei nostri giochi e a scopo interno di analisi e reportistica. Come molte aziende, raccogliamo informazioni anche tramite cookie e tecnologie simili. [LF][LF][LF]2. COME UTILIZZIAMO I DATI DELL'UTENTE? [LF]In breve I dati dell'utente vengono elaborati per scopi basati su legittimi interessi commerciali, per l'adempimento del nostro contratto con l'utente, per il rispetto dei nostri obblighi legali e/o il consenso dell'utente. [LF]Utilizziamo dati anonimi sull'esperienza dell'utente con i nostri giochi, al fine di migliorarli, e per analisi statistiche relative alla nostra attività e al servizio clienti. [LF][LF]I dati personali che l'utente condivide con noi tramite i nostri giochi e servizi Web vengono usati per una serie di scopi commerciali descritti di seguito. I dati personali vengono trattati per questi scopi, in virtù dei nostri legittimi interessi commerciali, al fine di stipulare o eseguire un contratto con l'utente e con il suo consenso e/o per conformità con i nostri obblighi legali. I motivi specifici di elaborazione, ai quali facciamo affidamento, sono indicati accanto a ciascuna finalità elencata di seguito. [LF][LF]I dati personali raccolti o ricevuti potrebbero essere utilizzati per: [LF][LF]Inviare comunicazioni di marketing e promozionali. Noi e/o i nostri partner di marketing potremmo utilizzare i dati personali che ci vengono inviati a scopo di marketing, se ciò è conforme con le preferenze di marketing indicate dall'utente. L'utente può disattivare le nostre e-mail di marketing in qualsiasi momento (consultare \"\"QUALI SONO I DIRITTI DELL'UTENTE SULLA PRIVACY?\"\" qui di seguito). [LF][LF]Per inviare all'utente informazioni amministrative. Possiamo utilizzare i dati personali dell'utente per inviare informazioni su prodotti, servizi e nuove funzionalità e/o informazioni su modifiche ai nostri termini, condizioni e politiche. [LF][LF][LF][LF]Fornire pubblicità mirata. Possiamo utilizzare i dati dell'utente per sviluppare e visualizzare contenuti e pubblicità (e collaborare con terze parti che svolgono tale attività) su misura in base agli interessi e/o alla posizione geografica dell'utente e per misurarne l'efficacia. [LF][LF]Richiesta di feedback. Potremmo utilizzare i dati degli utenti per richiedere feedback e per contattarli in merito all'utilizzo dei nostri giochi e degli altri servizi. [LF][LF]Per altri scopi aziendali. Potremmo utilizzare i dati del giocatore per altri scopi commerciali, come l'analisi dei dati, l'identificazione delle tendenze di utilizzo, la determinazione dell'efficacia delle nostre campagne promozionali e per valutare e migliorare i nostri giochi e altri servizi, prodotti, marketing e l'esperienza dell'utente. Potremmo utilizzare e memorizzare queste informazioni in forma aggregata e anonima, affinché non siano associate a singoli utenti finali e non includano informazioni personali. Non useremo informazioni personali identificabili senza il consenso dell'utente. [LF][LF]3. CON CHI VENGONO CONDIVISI I DATI DELL'UTENTE? [LF]In breve Condividiamo i dati solamente previo consenso dell'utente, nel rispetto delle leggi, per fornire servizi, proteggere i diritti o adempiere agli obblighi commerciali. [LF][LF]Potremmo elaborare o condividere dati secondo questa base giuridica: [LF]Consenso. Potremmo trattare i dati dell'utente se lo stesso ci ha dato il consenso a utilizzare le sue informazioni personali per uno scopo specifico. [LF][LF]Interessi legittimi. Potremmo trattare i dati dell'utente quando è ragionevolmente necessario, ai fini dei nostri legittimi interessi commerciali. [LF][LF]Esecuzione del contratto. Laddove abbiamo stipulato un contratto con l'utente, potremmo trattare le informazioni personali per adempiere ai termini del nostro contratto. [LF][LF]Obblighi legali. I dati dell'utente potrebbero essere divulgati laddove siamo legalmente obbligati a farlo per conformarci alla legge applicabile, per richieste governative, procedimento giudiziario, ordinanza del tribunale o procedimento legale, ad esempio in risposta a un'ordinanza del tribunale o a una citazione (anche in risposta alle autorità pubbliche per soddisfare i requisiti di sicurezza nazionale o di applicazione della legge). [LF][LF][LF]Bene pubblico. Potremmo divulgare i dati dell'utente laddove riteniamo sia necessario indagare, prevenire o intraprendere azioni in merito a potenziali violazioni delle nostre politiche, sospette frodi, situazioni che comportano potenziali minacce alla sicurezza di qualsiasi persona e attività illegali, o come prova in eventuali processi in cui siamo coinvolti. [LF]Più specificamente, potremmo aver bisogno di elaborare i dati dell'utente o condividere i dati personali nelle seguenti situazioni: [LF]Rivenditori, consulenti e altri fornitori di servizi di terze parti. Potremmo condividere i dati dell'utente con altri rivenditori, fornitori di servizi, appaltatori o agenti che eseguono servizi per noi o per nostro conto e richiedono l'accesso a tali informazioni per svolgere tale lavoro. Gli esempi includono: elaborazione dei pagamenti, analisi dei dati, consegna della posta elettronica, servizi di hosting, assistenza clienti e iniziative di marketing. Potremmo consentire a terze parti selezionate di utilizzare la tecnologia di tracciamento nei nostri giochi o servizi web correlati, il che consentirà loro di raccogliere dati sull'interazione dell'utente con tali giochi e servizi in un periodo di tempo. Queste informazioni possono essere utilizzate, tra le altre cose, per analizzare e tenere traccia dei dati, determinare la popolarità di determinati contenuti e comprendere meglio l'attività online. A meno che non sia descritto nella presente Informativa, non condividiamo, vendiamo, affittiamo o scambiamo i dati dell'utente con terze parti per i loro scopi promozionali. [LF][LF]Trasferimenti aziendali. Potremmo condividere o trasferire i dati dell'utente in relazione o durante le negoziazioni di qualsiasi fusione, vendita di beni aziendali, finanziamento o acquisizione di tutta o parte della nostra attività a un'altra società. [LF][LF]4. I DATI DELL'UTENTE VENGONO TRASFERITI A LIVELLO INTERNAZIONALE? [LF]In breve Potremmo trasferire, archiviare ed elaborare negli altri Paesi dati e informazioni anonimi che l'utente condivide volontariamente con noi. [LF][LF]Se risiede nello Spazio Economico Europeo, questi Paesi potrebbero non avere la protezione dei dati o leggi esaurienti come quelle del Paese di residenza. Tuttavia, adotteremo tutte le misure necessarie per proteggere i dati personali in conformità con la presente Informativa sulla privacy e la legge applicabile. [LF][LF]5. PER QUANTO TEMPO CONSERVIAMO I DATI DELL'UTENTE? [LF]In breve Conserviamo i dati personali anonimi e condivisi volontariamente per tutto il tempo necessario a soddisfare le finalità delineate nella presente informativa sulla privacy, salvo diversamente richiesto dalla legge. [LF]Conserveremo i dati personali solo per il tempo necessario per gli scopi indicati nella presente Informativa sulla privacy, a meno che non sia richiesto o consentito dalla legge un periodo di conservazione più lungo (per esempio per requisiti fiscali, contabili o altri requisiti legali). [LF]Quando non abbiamo alcuna legittima esigenza aziendale in corso per trattare i dati personali dell'utente, li elimineremo o renderemo anonimi oppure, se ciò non è possibile (ad esempio, perché i dati personali sono salvati in archivi di backup), li archivieremo in modo sicuro e li isoleremo da qualsiasi ulteriore elaborazione finché potranno essere cancellati. [LF][LF]6. RACCOGLIAMO DATI RELATIVI A MINORI? [LF]In breve Non raccogliamo né commercializziamo consapevolmente i dati degli utenti minori di 18 anni. [LF]Non richiediamo consapevolmente dati né svolgiamo attività di marketing mirata a utenti minori di 18 anni. Utilizzando i nostri giochi e servizi web, l'utente dichiara di avere almeno 18 anni o di essere il genitore o tutore di tale minorenne e acconsentire all'uso dei giochi da parte del minore dipendente. Qualora venissimo a conoscenza di aver raccolto dati personali da utenti di età inferiore ai 18 anni, disattiveremo l'account e adotteremo misure ragionevoli per eliminare tempestivamente tali dati dai nostri archivi. Se l'utente dovesse venire a conoscenza di tale attività, è pregato di contattarci all'indirizzo contact@snapshotgames.com.[LF]"
 
 msgctxt "Opening Screen/KEY_BSNAPSHOT_GAMES_INC_BACKER_BUILD_PP2"
-msgid "8. WHAT ARE YOUR PRIVACY RIGHTS?  [LF]In Short:  In some regions, such as the European Economic Area, you have rights that allow you greater access to and control over your personal information. You may review, change, or terminate your account at any time.   [LF]In some regions (like the European Economic Area), you have certain rights under applicable data protection laws. These may include the right (i) to request access and obtain a copy of your personal information, (ii) to request rectification or erasure; (iii) to restrict the processing of your personal information; and (iv) if applicable, to data portability. In certain circumstances, you may also have the right to object to the processing of your personal information. To make such a request, please use the contact details   provided below. We will consider and act upon any request in accordance with applicable data protection laws. [LF]If we are relying on your consent to process your personal information, you have the right to withdraw your consent at any time. Please note however that this will not affect the lawfulness of the processing before its withdrawal.   [LF]If you are resident in the European Economic Area and you believe we are unlawfully processing your personal information, you also have the right to complain to your local data protection supervisory authority. You can find their contact details here: http://ec.europa.eu/justice/data-protection/bodies/authorities/index_en.htm.   [LF] [LF]Account Information  [LF]If you would at any time like to review or change the information in your account or terminate your account, you can: [LF]    ■  Contact us using the contact information provided.  [LF]Upon your request to terminate your account, we will deactivate or delete your account and information from our active databases. However, some information may be retained in our files to prevent fraud, troubleshoot problems, assist with any investigations, enforce our Terms of Use and/or comply with legal requirements.     [LF]Cookies and similar technologies: Most Web browsers are set to accept cookies by default. If you prefer, you can usually choose to set your browser to remove cookies and to reject cookies. If you choose to remove cookies or reject cookies, this could affect certain features or services of our Services. To opt-out of interest-based advertising by advertisers on our Services visit http://www.aboutads.info/choices/  .       [LF]Opting out of email marketing: You can unsubscribe from our marketing email list at any time by clicking on the unsubscribe link in the emails that we send or by contacting us using the details provided below. You will then be removed from the marketing email list – however, we will still need to send you service-related emails that are necessary for the administration and use of your account. To otherwise opt-out, you may: [LF]    ■  Contact us using the contact information provided.    [LF][LF]9. CONTROLS FOR DO-NOT-TRACK FEATURES  [LF]Most web browsers and some mobile operating systems and mobile applications include a Do-Not-Track (“DNT”) feature or setting you can activate to signal your privacy preference not to have data about your online browsing activities monitored and collected. No uniform technology standard for recognizing and implementing DNT signals has been finalized. As such, we do not currently respond to DNT browser signals or any other mechanism that automatically communicates your choice not to be tracked online. If a standard for online tracking is adopted that we must follow in the future, we will inform you about that practice in a revised version of this privacy policy   .  [LF][LF]10. DO CALIFORNIA RESIDENTS HAVE SPECIFIC PRIVACY RIGHTS?  [LF]In Short:  Yes, if you are a resident of California, you are granted specific rights regarding access to your personal information.   [LF]California Civil Code Section 1798.83, also known as the “Shine The Light” law, permits our users who are California residents to request and obtain from us, once a year and free of charge, information about categories of personal information (if any) we disclosed to third parties for direct marketing purposes and the names and addresses of all third parties with which we shared personal information in the immediately preceding calendar year. If you are a California resident and would like to make such a request, please submit your request in writing to us using the contact information provided below. [LF]If you are under 18 years of age, reside in California, and have a registered account with the Services, you have the right to request removal of unwanted data that you publicly post on the Services. To request removal of such data, please contact us using the contact information provided below, and include the email address associated with your account and a statement that you reside in California. We will make sure the data is not publicly displayed on the Services, but please be aware that the data may not be completely or comprehensively removed from our systems.[LF][LF]11. DO WE MAKE UPDATES TO THIS POLICY?  [LF]In Short:  Yes, we will update this policy as necessary to stay compliant with relevant laws.  [LF]We may update this privacy policy from time to time. The updated version will be indicated by an updated “Revised” date and the updated version will be effective as soon as it is accessible. If we make material changes to this privacy policy, we may notify you either by prominently posting a notice of such changes or by directly sending you a notification. We encourage you to review this privacy policy frequently to be informed of how we are protecting your information.  [LF][LF]12. HOW CAN YOU CONTACT US ABOUT THIS POLICY?  [LF]If you have questions or comments about this policy, you may email us at contact@snapshotgames.com or by post to:[LF]Snapshot Games Inc.    [LF]145 S Fairfax Ave #200 [LF]Los Angeles, CA 90036    [LF]United States        [LF][LF] [LF]How can you review, update, or delete the data we collect from you?[LF]Based on the laws of some countries, you may have the right to request access to the personal information we collect from you, change that information, or delete it in some circumstances. To request to review, update, or delete your personal information, please submit a request form by filling the form here: https://app.termly.io/notify/1a128fcc-1960-429c-b87d-250e4fe413aa. We will respond to your request within 30 days.[LF]"
+msgid "7. WHAT ARE YOUR PRIVACY RIGHTS?  [LF]In Short:  In some regions, such as the European Economic Area, you have rights that allow you greater access to and control over your personal information. You may review, change, or terminate your account at any time.   [LF]In some regions (like the European Economic Area), you have certain rights under applicable data protection laws. These may include the right (i) to request access and obtain a copy of your personal information, (ii) to request rectification or erasure; (iii) to restrict the processing of your personal information; and (iv) if applicable, to data portability. In certain circumstances, you may also have the right to object to the processing of your personal information. To make such a request, please use the contact details   provided below. We will consider and act upon any request in accordance with applicable data protection laws. [LF]If we are relying on your consent to process your personal information, you have the right to withdraw your consent at any time. Please note however that this will not affect the lawfulness of the processing before its withdrawal.   [LF]If you are resident in the European Economic Area and you believe we are unlawfully processing your personal information, you also have the right to complain to your local data protection supervisory authority. You can find their contact details here: http://ec.europa.eu/justice/data-protection/bodies/authorities/index_en.htm.   [LF] [LF]Account Information  [LF]If you would at any time like to review or change the information in your account or terminate your account, you can: [LF]    ■  Contact us using the contact information provided.  [LF]Upon your request to terminate your account, we will deactivate or delete your account and information from our active databases. However, some information may be retained in our files to prevent fraud, troubleshoot problems, assist with any investigations, enforce our Terms of Use and/or comply with legal requirements.     [LF]Cookies and similar technologies: Most Web browsers are set to accept cookies by default. If you prefer, you can usually choose to set your browser to remove cookies and to reject cookies. If you choose to remove cookies or reject cookies, this could affect certain features or services of our Services. To opt-out of interest-based advertising by advertisers on our Services visit http://www.aboutads.info/choices/  .       [LF]Opting out of email marketing: You can unsubscribe from our marketing email list at any time by clicking on the unsubscribe link in the emails that we send or by contacting us using the details provided below. You will then be removed from the marketing email list – however, we will still need to send you service-related emails that are necessary for the administration and use of your account. To otherwise opt-out, you may: [LF]    ■  Contact us using the contact information provided.    [LF][LF]8. CONTROLS FOR DO-NOT-TRACK FEATURES  [LF]Most web browsers and some mobile operating systems and mobile applications include a Do-Not-Track (“DNT”) feature or setting you can activate to signal your privacy preference not to have data about your online browsing activities monitored and collected. No uniform technology standard for recognizing and implementing DNT signals has been finalized. As such, we do not currently respond to DNT browser signals or any other mechanism that automatically communicates your choice not to be tracked online. If a standard for online tracking is adopted that we must follow in the future, we will inform you about that practice in a revised version of this privacy policy   .  [LF][LF]9. DO CALIFORNIA RESIDENTS HAVE SPECIFIC PRIVACY RIGHTS?  [LF]In Short:  Yes, if you are a resident of California, you are granted specific rights regarding access to your personal information.   [LF]California Civil Code Section 1798.83, also known as the “Shine The Light” law, permits our users who are California residents to request and obtain from us, once a year and free of charge, information about categories of personal information (if any) we disclosed to third parties for direct marketing purposes and the names and addresses of all third parties with which we shared personal information in the immediately preceding calendar year. If you are a California resident and would like to make such a request, please submit your request in writing to us using the contact information provided below. [LF]If you are under 18 years of age, reside in California, and have a registered account with the Services, you have the right to request removal of unwanted data that you publicly post on the Services. To request removal of such data, please contact us using the contact information provided below, and include the email address associated with your account and a statement that you reside in California. We will make sure the data is not publicly displayed on the Services, but please be aware that the data may not be completely or comprehensively removed from our systems.[LF][LF]10. DO WE MAKE UPDATES TO THIS POLICY?  [LF]In Short:  Yes, we will update this policy as necessary to stay compliant with relevant laws.  [LF]We may update this privacy policy from time to time. The updated version will be indicated by an updated “Revised” date and the updated version will be effective as soon as it is accessible. If we make material changes to this privacy policy, we may notify you either by prominently posting a notice of such changes or by directly sending you a notification. We encourage you to review this privacy policy frequently to be informed of how we are protecting your information.  [LF][LF]11. HOW CAN YOU CONTACT US ABOUT THIS POLICY?  [LF]If you have questions or comments about this policy, you may email us at contact@snapshotgames.com or by post to:[LF]Snapshot Games Inc.    [LF]145 S Fairfax Ave #200 [LF]Los Angeles, CA 90036    [LF]United States        [LF][LF] [LF]How can you review, update, or delete the data we collect from you?[LF]Based on the laws of some countries, you may have the right to request access to the personal information we collect from you, change that information, or delete it in some circumstances. To request to review, update, or delete your personal information, please submit a request form by filling the form here: https://app.termly.io/notify/1a128fcc-1960-429c-b87d-250e4fe413aa. We will respond to your request within 30 days.[LF]"
 msgstr "7. QUALI SONO I TUOI DIRITTI SULLA PRIVACY? [LF]In breve: in alcune regioni, come lo Spazio economico europeo, hai diritti che ti consentono un maggiore accesso e controllo sulle tue informazioni personali. Puoi rivedere, modificare o chiudere il tuo account in qualsiasi momento. In alcune regioni (come lo Spazio economico europeo), hai determinati diritti ai sensi delle leggi sulla protezione dei dati applicabili. Questi possono includere il diritto (i) di richiedere l'accesso e ottenere una copia delle informazioni personali, (ii) di richiedere la rettifica o la cancellazione; (iii) limitare il trattamento dei dati personali dell'utente; e (iv) se applicabile, alla portabilità dei dati. In determinate circostanze, potresti anche avere il diritto di opporti al trattamento dei tuoi dati personali. Per effettuare tale richiesta, si prega di utilizzare i dettagli di contatto forniti di seguito. Prenderemo in considerazione e risponderemo a qualsiasi richiesta in conformità con le leggi applicabili sulla protezione dei dati. Se facciamo affidamento sul tuo consenso per elaborare le tue informazioni personali, hai il diritto di revocare il tuo consenso in qualsiasi momento. Si noti tuttavia che ciò non influirà sulla liceità del trattamento prima del suo ritiro. Se risiedi nello Spazio economico europeo e ritieni che stiamo trattando illegalmente le tue informazioni personali, hai anche il diritto di presentare un reclamo all'autorità di controllo della protezione dei dati locale. Puoi trovare i loro dettagli di contatto qui: http://ec.europa.eu/justice/data-protection/bodies/authorities/index_en.htm. Informazioni sull'account Se si desidera in qualsiasi momento rivedere o modificare le informazioni nel proprio account o chiudere il proprio account, è possibile: [LF]■ Contattateci utilizzando le informazioni di contatto fornite. Su tua richiesta di chiusura del tuo account, disattiveremo o elimineremo il tuo account e le informazioni dai nostri database attivi. Tuttavia, alcune informazioni potrebbero essere conservate nei nostri file per prevenire frodi, risolvere problemi, fornire assistenza per eventuali indagini, applicare i nostri Termini di utilizzo e / o rispettare i requisiti legali. Cookie e tecnologie simili: la maggior parte dei browser Web è impostata per accettare i cookie per impostazione predefinita. Se preferisci, di solito puoi scegliere di impostare il tuo browser per rimuovere i cookie e rifiutare i cookie. Se scegli di rimuovere i cookie o di rifiutarli, ciò potrebbe influire su determinate funzionalità o servizi dei nostri Servizi. Per annullare la pubblicità basata sugli interessi degli inserzionisti sui nostri servizi, visitare http://www.aboutads.info/choices/. Annullamento dell'email marketing: puoi annullare l'iscrizione alla nostra lista di email marketing in qualsiasi momento facendo clic sul link di annullamento dell'iscrizione nelle e-mail che inviamo o contattandoci utilizzando i dettagli forniti di seguito. Sarai quindi rimosso dall'elenco delle e-mail di marketing, tuttavia dovremo comunque inviarti e-mail relative al servizio necessarie per l'amministrazione e l'uso del tuo account. In caso contrario, è possibile: [LF]■ Contattaci utilizzando le informazioni di contatto fornite. [LF]8. CONTROLLI PER LE FUNZIONALITÀ DI NON TRACCIA [LF]La maggior parte dei browser Web e alcuni sistemi operativi mobili e applicazioni mobili includono una funzionalità Do-Not-Track (“DNT”) o un'impostazione che puoi attivare per segnalare la tua preferenza sulla privacy per non avere dati sulla tua attività di navigazione online monitorate e raccolte. Non è stato finalizzato uno standard tecnologico uniforme per il riconoscimento e l'implementazione dei segnali DNT. Pertanto, al momento non rispondiamo ai segnali del browser DNT o ad altri meccanismi che comunicano automaticamente la tua scelta di non essere tracciati online. Se verrà adottato uno standard per il monitoraggio online che dovremo seguire in futuro, ti informeremo di tale pratica in una versione rivista della presente informativa sulla privacy. [LF]9. I RESIDENTI DELLA CALIFORNIA HANNO DIRITTI SPECIFICI SULLA PRIVACY? [LF]In breve: Sì, se risiedi in California, ti vengono concessi diritti specifici relativi all'accesso alle tue informazioni personali. La Sezione 1798.83 del codice civile della California, nota anche come legge \"\"Shine The Light\"\", consente ai nostri utenti residenti in California di richiedere e ottenere da noi, una volta all'anno e gratuitamente, informazioni sulle categorie di informazioni personali (se presenti) che divulgati a terzi per scopi di marketing diretto e nomi e indirizzi di tutti i terzi con i quali abbiamo condiviso le informazioni personali nell'anno civile immediatamente precedente. Se risiedi in California e desideri presentare tale richiesta, ti preghiamo di inviarci la richiesta per iscritto utilizzando le informazioni di contatto fornite di seguito. Se hai meno di 18 anni, risiedi in California e hai un account registrato con i Servizi, hai il diritto di richiedere la rimozione di dati indesiderati che pubblichi pubblicamente sui Servizi. Per richiedere la rimozione di tali dati, ti preghiamo di contattarci utilizzando le informazioni di contatto fornite di seguito e includendo l'indirizzo e-mail associato al tuo account e una dichiarazione che risiedi in California. Faremo in modo che i dati non vengano visualizzati pubblicamente sui Servizi, ma ti preghiamo di essere consapevole che i dati potrebbero non essere completamente o completamente rimossi dai nostri sistemi. [LF]10. EFFETTUIAMO AGGIORNAMENTI A QUESTA POLITICA? [LF]In breve: Sì, aggiorneremo questa politica se necessario per rimanere conformi alle leggi pertinenti. Di tanto in tanto potremmo aggiornare questa politica sulla privacy. La versione aggiornata sarà indicata da una data “Revisionata” aggiornata e la versione aggiornata sarà effettiva non appena sarà accessibile. Se apportiamo modifiche sostanziali alla presente informativa sulla privacy, potremmo avvisarti pubblicando in modo evidente un avviso di tali modifiche o inviandoti direttamente una notifica. Ti invitiamo a rivedere frequentemente questa politica sulla privacy per essere informato su come stiamo proteggendo le tue informazioni. [LF]11. COME CONTATTARCI SU QUESTA POLITICA? [LF]In caso di domande o commenti su questa politica, è possibile inviarci un'e-mail a contact@snapshotgames.com o per posta a: [LF]Snapshot Games Inc. [LF]145 S Fairfax Ave # 200 [LF]Los Angeles, CA 90036 [LF]Stati Uniti [LF][LF][LF]Come è possibile rivedere, aggiornare o cancellare i dati che raccogliamo da te? In base alle leggi di alcuni Paesi, potresti avere il diritto di richiedere l'accesso alle informazioni personali che raccogliamo da te, modificare tali informazioni o eliminarle in alcune circostanze. Per richiedere la revisione, l'aggiornamento o l'eliminazione delle informazioni personali, si prega di inviare un modulo di richiesta compilando il modulo qui: https://app.termly.io/notify/1a128fcc-1960-429c-b87d-250e4fe413aa. Risponderemo alla tua richiesta entro 30 giorni."
 
 msgctxt "Opening Screen/KEY_BSNAPSHOT_GAMES_INC_TOS_LABEL"
@@ -14463,16 +15687,16 @@ msgid "Created from Chiron DNA, the mutation grants additional +5 Strength, Stab
 msgstr "Creata dal DNA di Chirone, la mutazione fornisce un ulteriore +5 alla forza, la posizione di stabilità (bonus del 20% alla precisione in posizione) e un attacco pestone (l'attacco shock interessa un raggio di 5 caselle, stordendo i bersagli se il valore di shock è maggiore dei punti ferita del bersaglio)."
 
 msgctxt "Mutation Screen/KEY_MUTATION_PART_PRIEST1_LONG_DESCRIPTION"
-msgid "Based on DNA from the Synod of Yearning, the mutation restores 2 Will Points to all friendly living entities within 7 tiles at the start of each turn."
-msgstr "Basata sul DNA del Sinodo di Bramosia, la mutazione restituisce 2 punti Volontà a tutte le entità amiche che si trovano entro 7 caselle all'inizio di ogni turno."
+msgid "Based on DNA from the Synod of Yearning, the mutation restores 2 Will Points to all friendly living entities within 7 tiles at the start of each turn. Additional +4 to Willpower."
+msgstr "Basata sul DNA del Sinodo di Bramosia, la mutazione restituisce 2 punti Volontà a tutte le entità amiche che si trovano entro 7 caselle all'inizio di ogni turno. I punti volontà vengono aumentati di 4."
 
 msgctxt "Mutation Screen/KEY_MUTATION_PART_PRIEST2_LONG_DESCRIPTION"
-msgid "Created from DNA of from the Blind Legate, the mutation allows a priest to perform Instil Frenzy (increase Speed by 50% and make them immune to panic) on allied characters."
-msgstr "Creata dal DNA del Legato cieco, la mutazione consente a un sacerdote di eseguire Provoca frenesia (aumenta la velocità del 50% e conferisce immunità al panico) sui personaggi alleati."
+msgid "Created from DNA of from the Blind Legate, the mutation allows a priest to perform Instil Frenzy (increase Speed by 50% and make them immune to panic) on allied characters. Additional +8 to Willpower."
+msgstr "Creata dal DNA del Legato cieco, la mutazione consente a un sacerdote di eseguire Provoca frenesia (aumenta la velocità del 50% e conferisce immunità al panico) sui personaggi alleati. I punti volontà vengono aumentati di 8."
 
 msgctxt "Mutation Screen/KEY_MUTATION_PART_PRIEST3_LONG_DESCRIPTION"
-msgid "Engineered from the Keeper of the Threshhold’s DNA, the mutation grants the ability to perform a Psychic Scream (reduces the Will Points of all enemy units in an 8 tile radius)."
-msgstr "Progettata a partire dal DNA del Guardiano della soglia, la mutazione fornisce l'abilità di eseguire un urlo psichico (riduce i punti Volontà di tutte le unità nemiche in un raggio di 8 caselle)."
+msgid "Engineered from the Keeper of the Threshhold’s DNA, the mutation grants the ability to perform a Psychic Scream (reduces the Will Points of all enemy units in an 8 tile radius). Additional +4 to Willpower."
+msgstr "Progettata a partire dal DNA del Guardiano della soglia, la mutazione fornisce l'abilità di eseguire un urlo psichico (riduce i punti Volontà di tutte le unità nemiche in un raggio di 8 caselle). I punti volontà vengono aumentati di 4."
 
 msgctxt "Mutation Screen/KEY_MUTATION_PART_TORSO_REGEN_LONG_DESCRIPTION"
 msgid "Based on Arthron DNA, the mutation has regeneration capabilities (restore 10 Hit Points to arms and torso at the end of each turn) and fire resistance."
@@ -15355,7 +16579,7 @@ msgid "All captured Pandorans held in the Containment facilities"
 msgstr "I Pandora catturati sono tenuti nelle Strutture di contenimento."
 
 msgctxt "Roster Screen/KEY_READY_ITEM_SLOTS_USED_TT"
-msgid "EMPTY READY ITEM SLOTS {0}/{1}"
+msgid "NO WEAPON EQUIPPED"
 msgstr "SLOT OGGETTO \"\"IN USO\"\" VUOTI: {0}/{1}"
 
 msgctxt "Roster Screen/KEY_ATTRIBUTES_MAX"
@@ -18295,7 +19519,7 @@ msgid "Defending havens from Pandoran attack is important for gaining favor with
 msgstr "È importante difendere i rifugi dagli attacchi Pandora per ottenere il favore delle fazioni e guadagnare risorse."
 
 msgctxt "Loading Tips/KEY_GEOSCAPE_LOADING_TIP_3"
-msgid "When a faction becomes SUPPORTIVE (25+), its havens will be revealed instantly as you discover them."
+msgid "When a faction becomes SUPPORTIVE (25+), its havens will not require time consuming exploration when encountered."
 msgstr "Quando una fazione diventa COOPERANTE (25+), i suoi rifugi verranno svelati non appena li avrai scoperti."
 
 msgctxt "Loading Tips/KEY_GEOSCAPE_LOADING_TIP_4"
@@ -18756,1087 +19980,1091 @@ msgstr "GUSCIO"
 
 msgctxt "Body parts Aliens/KEY_YUGGOTH_HEAVY_CARAPACE_NAME_TEMP"
 msgid "HEAVY CARAPACE"
-msgstr "[null]"
+msgstr "CARAPACE PESANTE"
 
 msgctxt "Body parts Aliens/KEY_YUGGOTH_EYE_NAME_TEMP"
 msgid "EYE"
-msgstr "[null]"
+msgstr "OCCHIO"
 
 msgctxt "Body parts Aliens/KEY_HEAD_NAME_TEMP"
 msgid "HEAD"
-msgstr "[null]"
+msgstr "TESTA"
 
 msgctxt "Body parts Aliens/KEY_ROOTS_NAME_TEMP"
 msgid "ROOTS"
-msgstr "[null]"
+msgstr "RADICI"
 
 msgctxt "Body parts Aliens/KEY_YUGGOTH_TENTACLE_NAME_TEMP"
 msgid "TENTACLE"
-msgstr "[null]"
+msgstr "TENTACOLO"
 
 msgctxt "Body parts Aliens/KEY_YUGGOTH_CARAPACE_DESCRIPTION_TEMP"
 msgid "Protects the brain of the Yuggothian Entity"
-msgstr "[null]"
+msgstr "Protegge il cervello dell'Entità yuggothiana"
 
 msgctxt "Body parts Aliens/KEY_YUGGOTH_EYE_DESCRIPTION_TEMP"
 msgid "Eye of Yuggoth"
-msgstr "[null]"
+msgstr "Occhio di Yuggoth"
 
 msgctxt "Body parts Aliens/KEY_HEAD_DESCRIPTION_TEMP"
 msgid "Head"
-msgstr "[null]"
+msgstr "Testa"
 
 msgctxt "Body parts Aliens/KEY_ROOTS_DESCRIPTION_TEMP"
 msgid "Roots"
-msgstr "[null]"
+msgstr "Radici"
 
 msgctxt "Body parts Aliens/KEY_YUGGOTH_TENTACLE_DESCRIPTION_TEMP"
 msgid "Covers the vulnerable eyes of the Yuggothian Entity"
-msgstr "[null]"
+msgstr "Copre gli occhi vulnerabili dell'Entità yuggothiana"
 
 msgctxt "Body parts Aliens/KEY_SCYLLA_ABDOMEN_BELCHER_NAME_TEMP"
 msgid "BELCHER ABDOMEN"
-msgstr "[null]"
+msgstr "ADDOME ERUTTANTE"
 
 msgctxt "Body parts Aliens/KEY_SCYLLA_ABDOMEN_SPAWNER_NAME_TEMP"
 msgid "SPAWNING ABDOMEN"
-msgstr "[null]"
+msgstr "ADDOME GENERATORE"
 
 msgctxt "Body parts Aliens/KEY_SCYLLA_CARAPACE_CRYSTAL_NAME_TEMP"
 msgid "CRYSTAL CARAPACE"
-msgstr "[null]"
+msgstr "CARAPACE DI CRISTALLO"
 
 msgctxt "Body parts Aliens/KEY_SCYLLA_CARAPACE_HEAVY_NAME_TEMP"
 msgid "HEAVY CARAPACE"
-msgstr "[null]"
+msgstr "CARAPACE PESANTE"
 
 msgctxt "Body parts Aliens/KEY_SCYLLA_CARAPACE_MIST_NAME_TEMP"
 msgid "MIST CARAPACE"
-msgstr "[null]"
+msgstr "CARAPACE DI BRUMA"
 
 msgctxt "Body parts Aliens/KEY_SCYLLA_HEAD_HEAVY_NAME_TEMP"
 msgid "FURY HEAD"
-msgstr "[null]"
+msgstr "TESTA DI FURIA"
 
 msgctxt "Body parts Aliens/KEY_SCYLLA_LEG_AGILE_NAME_TEMP"
 msgid "AGILE LEG"
-msgstr "[null]"
+msgstr "GAMBA AGILE"
 
 msgctxt "Body parts Aliens/KEY_SCYLLA_LEG_HEAVY_NAME_TEMP"
 msgid "HEAVY LEG"
-msgstr "[null]"
+msgstr "GAMBA PESANTE"
 
 msgctxt "Body parts Aliens/KEY_SCYLLA_SMASHER_NAME_TEMP"
 msgid "SMASHER"
-msgstr "[null]"
+msgstr "SCHIANTATORE"
 
 msgctxt "Body parts Aliens/KEY_SCYLLA_TORSO_NAME_TEMP"
 msgid "TORSO"
-msgstr "[null]"
+msgstr "BUSTO"
 
 msgctxt "Body parts Aliens/KEY_SCYLLA_QUEEN_ARM_BLASTER_NAME_TEMP"
 msgid "BLASTER CANNON"
-msgstr "[null]"
+msgstr "CANNONE BLASTER"
 
 msgctxt "Body parts Aliens/KEY_SCYLLA_MIST_LAUNCHER_NAME_TEMP"
 msgid "MIST LAUNCHER"
-msgstr "[null]"
+msgstr "LANCIATORE DI BRUMA"
 
 msgctxt "Body parts Aliens/KEY_SCYLLA_SONIC_HEAD_NAME_TEMP"
 msgid "SONIC HEAD"
-msgstr "[null]"
+msgstr "TESTA SONICA"
 
 msgctxt "Body parts Aliens/KEY_SCYLLA_HEAD_SPITTER_NAME_TEMP"
 msgid "SPITTER HEAD"
-msgstr "[null]"
+msgstr "TESTA SPUTANTE"
 
 msgctxt "Body parts Aliens/KEY_SCYLLA_ARM_BLASTER_NAME_TEMP"
 msgid "BLASTER CANNON"
-msgstr "[null]"
+msgstr "CANNONE BLASTER"
 
 msgctxt "Body parts Aliens/KEY_SCYLLA_ABDOMEN_BELCHER_DESCRIPTION_TEMP"
 msgid "Releases multiple spawnlings on death"
-msgstr "[null]"
+msgstr "Quando muore, rilascia molteplici uova"
 
 msgctxt "Body parts Aliens/KEY_SCYLLA_ABDOMEN_SPAWNER_DESCRIPTION_TEMP"
 msgid "Spawns mindfraggers"
-msgstr "[null]"
+msgstr "Genera Strappamente"
 
 msgctxt "Body parts Aliens/KEY_SCYLLA_CARAPACE_CRYSTAL_DESCRIPTION_TEMP"
 msgid "Gives Living Crystal Supercharge ability"
-msgstr "[null]"
+msgstr "Fornisce l'abilità Supercarica del cristallo vivo"
 
 msgctxt "Body parts Aliens/KEY_SCYLLA_CARAPACE_HEAVY_DESCRIPTION_TEMP"
 msgid "Armored protective carapace"
-msgstr "[null]"
+msgstr "Un carapace corazzato protettivo"
 
 msgctxt "Body parts Aliens/KEY_SCYLLA_CARAPACE_MIST_DESCRIPTION_TEMP"
 msgid "Spawns a cloud of mist around the Scylla"
-msgstr "[null]"
+msgstr "Genera una nube di bruma attorno allo Scilla"
 
 msgctxt "Body parts Aliens/KEY_SCYLLA_HEAD_HEAVY_DESCRIPTION_TEMP"
 msgid "Can instill frenzy on friendly characters"
-msgstr "[null]"
+msgstr "Può infondere frenesia alle unità alleate"
 
 msgctxt "Body parts Aliens/KEY_SCYLLA_LEG_AGILE_DESCRIPTION_TEMP"
 msgid "Leaps to target location, destroying everything on its path"
-msgstr "[null]"
+msgstr "Salta sulla posizione bersaglio, distruggendo qualsiasi cosa si trovi sul suo percorso."
 
 msgctxt "Body parts Aliens/KEY_SCYLLA_LEG_HEAVY_DESCRIPTION_TEMP"
 msgid "Heavy armored limb"
-msgstr "[null]"
+msgstr "Un arto pesantemente corazzato"
 
 msgctxt "Body parts Aliens/KEY_SCYLLA_SMASHER_DESCRIPTION_TEMP"
 msgid "Capable of dealing heavy damage and destroying armor"
-msgstr "[null]"
+msgstr "È in grado di infliggere pesanti danni e di distruggere l'armatura"
 
 msgctxt "Body parts Aliens/KEY_SCYLLA_TORSO_DESCRIPTION_TEMP"
 msgid "Scylla torso"
-msgstr "[null]"
+msgstr "Busto di Scilla"
 
 msgctxt "Body parts Aliens/KEY_SCYLLA_QUEEN_ARM_BLASTER_DESCRIPTION_TEMP"
 msgid "A powerful multi-shot cannon"
-msgstr "[null]"
+msgstr "Un potente cannone multi-colpo"
 
 msgctxt "Body parts Aliens/KEY_SCYLLA_MIST_LAUNCHER_DESCRIPTION_TEMP"
 msgid "Launchers projectiles that generate mist"
-msgstr "[null]"
+msgstr "Lancia proiettili che generano bruma"
 
 msgctxt "Body parts Aliens/KEY_SCYLLA_SONIC_HEAD_DESCRIPTION_TEMP"
 msgid "Emits sonic blast that can daze a target"
-msgstr "[null]"
+msgstr "Provoca esplosioni soniche che stordiscono i bersagli"
 
 msgctxt "Body parts Aliens/KEY_SCYLLA_HEAD_SPITTER_DESCRIPTION_TEMP"
 msgid "Spits poisonous goo in a narrow cone area"
-msgstr "[null]"
+msgstr "Sputa melma velenosa in una stretta area a cono"
 
 msgctxt "Body parts Aliens/KEY_SCYLLA_ARM_BLASTER_DESCRIPTION_TEMP"
 msgid "A powerful multi-shot cannon"
-msgstr "[null]"
+msgstr "Un potente cannone multi-colpo"
 
 msgctxt "Body parts Aliens/KEY_TORSO_NAME_TEMP"
 msgid "TORSO"
-msgstr "[null]"
+msgstr "BUSTO"
 
 msgctxt "Body parts Aliens/KEY_SENTINEL_HATCHING_HEAD_NAME_TEMP"
 msgid "HATCHING HEAD"
-msgstr "[null]"
+msgstr "TESTA DELLA COVA"
 
 msgctxt "Body parts Aliens/KEY_TORSO_DESCRIPTION_TEMP"
 msgid "Torso"
-msgstr "[null]"
+msgstr "Busto"
 
 msgctxt "Body parts Aliens/KEY_SENTINEL_HATCHING_HEAD_DESCRIPTION_TEMP"
 msgid "Sends signal that hatches all nearby eggs"
-msgstr "[null]"
+msgstr "Invia un segnale che fa schiudere tutte le uova vicine"
 
 msgctxt "Body parts Aliens/KEY_SENTINEL_MIST_HEAD_NAME_TEMP"
 msgid "MIST HEAD"
-msgstr "[null]"
+msgstr "TESTA DI BRUMA"
 
 msgctxt "Body parts Aliens/KEY_SENTINEL_MIST_HEAD_DESCRIPTION_TEMP"
 msgid "Launches projectiles that generate mist"
-msgstr "[null]"
+msgstr "Lancia proiettili che generano bruma"
 
 msgctxt "Body parts Aliens/KEY_SENTINEL_TERROR_HEAD_NAME_TEMP"
 msgid "TERROR HEAD"
-msgstr "[null]"
+msgstr "TESTA DEL TERRORE"
 
 msgctxt "Body parts Aliens/KEY_SENTINEL_TERROR_HEAD_DESCRIPTION_TEMP"
 msgid "Emits psychic scream that reduces will points"
-msgstr "[null]"
+msgstr "Emette un urlo psichico che riduce i punti volontà"
 
 msgctxt "Body parts Aliens/KEY_SIREN_HEAD_BUFFER_NAME_TEMP"
 msgid "FURY HEAD"
-msgstr "[null]"
+msgstr "TESTA DI FURIA"
 
 msgctxt "Body parts Aliens/KEY_SIREN_HEAD_ORICHALCUM_NAME_TEMP"
 msgid "ORICHALCUM HEAD"
-msgstr "[null]"
+msgstr "TESTA DI ORICALCO"
 
 msgctxt "Body parts Aliens/KEY_SIREN_HEAD_SCREAMER_NAME_TEMP"
 msgid "SCREAMING HEAD"
-msgstr "[null]"
+msgstr "TESTA URLANTE"
 
 msgctxt "Body parts Aliens/KEY_SIREN_TAIL_AGILE_NAME_TEMP"
 msgid "AGILE TAIL"
-msgstr "[null]"
+msgstr "CODA AGILE"
 
 msgctxt "Body parts Aliens/KEY_SIREN_TAIL_HEAVY_NAME_TEMP"
 msgid "HEAVY TAIL"
-msgstr "[null]"
+msgstr "CODA PESANTE"
 
 msgctxt "Body parts Aliens/KEY_SIREN_TAIL_ORICHALCUM_NAME_TEMP"
 msgid "ORICHALCUM TAIL"
-msgstr "[null]"
+msgstr "CODA DI ORICALCO"
 
 msgctxt "Body parts Aliens/KEY_SIREN_TORSO_NAME_TEMP"
 msgid "TORSO"
-msgstr "[null]"
+msgstr "BUSTO"
 
 msgctxt "Body parts Aliens/KEY_SIREN_ARM_INJECTOR_NAME_TEMP"
 msgid "INJECTOR ARM"
-msgstr "[null]"
+msgstr "BRACCIO INIETTORE"
 
 msgctxt "Body parts Aliens/KEY_SIREN_ARM_ORICHALCUM_NAME_TEMP"
 msgid "ORICHALCUM ARM"
-msgstr "[null]"
+msgstr "BRACCIO DI ORICALCO"
 
 msgctxt "Body parts Aliens/KEY_SIREN_ARM_SLASHER_NAME_TEMP"
 msgid "SLASHER ARM"
-msgstr "[null]"
+msgstr "BRACCIO SQUARCIATORE"
 
 msgctxt "Body parts Aliens/KEY_SIREN_TORSO_ACID_NAME_TEMP"
 msgid "ACID TORSO"
-msgstr "[null]"
+msgstr "BRACCIO DI ORICALCO"
 
 msgctxt "Body parts Aliens/KEY_SIREN_TORSO_ORICHALCUM_NAME_TEMP"
 msgid "ORICHALCUM TORSO"
-msgstr "[null]"
+msgstr "BUSTO ACIDO"
 
 msgctxt "Body parts Aliens/KEY_SIREN_HEAD_BUFFER_DESCRIPTION_TEMP"
 msgid "Can instill frenzy on friendly characters"
-msgstr "[null]"
+msgstr "BUSTO DI ORICALCO"
 
 msgctxt "Body parts Aliens/KEY_SIREN_HEAD_ORICHALCUM_DESCRIPTION_TEMP"
 msgid "Slightly improved durability"
-msgstr "[null]"
+msgstr "Può infondere frenesia alle unità alleate"
 
 msgctxt "Body parts Aliens/KEY_SIREN_HEAD_SCREAMER_DESCRIPTION_TEMP"
 msgid "Psychic scream incapacitates nearby enemies"
-msgstr "[null]"
+msgstr "Robustezza leggermente migliorata"
 
 msgctxt "Body parts Aliens/KEY_SIREN_TAIL_AGILE_DESCRIPTION_TEMP"
 msgid "Increases speed of the creature"
-msgstr "[null]"
+msgstr "I suoi urli psichici neutralizzano i nemici vicini"
 
 msgctxt "Body parts Aliens/KEY_SIREN_TAIL_HEAVY_DESCRIPTION_TEMP"
 msgid "Tail is protected by armor"
-msgstr "[null]"
+msgstr "Aumenta la velocità della creatura"
 
 msgctxt "Body parts Aliens/KEY_SIREN_TAIL_ORICHALCUM_DESCRIPTION_TEMP"
 msgid "Slightly improved durability and damage"
-msgstr "[null]"
+msgstr "La sua coda è protetta da un'armatura"
 
 msgctxt "Body parts Aliens/KEY_SIREN_TORSO_DESCRIPTION_TEMP"
 msgid "Siren Torso"
-msgstr "[null]"
+msgstr "Robustezza e danni leggermente migliorati"
 
 msgctxt "Body parts Aliens/KEY_SIREN_ARM_INJECTOR_DESCRIPTION_TEMP"
 msgid "Inflicts standard and viral damage"
-msgstr "[null]"
+msgstr "Busto di Sirena"
 
 msgctxt "Body parts Aliens/KEY_SIREN_ARM_ORICHALCUM_DESCRIPTION_TEMP"
 msgid "Slightly improved durability and damage"
-msgstr "[null]"
+msgstr "Infligge danni standard e virali"
 
 msgctxt "Body parts Aliens/KEY_SIREN_ARM_SLASHER_DESCRIPTION_TEMP"
 msgid "Melee attack that can cause bleed if it deals damage"
-msgstr "[null]"
+msgstr "Se infligge danni, provoca sanguinamento"
 
 msgctxt "Body parts Aliens/KEY_SIREN_TORSO_ACID_DESCRIPTION_TEMP"
 msgid "Ejects acid over a short distance"
-msgstr "[null]"
+msgstr "Può eseguire un attacco in mischia che, se causa danni, provoca sanguinamento"
 
 msgctxt "Body parts Aliens/KEY_SIREN_TORSO_ORICHALCUM_DESCRIPTION_TEMP"
 msgid "Slightly improved durability"
-msgstr "[null]"
+msgstr "Lancia acido a una breve distanza"
 
 msgctxt "Body parts Aliens/KEY_SPAWNERY_BODY_NAME_TEMP"
 msgid "BODY"
-msgstr "[null]"
+msgstr "Robustezza leggermente migliorata"
 
 msgctxt "Body parts Aliens/KEY_SPAWNERY_EGG_POD_NAME_TEMP"
 msgid "EGG POD"
-msgstr "[null]"
+msgstr "CAPSULA UOVA"
 
 msgctxt "Body parts Aliens/KEY_SPAWNERY_SHELL_NAME_TEMP"
 msgid "SHELL"
-msgstr "[null]"
+msgstr "GUSCIO"
 
 msgctxt "Body parts Aliens/KEY_SPAWNERY_BODY_DESCRIPTION_TEMP"
 msgid "Spawnery hulk"
-msgstr "[null]"
+msgstr "Struttura dell'Incubatrice"
 
 msgctxt "Body parts Aliens/KEY_SPAWNERY_EGG_POD_DESCRIPTION_TEMP"
 msgid "Spawnery pod"
-msgstr "[null]"
+msgstr "Capsula dell'Incubatrice"
 
 msgctxt "Body parts Aliens/KEY_SPAWNERY_SHELL_DESCRIPTION_TEMP"
 msgid "Spawnery shell"
-msgstr "[null]"
+msgstr "Guscio dell'Incubatrice"
 
 msgctxt "Body parts Aliens/KEY_ARTHRON_CARAPACE_NAME_TEMP"
 msgid "CARAPACE"
-msgstr "[null]"
+msgstr "CARAPACE"
 
 msgctxt "Body parts Aliens/KEY_ARTHRON_HEAD_ELITE_NAME_TEMP"
 msgid "HEAD"
-msgstr "[null]"
+msgstr "TESTA"
 
 msgctxt "Body parts Aliens/KEY_ARTHRON_ACID_GRENADE_ARM_NAME_TEMP"
 msgid "ACID LAUNCHER"
-msgstr "[null]"
+msgstr "LANCIA-ACIDO"
 
 msgctxt "Body parts Aliens/KEY_ARTHRON_ARM_NAME_TEMP"
 msgid "ARM"
-msgstr "[null]"
+msgstr "BRACCIO"
 
 msgctxt "Body parts Aliens/KEY_ARTHRON_ARM_GRENADE_NAME_TEMP"
 msgid "GRENADE LAUNCHER"
-msgstr "[null]"
+msgstr "LANCIAGRANATE"
 
 msgctxt "Body parts Aliens/KEY_ARTHRON_ARM_SHIELD_NAME_TEMP"
 msgid "SHIELD"
-msgstr "[null]"
+msgstr "SCUDO"
 
 msgctxt "Body parts Aliens/KEY_ARTHRON_LEG_AGILE_NAME_TEMP"
 msgid "AGILE LEG"
-msgstr "[null]"
+msgstr "GAMBA AGILE"
 
 msgctxt "Body parts Aliens/KEY_ARTHRON_LEG_HEAVY_NAME_TEMP"
 msgid "HEAVY LEG"
-msgstr "[null]"
+msgstr "GAMBA PESANTE"
 
 msgctxt "Body parts Aliens/KEY_ARTHRON_MACHINE_GUN_NAME_TEMP"
 msgid "ARTHRON GUN"
-msgstr "[null]"
+msgstr "FUCILE DI ARTHRON"
 
 msgctxt "Body parts Aliens/KEY_ARTHRON_PINCER_NAME_TEMP"
 msgid "PINCER"
-msgstr "[null]"
+msgstr "CHELA"
 
 msgctxt "Body parts Aliens/KEY_ARTHRON_VIRAL_GUN_NAME_TEMP"
 msgid "VIRAL GUN"
-msgstr "[null]"
+msgstr "FUCILE VIRALE"
 
 msgctxt "Body parts Aliens/KEY_ARTHRON_TORSO_NAME_TEMP"
 msgid "TORSO"
-msgstr "[null]"
+msgstr "BUSTO"
 
 msgctxt "Body parts Aliens/KEY_ARTHRON_TORSO_DESCRIPTION_TEMP"
 msgid "Arthron torso"
-msgstr "[null]"
+msgstr "Busto di Arthron"
 
 msgctxt "Body parts Aliens/KEY_ARTHRON_HEAD_SPITTER_NAME_TEMP"
 msgid "SPITTER HEAD"
-msgstr "[null]"
+msgstr "TESTA SPUTANTE"
 
 msgctxt "Body parts Aliens/KEY_ARTHRON_GRENADE_ARM_NAME_TEMP"
 msgid "LAUNCHER ARM"
-msgstr "[null]"
+msgstr "BRACCIO GRANATIERE"
 
 msgctxt "Body parts Aliens/KEY_ARTHRON_VIRAL_MACHINE_GUN_NAME_TEMP"
 msgid "VIRAL MACHINE GUN"
-msgstr "[null]"
+msgstr "MITRAGLIATRICE VIRALE"
 
 msgctxt "Body parts Aliens/KEY_ARTHRON_CARAPACE_DESCRIPTION_TEMP"
 msgid "Arthron carapace"
-msgstr "[null]"
+msgstr "Carapace di Arthron"
 
 msgctxt "Body parts Aliens/KEY_HEAD_ELITE_DESCRIPTION_TEMP"
 msgid "Evolved Head"
-msgstr "[null]"
+msgstr "Testa evoluta"
 
 msgctxt "Body parts Aliens/KEY_ARTHRON_ARM_DESCRIPTION_TEMP"
 msgid "Arthron arm"
-msgstr "[null]"
+msgstr "Braccio di Arthron"
 
 msgctxt "Body parts Aliens/KEY_ARTHRON_GRENADE_ARM_DESCRIPTION_TEMP"
 msgid "Organic Grenade Launcher"
-msgstr "[null]"
+msgstr "Lanciagranate organico"
 
 msgctxt "Body parts Aliens/KEY_ARTHRON_SHIELD_ARM_DESCRIPTION_TEMP"
 msgid "Arthron shield"
-msgstr "[null]"
+msgstr "Scudo Arthron"
 
 msgctxt "Body parts Aliens/KEY_ARTHRON_SHIELD_ARM_NAME_TEMP"
 msgid "SHIELD"
-msgstr "[null]"
+msgstr "SCUDO"
 
 msgctxt "Body parts Aliens/KEY_ARTHRON_LEG_AGILE_DESCRIPTION_TEMP"
 msgid "Increases the creatures' speed"
-msgstr "[null]"
+msgstr "Aumenta la velocità della creatura"
 
 msgctxt "Body parts Aliens/KEY_ARTHRON_LEG_HEAVY_DESCRIPTION_TEMP"
 msgid "Heavy armored limb"
-msgstr "[null]"
+msgstr "Un arto pesantemente corazzato"
 
 msgctxt "Body parts Aliens/KEY_ARTHRON_HEAD_SPITTER_DESCRIPTION_TEMP"
 msgid "Spits poison at short range"
-msgstr "[null]"
+msgstr "Sputa veleno a corto raggio"
 
 msgctxt "Body parts Aliens/KEY_ARTHRON_ACID_GRENADE_ARM_DESCRIPTION_TEMP"
 msgid "Launches projectiles causing acid damage"
-msgstr "[null]"
+msgstr "Lancia proiettili che infliggono danni acidi"
 
 msgctxt "Body parts Aliens/KEY_ARTHRON_MACHINE_GUN_DESCRIPTION_TEMP"
 msgid "Organic Machine Gun"
-msgstr "[null]"
+msgstr "Mitragliatrice organica"
 
 msgctxt "Body parts Aliens/KEY_ARTHRON_PINCER_DESCRIPTION_TEMP"
 msgid "Arthron melee attack pincer"
-msgstr "[null]"
+msgstr "Chela per attacco in mischia di Arthron"
 
 msgctxt "Body parts Aliens/KEY_ARTHRON_VIRAL_MACHINE_GUN_DESCRIPTION_TEMP"
 msgid "Launches projectiles causing viral damage"
-msgstr "[null]"
+msgstr "Lancia proiettili che infliggono danni virali"
 
 msgctxt "Body parts Aliens/KEY_ARTHRON_ELITE_CARAPACE_NAME_TEMP"
 msgid "EVOLVED CARAPACE"
-msgstr "[null]"
+msgstr "CARAPACE EVOLUTO"
 
 msgctxt "Body parts Aliens/KEY_ARTHRON_ELITE_TORSO_NAME_TEMP"
 msgid "EVOLVED TORSO"
-msgstr "[null]"
+msgstr "BUSTO EVOLUTO"
 
 msgctxt "Body parts Aliens/KEY_ARTHRON_ELITE_ACID_GRENADE_ARM_NAME_TEMP"
 msgid "EVOLVED ACID LAUNCHER ARM"
-msgstr "[null]"
+msgstr "BRACCIO LANCIA-ACIDO EVOLUTO"
 
 msgctxt "Body parts Aliens/KEY_ARTHRON_ELITE_GRENADE_ARM_NAME_TEMP"
 msgid "EVOLVED LAUNCHER ARM"
-msgstr "[null]"
+msgstr "BRACCIO LANCIATORE EVOLUTO"
 
 msgctxt "Body parts Aliens/KEY_ARTHRON_ELITE_ARM_SHIELD_NAME_TEMP"
 msgid "EVOLVED SHIELD"
-msgstr "[null]"
+msgstr "SCUDO EVOLUTO"
 
 msgctxt "Body parts Aliens/KEY_ARTHRON_ELITE_LEG_AGILE_NAME_TEMP"
 msgid "AGILE LEG"
-msgstr "[null]"
+msgstr "GAMBA AGILE"
 
 msgctxt "Body parts Aliens/KEY_ARTHRON_ELITE_LEG_HEAVY_NAME_TEMP"
 msgid "HEAVY LEG"
-msgstr "[null]"
+msgstr "GAMBA PESANTE"
 
 msgctxt "Body parts Aliens/KEY_ARTHRON_ELITE_MACHINE_GUN_NAME_TEMP"
 msgid "EVOLVED ARTHRON GUN"
-msgstr "[null]"
+msgstr "FUCILE DI ARTHRON EVOLUTO"
 
 msgctxt "Body parts Aliens/KEY_ARTHRON_ELITE_PINCER_NAME_TEMP"
 msgid "EVOLVED PINCER"
-msgstr "[null]"
+msgstr "CHELA EVOLUTA"
 
 msgctxt "Body parts Aliens/KEY_ARTHRON_ELITE_HEAD_SPITTER_NAME_TEMP"
 msgid "EVOLVED SPITTER HEAD"
-msgstr "[null]"
+msgstr "TESTA SPUTANTE EVOLUTA"
 
 msgctxt "Body parts Aliens/KEY_ARTHRON_ELITE_VIRAL_MACHINE_GUN_NAME_TEMP"
 msgid "EVOLVED VIRAL MACHINE GUN"
-msgstr "[null]"
+msgstr "MITRAGLIATRICE VIRALE EVOLUTA"
 
 msgctxt "Body parts Aliens/KEY_ARTHRON_ELITE_CARAPACE_DESCRIPTION_TEMP"
 msgid "Evolved Arthron carapace"
-msgstr "[null]"
+msgstr "Carapace di Arthron evoluto"
 
 msgctxt "Body parts Aliens/KEY_ARTHRON_ELITE_TORSO_DESCRIPTION_TEMP"
 msgid "Evolved Artrhron torso"
-msgstr "[null]"
+msgstr "Busto di Arthron evoluto"
 
 msgctxt "Body parts Aliens/KEY_ARTHRON_ELITE_ACID_GRENADE_ARM_DESCRIPTION_TEMP"
 msgid "Launches acid grenades"
-msgstr "[null]"
+msgstr "Lancia granate acide"
 
 msgctxt "Body parts Aliens/KEY_ARTHRON_ELITE_GRENADE_ARM_DESCRIPTION_TEMP"
 msgid "Organic Grenade Launcher"
-msgstr "[null]"
+msgstr "Lanciagranate organico"
 
 msgctxt "Body parts Aliens/KEY_ARTHRON_ELITE_ARM_SHIELD_DESCRIPTION_TEMP"
 msgid "Evolved Arthron shield"
-msgstr "[null]"
+msgstr "Scudo di Arthron evoluto"
 
 msgctxt "Body parts Aliens/KEY_ARTHRON_ELITE_LEG_AGILE_DESCRIPTION_TEMP"
 msgid "Increases the creatures' speed"
-msgstr "[null]"
+msgstr "Aumenta la velocità della creatura"
 
 msgctxt "Body parts Aliens/KEY_ARTHRON_ELITE_LEG_HEAVY_DESCRIPTION_TEMP"
 msgid "Heavy armoured limb"
-msgstr "[null]"
+msgstr "Un arto pesantemente corazzato"
 
 msgctxt "Body parts Aliens/KEY_ARTHRON_ELITE_HEAD_SPITTER_DESCRIPTION_TEMP"
 msgid "Spits poison at short range"
-msgstr "[null]"
+msgstr "Sputa veleno a corto raggio"
 
 msgctxt "Body parts Aliens/KEY_ARTHRON_ELITE_MACHINE_GUN_DESCRIPTION_TEMP"
 msgid "Evolved organic machine gun"
-msgstr "[null]"
+msgstr "Una mitragliatrice organica evoluta"
 
 msgctxt "Body parts Aliens/KEY_ARTHRON_ELITE_PINCER_DESCRIPTION_TEMP"
 msgid "Evolved Arthron pincer"
-msgstr "[null]"
+msgstr "Una chela di Arthron evoluta"
 
 msgctxt "Body parts Aliens/KEY_ARTHRON_ELITE_VIRAL_MACHINE_GUN_DESCRIPTION_TEMP"
 msgid "Launches projectiles causing viral damage"
-msgstr "[null]"
+msgstr "Lancia proiettili che infliggono danni virali"
 
 msgctxt "Body parts Aliens/KEY_CHIRON_LEG_AGILE_NAME_TEMP"
 msgid "AGILE LEG"
-msgstr "[null]"
+msgstr "GAMBA AGILE"
 
 msgctxt "Body parts Aliens/KEY_CHIRON_LEG_BURROWING_NAME_TEMP"
 msgid "BURROWING LEG"
-msgstr "[null]"
+msgstr "GAMBA SCAVATRICE"
 
 msgctxt "Body parts Aliens/KEY_CHIRON_LEG_STOMPING_NAME_TEMP"
 msgid "STOMPING LEG"
-msgstr "[null]"
+msgstr "GAMBA CALPESTANTE"
 
 msgctxt "Body parts Aliens/KEY_CHIRON_HEAD_NAME_TEMP"
 msgid "HEAD"
-msgstr "[null]"
+msgstr "TESTA"
 
 msgctxt "Body parts Aliens/KEY_CHIRON_LEG_HEAVY_NAME_TEMP"
 msgid "HEAVY LEG"
-msgstr "[null]"
+msgstr "GAMBA PESANTE"
 
 msgctxt "Body parts Aliens/KEY_CHIRON_LEG_NAME_TEMP"
 msgid "HEAVY LEG"
-msgstr "[null]"
+msgstr "GAMBA PESANTE"
 
 msgctxt "Body parts Aliens/KEY_CHIRON_TORSO_NAME_TEMP"
 msgid "TORSO"
-msgstr "[null]"
+msgstr "BUSTO"
 
 msgctxt "Body parts Aliens/KEY_CHIRON_TORSO_ACID_MORTAR_NAME_TEMP"
 msgid "ACID ABDOMEN"
-msgstr "[null]"
+msgstr "ADDOME ACIDO"
 
 msgctxt "Body parts Aliens/KEY_CHIRON_TORSO_ACIDWORM_NAME_TEMP"
 msgid "ACIDWORM ABDOMEN"
-msgstr "[null]"
+msgstr "ADDOME DI VERME ACIDO"
 
 msgctxt "Body parts Aliens/KEY_CHIRON_TORSO_MORTAR_NAME_TEMP"
 msgid "EXPLOSIVE BOMB ABDOMEN"
-msgstr "[null]"
+msgstr "ADDOME BOMBA ESPLOSIVO"
 
 msgctxt "Body parts Aliens/KEY_CHIRON_TORSO_FIREWORM_NAME_TEMP"
 msgid "FIREWORM ABDOMEN"
-msgstr "[null]"
+msgstr "ADDOME VERME DI FUOCO"
 
 msgctxt "Body parts Aliens/KEY_CHIRON_TORSO_GOO_NAME_TEMP"
 msgid "GOO ABDOMEN"
-msgstr "[null]"
+msgstr "ADDOME DI MELMA"
 
 msgctxt "Body parts Aliens/KEY_CHIRON_TORSO_POISONWORM_NAME_TEMP"
 msgid "POISONWORM ABDOMEN"
-msgstr "[null]"
+msgstr "ADDOME DI VERME VELENOSO"
 
 msgctxt "Body parts Aliens/KEY_CHIRON_SMASHER_NAME_TEMP"
 msgid "HEAVY LEG"
-msgstr "[null]"
+msgstr "GAMBA PESANTE"
 
 msgctxt "Body parts Aliens/KEY_CHIRON_LEG_AGILE_DESCRIPTION_TEMP"
 msgid "Leaps to target location, destroying everything on its path"
-msgstr "[null]"
+msgstr "Salta sulla posizione bersaglio, distruggendo qualsiasi cosa si trovi sul suo percorso."
 
 msgctxt "Body parts Aliens/KEY_CHIRON_LEG_BURROWING_DESCRIPTION_TEMP"
 msgid "Gives stability stance, increasing accuracy and rate of fire"
-msgstr "[null]"
+msgstr "Può assumere una posizione che aumenta la stabilità, la precisione e la cadenza di tiro."
 
 msgctxt "Body parts Aliens/KEY_CHIRON_LEG_STOMPING_DESCRIPTION_TEMP"
 msgid "Area attack that can daze multiple targets"
-msgstr "[null]"
+msgstr "Un attacco ad area che può stordire bersagli multipli"
 
 msgctxt "Body parts Aliens/KEY_CHIRON_HEAD_DESCRIPTION_TEMP"
 msgid "Chiron head"
-msgstr "[null]"
+msgstr "Testa di Chirone"
 
 msgctxt "Body parts Aliens/KEY_CHIRON_LEG_HEAVY_DESCRIPTION_TEMP"
 msgid "Heavy armored limb"
-msgstr "[null]"
+msgstr "Un arto pesantemente corazzato"
 
 msgctxt "Body parts Aliens/KEY_CHIRON_LEG_DESCRIPTION_TEMP"
 msgid "Inflicts heavy damage and destroys armor"
-msgstr "[null]"
+msgstr "Infligge danni pesanti e distrugge l'armatura"
 
 msgctxt "Body parts Aliens/KEY_CHIRON_TORSO_DESCRIPTION_TEMP"
 msgid "Chiron torso"
-msgstr "[null]"
+msgstr "Busto di Chirone"
 
 msgctxt "Body parts Aliens/KEY_CHIRON_TORSO_ACID_MORTAR_DESCRIPTION_TEMP"
 msgid "Launches 3 acid bombs"
-msgstr "[null]"
+msgstr "Lancia 3 bombe acide"
 
 msgctxt "Body parts Aliens/KEY_CHIRON_TORSO_ACIDWORM_DESCRIPTION_TEMP"
 msgid "Launch 3 Acidworms at long range"
-msgstr "[null]"
+msgstr "Lancia 3 vermi acidi a lungo raggio"
 
 msgctxt "Body parts Aliens/KEY_CHIRON_TORSO_MORTAR_DESCRIPTION_TEMP"
 msgid "Launches 3 explosive projectiles"
-msgstr "[null]"
+msgstr "Lancia 3 proiettili esplosivi"
 
 msgctxt "Body parts Aliens/KEY_CHIRON_TORSO_FIREWORM_DESCRIPTION_TEMP"
 msgid "Launch 3 Fireworms at long range"
-msgstr "[null]"
+msgstr "Lancia 3 vermi di fuoco a lungo raggio"
 
 msgctxt "Body parts Aliens/KEY_CHIRON_TORSO_GOO_DESCRIPTION_TEMP"
 msgid "Launches 3 goo bombs at long range"
-msgstr "[null]"
+msgstr "Lancia 3 bombe di melma a lungo raggio"
 
 msgctxt "Body parts Aliens/KEY_CHIRON_TORSO_POISONWORM_DESCRIPTION_TEMP"
 msgid "Launch 3 Poisonworms at long range"
-msgstr "[null]"
+msgstr "Lancia 3 vermi velenosi a lungo raggio"
 
 msgctxt "Body parts Aliens/KEY_CHIRON_SMASHER_DESCRIPTION_TEMP"
 msgid "Inflicts heavy damage and destroys armor"
-msgstr "[null]"
+msgstr "Infligge danni pesanti e distrugge l'armatura"
 
 msgctxt "Body parts Aliens/KEY_BODY_NAME_TEMP"
 msgid "BODY"
-msgstr "[null]"
+msgstr "CORPO"
 
 msgctxt "Body parts Aliens/KEY_BODY_DESCRIPTION_TEMP"
 msgid "Body"
-msgstr "[null]"
+msgstr "Corpo"
 
 msgctxt "Body parts Aliens/KEY_ACIDWORM_EGG_NAME_TEMP"
-msgid "ACIDEWORM EGG"
-msgstr "[null]"
+msgid "ACIDWORM EGG"
+msgstr "UOVO DI VERME ACIDO"
 
 msgctxt "Body parts Aliens/KEY_FACEHUGGER_EGG_NAME_TEMP"
 msgid "MINDFRAGGER EGG"
-msgstr "[null]"
+msgstr "UOVO DI STRAPPAMENTE"
 
 msgctxt "Body parts Aliens/KEY_FIREWORM_EGG_NAME_TEMP"
 msgid "FIREWORM EGG"
-msgstr "[null]"
+msgstr "UOVO DI VERME ACIDO"
 
 msgctxt "Body parts Aliens/KEY_POISONWORM_EGG_NAME_TEMP"
 msgid "POISONWORM EGG"
-msgstr "[null]"
+msgstr "UOVO DI VERME VELENOSO"
 
 msgctxt "Body parts Aliens/KEY_SWARMER_EGG_NAME_TEMP"
-msgid "SWARMER EGG"
-msgstr "[null]"
+msgid "MYRMIDON EGG"
+msgstr "UOVO DI MIRMIDONE"
 
 msgctxt "Body parts Aliens/KEY_ACIDWORM_EGG_DESCRIPTION_TEMP"
 msgid "Hatches an Acidworm"
-msgstr "[null]"
+msgstr "Quando si schiude, ne esce un verme acido"
 
 msgctxt "Body parts Aliens/KEY_FACEHUGGER_EGG_DESCRIPTION_TEMP"
 msgid "Hatches a Mindfragger"
-msgstr "[null]"
+msgstr "Quando si schiude, ne esce uno Strappamente"
 
 msgctxt "Body parts Aliens/KEY_FIREWORM_EGG_DESCRIPTION_TEMP"
 msgid "Hatches a Fireworm"
-msgstr "[null]"
+msgstr "Quando si schiude, ne esce un verme di fuoco"
 
 msgctxt "Body parts Aliens/KEY_POISONWORM_EGG_DESCRIPTION_TEMP"
 msgid "Hatches a Poisonworm"
-msgstr "[null]"
+msgstr "Quando si schiude, ne esce un verme velenoso"
 
 msgctxt "Body parts Aliens/KEY_SWARMER_EGG_DESCRIPTION_TEMP"
-msgid "Hatches a Swarmer"
-msgstr "[null]"
+msgid "Hatches a Myrmidon "
+msgstr "Quando si schiude, ne esce uno  Mirmidone "
 
 msgctxt "Body parts Aliens/KEY_LEG_NAME_TEMP"
 msgid "LEG"
-msgstr "[null]"
+msgstr "GAMBA"
 
 msgctxt "Body parts Aliens/KEY_FACEHUGGER_HEAD_NAME_TEMP"
 msgid "MINDFRAGGER HEAD"
-msgstr "[null]"
+msgstr "TESTA DI STRAPPAMENTE"
 
 msgctxt "Body parts Aliens/KEY_LEG_DESCRIPTION_TEMP"
 msgid "Leg"
-msgstr "[null]"
+msgstr "Gamba"
 
 msgctxt "Body parts Aliens/KEY_FACEHUGGER_HEAD_DESCRIPTION_TEMP"
 msgid "Attaches to enemy unit's head and mind controls him"
-msgstr "[null]"
+msgstr "Si attacca alla testa di un'unità nemica e prende possesso della sua mente"
 
 msgctxt "Body parts Aliens/KEY_TRITON_SENSOR_HEAD_NAME_TEMP"
 msgid "SENSOR HEAD"
-msgstr "[null]"
+msgstr "TESTA SENSORE"
 
 msgctxt "Body parts Aliens/KEY_TRITON_SOUND_HEAD_NAME_TEMP"
 msgid "SILENCE HEAD"
-msgstr "[null]"
+msgstr "TESTA SILENZIANTE"
 
 msgctxt "Body parts Aliens/KEY_TRITON_LEG_AGILE_NAME_TEMP"
 msgid "AGILE LEG"
-msgstr "[null]"
+msgstr "GAMBA AGILE"
 
 msgctxt "Body parts Aliens/KEY_TRITON_LEG_STEALTH_NAME_TEMP"
 msgid "STEALTH LEG"
-msgstr "[null]"
+msgstr "GAMBA FURTIVA"
 
 msgctxt "Body parts Aliens/KEY_TRITON_ARM_REGENERATION_NAME_TEMP"
 msgid "REGENERATION ARM"
-msgstr "[null]"
+msgstr "BRACCIO RIGENERANTE"
 
 msgctxt "Body parts Aliens/KEY_TRITON_ARM_SHROWDER_NAME_TEMP"
 msgid "PAIN CHAMELEON ARM"
-msgstr "[null]"
+msgstr "BRACCIO DI CAMALEONTE DEL DOLORE"
 
 msgctxt "Body parts Aliens/KEY_TRITON_TORSO_REGENERATION_NAME_TEMP"
 msgid "REGENERATION TORSO"
-msgstr "[null]"
+msgstr "BUSTO RIGENERANTE"
 
 msgctxt "Body parts Aliens/KEY_TRITON_TORSO_SHROWDER_NAME_TEMP"
 msgid "PAIN CHAMELEON TORSO"
-msgstr "[null]"
+msgstr "BUSTO DEL CAMALEONTE DEL DOLORE"
 
 msgctxt "Body parts Aliens/KEY_TRITON_ARM_BLOODSUCKER_NAME_TEMP"
 msgid "BLOODSUCKING ARM"
-msgstr "[null]"
+msgstr "BRACCIO SUCCHIASANGUE"
 
 msgctxt "Body parts Aliens/KEY_TRITON_ARM_MIST_NAME_TEMP"
 msgid "MIST EMITTER ARM"
-msgstr "[null]"
+msgstr "BRACCIO EMETTITORE DI BRUMA"
 
 msgctxt "Body parts Aliens/KEY_TRITON_ARM_PARALYZING_NAME_TEMP"
 msgid "PARALYZING ARM"
-msgstr "[null]"
+msgstr "BRACCIO PARALIZZANTE"
 
 msgctxt "Body parts Aliens/KEY_TRITON_SENSOR_HEAD_DESCRIPTION_TEMP"
 msgid "Doubles creature's perception"
-msgstr "[null]"
+msgstr "Raddoppia la percezione della creatura"
 
 msgctxt "Body parts Aliens/KEY_TRITON_SOUND_HEAD_DESCRIPTION_TEMP"
 msgid "Silences weapon attacks"
-msgstr "[null]"
+msgstr "Silenzia gli attacchi delle armi"
 
 msgctxt "Body parts Aliens/KEY_TRITON_LEG_AGILE_DESCRIPTION_TEMP"
 msgid "Increases creature's speed"
-msgstr "[null]"
+msgstr "Aumenta la velocità della creatura"
 
 msgctxt "Body parts Aliens/KEY_TRITON_LEG_STEALTH_DESCRIPTION_TEMP"
 msgid "Creature becomes invisible when dealt damage"
-msgstr "[null]"
+msgstr "Dopo aver subito danni, la creatura diventa invisibile"
 
 msgctxt "Body parts Aliens/KEY_TRITON_ARM_REGENERATION_DESCRIPTION_TEMP"
 msgid "Restores health to damaged limbs"
-msgstr "[null]"
+msgstr "Ripristina la salute degli arti danneggiati"
 
 msgctxt "Body parts Aliens/KEY_TRITON_ARM_SHROWDER_DESCRIPTION_TEMP"
 msgid "Creature becomes invisible when dealt damage"
-msgstr "[null]"
+msgstr "Dopo aver subito danni, la creatura diventa invisibile"
 
 msgctxt "Body parts Aliens/KEY_TRITON_TORSO_REGENERATION_DESCRIPTION_TEMP"
 msgid "Restores health to damaged limbs"
-msgstr "[null]"
+msgstr "Ripristina la salute degli arti danneggiati"
 
 msgctxt "Body parts Aliens/KEY_TRITON_TORSO_SHROWDER_DESCRIPTION_TEMP"
 msgid "Creature becomes invisible when dealt damage"
-msgstr "[null]"
+msgstr "Dopo aver subito danni, la creatura diventa invisibile"
 
 msgctxt "Body parts Aliens/KEY_TRITON_ARM_BLOODSUCKER_DESCRIPTION_TEMP"
 msgid "Damages the enemy and regenerates the creature"
-msgstr "[null]"
+msgstr "Infligge danni al nemico e cura la creatura"
 
 msgctxt "Body parts Aliens/KEY_TRITON_ARM_MIST_DESCRIPTION_TEMP"
 msgid "Launches projectiles that generate mist"
-msgstr "[null]"
+msgstr "Lancia proiettili che generano bruma"
 
 msgctxt "Body parts Aliens/KEY_TRITON_ARM_PARALYZING_DESCRIPTION_TEMP"
 msgid "Injects paralyzing agents into the enemy"
-msgstr "[null]"
+msgstr "Inietta agenti paralizzanti al nemico"
 
 msgctxt "Body parts Aliens/KEY_TRITON_ELITE_SENSOR_HEAD_NAME_TEMP"
 msgid "EVOLVED SENSOR HEAD"
-msgstr "[null]"
+msgstr "TESTA SENSORE EVOLUTA"
 
 msgctxt "Body parts Aliens/KEY_TRITON_ELITE_SILENCE_HEAD_NAME_TEMP"
 msgid "EVOLVED SILENCE HEAD"
-msgstr "[null]"
+msgstr "TESTA SILENZIANTE EVOLUTA"
 
 msgctxt "Body parts Aliens/KEY_TRITON_ELITE_LEG_AGILE_NAME_TEMP"
 msgid "EVOLVED AGILE LEG"
-msgstr "[null]"
+msgstr "GAMBA AGILE EVOLUTA"
 
 msgctxt "Body parts Aliens/KEY_TRITON_ELITE_LEG_HEAVY_NAME_TEMP"
 msgid "EVOLVED STEALTH LEG"
-msgstr "[null]"
+msgstr "GAMBA FURTIVA EVOLUTA"
 
 msgctxt "Body parts Aliens/KEY_TRITON_ELITE_ARM_REGENERATION_NAME_TEMP"
 msgid "EVOLVED REGENERATION ARM"
-msgstr "[null]"
+msgstr "BRACCIO RIGENERANTE EVOLUTO"
 
 msgctxt "Body parts Aliens/KEY_TRITON_ELITE_ARM_SHROWDER_NAME_TEMP"
 msgid "EVOLVED PAIN CHAMELEON ARM"
-msgstr "[null]"
+msgstr "BRACCIO DI CAMALEONTE DEL DOLORE EVOLUTO"
 
 msgctxt "Body parts Aliens/KEY_TRITON_ELITE_SHROWDER_TORSO_NAME_TEMP"
 msgid "EVOLVED PAIN CHAMELEON TORSO"
-msgstr "[null]"
+msgstr "BUSTO DI CAMALEONTE DEL DOLORE EVOLUTO"
 
 msgctxt "Body parts Aliens/KEY_TRITON_ELITE_REGENERATION_TORSO_NAME_TEMP"
 msgid "EVOLVED REGENERATION TORSO"
-msgstr "[null]"
+msgstr "BUSTO RIGENERANTE EVOLUTO"
 
 msgctxt "Body parts Aliens/KEY_TRITON_ELITE_ARM_BLOODSUCKER_NAME_TEMP"
 msgid "EVOLVED BLOODSUCKING ARM"
-msgstr "[null]"
+msgstr "BRACCIO SUCCHIASANGUE EVOLUTO"
 
 msgctxt "Body parts Aliens/KEY_TRITON_ELITE_ARM_MIST_NAME_TEMP"
 msgid "EVOLVED MIST EMITTER ARM"
-msgstr "[null]"
+msgstr "BRACCIO EMETTITORE DI BRUMA EVOLUTO"
 
 msgctxt "Body parts Aliens/KEY_TRITON_ELITE_ARM_PARALYZING_NAME_TEMP"
 msgid "EVOLVED PARALYZING ARM"
-msgstr "[null]"
+msgstr "BRACCIO PARALIZZANTE EVOLUTO"
 
 msgctxt "Body parts Aliens/KEY_TRITON_ELITE_SENSOR_HEAD_DESCRIPTION_TEMP"
 msgid "Doubles creature's perception"
-msgstr "[null]"
+msgstr "Raddoppia la percezione della creatura"
 
 msgctxt "Body parts Aliens/KEY_TRITON_ELITE_SILENCE_HEAD_DESCRIPTION_TEMP"
 msgid "Silences weapon attacks"
-msgstr "[null]"
+msgstr "Silenzia gli attacchi delle armi"
 
 msgctxt "Body parts Aliens/KEY_TRITON_ELITE_LEG_AGILE_DESCRIPTION_TEMP"
 msgid "Increases creature's speed"
-msgstr "[null]"
+msgstr "Aumenta la velocità della creatura"
 
 msgctxt "Body parts Aliens/KEY_TRITON_ELITE_LEG_HEAVY_DESCRIPTION_TEMP"
 msgid "Creature becomes invisible when dealt damage"
-msgstr "[null]"
+msgstr "Dopo aver subito danni, la creatura diventa invisibile"
 
 msgctxt "Body parts Aliens/KEY_TRITON_ELITE_ARM_REGENERATION_DESCRIPTION_TEMP"
 msgid "Restores health to damaged limbs"
-msgstr "[null]"
+msgstr "Ripristina la salute degli arti danneggiati"
 
 msgctxt "Body parts Aliens/KEY_TRITON_ELITE_ARM_SHROWDER_DESCRIPTION_TEMP"
 msgid "Creature becomes invisible when dealt damage"
-msgstr "[null]"
+msgstr "Dopo aver subito danni, la creatura diventa invisibile"
 
 msgctxt "Body parts Aliens/KEY_TRITON_ELITE_TORSO_SHROWDER_DESCRIPTION_TEMP"
 msgid "Creature becomes invisible when dealt damage"
-msgstr "[null]"
+msgstr "Dopo aver subito danni, la creatura diventa invisibile"
 
 msgctxt "Body parts Aliens/KEY_TRITON_ELITE_TORSO_REGENERATION_DESCRIPTION_TEMP"
 msgid "Restores health to damaged limbs"
-msgstr "[null]"
+msgstr "Ripristina la salute degli arti danneggiati"
 
 msgctxt "Body parts Aliens/KEY_TRITON_ELITE_ARM_BLOODSUCKER_DESCRIPTION_TEMP"
 msgid "Damages the enemy and regenerates the creature"
-msgstr "[null]"
+msgstr "Infligge danni al nemico e cura la creatura"
 
 msgctxt "Body parts Aliens/KEY_TRITON_ELITE_ARM_MIST_DESCRIPTION_TEMP"
 msgid "Launches projectiles that generate mist"
-msgstr "[null]"
+msgstr "Lancia proiettili che generano bruma"
 
 msgctxt "Body parts Aliens/KEY_TRITON_ELITE_ARM_PARALYZING_DESCRIPTION_TEMP"
 msgid "Injects paralyzing agents into the enemy"
-msgstr "[null]"
+msgstr "Inietta agenti paralizzanti al nemico"
 
 msgctxt "Body parts Aliens/KEY_MUTOG_LEG_AGILE_NAME_TEMP"
 msgid "AGILE LEG"
-msgstr "[null]"
+msgstr "GAMBA AGILE"
 
 msgctxt "Body parts Aliens/KEY_MUTOG_LEG_REGENERATION_NAME_TEMP"
 msgid "REGENERATION LEG"
-msgstr "[null]"
+msgstr "GAMBA RIGENERANTE"
 
 msgctxt "Body parts Aliens/KEY_MUTOG_HEAD_RAMMING_NAME_TEMP"
 msgid "RAMMING HEAD"
-msgstr "[null]"
+msgstr "TESTA SFONDANTE"
 
 msgctxt "Body parts Aliens/KEY_MUTOG_TORSO_NAME_TEMP"
 msgid "TORSO"
-msgstr "[null]"
+msgstr "BUSTO"
 
 msgctxt "Body parts Aliens/KEY_MUTOG_HEAD_VENOM_NAME_TEMP"
 msgid "VENOMOUS HEAD"
-msgstr "[null]"
+msgstr "TESTA VELENOSA"
 
 msgctxt "Body parts Aliens/KEY_MUTOG_TAIL_BASHER_NAME_TEMP"
 msgid "BASHER TAIL"
-msgstr "[null]"
+msgstr "CODA CONTUNDENTE"
 
 msgctxt "Body parts Aliens/KEY_MUTOG_TAIL_SMASHER_NAME_TEMP"
 msgid "SLASHER TAIL"
-msgstr "[null]"
+msgstr "CODA SQUARCIANTE"
 
 msgctxt "Body parts Aliens/KEY_MUTOG_LEG_AGILE_DESCRIPTION_TEMP"
 msgid "Increases the speed of the mutog"
-msgstr "[null]"
+msgstr "Aumenta la velocità del Mutog"
 
 msgctxt "Body parts Aliens/KEY_MUTOG_LEG_REGENERATION_DESCRIPTION_TEMP"
 msgid "Regenerates injuries every turn"
-msgstr "[null]"
+msgstr "Cura le ferite a ogni turno"
 
 msgctxt "Body parts Aliens/KEY_MUTOG_HEAD_RAMMING_DESCRIPTION_TEMP"
 msgid "Capable of shredding armor and dazing the enemy"
-msgstr "[null]"
+msgstr "È in grado di fare a pezzi l'armatura e stordire il nemico"
 
 msgctxt "Body parts Aliens/KEY_MUTOG_TORSO_DESCRIPTION_TEMP"
 msgid "Mutog torso"
-msgstr "[null]"
+msgstr "Busto di Mutog"
 
 msgctxt "Body parts Aliens/KEY_MUTOG_HEAD_VENOM_DESCRIPTION_TEMP"
 msgid "Performs attack that injects venom into the enemy"
-msgstr "[null]"
+msgstr "Esegue un attacco che inietta veleno al nemico"
 
 msgctxt "Body parts Aliens/KEY_MUTOG_TAIL_BASHER_DESCRIPTION_TEMP"
 msgid "Performs attack that can daze the enemy"
-msgstr "[null]"
+msgstr "Esegue un attacco che può stordire il nemico"
 
 msgctxt "Body parts Aliens/KEY_MUTOG_TAIL_SMASHER_DESCRIPTION_TEMP"
 msgid "Performs attack that can cause bleeding"
-msgstr "[null]"
+msgstr "Esegue un attacco che può causare sanguinamento"
 
 msgctxt "Body parts Aliens/KEY_AC_TORSO_SHIELDS_HOPLITE_NAME_TEMP"
 msgid "SHIELD HOPLITE"
-msgstr "[null]"
+msgstr "OPLITA SCUDO"
 
 msgctxt "Body parts Aliens/KEY_AC_TORSO_SHIELDS_HOPLITE_DESCRIPTION_TEMP"
 msgid "Armoured ancient guardian"
-msgstr "[null]"
+msgstr "Antico guardiano corazzato"
 
 msgctxt "Body parts Aliens/KEY_AC_TORSO_DRILL_HOPLITE_NAME_TEMP"
 msgid "DRILL HOPLITE"
-msgstr "[null]"
+msgstr "OPLITA TRAPANO"
 
 msgctxt "Body parts Aliens/KEY_AC_TORSO_DRILL_HOPLITE_DECRTIPTION_TEMP"
 msgid "Drill wielding ancient guardian"
-msgstr "[null]"
+msgstr "Antico guardiano trapanatore"
 
 msgctxt "Body parts Aliens/KEY_AC_LEG_HOPLITE_NAME_TEMP"
 msgid "GUARDIAN LEG"
-msgstr "[null]"
+msgstr "GAMBA DI GUARDIANO"
 
 msgctxt "Body parts Aliens/KEY_AC_DRILL_HOPLITE_NAME_TEMP"
 msgid "DRILL"
-msgstr "[null]"
+msgstr "TRAPANO"
 
 msgctxt "Body parts Aliens/KEY_AC_SHIELD_HOPLITE_NAME_TEMP"
 msgid "ORICHALCUM SHIELDS"
-msgstr "[null]"
+msgstr "SCUDI DI ORICALCO"
 
 msgctxt "Body parts Aliens/KEY_AC_POWERDRILL_TEMP"
 msgid "MUTANE-POWERED DRILL"
-msgstr "[null]"
+msgstr "TRAPANO ALIMENTATO A MUTANO"
 
 msgctxt "Body parts Aliens/KEY_AC_GUARDIANBEAM_TEMP"
 msgid "GUARDIAN BEAM"
-msgstr "[null]"
+msgstr "RAGGIO DEL GUARDIANO"
 
 msgctxt "Body parts Aliens/KEY_AC_ORICHALCUMSHIELD_TEMP"
 msgid "LIVING CRYSTAL SHIELD"
-msgstr "[null]"
+msgstr "SCUDO DI CRISTALLO VIVO"
 
 msgctxt "Body parts Aliens/KEY_AC_LEG_HOPLITE_DESCRIPTION_TEMP"
 msgid "Hoplite Leg"
-msgstr "[null]"
+msgstr "Gamba di Oplita"
 
 msgctxt "Body parts Aliens/KEY_AC_DRILL_HOPLITE_DESCRIPTION_TEMP"
 msgid "Mutane-powered drill"
-msgstr "[null]"
+msgstr "Un trapano alimentato a mutano"
 
 msgctxt "Body parts Aliens/KEY_AC_SHIELD_HOPLITE_DESCRIPTION_TEMP"
 msgid "Sharp-edged shields made of Orichalcum"
-msgstr "[null]"
+msgstr "Uno scudo dai bordi taglienti fatto di oricalco"
 
 msgctxt "Body parts Aliens/KEY_AC_POWERDRILL_DESCRIPTION_TEMP"
 msgid "A drill powered by Protean Mutane turbine"
-msgstr "[null]"
+msgstr "Un trapano alimentato da una turbina a mutano volatile"
 
 msgctxt "Body parts Aliens/KEY_AC_GUARDIANBEAM_DESCRIPTION_TEMP"
 msgid "A devastating beam weapon"
-msgstr "[null]"
+msgstr "Un'arma che spara raggi e semina distruzione"
 
 msgctxt "Body parts Aliens/KEY_AC_ORICHALCUMSHIELD_DESCRIPTION_TEMP"
 msgid "A sharp-edged shield made of Living Crystal"
-msgstr "[null]"
+msgstr "Uno scudo dai bordi taglienti fatto di cristallo vivo"
 
 msgctxt "Body parts Aliens/KEY_AC_LEG_CRYSTAL_GUARDIAN_NAME_TEMP"
 msgid "LIVING CRYSTAL LEG"
-msgstr "[null]"
+msgstr "GAMBA DI CRISTALLO VIVO"
 
 msgctxt "Body parts Aliens/KEY_AC_LEG_ORICHALCUM_GUARDIAN_NAME_TEMP"
 msgid "ORICHALCUM LEG"
-msgstr "[null]"
+msgstr "GAMBA DI ORICALCO"
 
 msgctxt "Body parts Aliens/KEY_AC_LEG_PROTEAN_GUARDIAN_NAME_TEMP"
 msgid "PROTEAN MUTANE LEG"
-msgstr "[null]"
+msgstr "GAMBA DI MUTANO VOLATILE"
 
 msgctxt "Body parts Aliens/KEY_AC_TORSO_CRYSTAL_GUARDIAN_NAME_TEMP"
 msgid "LIVING CRYSTAL CYCLOPS"
-msgstr "[null]"
+msgstr "CICLOPI DI CRISTALLO VIVO"
 
 msgctxt "Body parts Aliens/KEY_AC_TORSO_ORICHALCUM_GUARDIAN_NAME_TEMP"
 msgid "ORICHALCYM CYCLOPS"
-msgstr "[null]"
+msgstr "CICLOPI DI ORICALCO"
 
 msgctxt "Body parts Aliens/KEY_AC_TORSO_PROTEAN_GUARDIAN_NAME_TEMP"
 msgid "PROTEAN MUTANE CYCLOPS"
-msgstr "[null]"
+msgstr "CICLOPI DI MUTANO VOLATILE"
 
 msgctxt "Body parts Aliens/KEY_AC_GUARDIANBEAM_CRYSTAL_NAME_TEMP"
 msgid "LIVING CRYSTAL BEAM"
-msgstr "[null]"
+msgstr "RAGGIO DI CRISTALLO VIVO"
 
 msgctxt "Body parts Aliens/KEY_AC_GUARDIANBEAM_ORICHALCUM_NAME_TEMP"
 msgid "ORICHALCUM BEAM"
-msgstr "[null]"
+msgstr "RAGGIO DI ORICALCO"
 
 msgctxt "Body parts Aliens/KEY_AC_GUARDIANBEAM_PROTEAN_NAME_TEMP"
 msgid "PROTEAN MUTANE BEAM"
-msgstr "[null]"
+msgstr "RAGGIO DI MUTANO VOLATILE"
 
 msgctxt "Body parts Aliens/KEY_AC_LEG_CRYSTAL_GUARDIAN_DESCRIPTION_TEMP"
 msgid "Limb made of Living Crystal"
-msgstr "[null]"
+msgstr "Un arto fatto di cristallo vivo"
 
 msgctxt "Body parts Aliens/KEY_AC_LEG_ORICHALCUM_GUARDIAN_DESCRIPTION_TEMP"
 msgid "Limb made of Orichalcum"
-msgstr "[null]"
+msgstr "Un arto fatto di oricalco"
 
 msgctxt "Body parts Aliens/KEY_AC_LEG_PROTEAN_GUARDIAN_DESCRIPTION_TEMP"
 msgid "Limb powered by Protean Mutane Gas"
-msgstr "[null]"
+msgstr "Un arto alimentato da gas mutano volatile"
 
 msgctxt "Body parts Aliens/KEY_AC_TORSO_CRYSTAL_GUARDIAN_DESCRIPTION_TEMP"
 msgid "Ancient Guardian made of Living Crystal"
-msgstr "[null]"
+msgstr "Un antico guardiano fatto di cristallo vivo"
 
 msgctxt "Body parts Aliens/KEY_AC_TORSO_ORICHALCUM_GUARDIAN_DESCRIPTION_TEMP"
 msgid "Ancient Guardian made of Orichalcum"
-msgstr "[null]"
+msgstr "Un antico guardiano fatto di oricalco"
 
 msgctxt "Body parts Aliens/KEY_AC_TORSO_PROTEAN_GUARDIAN_DESCRIPTION_TEMP"
 msgid "Ancient Guardian powered by Protean Mutane Gas"
-msgstr "[null]"
+msgstr "Un antico guardiano alimentato da gas mutano volatile"
 
 msgctxt "Body parts Aliens/KEY_AC_GUARDIANBEAM_CRYSTAL_DESCRIPTION_TEMP"
 msgid "A devastating Living Crystal powered beam"
-msgstr "[null]"
+msgstr "Un raggio devastante alimentato da cristallo vivo"
 
 msgctxt "Body parts Aliens/KEY_AC_GUARDIANBEAM_ORICHALCUM_DESCRIPTION_TEMP"
 msgid "A devastating Orichalcum powered beam"
-msgstr "[null]"
+msgstr "Un raggio devastante alimentato da oricalco"
 
 msgctxt "Body parts Aliens/KEY_AC_GUARDIANBEAM_PROTEAN_DESCRIPTION_TEMP"
 msgid "A devastating Protean Mutane powered beam"
-msgstr "[null]"
+msgstr "Un raggio devastante alimentato da mutano volatile"
 
 msgctxt "Body parts Aliens/KEY_WORM_ACID_TORSO_NAME"
 msgid "ACIDWORM TORSO"
-msgstr "[null]"
+msgstr "BUSTO DI VERME ACIDO"
 
 msgctxt "Body parts Aliens/KEY_WORM_ACID_TORSO_DESCRIPTION"
 msgid "Explodes and damages nearby enemies with acid"
-msgstr "[null]"
+msgstr "Esplode infliggendo danni acidi ai nemici vicini."
 
 msgctxt "Body parts Aliens/KEY_WORM_FIRE_TORSO_NAME"
 msgid "FIREWORM TORSO"
-msgstr "[null]"
+msgstr "BUSTO DI VERME DI FUOCO"
 
 msgctxt "Body parts Aliens/KEY_WORM_FIRE_TORSO_DESCRIPTION"
 msgid "Explodes and sets nearby enemies ablaze"
-msgstr "[null]"
+msgstr "Esplode incendiando i nemici vicini."
 
 msgctxt "Body parts Aliens/KEY_WORM_POISON_TORSO_NAME"
 msgid "POISONWORM TORSO"
-msgstr "[null]"
+msgstr "BUSTO DI VERME VELENOSO"
 
 msgctxt "Body parts Aliens/KEY_WORM_POISON_TORSO_DESCRIPTION"
 msgid "Explodes affects neaby enemies with poison"
-msgstr "[null]"
+msgstr "Esplode infliggendo danni da veleno ai nemici vicini."
+
+msgctxt "Body parts Aliens/KEY_AC_LEG_HOPLITE_NAME"
+msgid "GUARDIAN LEG"
+msgstr "GAMBA DI GUARDIANO"
 
 msgctxt "Equipment/KEY_AMMO_AN_ACID_HANDGUN_DESCRIPTION"
 msgid "Disciples of Anu Acid Handgun Magazine"
