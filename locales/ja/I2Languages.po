@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2021-10-04 13:34+0000\n"
+"PO-Revision-Date: 2021-10-04 13:39+0000\n"
 "Last-Translator: higema <ltdhyndsh@yahoo.co.jp>\n"
 "Language-Team: \n"
 "Language: ja\n"
@@ -2862,26 +2862,23 @@ msgid ""
 "dissected Pandorans."
 msgstr ""
 
-#, fuzzy
 #| msgctxt "Abilities/KEY_CLOSEQUARTERSSPECIALIST_PERSONALTRACK_NAME"
 #| msgid "CLOSE QUARTERS SPECIALIST"
 msgctxt "DLC4 Hypnos/KEY_BUY_MUTOID_SPECIALIZATION_HEADING"
 msgid "CHOOSE MUTOID SPECIALIZATION"
-msgstr "クローズクォーターズ・スペシャリスト"
+msgstr "ミュートイドの分化を選択"
 
-#, fuzzy
 #| msgctxt "DLC 3 - Behemoth/KEY_ALN_CORRUPTION_NODE_NAME"
 #| msgid "CORRUPTION NODE"
 msgctxt "DLC4 Hypnos/KEY_DLC_CORRUPTED_HORIZONS"
 msgid "CORRUPTED HORIZONS"
-msgstr "コラプションノード"
+msgstr ""
 
-#, fuzzy
 #| msgctxt "DLC2 Necronomicon/KEY_DEPLOYGUARDIAN_POPUP_LISTCOSTS"
 #| msgid "DEPLOYMENT COST"
 msgctxt "DLC4 Hypnos/KEY_RECRUITS_DEPLOYMENT_TITLE"
 msgid "DEPLOYMENT"
-msgstr "配置コスト"
+msgstr "配置"
 
 msgctxt "DLC4 Hypnos/KEY_RECRUITS_SCREEN_DESCRIPTION"
 msgid ""
@@ -2893,19 +2890,17 @@ msgctxt "DLC4 Hypnos/KEY_BASE_RECRUITS_TRAIN_ACTION"
 msgid "CREATE"
 msgstr ""
 
-#, fuzzy
 #| msgctxt "Controls/KEY_CONTROLS_WARNING_CONFLICT_CONFIRMATION"
 #| msgid "Are you sure you want to reassign it for \"\"{0}\"\"?"
 msgctxt "DLC4 Hypnos/KEY_BASE_RECRUITS_TRAIN_MUTOID_CONFIRMATION"
 msgid "Are you sure you want to create this mutoid for {0}?"
-msgstr "\"\"{0}\"\"に本当に再配置してもよろしいですか？"
+msgstr "ミュータジェン{0}でこのミュートイドを本当に製造しますか？"
 
-#, fuzzy
 #| msgctxt "Danforth/KEY_BASE_RECRUIT_DEPLOYMENT"
 #| msgid "{0} has been recruited and deployed to base {1}"
 msgctxt "DLC4 Hypnos/KEY_BASE_RECRUITS_BUY_MUTOID_NOTIFICATION"
 msgid "{0} {1} has been created and deployed to {2}"
-msgstr "{0}が雇用され{1}基地に配備された。"
+msgstr "{0}{1}が製造され{2}に配備された。"
 
 #, fuzzy
 #| msgctxt "Abilities/KEY_CLOSEQUARTERSSPECIALIST_PERSONALTRACK_NAME"
