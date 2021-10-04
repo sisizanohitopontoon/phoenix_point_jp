@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2021-10-04 13:19+0000\n"
+"PO-Revision-Date: 2021-10-04 13:25+0000\n"
 "Last-Translator: higema <ltdhyndsh@yahoo.co.jp>\n"
 "Language-Team: \n"
 "Language: ja\n"
@@ -2376,58 +2376,51 @@ msgctxt "DLC4 Hypnos/KEY_CURE_CORRUPTION_DIALOG_TITLE"
 msgid "CURE"
 msgstr ""
 
-#, fuzzy
 #| msgctxt "Missions/KEY_MISSION_OUTCOME_TEAM_TIRED"
 #| msgid "Your soldiers have lost {0} Stamina."
 msgctxt "DLC4 Hypnos/KEY_CURE_CORRUPTION_DIALOG_DESCRIPTION"
 msgid "Your soldier has {0}% Corruption damage."
-msgstr "兵士達が{0}スタミナを失った。"
+msgstr "兵士は{0}%汚染されています。"
 
 msgctxt "DLC4 Hypnos/KEY_CURE_CORRUPTION_DIALOG_BOTTOM"
 msgid "Do you want to cure them now?"
 msgstr ""
 
-#, fuzzy
 #| msgctxt "Blood Titanium/KEY_DISPLAY_ACTION_COST"
 #| msgid "ACTION COST:"
 msgctxt "DLC4 Hypnos/KEY_CURE_CORRUPTION_DIALOG_COST"
 msgid "CURING COST"
-msgstr "アクションコスト:"
+msgstr "治療コスト"
 
-#, fuzzy
 #| msgctxt "Arkham/KEY_ITEM_STAT_HEAL"
 #| msgid "HEAL"
 msgctxt "DLC4 Hypnos/KEY_HEAL_MUTOID_BUTTON"
 msgid "HEAL"
-msgstr "回復"
+msgstr "治癒"
 
-#, fuzzy
 #| msgctxt "Mutation Screen/KEY_MUTATION_LOCATION_HEAD"
 #| msgid "HEAD MUTATION"
 msgctxt "DLC4 Hypnos/KEY_HEAL_MUTOID_DIALOG_TITLE"
 msgid "HEAL MUTOID"
-msgstr "ヘッド ミューテーション"
+msgstr "ミュートイドの治癒"
 
-#, fuzzy
 #| msgctxt "Missions/KEY_MISSION_OUTCOME_SOLDIER_INJURED"
 #| msgid "{0} has suffered {1} Damage."
 msgctxt "DLC4 Hypnos/KEY_HEAL_MUTOID_DIALOG_DESCRIPTION"
 msgid "This Mutoid has suffered {0}% damage."
-msgstr "{0}は{1}のダメージを受けた。"
+msgstr "このミュートイドは{0}%のダメージを受けています。"
 
-#, fuzzy
 #| msgctxt "Cthulhu/KEY_BASE_PROMPT_KILL_CAPTURED_ALIEN"
 #| msgid "Are you sure you want to kill the Pandoran {0}?"
 msgctxt "DLC4 Hypnos/KEY_HEAL_MUTOID_DIALOG_BOTTOM"
 msgid "Do you want to heal them now?"
-msgstr "本当にこのパンドラン・{0}を殺処分しますか？"
+msgstr "ミュートイド達を治癒しますか?"
 
-#, fuzzy
 #| msgctxt "Blood Titanium/KEY_DISPLAY_ACTION_COST"
 #| msgid "ACTION COST:"
 msgctxt "DLC4 Hypnos/KEY_HEAL_MUTOID_DIALOG_COST"
 msgid "HEALING COST"
-msgstr "アクションコスト:"
+msgstr "回復コスト"
 
 #, fuzzy
 #| msgctxt "Character Progression/KEY_GEOSCAPE_ABILITY_NO_XP"
