@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2021-10-04 14:04+0000\n"
+"PO-Revision-Date: 2021-10-04 14:09+0000\n"
 "Last-Translator: higema <ltdhyndsh@yahoo.co.jp>\n"
 "Language-Team: \n"
 "Language: ja\n"
@@ -3046,7 +3046,7 @@ msgstr "共有された研究"
 #| msgid "RESEARCH LAB"
 msgctxt "DLC4 Hypnos/KEY_DIPSHARESCREEN_RESEARCH_DETAILS"
 msgid "RESEARCH DETAILS"
-msgstr "研究内容"
+msgstr "研究の内容"
 
 msgctxt "DLC4 Hypnos/KEY_DIPSHARESCREEN_HINT_ANU"
 msgid "Go to the research tab to view research projects from the Disciples of Anu"
@@ -3088,12 +3088,11 @@ msgctxt "DLC4 Hypnos/KEY_DIPSHARESCREEN_NJ_2"
 msgid "New Jericho have shared some more of their key research projects with us, in anticipation of further cooperation in the near future."
 msgstr ""
 
-#, fuzzy
 #| msgctxt "Cinematic Subtitles/KEY_NJ_ENDING3_02"
 #| msgid "New Jericho and the Phoenix Project in alliance, fighting to save humanity, "
 msgctxt "DLC4 Hypnos/KEY_DIPSHARESCREEN_NJ_3"
 msgid "New Jericho see a common cause with the Phoenix Project, and are will to share more research with us."
-msgstr "ニュージェリコとフェニックスプロジェクトは同盟を結び、[LF]人類を守るために戦いを続け"
+msgstr ""
 
 msgctxt "DLC4 Hypnos/KEY_DIPSHARESCREEN_NJ_4"
 msgid "Now that Phoenix is aligned with New Jericho, all current and future research will be shared with the Phoenix Project."
@@ -3151,37 +3150,33 @@ msgctxt "DLC4 Hypnos/KEY_HACKING_STATUS_NAME"
 msgid "HACKING"
 msgstr ""
 
-#, fuzzy
 #| msgctxt "DLC 3 - Behemoth/KEY_DLC3_TAC_INJECTOR_STATUS_DESCRIPTION"
 #| msgid "This operative is in the process of injecting the Behemoth with our virophage weapon. They won't be able to perform any other tasks for 2 turns."
 msgctxt "DLC4 Hypnos/KEY_HACKING_STATUS_DESCRIPTION"
 msgid "This operative is in the process of hacking into a terminal. They won't be able to perform any other tasks for 2 turns."
-msgstr "この職員はベヒモスにバイロファージ兵器を注入する最中にある。 2ターンのあいだ他の仕事を一切行えない。"
+msgstr ""
 
-#, fuzzy
 #| msgctxt "Abilities/KEY_MIST_BREATHER_NAME"
 #| msgid "BREATHE MIST"
 msgctxt "DLC4 Hypnos/KEY_MIST_REPELLING_ABILITY_NAME"
 msgid "REPELLING MIST"
-msgstr "ミスト吸入"
+msgstr "リぺリング・ミスト"
 
-#, fuzzy
 #| msgctxt "Abilities/KEY_MIST_BREATHER_DESCRIPTION"
 #| msgid "Consume all mist within a 3 tile radius. Each 2 mist tiles consumed restores 1 Will Point."
 msgctxt "DLC4 Hypnos/KEY_MIST_REPELLING_ABILITY_DESCRIPTION"
 msgid "Remove all mist within a 2 tile radius while moving."
-msgstr "半径3タイル以内の全てのミストを吸収する。 2タイルぶんのミスト毎にウィルポイントが1回復する。"
+msgstr "移動中にある半径2タイル以内のミストをすべて取り除く。"
 
 msgctxt "DLC4 Hypnos/KEY_CINEMATIC_BT_CUTSCENE_1"
 msgid "(BT) Echo from the Past"
 msgstr ""
 
-#, fuzzy
 #| msgctxt "Lore/KEY_LORE_TITLE_FORSAKEN"
 #| msgid "The Forsaken"
 msgctxt "DLC4 Hypnos/KEY_CINEMATIC_BT_CUTSCENE_2"
 msgid "(BT) An Enemy Forsaken"
-msgstr "フォセイクン"
+msgstr ""
 
 msgctxt "DLC4 Hypnos/KEY_CINEMATIC_BT_CUTSCENE_3"
 msgid "(BT) Secret Alliance"
@@ -3195,14 +3190,12 @@ msgctxt "DLC4 Hypnos/KEY_CINEMATIC_BT_CUTSCENE_5"
 msgid "(BT) Final Act"
 msgstr ""
 
-#, fuzzy
 #| msgctxt "Diplomacy and Factions/KEY_DIPLOMACY_ANU"
 #| msgid "The Exalted"
 msgctxt "DLC4 Hypnos/KEY_CINEMATIC_DA_ENDING_CUTSCENE"
 msgid "World of the Exalted"
-msgstr "イグザルティド"
+msgstr ""
 
-#, fuzzy
 #| msgctxt "Diplomacy and Factions/KEY_FACTION_NAME_ANU"
 #| msgid "Disciples of Anu"
 msgctxt "DLC4 Hypnos/KEY_CINEMATIC_DA_INTRO_CUTSCENE"
@@ -3237,41 +3230,37 @@ msgctxt "DLC4 Hypnos/KEY_CINEMATIC_GAME_INTRO_CUTSCENE"
 msgid "The Hottest Year"
 msgstr ""
 
-#, fuzzy
 #| msgctxt "DLC 3 - Behemoth/KEY_ALN_CORRUPTION_NODE_DESCRIPTION"
 #| msgid "Corruption Node"
 msgctxt "DLC4 Hypnos/KEY_CINEMATIC_HYPNOS_CUTSCENE1DEF"
 msgid "(CH) Corruption Breach"
-msgstr "汚染の結節"
+msgstr ""
 
 msgctxt "DLC4 Hypnos/KEY_CINEMATIC_HYPNOS_CUTSCENE2DEF"
 msgid "(CH) Gene Ethics"
 msgstr ""
 
-#, fuzzy
 #| msgctxt "PH_Localization/KEY_VEHICLES_MODULE_SOLDIERS_TT"
 #| msgid "Soldiers on board"
 msgctxt "DLC4 Hypnos/KEY_CINEMATIC_HYPNOS_CUTSCENE3DEF"
 msgid "(CH) Soldiers in Vials"
-msgstr "搭乗中の兵士"
+msgstr ""
 
-#, fuzzy
 #| msgctxt "Lore/KEY_LORE_TITLE_PURE"
 #| msgid "The Pure"
 msgctxt "DLC4 Hypnos/KEY_CINEMATIC_HYPNOS_CUTSCENE4DEF"
 msgid "(CH) The Cure"
-msgstr "ピュア"
+msgstr ""
 
 msgctxt "DLC4 Hypnos/KEY_CINEMATIC_LOA_CUTSCENE_0"
 msgid "(LoA) Helena"
 msgstr ""
 
-#, fuzzy
 #| msgctxt "DLC2 Necronomicon/KEY_AC_ANTEDILUVIAN_RUIN"
 #| msgid "Antediluvian Ruin"
 msgctxt "DLC4 Hypnos/KEY_CINEMATIC_LOA_CUTSCENE_1"
 msgid "(LoA) The Antedeluvian Link"
-msgstr "古代人の遺跡"
+msgstr ""
 
 msgctxt "DLC4 Hypnos/KEY_CINEMATIC_LOA_CUTSCENE_2"
 msgid "(LoA) The Adamantium Forge"
@@ -3289,19 +3278,17 @@ msgctxt "DLC4 Hypnos/KEY_CINEMATIC_LOA_CUTSCENE_5"
 msgid "(LoA) The Ancients' Solution"
 msgstr ""
 
-#, fuzzy
 #| msgctxt "Diplomacy and Factions/KEY_DIPLOMACY_NJ"
 #| msgid "Tobias West"
 msgctxt "DLC4 Hypnos/KEY_CINEMATIC_NJ_ENDING_CUTSCENE"
 msgid "World of Tobias West"
-msgstr "トビアス ウェスト"
+msgstr ""
 
-#, fuzzy
 #| msgctxt "Diplomacy and Factions/KEY_FACTION_NAME_NEW_JERICHO"
 #| msgid "New Jericho"
 msgctxt "DLC4 Hypnos/KEY_CINEMATIC_NJ_INTRO_CUTSCENE"
 msgid "New Jericho"
-msgstr "ニュージェリコ"
+msgstr ""
 
 msgctxt "DLC4 Hypnos/KEY_CINEMATIC_PP_ENDING_CUTSCENE"
 msgid "World of the Phoenix"
@@ -3311,12 +3298,11 @@ msgctxt "DLC4 Hypnos/KEY_CINEMATIC_PP_ENDING_PALACE_DEFEAT_CUTSCENE"
 msgid "Humanity's Fall"
 msgstr ""
 
-#, fuzzy
 #| msgctxt "Lore/KEY_LORE_TITLE_PHOENIX_PROJECT"
 #| msgid "The Phoenix Project"
 msgctxt "DLC4 Hypnos/KEY_CINEMATIC_PP_INTRO_CUTSCENE"
 msgid "The Phoenix Initiative"
-msgstr "フェニックスプロジェクト"
+msgstr ""
 
 msgctxt "DLC4 Hypnos/KEY_CINEMATIC_PP_SYMES_ANTARCTIC_CUTSCENE"
 msgid "The Antartic Mission"
@@ -3334,53 +3320,46 @@ msgctxt "DLC4 Hypnos/KEY_CINEMATIC_PP_SYMES_OGLETHORPE_CUTSCENE"
 msgid "The Oglethorpe Secret"
 msgstr ""
 
-#, fuzzy
 #| msgctxt "Diplomacy and Factions/KEY_FACTION_NAME_ALIEN"
 #| msgid "Pandorans"
 msgctxt "DLC4 Hypnos/KEY_CINEMATIC_PP_SYMES_PANDORAVIRUS_CUTSCENE"
 msgid "The Pandoravirus"
-msgstr "パンドラン"
+msgstr "パンドラウィルス"
 
-#, fuzzy
 #| msgctxt "Lore/KEY_LORE_TITLE_PHOENIX_PROJECT"
 #| msgid "The Phoenix Project"
 msgctxt "DLC4 Hypnos/KEY_CINEMATIC_PP_SYMES_PHOENIXFILES_CUTSCENE"
 msgid "The Phoenix Archives"
-msgstr "フェニックスプロジェクト"
+msgstr "フェニックス アーカイブス"
 
 msgctxt "DLC4 Hypnos/KEY_CINEMATIC_PP_SYMES_RETREAT_CUTSCENE"
 msgid "Symes' Retreat"
 msgstr ""
 
-#, fuzzy
 #| msgctxt "PH_Localization/KEY_RESEARCH_TAB_SYNEDRION_TT"
 #| msgid "Synedrion research"
 msgctxt "DLC4 Hypnos/KEY_CINEMATIC_PP_SYMES_SYBERIA_CUTSCENE"
 msgid "The Siberian Research"
-msgstr "シネドリオン リサーチ"
+msgstr "シベリアの研究"
 
-#, fuzzy
 #| msgctxt "Body parts Aliens/KEY_YUGGOTH_CARAPACE_DESCRIPTION_TEMP"
 #| msgid "Protects the brain of the Yuggothian Entity"
 msgctxt "DLC4 Hypnos/KEY_CINEMATIC_PP_SYMES_YUGGOTHIANENTITY_CUTSCENE"
 msgid "The Yuggothian Entity"
-msgstr "ユゴシアン・エンティティの脳を保護する"
+msgstr "ユゴシアン エンティティ"
 
-#, fuzzy
 #| msgctxt "PH_Localization/KEY_RESEARCH_TAB_SYNEDRION_TT"
 #| msgid "Synedrion research"
 msgctxt "DLC4 Hypnos/KEY_CINEMATIC_SYN_ENDING_PARLIAMENT_CUTSCENE"
 msgid "Synedrion's Brave New World"
-msgstr "シネドリオン リサーチ"
+msgstr ""
 
-#, fuzzy
 #| msgctxt "Equipment/KEY_SY_ASSAULT_LEGS_DESCRIPTION"
 #| msgid "Synedrion Assault Leg Armor"
 msgctxt "DLC4 Hypnos/KEY_CINEMATIC_SYN_ENDING_TERRAFORM_CUTSCENE"
 msgid "Synedrion's Just New World"
-msgstr "シネドリオン アサルト レッグアーマー"
+msgstr ""
 
-#, fuzzy
 #| msgctxt "Diplomacy and Factions/KEY_FACTION_NAME_SYNEDRION"
 #| msgid "Synedrion"
 msgctxt "DLC4 Hypnos/KEY_CINEMATIC_SYN_INTRO_CUTSCENE"
