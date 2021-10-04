@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2021-10-04 13:25+0000\n"
+"PO-Revision-Date: 2021-10-04 13:30+0000\n"
 "Last-Translator: higema <ltdhyndsh@yahoo.co.jp>\n"
 "Language-Team: \n"
 "Language: ja\n"
@@ -2422,26 +2422,23 @@ msgctxt "DLC4 Hypnos/KEY_HEAL_MUTOID_DIALOG_COST"
 msgid "HEALING COST"
 msgstr "回復コスト"
 
-#, fuzzy
 #| msgctxt "Character Progression/KEY_GEOSCAPE_ABILITY_NO_XP"
 #| msgid "YOU DON'T HAVE ENOUGH SKILL POINTS TO ACQUIRE THIS ABILITY"
 msgctxt "DLC4 Hypnos/KEY_GEOSCAPE_ABILITY_NO_MUTAGEN"
 msgid "YOU DON'T HAVE ENOUGH MUTAGENS TO ACQUIRE THIS ABILITY"
-msgstr "このアビリティを獲得するためのスキルポイントが足りていません"
+msgstr "このアビリティを獲得するためのミュータジェンが不足しています"
 
-#, fuzzy
 #| msgctxt "Cthulhu/KEY_SY_ASSAULT_NAME"
 #| msgid "SYNEDRION ASSAULT"
 msgctxt "DLC4 Hypnos/KEY_SYNEDRION_MUTOID_NAME"
 msgid "SYNEDRION MUTOID"
-msgstr "シネドリオン アサルト"
+msgstr "シネドリオン ミュートイド"
 
-#, fuzzy
 #| msgctxt "Game Over/KEY_MISSION_TYPE_INDEPENDENT"
 #| msgid "INDEPENDENT HAVEN MISSIONS"
 msgctxt "DLC4 Hypnos/KEY_INDEPENDENT_MUTOID_NAME"
 msgid "INDEPENDENT MUTOID"
-msgstr "独立ヘイヴンミッション"
+msgstr "独立勢力 ミュートイド"
 
 msgctxt "DLC4 Hypnos/KEY_CH_ONE_SCENE_1_1"
 msgid "Hello? Anyone?"
@@ -2455,12 +2452,11 @@ msgctxt "DLC4 Hypnos/KEY_CH_ONE_SCENE_1_3"
 msgid "I repeat. We need immediate evacuation."
 msgstr ""
 
-#, fuzzy
 #| msgctxt "Diplomacy and Factions/KEY_DIPLOMACY_DEATH"
 #| msgid "The faction has been annihilated"
 msgctxt "DLC4 Hypnos/KEY_CH_ONE_SCENE_2_1"
 msgid "The facility has been compromised."
-msgstr "この派閥は全滅しています"
+msgstr ""
 
 msgctxt "DLC4 Hypnos/KEY_CH_ONE_SCENE_2_2"
 msgid "Specimen two escaped containment chamber and is roaming throughout the lab!"
@@ -2490,12 +2486,11 @@ msgctxt "DLC4 Hypnos/KEY_CH_TWO_SCENE_1_1"
 msgid "Phoenix point, this is research team one. Area secure."
 msgstr ""
 
-#, fuzzy
 #| msgctxt "Tactical/KEY_MESSAGE_NO_LINE_OF_SIGHT"
 #| msgid "No direct line of sight"
 msgctxt "DLC4 Hypnos/KEY_CH_TWO_SCENE_1_2"
 msgid "No hostiles in sight."
-msgstr "射線が通っていない"
+msgstr ""
 
 msgctxt "DLC4 Hypnos/KEY_CH_TWO_SCENE_1_3"
 msgid "We're heading into the facility this creature came from."
@@ -2601,12 +2596,11 @@ msgctxt "DLC4 Hypnos/KEY_CH_FOUR_SCENE_1_3"
 msgid "which the first Acheron had infected and obtained a clean sample of the corruption strain."
 msgstr ""
 
-#, fuzzy
 #| msgctxt "Roster Screen/KEY_GEOSCAPE_VEHICLES_TT"
 #| msgid "All vehicles in possession of the Phoenix project"
 msgctxt "DLC4 Hypnos/KEY_CH_FOUR_SCENE_2_1"
 msgid "It wasn't easy. The processing power of the entire Phoenix project"
-msgstr "フェニックスプロジェクトが所有するすべての車両"
+msgstr ""
 
 msgctxt "DLC4 Hypnos/KEY_CH_FOUR_SCENE_2_2"
 msgid "went into analysing a strain to find a cure, but we succeeded."
@@ -2644,23 +2638,21 @@ msgctxt "DLC4 Hypnos/KEY_CH_FOUR_SCENE_5_3"
 msgid "Humanity won this battle, but the larger war rages on…"
 msgstr ""
 
-#, fuzzy
 #| msgctxt "Character Progression/KEY_PROGRESSION_PHOENIX_SKILL_POINTS"
 #| msgid "PHOENIX SP"
 msgctxt "DLC4 Hypnos/KEY_PROGRESSION_PHOENIX_SKILLS_TITLE"
 msgid "PHOENIX SKILLS"
-msgstr "フェニックスSP"
+msgstr "フェニックススキル"
 
 msgctxt "DLC4 Hypnos/KEY_PROGRESSION_PHOENIX_SKILLS_DESCRIPTION"
 msgid "Pick a Phoenix skill from the available specializations"
 msgstr ""
 
-#, fuzzy
 #| msgctxt "General Tactical Hints/KEY_TAC_HINT_ENEMY_SCYLLA_NAME"
 #| msgid "PANDORAN - SCYLLA"
 msgctxt "DLC4 Hypnos/KEY_PROGRESSION_PANDORAN_SKILLS_TITLE"
 msgid "PANDORAN SKILLS"
-msgstr "パンドラン - スキュラ"
+msgstr "パンドランスキル"
 
 msgctxt "DLC4 Hypnos/KEY_PROGRESSION_PANDORAN_SKILLS_DESCRIPTION"
 msgid "Pick a Pandoran skill from those available"
@@ -2670,12 +2662,11 @@ msgctxt "DLC4 Hypnos/KEY_PROGRESSION_NO_AVAILABLE_PANDORAN_ SPECIALIZATION"
 msgid "RESEARCH A PANDORAN AUTOPSY TO PROCEED"
 msgstr ""
 
-#, fuzzy
 #| msgctxt "Danforth/KEY_RESOURCE_MUTAGENS_NAME"
 #| msgid "MUTAGEN PACK"
 msgctxt "DLC4 Hypnos/KEY_PROGRESSION_MUTAGEN_COST"
 msgid "MUTAGEN COST"
-msgstr "ミュータジェンパック"
+msgstr "ミュータジェンコスト"
 
 msgctxt "DLC4 Hypnos/KEY_PROGRESSION_SKILL_CANNOT_BE_LEARNED"
 msgid "ABILITY CANNOT BE ACQUIRED"
@@ -2685,23 +2676,21 @@ msgctxt "DLC4 Hypnos/KEY_INSPECT_SOLDIER_CORRUPTED"
 msgid "CLICK TO INSPECT"
 msgstr ""
 
-#, fuzzy
 #| msgctxt "DLC 3 - Behemoth/KEY_ALN_CORRUPTION_NODE_NAME"
 #| msgid "CORRUPTION NODE"
 msgctxt "DLC4 Hypnos/KEY_CORRUPTION_STATUS"
 msgid "CORRUPTION STATUS"
-msgstr "コラプションノード"
+msgstr "汚染ステータス"
 
 msgctxt "DLC4 Hypnos/KEY_GEOSCAPE_CLEAN_LAIR_MISSION_OBJECTIVE_TITLE"
 msgid "Obtain Corruption Sample from Lair"
 msgstr ""
 
-#, fuzzy
 #| msgctxt "Equipping Screen/KEY_ITEM_TYPE_TURRET"
 #| msgid "TURRET"
 msgctxt "DLC4 Hypnos/KEY_RESURRECT_NAME"
 msgid "RESURRECT"
-msgstr "タレット"
+msgstr "リザレクト"
 
 msgctxt "DLC4 Hypnos/KEY_RESURRECT_DESCRIPTION"
 msgid "Resurrect a single humanoid target as an Arthron or Triton"
@@ -2723,30 +2712,27 @@ msgctxt "DLC4 Hypnos/KEY_REDUCE_ENEMY_SPEED_DESCRIPTION"
 msgid "Reduce enemy Speed by 75% to all organic enemy targets within 10 tiles for 1 turn."
 msgstr ""
 
-#, fuzzy
 #| msgctxt "Character Status/KEY_STATUS_PARALYSED_NAME"
 #| msgid "PARALYZED"
 msgctxt "DLC4 Hypnos/KEY_PARALYZE_LIMB_NAME"
 msgid "PARALYZE LIMB"
-msgstr "完全麻痺"
+msgstr "パラライズ・リム"
 
 msgctxt "DLC4 Hypnos/KEY_PARALYZE_LIMB_DESCRIPTION"
 msgid "Disable target body part for 1 turn"
 msgstr ""
 
-#, fuzzy
 #| msgctxt "Abilities/KEY_CHIRON_LAUNCH_FIREWORM_NAME"
 #| msgid "LAUNCH FIREWORMS"
 msgctxt "DLC4 Hypnos/KEY_LAUNCH_FIREWORM_NAME"
 msgid "LAUNCH FIREWORM"
 msgstr "ファイアワーム迫撃"
 
-#, fuzzy
 #| msgctxt "Body parts Aliens/KEY_CHIRON_TORSO_FIREWORM_DESCRIPTION_TEMP"
 #| msgid "Launch 3 Fireworms at long range"
 msgctxt "DLC4 Hypnos/KEY_LAUNCH_FIREWORM_DESCRIPTION"
 msgid "Launch a Fireworm at a target area"
-msgstr "3体のファイアワームを長距離にわたり射出する"
+msgstr "ファイアワーム1体を目標位置に射出する"
 
 #, fuzzy
 #| msgctxt "Abilities/KEY_CHIRON_LAUNCH_POISONWORM_NAME"
@@ -2755,12 +2741,11 @@ msgctxt "DLC4 Hypnos/KEY_LAUNCH_POISONWORM_NAME"
 msgid "LAUNCH POISONWORM"
 msgstr "ポイズンワーム迫撃"
 
-#, fuzzy
 #| msgctxt "Body parts Aliens/KEY_CHIRON_TORSO_POISONWORM_DESCRIPTION_TEMP"
 #| msgid "Launch 3 Poisonworms at long range"
 msgctxt "DLC4 Hypnos/KEY_LAUNCH_POISONWORM_DESCRIPTION"
 msgid "Launch a Poisonworm at a target area"
-msgstr "3体のポイズンワームを長距離にわたって射出する"
+msgstr "ポイズンワーム1体を目標位置に射出する"
 
 #, fuzzy
 #| msgctxt "Abilities/KEY_CHIRON_LAUNCH_ACIDWORM_NAME"
