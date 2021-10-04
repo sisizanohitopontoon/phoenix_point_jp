@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2021-10-04 14:31+0000\n"
+"PO-Revision-Date: 2021-10-04 14:43+0000\n"
 "Last-Translator: higema <ltdhyndsh@yahoo.co.jp>\n"
 "Language-Team: \n"
 "Language: ja\n"
@@ -12008,27 +12008,25 @@ msgctxt "General Tactical Hints/KEY_TAC_HINT_MISSION_HAVENDEFENSE_CIVILIANS_NAME
 msgid "HAVEN DEFENSE MISSION - CIVILIAN RESCUE"
 msgstr "ヘイヴン防衛ミッション - 民間人救出"
 
-#, fuzzy
 #| msgctxt "General Tactical Hints/KEY_TAC_HINT_MISSION_HAVENDEFENSE_CIVILIANS_DESCRIPTION"
 #| msgid "Defeat all enemy forces, while ensuring that the civilians remain alive. Moving next to a civilian will allow you to control them and evacuate them from the battlefield."
 msgctxt "General Tactical Hints/KEY_TAC_HINT_MISSION_HAVENDEFENSE_CIVILIANS_DESCRIPTION"
 msgid ""
 "Defeat all enemy forces, while ensuring that the civilians remain alive. Moving next to a civilian will allow you to control them and evacuate them from the battlefield.[LF][LF]One surviving haven "
 "defender may volunteer to join Phoenix."
-msgstr "民間人の生存を確保しつつ、すべての敵勢力を倒してください。民間人の隣に移動すれば、彼らを操作し戦場から非難させることが可能になります。"
+msgstr "民間人の生存を確保しつつ、すべての敵勢力を倒してください。民間人の隣に移動すれば、彼らを操作し戦場から非難させることが可能になります。[LF]ヘイヴンの防衛兵が戦闘で生き残ると、そのうちの一名がフェニックスプロジェクトに加入する場合があります。"
 
 msgctxt "General Tactical Hints/KEY_TAC_HINT_MISSION_HAVENDEFENSE_STRUCTURES_NAME"
 msgid "HAVEN DEFENSE MISSION - STRUCTURE DEFENSE"
 msgstr "ヘイヴン防衛ミッション - 構造物防衛"
 
-#, fuzzy
 #| msgctxt "General Tactical Hints/KEY_TAC_HINT_MISSION_HAVENDEFENSE_STRUCTURES_DESCRIPTION"
 #| msgid "Defeat all enemy forces before they damage the key structures of the Haven. You can take control of haven defenders by moving next to them, if you wish."
 msgctxt "General Tactical Hints/KEY_TAC_HINT_MISSION_HAVENDEFENSE_STRUCTURES_DESCRIPTION"
 msgid ""
 "Defeat all enemy forces before they damage the key structures of the Haven. You can take control of haven defenders by moving next to them, if you wish.[LF][LF]One surviving haven defender may "
 "volunteer to join Phoenix."
-msgstr "ヘイヴンの重要構造物がダメージを受ける前にすべての敵勢力を倒してください。望むのであれば、ヘイヴン防衛兵達の隣に移動することによって彼らを操作することも可能です。"
+msgstr "ヘイヴンの重要構造物がダメージを受ける前にすべての敵勢力を倒してください。望むのであれば、ヘイヴン防衛兵達の隣に移動することによって彼らを操作することも可能です。[LF]ヘイヴンの防衛兵が戦闘で生き残ると、そのうちの一名がフェニックスプロジェクトに加入する場合があります。"
 
 msgctxt "General Tactical Hints/KEY_TAC_HINT_MISSION_BASEDEFENSE_NAME"
 msgid "BASE DEFENSE MISSION"
@@ -12084,12 +12082,11 @@ msgctxt "General Tactical Hints/KEY_TAC_HINT_MISSION_STEAL_RESEARCH_NAME"
 msgid "STEAL RESEARCH MISSION"
 msgstr "研究強奪ミッション"
 
-#, fuzzy
 #| msgctxt "General Tactical Hints/KEY_TAC_HINT_MISSION_STEAL_RESEARCH_DESCRIPTION"
 #| msgid "Get a soldier to the terminals, and activate the OBJECTIVE ability to collect any available research."
 msgctxt "General Tactical Hints/KEY_TAC_HINT_MISSION_STEAL_RESEARCH_DESCRIPTION"
 msgid "Get soldiers to 3 different terminals and activate the HACK ability, then evacuate your squad."
-msgstr "利用可能な研究の回収のため、兵士をターミナルにたどり着かせて「目標」アビリティを実行してください。"
+msgstr "兵士を三つのターミナルに向かわせてハッキングを行い、その後に部隊を退避させてください。"
 
 msgctxt "General Tactical Hints/KEY_TAC_HINT_MISSION_STEAL_AIRCRAFT_NAME"
 msgid "STEAL AIRCRAFT MISSION"
@@ -12711,12 +12708,11 @@ msgid ""
 msgstr ""
 "フェニックス組織の活動範囲と実効性を向上させるには、さらなる航空機が必要となります。少人数の部隊または車両を載せた航空機は探索に利用できます。２部隊以上のフルメンバー戦闘部隊を違う大陸に備えておけば、ミッションに参加する能力は向上するでしょう。さらに航空機を手に入れる方法は二種類あります。[LF][LF]製造:航空機の製造には時間がかかります。ですので基地全体で３つ以上の製造プラントと潤沢な資源がある時に実行すべきです。[LF][LF]鹵獲:他の航空機を手に入れる一番の近道が鹵獲です。部隊と他派閥の航空機とが同じ場所にいなければなりません。その条件を満たせば、地点メニューまたはヘイヴン情報から「航空機を鹵獲する」ミッションを選択できます。鹵獲はその航空機を所有している派閥の反感を買うことに繋がります。"
 
-#, fuzzy
 #| msgctxt "Character Progression/KEY_PROGRESSION_PHOENIX_SKILL_POINTS"
 #| msgid "PHOENIX SP"
 msgctxt "Geoscape Hints/KEY_GEO_HINT_PHOENIX_QUEST_LINE_NAME"
 msgid "THE PHOENIX PATH"
-msgstr "フェニックスSP"
+msgstr "フェニックスの辿る道のり"
 
 msgctxt "Geoscape Hints/KEY_GEO_HINT_PHOENIX_QUEST_LINE_DESCRIPTION"
 msgid ""
@@ -12724,12 +12720,11 @@ msgid ""
 "crisis.[LF][LF]Taking this course is NOT THE ONLY PATH TO VICTORY."
 msgstr ""
 
-#, fuzzy
 #| msgctxt "Roster Screen/KEY_READY_ITEM_SLOTS_USED_TT"
 #| msgid "EMPTY READY ITEM SLOTS {0}/{1}"
 msgctxt "Geoscape Hints/KEY_GEO_HINT_NO_WEAPON_NOTIFICATION_NAME"
 msgid "EMPTY READY SLOTS"
-msgstr "空のレディアイテムスロット {0}/{1}"
+msgstr "空きになっているレディスロット "
 
 msgctxt "Geoscape Hints/KEY_GEO_HINT_NO_WEAPON_NOTIFICATION_DESCRIPTION"
 msgid ""
@@ -12737,12 +12732,11 @@ msgid ""
 "deploying them for their next mission.[LF][LF]The operative will be able to equip items found on the battlefield or carried in friendly soldiers' inventories."
 msgstr ""
 
-#, fuzzy
 #| msgctxt "Missions/KEY_MISSION_AVAILABLE"
 #| msgid "MISSION AVAILABLE"
 msgctxt "Geoscape Hints/KEY_GEO_HINT_CYBERNETICS_LAB_BUILT_NAME"
 msgid "AUGMENTATION NOW AVAILABLE"
-msgstr "ミッション可能"
+msgstr "オーグメンテーションが可能になりました"
 
 msgctxt "Geoscape Hints/KEY_GEO_HINT_CYBERNETICS_LAB_BUILT_DESCRIPTION"
 msgid ""
@@ -12750,12 +12744,11 @@ msgid ""
 "the PERSONNEL tab, select EDIT UNIT and then select AUGMENT."
 msgstr ""
 
-#, fuzzy
 #| msgctxt "Objectives/KEY_OBJECTIVE_TUTORIAL2_HEAL"
 #| msgid "HEAL SOLDIER"
 msgctxt "Geoscape Hints/KEY_GEO_HINT_AUGMENTATION_SCREEN_NAME"
 msgid "AUGMENTING A SOLDIER"
-msgstr "兵士を治療する"
+msgstr "兵士にオーグメントを施す"
 
 msgctxt "Geoscape Hints/KEY_GEO_HINT_AUGMENTATION_SCREEN_DESCRIPTION"
 msgid ""
@@ -12764,12 +12757,11 @@ msgid ""
 "PARALYSIS. Damaged cybernetics CAN BE REPAIRED after battle at the expense of Tech and Materials. "
 msgstr ""
 
-#, fuzzy
 #| msgctxt "Missions/KEY_MISSION_AVAILABLE"
 #| msgid "MISSION AVAILABLE"
 msgctxt "Geoscape Hints/KEY_GEO_HINT_MUTATION_LAB_BUILT_NAME"
 msgid "MUTATION NOW AVAILABLE"
-msgstr "ミッション可能"
+msgstr "変異が可能になりました"
 
 msgctxt "Geoscape Hints/KEY_GEO_HINT_MUTATION_LAB_BUILT_DESCRIPTION"
 msgid ""
@@ -12777,12 +12769,11 @@ msgid ""
 " navigate to the PERSONNEL tab, select EDIT UNIT and then select MUTATE."
 msgstr ""
 
-#, fuzzy
 #| msgctxt "Geoscape/KEY_RECRUIT_SOLDIER_ABILITY_NAME"
 #| msgid "RECRUIT SOLDIER"
 msgctxt "Geoscape Hints/KEY_GEO_HINT_MUTATION_SCREEN_NAME"
 msgid "MUTATING A SOLDIER"
-msgstr "兵士を雇用"
+msgstr "兵士を変異させる"
 
 msgctxt "Geoscape Hints/KEY_GEO_HINT_MUTATION_SCREEN_DESCRIPTION"
 msgid ""
@@ -15317,19 +15308,17 @@ msgctxt "Controls/KEY_CONTROLS_TACTICAL_DPAD_DOWN"
 msgid "ZOOM OUT"
 msgstr "ズームアウト"
 
-#, fuzzy
 #| msgctxt "Controls/KEY_CONTROLS_TACTICAL_DPAD_LEFT"
 #| msgid "UNIT INFO[LF]SELECT ACTION LEFT"
 msgctxt "Controls/KEY_CONTROLS_TACTICAL_DPAD_RIGHT"
 msgid "UNIT INFO[LF]SELECT ACTION RIGHT"
-msgstr "ユニット情報[LF]左のアクションを選択"
+msgstr "ユニット情報[LF]右のアクションを選択"
 
-#, fuzzy
 #| msgctxt "Controls/KEY_CONTROLS_TACTICAL_DPAD_RIGHT"
 #| msgid "INVENTORY[LF]SELECT ACTION RIGHT"
 msgctxt "Controls/KEY_CONTROLS_TACTICAL_DPAD_LEFT"
 msgid "INVENTORY[LF]SELECT ACTION LEFT"
-msgstr "インベントリ[LF]右のアクションを選択"
+msgstr "インベントリ[LF]左のアクションを選択"
 
 msgctxt "Controls/KEY_CONTROLS_TACTICAL_BACK"
 msgid "OPEN GAME MENU"
@@ -16928,21 +16917,19 @@ msgid ""
 "targets if shock value > target Hit Points)."
 msgstr "ケイロンのDNAから創り出されたこの変異はストレングス+1と命中精度+12%を付与し、ストンプ攻撃 (半径5タイル以内に効果を及ぼすショック攻撃。そのショック値がターゲットのHPを上回った際に放心状態にさせる)を行うことを可能にする。"
 
-#, fuzzy
 #| msgctxt "Mutation Screen/KEY_MUTATION_PART_PRIEST1_LONG_DESCRIPTION"
 #| msgid "Based on DNA from the Synod of Yearning, the mutation restores 2 Will Points to all friendly living entities within 7 tiles at the start of each turn."
 msgctxt "Mutation Screen/KEY_MUTATION_PART_PRIEST1_LONG_DESCRIPTION"
 msgid "Based on DNA from the Synod of Yearning, the mutation restores 2 Will Points to all friendly living entities within 7 tiles at the start of each turn. Additional +4 to Willpower."
-msgstr "シノッド・オブ・ヤーニングのDNAをベースとしたこの変異は、毎ターン開始に半径7タイル以内にいる 味方生物のウィルポイントを2回復させる。"
+msgstr "シノッド・オブ・ヤーニングのDNAをベースとしたこの変異は、毎ターン開始に半径7タイル以内にいる 味方生物のウィルポイントを2回復させる。 さらにウィルパワーが4増加。"
 
-#, fuzzy
 #| msgctxt "Mutation Screen/KEY_MUTATION_PART_PRIEST2_LONG_DESCRIPTION"
 #| msgid "Created from DNA of from the Blind Legate, the mutation allows a priest to perform Instil Frenzy (increase Speed by 50% and make them immune to panic) on allied characters."
 msgctxt "Mutation Screen/KEY_MUTATION_PART_PRIEST2_LONG_DESCRIPTION"
 msgid ""
 "Created from DNA of from the Blind Legate, the mutation allows a priest to perform Instil Frenzy (increase Speed by 50% and make them immune to panic) on allied characters. Additional +8 to "
 "Willpower."
-msgstr "ブラインド・レギットのDNAから創られたこの 変異は、プリーストが味方キャラクター達に激昂 (スピードの50%増加とパニック無効)を植え付けることを可能にする。"
+msgstr "ブラインド・レギットのDNAから創られたこの 変異は、プリーストが味方キャラクター達に激昂 (スピードの50%増加とパニック無効)を植え付けることを可能にする。 さらにウィルパワーが8増加。"
 
 #, fuzzy
 #| msgctxt "Mutation Screen/KEY_MUTATION_PART_PRIEST3_LONG_DESCRIPTION"
