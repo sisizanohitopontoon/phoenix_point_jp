@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2021-10-04 13:30+0000\n"
+"PO-Revision-Date: 2021-10-04 13:34+0000\n"
 "Last-Translator: higema <ltdhyndsh@yahoo.co.jp>\n"
 "Language-Team: \n"
 "Language: ja\n"
@@ -2734,7 +2734,6 @@ msgctxt "DLC4 Hypnos/KEY_LAUNCH_FIREWORM_DESCRIPTION"
 msgid "Launch a Fireworm at a target area"
 msgstr "ファイアワーム1体を目標位置に射出する"
 
-#, fuzzy
 #| msgctxt "Abilities/KEY_CHIRON_LAUNCH_POISONWORM_NAME"
 #| msgid "LAUNCH POISONWORMS"
 msgctxt "DLC4 Hypnos/KEY_LAUNCH_POISONWORM_NAME"
@@ -2747,126 +2746,111 @@ msgctxt "DLC4 Hypnos/KEY_LAUNCH_POISONWORM_DESCRIPTION"
 msgid "Launch a Poisonworm at a target area"
 msgstr "ポイズンワーム1体を目標位置に射出する"
 
-#, fuzzy
 #| msgctxt "Abilities/KEY_CHIRON_LAUNCH_ACIDWORM_NAME"
 #| msgid "LAUNCH ACIDWORMS"
 msgctxt "DLC4 Hypnos/KEY_LAUNCH_ACIDWORM_NAME"
 msgid "LAUNCH ACIDWORM"
 msgstr "アシッドワーム迫撃"
 
-#, fuzzy
 #| msgctxt "Body parts Aliens/KEY_CHIRON_TORSO_ACIDWORM_DESCRIPTION_TEMP"
 #| msgid "Launch 3 Acidworms at long range"
 msgctxt "DLC4 Hypnos/KEY_LAUNCH_ACIDWORM_DESCRIPTION"
 msgid "Launch an Acidworm at a target area"
-msgstr "3体のアシッドワームを長距離にわたって射出する"
+msgstr "アシッドワーム1体を目標位置に射出する"
 
-#, fuzzy
 #| msgctxt "Abilities/KEY_CHIRON_LAUNCH_GOO_NAME"
 #| msgid "LAUNCH GOO BOMBS"
 msgctxt "DLC4 Hypnos/KEY_LAUNCH_GOO_BOMB_NAME"
 msgid "LAUNCH GOO BOMB"
 msgstr "粘液ボム迫撃"
 
-#, fuzzy
 #| msgctxt "Abilities/KEY_SHOOT_SPIKE_DESCRIPTION"
 #| msgid "Launch a poisoned spike at a target"
 msgctxt "DLC4 Hypnos/KEY_LAUNCH_GOO_BOMB_DESCRIPTION"
 msgid "Launch a Goo Bomb at a target area"
-msgstr "ターゲットに毒のトゲを発射する"
+msgstr "1塊の粘液ボムを目標位置に射出する"
 
-#, fuzzy
 #| msgctxt "Abilities/KEY_QUEEN_GOOSPITTER_NAME"
 #| msgid "GOO STREAM"
 msgctxt "DLC4 Hypnos/KEY_MUTOID_GOO_SPIT_NAME"
 msgid "GOO SPIT"
-msgstr "グー・ストリーム"
+msgstr "グースピット"
 
-#, fuzzy
 #| msgctxt "Body parts/KEY_HEAD_SPITTER_DESCRIPTION"
 #| msgid "Spits poison at short range"
 msgctxt "DLC4 Hypnos/KEY_MUTOID_GOO_SPIT_DESCRIPTION"
 msgid "Spits goo at short range"
-msgstr "短射程の毒を吐き出す"
+msgstr "短射程の粘液を吐き出す"
 
-#, fuzzy
 #| msgctxt "Abilities/KEY_SIREN_VOMIT_ACID_NAME"
 #| msgid "ACID SPRAY"
 msgctxt "DLC4 Hypnos/KEY_MUTOID_ACID_SPIT_NAME"
 msgid "ACID SPIT"
-msgstr "アシッドスプレー"
+msgstr "アシッドスピット"
 
-#, fuzzy
 #| msgctxt "Body parts/KEY_HEAD_SPITTER_DESCRIPTION"
 #| msgid "Spits poison at short range"
 msgctxt "DLC4 Hypnos/KEY_MUTOID_ACID_SPIT_DESCRIPTION"
 msgid "Spits acid at short range"
-msgstr "短射程の毒を吐き出す"
+msgstr "短射程の酸を吐き出す"
 
-#, fuzzy
 #| msgctxt "Abilities/KEY_WEAPON_BASH_NAME"
 #| msgid "BASH ATTACK"
 msgctxt "DLC4 Hypnos/KEY_MUTOID_SYPHON_ATTACK_NAME"
 msgid "SYPHON ATTACK"
-msgstr "バッシュアタック"
+msgstr "サイフォンアタック"
 
 msgctxt "DLC4 Hypnos/KEY_MUTOID_SYPHON_ATTACK_DESCRIPTION"
 msgid "Deal 50 melee damage and restore that many Hit Points"
 msgstr ""
 
-#, fuzzy
 #| msgctxt "Abilities/KEY_DEATH_BELCH_NAME"
 #| msgid "DEATH BELCH"
 msgctxt "DLC4 Hypnos/KEY_MUTOID_DEATH_BELCH_NAME"
 msgid "DEATH BELCH"
 msgstr "デス・ベルチ"
 
-#, fuzzy
 #| msgctxt "Body parts/KEY_ABDOMEN_SPAWNER_DESCRIPTION"
 #| msgid "Spawns mindfraggers"
 msgctxt "DLC4 Hypnos/KEY_MUTOID_DEATH_BELCH_DESCRIPTION"
 msgid "Spawn a Mindfragger on death"
-msgstr "マインドフラッガーを生む"
+msgstr "死亡時に1体のマインドフラッガーを生む"
 
-#, fuzzy
 #| msgctxt "DLC 3 - Behemoth/KEY_SWARMER_ACID_EXPLOSION_DIE_NAME"
 #| msgid "ACID EXPLOSION"
 msgctxt "DLC4 Hypnos/KEY_MUTOID_ACID_EXPLOSION_NAME"
 msgid "ACID EXPLOSION"
-msgstr "酸性破裂"
+msgstr "アシッドエクスプロージョン"
 
 msgctxt "DLC4 Hypnos/KEY_MUTOID_ACID_EXPLOSION_DESCRIPTION"
 msgid "Deal Acid damage in surrounding area on death"
 msgstr ""
 
-#, fuzzy
 #| msgctxt "DLC 3 - Behemoth/KEY_SWARMER_ACID_EXPLOSION_DIE_NAME"
 #| msgid "ACID EXPLOSION"
 msgctxt "DLC4 Hypnos/KEY_MUTOID_FIRE_EXPLOSION_NAME"
 msgid "FIRE EXPLOSION"
-msgstr "酸性破裂"
+msgstr "ファイアエクスプロージョン"
 
 msgctxt "DLC4 Hypnos/KEY_MUTOID_FIRE_EXPLOSION_DESCRIPTION"
 msgid "Deal Fire damage in surrounding area on death"
 msgstr ""
 
-#, fuzzy
 #| msgctxt "DLC 3 - Behemoth/KEY_SWARMER_POISON_EXPLOSION_DIE_NAME"
 #| msgid "POISON EXPLOSION"
 msgctxt "DLC4 Hypnos/KEY_MUTOID_POISON_EXPLOSION_NAME"
 msgid "POISON EXPLOSION"
-msgstr "毒性破裂"
+msgstr "ポイズンエクスプロージョン"
 
 msgctxt "DLC4 Hypnos/KEY_MUTOID_POISON_EXPLOSION_DESCRIPTION"
 msgid "Deal Poison damage in surrounding area on death"
 msgstr ""
 
-#, fuzzy
 #| msgctxt "DLC 3 - Behemoth/KEY_SWARMER_ACID_EXPLOSION_DIE_NAME"
 #| msgid "ACID EXPLOSION"
 msgctxt "DLC4 Hypnos/KEY_MUTOID_VIRAL_EXPLOSION_NAME"
 msgid "VIRAL EXPLOSION"
-msgstr "酸性破裂"
+msgstr "バイラルエクスプロージョン"
 
 msgctxt "DLC4 Hypnos/KEY_MUTOID_VIRAL_EXPLOSION_DESCRIPTION"
 msgid "Deal Virus damage in surrounding area on death"
