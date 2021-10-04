@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2021-10-04 13:55+0000\n"
+"PO-Revision-Date: 2021-10-04 13:59+0000\n"
 "Last-Translator: higema <ltdhyndsh@yahoo.co.jp>\n"
 "Language-Team: \n"
 "Language: ja\n"
@@ -2918,59 +2918,53 @@ msgctxt "DLC4 Hypnos/KEY_MUTOID_HEAD_DESCRIPTION"
 msgid "Genetically constructed Mutoid head"
 msgstr ""
 
-#, fuzzy
 #| msgctxt "Objectives/KEY_OBJECTIVE_SECURE_CRYOLAB"
 #| msgid "SECURE THE CRYOLAB"
 msgctxt "DLC4 Hypnos/KEY_OBJECTIVE_CAPTURE_ACHERON"
 msgid "CAPTURE THE ACHERON"
-msgstr "クライオ・ラボを確保する"
+msgstr "アケローンを捕獲する"
 
-#, fuzzy
 #| msgctxt "Objectives/KEY_OBJECTIVE_SECURE_AREA"
 #| msgid "SECURE AREA"
 msgctxt "DLC4 Hypnos/KEY_BRIEFING_INFECTED_AREA"
 msgid "CORRUPTED AREA"
-msgstr "エリアの安全を確保する"
+msgstr "汚染エリア"
 
-#, fuzzy
 #| msgctxt "Geoscape/KEY_GEOSCAPE_TIME_LEFT_DAYS"
 #| msgid "{0} days"
 msgctxt "DLC4 Hypnos/KEY_SOLDIER_CORRUPTION_STATUS_TOOLTIP"
 msgid "Dies in {0} days"
-msgstr "{0} 日"
+msgstr "残り{0} 日で死亡"
 
 msgctxt "DLC4 Hypnos/KEY_SOLDIER_CORRUPTION_STATUS_SINGULAR_TOOLTIP"
 msgid "Dies in 1 day"
 msgstr ""
 
-#, fuzzy
 #| msgctxt "Missions/KEY_MISSION_STEAL_AIRCRAFT_VICTORY_NAME"
 #| msgid "AIRCRAFT CAPTURED"
 msgctxt "DLC4 Hypnos/KEY_OPTIONS_VEHICLE_AUTO_UNPAUSE"
 msgid "AIRCRAFT GEOSCAPE AUTO UNPAUSE MODE"
-msgstr "航空機を鹵獲した"
+msgstr "航空機の一時停止の自動解除モード"
 
 msgctxt "DLC4 Hypnos/KEY_OPTIONS_VEHICLE_UNPAUSE_ALWAYS"
 msgid "ALWAYS"
 msgstr ""
 
-#, fuzzy
 #| msgctxt "DLC 3 - Behemoth/KEY_DLC3_TUT_AIR_FORCE_TAB_NAME"
 #| msgid "MANAGE AIRCRAFT"
 msgctxt "DLC4 Hypnos/KEY_OPTIONS_VEHICLE_UNPAUSE_ONE_VEHICLE"
 msgid "SINGLE AIRCRAFT"
-msgstr "航空機の管理"
+msgstr "シングル"
 
 msgctxt "DLC4 Hypnos/KEY_OPTIONS_VEHICLE_UNPAUSE_ALL_VEHICLE_TRAVEL"
 msgid "ALL AIRCRAFT  ARE TRAVELLING"
 msgstr ""
 
-#, fuzzy
 #| msgctxt "Customization/KEY_CUSTOM_REVERT"
 #| msgid "REVERT"
 msgctxt "DLC4 Hypnos/KEY_OPTIONS_VEHICLE_UNPAUSE_NEVER"
 msgid "NEVER"
-msgstr "元に戻す"
+msgstr "行わない"
 
 #, fuzzy
 #| msgctxt "Missions/KEY_MISSION_CHANGE_ATTITUDE"
