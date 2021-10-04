@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2021-10-04 13:59+0000\n"
+"PO-Revision-Date: 2021-10-04 14:04+0000\n"
 "Last-Translator: higema <ltdhyndsh@yahoo.co.jp>\n"
 "Language-Team: \n"
 "Language: ja\n"
@@ -2966,25 +2966,22 @@ msgctxt "DLC4 Hypnos/KEY_OPTIONS_VEHICLE_UNPAUSE_NEVER"
 msgid "NEVER"
 msgstr "行わない"
 
-#, fuzzy
 #| msgctxt "Missions/KEY_MISSION_CHANGE_ATTITUDE"
 #| msgid "ATTITUDE CHANGE ON VICTORY"
 msgctxt "DLC4 Hypnos/KEY_SITE_INFO_ATTITUDE_PENALTY_AFTER"
 msgid "ATTITUDE CHANGE IN {0}"
-msgstr "勝利に対する態度の変化"
+msgstr "{0}日経過による態度の変化"
 
-#, fuzzy
 #| msgctxt "Missions/KEY_MISSION_CHANGE_ATTITUDE"
 #| msgid "ATTITUDE CHANGE ON VICTORY"
 msgctxt "DLC4 Hypnos/KEY_SITE_INFO_ATTITUDE_GAIN_DESTROY"
 msgid "ATTITUDE CHANGE IF DESTROYED"
-msgstr "勝利に対する態度の変化"
+msgstr "破壊した場合の態度の変化"
 
 msgctxt "DLC4 Hypnos/KEY_ALIEN_RESEARCH_DIPLOMACY_CHANGE"
 msgid "Attitude change due to havens falling within the influence range of revealed Pandoran bases:"
 msgstr ""
 
-#, fuzzy
 #| msgctxt "Phoenixpedia/KEY_PHOENIXPEDIA_SECTION_RESEARCH"
 #| msgid "RESEARCH"
 msgctxt "DLC4 Hypnos/KEY_RESEARCH_POINTS_TEXT"
@@ -3003,7 +3000,6 @@ msgctxt "DLC4 Hypnos/KEY_CORRUPTION_SOLDIER_DIED_SINGULAR_NOTIFICATION"
 msgid "The corruption has claimed another victim. A person has died as a result."
 msgstr ""
 
-#, fuzzy
 #| msgctxt "Haven Screen/KEY_HAVEN_UNKNOWN"
 #| msgid "UNKNOWN"
 msgctxt "DLC4 Hypnos/KEY_RESEARCH_UNKNOWN"
@@ -3018,12 +3014,11 @@ msgctxt "DLC4 Hypnos/KEY_DLC4_OBJECTIVE_TURRETS"
 msgid "Reboot the Security System"
 msgstr ""
 
-#, fuzzy
 #| msgctxt "Missions/KEY_MISSION_SUMMARY_COMPLETED"
 #| msgid "MISSION COMPLETE"
 msgctxt "DLC4 Hypnos/KEY_DLC4_TAC_HINT_TURRETS_NAME"
 msgid "MISSION UPDATE"
-msgstr "ミッション完了"
+msgstr "ミッションアップデート"
 
 msgctxt "DLC4 Hypnos/KEY_DLC4_TAC_HINT_TURRETS_DESCRIPTION"
 msgid ""
@@ -3035,26 +3030,23 @@ msgctxt "DLC4 Hypnos/KEY_HAVEN_ALERT_COOLDOWN_TIMER"
 msgid "ALERT LEVEL REDUCTION IN {0}"
 msgstr ""
 
-#, fuzzy
 #| msgctxt "Game Over/KEY_GAME_SUMMARY_DIPLOMATIC_RELATIONS"
 #| msgid "DIPLOMATIC RELATIONS"
 msgctxt "DLC4 Hypnos/KEY_DIPSHARESCREEN_TITLE"
 msgid "DIPLOMATIC BENEFITS"
-msgstr "外交関係"
+msgstr "外交による恩恵"
 
-#, fuzzy
 #| msgctxt "Missions/KEY_MISSION_STEAL_RESEARCH_VICTORY_NAME"
 #| msgid "RESEARCH ACQUIRED"
 msgctxt "DLC4 Hypnos/KEY_DIPSHARESCREEN_RESEARCH_LIST"
 msgid "RESEARCH SHARED"
-msgstr "研究を取得した"
+msgstr "共有された研究"
 
-#, fuzzy
 #| msgctxt "Base Screen/KEY_BASE_FACILITY_LAB_NAME"
 #| msgid "RESEARCH LAB"
 msgctxt "DLC4 Hypnos/KEY_DIPSHARESCREEN_RESEARCH_DETAILS"
 msgid "RESEARCH DETAILS"
-msgstr "研究ラボ"
+msgstr "研究内容"
 
 msgctxt "DLC4 Hypnos/KEY_DIPSHARESCREEN_HINT_ANU"
 msgid "Go to the research tab to view research projects from the Disciples of Anu"
