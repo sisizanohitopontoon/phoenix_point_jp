@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2021-10-04 13:05+0000\n"
+"PO-Revision-Date: 2021-10-04 13:14+0000\n"
 "Last-Translator: higema <ltdhyndsh@yahoo.co.jp>\n"
 "Language-Team: \n"
 "Language: ja\n"
@@ -2010,12 +2010,11 @@ msgid ""
 "required.[LF]Mutoids can only be healed at a base using MUTAGENS."
 msgstr ""
 
-#, fuzzy
 #| msgctxt "Options Screen/KEY_OPTIONS_FULL_SCREEN_EXCLUSIVE"
 #| msgid "FULL SCREEN"
 msgctxt "DLC4 Hypnos/KEY_GEO_HINT_ENEMY_SPECIAL_MUTOID_SCREEN_NAME"
 msgid "MUTOID SCREEN"
-msgstr "フルスクリーン"
+msgstr "ミュートイド設定画面"
 
 msgctxt "DLC4 Hypnos/KEY_GEO_HINT_ENEMY_SPECIAL_MUTOID_SCREEN_DESCRIPTION"
 msgid ""
@@ -2023,12 +2022,11 @@ msgid ""
 " order to learn new abilities.[LF][LF]Increasing statistics also requires Mutagens and is done in the same way as with other Soldiers."
 msgstr ""
 
-#, fuzzy
 #| msgctxt "DLC 3 - Behemoth/KEY_ALN_CORRUPTION_NODE_NAME"
 #| msgid "CORRUPTION NODE"
 msgctxt "DLC4 Hypnos/KEY_GEO_HINT_ENEMY_SPECIAL_CURE_NAME"
 msgid "CORRUPTION TREATMENT"
-msgstr "コラプションノード"
+msgstr "汚染の治療"
 
 msgctxt "DLC4 Hypnos/KEY_GEO_HINT_ENEMY_SPECIAL_CURE_DESCRIPTION"
 msgid ""
@@ -2036,12 +2034,11 @@ msgid ""
 "of Corruption that has affected the soldier."
 msgstr ""
 
-#, fuzzy
 #| msgctxt "DLC 3 - Behemoth/KEY_ALN_CORRUPTION_NODE_NAME"
 #| msgid "CORRUPTION NODE"
 msgctxt "DLC4 Hypnos/KEY_GEO_HINT_ENEMY_SPECIAL_CORRUPTION_OVER_NAME"
 msgid "CORRUPTION VACCINE"
-msgstr "コラプションノード"
+msgstr "対汚染ワクチン"
 
 msgctxt "DLC4 Hypnos/KEY_GEO_HINT_ENEMY_SPECIAL_CORRUPTION_OVER_DESCRIPTION"
 msgid ""
@@ -2049,12 +2046,11 @@ msgid ""
 "battlefields ensuring that the dead there pose no further threat.[LF][LF]Your soldiers can no longer become corrupted. Those that are currently corrupted still need treatment, though."
 msgstr ""
 
-#, fuzzy
 #| msgctxt "Missions/KEY_MISSION_SABOTAGE_RESEARCH_DEFEAT_NAME"
 #| msgid "SABOTAGE RESEARCH FAILURE"
 msgctxt "DLC4 Hypnos/KEY_GEO_HINT_ACHERON_CAPTURE_NAME"
 msgid "CORRUPTION CURE RESEARCH FAILURE"
-msgstr "リサーチセンターの破壊工作失敗"
+msgstr "汚染治療研究の失敗"
 
 msgctxt "DLC4 Hypnos/KEY_GEO_HINT_ACHERON_CAPTURE_DESCRIPTION"
 msgid ""
@@ -2062,12 +2058,11 @@ msgid ""
 " In order to be successful, we need to find one of the original specimens that escaped from the Lab."
 msgstr ""
 
-#, fuzzy
 #| msgctxt "Equipping Screen/KEY_ITEM_TYPE_GRENADE"
 #| msgid "GRENADE"
 msgctxt "DLC4 Hypnos/KEY_PX_HEAL_GRENADE_NAME"
 msgid "VITA GRENADE"
-msgstr "グレネード"
+msgstr "ウィータ グレネード"
 
 msgctxt "DLC4 Hypnos/KEY_PX_HEAL_GRENADE_DESCRIPTION"
 msgid "A healing grenade that removes the bleeding and poison, and restores 50 Hit Points to all organic creatures within 3 tiles of impact."
@@ -2089,19 +2084,17 @@ msgctxt "DLC4 Hypnos/KEY_ACHERON_ARM_DESCRIPTION_TEMP"
 msgid "A humanoid arm that allows the Acheron to launch biological agents at its targets."
 msgstr ""
 
-#, fuzzy
 #| msgctxt "Characters and classes/KEY_MUTOG_NAME"
 #| msgid "MUTOG"
 msgctxt "DLC4 Hypnos/KEY_MUTOID_CLASS"
 msgid "MUTOID"
-msgstr "ミュートッグ"
+msgstr "ミュートイド"
 
-#, fuzzy
 #| msgctxt "Game Over/KEY_GAME_SUMMARY_PHOENIX_SOLDIERS"
 #| msgid "PHOENIX SOLDIERS"
 msgctxt "DLC4 Hypnos/KEY_MUTOID_CLASS_DESCRIPTION"
 msgid "MUTOID SOLDIER CLASS"
-msgstr "フェニックス兵"
+msgstr "ミュートイド兵クラス"
 
 msgctxt "DLC4 Hypnos/KEY_MUTOID_DESCRIPTION"
 msgid "Soldier class created through mutagens that can choose between all human skills and many Pandoran skills."
@@ -2111,30 +2104,27 @@ msgctxt "DLC4 Hypnos/KEY_STATUS_BLINDED_NAME"
 msgid "BLINDED"
 msgstr ""
 
-#, fuzzy
 #| msgctxt "Abilities/KEY_EAGLE_EYE_DESCRIPTION"
 #| msgid "Perception range is doubled"
 msgctxt "DLC4 Hypnos/KEY_STATUS_BLINDED_DESCRIPTION"
 msgid "Perception reduced by 75%."
-msgstr "知覚範囲が2倍になる"
+msgstr "知覚力が75%低下する。"
 
-#, fuzzy
 #| msgctxt "Manufacture Screen/KEY_RECYCLING_NAME"
 #| msgid "RECYCLING"
 msgctxt "DLC4 Hypnos/KEY_STATUS_TREMBLING_NAME"
 msgid "TREMBLING"
-msgstr "リサイクル"
+msgstr "震え"
 
 msgctxt "DLC4 Hypnos/KEY_STATUS_TREMBLING_DESCRIPTION"
 msgid "Accuracy reduced by 50%."
 msgstr ""
 
-#, fuzzy
 #| msgctxt "Roster Screen/KEY_GEOROSTER_PROGRESS"
 #| msgid "TRAINING"
 msgctxt "DLC4 Hypnos/KEY_STATUS_STRAINED_NAME"
 msgid "STRAINED"
-msgstr "トレーニング"
+msgstr "硬直"
 
 msgctxt "DLC4 Hypnos/KEY_STATUS_STRAINED_DESCRIPTION"
 msgid "A limb has been temporarily disabled."
@@ -2148,70 +2138,63 @@ msgctxt "DLC4 Hypnos/KEY_STATUS_SLOWED_DESCRIPTION"
 msgid "Speed is reduced by 50%."
 msgstr ""
 
-#, fuzzy
 #| msgctxt "DLC 3 - Behemoth/KEY_ALN_CORRUPTION_NODE_NAME"
 #| msgid "CORRUPTION NODE"
 msgctxt "DLC4 Hypnos/KEY_STATUS_CORRUPTED_NAME"
 msgid "CORRUPTED"
-msgstr "コラプションノード"
+msgstr "汚染"
 
 msgctxt "DLC4 Hypnos/KEY_STATUS_CORRUPTED_DESCRIPTION"
 msgid "Will Power is reduced by the current amount of corruption. Additionally, damage done increases by 2% for every 1 point of corruption."
 msgstr ""
 
-#, fuzzy
 #| msgctxt "Options Screen/KEY_DIFFICULTY_DIFFICULT"
 #| msgid "HERO"
 msgctxt "DLC4 Hypnos/KEY_ALN_ACHERON_NAME"
 msgid "ACHERON"
-msgstr "ヒーロー"
+msgstr "アケローン"
 
-#, fuzzy
 #| msgctxt "Equipment/KEY_SY_SNIPER_HELMET_NAME2"
 #| msgid "Acheron Helmet"
 msgctxt "DLC4 Hypnos/KEY_ALN_ACHERON_DESCRIPTION"
 msgid "Acheron"
-msgstr "アケローン ヘルメット"
+msgstr "アケローン"
 
-#, fuzzy
 #| msgctxt "Abilities/KEY_SURPRISE_ATTACK_NAME"
 #| msgid "SURPRISE ATTACK"
 msgctxt "DLC4 Hypnos/KEY_CORRUPTIVE_ATTACK_NAME"
 msgid "CORRUPTIVE ATTACK"
-msgstr "サプライズ・アタック"
+msgstr "コラプティブ・アタック"
 
 msgctxt "DLC4 Hypnos/KEY_CORRUPTIVE_ATTACK_DESCRIPTION"
 msgid "Successful attacks spread corruption to organic units."
 msgstr ""
 
-#, fuzzy
 #| msgctxt "DLC 3 - Behemoth/KEY_ALN_CORRUPTION_NODE_NAME"
 #| msgid "CORRUPTION NODE"
 msgctxt "DLC4 Hypnos/KEY_CONTACT_CORRUPTION_NAME"
 msgid "CONTACT CORRUPTION"
-msgstr "コラプションノード"
+msgstr "コンタクト・コラプション"
 
 msgctxt "DLC4 Hypnos/KEY_CONTACT_CORRUPTION_DESCRIPTION"
 msgid "Corrupts attacker when suffering Melee or Bash attacks."
 msgstr ""
 
-#, fuzzy
 #| msgctxt "Abilities/KEY_SONIC_RESISTANCE_NAME"
 #| msgid "DAZE RESISTANCE"
 msgctxt "DLC4 Hypnos/KEY_DYNAMIC_RESISTANCE_NAME"
 msgid "DYNAMIC RESISTANCE"
-msgstr "放心耐性"
+msgstr "ダイナミックレジスタンス"
 
 msgctxt "DLC4 Hypnos/KEY_DYNAMIC_RESISTANCE_DESCRIPTION"
 msgid "Gives 50% temporary resistance to any type of damage or negative status effect suffered in combat."
 msgstr ""
 
-#, fuzzy
 #| msgctxt "Abilities/KEY_SIREN_VOMIT_ACID_NAME"
 #| msgid "ACID SPRAY"
 msgctxt "DLC4 Hypnos/KEY_CORRUPTIVE_SPRAY_NAME"
 msgid "CORRUPTIVE SPRAY"
-msgstr "アシッドスプレー"
+msgstr "コラプティブスプレー"
 
 msgctxt "DLC4 Hypnos/KEY_CORRUPTIVE_SPRAY_DESCRIPTION"
 msgid "Organic targets will be corrupted in addition to the standard damage."
@@ -2225,66 +2208,59 @@ msgctxt "DLC4 Hypnos/KEY_PEPPER_CLOUD_DESCRIPTION"
 msgid "Reduces Accuracy by 50% of all organic enemies within 5 tiles for 1 turn."
 msgstr ""
 
-#, fuzzy
 #| msgctxt "Abilities/KEY_TECHNICIAN_ELECTRICAL_REINFORCEMENT_NAME"
 #| msgid "ELECTRIC REINFORCEMENT"
 msgctxt "DLC4 Hypnos/KEY_CALL_REINFORCEMENTS_NAME"
 msgid "CALL REINFORCEMENTS"
-msgstr "エレクトリック・リインフォースメント"
+msgstr "コール・リインフォースメント"
 
 msgctxt "DLC4 Hypnos/KEY_CALL_REINFORCEMENTS_DESCRIPTION"
 msgid "Instantly call a group of reinforcements."
 msgstr ""
 
-#, fuzzy
 #| msgctxt "Geoscape/KEY_ALIEN_BASE_DESTROYED_LAIR"
 #| msgid "DESTROYED PANDORAN LAIR"
 msgctxt "DLC4 Hypnos/KEY_RESTORE_PANDORAN_ARMOR_NAME"
 msgid "RESTORE PANDORAN ARMOR"
-msgstr "破壊されたパンドラン・レア"
+msgstr "レストア・パンドランアーマー"
 
-#, fuzzy
 #| msgctxt "Abilities/KEY_PSYCHIC_BLAST_DESCRIPTION"
 #| msgid "Deal 100 damage to all enemy entities within 10 tiles"
 msgctxt "DLC4 Hypnos/KEY_RESTORE_PANDORAN_ARMOR_DESCRIPTION"
 msgid "Add 10 armor to all Pandorans within 10 tiles."
-msgstr "10タイル内のすべての敵性体に 100のダメージを与える"
+msgstr "10タイル内にいるすべてのパンドランのアーマーを10増加させる。"
 
-#, fuzzy
 #| msgctxt "DLC 3 - Behemoth/KEY_ALN_CORRUPTION_NODE_NAME"
 #| msgid "CORRUPTION NODE"
 msgctxt "DLC4 Hypnos/KEY_CO_CORRUPTION_NAME"
 msgid "CO-CORRUPTION"
-msgstr "コラプションノード"
+msgstr "コ・コラプション"
 
 msgctxt "DLC4 Hypnos/KEY_CO_CORRUPTION_DESCRIPTION"
 msgid "All Pandorans in battle gain Corruptive Attack."
 msgstr ""
 
-#, fuzzy
 #| msgctxt "Abilities/KEY_SIREN_VOMIT_ACID_NAME"
 #| msgid "ACID SPRAY"
 msgctxt "DLC4 Hypnos/KEY_CURE_SPRAY_NAME"
 msgid "CURE SPRAY"
-msgstr "アシッドスプレー"
+msgstr "キュアスプレー"
 
 msgctxt "DLC4 Hypnos/KEY_CURE_SPRAY_DESCRIPTION"
 msgid "Removes all Paralysis, Bleeding, Poison, Strained, Infected, Dazed, and Slowed status effects from target ally and restores 50 Hit Points."
 msgstr ""
 
-#, fuzzy
 #| msgctxt "DLC 3 - Behemoth/KEY_ALN_CORRUPTION_NODE_NAME"
 #| msgid "CORRUPTION NODE"
 msgctxt "DLC4 Hypnos/KEY_CORRUPTIVE_CLOUD_NAME"
 msgid "CORRUPTIVE CLOUD"
-msgstr "コラプションノード"
+msgstr "コラプティブクラウド"
 
-#, fuzzy
 #| msgctxt "Abilities/KEY_MASS_HATCH_DESCRIPTION"
 #| msgid "Hatch all eggs within 20 tiles."
 msgctxt "DLC4 Hypnos/KEY_CORRUPTIVE_CLOUD_DESCRIPTION"
 msgid "Corrupt all organic enemies within 10 tiles."
-msgstr "20タイル以内の全てのエッグをふ化させる。"
+msgstr "10タイル内にいるすべての敵生物を汚染させる。"
 
 msgctxt "DLC4 Hypnos/KEY_RESURRECT_CORPSES_NAME"
 msgid "RESURRECT CORPSES"
@@ -2294,12 +2270,11 @@ msgctxt "DLC4 Hypnos/KEY_RESURRECT_CORPSES_DESCRIPTION"
 msgid "Transform all human sized corpses within 10 tiles into Arthrons or Tritons."
 msgstr ""
 
-#, fuzzy
 #| msgctxt "Abilities/KEY_QUEEN_GOOSPITTER_NAME"
 #| msgid "GOO STREAM"
 msgctxt "DLC4 Hypnos/KEY_GOO_SPRAY_NAME"
 msgid "GOO SPRAY"
-msgstr "グー・ストリーム"
+msgstr "グースプレー"
 
 msgctxt "DLC4 Hypnos/KEY_GOO_SPRAY_DESCRIPTION"
 msgid "Spray goo at target or enemy. Targets will be gooed in addition to damage."
