@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2021-10-04 13:14+0000\n"
+"PO-Revision-Date: 2021-10-04 13:19+0000\n"
 "Last-Translator: higema <ltdhyndsh@yahoo.co.jp>\n"
 "Language-Team: \n"
 "Language: ja\n"
@@ -2228,7 +2228,7 @@ msgstr "レストア・パンドランアーマー"
 #| msgid "Deal 100 damage to all enemy entities within 10 tiles"
 msgctxt "DLC4 Hypnos/KEY_RESTORE_PANDORAN_ARMOR_DESCRIPTION"
 msgid "Add 10 armor to all Pandorans within 10 tiles."
-msgstr "10タイル内にいるすべてのパンドランのアーマーを10増加させる。"
+msgstr "10タイル内にいるすべての パンドランのアーマーを10増加させる。"
 
 #| msgctxt "DLC 3 - Behemoth/KEY_ALN_CORRUPTION_NODE_NAME"
 #| msgid "CORRUPTION NODE"
@@ -2316,69 +2316,61 @@ msgctxt "DLC4 Hypnos/KEY_CORROSIVE_CLOUD_NAME"
 msgid "CORROSIVE CLOUD"
 msgstr ""
 
-#, fuzzy
 #| msgctxt "Abilities/KEY_PSYCHIC_BLAST_DESCRIPTION"
 #| msgid "Deal 100 damage to all enemy entities within 10 tiles"
 msgctxt "DLC4 Hypnos/KEY_CORROSIVE_CLOUD_DESCRIPTION"
 msgid "Deal 10 acid damage to all enemies within 10 tiles."
-msgstr "10タイル内のすべての敵性体に 100のダメージを与える"
+msgstr "10タイル内のすべての敵に 10の酸ダメージを与える。"
 
-#, fuzzy
 #| msgctxt "Missions/#Defeat the Scylla USE OBJECTIVE STRING"
 #| msgid "PANDORAN BASES REVEALED"
 msgctxt "DLC4 Hypnos/KEY_MUTOID_CANNOT_BE_HEALED_NAME"
 msgid "CANNOT BE HEALED"
-msgstr "パンドランの拠点が明らかになった"
+msgstr "回復無効"
 
 msgctxt "DLC4 Hypnos/KEY_MUTOID_CANNOT_BE_HEALED_DESCRIPTION"
 msgid "Health can only be restored by Mutagens outside a mission"
 msgstr ""
 
-#, fuzzy
 #| msgctxt "Abilities/KEY_POISON_IMMUNITY_NAME"
 #| msgid "POISON IMMUNITY"
 msgctxt "DLC4 Hypnos/KEY_CORRUPTION_IMMUNITY_NAME"
 msgid "CORRUPTION IMMUNITY"
-msgstr "毒無効"
+msgstr "汚染無効"
 
-#, fuzzy
 #| msgctxt "Blood Titanium/KEY_MIND_CONTROL_IMMUNITY_DESCRIPTION"
 #| msgid "Immune to Mind Control."
 msgctxt "DLC4 Hypnos/KEY_CORRUPTION_IMMUNITY_DESCRIPTION"
 msgid "Immune to Corruption."
-msgstr "マインドコントロールを無効にする。"
+msgstr "汚染されない。"
 
-#, fuzzy
 #| msgctxt "Game Over/KEY_UNIT_TYPE_MUTOGS"
 #| msgid "MUTOGS"
 msgctxt "DLC4 Hypnos/KEY_GEOROSTER_TAB_MUTOID"
 msgid "MUTOIDS"
-msgstr "ミュートッグ"
+msgstr "ミュートイド"
 
-#, fuzzy
 #| msgctxt "Roster Screen/KEY_GEOROSTER_RENAME_CHARACTER"
 #| msgid "Rename this soldier?"
 msgctxt "DLC4 Hypnos/KEY_GEOROSTER_TAB_MUTOID_TOOLTIP"
 msgid "Create Mutoid soldiers"
-msgstr "この兵士の名前を変更しますか?"
+msgstr "ミュートイド兵を製造"
 
-#, fuzzy
 #| msgctxt "DLC 3 - Behemoth/KEY_ALN_CORRUPTION_NODE_NAME"
 #| msgid "CORRUPTION NODE"
 msgctxt "DLC4 Hypnos/KEY_DAMAGE_TYPE_CORRUPTION"
 msgid "CORRUPTION"
-msgstr "コラプションノード"
+msgstr "汚染"
 
 msgctxt "DLC4 Hypnos/KEY_DAMAGE_TYPE_CORRUPTION_DESC"
 msgid "Applies Corruption to the target."
 msgstr ""
 
-#, fuzzy
 #| msgctxt "DLC 3 - Behemoth/KEY_ALN_CORRUPTION_NODE_NAME"
 #| msgid "CORRUPTION NODE"
 msgctxt "DLC4 Hypnos/KEY_ROSTER_DEATH_CORRUPTED"
 msgid "CORRUPTION"
-msgstr "コラプションノード"
+msgstr "汚染"
 
 msgctxt "DLC4 Hypnos/KEY_CURE_CORRUPTION_DIALOG_TITLE"
 msgid "CURE"
