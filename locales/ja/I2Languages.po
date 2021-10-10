@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2021-10-10 15:24+0000\n"
+"PO-Revision-Date: 2021-10-10 15:29+0000\n"
 "Last-Translator: higema <ltdhyndsh@yahoo.co.jp>\n"
 "Language-Team: \n"
 "Language: ja\n"
@@ -2227,31 +2227,31 @@ msgstr "ニューロトキシックスプレー"
 
 msgctxt "DLC4 Hypnos/KEY_PARALYTIC_SPRAY_DESCRIPTION"
 msgid "Disable target body part for 1 turn."
-msgstr ""
+msgstr "対象の身体部位を1ターン使用不能にする。"
 
 msgctxt "DLC4 Hypnos/KEY_BLINDNESS_CLOUD_NAME"
 msgid "BLINDNESS CLOUD"
-msgstr ""
+msgstr "ブラインドネスクラウド"
 
 msgctxt "DLC4 Hypnos/KEY_BLINDNESS_CLOUD_DESCRIPTION"
 msgid "Reduce the perception of organic enemy targets within 10 tiles by 75% for 1 turn."
-msgstr ""
+msgstr "1ターンのあいだ半径10タイル以内にいる 敵生物の知覚力を75%低下させる。"
 
 msgctxt "DLC4 Hypnos/KEY_CORROSIVE_CLOUD_NAME"
 msgid "CORROSIVE CLOUD"
-msgstr ""
+msgstr "コロッシブクラウド"
 
 msgctxt "DLC4 Hypnos/KEY_CORROSIVE_CLOUD_DESCRIPTION"
 msgid "Deal 10 acid damage to all enemies within 10 tiles."
-msgstr "10タイル内のすべての敵に 10の酸ダメージを与える。"
+msgstr "半径10タイル内のすべての敵に 酸ダメージ10を与える。"
 
 msgctxt "DLC4 Hypnos/KEY_MUTOID_CANNOT_BE_HEALED_NAME"
 msgid "CANNOT BE HEALED"
-msgstr "回復無効"
+msgstr "回復不可"
 
 msgctxt "DLC4 Hypnos/KEY_MUTOID_CANNOT_BE_HEALED_DESCRIPTION"
 msgid "Health can only be restored by Mutagens outside a mission"
-msgstr ""
+msgstr "ミッション外でミュータジェンを使用する以外ではヘルスを回復できない。 ただし一部のパンドランアビリティによる回復は除く。"
 
 msgctxt "DLC4 Hypnos/KEY_CORRUPTION_IMMUNITY_NAME"
 msgid "CORRUPTION IMMUNITY"
@@ -2259,7 +2259,7 @@ msgstr "汚染無効"
 
 msgctxt "DLC4 Hypnos/KEY_CORRUPTION_IMMUNITY_DESCRIPTION"
 msgid "Immune to Corruption."
-msgstr "汚染されない。"
+msgstr "汚染を受けない。"
 
 msgctxt "DLC4 Hypnos/KEY_GEOROSTER_TAB_MUTOID"
 msgid "MUTOIDS"
@@ -2267,7 +2267,7 @@ msgstr "ミュートイド"
 
 msgctxt "DLC4 Hypnos/KEY_GEOROSTER_TAB_MUTOID_TOOLTIP"
 msgid "Create Mutoid soldiers"
-msgstr "ミュートイド兵を製造"
+msgstr "ミュートイド兵を製造する"
 
 msgctxt "DLC4 Hypnos/KEY_DAMAGE_TYPE_CORRUPTION"
 msgid "CORRUPTION"
@@ -2275,7 +2275,7 @@ msgstr "汚染"
 
 msgctxt "DLC4 Hypnos/KEY_DAMAGE_TYPE_CORRUPTION_DESC"
 msgid "Applies Corruption to the target."
-msgstr ""
+msgstr "ターゲットに汚染を付与する。"
 
 msgctxt "DLC4 Hypnos/KEY_ROSTER_DEATH_CORRUPTED"
 msgid "CORRUPTION"
@@ -2283,11 +2283,11 @@ msgstr "汚染"
 
 msgctxt "DLC4 Hypnos/KEY_CURE_CORRUPTION_DIALOG_TITLE"
 msgid "CURE"
-msgstr ""
+msgstr "治療"
 
 msgctxt "DLC4 Hypnos/KEY_CURE_CORRUPTION_DIALOG_DESCRIPTION"
 msgid "Your soldier has {0}% Corruption damage."
-msgstr "兵士は{0}%汚染されています。"
+msgstr "兵士は{0}%の汚染ダメージを負っています。"
 
 msgctxt "DLC4 Hypnos/KEY_CURE_CORRUPTION_DIALOG_BOTTOM"
 msgid "Do you want to cure them now?"
