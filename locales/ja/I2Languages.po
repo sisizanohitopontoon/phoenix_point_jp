@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2021-10-10 15:10+0000\n"
+"PO-Revision-Date: 2021-10-10 15:14+0000\n"
 "Last-Translator: higema <ltdhyndsh@yahoo.co.jp>\n"
 "Language-Team: \n"
 "Language: ja\n"
@@ -2075,7 +2075,7 @@ msgstr "震え"
 
 msgctxt "DLC4 Hypnos/KEY_STATUS_TREMBLING_DESCRIPTION"
 msgid "Accuracy reduced by 50%."
-msgstr ""
+msgstr "命中精度が50%低下する。"
 
 msgctxt "DLC4 Hypnos/KEY_STATUS_STRAINED_NAME"
 msgid "STRAINED"
@@ -2083,15 +2083,15 @@ msgstr "硬直"
 
 msgctxt "DLC4 Hypnos/KEY_STATUS_STRAINED_DESCRIPTION"
 msgid "A limb has been temporarily disabled."
-msgstr ""
+msgstr "一時的に部位の一つが使用不能になる。"
 
 msgctxt "DLC4 Hypnos/KEY_STATUS_SLOWED_NAME"
 msgid "SLOWED"
-msgstr ""
+msgstr "鈍足化"
 
 msgctxt "DLC4 Hypnos/KEY_STATUS_SLOWED_DESCRIPTION"
 msgid "Speed is reduced by 50%."
-msgstr ""
+msgstr "スピードが50%低下する。"
 
 msgctxt "DLC4 Hypnos/KEY_STATUS_CORRUPTED_NAME"
 msgid "CORRUPTED"
@@ -2099,7 +2099,7 @@ msgstr "汚染"
 
 msgctxt "DLC4 Hypnos/KEY_STATUS_CORRUPTED_DESCRIPTION"
 msgid "Will Power is reduced by the current amount of corruption. Additionally, damage done increases by 2% for every 1 point of corruption."
-msgstr ""
+msgstr "汚染の現在値と同じだけウィルパワーが低下する。 加えて、汚染1ポイントにつき与ダメージが2%ずつ増加する。"
 
 msgctxt "DLC4 Hypnos/KEY_ALN_ACHERON_NAME"
 msgid "ACHERON"
@@ -2111,11 +2111,11 @@ msgstr "アケローン"
 
 msgctxt "DLC4 Hypnos/KEY_CORRUPTIVE_ATTACK_NAME"
 msgid "CORRUPTIVE ATTACK"
-msgstr "コラプティブ・アタック"
+msgstr "コラプティブアタック"
 
 msgctxt "DLC4 Hypnos/KEY_CORRUPTIVE_ATTACK_DESCRIPTION"
 msgid "Successful attacks spread corruption to organic units."
-msgstr ""
+msgstr "生物ユニットに対してダメージを与えた攻撃がさらに汚染を付与する。"
 
 msgctxt "DLC4 Hypnos/KEY_CONTACT_CORRUPTION_NAME"
 msgid "CONTACT CORRUPTION"
@@ -2123,7 +2123,7 @@ msgstr "コンタクト・コラプション"
 
 msgctxt "DLC4 Hypnos/KEY_CONTACT_CORRUPTION_DESCRIPTION"
 msgid "Corrupts attacker when suffering Melee or Bash attacks."
-msgstr ""
+msgstr "近接攻撃またはバッシュで攻撃してきた相手を汚染する。"
 
 msgctxt "DLC4 Hypnos/KEY_DYNAMIC_RESISTANCE_NAME"
 msgid "DYNAMIC RESISTANCE"
@@ -2131,7 +2131,7 @@ msgstr "ダイナミックレジスタンス"
 
 msgctxt "DLC4 Hypnos/KEY_DYNAMIC_RESISTANCE_DESCRIPTION"
 msgid "Gives 50% temporary resistance to any type of damage or negative status effect suffered in combat."
-msgstr ""
+msgstr "闘中にダメージやマイナス効果のステータス効果をを受けると 一時的にそのダメージタイプに対する50%の耐性を獲得する。 (通常ダメージは除く)"
 
 msgctxt "DLC4 Hypnos/KEY_CORRUPTIVE_SPRAY_NAME"
 msgid "CORRUPTIVE SPRAY"
