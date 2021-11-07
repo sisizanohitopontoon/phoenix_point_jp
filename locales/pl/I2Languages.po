@@ -2043,8 +2043,8 @@ msgid "DYNAMIC RESISTANCE"
 msgstr "АДАПТИВНАЯ УСТОЙЧИВОСТЬ"
 
 msgctxt "DLC4 Hypnos/KEY_DYNAMIC_RESISTANCE_DESCRIPTION"
-msgid "Gives 50% temporary resistance to any type of damage or negative status effect suffered in combat."
-msgstr "Дает 50% временной устойчивости к любому типу урона или негативному статусу, ранее перенесенному в бою."
+msgid "Gives 50% temporary resistance to any type of damage or negative status effect suffered in combat, other than Shred, Projectile, and Melee damage."
+msgstr "Дает 50% временной устойчивости к любому типу урона или негативному статусу, ранее перенесенному в бою, за исключением рваного урона и урона от снарядов и в ближнем бою."
 
 msgctxt "DLC4 Hypnos/KEY_CORRUPTIVE_SPRAY_NAME"
 msgid "CORRUPTIVE SPRAY"
@@ -5036,7 +5036,7 @@ msgstr "НА ВАШЕМ ВОЗДУШНОМ СУДНЕ НЕТ МЕСТА ДЛЯ �
 
 msgctxt "Danforth/KEY_BASE_RECRUIT_CONFIRMATION"
 msgid "Are you sure you want to recruit {0} for {1}?"
-msgstr "Вы уверены, что хотите завербовать {0} для {1}?"
+msgstr "Вы уверены, что хотите завербовать {0} за {1}?"
 
 msgctxt "Danforth/KEY_BASE_RECRUIT_DEPLOYMENT"
 msgid "{0} has been recruited and deployed to base {1}"
