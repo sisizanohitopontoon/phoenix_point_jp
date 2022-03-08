@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2022-03-08 12:39+0000\n"
+"PO-Revision-Date: 2022-03-08 12:45+0000\n"
 "Last-Translator: higema <ltdhyndsh@yahoo.co.jp>\n"
 "Language-Team: \n"
 "Language: ja\n"
@@ -3802,33 +3802,29 @@ msgctxt "DLC5/KEY_PIERCING_RESISTANCE_NAME"
 msgid "PIERCE RESISTANT"
 msgstr "貫通耐性"
 
-#, fuzzy
 #| msgctxt "Abilities/KEY_ACID_RESISTANCE_DESCRIPTION"
 #| msgid "Reduces effect of Acid Damage by half"
 msgctxt "DLC5/KEY_PIERCING_RESISTANCE_DESCRIPTION"
 msgid "Reduces effect of Piercing Damage by half."
-msgstr "酸ダメージの効果を半分に減少させる"
+msgstr "貫通ダメージの効果が半減する"
 
-#, fuzzy
 #| msgctxt "Equipment/KEY_INVENTORY_IN_ARMOR"
 #| msgid "IN ARMOR"
 msgctxt "DLC5/KEY_RETURN_MELEE_DAMAGE_NAME"
 msgid "SPIKED ARMOR"
-msgstr "アーマー内"
+msgstr "スパイク付きアーマー"
 
-#, fuzzy
 #| msgctxt "DLC4 Hypnos/KEY_CONTACT_CORRUPTION_DESCRIPTION"
 #| msgid "Corrupts attacker when suffering Melee or Bash attacks."
 msgctxt "DLC5/KEY_RETURN_MELEE_DAMAGE_DESCRIPTION"
 msgid "Deals Piercing Damage to the attacker when suffering Melee or Bash attacks."
-msgstr "近接攻撃またはバッシュで攻撃してきた相手を汚染する。"
+msgstr "近接またはバッシュによる攻撃を受けた際に アーマーを無視してダメージを反射する。"
 
-#, fuzzy
 #| msgctxt "General Tactical Hints/KEY_TAC_HINT_DAMAGE_PSYCHIC_NAME"
 #| msgid "PSYCHIC DAMAGE"
 msgctxt "DLC5/KEY_JAMMER_IMMUNITY_NAME"
 msgid "PSYCHIC JAMMER"
-msgstr "サイキックダメージ"
+msgstr "サイキックジャマー"
 
 msgctxt "DLC5/KEY_JAMMER_IMMUNITY_DESCRIPTION"
 msgid "Grants Mind Control Immunity to nearby allies."
@@ -3838,23 +3834,21 @@ msgctxt "DLC5/KEY_MARKETPLACE_NO_MISSIONS_DESCRIPTION"
 msgid "We have already proven ourselves to The Maker. There are no more favors for him to ask of us."
 msgstr ""
 
-#, fuzzy
 #| msgctxt "Cthulhu/KEY_TECHNICIAN_FILTER_TT"
 #| msgid "Technician class filter"
 msgctxt "DLC5/KEY_DLC5_VEHICLE_MODULE"
 msgid "Vehicle filter"
-msgstr "テクニシャン兵科 フィルター"
+msgstr "車両フィルター"
 
 msgctxt "DLC5/KEY_CUSTOMIZATION_FANCY"
 msgid "FANCY"
 msgstr ""
 
-#, fuzzy
 #| msgctxt "Body parts/KEY_ENGINE_NAME"
 #| msgid "ENGINE"
 msgctxt "DLC5/KEY_DLC5_NAME"
 msgid "KAOS ENGINES"
-msgstr "エンジン"
+msgstr ""
 
 msgctxt "DLC5/KEY_KS_INTRO"
 msgid "A Warm Welcome"
@@ -3868,7 +3862,6 @@ msgctxt "DLC5/KEY_KS_MINIGUN"
 msgid "Minigun"
 msgstr ""
 
-#, fuzzy
 #| msgctxt "Opening Screen/KEY_DLC_ACTIVATE"
 #| msgid "ACTIVATE DLC"
 msgctxt "DLC5/KEY_DLC5_AD_HEADER"
@@ -3885,12 +3878,11 @@ msgctxt "DLC5/KEY_DLC5_AD_FEATURE1"
 msgid "- NEW Vehicle - The Kaos Buggy"
 msgstr ""
 
-#, fuzzy
 #| msgctxt "Tutorial 1 (Polaris)/KEY_TUT_VEHICLEAUTOFAMMO_NAME"
 #| msgid "Vehicle Out of Ammo"
 msgctxt "DLC5/KEY_DLC5_AD_FEATURE2"
 msgid "- Vehicle Customizations"
-msgstr "弾薬切れの車両"
+msgstr "- 車両のカスタマイズ"
 
 msgctxt "DLC5/KEY_DLC5_AD_FEATURE3"
 msgid "- Five Powerful - but unpredictable! - Kaos Tech Weapons"
