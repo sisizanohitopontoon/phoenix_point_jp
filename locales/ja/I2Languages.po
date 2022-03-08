@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2022-03-08 12:14+0000\n"
+"PO-Revision-Date: 2022-03-08 12:19+0000\n"
 "Last-Translator: higema <ltdhyndsh@yahoo.co.jp>\n"
 "Language-Team: \n"
 "Language: ja\n"
@@ -3239,7 +3239,6 @@ msgctxt "DLC5/KEY_MARKETPLACE_MISSION_IN_PROGRESS"
 msgid "MISSION IN PROGRESS"
 msgstr "ミッション進行中"
 
-#, fuzzy
 #| msgctxt "Diplomacy and Factions/KEY_DIPLOMACY_LOCATE"
 #| msgid "LOCATE MISSION"
 msgctxt "DLC5/KEY_MARKETPLACE_LOCATE_MISSION"
@@ -3254,26 +3253,23 @@ msgctxt "DLC5/KEY_MARKETPLACE_REWARD_LABEL"
 msgid "Rewards:"
 msgstr ""
 
-#, fuzzy
 #| msgctxt "Missions/KEY_MISSION_START_MISSION"
 #| msgid "START MISSION"
 msgctxt "DLC5/KEY_MARKETPLACE_ACCEPT_MISSION"
 msgid "ACCEPT MISSION"
-msgstr "ミッション開始"
+msgstr "ミッション受諾"
 
-#, fuzzy
 #| msgctxt "Missions/KEY_MISSION_HAVEN"
 #| msgid "HAVEN"
 msgctxt "DLC5/KEY_MARKETPLACE_HAVEN_HEADER"
 msgid "KAOS HAVEN"
-msgstr "ヘイヴン"
+msgstr "カオスヘイヴン"
 
-#, fuzzy
 #| msgctxt "Tutorial/KEY_TUTORIAL_MANTICORE_NAME"
 #| msgid "The Manticore"
 msgctxt "DLC5/KEY_MARKETPLACE_HAVEN_ADDITIONAL_HEADER"
 msgid "The Marketplace"
-msgstr "マンティコア"
+msgstr "マーケットプレス"
 
 msgctxt "DLC5/KEY_MARKETPLACE_UPDATE_DESCRIPTION"
 msgid "Offers changes every day"
@@ -3283,19 +3279,17 @@ msgctxt "DLC5/KEY_MARKETPLACE_BUY"
 msgid "Buy"
 msgstr ""
 
-#, fuzzy
 #| msgctxt "PH_Localization/KEY_GEOSCAPE_NO_PRODUCTION"
 #| msgid "NO ITEMS AVAILABLE"
 msgctxt "DLC5/KEY_MARKETPLACE_NO_OFFERS"
 msgid "NO OFFERS AVAILABLE"
-msgstr "利用できるアイテムはありません"
+msgstr "購入可能な商品がない"
 
-#, fuzzy
 #| msgctxt "Missions/KEY_MISSION_SUMMARY_COMPLETED"
 #| msgid "MISSION COMPLETE"
 msgctxt "DLC5/KEY_MARKETPLACE_NO_MISSIONS"
 msgid "ALL MISSIONS ARE COMPLETED"
-msgstr "ミッション完了"
+msgstr "全ミッション完了済"
 
 msgctxt "DLC5/KEY_KS_OBLITERATOR"
 msgid "Obliterator"
@@ -3305,69 +3299,61 @@ msgctxt "DLC5/KEY_KS_DEVASTATOR"
 msgid "Devastator"
 msgstr ""
 
-#, fuzzy
 #| msgctxt "Equipment/KEY_AN_REDEMPTOR_NAME"
 #| msgid "Redeemer"
 msgctxt "DLC5/KEY_KS_REDEMPTOR"
 msgid "Redemptor"
-msgstr "リディ―マー"
+msgstr "レデンプター"
 
-#, fuzzy
 #| msgctxt "Lore/KEY_LORE_TITLE_SUBJECT24"
 #| msgid "Subject 24"
 msgctxt "DLC5/KEY_KS_SUBJECTOR"
 msgid "Subjector"
-msgstr "サブジェクト24"
+msgstr "サブジェクター"
 
 msgctxt "DLC5/KEY_KS_TORMENTOR"
 msgid "Tormentor"
 msgstr ""
 
-#, fuzzy
 #| msgctxt "Tutorial 1 (Polaris)/KEY_TUT_ASSAULTRIFLES_NAME"
 #| msgid "Assault Rifles"
 msgctxt "DLC5/KEY_KS_OBLITERATOR_DESC"
 msgid "Kaos Assault Rifle"
-msgstr "アサルトライフル"
+msgstr "カオス アサルトライフル"
 
-#, fuzzy
 #| msgctxt "DLC 3 - Behemoth/KEY_FS_PX_AUTOCANNON_MODULE_DESCRIPTION"
 #| msgid "Phoenix Autocannon"
 msgctxt "DLC5/KEY_KS_DEVASTATOR_DESC"
 msgid "Kaos Heavy Autocannon"
-msgstr "フェニックス オートキャノン"
+msgstr "カオス ヘビーオートキャノン"
 
-#, fuzzy
 #| msgctxt "Polaris - New Weapons/KEY_FS_SHOTGUN_NAME"
 #| msgid "Slamstrike Shotgun"
 msgctxt "DLC5/KEY_KS_REDEMPTOR_DESC"
 msgid "Kaos Shotgun"
-msgstr "スラムストライク ショットガン"
+msgstr "カオス ショットガン"
 
-#, fuzzy
 #| msgctxt "Equipment/KEY_PX_SNIPER_RIFLE_DESCRIPTION"
 #| msgid "Phoenix Sniper Rifle"
 msgctxt "DLC5/KEY_KS_SUBJECTOR_DESC"
 msgid "Kaos Sniper Rifle"
-msgstr "フェニックス スナイパーライフル"
+msgstr "カオス スナイパーライフル"
 
-#, fuzzy
 #| msgctxt "Tutorial 1 (Polaris)/KEY_TUT_HANDGUNS_NAME"
 #| msgid "Handguns"
 msgctxt "DLC5/KEY_KS_TORMENTOR_DESC"
 msgid "Kaos Handgun"
-msgstr "ハンドガン"
+msgstr "カオス ハンドガン"
 
 msgctxt "DLC5/KEY_TAURUS"
 msgid "Taurus II"
 msgstr ""
 
-#, fuzzy
 #| msgctxt "Equipment/KEY_VEHICLE_ROCKET_TURRET_DESCRIPTION"
 #| msgid "Phoenix Scarab Missile Turret"
 msgctxt "DLC5/KEY_TAURUS_DESC"
 msgid "Phoenix Scarab Heavy Turret"
-msgstr "フェニックス スカラベ ミサイルタレット"
+msgstr "フェニックス スカラベ ヘビータレット"
 
 #, fuzzy
 #| msgctxt "DLC2 Necronomicon/KEY_AC_SNIPER_NAME"
