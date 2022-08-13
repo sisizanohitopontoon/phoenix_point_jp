@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2022-08-13 12:53+0000\n"
+"PO-Revision-Date: 2022-08-13 12:59+0000\n"
 "Last-Translator: higema <ltdhyndsh@yahoo.co.jp>\n"
 "Language-Team: \n"
 "Language: ja\n"
@@ -3956,41 +3956,38 @@ msgid ""
 "with some advanced campaign options using it.[LF][LF]To find more mods, browse the Steam workshop![LF][LF]Snapshot Games does not provide official support for playing with mods, so do it at your own"
 " risk!"
 msgstr ""
+"PhoenixPoint-"
+"MOD管理画面にようこそ!ここではダウンロードしたModを有効化したり、それらModのセッティングの調整を行うことが可能です。手始めをお望みなら、まずは私達のサンプルModである「カスタムキャンペーン」を確認してみましょう。このModを使用すれば、キャンペーンのより高度な設定を弄れます。[LF][LF]さらに多くのMODを探すには、Steamワークショップを確認してみましょう![LF][LF]SnapshotGamesはModを使用してのプレイに対する公式サポートは行っておりません。よってご利用は自己責任でお願いします!"
 
-#, fuzzy
 #| msgctxt "DLC4 Hypnos/KEY_ALN_ACHERON_NAME"
 #| msgid "ACHERON"
 msgctxt "FF1/KEY_UNIT_TYPE_ACHERONS"
 msgid "ACHERONS"
 msgstr "アケローン"
 
-#, fuzzy
 #| msgctxt "DLC 3 - Behemoth/KEY_ALN_CORRUPTION_NODE_NAME"
 #| msgid "CORRUPTION NODE"
 msgctxt "FF1/KEY_UNIT_TYPE_CORRUPTION_NODES"
 msgid "CORRUPTION NODES"
 msgstr "コラプションノード"
 
-#, fuzzy
 #| msgctxt "Characters and classes/KEY_ALN_SPAWNING_POOL_NAME"
 #| msgid "SPAWNERY"
 msgctxt "FF1/KEY_UNIT_TYPE_SPAWNING_POOLS"
 msgid "SPAWNERIES"
 msgstr "スポーンリィ"
 
-#, fuzzy
 #| msgctxt "Blood Titanium/KEY_AUGMENTATIONS"
 #| msgid "AUGMENTATIONS"
 msgctxt "FF1/KEY_MISSION_TYPE_INFESTATION"
 msgid "INFESTATIONS"
-msgstr "オーグメンテーション"
+msgstr "侵襲"
 
-#, fuzzy
 #| msgctxt "DLC5/KEY_MARKETPLACE_LOCATE_MISSION"
 #| msgid "LOCATE MISSION"
 msgctxt "FF1/KEY_MISSION_TYPE_KAOS_ENGINE"
 msgid "KAOS SYNDICATE MISSIONS"
-msgstr "ミッション地点を確認"
+msgstr "カオスシンジケートミッション"
 
 msgctxt "Blood Titanium/KEY_ARTHRON_ACID_GRENADE_ARM_DESCRIPTION"
 msgid "Organic Grenade Launcher"
@@ -15382,7 +15379,7 @@ msgstr "ミッションの開始中にエラーが発生しました！ミッシ
 
 msgctxt "Options Screen/KEY_OPTIONS_SAVE_ERROR_AUTOSAVE"
 msgid "An error has occured during Autosave! Please go to https://phoenixpoint.info/support and follow the instructions to fix it."
-msgstr ""
+msgstr "オートセーブ中にエラーが発生しました!https://phoenixpoint.info/supportに向かい、指示に従って修正してください。"
 
 msgctxt "Options Screen/KEY_OPTIONS_SAVE_ERROR_QUICKSAVE"
 msgid "An error has occured during Quicksave! Please make sure you have enough free memory on your device."
