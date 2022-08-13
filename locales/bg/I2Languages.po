@@ -3094,6 +3094,10 @@ msgctxt "DLC4 Hypnos/KEY_RESEARCH_SHARED_THROUGH_DIPLOMACY"
 msgid "A new research project has been shared with you"
 msgstr "一个新的研究项目已与您分享"
 
+msgctxt "DLC4 Hypnos/KEY_INFILTRATION_HIGH_ALERT_DISABLED"
+msgid "Unable to initiate mission due to haven on high alert"
+msgstr "由于避风港处于高度戒备状态，无法启动任务"
+
 msgctxt "DLC5/KE_MARKETPLACE_TITLE"
 msgid "Marketplace"
 msgstr "市场"
@@ -3103,7 +3107,7 @@ msgid "The Maker mentioned that there is an abandoned Scarab that he wants to ge
 msgstr "造物者提到了一辆被遗弃的圣甲虫，他想得到它。这个老旧型号对我们没什么用，但帮他把那辆圣甲虫弄来可能会让他觉得我们可以交个朋友。"
 
 msgctxt "DLC5/KEY_MARKETPLACE_DESCRIPTION_2"
-msgid "Our operatives heard rumors of a ran-down Armadillo that the Kaos Syndicate could use. Seeing how grateful The Maker was for that Scarab, we might benefit from delivering this vehicle as well."
+msgid "Our operatives heard rumors of a run-down Armadillo that the Kaos Syndicate could use. Seeing how grateful The Maker was for that Scarab, we might benefit from delivering this vehicle as well."
 msgstr "我们的特工获得线报，有一辆破旧的犰狳战车，可能对卡奥斯集团有用。看看造物者对能得到那辆圣甲虫有多感激，我们把这辆车交给他可能对我们也有好处。"
 
 msgctxt "DLC5/KEY_MARKETPLACE_DESCRIPTION_3"
@@ -3155,7 +3159,7 @@ msgid "The Marketplace"
 msgstr "市场"
 
 msgctxt "DLC5/KEY_MARKETPLACE_UPDATE_DESCRIPTION"
-msgid "Offers changes every day"
+msgid "Offers change every day"
 msgstr "每日提供不同优惠"
 
 msgctxt "DLC5/KEY_MARKETPLACE_BUY"
@@ -3427,7 +3431,7 @@ msgid "The Kaos Syndicate has come up with a number of ideas on how we can furth
 msgstr "关于如何进一步改良我们的圣甲虫，卡奥斯集团已经提出了许多构思方案。尽管是试验性的，但这些技术显示出了巨大潜力。如果我们能够获得那些技术，也许就能在实地应用中得以运用。"
 
 msgctxt "DLC5/PX_ADVANCEDARMADILLODEVELOPMENT_RESEARCHDEF_NAME"
-msgid "Advanced Aramdillo Development"
+msgid "Advanced Armadillo Development"
 msgstr "高级犰狳研发"
 
 msgctxt "DLC5/PX_ADVANCEDARMADILLODEVELOPMENT_RESEARCHDEF_UNLOCK"
@@ -3682,21 +3686,125 @@ msgctxt "DLC5/KEY_ITEM_STAT_MALFUNCTION_TOOLTIP"
 msgid "The chance for malfunction on the next shot."
 msgstr "下一次射击发生故障的可能性。"
 
+msgctxt "DLC5/NJ_ADVANCEDARMADILLODEVELOPMENT_RESEARCHDEF_NAME"
+msgid "Advanced Aramdillo Development"
+msgstr "高级犰狳研发"
+
+msgctxt "DLC5/NJ_EXPERIMENTALARMADILLOTECHNOLOGY_RESEARCHDEF_NAME"
+msgid "Experimental Armadillo Technology"
+msgstr "实验性犰狳技术"
+
+msgctxt "DLC5/SYN_ADVANCEDASPIDADEVELOPMENT_RESEARCHDEF_NAME"
+msgid "Advanced Aspida Development"
+msgstr "高级悬浮车研发"
+
+msgctxt "DLC5/SYN_EXPERIMENTALASPIDATECHNOLOGY_RESEARCHDEF_NAME"
+msgid "Experimental Aspida Technology"
+msgstr "实验性悬浮车技术"
+
 msgctxt "Mods/KEY_MS_MODS"
 msgid "MODS"
-msgstr "[null]"
+msgstr "MOD"
 
 msgctxt "Mods/KEY_MODS_PANEL_NAME"
 msgid "MODS"
-msgstr "[null]"
+msgstr "MOD"
 
 msgctxt "Mods/KEY_MOD_ENABLE_FAIL"
 msgid "Could not enable mod '{0}'"
-msgstr "[null]"
+msgstr "无法启用MOD“{0}”"
 
 msgctxt "Mods/KEY_MOD_DISABLE_FAIL"
 msgid "Could not disable mod '{0}'"
-msgstr "[null]"
+msgstr "无法停用MOD“{0}”"
+
+msgctxt "Mods/KEY_MOD_RESTART_NEEDED"
+msgid "Some mod changes will take effect after restart"
+msgstr "部分MOD更改将会在重新开始之后生效"
+
+msgctxt "Mods/KEY_MOD_MISSING_SAVE"
+msgid "Save is created with missing mods. Continue load?[LF]Missing mods:[LF][LF]{0}"
+msgstr "创建存档时所使用的部分MOD已缺失。是否继续加载？[LF]缺失的MOD：[LF] [LF] {0}"
+
+msgctxt "Mods/KEY_MOD_SETTINGS"
+msgid "MOD SETTINGS"
+msgstr "MOD设置"
+
+msgctxt "Mods/KEY_MOD_INFO_NAME"
+msgid "Name"
+msgstr "名称"
+
+msgctxt "Mods/KEY_MOD_INFO_VERSION"
+msgid "Version"
+msgstr "版本"
+
+msgctxt "Mods/KEY_MOD_INFO_AUTHOR"
+msgid "Author"
+msgstr "作者"
+
+msgctxt "Mods/KEY_MOD_INFO_MODID"
+msgid "ModID"
+msgstr "ModID"
+
+msgctxt "Mods/KEY_MOD_INFO_LOADER"
+msgid "Loader"
+msgstr "加载器"
+
+msgctxt "Mods/KEY_MOD_INFO_DESCRIPTION"
+msgid "Description"
+msgstr "说明"
+
+msgctxt "Mods/KEY_MOD_INFO_DEPENDENCIES"
+msgid "Dependencies"
+msgstr "依赖关系"
+
+msgctxt "Mods/KEY_MOD_INFO_ERROR_CYCLING_DEPS"
+msgid "Has cycling dependences!"
+msgstr "存在循环依赖关系！"
+
+msgctxt "Mods/KEY_MOD_GET_MODS"
+msgid "GET MORE MODS"
+msgstr "获得更多MOD"
+
+msgctxt "Mods/KEY_PP_DEMO_HEADING"
+msgid "Thank you for playing the Phoenix Point demo![LF][LF]This is a time-limited demo: you will have <b>10 days of in-game time</b> to recruit, build, research, and fight against a deadly mutant menace.[LF][LF]Once the demo’s time has elapsed, <b>you can save your progress</b>, and you’ll be able to pick up where you left off should you decide to buy the full game.[LF][LF]Good luck out there, Operative!"
+msgstr "感谢游玩《Phoenix Point》试玩版！[LF][LF] 本版本为限时试玩版：你将有<b>10天的游戏内时间</b>来进行招募、建设和研究，[LF]然后对抗一波致命的变种威胁。[LF][LF] 在本试玩版的时间用尽后，<b>你可以保存自己的进度</b>，并在日后购买完整版游戏后继续游玩。[LF][LF] 祝你行动顺利，特工！"
+
+msgctxt "Mods/KEY_PP_DEMO_ENDING"
+msgid "Nice work, Operative! This timed demo may be over, but you can save your progress! If you decide to purchase the full game, you’ll be able to pick up where you left off.[LF][LF]<b>Phoenix Point: Complete Edition</b> includes the game you’ve been playing, plus 5 game-changing DLCs that add new enemies, weapons and vehicles, missions, and much more.[LF]"
+msgstr "干得好，特工！本限时试玩版可能要告一段落了，但你可以保存自己的进度！如果你日后决定购买完整版游戏，你将可以从这次结束的地方继续开始游玩。[LF][LF] <b>Phoenix Point: Complete Edition</b>包含你已在游玩的游戏，外加5个前所未有的DLC，其中新增了敌人、武器和交通工具、任务以及其他精彩内容。"
+
+msgctxt "Mods/KEY_PP_DEMO_SHOP_NOW"
+msgid "BUY NOW"
+msgstr "立即购买"
+
+msgctxt "Mods/KEY_PP_DEMO_ENDING_TITLE"
+msgid "THANKS FOR PLAYING!"
+msgstr "感谢游玩！"
+
+msgctxt "Mods/KEY_MOD_FIRST_TIME"
+msgid "Welcome to Mods for Phoenix Point! You can enable your downloaded mods and adjust their settings here. Check out our example 'Custom Campaign' mod if you want a place to start, and you can tinker with some advanced campaign options using it.[LF][LF]To find more mods, browse the Steam workshop![LF][LF]Snapshot Games does not provide official support for playing with mods, so do it at your own risk!"
+msgstr "欢迎来到Phoenix Point模块！您可以在此处启用已下载的模块并调整其设置。您也可以查看我们的“自定义战役”模块，进行参考。您也可以使用它修改一些高级战役选项。[LF][LF]若想查找更多模块，请浏览 Steam 工作室！[LF][LF]Snapshot Games 不提供模块游戏的官方支持，游玩模块请自行承担风险！"
+
+msgctxt "FF1/KEY_UNIT_TYPE_ACHERONS"
+msgid "ACHERONS"
+msgstr "地狱战士"
+
+msgctxt "FF1/KEY_UNIT_TYPE_CORRUPTION_NODES"
+msgid "CORRUPTION NODES"
+msgstr "腐败节点"
+
+msgctxt "FF1/KEY_UNIT_TYPE_SPAWNING_POOLS"
+msgid "SPAWNERIES"
+msgstr "产卵腔"
+
+msgctxt "FF1/KEY_MISSION_TYPE_INFESTATION"
+msgid "INFESTATIONS"
+msgstr "感染"
+
+msgctxt "FF1/KEY_MISSION_TYPE_KAOS_ENGINE"
+msgid "KAOS SYNDICATE MISSIONS"
+msgstr "卡奥斯集团任务"
 
 msgctxt "Blood Titanium/KEY_ARTHRON_ACID_GRENADE_ARM_DESCRIPTION"
 msgid "Organic Grenade Launcher"
@@ -8034,230 +8142,6 @@ msgctxt "Abilities/KEY_QUEEN_LEAP_DESCRIPTION"
 msgid "Leap to target location, destroying everything along the path"
 msgstr "跳到目标地点并摧毁沿途所有物体"
 
-msgctxt "Arkham/KEY_OWNED_AIRCRAFTS"
-msgid "OWNED AIRCRAFT"
-msgstr "已拥有飞行器"
-
-msgctxt "Arkham/KEY_SOLDIER_DISMISS"
-msgid "DISMISS"
-msgstr "遣散"
-
-msgctxt "Arkham/KEY_ROSTER_STATISTICS"
-msgid "ATTRIBUTES"
-msgstr "属性"
-
-msgctxt "Arkham/KEY_ROSTER_STAT_STEALTH"
-msgid "STEALTH"
-msgstr "潜行"
-
-msgctxt "Arkham/KEY_ROSTER_SERVICE_RECORD"
-msgid "SERVICE RECORD"
-msgstr "服役记录"
-
-msgctxt "Arkham/KEY_ROSTER_BIRTH_DATE"
-msgid "DATE OF BIRTH"
-msgstr "出生日期"
-
-msgctxt "Arkham/KEY_ROSTER_SERVICE_START"
-msgid "SERVICE START"
-msgstr "服役起点"
-
-msgctxt "Arkham/KEY_ROSTER_NUMBER_OF_MISSIONS"
-msgid "NUMBER OF MISSIONS"
-msgstr "任务次数"
-
-msgctxt "Arkham/KEY_ROSTER_MOST_SKILLS_USED"
-msgid "MOST USED SKILLS"
-msgstr "最常用技能"
-
-msgctxt "Arkham/KEY_ROSTER_FAVOURITE_WEAPONS"
-msgid "FAVOURITE EQUIPMENT"
-msgstr "最喜爱装备"
-
-msgctxt "Arkham/KEY_ROSTER_TOP_KILLED_ENEMIES"
-msgid "ENEMY KILLS"
-msgstr "杀敌数"
-
-msgctxt "Arkham/KEY_ROSTER_TIMES_WOUNDED"
-msgid "TIMES WOUNDED"
-msgstr "受伤次数"
-
-msgctxt "Arkham/KEY_ROSTER_DEATH_DATE"
-msgid "DATE OF DEATH"
-msgstr "死亡日期"
-
-msgctxt "Arkham/KEY_ROSTER_DEATH_REASON"
-msgid "CAUSE OF DEATH"
-msgstr "死亡原因"
-
-msgctxt "Arkham/KEY_ROSTER_MEMORIAL"
-msgid "MEMORIAL"
-msgstr "纪念"
-
-msgctxt "Arkham/KEY_SOLDIER_STATUSES"
-msgid "STATUSES"
-msgstr "状态"
-
-msgctxt "Arkham/KEY_ROSTER_TOTAL_KILLS"
-msgid "TOTAL KILLS"
-msgstr "总击杀数"
-
-msgctxt "Arkham/KEY_ROSTER_ORIGINAL_FACTION"
-msgid "ORIGINAL FACTION"
-msgstr "原始派系"
-
-msgctxt "Arkham/KEY_ROSTER_MEMORIAL_RECORD"
-msgid "MEMORIAL RECORD"
-msgstr "纪念记录"
-
-msgctxt "Arkham/KEY_ROSTER_SERIVCE_END"
-msgid "SERVICE END"
-msgstr "服役终点"
-
-msgctxt "Arkham/KEY_ROSTER_DEATH_BLED_OUT"
-msgid "BLEEDING"
-msgstr "流血"
-
-msgctxt "Arkham/KEY_ROSTER_DEATH_ACID_BURNED"
-msgid "ACID"
-msgstr "酸蚀"
-
-msgctxt "Arkham/KEY_ROSTER_DEATH_POISONED"
-msgid "POISON"
-msgstr "中毒"
-
-msgctxt "Arkham/KEY_ROSTER_DEATH_IMMOLATED"
-msgid "FIRE"
-msgstr "火焰"
-
-msgctxt "Arkham/KEY_ROSTER_DEATH_STARVED"
-msgid "STARVATION"
-msgstr "饥饿"
-
-msgctxt "Arkham/KEY_ROSTER_DEATH_FELL"
-msgid "FALLING"
-msgstr "坠落"
-
-msgctxt "Arkham/KEY_ROSTER_DEATH_GEOSCAPE_EVENT"
-msgid "ACCIDENT"
-msgstr "意外"
-
-msgctxt "Arkham/KEY_ROSTER_DEATH_FRIENDLY_FIRE"
-msgid "FRIENDLY FIRE"
-msgstr "误伤"
-
-msgctxt "Arkham/KEY_ROSTER_READY_ITEMS"
-msgid "READY ITEMS"
-msgstr "就绪物品"
-
-msgctxt "Arkham/KEY_ROSTER_MEMORIAL_TAB_DESCRIPTION"
-msgid "Comrades fallen in the line of duty"
-msgstr "因公殉职的战友"
-
-msgctxt "Arkham/KEY_ROSTER_ITEM_SLOT_EMPTY"
-msgid "EMPTY"
-msgstr "空"
-
-msgctxt "Arkham/KEY_SOLDIER_EDIT"
-msgid "EDIT UNIT"
-msgstr "编辑单位"
-
-msgctxt "Arkham/KEY_VEHICLE_EDIT"
-msgid "EDIT VEHICLE"
-msgstr "编辑载具"
-
-msgctxt "Arkham/KEY_MUTOG_EDIT"
-msgid "EDIT MUTOG"
-msgstr "编辑变异犬"
-
-msgctxt "Arkham/KEY_VEHICLE_SCRAP"
-msgid "SCRAP VEHICLE"
-msgstr "拆毁载具"
-
-msgctxt "Arkham/KEY_MUTOG_SCRAP"
-msgid "HARVEST MUTOG"
-msgstr "获得变异犬"
-
-msgctxt "Arkham/KEY_SCRAP_MATERIALS"
-msgid "<size=55><color=#FFA268>[materials]  {0}</color></size>  "
-msgstr "<size=55><color=#FFA268>[materials] {0}</color></size>"
-
-msgctxt "Arkham/KEY_SCRAP_TECH"
-msgid "<size=55><color=#1DA4FA>[tech] {0}</color></size>  "
-msgstr "<size=55><color=#1DA4FA>[tech] {0}</color></size>"
-
-msgctxt "Arkham/KEY_SCRAP_SUPPLIES"
-msgid "<size=55><color=#42FF1D>[food] {0}</color></size>  "
-msgstr "<size=55><color=#42FF1D>[food] {0}</color></size>"
-
-msgctxt "Arkham/KEY_SCRAP_MUTAGEN"
-msgid "<size=55><color=#CF3BFF>[mutagen] {0}</color></size>  "
-msgstr "<size=55><color=#CF3BFF>[mutagen] {0}</color></size>"
-
-msgctxt "Arkham/KEY_SCRAP_TEXT"
-msgid "You will recover:"
-msgstr "你将回收："
-
-msgctxt "Arkham/KEY_ENTER_VEHICLE_PROMPT"
-msgid "Enter vehicle?"
-msgstr "进入载具？"
-
-msgctxt "Arkham/KEY_EXIT_MISSION_PROMPT"
-msgid "Evacuate?"
-msgstr "撤离？"
-
-msgctxt "Arkham/KEY_ACTIVATE_OBJECTIVE_PROMPT"
-msgid "Activate objective?"
-msgstr "激活目标？"
-
-msgctxt "Arkham/KEY_WEAPON_SELECTION_MAGAZINE"
-msgid "MAGAZINES"
-msgstr "弹匣"
-
-msgctxt "Arkham/KEY_ABILITY_CONFIRMATION_COST"
-msgid "COST"
-msgstr "消耗"
-
-msgctxt "Arkham/KEY_OPTIONS_DETAILED_TACTICAL_INFO"
-msgid "SHOW DETAILED EQUIPMENT INFO IN BATTLE"
-msgstr "在战斗中显示装备详细信息"
-
-msgctxt "Arkham/KEY_WEAPON_SELECTION_MAGAZINE_TOOLTIP"
-msgid "Number of Ammo magazines carried"
-msgstr "携带的弹匣数量"
-
-msgctxt "Arkham/KEY_WEAPON_SELECTION_AMMO_TOOLTIP"
-msgid "Rounds remaining in weapon"
-msgstr "武器剩余弹药"
-
-msgctxt "Arkham/KEY_ITEM_STAT_SINGLE_SHOT_TOOLTIP"
-msgid "Fires a single shot with each attack"
-msgstr "攻击为单次射击"
-
-msgctxt "Arkham/KEY_ITEM_STAT_ROUND_BURST_TOOLTIP"
-msgid "Fires a burst of multiple shots with each attack"
-msgstr "攻击连续多次射击"
-
-msgctxt "Arkham/KEY_ITEM_STAT_HEAL"
-msgid "HEAL"
-msgstr "治疗"
-
-msgctxt "Arkham/KEY_ITEM_STAT_HEAL_TOOLTIP"
-msgid "Hit Points restored to target soldier"
-msgstr "目标士兵恢复的生命值"
-
-msgctxt "Arkham/KEY_SOLDIER_HP"
-msgid "HP"
-msgstr "生命值"
-
-msgctxt "Arkham/KEY_SOLDIER_AP"
-msgid "AP"
-msgstr "行动点数"
-
-msgctxt "Arkham/KEY_ROSTER_DEATH_MIND_CONTROLLED"
-msgid "MIND CONTROLLED"
-msgstr "心灵受控"
-
 msgctxt "Polaris/KEY_CUSTOM_UNIQUE_SOLDIER"
 msgid "Unique"
 msgstr "独特"
@@ -8529,6 +8413,230 @@ msgstr "[null]"
 msgctxt "Polaris/KEY_MISSION_HAVEN_INFESTATION_DESCRIPTION"
 msgid "Clear haven infestation description PLACEHOLDER"
 msgstr "[null]"
+
+msgctxt "Arkham/KEY_OWNED_AIRCRAFTS"
+msgid "OWNED AIRCRAFT"
+msgstr "已拥有飞行器"
+
+msgctxt "Arkham/KEY_SOLDIER_DISMISS"
+msgid "DISMISS"
+msgstr "遣散"
+
+msgctxt "Arkham/KEY_ROSTER_STATISTICS"
+msgid "ATTRIBUTES"
+msgstr "属性"
+
+msgctxt "Arkham/KEY_ROSTER_STAT_STEALTH"
+msgid "STEALTH"
+msgstr "潜行"
+
+msgctxt "Arkham/KEY_ROSTER_SERVICE_RECORD"
+msgid "SERVICE RECORD"
+msgstr "服役记录"
+
+msgctxt "Arkham/KEY_ROSTER_BIRTH_DATE"
+msgid "DATE OF BIRTH"
+msgstr "出生日期"
+
+msgctxt "Arkham/KEY_ROSTER_SERVICE_START"
+msgid "SERVICE START"
+msgstr "服役起点"
+
+msgctxt "Arkham/KEY_ROSTER_NUMBER_OF_MISSIONS"
+msgid "NUMBER OF MISSIONS"
+msgstr "任务次数"
+
+msgctxt "Arkham/KEY_ROSTER_MOST_SKILLS_USED"
+msgid "MOST USED SKILLS"
+msgstr "最常用技能"
+
+msgctxt "Arkham/KEY_ROSTER_FAVOURITE_WEAPONS"
+msgid "FAVOURITE EQUIPMENT"
+msgstr "最喜爱装备"
+
+msgctxt "Arkham/KEY_ROSTER_TOP_KILLED_ENEMIES"
+msgid "ENEMY KILLS"
+msgstr "杀敌数"
+
+msgctxt "Arkham/KEY_ROSTER_TIMES_WOUNDED"
+msgid "TIMES WOUNDED"
+msgstr "受伤次数"
+
+msgctxt "Arkham/KEY_ROSTER_DEATH_DATE"
+msgid "DATE OF DEATH"
+msgstr "死亡日期"
+
+msgctxt "Arkham/KEY_ROSTER_DEATH_REASON"
+msgid "CAUSE OF DEATH"
+msgstr "死亡原因"
+
+msgctxt "Arkham/KEY_ROSTER_MEMORIAL"
+msgid "MEMORIAL"
+msgstr "纪念"
+
+msgctxt "Arkham/KEY_SOLDIER_STATUSES"
+msgid "STATUSES"
+msgstr "状态"
+
+msgctxt "Arkham/KEY_ROSTER_TOTAL_KILLS"
+msgid "TOTAL KILLS"
+msgstr "总击杀数"
+
+msgctxt "Arkham/KEY_ROSTER_ORIGINAL_FACTION"
+msgid "ORIGINAL FACTION"
+msgstr "原始派系"
+
+msgctxt "Arkham/KEY_ROSTER_MEMORIAL_RECORD"
+msgid "MEMORIAL RECORD"
+msgstr "纪念记录"
+
+msgctxt "Arkham/KEY_ROSTER_SERIVCE_END"
+msgid "SERVICE END"
+msgstr "服役终点"
+
+msgctxt "Arkham/KEY_ROSTER_DEATH_BLED_OUT"
+msgid "BLEEDING"
+msgstr "流血"
+
+msgctxt "Arkham/KEY_ROSTER_DEATH_ACID_BURNED"
+msgid "ACID"
+msgstr "酸蚀"
+
+msgctxt "Arkham/KEY_ROSTER_DEATH_POISONED"
+msgid "POISON"
+msgstr "中毒"
+
+msgctxt "Arkham/KEY_ROSTER_DEATH_IMMOLATED"
+msgid "FIRE"
+msgstr "火焰"
+
+msgctxt "Arkham/KEY_ROSTER_DEATH_STARVED"
+msgid "STARVATION"
+msgstr "饥饿"
+
+msgctxt "Arkham/KEY_ROSTER_DEATH_FELL"
+msgid "FALLING"
+msgstr "坠落"
+
+msgctxt "Arkham/KEY_ROSTER_DEATH_GEOSCAPE_EVENT"
+msgid "ACCIDENT"
+msgstr "意外"
+
+msgctxt "Arkham/KEY_ROSTER_DEATH_FRIENDLY_FIRE"
+msgid "FRIENDLY FIRE"
+msgstr "误伤"
+
+msgctxt "Arkham/KEY_ROSTER_READY_ITEMS"
+msgid "READY ITEMS"
+msgstr "就绪物品"
+
+msgctxt "Arkham/KEY_ROSTER_MEMORIAL_TAB_DESCRIPTION"
+msgid "Comrades fallen in the line of duty"
+msgstr "因公殉职的战友"
+
+msgctxt "Arkham/KEY_ROSTER_ITEM_SLOT_EMPTY"
+msgid "EMPTY"
+msgstr "空"
+
+msgctxt "Arkham/KEY_SOLDIER_EDIT"
+msgid "EDIT UNIT"
+msgstr "编辑单位"
+
+msgctxt "Arkham/KEY_VEHICLE_EDIT"
+msgid "EDIT VEHICLE"
+msgstr "编辑载具"
+
+msgctxt "Arkham/KEY_MUTOG_EDIT"
+msgid "EDIT MUTOG"
+msgstr "编辑变异犬"
+
+msgctxt "Arkham/KEY_VEHICLE_SCRAP"
+msgid "SCRAP VEHICLE"
+msgstr "拆毁载具"
+
+msgctxt "Arkham/KEY_MUTOG_SCRAP"
+msgid "HARVEST MUTOG"
+msgstr "获得变异犬"
+
+msgctxt "Arkham/KEY_SCRAP_MATERIALS"
+msgid "<size=55><color=#FFA268>[materials]  {0}</color></size>  "
+msgstr "<size=55><color=#FFA268>[materials] {0}</color></size>"
+
+msgctxt "Arkham/KEY_SCRAP_TECH"
+msgid "<size=55><color=#1DA4FA>[tech] {0}</color></size>  "
+msgstr "<size=55><color=#1DA4FA>[tech] {0}</color></size>"
+
+msgctxt "Arkham/KEY_SCRAP_SUPPLIES"
+msgid "<size=55><color=#42FF1D>[food] {0}</color></size>  "
+msgstr "<size=55><color=#42FF1D>[food] {0}</color></size>"
+
+msgctxt "Arkham/KEY_SCRAP_MUTAGEN"
+msgid "<size=55><color=#CF3BFF>[mutagen] {0}</color></size>  "
+msgstr "<size=55><color=#CF3BFF>[mutagen] {0}</color></size>"
+
+msgctxt "Arkham/KEY_SCRAP_TEXT"
+msgid "You will recover:"
+msgstr "你将回收："
+
+msgctxt "Arkham/KEY_ENTER_VEHICLE_PROMPT"
+msgid "Enter vehicle?"
+msgstr "进入载具？"
+
+msgctxt "Arkham/KEY_EXIT_MISSION_PROMPT"
+msgid "Evacuate?"
+msgstr "撤离？"
+
+msgctxt "Arkham/KEY_ACTIVATE_OBJECTIVE_PROMPT"
+msgid "Activate objective?"
+msgstr "激活目标？"
+
+msgctxt "Arkham/KEY_WEAPON_SELECTION_MAGAZINE"
+msgid "MAGAZINES"
+msgstr "弹匣"
+
+msgctxt "Arkham/KEY_ABILITY_CONFIRMATION_COST"
+msgid "COST"
+msgstr "消耗"
+
+msgctxt "Arkham/KEY_OPTIONS_DETAILED_TACTICAL_INFO"
+msgid "SHOW DETAILED EQUIPMENT INFO IN BATTLE"
+msgstr "在战斗中显示装备详细信息"
+
+msgctxt "Arkham/KEY_WEAPON_SELECTION_MAGAZINE_TOOLTIP"
+msgid "Number of Ammo magazines carried"
+msgstr "携带的弹匣数量"
+
+msgctxt "Arkham/KEY_WEAPON_SELECTION_AMMO_TOOLTIP"
+msgid "Rounds remaining in weapon"
+msgstr "武器剩余弹药"
+
+msgctxt "Arkham/KEY_ITEM_STAT_SINGLE_SHOT_TOOLTIP"
+msgid "Fires a single shot with each attack"
+msgstr "攻击为单次射击"
+
+msgctxt "Arkham/KEY_ITEM_STAT_ROUND_BURST_TOOLTIP"
+msgid "Fires a burst of multiple shots with each attack"
+msgstr "攻击连续多次射击"
+
+msgctxt "Arkham/KEY_ITEM_STAT_HEAL"
+msgid "HEAL"
+msgstr "治疗"
+
+msgctxt "Arkham/KEY_ITEM_STAT_HEAL_TOOLTIP"
+msgid "Hit Points restored to target soldier"
+msgstr "目标士兵恢复的生命值"
+
+msgctxt "Arkham/KEY_SOLDIER_HP"
+msgid "HP"
+msgstr "生命值"
+
+msgctxt "Arkham/KEY_SOLDIER_AP"
+msgid "AP"
+msgstr "行动点数"
+
+msgctxt "Arkham/KEY_ROSTER_DEATH_MIND_CONTROLLED"
+msgid "MIND CONTROLLED"
+msgstr "心灵受控"
 
 msgctxt "Orryx/KEY_STATUS_PANIC_IMMUNITY_NAME"
 msgid "RECOVERED"
@@ -14479,8 +14587,8 @@ msgid "An error has occured during mission initialization! Mission restart is im
 msgstr "任务初始化期间发生错误！无法重新开始任务。请确保你的设备拥有足够的剩余内存。"
 
 msgctxt "Options Screen/KEY_OPTIONS_SAVE_ERROR_AUTOSAVE"
-msgid "An error has occured during Autosave! Please make sure you have enough free memory on your device."
-msgstr "自动保存时发生错误！请确保你的设备拥有足够的剩余内存。"
+msgid "An error has occured during Autosave! Please go to https://phoenixpoint.info/support and follow the instructions to fix it."
+msgstr "自动保存时发生错误！请前往https://phoenixpoint.info/support并遵循说明修复该问题。"
 
 msgctxt "Options Screen/KEY_OPTIONS_SAVE_ERROR_QUICKSAVE"
 msgid "An error has occured during Quicksave! Please make sure you have enough free memory on your device."

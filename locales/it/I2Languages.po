@@ -3094,6 +3094,10 @@ msgctxt "DLC4 Hypnos/KEY_RESEARCH_SHARED_THROUGH_DIPLOMACY"
 msgid "A new research project has been shared with you"
 msgstr "Udostępniono Ci nowy projekt badawczy"
 
+msgctxt "DLC4 Hypnos/KEY_INFILTRATION_HIGH_ALERT_DISABLED"
+msgid "Unable to initiate mission due to haven on high alert"
+msgstr "Nie można rozpocząć misji ze względu na schronienie w stanie wysokiej gotowości"
+
 msgctxt "DLC5/KE_MARKETPLACE_TITLE"
 msgid "Marketplace"
 msgstr "Rynek"
@@ -3103,7 +3107,7 @@ msgid "The Maker mentioned that there is an abandoned Scarab that he wants to ge
 msgstr "Konstruktor wspomniał o porzuconym Skarabeuszu, którego chciałby przejąć. To stary model, który do niczego nam się nie przyda, ale warto byłoby go zdobyć, by zyskać jego przychylność."
 
 msgctxt "DLC5/KEY_MARKETPLACE_DESCRIPTION_2"
-msgid "Our operatives heard rumors of a ran-down Armadillo that the Kaos Syndicate could use. Seeing how grateful The Maker was for that Scarab, we might benefit from delivering this vehicle as well."
+msgid "Our operatives heard rumors of a run-down Armadillo that the Kaos Syndicate could use. Seeing how grateful The Maker was for that Scarab, we might benefit from delivering this vehicle as well."
 msgstr "Do naszych operatorów dotarły plotki o wyeksploatowanym Pancerniku, który mógłby przydać się syndykatowi Kaos. Biorąc pod uwagę to, jaką wdzięczność okazał nam Konstruktor za dostarczenie Skarabeusza, może warto byłoby zdobyć także ten pojazd."
 
 msgctxt "DLC5/KEY_MARKETPLACE_DESCRIPTION_3"
@@ -3155,7 +3159,7 @@ msgid "The Marketplace"
 msgstr "Rynek"
 
 msgctxt "DLC5/KEY_MARKETPLACE_UPDATE_DESCRIPTION"
-msgid "Offers changes every day"
+msgid "Offers change every day"
 msgstr "Codziennie nowe oferty"
 
 msgctxt "DLC5/KEY_MARKETPLACE_BUY"
@@ -3427,7 +3431,7 @@ msgid "The Kaos Syndicate has come up with a number of ideas on how we can furth
 msgstr "Syndykat Kaos podzielił się z nami kilkoma pomysłami, które pozwolą na dalsze udoskonalanie Skarabeuszy. Mimo że są to technologie eksperymentalne, wydają się mieć ogromy potencjał i mogą przydać się w terenie, więc warto byłoby je wdrożyć."
 
 msgctxt "DLC5/PX_ADVANCEDARMADILLODEVELOPMENT_RESEARCHDEF_NAME"
-msgid "Advanced Aramdillo Development"
+msgid "Advanced Armadillo Development"
 msgstr "Zaawansowane prace rozwojowe nad Pancernikami"
 
 msgctxt "DLC5/PX_ADVANCEDARMADILLODEVELOPMENT_RESEARCHDEF_UNLOCK"
@@ -3682,21 +3686,125 @@ msgctxt "DLC5/KEY_ITEM_STAT_MALFUNCTION_TOOLTIP"
 msgid "The chance for malfunction on the next shot."
 msgstr "Szansa wystąpienia awarii przy następnym strzale."
 
+msgctxt "DLC5/NJ_ADVANCEDARMADILLODEVELOPMENT_RESEARCHDEF_NAME"
+msgid "Advanced Aramdillo Development"
+msgstr "Zaawansowane prace rozwojowe nad Pancernikami"
+
+msgctxt "DLC5/NJ_EXPERIMENTALARMADILLOTECHNOLOGY_RESEARCHDEF_NAME"
+msgid "Experimental Armadillo Technology"
+msgstr "Eksperymentalna technologia Pancerników"
+
+msgctxt "DLC5/SYN_ADVANCEDASPIDADEVELOPMENT_RESEARCHDEF_NAME"
+msgid "Advanced Aspida Development"
+msgstr "Zaawansowane prace rozwojowe nad Aspidami"
+
+msgctxt "DLC5/SYN_EXPERIMENTALASPIDATECHNOLOGY_RESEARCHDEF_NAME"
+msgid "Experimental Aspida Technology"
+msgstr "Eksperymentalna technologia Aspid"
+
 msgctxt "Mods/KEY_MS_MODS"
 msgid "MODS"
-msgstr "[null]"
+msgstr "MODYFIKACJE"
 
 msgctxt "Mods/KEY_MODS_PANEL_NAME"
 msgid "MODS"
-msgstr "[null]"
+msgstr "MODYFIKACJE"
 
 msgctxt "Mods/KEY_MOD_ENABLE_FAIL"
 msgid "Could not enable mod '{0}'"
-msgstr "[null]"
+msgstr "Nie udało się włączyć modyfikacji „{0}”"
 
 msgctxt "Mods/KEY_MOD_DISABLE_FAIL"
 msgid "Could not disable mod '{0}'"
-msgstr "[null]"
+msgstr "Nie udało się wyłączyć modyfikacji „{0}”"
+
+msgctxt "Mods/KEY_MOD_RESTART_NEEDED"
+msgid "Some mod changes will take effect after restart"
+msgstr "Niektóre elementy modyfikacji zaczną działać po zrestartowaniu"
+
+msgctxt "Mods/KEY_MOD_MISSING_SAVE"
+msgid "Save is created with missing mods. Continue load?[LF]Missing mods:[LF][LF]{0}"
+msgstr "Zapis gry został utworzony pomimo braku modyfikacji. Kontynuować wczytywanie?[LF] Brakujące modyfikacje:[LF] [LF] {0}"
+
+msgctxt "Mods/KEY_MOD_SETTINGS"
+msgid "MOD SETTINGS"
+msgstr "USTAWIENIA MODYFIKACJI"
+
+msgctxt "Mods/KEY_MOD_INFO_NAME"
+msgid "Name"
+msgstr "Nazwa"
+
+msgctxt "Mods/KEY_MOD_INFO_VERSION"
+msgid "Version"
+msgstr "Wersja"
+
+msgctxt "Mods/KEY_MOD_INFO_AUTHOR"
+msgid "Author"
+msgstr "Autor"
+
+msgctxt "Mods/KEY_MOD_INFO_MODID"
+msgid "ModID"
+msgstr "ModID"
+
+msgctxt "Mods/KEY_MOD_INFO_LOADER"
+msgid "Loader"
+msgstr "Moduł wczytywania"
+
+msgctxt "Mods/KEY_MOD_INFO_DESCRIPTION"
+msgid "Description"
+msgstr "Opis"
+
+msgctxt "Mods/KEY_MOD_INFO_DEPENDENCIES"
+msgid "Dependencies"
+msgstr "Niezbędne pliki"
+
+msgctxt "Mods/KEY_MOD_INFO_ERROR_CYCLING_DEPS"
+msgid "Has cycling dependences!"
+msgstr "Ma wzajemne zależności!"
+
+msgctxt "Mods/KEY_MOD_GET_MODS"
+msgid "GET MORE MODS"
+msgstr "POBIERZ WIĘCEJ MODYFIKACJI"
+
+msgctxt "Mods/KEY_PP_DEMO_HEADING"
+msgid "Thank you for playing the Phoenix Point demo![LF][LF]This is a time-limited demo: you will have <b>10 days of in-game time</b> to recruit, build, research, and fight against a deadly mutant menace.[LF][LF]Once the demo’s time has elapsed, <b>you can save your progress</b>, and you’ll be able to pick up where you left off should you decide to buy the full game.[LF][LF]Good luck out there, Operative!"
+msgstr "Dziękujemy za grę w wersję demonstracyjną Phoenix Point![LF][LF] Wersja demonstracyjna gry ma limit czasowy: masz <b>10 dni w grze</b> na rekrutowanie, budowanie, prowadzenie badań i walkę z wrogimi mutantami.[LF] [LF] Gdy limit czasu wersji demonstracyjnej upłynie, <b>możesz zapisać stan gry</b>, aby kontynuować kampanię po zakupieniu pełnej wersji gry.[LF] [LF] Życzymy sukcesów w walce!"
+
+msgctxt "Mods/KEY_PP_DEMO_ENDING"
+msgid "Nice work, Operative! This timed demo may be over, but you can save your progress! If you decide to purchase the full game, you’ll be able to pick up where you left off.[LF][LF]<b>Phoenix Point: Complete Edition</b> includes the game you’ve been playing, plus 5 game-changing DLCs that add new enemies, weapons and vehicles, missions, and much more.[LF]"
+msgstr "Świetna robota! Limit czasu wersji demonstracyjnej upłynął, ale możesz zapisać postępy w grze. Jeśli zdecydujesz się na zakup pełnej wersji gry, kampanię możesz kontynuować z tego punktu.[LF] [LF] <b>Phoenix Point: Complete Edition</b> obejmuje podstawową wersję gry oraz 5 rozbudowanych dodatków z nowymi przeciwnikami, bronią, pojazdami, misjami i innymi atrakcjami."
+
+msgctxt "Mods/KEY_PP_DEMO_SHOP_NOW"
+msgid "BUY NOW"
+msgstr "KUP TERAZ"
+
+msgctxt "Mods/KEY_PP_DEMO_ENDING_TITLE"
+msgid "THANKS FOR PLAYING!"
+msgstr "DZIĘKUJEMY ZA GRĘ!"
+
+msgctxt "Mods/KEY_MOD_FIRST_TIME"
+msgid "Welcome to Mods for Phoenix Point! You can enable your downloaded mods and adjust their settings here. Check out our example 'Custom Campaign' mod if you want a place to start, and you can tinker with some advanced campaign options using it.[LF][LF]To find more mods, browse the Steam workshop![LF][LF]Snapshot Games does not provide official support for playing with mods, so do it at your own risk!"
+msgstr "Witamy w modach do gry Phoenix Point! Tutaj możesz aktywować pobrane mody oraz skonfigurować ich ustawienia. Możesz na przykład zacząć od modu „Kampania niestandardowa”, a następnie pogrzebać przy zaawansowanych opcjach kampanii.[LF][LF]Więcej modów znajdziesz w warsztacie Steam![LF][LF]Firma Snapshot Games nie wspiera oficjalnie gry z modami, więc korzystasz z nich na własne ryzyko."
+
+msgctxt "FF1/KEY_UNIT_TYPE_ACHERONS"
+msgid "ACHERONS"
+msgstr "ACHERONY"
+
+msgctxt "FF1/KEY_UNIT_TYPE_CORRUPTION_NODES"
+msgid "CORRUPTION NODES"
+msgstr "WĘZŁY ZEPSUCIA"
+
+msgctxt "FF1/KEY_UNIT_TYPE_SPAWNING_POOLS"
+msgid "SPAWNERIES"
+msgstr "WYROISKA"
+
+msgctxt "FF1/KEY_MISSION_TYPE_INFESTATION"
+msgid "INFESTATIONS"
+msgstr "PLAGI"
+
+msgctxt "FF1/KEY_MISSION_TYPE_KAOS_ENGINE"
+msgid "KAOS SYNDICATE MISSIONS"
+msgstr "MISJE SYNDYKATU KAOS"
 
 msgctxt "Blood Titanium/KEY_ARTHRON_ACID_GRENADE_ARM_DESCRIPTION"
 msgid "Organic Grenade Launcher"
@@ -8034,230 +8142,6 @@ msgctxt "Abilities/KEY_QUEEN_LEAP_DESCRIPTION"
 msgid "Leap to target location, destroying everything along the path"
 msgstr "Skacze w miejsce docelowe, niszcząc wszystko na swojej drodze."
 
-msgctxt "Arkham/KEY_OWNED_AIRCRAFTS"
-msgid "OWNED AIRCRAFT"
-msgstr "POSIADANE STATKI POWIETRZNE"
-
-msgctxt "Arkham/KEY_SOLDIER_DISMISS"
-msgid "DISMISS"
-msgstr "ZWOLNIJ"
-
-msgctxt "Arkham/KEY_ROSTER_STATISTICS"
-msgid "ATTRIBUTES"
-msgstr "ATRYBUTY"
-
-msgctxt "Arkham/KEY_ROSTER_STAT_STEALTH"
-msgid "STEALTH"
-msgstr "SKRADANIE SIĘ"
-
-msgctxt "Arkham/KEY_ROSTER_SERVICE_RECORD"
-msgid "SERVICE RECORD"
-msgstr "HISTORIA SŁUŻBY"
-
-msgctxt "Arkham/KEY_ROSTER_BIRTH_DATE"
-msgid "DATE OF BIRTH"
-msgstr "DATA URODZENIA"
-
-msgctxt "Arkham/KEY_ROSTER_SERVICE_START"
-msgid "SERVICE START"
-msgstr "POCZĄTEK SŁUŻBY"
-
-msgctxt "Arkham/KEY_ROSTER_NUMBER_OF_MISSIONS"
-msgid "NUMBER OF MISSIONS"
-msgstr "LICZBA MISJI"
-
-msgctxt "Arkham/KEY_ROSTER_MOST_SKILLS_USED"
-msgid "MOST USED SKILLS"
-msgstr "NAJCZĘŚCIEJ UŻYWANE UMIEJĘTNOŚCI"
-
-msgctxt "Arkham/KEY_ROSTER_FAVOURITE_WEAPONS"
-msgid "FAVOURITE EQUIPMENT"
-msgstr "ULUBIONY SPRZĘT"
-
-msgctxt "Arkham/KEY_ROSTER_TOP_KILLED_ENEMIES"
-msgid "ENEMY KILLS"
-msgstr "ZABICI PRZECIWNICY"
-
-msgctxt "Arkham/KEY_ROSTER_TIMES_WOUNDED"
-msgid "TIMES WOUNDED"
-msgstr "ODNIESIONE RANY"
-
-msgctxt "Arkham/KEY_ROSTER_DEATH_DATE"
-msgid "DATE OF DEATH"
-msgstr "DATA ŚMIERCI"
-
-msgctxt "Arkham/KEY_ROSTER_DEATH_REASON"
-msgid "CAUSE OF DEATH"
-msgstr "PRZYCZYNA ŚMIERCI"
-
-msgctxt "Arkham/KEY_ROSTER_MEMORIAL"
-msgid "MEMORIAL"
-msgstr "MIEJSCE PAMIĘCI"
-
-msgctxt "Arkham/KEY_SOLDIER_STATUSES"
-msgid "STATUSES"
-msgstr "STATUSY"
-
-msgctxt "Arkham/KEY_ROSTER_TOTAL_KILLS"
-msgid "TOTAL KILLS"
-msgstr "ŁĄCZNA LICZBA ZABITYCH"
-
-msgctxt "Arkham/KEY_ROSTER_ORIGINAL_FACTION"
-msgid "ORIGINAL FACTION"
-msgstr "PIERWOTNA FRAKCJA"
-
-msgctxt "Arkham/KEY_ROSTER_MEMORIAL_RECORD"
-msgid "MEMORIAL RECORD"
-msgstr "ZAPIS W MIEJSCU PAMIĘCI"
-
-msgctxt "Arkham/KEY_ROSTER_SERIVCE_END"
-msgid "SERVICE END"
-msgstr "KONIEC SŁUŻBY"
-
-msgctxt "Arkham/KEY_ROSTER_DEATH_BLED_OUT"
-msgid "BLEEDING"
-msgstr "KRWAWIENIE"
-
-msgctxt "Arkham/KEY_ROSTER_DEATH_ACID_BURNED"
-msgid "ACID"
-msgstr "KWAS"
-
-msgctxt "Arkham/KEY_ROSTER_DEATH_POISONED"
-msgid "POISON"
-msgstr "TRUCIZNA"
-
-msgctxt "Arkham/KEY_ROSTER_DEATH_IMMOLATED"
-msgid "FIRE"
-msgstr "OGIEŃ"
-
-msgctxt "Arkham/KEY_ROSTER_DEATH_STARVED"
-msgid "STARVATION"
-msgstr "GŁÓD"
-
-msgctxt "Arkham/KEY_ROSTER_DEATH_FELL"
-msgid "FALLING"
-msgstr "UPADEK"
-
-msgctxt "Arkham/KEY_ROSTER_DEATH_GEOSCAPE_EVENT"
-msgid "ACCIDENT"
-msgstr "WYPADEK"
-
-msgctxt "Arkham/KEY_ROSTER_DEATH_FRIENDLY_FIRE"
-msgid "FRIENDLY FIRE"
-msgstr "OGIEŃ SOJUSZNICZY"
-
-msgctxt "Arkham/KEY_ROSTER_READY_ITEMS"
-msgid "READY ITEMS"
-msgstr "GOTOWE PRZEDMIOTY"
-
-msgctxt "Arkham/KEY_ROSTER_MEMORIAL_TAB_DESCRIPTION"
-msgid "Comrades fallen in the line of duty"
-msgstr "Towarzysze polegli podczas pełnienia służby"
-
-msgctxt "Arkham/KEY_ROSTER_ITEM_SLOT_EMPTY"
-msgid "EMPTY"
-msgstr "PUSTE"
-
-msgctxt "Arkham/KEY_SOLDIER_EDIT"
-msgid "EDIT UNIT"
-msgstr "EDYTUJ JEDNOSTKĘ"
-
-msgctxt "Arkham/KEY_VEHICLE_EDIT"
-msgid "EDIT VEHICLE"
-msgstr "EDYTUJ POJAZD"
-
-msgctxt "Arkham/KEY_MUTOG_EDIT"
-msgid "EDIT MUTOG"
-msgstr "EDYTUJ MUTOGA"
-
-msgctxt "Arkham/KEY_VEHICLE_SCRAP"
-msgid "SCRAP VEHICLE"
-msgstr "PRZETWÓRZ POJAZD"
-
-msgctxt "Arkham/KEY_MUTOG_SCRAP"
-msgid "HARVEST MUTOG"
-msgstr "PRZETWÓRZ MUTOGA"
-
-msgctxt "Arkham/KEY_SCRAP_MATERIALS"
-msgid "<size=55><color=#FFA268>[materials]  {0}</color></size>  "
-msgstr "<size=55><color=#FFA268>[materials] {0}</color></size>"
-
-msgctxt "Arkham/KEY_SCRAP_TECH"
-msgid "<size=55><color=#1DA4FA>[tech] {0}</color></size>  "
-msgstr "<size=55><color=#1DA4FA>[tech] {0}</color></size>"
-
-msgctxt "Arkham/KEY_SCRAP_SUPPLIES"
-msgid "<size=55><color=#42FF1D>[food] {0}</color></size>  "
-msgstr "<size=55><color=#42FF1D>[food] {0}</color></size>"
-
-msgctxt "Arkham/KEY_SCRAP_MUTAGEN"
-msgid "<size=55><color=#CF3BFF>[mutagen] {0}</color></size>  "
-msgstr "<size=55><color=#CF3BFF>[mutagen] {0}</color></size>"
-
-msgctxt "Arkham/KEY_SCRAP_TEXT"
-msgid "You will recover:"
-msgstr "Odzyskasz:"
-
-msgctxt "Arkham/KEY_ENTER_VEHICLE_PROMPT"
-msgid "Enter vehicle?"
-msgstr "WEJŚĆ DO POJAZDU?"
-
-msgctxt "Arkham/KEY_EXIT_MISSION_PROMPT"
-msgid "Evacuate?"
-msgstr "EWAKUOWAĆ?"
-
-msgctxt "Arkham/KEY_ACTIVATE_OBJECTIVE_PROMPT"
-msgid "Activate objective?"
-msgstr "AKTYWOWAĆ CEL?"
-
-msgctxt "Arkham/KEY_WEAPON_SELECTION_MAGAZINE"
-msgid "MAGAZINES"
-msgstr "MAGAZYNKI"
-
-msgctxt "Arkham/KEY_ABILITY_CONFIRMATION_COST"
-msgid "COST"
-msgstr "KOSZT"
-
-msgctxt "Arkham/KEY_OPTIONS_DETAILED_TACTICAL_INFO"
-msgid "SHOW DETAILED EQUIPMENT INFO IN BATTLE"
-msgstr "POKAŻ SZCZEGÓŁY SPRZĘTU PODCZAS BITWY"
-
-msgctxt "Arkham/KEY_WEAPON_SELECTION_MAGAZINE_TOOLTIP"
-msgid "Number of Ammo magazines carried"
-msgstr "Liczba niesionych magazynków"
-
-msgctxt "Arkham/KEY_WEAPON_SELECTION_AMMO_TOOLTIP"
-msgid "Rounds remaining in weapon"
-msgstr "Liczba pozostałych pocisków w broni"
-
-msgctxt "Arkham/KEY_ITEM_STAT_SINGLE_SHOT_TOOLTIP"
-msgid "Fires a single shot with each attack"
-msgstr "Każdy atak to pojedynczy strzał"
-
-msgctxt "Arkham/KEY_ITEM_STAT_ROUND_BURST_TOOLTIP"
-msgid "Fires a burst of multiple shots with each attack"
-msgstr "Każdy atak to seria wielu strzałów"
-
-msgctxt "Arkham/KEY_ITEM_STAT_HEAL"
-msgid "HEAL"
-msgstr "LECZENIE"
-
-msgctxt "Arkham/KEY_ITEM_STAT_HEAL_TOOLTIP"
-msgid "Hit Points restored to target soldier"
-msgstr "Punkty życia przywrócone docelowemu żołnierzowi"
-
-msgctxt "Arkham/KEY_SOLDIER_HP"
-msgid "HP"
-msgstr "PŻ"
-
-msgctxt "Arkham/KEY_SOLDIER_AP"
-msgid "AP"
-msgstr "PA"
-
-msgctxt "Arkham/KEY_ROSTER_DEATH_MIND_CONTROLLED"
-msgid "MIND CONTROLLED"
-msgstr "KONTROLA NAD UMYSŁEM"
-
 msgctxt "Polaris/KEY_CUSTOM_UNIQUE_SOLDIER"
 msgid "Unique"
 msgstr "Niepowtarzaln."
@@ -8529,6 +8413,230 @@ msgstr "[null]"
 msgctxt "Polaris/KEY_MISSION_HAVEN_INFESTATION_DESCRIPTION"
 msgid "Clear haven infestation description PLACEHOLDER"
 msgstr "[null]"
+
+msgctxt "Arkham/KEY_OWNED_AIRCRAFTS"
+msgid "OWNED AIRCRAFT"
+msgstr "POSIADANE STATKI POWIETRZNE"
+
+msgctxt "Arkham/KEY_SOLDIER_DISMISS"
+msgid "DISMISS"
+msgstr "ZWOLNIJ"
+
+msgctxt "Arkham/KEY_ROSTER_STATISTICS"
+msgid "ATTRIBUTES"
+msgstr "ATRYBUTY"
+
+msgctxt "Arkham/KEY_ROSTER_STAT_STEALTH"
+msgid "STEALTH"
+msgstr "SKRADANIE SIĘ"
+
+msgctxt "Arkham/KEY_ROSTER_SERVICE_RECORD"
+msgid "SERVICE RECORD"
+msgstr "HISTORIA SŁUŻBY"
+
+msgctxt "Arkham/KEY_ROSTER_BIRTH_DATE"
+msgid "DATE OF BIRTH"
+msgstr "DATA URODZENIA"
+
+msgctxt "Arkham/KEY_ROSTER_SERVICE_START"
+msgid "SERVICE START"
+msgstr "POCZĄTEK SŁUŻBY"
+
+msgctxt "Arkham/KEY_ROSTER_NUMBER_OF_MISSIONS"
+msgid "NUMBER OF MISSIONS"
+msgstr "LICZBA MISJI"
+
+msgctxt "Arkham/KEY_ROSTER_MOST_SKILLS_USED"
+msgid "MOST USED SKILLS"
+msgstr "NAJCZĘŚCIEJ UŻYWANE UMIEJĘTNOŚCI"
+
+msgctxt "Arkham/KEY_ROSTER_FAVOURITE_WEAPONS"
+msgid "FAVOURITE EQUIPMENT"
+msgstr "ULUBIONY SPRZĘT"
+
+msgctxt "Arkham/KEY_ROSTER_TOP_KILLED_ENEMIES"
+msgid "ENEMY KILLS"
+msgstr "ZABICI PRZECIWNICY"
+
+msgctxt "Arkham/KEY_ROSTER_TIMES_WOUNDED"
+msgid "TIMES WOUNDED"
+msgstr "ODNIESIONE RANY"
+
+msgctxt "Arkham/KEY_ROSTER_DEATH_DATE"
+msgid "DATE OF DEATH"
+msgstr "DATA ŚMIERCI"
+
+msgctxt "Arkham/KEY_ROSTER_DEATH_REASON"
+msgid "CAUSE OF DEATH"
+msgstr "PRZYCZYNA ŚMIERCI"
+
+msgctxt "Arkham/KEY_ROSTER_MEMORIAL"
+msgid "MEMORIAL"
+msgstr "MIEJSCE PAMIĘCI"
+
+msgctxt "Arkham/KEY_SOLDIER_STATUSES"
+msgid "STATUSES"
+msgstr "STATUSY"
+
+msgctxt "Arkham/KEY_ROSTER_TOTAL_KILLS"
+msgid "TOTAL KILLS"
+msgstr "ŁĄCZNA LICZBA ZABITYCH"
+
+msgctxt "Arkham/KEY_ROSTER_ORIGINAL_FACTION"
+msgid "ORIGINAL FACTION"
+msgstr "PIERWOTNA FRAKCJA"
+
+msgctxt "Arkham/KEY_ROSTER_MEMORIAL_RECORD"
+msgid "MEMORIAL RECORD"
+msgstr "ZAPIS W MIEJSCU PAMIĘCI"
+
+msgctxt "Arkham/KEY_ROSTER_SERIVCE_END"
+msgid "SERVICE END"
+msgstr "KONIEC SŁUŻBY"
+
+msgctxt "Arkham/KEY_ROSTER_DEATH_BLED_OUT"
+msgid "BLEEDING"
+msgstr "KRWAWIENIE"
+
+msgctxt "Arkham/KEY_ROSTER_DEATH_ACID_BURNED"
+msgid "ACID"
+msgstr "KWAS"
+
+msgctxt "Arkham/KEY_ROSTER_DEATH_POISONED"
+msgid "POISON"
+msgstr "TRUCIZNA"
+
+msgctxt "Arkham/KEY_ROSTER_DEATH_IMMOLATED"
+msgid "FIRE"
+msgstr "OGIEŃ"
+
+msgctxt "Arkham/KEY_ROSTER_DEATH_STARVED"
+msgid "STARVATION"
+msgstr "GŁÓD"
+
+msgctxt "Arkham/KEY_ROSTER_DEATH_FELL"
+msgid "FALLING"
+msgstr "UPADEK"
+
+msgctxt "Arkham/KEY_ROSTER_DEATH_GEOSCAPE_EVENT"
+msgid "ACCIDENT"
+msgstr "WYPADEK"
+
+msgctxt "Arkham/KEY_ROSTER_DEATH_FRIENDLY_FIRE"
+msgid "FRIENDLY FIRE"
+msgstr "OGIEŃ SOJUSZNICZY"
+
+msgctxt "Arkham/KEY_ROSTER_READY_ITEMS"
+msgid "READY ITEMS"
+msgstr "GOTOWE PRZEDMIOTY"
+
+msgctxt "Arkham/KEY_ROSTER_MEMORIAL_TAB_DESCRIPTION"
+msgid "Comrades fallen in the line of duty"
+msgstr "Towarzysze polegli podczas pełnienia służby"
+
+msgctxt "Arkham/KEY_ROSTER_ITEM_SLOT_EMPTY"
+msgid "EMPTY"
+msgstr "PUSTE"
+
+msgctxt "Arkham/KEY_SOLDIER_EDIT"
+msgid "EDIT UNIT"
+msgstr "EDYTUJ JEDNOSTKĘ"
+
+msgctxt "Arkham/KEY_VEHICLE_EDIT"
+msgid "EDIT VEHICLE"
+msgstr "EDYTUJ POJAZD"
+
+msgctxt "Arkham/KEY_MUTOG_EDIT"
+msgid "EDIT MUTOG"
+msgstr "EDYTUJ MUTOGA"
+
+msgctxt "Arkham/KEY_VEHICLE_SCRAP"
+msgid "SCRAP VEHICLE"
+msgstr "PRZETWÓRZ POJAZD"
+
+msgctxt "Arkham/KEY_MUTOG_SCRAP"
+msgid "HARVEST MUTOG"
+msgstr "PRZETWÓRZ MUTOGA"
+
+msgctxt "Arkham/KEY_SCRAP_MATERIALS"
+msgid "<size=55><color=#FFA268>[materials]  {0}</color></size>  "
+msgstr "<size=55><color=#FFA268>[materials] {0}</color></size>"
+
+msgctxt "Arkham/KEY_SCRAP_TECH"
+msgid "<size=55><color=#1DA4FA>[tech] {0}</color></size>  "
+msgstr "<size=55><color=#1DA4FA>[tech] {0}</color></size>"
+
+msgctxt "Arkham/KEY_SCRAP_SUPPLIES"
+msgid "<size=55><color=#42FF1D>[food] {0}</color></size>  "
+msgstr "<size=55><color=#42FF1D>[food] {0}</color></size>"
+
+msgctxt "Arkham/KEY_SCRAP_MUTAGEN"
+msgid "<size=55><color=#CF3BFF>[mutagen] {0}</color></size>  "
+msgstr "<size=55><color=#CF3BFF>[mutagen] {0}</color></size>"
+
+msgctxt "Arkham/KEY_SCRAP_TEXT"
+msgid "You will recover:"
+msgstr "Odzyskasz:"
+
+msgctxt "Arkham/KEY_ENTER_VEHICLE_PROMPT"
+msgid "Enter vehicle?"
+msgstr "WEJŚĆ DO POJAZDU?"
+
+msgctxt "Arkham/KEY_EXIT_MISSION_PROMPT"
+msgid "Evacuate?"
+msgstr "EWAKUOWAĆ?"
+
+msgctxt "Arkham/KEY_ACTIVATE_OBJECTIVE_PROMPT"
+msgid "Activate objective?"
+msgstr "AKTYWOWAĆ CEL?"
+
+msgctxt "Arkham/KEY_WEAPON_SELECTION_MAGAZINE"
+msgid "MAGAZINES"
+msgstr "MAGAZYNKI"
+
+msgctxt "Arkham/KEY_ABILITY_CONFIRMATION_COST"
+msgid "COST"
+msgstr "KOSZT"
+
+msgctxt "Arkham/KEY_OPTIONS_DETAILED_TACTICAL_INFO"
+msgid "SHOW DETAILED EQUIPMENT INFO IN BATTLE"
+msgstr "POKAŻ SZCZEGÓŁY SPRZĘTU PODCZAS BITWY"
+
+msgctxt "Arkham/KEY_WEAPON_SELECTION_MAGAZINE_TOOLTIP"
+msgid "Number of Ammo magazines carried"
+msgstr "Liczba niesionych magazynków"
+
+msgctxt "Arkham/KEY_WEAPON_SELECTION_AMMO_TOOLTIP"
+msgid "Rounds remaining in weapon"
+msgstr "Liczba pozostałych pocisków w broni"
+
+msgctxt "Arkham/KEY_ITEM_STAT_SINGLE_SHOT_TOOLTIP"
+msgid "Fires a single shot with each attack"
+msgstr "Każdy atak to pojedynczy strzał"
+
+msgctxt "Arkham/KEY_ITEM_STAT_ROUND_BURST_TOOLTIP"
+msgid "Fires a burst of multiple shots with each attack"
+msgstr "Każdy atak to seria wielu strzałów"
+
+msgctxt "Arkham/KEY_ITEM_STAT_HEAL"
+msgid "HEAL"
+msgstr "LECZENIE"
+
+msgctxt "Arkham/KEY_ITEM_STAT_HEAL_TOOLTIP"
+msgid "Hit Points restored to target soldier"
+msgstr "Punkty życia przywrócone docelowemu żołnierzowi"
+
+msgctxt "Arkham/KEY_SOLDIER_HP"
+msgid "HP"
+msgstr "PŻ"
+
+msgctxt "Arkham/KEY_SOLDIER_AP"
+msgid "AP"
+msgstr "PA"
+
+msgctxt "Arkham/KEY_ROSTER_DEATH_MIND_CONTROLLED"
+msgid "MIND CONTROLLED"
+msgstr "KONTROLA NAD UMYSŁEM"
 
 msgctxt "Orryx/KEY_STATUS_PANIC_IMMUNITY_NAME"
 msgid "RECOVERED"
@@ -14479,8 +14587,8 @@ msgid "An error has occured during mission initialization! Mission restart is im
 msgstr "Podczas uruchamiania misji wystąpił błąd! Ponowne uruchomienie misji jest niemożliwe. Upewnij się, że masz na urządzeniu wystarczająco wolnej pamięci."
 
 msgctxt "Options Screen/KEY_OPTIONS_SAVE_ERROR_AUTOSAVE"
-msgid "An error has occured during Autosave! Please make sure you have enough free memory on your device."
-msgstr "Podczas autozapisu wystąpił błąd! Upewnij się, że masz na urządzeniu wystarczająco wolnej pamięci."
+msgid "An error has occured during Autosave! Please go to https://phoenixpoint.info/support and follow the instructions to fix it."
+msgstr "Podczas autozapisu wystąpił błąd! Przejdź na stronę https://phoenixpoint.info/support i postępuj zgodnie z instrukcjami, aby rozwiązać problem."
 
 msgctxt "Options Screen/KEY_OPTIONS_SAVE_ERROR_QUICKSAVE"
 msgid "An error has occured during Quicksave! Please make sure you have enough free memory on your device."
