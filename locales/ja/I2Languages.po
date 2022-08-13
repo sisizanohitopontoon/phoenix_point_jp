@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2022-08-13 12:08+0000\n"
+"PO-Revision-Date: 2022-08-13 12:13+0000\n"
 "Last-Translator: higema <ltdhyndsh@yahoo.co.jp>\n"
 "Language-Team: \n"
 "Language: ja\n"
@@ -3877,44 +3877,41 @@ msgstr "一部のMODの変更は再起動後に反映されます"
 
 msgctxt "Mods/KEY_MOD_MISSING_SAVE"
 msgid "Save is created with missing mods. Continue load?[LF]Missing mods:[LF][LF]{0}"
-msgstr ""
+msgstr "有効化されていないModを入れた状態でセーブが作成されています。ロードを続行しますか?[LF]有効化されていないMod:[LF][LF]{0}"
 
-#, fuzzy
 #| msgctxt "Abilities/KEY_MUTOG_MIND_SENSE_NAME"
 #| msgid "MIND SENSE"
 msgctxt "Mods/KEY_MOD_SETTINGS"
 msgid "MOD SETTINGS"
-msgstr "マインド・センス"
+msgstr "MODのセッティング"
 
 msgctxt "Mods/KEY_MOD_INFO_NAME"
 msgid "Name"
-msgstr ""
+msgstr "Mod名"
 
 msgctxt "Mods/KEY_MOD_INFO_VERSION"
 msgid "Version"
-msgstr ""
+msgstr "バージョン"
 
 msgctxt "Mods/KEY_MOD_INFO_AUTHOR"
 msgid "Author"
-msgstr ""
+msgstr "作者"
 
 msgctxt "Mods/KEY_MOD_INFO_MODID"
 msgid "ModID"
 msgstr ""
 
-#, fuzzy
 #| msgctxt "Options Screen/KEY_OPTIONS_LOAD_DESCRIPTION"
 #| msgid "Load"
 msgctxt "Mods/KEY_MOD_INFO_LOADER"
 msgid "Loader"
-msgstr "ロード"
+msgstr "ローダー"
 
-#, fuzzy
 #| msgctxt "DLC 3 - Behemoth/KEY_AIRCRAFT_ITEM_STAT_DURATION"
 #| msgid "Duration"
 msgctxt "Mods/KEY_MOD_INFO_DESCRIPTION"
 msgid "Description"
-msgstr "持続時間"
+msgstr "説明"
 
 #, fuzzy
 #| msgctxt "Diplomacy and Factions/KEY_FACTION_NAME_NEUTRAL"
